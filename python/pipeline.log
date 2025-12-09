@@ -1,0 +1,243 @@
+2025-11-19 18:46:22,666 - INFO - Checking for missing dependencies...
+2025-11-19 18:46:28,888 - INFO - [OK] All required packages are already installed
+2025-11-19 18:46:28,889 - INFO - Starting Enhanced CLIP Artwork Embeddings Pipeline
+2025-11-19 18:46:28,889 - INFO - Configuration:
+2025-11-19 18:46:28,889 - INFO -   Unknown handling: zero_vector
+2025-11-19 18:46:28,890 - INFO -   Visual weight: 1.0
+2025-11-19 18:46:28,890 - INFO -   Metadata weight: 0.5
+2025-11-19 18:46:28,890 - INFO - Step 0: Downloading images and metadata from Met Museum API
+2025-11-19 18:46:28,908 - INFO - Using Excel file: C:\Users\slapardhaja\OneDrive - HNTB Corporation\Desktop\CSE-6242-team009-FRESH\data\MetObjects.xlsx
+2025-11-19 18:46:28,909 - INFO - Reading data file: C:\Users\slapardhaja\OneDrive - HNTB Corporation\Desktop\CSE-6242-team009-FRESH\data\MetObjects.xlsx
+2025-11-19 18:46:28,975 - INFO - Total artworks in file: 81
+2025-11-19 18:46:28,975 - INFO - Found 0 existing records in CSV
+2025-11-19 18:46:29,739 - INFO - Successfully downloaded: 10156 - Study of a Tree
+2025-11-19 18:46:30,066 - INFO - Successfully downloaded: 73495 - Igirisu Rondon no kaiko|The Port of London England
+2025-11-19 18:46:30,316 - INFO - Successfully downloaded: 194510 - Mercury
+2025-11-19 18:46:30,609 - INFO - Successfully downloaded: 255132 - Terracotta aryballos (oil flask)
+2025-11-19 18:46:30,817 - INFO - Successfully downloaded: 205345 - Female gardener (one of a pair)
+2025-11-19 18:46:31,110 - INFO - Successfully downloaded: 15811 - Vancouver (?) (from Sketchbook)
+2025-11-19 18:46:31,401 - INFO - Successfully downloaded: 200745 - Teabowl and saucer
+2025-11-19 18:46:31,616 - INFO - Successfully downloaded: 15010 - Portrait of a Lady
+2025-11-19 18:46:31,864 - INFO - Successfully downloaded: 6022 - Cup Plate
+2025-11-19 18:46:32,351 - INFO - Successfully downloaded: 771003 - Teacup
+2025-11-19 18:46:33,000 - INFO - Successfully downloaded: 208071 - Constantin Meunier, Sculptor
+2025-11-19 18:46:35,469 - INFO - Successfully downloaded: 14876 - Scene around a Table (from Sketchbook)
+2025-11-19 18:46:35,912 - INFO - Successfully downloaded: 5903 - Benjamin Franklin
+2025-11-19 18:46:37,056 - INFO - Successfully downloaded: 702016 - Shield (Dhál)
+2025-11-19 18:46:42,316 - INFO - Successfully downloaded: 503967 - Flügel Horn with Cornet in C
+2025-11-19 18:46:42,525 - INFO - Successfully downloaded: 209390 - Saucer (part of a service)
+2025-11-19 18:46:42,791 - INFO - Successfully downloaded: 200413 - Snuffbox with portrait of a member of the French royal family, probably a daughter of Louis XV
+2025-11-19 18:46:43,244 - INFO - Successfully downloaded: 5346 - Mug
+2025-11-19 18:46:43,837 - INFO - Successfully downloaded: 3291 - Dish
+2025-11-19 18:46:44,046 - INFO - Successfully downloaded: 192139 - Teapot
+2025-11-19 18:46:44,444 - INFO - Successfully downloaded: 10140 - Quarantine, Staten Island
+2025-11-19 18:46:44,678 - INFO - Successfully downloaded: 246980 - Terracotta rhyton (vase for libations or drinking)
+2025-11-19 18:46:44,860 - INFO - Successfully downloaded: 202445 - Medal
+2025-11-19 18:46:45,162 - INFO - Successfully downloaded: 15002 - Lady
+2025-11-19 18:46:45,491 - INFO - Successfully downloaded: 203358 - Nightwatchman
+2025-11-19 18:46:49,072 - INFO - Successfully downloaded: 13044 - Daniel Strobel, Jr.
+2025-11-19 18:46:49,340 - INFO - Successfully downloaded: 472381 - The Virgin and Child in Majesty and the Adoration of the Magi
+2025-11-19 18:46:49,667 - INFO - Successfully downloaded: 501686 - Orchestral Horn
+2025-11-19 18:46:49,879 - INFO - Successfully downloaded: 187546 - In Honor of Jules Simon (French, 1814-1896)
+2025-11-19 18:46:50,272 - INFO - Successfully downloaded: 17779 - Plate
+2025-11-19 18:46:50,580 - INFO - Successfully downloaded: 200637 - Bartolommeo Colleone
+2025-11-19 18:46:50,805 - INFO - Successfully downloaded: 23048 - Pair of Flintlock Pistols
+2025-11-19 18:46:51,103 - INFO - Successfully downloaded: 40196 - ?   ??   ???   ??|Gentlemen gazing at a waterfall
+2025-11-19 18:46:51,548 - INFO - Successfully downloaded: 199583 - Coffeepot
+2025-11-19 18:46:51,862 - INFO - Successfully downloaded: 195414 - Commode (commode à vantaux)
+2025-11-19 18:46:52,071 - INFO - Successfully downloaded: 205942 - Chocolate cup and saucer with dragons and phoenixes
+2025-11-19 18:46:52,414 - INFO - Successfully downloaded: 205860 - Bagpiper
+2025-11-19 18:46:52,803 - INFO - Successfully downloaded: 54168 - nan
+2025-11-19 18:46:53,044 - INFO - Successfully downloaded: 194903 - Saucer (part of a set)
+2025-11-19 18:46:53,360 - INFO - Successfully downloaded: 207729 - Two spoons
+2025-11-19 18:46:53,681 - INFO - Successfully downloaded: 207074 - Beaker and saucer
+2025-11-19 18:46:54,056 - INFO - Successfully downloaded: 740509 - Terracotta fragment of a hydria (water jar)
+2025-11-19 18:46:54,260 - INFO - Successfully downloaded: 4713 - Lamp
+2025-11-19 18:46:54,612 - INFO - Successfully downloaded: 198825 - Mars and Venus Trapped by Vulcan
+2025-11-19 18:46:56,697 - INFO - Successfully downloaded: 15381 - Sketch of a Breaking Wave (from Sketchbook VII)
+2025-11-19 18:46:56,924 - INFO - Successfully downloaded: 193837 - Snuffbox with miniature depicting a classical subject
+2025-11-19 18:46:57,171 - INFO - Successfully downloaded: 192728 - Young Saint John the Baptist
+2025-11-19 18:46:57,492 - INFO - Successfully downloaded: 188806 - Nude bust of a boy painting (La Peinture) (one of a pair of designs for lock-plates)
+2025-11-19 18:46:57,855 - INFO - Successfully downloaded: 187565 - In honor of the history painter, Laurens
+2025-11-19 18:47:00,652 - INFO - Successfully downloaded: 16372 - Two Female Nudes; Seated Male Nude (after Michelangelo?); Three Equestrian Figures (from Sketchbook)
+2025-11-19 18:47:01,343 - INFO - Successfully downloaded: 1223 - Candlestick
+2025-11-19 18:47:01,659 - INFO - Successfully downloaded: 205636 - Marital concord (one of a pair)
+2025-11-19 18:47:01,911 - INFO - Successfully downloaded: 10019 - Worktable
+2025-11-19 18:47:02,234 - INFO - Successfully downloaded: 188859 - Portable diptych sundial
+2025-11-19 18:47:02,600 - INFO - Successfully downloaded: 14680 - Henry Clay
+2025-11-19 18:47:02,833 - INFO - Successfully downloaded: 9020 - Tumbler
+2025-11-19 18:47:03,075 - INFO - Successfully downloaded: 206288 - Angel
+2025-11-19 18:47:03,626 - INFO - Successfully downloaded: 210059 - Jean-Baptiste Isabey
+2025-11-19 18:47:07,106 - INFO - Successfully downloaded: 675757 - Cordial
+2025-11-19 18:47:07,426 - INFO - Successfully downloaded: 208391 - Teapot with cover
+2025-11-19 18:47:07,715 - INFO - Successfully downloaded: 206322 - Longcase clock
+2025-11-19 18:47:08,083 - INFO - Successfully downloaded: 203511 - Musical instruments
+2025-11-19 18:47:08,432 - INFO - Successfully downloaded: 667680 - Terracotta fragment of a kylix (drinking cup)
+2025-11-19 18:47:08,738 - INFO - Successfully downloaded: 201570 - Chessman (Bishop)
+2025-11-19 18:47:08,983 - INFO - Successfully downloaded: 205914 - Harlequin with jug
+2025-11-19 18:47:09,312 - INFO - Successfully downloaded: 209227 - Pair of doors with scenes after Angelica Kauffman
+2025-11-19 18:47:09,676 - INFO - Successfully downloaded: 8713 - Medal
+2025-11-19 18:47:09,918 - INFO - Successfully downloaded: 504281 - Glassichord
+2025-11-19 18:47:10,344 - INFO - Successfully downloaded: 258464 - Terracotta neck-amphora (jar)
+2025-11-19 18:47:10,586 - INFO - Successfully downloaded: 207714 - Crozier head
+2025-11-19 18:47:10,868 - INFO - Successfully downloaded: 13412 - Study for "The Tribute Money"
+2025-11-19 18:47:11,787 - INFO - Successfully downloaded: 458997 - Madonna and Child with Saints Mary Magdalen and Sebastian
+2025-11-19 18:47:12,138 - INFO - Successfully downloaded: 244830 - Oinochoe
+2025-11-19 18:47:12,366 - INFO - Successfully downloaded: 8464 - Tea Spoon
+2025-11-19 18:47:12,654 - INFO - Successfully downloaded: 194313 - Plateau
+2025-11-19 18:47:13,016 - INFO - Successfully downloaded: 209332 - Figure of a Nereid
+2025-11-19 18:47:13,335 - INFO - Successfully downloaded: 195615 - Watch
+2025-11-19 18:47:13,625 - INFO - Successfully downloaded: 209042 - Teapot (théière Asselin), part of Breakfast Service (déjeuner)
+2025-11-19 18:47:13,875 - INFO - Successfully downloaded: 199600 - Figure of a standing man
+2025-11-19 18:47:14,206 - INFO - Successfully downloaded: 230965 - Robert Barker (1739–1806)
+2025-11-19 18:47:14,522 - INFO - Successfully downloaded: 193368 - Repeating watch
+2025-11-19 18:47:14,646 - INFO - Appended 81 rows to C:\Users\slapardhaja\OneDrive - HNTB Corporation\Desktop\CSE-6242-team009-FRESH\metadata\artwork_metadata.csv
+2025-11-19 18:47:14,648 - INFO - ============================================================
+2025-11-19 18:47:14,649 - INFO - DOWNLOAD SUMMARY
+2025-11-19 18:47:14,650 - INFO - ============================================================
+2025-11-19 18:47:14,650 - INFO - Total artworks processed: 81
+2025-11-19 18:47:14,651 - INFO - Successfully downloaded: 81
+2025-11-19 18:47:14,651 - INFO - Skipped (no image): 0
+2025-11-19 18:47:14,652 - INFO - Skipped (duplicate image): 0
+2025-11-19 18:47:14,653 - INFO - Skipped (already in CSV): 0
+2025-11-19 18:47:14,653 - INFO - Errors: 0
+2025-11-19 18:47:14,653 - INFO - ============================================================
+2025-11-19 18:47:14,655 - INFO - Starting thumbnail generation...
+2025-11-19 18:47:20,539 - INFO - Thumbnail generation finished.
+2025-11-19 18:47:20,540 - INFO - Images and metadata downloaded successfully
+2025-11-19 18:47:20,542 - INFO - Step 1: Generating CLIP embeddings
+2025-11-19 18:47:20,557 - INFO - Loading CLIP model: ViT-B-32 with laion2b_s34b_b79k
+2025-11-19 18:47:20,558 - INFO - Parsing model identifier. Schema: None, Identifier: ViT-B-32
+2025-11-19 18:47:20,559 - INFO - Loaded built-in ViT-B-32 model config.
+2025-11-19 18:47:20,837 - WARNING - Xet Storage is enabled for this repo, but the 'hf_xet' package is not installed. Falling back to regular HTTP download. For better performance, install the package with: `pip install huggingface_hub[hf_xet]` or `pip install hf_xet`
+2025-11-19 18:47:26,718 - INFO - Instantiating model architecture: CLIP
+2025-11-19 18:47:27,924 - INFO - Loading full pretrained weights from: C:\Users\slapardhaja\.cache\huggingface\hub\models--laion--CLIP-ViT-B-32-laion2B-s34B-b79K\snapshots\1a25a446712ba5ee05982a381eed697ef9b435cf\open_clip_model.safetensors
+2025-11-19 18:47:28,160 - INFO - Final image preprocessing configuration set: {'size': (224, 224), 'mode': 'RGB', 'mean': (0.48145466, 0.4578275, 0.40821073), 'std': (0.26862954, 0.26130258, 0.27577711), 'interpolation': 'bicubic', 'resize_mode': 'shortest', 'fill_color': 0}
+2025-11-19 18:47:28,160 - INFO - Model ViT-B-32 creation process complete.
+2025-11-19 18:47:28,167 - INFO - Model loaded on device: cpu
+2025-11-19 18:47:28,169 - INFO - Found 81 images
+2025-11-19 18:47:35,732 - INFO - Generated 81 embeddings
+2025-11-19 18:47:35,732 - INFO - Embedding dimension: 512
+2025-11-19 18:47:35,732 - INFO - Saved to ..\embeddings
+2025-11-19 18:47:35,736 - INFO - CLIP embeddings generated successfully
+2025-11-19 18:47:35,737 - INFO - Step 2: Processing metadata features
+2025-11-19 18:47:35,800 - INFO - Processing metadata with unknown strategy: zero_vector
+2025-11-19 18:47:35,800 - INFO - Loading metadata from ..\metadata\artwork_metadata.csv
+2025-11-19 18:47:35,808 - INFO - Loaded 81 records
+2025-11-19 18:47:35,814 - INFO - Extracting categorical features
+2025-11-19 18:47:35,816 - INFO - Encoded Artist Display Name: 75 features, 0 missing values
+2025-11-19 18:47:35,818 - INFO - Encoded Medium: 56 features, 0 missing values
+2025-11-19 18:47:35,821 - INFO - Encoded Department: 8 features, 0 missing values
+2025-11-19 18:47:35,821 - INFO - Encoded Country: 8 features, 66 missing values
+2025-11-19 18:47:35,822 - INFO - Encoded Period: 6 features, 72 missing values
+2025-11-19 18:47:35,823 - INFO - Encoded Culture: 42 features, 0 missing values
+2025-11-19 18:47:35,823 - INFO - Extracting numerical features
+2025-11-19 18:47:35,825 - INFO - Normalized Object Begin Date
+2025-11-19 18:47:35,827 - INFO - Normalized Object End Date
+2025-11-19 18:47:35,829 - INFO - Normalized AccessionYear
+2025-11-19 18:47:35,829 - INFO - Added missing indicator: Object Begin Date_missing
+2025-11-19 18:47:35,829 - INFO - Added missing indicator: Object End Date_missing
+2025-11-19 18:47:35,830 - INFO - Added missing indicator: AccessionYear_missing
+2025-11-19 18:47:35,830 - INFO - Extracting text features
+2025-11-19 18:47:35,833 - INFO - Extracted 50 TF-IDF features
+2025-11-19 18:47:35,834 - INFO - Combining all features
+2025-11-19 18:47:35,834 - INFO - Combined features shape: (81, 251)
+2025-11-19 18:47:35,834 - INFO - Total feature names: 247
+2025-11-19 18:47:35,834 - INFO - Validating zero vectors for unknown values
+2025-11-19 18:47:35,836 - INFO - [OK] Zero vector validation passed
+2025-11-19 18:47:35,836 - INFO - Saving processed features
+2025-11-19 18:47:35,840 - INFO - Average metadata completeness: 71.60%
+2025-11-19 18:47:35,841 - INFO - Saved features to ..\embeddings
+2025-11-19 18:47:35,841 - INFO - Feature breakdown: {'categorical': 194, 'numerical': 3, 'text': 50}
+2025-11-19 18:47:35,842 - INFO - Metadata features processed successfully
+2025-11-19 18:47:35,842 - INFO - Step 3: Combining CLIP and metadata features
+2025-11-19 18:47:35,845 - INFO - Loading CLIP embeddings
+2025-11-19 18:47:35,846 - INFO - Loaded CLIP embeddings: (81, 512)
+2025-11-19 18:47:35,846 - INFO - Loaded object IDs: 81
+2025-11-19 18:47:35,846 - INFO - Loading metadata features
+2025-11-19 18:47:35,847 - INFO - Loaded metadata features: (81, 251)
+2025-11-19 18:47:35,847 - INFO - Feature names: 247
+2025-11-19 18:47:35,847 - INFO - Loading metadata completeness scores
+2025-11-19 18:47:35,851 - INFO - Creating object ID to index mapping
+2025-11-19 18:47:35,852 - INFO - Found 81 objects with both CLIP and metadata
+2025-11-19 18:47:35,852 - INFO - Combining CLIP embeddings with metadata features
+2025-11-19 18:47:35,852 - INFO - Using weights - Visual: 1.0, Metadata: 0.5
+2025-11-19 18:47:35,852 - INFO - Combined embeddings shape: (81, 763)
+2025-11-19 18:47:35,853 - INFO - Average metadata completeness: 71.60%
+2025-11-19 18:47:35,853 - INFO - Normalizing embeddings for cosine similarity
+2025-11-19 18:47:35,853 - INFO - Embeddings normalized
+2025-11-19 18:47:35,853 - INFO - Saving combined features
+2025-11-19 18:47:35,859 - INFO - Saved combined features to ..\embeddings
+2025-11-19 18:47:35,859 - INFO - Combination metadata: {'total_embeddings': 81, 'embedding_dimension': 763, 'clip_dimension': 512, 'metadata_dimension': 247, 'feature_breakdown': {'clip_features': 512, 'metadata_features': 247}, 'weights': {'visual_weight': 1.0, 'metadata_weight': 0.5}, 'normalization': 'L2', 'combination_method': 'weighted_concatenation'}
+2025-11-19 18:47:35,859 - INFO - Features combined successfully
+2025-11-19 18:47:35,859 - INFO - Step 4: Generating enhanced similarities
+2025-11-19 18:47:35,859 - INFO - Generating similarities with args: --mode combined --top-k 5
+2025-11-19 18:47:39,067 - INFO - Successfully generated similarities for: --mode combined --top-k 5
+2025-11-19 18:47:39,067 - INFO - Generating similarities with args: --mode combined --exclude-same-artist --top-k 5 --output-suffix cross_artist
+2025-11-19 18:47:42,475 - INFO - Successfully generated similarities for: --mode combined --exclude-same-artist --top-k 5 --output-suffix cross_artist
+2025-11-19 18:47:42,475 - INFO - Step 5: Adding metadata to similarity results
+2025-11-19 18:47:42,478 - INFO - Loading summary file: C:\Users\slapardhaja\OneDrive - HNTB Corporation\Desktop\CSE-6242-team009-FRESH\embeddings\summary_cross_artist.csv
+2025-11-19 18:47:42,480 - INFO - Loading MetObjects file: C:\Users\slapardhaja\OneDrive - HNTB Corporation\Desktop\CSE-6242-team009-FRESH\data\MetObjects.xlsx
+2025-11-19 18:47:42,516 - INFO - Merging metadata for query objects...
+2025-11-19 18:47:42,521 - INFO - Merging metadata for similar objects...
+2025-11-19 18:47:42,523 - INFO - Converting column names to snake_case...
+2025-11-19 18:47:42,524 - INFO - Saving output to: C:\Users\slapardhaja\OneDrive - HNTB Corporation\Desktop\CSE-6242-team009-FRESH\embeddings\summary_cross_artist_with_metadata.csv
+2025-11-19 18:47:42,536 - INFO - Metadata added successfully
+2025-11-19 18:47:42,537 - INFO - Metadata added successfully
+2025-11-19 18:47:42,537 - INFO - ======================================================================
+2025-11-19 18:47:42,537 - INFO - [OK] Pipeline completed successfully!
+2025-11-19 18:47:42,537 - INFO - ======================================================================
+2025-11-19 18:47:42,538 - INFO - Enhanced similarity system is ready with zero-vector unknown handling!
+2025-11-19 18:47:42,538 - INFO - 
+2025-11-19 18:47:42,538 - INFO - Key improvements:
+2025-11-19 18:47:42,538 - INFO -   [OK] Unknown values no longer create false similarities
+2025-11-19 18:47:42,538 - INFO -   [OK] Adaptive weighting based on metadata completeness
+2025-11-19 18:47:42,538 - INFO -   [OK] Configurable visual/metadata balance
+2025-11-19 18:47:42,538 - INFO - 
+2025-11-19 18:47:42,538 - INFO - Generated similarity files:
+2025-11-19 18:47:42,539 - INFO -   - summary_combined.csv (CLIP + metadata similarities)
+2025-11-19 18:47:42,539 - INFO -   - summary_cross_artist.csv (combined mode, excluding same artist)
+2025-11-19 18:47:42,539 - INFO - 
+2025-11-19 18:47:42,539 - INFO - Files saved in ../embeddings/ directory
+2025-11-19 18:47:42,539 - INFO - 
+2025-11-19 18:47:42,539 - INFO - ======================================================================
+2025-11-19 18:47:42,539 - INFO - Starting local HTTP server on port 5500...
+2025-11-19 18:47:42,539 - INFO - Server will be available at: http://localhost:5500
+2025-11-19 18:47:42,539 - INFO - Press Ctrl+C to stop the server
+2025-11-19 18:47:42,540 - INFO - ======================================================================
+2025-12-09 15:42:00,320 - INFO - Checking for missing dependencies...
+2025-12-09 15:42:19,596 - INFO - [OK] All required packages are already installed
+2025-12-09 15:42:19,596 - INFO - Starting Enhanced CLIP Artwork Embeddings Pipeline
+2025-12-09 15:42:19,597 - INFO - Configuration:
+2025-12-09 15:42:19,597 - INFO -   Unknown handling: zero_vector
+2025-12-09 15:42:19,598 - INFO -   Visual weight: 1.0
+2025-12-09 15:42:19,598 - INFO -   Metadata weight: 0.5
+2025-12-09 15:42:19,632 - INFO - Step 0: Images and metadata already exist, skipping download
+2025-12-09 15:42:19,632 - INFO - Step 1: Generating CLIP embeddings
+2025-12-09 15:42:19,640 - INFO - Loading CLIP model: ViT-B-32 with laion2b_s34b_b79k
+2025-12-09 15:42:19,640 - INFO - Parsing model identifier. Schema: None, Identifier: ViT-B-32
+2025-12-09 15:42:19,641 - INFO - Loaded built-in ViT-B-32 model config.
+2025-12-09 15:42:19,855 - INFO - Instantiating model architecture: CLIP
+2025-12-09 15:42:21,610 - INFO - Loading full pretrained weights from: C:\Users\slapardhaja\.cache\huggingface\hub\models--laion--CLIP-ViT-B-32-laion2B-s34B-b79K\snapshots\1a25a446712ba5ee05982a381eed697ef9b435cf\open_clip_model.safetensors
+2025-12-09 15:42:22,048 - INFO - Final image preprocessing configuration set: {'size': (224, 224), 'mode': 'RGB', 'mean': (0.48145466, 0.4578275, 0.40821073), 'std': (0.26862954, 0.26130258, 0.27577711), 'interpolation': 'bicubic', 'resize_mode': 'shortest', 'fill_color': 0}
+2025-12-09 15:42:22,049 - INFO - Model ViT-B-32 creation process complete.
+2025-12-09 15:42:22,053 - INFO - Model loaded on device: cpu
+2025-12-09 15:42:22,106 - INFO - Found 8710 images
+2025-12-09 15:55:00,442 - INFO - Checking for missing dependencies...
+2025-12-09 15:55:23,630 - INFO - [OK] All required packages are already installed
+2025-12-09 15:55:23,630 - INFO - Starting Enhanced CLIP Artwork Embeddings Pipeline
+2025-12-09 15:55:23,631 - INFO - Configuration:
+2025-12-09 15:55:23,631 - INFO -   Unknown handling: zero_vector
+2025-12-09 15:55:23,632 - INFO -   Visual weight: 1.0
+2025-12-09 15:55:23,632 - INFO -   Metadata weight: 0.5
+2025-12-09 15:55:23,663 - INFO - Step 0: Images and metadata already exist, skipping download
+2025-12-09 15:55:23,664 - INFO - Step 1: Generating CLIP embeddings
+2025-12-09 15:55:23,666 - INFO - Loading CLIP model: ViT-B-32 with laion2b_s34b_b79k
+2025-12-09 15:55:23,666 - INFO - Parsing model identifier. Schema: None, Identifier: ViT-B-32
+2025-12-09 15:55:23,667 - INFO - Loaded built-in ViT-B-32 model config.
+2025-12-09 15:55:23,919 - INFO - Instantiating model architecture: CLIP
+2025-12-09 15:55:25,126 - INFO - Loading full pretrained weights from: C:\Users\slapardhaja\.cache\huggingface\hub\models--laion--CLIP-ViT-B-32-laion2B-s34B-b79K\snapshots\1a25a446712ba5ee05982a381eed697ef9b435cf\open_clip_model.safetensors
+2025-12-09 15:55:25,561 - INFO - Final image preprocessing configuration set: {'size': (224, 224), 'mode': 'RGB', 'mean': (0.48145466, 0.4578275, 0.40821073), 'std': (0.26862954, 0.26130258, 0.27577711), 'interpolation': 'bicubic', 'resize_mode': 'shortest', 'fill_color': 0}
+2025-12-09 15:55:25,562 - INFO - Model ViT-B-32 creation process complete.
+2025-12-09 15:55:25,565 - INFO - Model loaded on device: cpu
+2025-12-09 15:55:25,605 - INFO - Found 8710 images

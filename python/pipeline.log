@@ -241,3 +241,110 @@
 2025-12-09 15:55:25,562 - INFO - Model ViT-B-32 creation process complete.
 2025-12-09 15:55:25,565 - INFO - Model loaded on device: cpu
 2025-12-09 15:55:25,605 - INFO - Found 8710 images
+2025-12-09 16:21:22,393 - INFO - Checking for missing dependencies...
+2025-12-09 16:21:42,557 - INFO - [OK] All required packages are already installed
+2025-12-09 16:21:42,557 - INFO - Starting Enhanced CLIP Artwork Embeddings Pipeline
+2025-12-09 16:21:42,558 - INFO - Configuration:
+2025-12-09 16:21:42,558 - INFO -   Unknown handling: zero_vector
+2025-12-09 16:21:42,558 - INFO -   Visual weight: 1.0
+2025-12-09 16:21:42,559 - INFO -   Metadata weight: 0.5
+2025-12-09 16:21:42,592 - INFO - Step 0: Images and metadata already exist, skipping download
+2025-12-09 16:21:42,593 - INFO - Step 1: Generating CLIP embeddings
+2025-12-09 16:21:42,606 - INFO - Loading CLIP model: ViT-B-32 with laion2b_s34b_b79k
+2025-12-09 16:21:42,607 - INFO - Parsing model identifier. Schema: None, Identifier: ViT-B-32
+2025-12-09 16:21:42,608 - INFO - Loaded built-in ViT-B-32 model config.
+2025-12-09 16:21:42,934 - INFO - Instantiating model architecture: CLIP
+2025-12-09 16:21:43,971 - INFO - Loading full pretrained weights from: C:\Users\slapardhaja\.cache\huggingface\hub\models--laion--CLIP-ViT-B-32-laion2B-s34B-b79K\snapshots\1a25a446712ba5ee05982a381eed697ef9b435cf\open_clip_model.safetensors
+2025-12-09 16:21:44,423 - INFO - Final image preprocessing configuration set: {'size': (224, 224), 'mode': 'RGB', 'mean': (0.48145466, 0.4578275, 0.40821073), 'std': (0.26862954, 0.26130258, 0.27577711), 'interpolation': 'bicubic', 'resize_mode': 'shortest', 'fill_color': 0}
+2025-12-09 16:21:44,424 - INFO - Model ViT-B-32 creation process complete.
+2025-12-09 16:21:44,426 - INFO - Model loaded on device: cpu
+2025-12-09 16:21:44,468 - INFO - Found 8710 images
+2025-12-09 16:39:52,687 - INFO - Generated 8710 embeddings
+2025-12-09 16:39:52,688 - INFO - Embedding dimension: 512
+2025-12-09 16:39:52,689 - INFO - Saved to ..\embeddings
+2025-12-09 16:39:52,733 - INFO - CLIP embeddings generated successfully
+2025-12-09 16:39:52,734 - INFO - Step 2: Processing metadata features
+2025-12-09 16:39:52,897 - INFO - Processing metadata with unknown strategy: zero_vector
+2025-12-09 16:39:52,897 - INFO - Loading metadata from ..\metadata\artwork_metadata.csv
+2025-12-09 16:39:53,088 - INFO - Loaded 8870 records
+2025-12-09 16:39:53,124 - INFO - Extracting categorical features
+2025-12-09 16:39:53,266 - INFO - Encoded Artist Display Name: 2031 features, 4286 missing values
+2025-12-09 16:39:53,465 - INFO - Encoded Medium: 2190 features, 4 missing values
+2025-12-09 16:39:53,469 - INFO - Encoded Department: 17 features, 0 missing values
+2025-12-09 16:39:53,475 - INFO - Encoded Country: 188 features, 6930 missing values
+2025-12-09 16:39:53,479 - INFO - Encoded Period: 157 features, 7867 missing values
+2025-12-09 16:39:53,512 - INFO - Encoded Culture: 765 features, 3316 missing values
+2025-12-09 16:39:53,513 - INFO - Extracting numerical features
+2025-12-09 16:39:53,520 - INFO - Normalized Object Begin Date
+2025-12-09 16:39:53,524 - INFO - Normalized Object End Date
+2025-12-09 16:39:53,527 - INFO - Normalized AccessionYear
+2025-12-09 16:39:53,529 - INFO - Added missing indicator: Object Begin Date_missing
+2025-12-09 16:39:53,530 - INFO - Added missing indicator: Object End Date_missing
+2025-12-09 16:39:53,531 - INFO - Added missing indicator: AccessionYear_missing
+2025-12-09 16:39:53,531 - INFO - Extracting text features
+2025-12-09 16:39:53,642 - INFO - Extracted 100 TF-IDF features
+2025-12-09 16:39:53,642 - INFO - Combining all features
+2025-12-09 16:39:53,917 - INFO - Combined features shape: (8870, 5454)
+2025-12-09 16:39:53,918 - INFO - Total feature names: 5449
+2025-12-09 16:39:53,918 - INFO - Validating zero vectors for unknown values
+2025-12-09 16:39:53,939 - INFO - [OK] Zero vector validation passed
+2025-12-09 16:39:53,939 - INFO - Saving processed features
+2025-12-09 16:39:54,365 - INFO - Average metadata completeness: 57.90%
+2025-12-09 16:39:54,368 - INFO - Saved features to ..\embeddings
+2025-12-09 16:39:54,368 - INFO - Feature breakdown: {'categorical': 5346, 'numerical': 3, 'text': 100}
+2025-12-09 16:39:54,456 - INFO - Metadata features processed successfully
+2025-12-09 16:39:54,457 - INFO - Step 3: Combining CLIP and metadata features
+2025-12-09 16:39:54,464 - INFO - Loading CLIP embeddings
+2025-12-09 16:39:54,473 - INFO - Loaded CLIP embeddings: (8710, 512)
+2025-12-09 16:39:54,474 - INFO - Loaded object IDs: 8710
+2025-12-09 16:39:54,475 - INFO - Loading metadata features
+2025-12-09 16:39:54,675 - INFO - Loaded metadata features: (8870, 5454)
+2025-12-09 16:39:54,675 - INFO - Feature names: 5449
+2025-12-09 16:39:54,676 - INFO - Loading metadata completeness scores
+2025-12-09 16:39:54,759 - INFO - Creating object ID to index mapping
+2025-12-09 16:39:54,765 - INFO - Found 8710 objects with both CLIP and metadata
+2025-12-09 16:39:54,765 - INFO - Combining CLIP embeddings with metadata features
+2025-12-09 16:39:54,766 - INFO - Using weights - Visual: 1.0, Metadata: 0.5
+2025-12-09 16:39:55,348 - INFO - Combined embeddings shape: (8710, 5966)
+2025-12-09 16:39:55,350 - INFO - Average metadata completeness: 57.92%
+2025-12-09 16:39:55,351 - INFO - Normalizing embeddings for cosine similarity
+2025-12-09 16:39:55,618 - INFO - Embeddings normalized
+2025-12-09 16:39:55,619 - INFO - Saving combined features
+2025-12-09 16:39:56,000 - INFO - Saved combined features to ..\embeddings
+2025-12-09 16:39:56,000 - INFO - Combination metadata: {'total_embeddings': 8710, 'embedding_dimension': 5966, 'clip_dimension': 512, 'metadata_dimension': 5449, 'feature_breakdown': {'clip_features': 512, 'metadata_features': 5449}, 'weights': {'visual_weight': 1.0, 'metadata_weight': 0.5}, 'normalization': 'L2', 'combination_method': 'weighted_concatenation'}
+2025-12-09 16:39:56,107 - INFO - Features combined successfully
+2025-12-09 16:39:56,107 - INFO - Step 4: Generating enhanced similarities
+2025-12-09 16:39:56,108 - INFO - Generating similarities with args: --mode combined --top-k 5
+2025-12-09 16:40:08,855 - INFO - Successfully generated similarities for: --mode combined --top-k 5
+2025-12-09 16:40:08,856 - INFO - Generating similarities with args: --mode combined --exclude-same-artist --top-k 5 --output-suffix cross_artist
+2025-12-09 16:40:31,166 - INFO - Successfully generated similarities for: --mode combined --exclude-same-artist --top-k 5 --output-suffix cross_artist
+2025-12-09 16:40:31,167 - INFO - Step 5: Adding metadata to similarity results
+2025-12-09 16:40:31,175 - INFO - Loading summary file: C:\Users\slapardhaja\OneDrive - HNTB Corporation\Desktop\Visualizing Art\embeddings\summary_cross_artist.csv
+2025-12-09 16:40:31,365 - INFO - Loading MetObjects file: C:\Users\slapardhaja\OneDrive - HNTB Corporation\Desktop\Visualizing Art\data\MetObjects.xlsx
+2025-12-09 16:40:31,463 - INFO - Merging metadata for query objects...
+2025-12-09 16:40:31,510 - INFO - Merging metadata for similar objects...
+2025-12-09 16:40:31,583 - INFO - Converting column names to snake_case...
+2025-12-09 16:40:31,586 - INFO - Saving output to: C:\Users\slapardhaja\OneDrive - HNTB Corporation\Desktop\Visualizing Art\embeddings\summary_cross_artist_with_metadata.csv
+2025-12-09 16:40:32,550 - INFO - Metadata added successfully
+2025-12-09 16:40:32,561 - INFO - Metadata added successfully
+2025-12-09 16:40:32,563 - INFO - ======================================================================
+2025-12-09 16:40:32,565 - INFO - [OK] Pipeline completed successfully!
+2025-12-09 16:40:32,566 - INFO - ======================================================================
+2025-12-09 16:40:32,567 - INFO - Enhanced similarity system is ready with zero-vector unknown handling!
+2025-12-09 16:40:32,569 - INFO - 
+2025-12-09 16:40:32,570 - INFO - Key improvements:
+2025-12-09 16:40:32,571 - INFO -   [OK] Unknown values no longer create false similarities
+2025-12-09 16:40:32,572 - INFO -   [OK] Adaptive weighting based on metadata completeness
+2025-12-09 16:40:32,574 - INFO -   [OK] Configurable visual/metadata balance
+2025-12-09 16:40:32,576 - INFO - 
+2025-12-09 16:40:32,577 - INFO - Generated similarity files:
+2025-12-09 16:40:32,579 - INFO -   - summary_combined.csv (CLIP + metadata similarities)
+2025-12-09 16:40:32,580 - INFO -   - summary_cross_artist.csv (combined mode, excluding same artist)
+2025-12-09 16:40:32,581 - INFO - 
+2025-12-09 16:40:32,582 - INFO - Files saved in ../embeddings/ directory
+2025-12-09 16:40:32,583 - INFO - 
+2025-12-09 16:40:32,585 - INFO - ======================================================================
+2025-12-09 16:40:32,586 - INFO - Starting local HTTP server on port 5500...
+2025-12-09 16:40:32,588 - INFO - Server will be available at: http://localhost:5500
+2025-12-09 16:40:32,590 - INFO - Press Ctrl+C to stop the server
+2025-12-09 16:40:32,591 - INFO - ======================================================================

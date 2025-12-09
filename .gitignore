@@ -1,0 +1,14 @@
+.git/
+.idea/
+.DS*
+
+# Large data files
+images/
+thumbnails/
+metadata/
+embeddings/
+*.log
+download_log.txt
+data/*.xlsx
+__pycache__/
+*.pyc

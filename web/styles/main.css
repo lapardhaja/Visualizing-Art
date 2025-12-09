@@ -1,0 +1,66 @@
+/* Setting up some colors to use across our website */
+:root{
+    --bg0: #0b1b3a;
+    --bg1: #000000;
+    --ink: #e6e8ef;
+    --muted: #b8c0d9;
+    --accent: #ff7a1a;
+    --card: #0f1220;
+    --border: #1c2340;
+}
+
+* { box-sizing: border-box; }
+html, body { min-height: 100%; }
+body {
+    margin: 0;
+    color: var(--ink);
+    background: linear-gradient(180deg, var(--bg0) 0%, var(--bg1) 100%);
+    font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, "Helvetica Neue", Arial, "Noto Sans", "Apple Color Emoji", "Segoe UI Emoji";
+}
+
+/* Keeping the site header, so menu options are visible while scrolling */
+.site-header{
+    position: sticky; top: 0;
+    display: flex; justify-content: flex-end; align-items: center;
+    gap: 1rem;
+    padding: 0.75rem 1rem;
+    background: rgba(0,0,0,.35);
+    backdrop-filter: blur(4px);
+    border-bottom: 1px solid var(--border);
+}
+.nav { display:flex; gap: 1.25rem; }
+.nav a{
+    color: var(--ink);
+    text-decoration: none;
+    font-weight: 600;
+}
+.nav a[aria-current="page"] { text-decoration: underline; }
+.menu-toggle{ display:none; border:0; background:#0000; color:var(--ink); font-size:1.2rem }
+
+/* Setting up title */
+.hero-title{
+    font-size: clamp(3rem, 9vw, 6rem);
+    margin: 0 0 .5rem;
+    font-weight: 900;
+    line-height: 1.05;
+}
+.hero .accent{ color: var(--accent); }
+.tagline{
+    color: var(--muted);
+    font-size: clamp(1rem, 2.2vw, 1.4rem);
+    margin: 0 auto;
+}
+.tagline.narrow{
+    max-width: 48ch;
+}
+
+/* Setting up the main content pages */
+.content{
+    max-width: 1000px;
+    margin: 2rem auto 4rem;
+    padding: 0 1rem;
+}
+.page-title{
+    margin: 1rem 0 1.5rem;
+    font-size: clamp(1.8rem, 4.5vw, 3rem);
+}

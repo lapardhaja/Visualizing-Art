@@ -1,0 +1,103 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>About - Visualizing Art</title>
+    <link rel="stylesheet" href="../styles/main.css" />
+</head>
+<body>
+<!-- top navigation only -->
+<header class="site-header">
+    <nav class="nav">
+        <a href="../../index.html">Home</a>
+        <a href="about.html" aria-current="page">About</a>
+        <a href="connections.html">Art Connections</a>
+        <a href="filters.html">Art Filters</a>
+    </nav>
+    <button class="menu-toggle" aria-label="Open menu" aria-expanded="false">☰</button>
+</header>
+
+<main class="content">
+    <h1 class="page-title">Hello and welcome to Team 9's Project – Visualizing Art!</h1>
+    
+    <h2>Our Goal</h2>
+    <p>
+        The goal of our project is to represent artwork from the Metropolitan Museum of Art in a fun and dynamic way that will highlight hidden connections between art pieces.
+    </p>
+    
+    <h2>The MET</h2>
+    <p>
+        According to Wikipedia: "The Metropolitan Museum of Art, colloquially referred to as the Met, is an encyclopedic art museum in New York City. By the floor area, it is the fourth-largest museum in the world and the largest art museum in the Americas. With 5.727,258 million visitors in 2024, it is the most-visited museum in the United States and the fourth-most visited art museum in the world." [from Wikipedia]
+    </p>
+    <p>
+        Although the Met has their own website which can be found here, we found the user interface to be limited and clunky. Artworks remain static and alone. We wanted to use what we had learned in CSE6242 to represent art in a unique way while highlighting hidden connections.
+    </p>
+    
+    <h2>The MET Open Access Dataset</h2>
+    <p>
+        The data we used for our project came from the Metropolitan Museum of Art Open Access CSV, which can be found here. This dataset provides information and metadata on over 470,000 pieces of art. The images were downloaded separately using the Met Collection API. We downloaded as many images as we could and decided to work on a smaller subset of just under 9000 images. Our goal was to use the visual information from the images and the information from the image metadata to identify hidden connections between artworks.
+    </p>
+    
+    <h2>Visual Analysis</h2>
+    <p>
+        First, we made use of the Contrastive Language-Image Pre-Training (CLIP) model made by Open AI. CLIP is a neural network model that can extract visual features from images of the art from the MET and encode those features as vector embeddings with up to 512 dimensions. Think of a vector embedding as a list of 512 values, each of which represents a different visual element such as style and composition. Given two vectors, one can use cosine similarity to determine how similar they are. Cosine similarity is a metric used to measure how similar two vectors are, regardless of their magnitude. It calculates the cosine of the angle between two vectors in a multi-dimensional space (in our case 512 dimensions). Below are some visual examples of how cosine similarity can be calculated for 2 and 3 dimensions. The cosine similarity equation will return values between -1 and 1 where -1 indicates vectors pointing in opposite directions, 0 means vectors are perpendicular to each other, and 1 indicates they point in the same direction (are perfectly similar).
+    </p>
+    
+    <img src="../graphs/2d_cosine_sim.png" alt="2D cosine similarity visualization" style="max-width: 100%; height: auto; margin: 20px 0;">
+    
+    <img src="../graphs/3d_cosine_sim.png" alt="3D cosine similarity visualization" style="max-width: 100%; height: auto; margin: 20px 0;">
+    
+    <h2>Metadata Analysis</h2>
+    <p>
+        To further our analysis of similarity, we wanted to implement the wealth of metadata in the MET dataset. Metadata can be thought of as categories such as "Artist Name", or "Artwork Medium". Since we were dealing with many categories, we decided to implement a system called one hot encoding. One-hot encoding is a process used to convert categorical variables into a numerical format that machine learning algorithms can understand. It creates a new binary column of ones and zeros for each unique category present in the dataset, where a '1' in a column indicates the presence of that category, and a '0' indicates its absence. Once we make this vector of 1's and 0's, we can use a cosine similarity in the same way we did for the visual embeddings to determine how similar art pieces are based on their metadata.
+    </p>
+    
+    <h2>The Final Step</h2>
+    <p>
+        The final step is to combine the vectors from the visual CLIP embeddings and the one hot encoding embeddings to make one large vector for each piece of art. With this vector we can calculate the average cosine similarity score for each piece of art against all the other pieces of art. A high average score means: This piece of art is, on average, very similar to most of the other art in the collection.
+    </p>
+    
+    <h2>Interactive Visualization</h2>
+    <p>
+        Finally, we represented these similarities using a network graph which you can find on this website. Each node represents a piece of art, and each line represents similar art pieces based on the average similarity scores we calculated.
+    </p>
+    <p>
+        We hope you find new and interesting connections on your art journey through the Met!
+    </p>
+    
+    <h1>Dataset Statistics</h1>
+    <p>
+        If you are curious to learn more about the subset of data we used from the MET Open access dataset, you can view some statistics below:
+    </p>
+    
+    <ul>
+        <li><strong>Total Number of Artworks:</strong> 8710 images</li>
+    </ul>
+    
+    <h3>Artworks By Category</h3>
+    <ul>
+        <li>Paintings: 4470</li>
+        <li>Ceramics: 400</li>
+        <li>Enamels: 400</li>
+        <li>Fans: 400</li>
+        <li>Gems: 400</li>
+        <li>Glass: 400</li>
+        <li>Idiophone: 400</li>
+        <li>Ivory: 400</li>
+        <li>Jewelry: 400</li>
+        <li>Metalwork: 400</li>
+        <li>Sculptures: 400</li>
+        <li>Woodwork: 400</li>
+    </ul>
+    
+    <ul>
+        <li><strong>Total Image Storage of Dataset:</strong> 14.0 Gb</li>
+        <li><strong>Total Metadata Storage of Dataset:</strong> 30.7 Mb</li>
+        <li><strong>Total Hours to download all images:</strong> 24 hours</li>
+    </ul>
+</main>
+
+<script src="../scripts/main.js" defer></script>
+</body>
+</html>

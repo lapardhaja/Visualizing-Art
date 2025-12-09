@@ -1,0 +1,256 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Visualizing Art</title>
+    <link rel="stylesheet" href="web/styles/main.css" />
+
+    <style>
+        /* Placing our title / text in a nice centered area */
+        .hero{
+            position: relative;
+            min-height: 75vh;
+            display: grid;
+            place-items: center;
+        }
+        /* Creating a wrapper for the title / text */
+        .hero-inner{
+            position: relative;
+            z-index: 2;
+            text-align: center;
+        }
+        /* Adjusting the spacing between the title and the text */
+        .hero-title{ margin-bottom: 2rem; }
+
+        /* Setting up our images fading in and out of the background */
+        .hero-art{
+            position: absolute;
+            inset: 0;
+            z-index: 1;
+            overflow: hidden;
+        }
+        /* Setting up a good looking style for the images */
+        .float-thumb{
+            position: absolute;
+            object-fit: contain;
+            padding: 4px;
+            opacity: 0;
+            transform: translate(-50%, -50%) scale(.98);
+            transition: opacity .25s ease, transform .25s ease;
+        }
+        /* Used to fade the image into the page */
+        .float-thumb.show{
+            opacity: .92;
+            transform: translate(-50%, -50%) scale(1);
+        }
+    </style>
+</head>
+
+<body>
+<!-- Menu at the top of the website -->
+<header class="site-header">
+    <nav class="nav">
+        <a href="index.html" aria-current="page">Home</a>
+        <a href="web/pages/about.html">About</a>
+        <a href="web/pages/connections.html">Art Connections</a>
+        <a href="web/pages/filters.html">Art Filters</a>
+    </nav>
+    <button class="menu-toggle" aria-label="Open menu" aria-expanded="false">☰</button>
+</header>
+
+<!-- Setting up our Title and Text -->
+<main class="hero" id="hero">
+    <!-- Using this container for our images to be displayed -->
+    <div class="hero-art" id="floatingLayer" aria-hidden="true"></div>
+
+    <div class="hero-inner" id="heroText">
+        <h1 class="hero-title">
+            <span>Visualizing</span> <span class="accent">Art</span>
+        </h1>
+        <p class="tagline narrow">
+            A data-driven journey through the MET museum collections — explore thousands of works.
+            Visit the <a href="web/pages/about.html">ABOUT</a> page to see what this site has to offer!
+        </p>
+    </div>
+</main>
+
+<script src="web/scripts/main.js" defer></script>
+<script src="web/lib/d3-dsv.min.js"></script>
+
+<script>
+    (function () {
+        // Depending on if we are locally or on the GCS, change this
+        const ON_GCS   = location.hostname === "storage.googleapis.com";
+        const GCS_BASE = "https://storage.googleapis.com/visualizing-art";
+
+        // Grabbing our thumbnails directory and CSV file
+        const THUMBS_DIR = ON_GCS ? `${GCS_BASE}/thumbnails` : "thumbnails";
+        const CSV_PATH   = ON_GCS ? `${GCS_BASE}/embeddings/summary_combined.csv`
+            : "embeddings/summary_combined.csv";
+
+        // Pulling MET object id from each CSV row
+        const getId = row => row.query_object_id;
+
+        // Modifying a few settings for thumbnails
+        const DISPLAY_MS = 2000;
+        const MIN_SIZE   = 110;
+        const MAX_SIZE   = 200;
+        const TEXT_PAD   = 24;
+
+        // Setting up our "protected area", where we don't want images to appear
+        const hero    = document.getElementById("hero");
+        const heroTxt = document.getElementById("heroText");
+        const layer   = document.getElementById("floatingLayer");
+
+        // Loading a single JPG thumbnail for a given id
+        function preloadThumb(id) {
+            return new Promise((resolve, reject) => {
+                const img = new Image();
+                img.onload  = () => resolve(img.src);
+                img.onerror = reject;
+                img.src     = `${THUMBS_DIR}/${id}.jpg`;
+            });
+        }
+
+        // Grabbing random thumbnail
+        async function pickRandomThumb(ids, maxAttempts = 40) {
+            for (let k = 0; k < maxAttempts; k++) {
+                const id = ids[Math.floor(Math.random() * ids.length)];
+                try {
+                    const src = await preloadThumb(id);
+                    return { id, src };
+                } catch (_) {
+                    // Keep repeating until we can find an existing ID
+                }
+            }
+            throw new Error("Could not find a working thumbnail.");
+        }
+
+        // Creating some space around the title and text so that our images don't appear inside it
+        function getRects() {
+            const hr = hero.getBoundingClientRect();
+            const tr = heroTxt.getBoundingClientRect();
+
+            return {
+                hr,
+                noGo: {
+                    left:   tr.left   - hr.left   - TEXT_PAD,
+                    top:    tr.top    - hr.top    - TEXT_PAD,
+                    right:  tr.right  - hr.left   + TEXT_PAD,
+                    bottom: tr.bottom - hr.top    + TEXT_PAD
+                }
+            };
+        }
+
+        // Dividing our page into 4 quadrants
+        function getQuadrants() {
+            const { hr } = getRects();
+            const midX = hr.width  / 2;
+            const midY = hr.height / 2;
+
+            return [
+                { left: 0,    top: 0,    right: midX,      bottom: midY      }, // TL
+                { left: midX, top: 0,    right: hr.width,  bottom: midY      }, // TR
+                { left: 0,    top: midY, right: midX,      bottom: hr.height }, // BL
+                { left: midX, top: midY, right: hr.width,  bottom: hr.height }  // BR
+            ];
+        }
+
+        // Picking random point inside each quadrant (avoiding the text box)
+        function randomPointInQuadrant(q, size, noGo) {
+            const pad  = 16 + size / 2;
+            const minX = q.left  + pad;
+            const maxX = q.right - pad;
+            const minY = q.top   + pad;
+            const maxY = q.bottom - pad;
+
+            // Trying random points that don’t intersect the “protected” box
+            for (let i = 0; i < 10; i++) {
+                const x = minX + Math.random() * (maxX - minX);
+                const y = minY + Math.random() * (maxY - minY);
+
+                const left   = x - size / 2;
+                const right  = x + size / 2;
+                const top    = y - size / 2;
+                const bottom = y + size / 2;
+
+                const overlaps =
+                    right  > noGo.left  && left   < noGo.right &&
+                    bottom > noGo.top   && top    < noGo.bottom;
+
+                if (!overlaps) return { x, y };
+            }
+        }
+
+        // Rendering one thumbnail per quadrant
+        async function showOneInQuadrant(ids, qIndex) {
+            const { noGo }   = getRects();
+            const quadrants  = getQuadrants();
+            const q          = quadrants[qIndex];
+            const size       = MIN_SIZE + Math.random() * (MAX_SIZE - MIN_SIZE);
+            const { src }    = await pickRandomThumb(ids);
+            const { x,  y }  = randomPointInQuadrant(q, size, noGo);
+
+            const el = document.createElement("img");
+            el.className   = "float-thumb";
+            el.src         = src;
+            el.style.width = `${size}px`;
+            el.style.left  = `${x}px`;
+            el.style.top   = `${y}px`;
+            layer.appendChild(el);
+
+            // Fade in
+            requestAnimationFrame(() => el.classList.add("show"));
+
+            // Fade out and remove
+            setTimeout(() => {
+                el.classList.remove("show");
+                setTimeout(() => el.remove(), 260);
+            }, DISPLAY_MS);
+        }
+
+        // Looping per quadrant (so there is small delay in fading)
+        function startQuadrantLoops(ids) {
+            const OFFSETS = [0, 250, 500, 750];
+            for (let q = 0; q < 4; q++) {
+                const tick = async () => {
+                    try { await showOneInQuadrant(ids, q); } catch (_) {}
+                    setTimeout(tick, DISPLAY_MS);
+                };
+                setTimeout(tick, OFFSETS[q]);
+            }
+        }
+
+        // Loading all object IDs from CSV
+        async function loadIds() {
+            try {
+                const res = await fetch(CSV_PATH, { cache: "no-cache" });
+                if (!res.ok) throw new Error("CSV fetch failed");
+
+                const text = await res.text();
+                const rows = d3.csvParse(text);
+                const ids  = rows.map(getId).filter(Boolean).map(String);
+
+                if (ids.length) return ids;
+            } catch (err) {
+                console.warn("Falling back to random IDs:", err);
+            }
+
+            const MIN = 400, MAX = 130000, COUNT = 4000;
+            return Array.from({ length: COUNT },
+                () => String(Math.floor(Math.random() * (MAX - MIN) + MIN))
+            );
+        }
+
+        // Initializing it all
+        (async function init() {
+            const ids = await loadIds();
+            if (!ids.length) return;
+            startQuadrantLoops(ids);
+        })();
+    })();
+</script>
+
+</body>
+</html>

@@ -1,0 +1,98 @@
+{
+  "object_id": 437509,
+  "excel_metadata": {
+    "Object Number": "32.100.84",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 437509,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1932.0,
+    "Object Name": "Painting",
+    "Title": "Madonna and Child with Two Angels",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16233.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Cosimo Rosselli",
+    "Artist Display Bio": "Italian, Florence 1440–1507 Florence",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Rosselli, Cosimo",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1440",
+    "Artist End Date": "1507",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500028437",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q29447",
+    "Object Date": "early 1480s",
+    "Object Begin Date": 1480,
+    "Object End Date": 1485,
+    "Medium": "Tempera and gold on wood",
+    "Dimensions": "33 1/2 x 23 in. (85.1 x 58.4 cm)",
+    "Credit Line": "The Friedsam Collection, Bequest of Michael Friedsam, 1931",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437509",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19905219",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Madonna and Child|Angels",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901000052|http://vocab.getty.edu/page/aat/300379004",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q9309699|https://www.wikidata.org/wiki/Q235113"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-25979-001.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-32_100_84-2.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-32_100_84-3.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 162339,
+        "role": "Artist",
+        "name": "Cosimo Rosselli",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500028437",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q29447",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 85.1,
+          "Width": 58.4
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Angels",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379004",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q235113"
+      },
+      {
+        "term": "Madonna and Child",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000052",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q9309699"
+      }
+    ]
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "object_id": 437231,
+  "excel_metadata": {
+    "Object Number": "30.95.296",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 437231,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1930.0,
+    "Object Name": "Painting",
+    "Title": "The Adoration of the Shepherds",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10787.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "L'Ortolano (Giovanni Battista Benvenuti)",
+    "Artist Display Bio": "Italian, Ferrarese, active by 1512–died after 1527",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Ortolano, L' (Giovanni Battista Benvenuti)",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1512",
+    "Artist End Date": "1527",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500026224",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q3356826",
+    "Object Date": NaN,
+    "Object Begin Date": 1512,
+    "Object End Date": 1527,
+    "Medium": "Oil on canvas, transferred from wood",
+    "Dimensions": "19 3/8 x 28 3/4 in. (49.2 x 73 cm)",
+    "Credit Line": "Theodore M. Davis Collection, Bequest of Theodore M. Davis, 1915",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437231",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19906250",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Saint Joseph|Jesus|Shepherds|Adoration of the Shepherds|Virgin Mary",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901000953|http://vocab.getty.edu/page/ia/901000087|http://vocab.getty.edu/page/aat/300025617|http://vocab.getty.edu/page/ia/901000229|http://vocab.getty.edu/page/ia/901000032",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q128267|https://www.wikidata.org/wiki/Q302|https://www.wikidata.org/wiki/Q81710|https://www.wikidata.org/wiki/Q1029715|https://www.wikidata.org/wiki/Q345"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT5284.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 107879,
+        "role": "Artist",
+        "name": "L&#39;Ortolano (Giovanni Battista Benvenuti)",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500026224",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3356826",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 49.2,
+          "Width": 73
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Saint Joseph",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000953",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q128267"
+      },
+      {
+        "term": "Virgin Mary",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000032",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q345"
+      },
+      {
+        "term": "Jesus",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q302"
+      },
+      {
+        "term": "Adoration of the Shepherds",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000229",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q1029715"
+      },
+      {
+        "term": "Shepherds",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025617",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q81710"
+      }
+    ]
+  }
+}

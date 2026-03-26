@@ -1,0 +1,105 @@
+{
+  "object_id": 436186,
+  "excel_metadata": {
+    "Object Number": "64.315",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436186,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1964.0,
+    "Object Name": "Painting",
+    "Title": "Still Life with Silver",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16386.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Alexandre François Desportes",
+    "Artist Display Bio": "French, Champigneulle 1661–1743 Paris",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Desportes, Alexandre François",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1661",
+    "Artist End Date": "1743",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500115333",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q1359864",
+    "Object Date": NaN,
+    "Object Begin Date": 1681,
+    "Object End Date": 1743,
+    "Medium": "Oil on canvas",
+    "Dimensions": "103 x 73 3/4 in. (261.6 x 187.3 cm)",
+    "Credit Line": "Purchase, Mary Wetmore Shively Bequest, in memory of her husband, Henry L. Shively, M.D., 1964",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436186",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912323",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Garlands|Fruit|Flowers|Still Life",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300167386|http://vocab.getty.edu/page/aat/300011868|http://vocab.getty.edu/page/aat/300132399|http://vocab.getty.edu/page/aat/300015638",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q756600|https://www.wikidata.org/wiki/Q1364|https://www.wikidata.org/wiki/Q506|https://www.wikidata.org/wiki/Q170571"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP283310.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 163866,
+        "role": "Artist",
+        "name": "Alexandre François Desportes",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115333",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1359864",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 261.6,
+          "Width": 187.3
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Garlands",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300167386",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q756600"
+      },
+      {
+        "term": "Fruit",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300011868",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q1364"
+      },
+      {
+        "term": "Flowers",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132399",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q506"
+      },
+      {
+        "term": "Still Life",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015638",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q170571"
+      }
+    ]
+  }
+}

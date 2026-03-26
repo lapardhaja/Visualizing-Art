@@ -1,0 +1,110 @@
+{
+  "object_id": 37974,
+  "excel_metadata": {
+    "Object Number": "1992.7.1",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 37974,
+    "Gallery Number": NaN,
+    "Department": "Asian Art",
+    "AccessionYear": 1992.0,
+    "Object Name": "Painting",
+    "Title": NaN,
+    "Culture": "Western India, Rajasthan, Udaipur",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 18558.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": "Attributed to",
+    "Artist Display Name": "Pannalai",
+    "Artist Display Bio": " ",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Pannalai",
+    "Artist Nationality": " ",
+    "Artist Begin Date": "          ",
+    "Artist End Date": "          ",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": NaN,
+    "Artist Wikidata URL": NaN,
+    "Object Date": "dated 1917",
+    "Object Begin Date": 1917,
+    "Object End Date": 1917,
+    "Medium": "Ink, opaque watercolor, and gold on paper",
+    "Dimensions": "Image: 13 3/8 x 18 1/4 in. (34 x 46.4 cm); Page: 21 7/8 x 17 15/16 in. (55.6 x 45.6 cm)",
+    "Credit Line": "Purchase, Cynthia Hazen Polsky Gift, 1992",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/37974",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q78878584",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Bears|Hunting|Men",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300266516|http://vocab.getty.edu/page/aat/300239666|http://vocab.getty.edu/page/aat/300025928",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q30090244|https://www.wikidata.org/wiki/Q36963|https://www.wikidata.org/wiki/Q8441"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/as/original/DT6831.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/as/original/LC-1992_7_1_001.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 185583,
+        "role": "Artist",
+        "name": "Attributed to Pannalai",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": "page",
+        "elementMeasurements": {
+          "Height": 55.56,
+          "Width": 45.56
+        }
+      },
+      {
+        "elementName": "Image",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 33.9726,
+          "Width": 46.3551
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Bears",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300266516",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q30090244"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Hunting",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300239666",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q36963"
+      }
+    ]
+  }
+}

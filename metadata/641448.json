@@ -1,0 +1,109 @@
+{
+  "object_id": 641448,
+  "excel_metadata": {
+    "Object Number": "2014.178",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 641448,
+    "Gallery Number": 715.0,
+    "Department": "The American Wing",
+    "AccessionYear": 2014.0,
+    "Object Name": "Painting",
+    "Title": "Christ Healing the Blindman",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 17624.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Gerardus Duyckinck I",
+    "Artist Display Bio": "1695–1746",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Duyckinck, Gerardus I",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1695",
+    "Artist End Date": "1746",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500028458",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q20981214",
+    "Object Date": "ca. 1725–30",
+    "Object Begin Date": 1720,
+    "Object End Date": 1730,
+    "Medium": "Oil on canvas",
+    "Dimensions": "35 1/4 × 45 in. (89.5 × 114.3 cm)",
+    "Credit Line": "Friends of the American Wing Fund, 2014",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/641448",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19925441",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Dogs|Christ",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300265714|http://vocab.getty.edu/page/ia/901000087",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q144|https://www.wikidata.org/wiki/Q642420"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DP331198.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 176246,
+        "role": "Artist",
+        "name": "Gerardus Duyckinck I",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500028458",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q20981214",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 89.53518,
+          "Width": 114.30023
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 6.350013,
+          "Height": 105.09271,
+          "Width": 127.95276
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Dogs",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300265714",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q144"
+      },
+      {
+        "term": "Christ",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+      }
+    ]
+  }
+}

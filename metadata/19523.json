@@ -1,0 +1,109 @@
+{
+  "object_id": 19523,
+  "excel_metadata": {
+    "Object Number": "2007.281.3",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 19523,
+    "Gallery Number": 770.0,
+    "Department": "The American Wing",
+    "AccessionYear": 2007.0,
+    "Object Name": "Painting",
+    "Title": "Low Tide, Riverside Yacht Club",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 284.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Theodore Robinson",
+    "Artist Display Bio": "1852–1896",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Robinson, Theodore",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1852",
+    "Artist End Date": "1896",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500004025",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q1384543",
+    "Object Date": "1894",
+    "Object Begin Date": 1894,
+    "Object End Date": 1894,
+    "Medium": "Oil on canvas",
+    "Dimensions": "18 x 24 in. (45.7 x 61 cm)",
+    "Credit Line": "Gift of Margaret and Raymond J. Horowitz, 2007",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/19523",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20170368",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Landscapes|Rivers|Boats",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300132294|http://vocab.getty.edu/page/aat/300008707|http://vocab.getty.edu/page/aat/300178749",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q191163|https://www.wikidata.org/wiki/Q4022|https://www.wikidata.org/wiki/Q35872"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DP161239.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 2844,
+        "role": "Artist",
+        "name": "Theodore Robinson",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500004025",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1384543",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 6.985,
+          "Height": 73.9776,
+          "Width": 89.2177
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 45.7201,
+          "Width": 60.9601
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Rivers",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300008707",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q4022"
+      },
+      {
+        "term": "Landscapes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+      },
+      {
+        "term": "Boats",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300178749",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q35872"
+      }
+    ]
+  }
+}

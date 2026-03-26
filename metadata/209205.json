@@ -1,0 +1,98 @@
+{
+  "object_id": 209205,
+  "excel_metadata": {
+    "Object Number": "17.190.997",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 209205,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1917,
+    "Object Name": "Sculpture",
+    "Title": "A lady",
+    "Culture": "probably French, Paris",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 16606,
+    "Artist Role": "Maker",
+    "Artist Prefix": "Case maker:",
+    "Artist Display Name": "Alfred André",
+    "Artist Display Bio": "French, 1839–1919",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "André, Alfred",
+    "Artist Nationality": "French",
+    "Artist Begin Date": 1839,
+    "Artist End Date": 1919,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500403532",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q2834942",
+    "Object Date": "late 19th century",
+    "Object Begin Date": 1885,
+    "Object End Date": 1899,
+    "Medium": "Wax, gilt copper",
+    "Dimensions": "3 3/8 × 2 3/8 in. (8.6 × 6 cm)",
+    "Credit Line": "Gift of J. Pierpont Morgan, 1917",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Sculpture-Miniature",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/209205",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Profiles|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300123319|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q4382010|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP146382.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/DP146924.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP146925.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 166068,
+        "role": "Maker",
+        "name": "Case maker: Alfred André",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500403532",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q2834942",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 8.572517,
+          "Width": 6.032512
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Profiles",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300123319",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q4382010"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

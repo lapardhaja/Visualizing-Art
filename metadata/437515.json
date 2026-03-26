@@ -1,0 +1,99 @@
+{
+  "object_id": 437515,
+  "excel_metadata": {
+    "Object Number": "11.45.5",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 437515,
+    "Gallery Number": 802.0,
+    "Department": "European Paintings",
+    "AccessionYear": 1911.0,
+    "Object Name": "Painting",
+    "Title": "A Meadow Bordered by Trees",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16234.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Théodore Rousseau",
+    "Artist Display Bio": "French, Paris 1812–1867 Barbizon",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Rousseau, Théodore",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1812",
+    "Artist End Date": "1867",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500019946",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q310025",
+    "Object Date": "ca. 1845–60",
+    "Object Begin Date": 1840,
+    "Object End Date": 1865,
+    "Medium": "Oil on wood",
+    "Dimensions": "16 3/8 x 24 3/8 in. (41.6 x 61.9 cm)",
+    "Credit Line": "Bequest of Robert Graham Dun, 1900",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437515",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912915",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Landscapes",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300132294",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q191163"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-19627-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162349,
+        "role": "Artist",
+        "name": "Théodore Rousseau",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500019946",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q310025",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 41.6,
+          "Width": 61.9
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 10.16,
+          "Height": 70.4851,
+          "Width": 92.0752
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Landscapes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+      }
+    ]
+  }
+}

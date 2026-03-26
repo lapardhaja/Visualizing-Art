@@ -1,0 +1,95 @@
+{
+  "object_id": 458964,
+  "excel_metadata": {
+    "Object Number": "1975.1.24",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 458964,
+    "Gallery Number": NaN,
+    "Department": "Robert Lehman Collection",
+    "AccessionYear": 1975.0,
+    "Object Name": "Painting",
+    "Title": "Madonna and Child Enthroned with Two Donors",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16541.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Goodhart Ducciesque Master",
+    "Artist Display Bio": "Italian, Siena, active ca. 1315–30",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Goodhart Ducciesque Master",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1310",
+    "Artist End Date": "1330",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500026644",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q18562176",
+    "Object Date": "1315–30",
+    "Object Begin Date": 1315,
+    "Object End Date": 1330,
+    "Medium": "Tempera on wood, gold ground",
+    "Dimensions": "Overall, with engaged frame, 20 3/4 x 11 3/4 in. (52.7 x 29.8 cm)",
+    "Credit Line": "Robert Lehman Collection, 1975",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/458964",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20187988",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Madonna and Child",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901000052",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q9309699"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/rl/original/DP-32063-001.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/rl/original/DP-32063-002.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/0187g.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/DT3015.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/ep1975.1.24.bw.R.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 165410,
+        "role": "Artist",
+        "name": "Goodhart Ducciesque Master",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500026644",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q18562176",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 52.7,
+          "Width": 29.8
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Madonna and Child",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000052",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q9309699"
+      }
+    ]
+  }
+}

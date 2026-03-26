@@ -1,0 +1,111 @@
+{
+  "object_id": 436884,
+  "excel_metadata": {
+    "Object Number": "43.98.8",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436884,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1943.0,
+    "Object Name": "Painting, cassone panel",
+    "Title": "The Chess Players",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16415.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Liberale da Verona",
+    "Artist Display Bio": "Italian, Verona ca. 1445–1527/29 Verona",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Liberale da Verona",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1445",
+    "Artist End Date": "1529",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500006509",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q1374872",
+    "Object Date": "ca. 1475",
+    "Object Begin Date": 1470,
+    "Object End Date": 1480,
+    "Medium": "Tempera on wood",
+    "Dimensions": "Overall 13 3/4 x 16 1/4 in. (34.9 x 41.3 cm); painted surface 13 1/8 x 15 7/8 in. (33.3 x 40.3 cm)",
+    "Credit Line": "Maitland F. Griggs Collection, Bequest of Maitland F. Griggs, 1943",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436884",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19911685",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Women|Chess",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/aat/300222748",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q718"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT226950.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/Liberale 43 IRR.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 164157,
+        "role": "Artist",
+        "name": "Liberale da Verona",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500006509",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1374872",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 34.9,
+          "Width": 41.3
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 3.175,
+          "Height": 46.9901,
+          "Width": 54.6101
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Chess",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300222748",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q718"
+      }
+    ]
+  }
+}

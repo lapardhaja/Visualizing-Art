@@ -1,0 +1,95 @@
+{
+  "object_id": 436493,
+  "excel_metadata": {
+    "Object Number": "14.40.635",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436493,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1914.0,
+    "Object Name": "Painting",
+    "Title": "Madonna and Child with Angels",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16192.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": "Workshop of",
+    "Artist Display Name": "Domenico Ghirlandaio",
+    "Artist Display Bio": "Italian, Florence 1448/49–1494 Florence",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Ghirlandaio, Domenico",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1448",
+    "Artist End Date": "1494",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500115228",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q191423",
+    "Object Date": NaN,
+    "Object Begin Date": 1469,
+    "Object End Date": 1494,
+    "Medium": "Tempera on canvas, transferred from wood",
+    "Dimensions": "Diameter 38 3/4 in. (98.4 cm)",
+    "Credit Line": "Bequest of Benjamin Altman, 1913",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436493",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19913062",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Madonna and Child|Angels",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901000052|http://vocab.getty.edu/page/aat/300379004",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q9309699|https://www.wikidata.org/wiki/Q235113"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/ep14.40.635.bw.R.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 161929,
+        "role": "Artist",
+        "name": "Workshop of Domenico Ghirlandaio",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115228",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q191423",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 98.4,
+          "Width": 98.4
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Angels",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379004",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q235113"
+      },
+      {
+        "term": "Madonna and Child",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000052",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q9309699"
+      }
+    ]
+  }
+}

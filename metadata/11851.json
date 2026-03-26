@@ -1,0 +1,123 @@
+{
+  "object_id": 11851,
+  "excel_metadata": {
+    "Object Number": "07.111",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 11851,
+    "Gallery Number": NaN,
+    "Department": "The American Wing",
+    "AccessionYear": 1907.0,
+    "Object Name": "Painting",
+    "Title": "High Bridge, New York",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16228.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Henry Ward Ranger",
+    "Artist Display Bio": "American, Syracuse, New York 1858–1916 New York",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Ranger, Henry Ward",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1858",
+    "Artist End Date": "1916",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500000026",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q5729856",
+    "Object Date": "1905",
+    "Object Begin Date": 1905,
+    "Object End Date": 1905,
+    "Medium": "Oil on canvas",
+    "Dimensions": "40 1/4 x 50 1/8 in. (102.2 x 127.3 cm)",
+    "Credit Line": "Gift of William T. Evans, 1907",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/11851",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20172827",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "New York City|Rivers|Landscapes|Bridges",
+    "Tags AAT URL": "http://vocab.getty.edu/page/tgn/7007567|http://vocab.getty.edu/page/aat/300008707|http://vocab.getty.edu/page/aat/300132294|http://vocab.getty.edu/page/aat/300386855",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q60|https://www.wikidata.org/wiki/Q4022|https://www.wikidata.org/wiki/Q191163|https://www.wikidata.org/wiki/Q12280"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/ap07.111.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162289,
+        "role": "Artist",
+        "name": "Henry Ward Ranger",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500000026",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5729856",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Framed",
+        "elementDescription": "\"original\" frame",
+        "elementMeasurements": {
+          "Depth": 20.0025,
+          "Height": 150.4953,
+          "Width": 175.8954
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 102.2,
+          "Width": 127.3
+        }
+      },
+      {
+        "elementName": "Other",
+        "elementDescription": "travel frame",
+        "elementMeasurements": {
+          "Depth": 11.430023,
+          "Height": 116.522736,
+          "Width": 141.76404
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Bridges",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300386855",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q12280"
+      },
+      {
+        "term": "Rivers",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300008707",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q4022"
+      },
+      {
+        "term": "Landscapes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+      },
+      {
+        "term": "New York City",
+        "AAT_URL": "http://vocab.getty.edu/page/tgn/7007567",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q60"
+      }
+    ]
+  }
+}

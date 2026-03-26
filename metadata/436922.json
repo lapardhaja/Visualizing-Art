@@ -1,0 +1,108 @@
+{
+  "object_id": 436922,
+  "excel_metadata": {
+    "Object Number": "89.15.13",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436922,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1889.0,
+    "Object Name": "Painting",
+    "Title": "Christ Presented to the People",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16206.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": "Copy after",
+    "Artist Display Name": "Lucas van Leyden",
+    "Artist Display Bio": "German, probably late 16th century",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Leyden, Lucas van",
+    "Artist Nationality": "Netherlandish",
+    "Artist Begin Date": "1494",
+    "Artist End Date": "1533",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500020789",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q320980",
+    "Object Date": NaN,
+    "Object Begin Date": 1570,
+    "Object End Date": 1599,
+    "Medium": "Oil, gold, and silver on linden",
+    "Dimensions": "10 7/8 x 18 in. (27.6 x 45.7 cm)",
+    "Credit Line": "Marquand Collection, Gift of Henry G. Marquand, 1889",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436922",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19904881",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Children|Dogs|Crowd|Christ",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025945|http://vocab.getty.edu/page/aat/300265714| |http://vocab.getty.edu/page/ia/901000087",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q7569|https://www.wikidata.org/wiki/Q144|https://www.wikidata.org/wiki/Q13430821|https://www.wikidata.org/wiki/Q642420"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP164849.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/GermanCat63_IRR_detail.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/GermanCat63_Xray.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 162065,
+        "role": "Artist",
+        "name": "Copy after Lucas van Leyden",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500020789",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q320980",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 27.6,
+          "Width": 45.7
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Children",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025945",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q7569"
+      },
+      {
+        "term": "Dogs",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300265714",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q144"
+      },
+      {
+        "term": "Christ",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+      },
+      {
+        "term": "Crowd",
+        "AAT_URL": null,
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q13430821"
+      }
+    ]
+  }
+}

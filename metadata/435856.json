@@ -1,0 +1,104 @@
+{
+  "object_id": 435856,
+  "excel_metadata": {
+    "Object Number": "1979.97",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 435856,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1979.0,
+    "Object Name": "Painting",
+    "Title": "Self-Portrait",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16175.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Eugène Carrière",
+    "Artist Display Bio": "French, Gournay-sur-Marne 1849–1906 Paris",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Carrière, Eugène",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1849",
+    "Artist End Date": "1906",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500007012",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q461464",
+    "Object Date": "ca. 1893",
+    "Object Begin Date": 1888,
+    "Object End Date": 1898,
+    "Medium": "Oil on canvas",
+    "Dimensions": "16 1/4 x 12 7/8 in. (41.3 x 32.7 cm)",
+    "Credit Line": "Purchase, Albert Otten Foundation Gift, 1979",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/435856",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912675",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Self-portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300124534",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q192110"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-14201-015.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 161752,
+        "role": "Artist",
+        "name": "Eugène Carrière",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500007012",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q461464",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 41.3,
+          "Width": 32.7
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 6.6675134,
+          "Height": 59.37262,
+          "Width": 51.117603
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Self-portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300124534",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q192110"
+      }
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "object_id": 209073,
+  "excel_metadata": {
+    "Object Number": "1971.206.34",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 209073,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1971,
+    "Object Name": "Frame",
+    "Title": "Picture frame (cadre)",
+    "Culture": "French",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 16529,
+    "Artist Role": "Designer",
+    "Artist Prefix": "Design attributed to",
+    "Artist Display Name": "Juste Aurèle Meissonnier",
+    "Artist Display Bio": "French, Turin 1695–1750 Paris",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Meissonnier, Juste-Aurèle",
+    "Artist Nationality": "French",
+    "Artist Begin Date": 1695,
+    "Artist End Date": 1750,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500125186",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q1364279",
+    "Object Date": "ca. 1735",
+    "Object Begin Date": 1730,
+    "Object End Date": 1740,
+    "Medium": "Carved and gilded beechwood",
+    "Dimensions": "130 × 90 in. (330.2 × 228.6 cm); Other (of opening): 98 1/2 in. × 69 in. (250.2 × 175.3 cm)",
+    "Credit Line": "Gift of Mr. and Mrs. Charles Wrightsman, 1971",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Woodwork-Furniture",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/209073",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": null,
+    "Tags AAT URL": null,
+    "Tags Wikidata URL": null
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/197690.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/197691.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 165295,
+        "role": "Designer",
+        "name": "Design attributed to Juste Aurèle Meissonnier",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500125186",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1364279",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Other",
+        "elementDescription": "of opening",
+        "elementMeasurements": {
+          "Height": 250.2,
+          "Width": 175.26035
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 330.20065,
+          "Width": 228.60046
+        }
+      }
+    ],
+    "tags": null
+  }
+}

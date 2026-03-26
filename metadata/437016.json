@@ -1,0 +1,128 @@
+{
+  "object_id": 437016,
+  "excel_metadata": {
+    "Object Number": "41.100.8",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437016,
+    "Gallery Number": 304.0,
+    "Department": "European Paintings",
+    "AccessionYear": 1941.0,
+    "Object Name": "Painting, triptych",
+    "Title": "Madonna and Child Enthroned",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16540.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Master of the Magdalen",
+    "Artist Display Bio": "Italian, Florence, active 1265–95",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Master of the Magdalen",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1265",
+    "Artist End Date": "1295",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500023204",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q1117749",
+    "Object Date": NaN,
+    "Object Begin Date": 1265,
+    "Object End Date": 1295,
+    "Medium": "Tempera on wood, gold ground",
+    "Dimensions": "Central panel 16 x 11 1/8 in. (40.6 x 28.3 cm); left wing 15 x 5 5/8 in. (38.1 x 14.3 cm); right wing 15 x 5 1/2 in. (38.1 x 14 cm)",
+    "Credit Line": "Gift of George Blumenthal, 1941",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437016",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19905467",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Madonna and Child|Crucifixion|Saints|Bearing the Cross|Last Supper|Flagellation|Christ",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901000052|http://vocab.getty.edu/page/aat/300404300|http://vocab.getty.edu/page/aat/300150555|http://vocab.getty.edu/page/ia/901001193|http://vocab.getty.edu/page/ia/901000357|http://vocab.getty.edu/page/aat/300404328|http://vocab.getty.edu/page/ia/901000087",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q9309699|https://www.wikidata.org/wiki/Q3235597|https://www.wikidata.org/wiki/Q43115|https://www.wikidata.org/wiki/Q3399226|https://www.wikidata.org/wiki/Q51633|https://www.wikidata.org/wiki/Q2033105|https://www.wikidata.org/wiki/Q642420"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/41.100.8.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/sf41-100-8d1.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/sf41-100-8d2.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/sf41-100-8d3.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/sf41-100-8d4.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/sf41-100-8d5.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/sf41-100-8s1.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/sf41-100-8s2.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 165409,
+        "role": "Artist",
+        "name": "Master of the Magdalen",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500023204",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1117749",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 40.6,
+          "Width": 28.3
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Christ",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+      },
+      {
+        "term": "Madonna and Child",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000052",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q9309699"
+      },
+      {
+        "term": "Bearing the Cross",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901001193",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3399226"
+      },
+      {
+        "term": "Crucifixion",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300404300",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3235597"
+      },
+      {
+        "term": "Last Supper",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000357",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q51633"
+      },
+      {
+        "term": "Saints",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300150555",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q43115"
+      },
+      {
+        "term": "Flagellation",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300404328",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q2033105"
+      }
+    ]
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "object_id": 437542,
+  "excel_metadata": {
+    "Object Number": "17.190.19",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437542,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1917.0,
+    "Object Name": "Painting",
+    "Title": "Saint Teresa of Ávila Interceding for Souls in Purgatory",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16235.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": "Workshop of",
+    "Artist Display Name": "Peter Paul Rubens",
+    "Artist Display Bio": "Flemish, Siegen 1577–1640 Antwerp",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Rubens, Peter Paul",
+    "Artist Nationality": "Flemish",
+    "Artist Begin Date": "1577",
+    "Artist End Date": "1640",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500002921",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q5599",
+    "Object Date": NaN,
+    "Object Begin Date": 1597,
+    "Object End Date": 1640,
+    "Medium": "Oil on wood",
+    "Dimensions": "25 1/4 x 19 1/4 in. (64.1 x 48.9 cm)",
+    "Credit Line": "Gift of J. Pierpont Morgan, 1917",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437542",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19905361",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Women|Saints|Angels|Christ",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/aat/300150555|http://vocab.getty.edu/page/aat/300379004|http://vocab.getty.edu/page/ia/901000087",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q43115|https://www.wikidata.org/wiki/Q235113|https://www.wikidata.org/wiki/Q642420"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-18296-013.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162350,
+        "role": "Artist",
+        "name": "Workshop of Peter Paul Rubens",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500002921",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5599",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 64.1,
+          "Width": 48.9
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Angels",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379004",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q235113"
+      },
+      {
+        "term": "Christ",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+      },
+      {
+        "term": "Saints",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300150555",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q43115"
+      }
+    ]
+  }
+}

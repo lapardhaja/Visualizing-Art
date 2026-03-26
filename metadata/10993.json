@@ -1,0 +1,95 @@
+{
+  "object_id": 10993,
+  "excel_metadata": {
+    "Object Number": "66.13",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 10993,
+    "Gallery Number": 763.0,
+    "Department": "The American Wing",
+    "AccessionYear": 1966.0,
+    "Object Name": "Painting",
+    "Title": "The Artist's Letter Rack",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 257.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "William Michael Harnett",
+    "Artist Display Bio": "1848–1892",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Harnett, William Michael",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1848",
+    "Artist End Date": "1892",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500032464",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q935186",
+    "Object Date": "1879",
+    "Object Begin Date": 1879,
+    "Object End Date": 1879,
+    "Medium": "Oil on canvas",
+    "Dimensions": "30 x 25 in. (76.2 x 63.5 cm)",
+    "Credit Line": "Morris K. Jesup Fund, 1966",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/10993",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19925728",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": NaN,
+    "Tags AAT URL": NaN,
+    "Tags Wikidata URL": NaN
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DT243651.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ad/original/251909.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 2573,
+        "role": "Artist",
+        "name": "William Michael Harnett",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500032464",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q935186",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 76.2,
+          "Width": 63.5
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 8.2,
+          "Height": 95,
+          "Width": 82.3
+        }
+      }
+    ],
+    "tags": null
+  }
+}

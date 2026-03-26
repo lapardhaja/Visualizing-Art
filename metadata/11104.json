@@ -1,0 +1,95 @@
+{
+  "object_id": 11104,
+  "excel_metadata": {
+    "Object Number": "1982.444",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 11104,
+    "Gallery Number": NaN,
+    "Department": "The American Wing",
+    "AccessionYear": 1982.0,
+    "Object Name": "Painting",
+    "Title": "Rats amongst the Barley Sheaves",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 188.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Thomas Hewes Hinckley",
+    "Artist Display Bio": "1813–1896",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Hinckley, Thomas Hewes",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1813",
+    "Artist End Date": "1896",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500009040",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q20853358",
+    "Object Date": "1851",
+    "Object Begin Date": 1851,
+    "Object End Date": 1851,
+    "Medium": "Oil on canvas",
+    "Dimensions": "33 1/4 x 40 1/4 in. (84.5 x 102.2 cm)",
+    "Credit Line": "Gift of Erving Wolf Foundation, in memory of Diane R. Wolf, 1982",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/11104",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20174507",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Rats|Dogs",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300250596|http://vocab.getty.edu/page/aat/300265714",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q26018|https://www.wikidata.org/wiki/Q144"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DT7414.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 1881,
+        "role": "Artist",
+        "name": "Thomas Hewes Hinckley",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500009040",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q20853358",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 84.5,
+          "Width": 102.2
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Dogs",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300265714",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q144"
+      },
+      {
+        "term": "Rats",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250596",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q26018"
+      }
+    ]
+  }
+}

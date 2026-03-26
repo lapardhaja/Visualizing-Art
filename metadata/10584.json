@@ -1,0 +1,99 @@
+{
+  "object_id": 10584,
+  "excel_metadata": {
+    "Object Number": "25.110.22",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 10584,
+    "Gallery Number": NaN,
+    "Department": "The American Wing",
+    "AccessionYear": 1925.0,
+    "Object Name": "Painting",
+    "Title": "Pompton Plains, New Jersey",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16179.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Jasper Francis Cropsey",
+    "Artist Display Bio": "American, Rossville, New York 1823–1900 Hastings-on-Hudson, New York",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Cropsey, Jasper Francis",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1823",
+    "Artist End Date": "1900",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500012491",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q1451318",
+    "Object Date": "1867",
+    "Object Begin Date": 1867,
+    "Object End Date": 1867,
+    "Medium": "Oil on canvas",
+    "Dimensions": "20 1/8 x 32 1/4 in. (51.1 x 81.9 cm)",
+    "Credit Line": "Bequest of Collis P. Huntington, 1900",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/10584",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19924592",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Landscapes",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300132294",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q191163"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DT214222.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 161798,
+        "role": "Artist",
+        "name": "Jasper Francis Cropsey",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500012491",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1451318",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 51.1,
+          "Width": 81.9
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 10.795,
+          "Height": 79.6927,
+          "Width": 110.1727
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Landscapes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+      }
+    ]
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "object_id": 460727,
+  "excel_metadata": {
+    "Object Number": "1975.1.1150",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 460727,
+    "Gallery Number": 954,
+    "Department": "Robert Lehman Collection",
+    "AccessionYear": 1975,
+    "Object Name": "Bottle",
+    "Title": "Bottle",
+    "Culture": null,
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 13692,
+    "Artist Role": "Artist",
+    "Artist Prefix": "possibly",
+    "Artist Display Name": "Antonio Salviati",
+    "Artist Display Bio": "Italian, 1816–1890",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Salviati Antonio",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": 1816,
+    "Artist End Date": 1890,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500251016",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q604939",
+    "Object Date": "late 19th century",
+    "Object Begin Date": 1875,
+    "Object End Date": 1900,
+    "Medium": "Colorless (slightly gray) and opaque white nonlead glass; pewter mount. Blown, \"vetro a fili\", trailed.",
+    "Dimensions": "H. 33.5 cm",
+    "Credit Line": "Robert Lehman Collection, 1975",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Glass",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/460727",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q116243537",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": null,
+    "Tags AAT URL": null,
+    "Tags Wikidata URL": null
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/rl/original/264490_1975.1.1150.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/rl/original/264490.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 136928,
+        "role": "Artist",
+        "name": "possibly Antonio Salviati",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500251016",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q604939",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 33.5
+        }
+      }
+    ],
+    "tags": null
+  }
+}

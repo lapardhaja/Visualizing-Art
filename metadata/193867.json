@@ -1,0 +1,127 @@
+{
+  "object_id": 193867,
+  "excel_metadata": {
+    "Object Number": "17.190.1191",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 193867,
+    "Gallery Number": 545.0,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1917.0,
+    "Object Name": "Snuffbox, painting",
+    "Title": "Snuffbox",
+    "Culture": "French, Paris",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 340993437.0,
+    "Artist Role": "Purveyor|Maker",
+    "Artist Prefix": " | ",
+    "Artist Display Name": "Jean-Baptiste Beckers|Mathieu Coiny fils",
+    "Artist Display Bio": "master 1753, active 1793|born 1723, master 1755, recorded 1788",
+    "Artist Suffix": " | ",
+    "Artist Alpha Sort": "Beckers, Jean-Baptiste|Coiny Mathieu",
+    "Artist Nationality": " | ",
+    "Artist Begin Date": "1723      |1723      ",
+    "Artist End Date": "1823      |1823      ",
+    "Artist Gender": "|",
+    "Artist ULAN URL": "|",
+    "Artist Wikidata URL": "|",
+    "Object Date": "1759–60",
+    "Object Begin Date": 1759,
+    "Object End Date": 1760,
+    "Medium": "Gold, enamel, gem stones",
+    "Dimensions": "Overall: 2 3/4 × 2 1/8 in. (7 × 5.4 cm)",
+    "Credit Line": "Gift of J. Pierpont Morgan, 1917",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Metalwork-Gold and Platinum|Miniatures",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/193867",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q116397865",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Children|Men|Women|Dogs",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025945|http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/aat/300265714",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q7569|https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q144"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP-25120-013.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/DP-25120-012.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP-25120-011.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP-25120-035.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP-25120-039.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP-25120-038.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP-25120-040.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP-25120-037.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP-25120-036.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP-25120-041.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/LC-17_190_1191-001.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/LC-17_190_1191-002.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/39772.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/ES4659.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 34375,
+        "role": "Maker",
+        "name": "Mathieu Coiny fils",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      },
+      {
+        "constituentID": 34099,
+        "role": "Purveyor",
+        "name": "Jean-Baptiste Beckers",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 7,
+          "Width": 5.4
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Children",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025945",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q7569"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Dogs",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300265714",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q144"
+      }
+    ]
+  }
+}

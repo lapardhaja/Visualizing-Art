@@ -1,0 +1,100 @@
+{
+  "object_id": 437543,
+  "excel_metadata": {
+    "Object Number": "91.26.4",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437543,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1891.0,
+    "Object Name": "Painting",
+    "Title": "Susanna and the Elders",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16235.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": "Workshop of",
+    "Artist Display Name": "Peter Paul Rubens",
+    "Artist Display Bio": "Flemish, Siegen 1577–1640 Antwerp",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Rubens, Peter Paul",
+    "Artist Nationality": "Flemish",
+    "Artist Begin Date": "1577",
+    "Artist End Date": "1640",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500002921",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q5599",
+    "Object Date": NaN,
+    "Object Begin Date": 1597,
+    "Object End Date": 1640,
+    "Medium": "Oil on wood",
+    "Dimensions": "18 1/4 x 25 3/8 in. (46.4 x 64.5 cm)",
+    "Credit Line": "Marquand Collection, Gift of Henry G. Marquand, 1890",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437543",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912913",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Female Nudes|Dogs",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300189568|http://vocab.getty.edu/page/aat/300265714",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q40446|https://www.wikidata.org/wiki/Q144"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-23547-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162350,
+        "role": "Artist",
+        "name": "Workshop of Peter Paul Rubens",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500002921",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5599",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 46.4,
+          "Width": 64.5
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Female Nudes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300189568",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q40446"
+      },
+      {
+        "term": "Dogs",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300265714",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q144"
+      }
+    ]
+  }
+}

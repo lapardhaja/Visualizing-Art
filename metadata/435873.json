@@ -1,0 +1,104 @@
+{
+  "object_id": 435873,
+  "excel_metadata": {
+    "Object Number": "29.100.65",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 435873,
+    "Gallery Number": 826.0,
+    "Department": "European Paintings",
+    "AccessionYear": 1929.0,
+    "Object Name": "Painting",
+    "Title": "Gustave Boyer (b. 1840) in a Straw Hat",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16176.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Paul Cézanne",
+    "Artist Display Bio": "French, Aix-en-Provence 1839–1906 Aix-en-Provence",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Cézanne, Paul",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1839",
+    "Artist End Date": "1906",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500004793",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q35548",
+    "Object Date": "1870–71",
+    "Object Begin Date": 1870,
+    "Object End Date": 1871,
+    "Medium": "Oil on paper, laid down on canvas",
+    "Dimensions": "21 5/8 x 15 1/4 in. (54.9 x 38.7 cm)",
+    "Credit Line": "H. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/435873",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19905398",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT1938.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 161761,
+        "role": "Artist",
+        "name": "Paul Cézanne",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500004793",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q35548",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 54.9,
+          "Width": 38.7
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 8.255,
+          "Height": 74.9301,
+          "Width": 59.6901
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

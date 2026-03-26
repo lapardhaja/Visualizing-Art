@@ -1,0 +1,106 @@
+{
+  "object_id": 458967,
+  "excel_metadata": {
+    "Object Number": "1975.1.27",
+    "Is Highlight": true,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 458967,
+    "Gallery Number": 956.0,
+    "Department": "Robert Lehman Collection",
+    "AccessionYear": 1975.0,
+    "Object Name": "Painting",
+    "Title": "Saint Anthony the Abbot in the Wilderness",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16218.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Osservanza Master",
+    "Artist Display Bio": "Italian, Siena, active second quarter 15th century",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Osservanza Master",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1425",
+    "Artist End Date": "1450",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500029605",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q260114",
+    "Object Date": "ca. 1435",
+    "Object Begin Date": 1432,
+    "Object End Date": 1438,
+    "Medium": "Tempera and gold on wood",
+    "Dimensions": "Overall: 18 3/4 × 13 5/8 in. (47.6 × 34.6 cm)",
+    "Credit Line": "Robert Lehman Collection, 1975",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/458967",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q3948786",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Deer|Landscapes|Saints",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300250308|http://vocab.getty.edu/page/aat/300132294|http://vocab.getty.edu/page/aat/300150555",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q685795|https://www.wikidata.org/wiki/Q191163|https://www.wikidata.org/wiki/Q43115"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/rl/original/DP319194.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/rl/original/DT706.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/rl1975.1.27.R.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/ep1975.1.27.bw.R.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/SaintAnthony0232.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/DP319195.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 162184,
+        "role": "Artist",
+        "name": "Osservanza Master",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500029605",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q260114",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": "Overall",
+        "elementMeasurements": {
+          "Height": 47.6,
+          "Width": 34.6
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Deer",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250308",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q685795"
+      },
+      {
+        "term": "Landscapes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+      },
+      {
+        "term": "Saints",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300150555",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q43115"
+      }
+    ]
+  }
+}

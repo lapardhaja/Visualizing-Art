@@ -1,0 +1,104 @@
+{
+  "object_id": 12676,
+  "excel_metadata": {
+    "Object Number": "1978.38",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 12676,
+    "Gallery Number": 726.0,
+    "Department": "The American Wing",
+    "AccessionYear": 1978.0,
+    "Object Name": "Painting",
+    "Title": "Mrs. Andrew Sigourney",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16249.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Gilbert Stuart",
+    "Artist Display Bio": "American, North Kingston, Rhode Island 1755–1828 Boston, Massachusetts",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Stuart, Gilbert",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1755",
+    "Artist End Date": "1828",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500010392",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q41402",
+    "Object Date": "Ca. 1820",
+    "Object Begin Date": 1817,
+    "Object End Date": 1820,
+    "Medium": "Oil on canvas",
+    "Dimensions": "27 x 22 in. (68.6 x 55.9 cm)",
+    "Credit Line": "Gift of Donald F. Bush, in memory of Harriet P. Bush, 1978",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/12676",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19924908",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Portraits|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/ap1978.380.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162490,
+        "role": "Artist",
+        "name": "Gilbert Stuart",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500010392",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q41402",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 68.6,
+          "Width": 55.9
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 9.2,
+          "Height": 87.4,
+          "Width": 75.3
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

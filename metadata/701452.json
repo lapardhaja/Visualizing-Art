@@ -1,0 +1,109 @@
+{
+  "object_id": 701452,
+  "excel_metadata": {
+    "Object Number": "2015.788",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 701452,
+    "Gallery Number": 211.0,
+    "Department": "Asian Art",
+    "AccessionYear": 2015.0,
+    "Object Name": "Painting",
+    "Title": "清　王鑑　倣范中立溪亭山色圖　軸|Mountain Scenery with Streams and Pavilions in the Style of Fan Kuan",
+    "Culture": "China",
+    "Period": "Qing dynasty (1644–1911)",
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 1164.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Wang Jian",
+    "Artist Display Bio": "Chinese, 1609–1677/88",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Wang Jian",
+    "Artist Nationality": "Chinese",
+    "Artist Begin Date": "1609",
+    "Artist End Date": "1677",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": NaN,
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q711481",
+    "Object Date": "1667",
+    "Object Begin Date": 1667,
+    "Object End Date": 1667,
+    "Medium": "Hanging scroll; ink and color on paper",
+    "Dimensions": "Image: 34 × 17 1/2 in. (86.4 × 44.5 cm)",
+    "Credit Line": "Gift of Franklin Z. Davidson, MD and Carol R. Fishberg, 2015",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/701452",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q78614132",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Rivers|Mountains|Landscapes",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300008707|http://vocab.getty.edu/page/aat/300008795|http://vocab.getty.edu/page/aat/300132294",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q4022|https://www.wikidata.org/wiki/Q8502|https://www.wikidata.org/wiki/Q191163"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/as/original/LC-2015_788_sr1_03.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 11645,
+        "role": "Artist",
+        "name": "Wang Jian",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q711481",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Image",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 86.360176,
+          "Width": 44.45009
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 3.1750064,
+          "Height": 124.46025,
+          "Width": 65.56388
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Rivers",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300008707",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q4022"
+      },
+      {
+        "term": "Mountains",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300008795",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8502"
+      },
+      {
+        "term": "Landscapes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+      }
+    ]
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "object_id": 200388,
+  "excel_metadata": {
+    "Object Number": "48.187.429",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 200388,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1948,
+    "Object Name": "Snuffbox",
+    "Title": "Snuffbox",
+    "Culture": "French, Paris",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 16259,
+    "Artist Role": "Maker",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Adrien Jean Maximilien Vachette",
+    "Artist Display Bio": "French, Cauffry 1753–1839 Paris",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Vachette, Adrien Jean Maximilien",
+    "Artist Nationality": "French",
+    "Artist Begin Date": 1753,
+    "Artist End Date": 1839,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500524238",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q4685662",
+    "Object Date": "1782–83",
+    "Object Begin Date": 1782,
+    "Object End Date": 1783,
+    "Medium": "Gold, enamel",
+    "Dimensions": "Overall: 1 1/8 × 3 1/8 × 2 1/4 in. (2.9 × 7.9 × 5.7 cm)",
+    "Credit Line": "Bequest of Catherine D. Wentworth, 1948",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Metalwork-Gold and Platinum",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/200388",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": null,
+    "Tags AAT URL": null,
+    "Tags Wikidata URL": null
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP244404.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162591,
+        "role": "Maker",
+        "name": "Adrien Jean Maximilien Vachette",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500524238",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q4685662",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 5.7150116,
+          "Height": 2.8575058,
+          "Width": 7.9375157
+        }
+      }
+    ],
+    "tags": null
+  }
+}

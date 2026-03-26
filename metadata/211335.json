@@ -1,0 +1,121 @@
+{
+  "object_id": 211335,
+  "excel_metadata": {
+    "Object Number": 2001.593,
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 211335,
+    "Gallery Number": 500,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 2001,
+    "Object Name": "Relief",
+    "Title": "Saint Jerome in the Wilderness",
+    "Culture": "Italian, Florence",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 16505,
+    "Artist Role": "Artist",
+    "Artist Prefix": "Probably by",
+    "Artist Display Name": "Antonio Rossellino",
+    "Artist Display Bio": "Italian, Settignano 1427–ca. 1479 Florence",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Rossellino, Antonio",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": 1427,
+    "Artist End Date": 1479,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500002855",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q256079",
+    "Object Date": "ca. 1470",
+    "Object Begin Date": 1465,
+    "Object End Date": 1475,
+    "Medium": "Marble",
+    "Dimensions": "Overall (confirmed): 16 5/8 × 15 1/4 × 2 7/8 in., 31 lb. (42.2 × 38.7 × 7.3 cm, 14.0615kg)",
+    "Credit Line": "Purchase, Rogers Fund and Lila Acheson Wallace Gift, 2001",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Sculpture",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/211335",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q116373897",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Skulls|Deer|Saint Jerome|Crucifixion|Lions",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300191856|http://vocab.getty.edu/page/aat/300250308|http://vocab.getty.edu/page/ulan/500060933|http://vocab.getty.edu/page/aat/300404300|http://vocab.getty.edu/page/aat/300310388",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q13147|https://www.wikidata.org/wiki/Q685795|https://www.wikidata.org/wiki/Q44248|https://www.wikidata.org/wiki/Q3235597|https://www.wikidata.org/wiki/Q140"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP236930.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 165058,
+        "role": "Artist",
+        "name": "Probably by Antonio Rossellino",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500002855",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q256079",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": "historic dimensions, superceded; wt. confirmed",
+        "elementMeasurements": {
+          "Height": 42.5451,
+          "Weight": 14.0615,
+          "Width": 37.9413
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": "confirmed",
+        "elementMeasurements": {
+          "Depth": 7.3025146,
+          "Height": 42.227585,
+          "Weight": 14.061508,
+          "Width": 38.735077
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Skulls",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300191856",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q13147"
+      },
+      {
+        "term": "Deer",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250308",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q685795"
+      },
+      {
+        "term": "Lions",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300310388",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q140"
+      },
+      {
+        "term": "Saint Jerome",
+        "AAT_URL": "http://vocab.getty.edu/page/ulan/500060933",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q44248"
+      },
+      {
+        "term": "Crucifixion",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300404300",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3235597"
+      }
+    ]
+  }
+}

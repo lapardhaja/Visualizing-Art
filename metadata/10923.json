@@ -1,0 +1,104 @@
+{
+  "object_id": 10923,
+  "excel_metadata": {
+    "Object Number": "87.8.4",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 10923,
+    "Gallery Number": NaN,
+    "Department": "The American Wing",
+    "AccessionYear": 1887.0,
+    "Object Name": "Painting",
+    "Title": "Ideal Head of a Boy (George Spencer Fuller)",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16191.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "George Fuller",
+    "Artist Display Bio": "American, Deerfield, Massachusetts 1822–1884 Brookline, Massachusetts",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Fuller, George ",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1822",
+    "Artist End Date": "1884",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500026223",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q5539521",
+    "Object Date": "ca. 1867–73",
+    "Object Begin Date": 1864,
+    "Object End Date": 1873,
+    "Medium": "Oil on canvas",
+    "Dimensions": "27 1/4 x 22 in. (69.2 x 55.9 cm)",
+    "Credit Line": "Gift of George I. Seney, 1887",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/10923",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20174214",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Boys|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300247598|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q3010|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/ap87.8.4.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 161913,
+        "role": "Artist",
+        "name": "George Fuller",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500026223",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5539521",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 5.08,
+          "Height": 89,
+          "Width": 78.3
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 69.2,
+          "Width": 55.9
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Boys",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300247598",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3010"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

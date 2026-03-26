@@ -1,0 +1,102 @@
+{
+  "object_id": 436059,
+  "excel_metadata": {
+    "Object Number": "45.110.4",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436059,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1945.0,
+    "Object Name": "Painting, miniature",
+    "Title": "Princess María Francisca de Asis de Borbón and Her Son Infante Carlos Luis María Fernando de Borbón",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10865.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Luis de la Cruz y Rios",
+    "Artist Display Bio": "Spanish, active by 1815–died 1850",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Cruz y Rios, Luis de la",
+    "Artist Nationality": "Spanish",
+    "Artist Begin Date": "1815",
+    "Artist End Date": "1850",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500035860",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q1876555",
+    "Object Date": "1818",
+    "Object Begin Date": 1818,
+    "Object End Date": 1818,
+    "Medium": "Ivory",
+    "Dimensions": "Obverse and reverse each 2 1/4 x 1 3/4 in. (57 x 47 mm)",
+    "Credit Line": "Gift of Mrs. John LaPorte Given, 1945",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Miniatures",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436059",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19914022",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Princesses|Portraits|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300155241|http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q863048|https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/ep45.110.4a.R.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/ep45.110.4b.R.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 108655,
+        "role": "Artist",
+        "name": "Luis de la Cruz y Rios",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500035860",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1876555",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 5.7,
+          "Width": 4.4
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Princesses",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300155241",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q863048"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

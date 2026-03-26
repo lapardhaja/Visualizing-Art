@@ -1,0 +1,103 @@
+{
+  "object_id": 38043,
+  "excel_metadata": {
+    "Object Number": "1996.100.6",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 38043,
+    "Gallery Number": NaN,
+    "Department": "Asian Art",
+    "AccessionYear": 1996.0,
+    "Object Name": "Painting",
+    "Title": NaN,
+    "Culture": "India (Jaipur, Rajasthan)",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 1828.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": "Generation of",
+    "Artist Display Name": "Bagta",
+    "Artist Display Bio": "active ca. 1761–1814",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Bagta",
+    "Artist Nationality": " ",
+    "Artist Begin Date": "1751",
+    "Artist End Date": "1824",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "(not assigned)",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q44345220",
+    "Object Date": "ca. 1810–18",
+    "Object Begin Date": 1800,
+    "Object End Date": 1818,
+    "Medium": "Opaque watercolor and ink on paper",
+    "Dimensions": "Overall: 29 x 40 5/8 in. (73.7 x 103.2 cm)\r\nFramed: 39 3/4 x 50 3/4 in. (101 x 128.9 cm)",
+    "Credit Line": "Fletcher Fund, 1996",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/38043",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q78874473",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Cities|Maps",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300008389|http://vocab.getty.edu/page/aat/300028094",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q515|https://www.wikidata.org/wiki/Q4006"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/as/original/DT4007.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 18284,
+        "role": "Artist",
+        "name": "Generation of Bagta",
+        "constituentULAN_URL": "(not assigned)",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q44345220",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 73.7,
+          "Width": 103.187706
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 100.9652,
+          "Width": 128.90526
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Cities",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300008389",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q515"
+      },
+      {
+        "term": "Maps",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300028094",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q4006"
+      }
+    ]
+  }
+}

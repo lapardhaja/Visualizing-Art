@@ -1,0 +1,99 @@
+{
+  "object_id": 467730,
+  "excel_metadata": {
+    "Object Number": "41.100.157",
+    "Is Highlight": true,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 467730,
+    "Gallery Number": 304,
+    "Department": "Medieval Art",
+    "AccessionYear": 1941,
+    "Object Name": "Plaque",
+    "Title": "Plaque with Christ Receiving Magdeburg Cathedral from Emperor Otto I",
+    "Culture": "Ottonian",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": null,
+    "Artist Role": null,
+    "Artist Prefix": null,
+    "Artist Display Name": null,
+    "Artist Display Bio": null,
+    "Artist Suffix": null,
+    "Artist Alpha Sort": null,
+    "Artist Nationality": null,
+    "Artist Begin Date": null,
+    "Artist End Date": null,
+    "Artist Gender": null,
+    "Artist ULAN URL": null,
+    "Artist Wikidata URL": null,
+    "Object Date": "ca. 962–968",
+    "Object Begin Date": 962,
+    "Object End Date": 968,
+    "Medium": "Ivory",
+    "Dimensions": "Overall: 5 1/8 x 4 7/16 x 5/16in. (13 x 11.3 x 0.8cm)",
+    "Credit Line": "Gift of George Blumenthal, 1941",
+    "Geography Type": "Made in",
+    "City": "Milan (?)",
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Ivories",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/467730",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q29385453",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Saints|Christ|Men",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300150555|http://vocab.getty.edu/page/ia/901000087|http://vocab.getty.edu/page/aat/300025928",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q43115|https://www.wikidata.org/wiki/Q642420|https://www.wikidata.org/wiki/Q8441"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/md/original/DP-16229-001.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/md/original/sf41-100-157s2.jpg",
+      "https://images.metmuseum.org/CRDImages/md/original/DT143.jpg",
+      "https://images.metmuseum.org/CRDImages/md/original/SFSL-41-100-157-Detail-4.jpg",
+      "https://images.metmuseum.org/CRDImages/md/original/SFSL-41-100-157-Detail-2.jpg",
+      "https://images.metmuseum.org/CRDImages/md/original/SFSL-41-100-157-Detail-1.jpg",
+      "https://images.metmuseum.org/CRDImages/md/original/SFSL-41-100-157-Detail-3.jpg"
+    ],
+    "constituents": null,
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 0.8,
+          "Height": 13,
+          "Width": 11.3
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Christ",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+      },
+      {
+        "term": "Saints",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300150555",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q43115"
+      }
+    ]
+  }
+}

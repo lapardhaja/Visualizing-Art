@@ -1,0 +1,104 @@
+{
+  "object_id": 435963,
+  "excel_metadata": {
+    "Object Number": "29.100.19",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 435963,
+    "Gallery Number": 803.0,
+    "Department": "European Paintings",
+    "AccessionYear": 1929.0,
+    "Object Name": "Painting",
+    "Title": "Bacchante by the Sea",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16178.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Camille Corot",
+    "Artist Display Bio": "French, Paris 1796–1875 Paris",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Corot, Camille",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1796",
+    "Artist End Date": "1875",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500115390",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q148475",
+    "Object Date": "1865",
+    "Object Begin Date": 1865,
+    "Object End Date": 1865,
+    "Medium": "Oil on wood",
+    "Dimensions": "15 1/4 x 23 3/8 in. (38.7 x 59.4 cm)",
+    "Credit Line": "H. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/435963",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19886724",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Bacchantes|Female Nudes",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300379712|http://vocab.getty.edu/page/aat/300189568",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q209599|https://www.wikidata.org/wiki/Q40446"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-16590-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 161787,
+        "role": "Artist",
+        "name": "Camille Corot",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115390",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q148475",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 38.7,
+          "Width": 59.4
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 6.985,
+          "Height": 53.9751,
+          "Width": 74.9301
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Female Nudes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300189568",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q40446"
+      },
+      {
+        "term": "Bacchantes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379712",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q209599"
+      }
+    ]
+  }
+}

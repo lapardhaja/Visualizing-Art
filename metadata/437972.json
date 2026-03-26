@@ -1,0 +1,110 @@
+{
+  "object_id": 437972,
+  "excel_metadata": {
+    "Object Number": "65.220.2",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437972,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1965.0,
+    "Object Name": "Painting",
+    "Title": "The Crucifixion",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16279.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": "Workshop of",
+    "Artist Display Name": "Francisco de Zurbarán",
+    "Artist Display Bio": "Spanish, Fuente de Cantos 1598–1664 Madrid",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Zurbarán, Francisco de",
+    "Artist Nationality": "Spanish",
+    "Artist Begin Date": "1598",
+    "Artist End Date": "1664",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500001984",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q209615",
+    "Object Date": NaN,
+    "Object Begin Date": 1618,
+    "Object End Date": 1664,
+    "Medium": "Oil on canvas",
+    "Dimensions": "Arched top, 112 x 75 7/8 in. (284.5 x 192.7 cm)",
+    "Credit Line": "Gift of George R. Hann, 1965",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437972",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19905266",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Crucifixion|Christ",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300404300|http://vocab.getty.edu/page/ia/901000087",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q3235597|https://www.wikidata.org/wiki/Q642420"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/ep65.220.2.bw.R.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162794,
+        "role": "Artist",
+        "name": "Workshop of Francisco de Zurbarán",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500001984",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q209615",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Other",
+        "elementDescription": "Picture + Frame (F.65.220.2A)",
+        "elementMeasurements": {
+          "Weight": 81.64746
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 284.5,
+          "Width": 192.7
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 320.04065,
+          "Width": 251.46051
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Christ",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+      },
+      {
+        "term": "Crucifixion",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300404300",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3235597"
+      }
+    ]
+  }
+}

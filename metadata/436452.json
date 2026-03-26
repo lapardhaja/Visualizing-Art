@@ -1,0 +1,108 @@
+{
+  "object_id": 436452,
+  "excel_metadata": {
+    "Object Number": "30.95.262",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436452,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1930.0,
+    "Object Name": "Painting",
+    "Title": "Madonna and Child with Angels",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10769.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Gentile da Fabriano (Gentile di Niccolò di Giovanni di Massio)",
+    "Artist Display Bio": "Italian, Umbrian, active by 1408–died 1427",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Gentile da Fabriano (Gentile di Niccolò di Giovanni di Massio)",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1408",
+    "Artist End Date": "1427",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500017803",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q312393",
+    "Object Date": NaN,
+    "Object Begin Date": 1408,
+    "Object End Date": 1427,
+    "Medium": "Tempera on wood, traces of gold ground",
+    "Dimensions": "33 3/4 x 20 in. (85.7 x 50.8 cm)",
+    "Credit Line": "Theodore M. Davis Collection, Bequest of Theodore M. Davis, 1915",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436452",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q1125200",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Madonna and Child|Angels",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901000052|http://vocab.getty.edu/page/aat/300379004",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q9309699|https://www.wikidata.org/wiki/Q235113"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP254091.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/sf gentile 1915.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/ep30.95.262.bw.R.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/gentile underdrawing.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 107690,
+        "role": "Artist",
+        "name": "Gentile da Fabriano (Gentile di Niccolò di Giovanni di Massio)",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500017803",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q312393",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 85.7,
+          "Width": 50.8
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 5.08,
+          "Height": 105.4102,
+          "Width": 66.6751
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Angels",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379004",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q235113"
+      },
+      {
+        "term": "Madonna and Child",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000052",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q9309699"
+      }
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "object_id": 459094,
+  "excel_metadata": {
+    "Object Number": "1975.1.163",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 459094,
+    "Gallery Number": NaN,
+    "Department": "Robert Lehman Collection",
+    "AccessionYear": 1975.0,
+    "Object Name": "Painting",
+    "Title": "Valley with Fir (Shade on the Mountain)",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16179.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Henri-Edmond Cross (Henri-Edmond Delacroix)",
+    "Artist Display Bio": "French, Douai 1856–1910 Saint-Clair",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Cross, Henri-Edmond",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1856",
+    "Artist End Date": "1910",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500014010",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q555224",
+    "Object Date": "1909",
+    "Object Begin Date": 1909,
+    "Object End Date": 1909,
+    "Medium": "Oil on canvas",
+    "Dimensions": "29 x 35 1/2 in. (73.7 x 90.2 cm)",
+    "Credit Line": "Robert Lehman Collection, 1975",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/459094",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20181510",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Landscapes",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300132294",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q191163"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/rl/original/DT3110.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/rl/original/ep1975.1.163.bw.R.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/2514.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 161799,
+        "role": "Artist",
+        "name": "Henri-Edmond Cross (Henri-Edmond Delacroix)",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500014010",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q555224",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 73.7,
+          "Width": 90.2
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Landscapes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+      }
+    ]
+  }
+}

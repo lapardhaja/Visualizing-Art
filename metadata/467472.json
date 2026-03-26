@@ -1,0 +1,101 @@
+{
+  "object_id": 467472,
+  "excel_metadata": {
+    "Object Number": "32.100.202",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 467472,
+    "Gallery Number": null,
+    "Department": "Medieval Art",
+    "AccessionYear": 1932,
+    "Object Name": "Diptych wing",
+    "Title": "Right Wing of a Diptych with Coronation of the Virgin and Adoration of the Magi",
+    "Culture": "French",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": null,
+    "Artist Role": null,
+    "Artist Prefix": null,
+    "Artist Display Name": null,
+    "Artist Display Bio": null,
+    "Artist Suffix": null,
+    "Artist Alpha Sort": null,
+    "Artist Nationality": null,
+    "Artist Begin Date": null,
+    "Artist End Date": null,
+    "Artist Gender": null,
+    "Artist ULAN URL": null,
+    "Artist Wikidata URL": null,
+    "Object Date": "14th century",
+    "Object Begin Date": 1300,
+    "Object End Date": 1399,
+    "Medium": "Ivory  with metal mounts",
+    "Dimensions": "Overall: 5 1/2 x 4 5/16 x 5/16 in. (14 x 10.9 x 0.8 cm)",
+    "Credit Line": "The Friedsam Collection, Bequest of Michael Friedsam, 1931",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Ivories",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/467472",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Angels|Virgin Mary|Jesus|Adoration of the Magi",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300379004|http://vocab.getty.edu/page/ia/901000032|http://vocab.getty.edu/page/ia/901000087|http://vocab.getty.edu/page/ia/901000083",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q235113|https://www.wikidata.org/wiki/Q345|https://www.wikidata.org/wiki/Q302|https://www.wikidata.org/wiki/Q488841"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/md/original/sf32-100-202s1.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/md/original/sf32-100-202d1.jpg",
+      "https://images.metmuseum.org/CRDImages/md/original/sf32-100-202d2.jpg",
+      "https://images.metmuseum.org/CRDImages/md/original/sf32-100-202s2.jpg"
+    ],
+    "constituents": null,
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 0.8,
+          "Height": 14,
+          "Width": 10.9
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Angels",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379004",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q235113"
+      },
+      {
+        "term": "Virgin Mary",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000032",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q345"
+      },
+      {
+        "term": "Jesus",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q302"
+      },
+      {
+        "term": "Adoration of the Magi",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000083",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q488841"
+      }
+    ]
+  }
+}

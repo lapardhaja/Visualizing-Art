@@ -1,0 +1,90 @@
+{
+  "object_id": 45800,
+  "excel_metadata": {
+    "Object Number": "14.76.49",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 45800,
+    "Gallery Number": NaN,
+    "Department": "Asian Art",
+    "AccessionYear": 1914.0,
+    "Object Name": "Painting",
+    "Title": NaN,
+    "Culture": "Japan",
+    "Period": "Edo period (1615–1868)",
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 1140.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Kubo Shunman",
+    "Artist Display Bio": "Japanese, 1757–1820",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Kubo Shunman",
+    "Artist Nationality": "Japanese",
+    "Artist Begin Date": "1757",
+    "Artist End Date": "1820",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500121370",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q3200184",
+    "Object Date": "dated 1780",
+    "Object Begin Date": 1615,
+    "Object End Date": 1868,
+    "Medium": "Ink and color on silk",
+    "Dimensions": "29 7/8 x 11 11/16 in. (75.9 x 29.7 cm)",
+    "Credit Line": "Charles Stewart Smith Collection, Gift of Mrs. Charles Stewart Smith, Charles Stewart Smith Jr., and Howard Caswell Smith, in memory of Charles Stewart Smith, 1914",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/45800",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q78837746",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/as/original/14_76_49_23539.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 11400,
+        "role": "Artist",
+        "name": "Kubo Shunman",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500121370",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3200184",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 75.9,
+          "Width": 29.7
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "object_id": 640565,
+  "excel_metadata": {
+    "Object Number": "2014.444",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 640565,
+    "Gallery Number": 754.0,
+    "Department": "The American Wing",
+    "AccessionYear": 2014.0,
+    "Object Name": "Painting, Miniature",
+    "Title": "Amos Binney",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 17614.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Pamela Hill",
+    "Artist Display Bio": " ",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Hill, Pamela",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "          ",
+    "Artist End Date": "          ",
+    "Artist Gender": "Female",
+    "Artist ULAN URL": "(not assigned)",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q22688272",
+    "Object Date": "ca. 1840",
+    "Object Begin Date": 1835,
+    "Object End Date": 1845,
+    "Medium": "Oil on paper",
+    "Dimensions": "4 × 3 1/8 in. (10.2 × 7.9 cm)",
+    "Credit Line": "Gift of David Jenness, 2014",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/640565",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20176537",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DP701352.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ad/original/DP701339.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 176148,
+        "role": "Artist",
+        "name": "Pamela Hill",
+        "constituentULAN_URL": "(not assigned)",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q22688272",
+        "gender": "Female"
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 10.16002,
+          "Width": 7.9375157
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

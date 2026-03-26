@@ -1,0 +1,112 @@
+{
+  "object_id": 206970,
+  "excel_metadata": {
+    "Object Number": "1982.60.55",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 206970,
+    "Gallery Number": 539,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1982,
+    "Object Name": "Desk",
+    "Title": "Desk (bonheur du jour)",
+    "Culture": "French, Paris and Sèvres",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 163336000000000000000,
+    "Artist Role": "Maker|Manufactory|Decorator|Decorator",
+    "Artist Prefix": " |Porcelain plaques by|Plaques decorated by|and",
+    "Artist Display Name": "Martin Carlin|Sèvres Manufactory|Antoine-Toussaint Cornailles|Nicquet",
+    "Artist Display Bio": "French, near Freiburg im Breisgau ca. 1730–1785 Paris|French, 1740–present|French, active 1755–1800|French, active 1764–92",
+    "Artist Suffix": " | | | ",
+    "Artist Alpha Sort": "Carlin, Martin|Sèvres Manufactory|Cornailles, Antoine-Toussaint|Nicquet",
+    "Artist Nationality": "French|French|French|French",
+    "Artist Begin Date": "1725      |1740      |1755      |1764      ",
+    "Artist End Date": "1785      |9999      |1800      |1792      ",
+    "Artist Gender": "|||",
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500014041|http://vocab.getty.edu/page/ulan/500054661|http://vocab.getty.edu/page/ulan/500076902|",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q433205|https://www.wikidata.org/wiki/Q653307||",
+    "Object Date": "ca. 1770",
+    "Object Begin Date": 1765,
+    "Object End Date": 1775,
+    "Medium": "Oak, mahogany, tulipwood, sycamore, ebony, box and harewood, gilt-bronze mounts, soft-paste porcelain",
+    "Dimensions": "Overall: 32 1/4 × 26 1/4 × 15 3/4 in. (81.9 × 66.7 × 40 cm)",
+    "Credit Line": "The Jack and Belle Linsky Collection, 1982",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Woodwork-Furniture",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/206970",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q116308144",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": null,
+    "Tags AAT URL": null,
+    "Tags Wikidata URL": null
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DT8884.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/DT8885.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DT8886.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 163336,
+        "role": "Maker",
+        "name": "Martin Carlin",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500014041",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q433205",
+        "gender": ""
+      },
+      {
+        "constituentID": 164856,
+        "role": "Manufactory",
+        "name": "Porcelain plaques by Sèvres Manufactory",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500054661",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q653307",
+        "gender": ""
+      },
+      {
+        "constituentID": 35469,
+        "role": "Decorator",
+        "name": "Plaques decorated by Antoine-Toussaint Cornailles",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500076902",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      },
+      {
+        "constituentID": 35470,
+        "role": "Decorator",
+        "name": "and Nicquet",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 40.00508,
+          "Height": 81.91516,
+          "Width": 66.67513
+        }
+      }
+    ],
+    "tags": null
+  }
+}

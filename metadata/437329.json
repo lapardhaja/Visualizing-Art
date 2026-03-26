@@ -1,0 +1,129 @@
+{
+  "object_id": 437329,
+  "excel_metadata": {
+    "Object Number": "46.16",
+    "Is Highlight": true,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 437329,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1946.0,
+    "Object Name": "Painting",
+    "Title": "The Abduction of the Sabine Women",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16227.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Nicolas Poussin",
+    "Artist Display Bio": "French, Les Andelys 1594–1665 Rome",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Poussin, Nicolas",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1594",
+    "Artist End Date": "1665",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500005036",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q41554",
+    "Object Date": "probably 1633–34",
+    "Object Begin Date": 1633,
+    "Object End Date": 1634,
+    "Medium": "Oil on canvas",
+    "Dimensions": "60 7/8 x 82 5/8 in. (154.6 x 209.9 cm)",
+    "Credit Line": "Harris Brisbane Dick Fund, 1946",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437329",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19911410",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Suffering|Children|Men|Women|Horses",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300055184|http://vocab.getty.edu/page/aat/300025945|http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/aat/300250148",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q5780945|https://www.wikidata.org/wiki/Q7569|https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q726"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-29324-001.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-46_160-2.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-46_160-3.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 162270,
+        "role": "Artist",
+        "name": "Nicolas Poussin",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500005036",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q41554",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 154.6,
+          "Width": 209.9
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 12.7,
+          "Height": 187.9604,
+          "Width": 247.0155
+        }
+      },
+      {
+        "elementName": "Other",
+        "elementDescription": "Painting and Frame",
+        "elementMeasurements": {
+          "Weight": 68.03955
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Suffering",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300055184",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q5780945"
+      },
+      {
+        "term": "Children",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025945",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q7569"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Horses",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250148",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q726"
+      }
+    ]
+  }
+}

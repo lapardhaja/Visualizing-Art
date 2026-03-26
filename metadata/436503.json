@@ -1,0 +1,118 @@
+{
+  "object_id": 436503,
+  "excel_metadata": {
+    "Object Number": "61.5",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 436503,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1961.0,
+    "Object Name": "Painting",
+    "Title": "The Flight into Egypt",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16193.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Luca Giordano",
+    "Artist Display Bio": "Italian, Naples 1634–1705 Naples",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Giordano, Luca",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1634",
+    "Artist End Date": "1705",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500115457",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q332494",
+    "Object Date": "1701",
+    "Object Begin Date": 1701,
+    "Object End Date": 1701,
+    "Medium": "Oil on canvas",
+    "Dimensions": "24 1/4 x 19 1/4 in. (61.5 x 48.9 cm)",
+    "Credit Line": "Gift of Mr. and Mrs. Harold Morton Landon, 1961",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436503",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19911994",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Holy Family|Saint Joseph|Boats|Angels|Christ|Virgin Mary",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901001175|http://vocab.getty.edu/page/ia/901000953|http://vocab.getty.edu/page/aat/300178749|http://vocab.getty.edu/page/aat/300379004|http://vocab.getty.edu/page/ia/901000087|http://vocab.getty.edu/page/ia/901000032",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q618057|https://www.wikidata.org/wiki/Q128267|https://www.wikidata.org/wiki/Q35872|https://www.wikidata.org/wiki/Q235113|https://www.wikidata.org/wiki/Q642420|https://www.wikidata.org/wiki/Q345"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-24117-001.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-61_50-2.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-61_50-3.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 161936,
+        "role": "Artist",
+        "name": "Luca Giordano",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115457",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q332494",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 61.6,
+          "Width": 48.9
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Angels",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379004",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q235113"
+      },
+      {
+        "term": "Christ",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+      },
+      {
+        "term": "Holy Family",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901001175",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q618057"
+      },
+      {
+        "term": "Saint Joseph",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000953",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q128267"
+      },
+      {
+        "term": "Virgin Mary",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000032",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q345"
+      },
+      {
+        "term": "Boats",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300178749",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q35872"
+      }
+    ]
+  }
+}

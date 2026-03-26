@@ -1,0 +1,104 @@
+{
+  "object_id": 437547,
+  "excel_metadata": {
+    "Object Number": "32.100.14",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437547,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1932.0,
+    "Object Name": "Painting",
+    "Title": "Grainfields",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16235.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Jacob van Ruisdael",
+    "Artist Display Bio": "Dutch, Haarlem 1628/29–1682 Amsterdam",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Ruisdael, Jacob van",
+    "Artist Nationality": "Dutch",
+    "Artist Begin Date": "1628",
+    "Artist End Date": "1682",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500027077",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q213612",
+    "Object Date": "mid- or late 1660s",
+    "Object Begin Date": 1664,
+    "Object End Date": 1669,
+    "Medium": "Oil on canvas",
+    "Dimensions": "18 1/2 x 22 1/2 in. (47 x 57.2 cm)",
+    "Credit Line": "The Friedsam Collection, Bequest of Michael Friedsam, 1931",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437547",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19905278",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Windmills|Landscapes",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300006273|http://vocab.getty.edu/page/aat/300132294",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q38720|https://www.wikidata.org/wiki/Q191163"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP146453.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162354,
+        "role": "Artist",
+        "name": "Jacob van Ruisdael",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500027077",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q213612",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 47,
+          "Width": 57.2
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 5.7150116,
+          "Height": 71.12014,
+          "Width": 80.01016
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Windmills",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300006273",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q38720"
+      },
+      {
+        "term": "Landscapes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+      }
+    ]
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "object_id": 435917,
+  "excel_metadata": {
+    "Object Number": "17.190.3",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 435917,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1917.0,
+    "Object Name": "Painting",
+    "Title": "The Adoration of the Shepherds",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10751.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Marcellus Coffermans",
+    "Artist Display Bio": "Netherlandish, active 1549–70",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Coffermans, Marcellus",
+    "Artist Nationality": "Netherlandish",
+    "Artist Begin Date": "1549",
+    "Artist End Date": "1570",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500001523",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q935830",
+    "Object Date": "ca. 1550",
+    "Object Begin Date": 1545,
+    "Object End Date": 1555,
+    "Medium": "Oil on wood",
+    "Dimensions": "8 1/8 x 5 1/2 in. (20.6 x 14 cm)",
+    "Credit Line": "Gift of J. Pierpont Morgan, 1917",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/435917",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20168278",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Saints|Cows|Lambs|Adoration of the Shepherds|Angels|Virgin Mary",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300150555|http://vocab.getty.edu/page/aat/300250120|http://vocab.getty.edu/page/aat/300250289|http://vocab.getty.edu/page/ia/901000229|http://vocab.getty.edu/page/aat/300379004|http://vocab.getty.edu/page/ia/901000032",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q43115|https://www.wikidata.org/wiki/Q830|https://www.wikidata.org/wiki/Q4575936|https://www.wikidata.org/wiki/Q1029715|https://www.wikidata.org/wiki/Q235113|https://www.wikidata.org/wiki/Q345"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-23270-001.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-17_190_3-IRR.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-17_190_3-XRAY.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 107514,
+        "role": "Artist",
+        "name": "Marcellus Coffermans",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500001523",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q935830",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 20.6,
+          "Width": 14
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Cows",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250120",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q830"
+      },
+      {
+        "term": "Lambs",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250289",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q4575936"
+      },
+      {
+        "term": "Angels",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379004",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q235113"
+      },
+      {
+        "term": "Virgin Mary",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000032",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q345"
+      },
+      {
+        "term": "Adoration of the Shepherds",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000229",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q1029715"
+      },
+      {
+        "term": "Saints",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300150555",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q43115"
+      }
+    ]
+  }
+}

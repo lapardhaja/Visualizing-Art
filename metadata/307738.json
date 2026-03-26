@@ -1,0 +1,92 @@
+{
+  "object_id": 307738,
+  "excel_metadata": {
+    "Object Number": "00.5.1148a, b",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 307738,
+    "Gallery Number": null,
+    "Department": "Arts of Africa, Oceania, and the Americas",
+    "AccessionYear": 1900,
+    "Object Name": "Mold",
+    "Title": "Mold for Female Figure",
+    "Culture": "Toltec (?)",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": null,
+    "Artist Role": null,
+    "Artist Prefix": null,
+    "Artist Display Name": null,
+    "Artist Display Bio": null,
+    "Artist Suffix": null,
+    "Artist Alpha Sort": null,
+    "Artist Nationality": null,
+    "Artist Begin Date": null,
+    "Artist End Date": null,
+    "Artist Gender": null,
+    "Artist ULAN URL": null,
+    "Artist Wikidata URL": null,
+    "Object Date": "10th–13th century",
+    "Object Begin Date": 900,
+    "Object End Date": 1300,
+    "Medium": "Ceramic",
+    "Dimensions": "Overall: 6 1/4 x 3 7/8 x 1 in. (15.88 x 9.8 x 2.49 cm)_x000D_\nOther: 3 7/8 x 1 in. (9.8 x 2.49 cm)",
+    "Credit Line": "Museum Purchase, 1900",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": "Mexico",
+    "Region": "Mesoamerica",
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Ceramics-Sculpture",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/307738",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ao/original/00.5.1148_b.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ao/original/00.5.1148_a.jpg"
+    ],
+    "constituents": null,
+    "measurements": [
+      {
+        "elementName": "Other",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "(not specified)": 2.49,
+          "Width": 9.8
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 2.49,
+          "Height": 15.875,
+          "Width": 9.8
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

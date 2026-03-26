@@ -1,0 +1,90 @@
+{
+  "object_id": 853450,
+  "excel_metadata": {
+    "Object Number": "2021.268",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 853450,
+    "Gallery Number": NaN,
+    "Department": "The American Wing",
+    "AccessionYear": 2021.0,
+    "Object Name": "Painting",
+    "Title": "Nun’s Badge with the Virgin of the Immaculate Conception",
+    "Culture": "Mexican",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 21674.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Nicolás Rodríguez Juárez",
+    "Artist Display Bio": "Mexican, 1667–1734",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Juárez, Nicolás Rodríguez",
+    "Artist Nationality": "Mexican",
+    "Artist Begin Date": "1667",
+    "Artist End Date": "1734",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": NaN,
+    "Artist Wikidata URL": NaN,
+    "Object Date": "ca. 1710",
+    "Object Begin Date": 1705,
+    "Object End Date": 1715,
+    "Medium": "Oil and gold on copper; tortoiseshell and silver frame",
+    "Dimensions": "Diameter: 5 1/16 in. (12.9 cm)\r\nDiameter (Framed): 8 1/4 in. (21 cm)",
+    "Credit Line": "Purchase, Sansbury-Herbert Mills Fund, 2021",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/853450",
+    "Object Wikidata URL": NaN,
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": NaN,
+    "Tags AAT URL": NaN,
+    "Tags Wikidata URL": NaN
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DP-26403-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 216749,
+        "role": "Artist",
+        "name": "Nicolás Rodríguez Juárez",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Diameter",
+        "elementDescription": "Framed",
+        "elementMeasurements": {
+          "Diameter": 21
+        }
+      },
+      {
+        "elementName": "Diameter",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Diameter": 12.858776
+        }
+      }
+    ],
+    "tags": null
+  }
+}

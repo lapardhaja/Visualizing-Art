@@ -1,0 +1,104 @@
+{
+  "object_id": 10890,
+  "excel_metadata": {
+    "Object Number": "17.96",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 10890,
+    "Gallery Number": 774.0,
+    "Department": "The American Wing",
+    "AccessionYear": 1917.0,
+    "Object Name": "Painting",
+    "Title": "Mark Twain",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 251.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Charles Noel Flagg",
+    "Artist Display Bio": "1848–1916",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Flagg, Charles Noel",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1848",
+    "Artist End Date": "1916",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": NaN,
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q21994041",
+    "Object Date": "1890",
+    "Object Begin Date": 1890,
+    "Object End Date": 1890,
+    "Medium": "Oil on canvas",
+    "Dimensions": "40 1/4 x 32 3/8 in. (102.2 x 82.2 cm)",
+    "Credit Line": "Gift of Ellen Earle Flagg, 1917",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/10890",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20174185",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/ap17.96.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 2517,
+        "role": "Artist",
+        "name": "Charles Noel Flagg",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q21994041",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 102.2,
+          "Width": 82.2
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 8.255,
+          "Height": 134.9378,
+          "Width": 116.2052
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

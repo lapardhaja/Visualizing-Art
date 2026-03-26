@@ -1,0 +1,98 @@
+{
+  "object_id": 14351,
+  "excel_metadata": {
+    "Object Number": "2006.235.44",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 14351,
+    "Gallery Number": NaN,
+    "Department": "The American Wing",
+    "AccessionYear": 2006.0,
+    "Object Name": "Painting, miniature",
+    "Title": "John Wood Dodge",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 332.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Edward S. Dodge",
+    "Artist Display Bio": "1816–1857",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Dodge, Edward S.",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1816",
+    "Artist End Date": "1857",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": NaN,
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q22667542",
+    "Object Date": "ca. 1836–37",
+    "Object Begin Date": 1833,
+    "Object End Date": 1837,
+    "Medium": "Watercolor on ivory",
+    "Dimensions": "3 x 2 1/2 in. (7.6 x 6.3 cm)",
+    "Credit Line": "Gift of Gloria Manney, 2006",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/14351",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19925703",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DP161510.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ad/original/DP161511.jpg",
+      "https://images.metmuseum.org/CRDImages/ad/original/DP161512.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 3320,
+        "role": "Artist",
+        "name": "Edward S. Dodge",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q22667542",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 7.6,
+          "Width": 6.4
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

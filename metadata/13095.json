@@ -1,0 +1,117 @@
+{
+  "object_id": 13095,
+  "excel_metadata": {
+    "Object Number": "59.114",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 13095,
+    "Gallery Number": 774.0,
+    "Department": "The American Wing",
+    "AccessionYear": 1959.0,
+    "Object Name": "Painting",
+    "Title": "The Knapp Children",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 2993299.0,
+    "Artist Role": "Artist|Artist",
+    "Artist Prefix": " | ",
+    "Artist Display Name": "Samuel Lovett Waldo|William Jewett",
+    "Artist Display Bio": "1783–1861|1792–1874",
+    "Artist Suffix": " | ",
+    "Artist Alpha Sort": "Waldo, Samuel Lovett|Jewett, William",
+    "Artist Nationality": "American|American",
+    "Artist Begin Date": "1783      |1792      ",
+    "Artist End Date": "1861      |1874      ",
+    "Artist Gender": "|",
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500026386|http://vocab.getty.edu/page/ulan/500003558",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q390073|https://www.wikidata.org/wiki/Q5837162",
+    "Object Date": "ca. 1833–34",
+    "Object Begin Date": 1830,
+    "Object End Date": 1834,
+    "Medium": "Oil on canvas",
+    "Dimensions": "70 x 57 1/2 in. (177.8 x 146.1 cm)",
+    "Credit Line": "Gift of Mrs. John Knapp Hollins, in memory of her husband, 1959",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/13095",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19923917",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Portraits|Boys|Dogs",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300247598|http://vocab.getty.edu/page/aat/300265714",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q3010|https://www.wikidata.org/wiki/Q144"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DT2071.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 2993,
+        "role": "Artist",
+        "name": "Samuel Lovett Waldo",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500026386",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q390073",
+        "gender": ""
+      },
+      {
+        "constituentID": 2994,
+        "role": "Artist",
+        "name": "William Jewett",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500003558",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5837162",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 13.5,
+          "Height": 214,
+          "Width": 181.5
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 177.8,
+          "Width": 146.1
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Boys",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300247598",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3010"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Dogs",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300265714",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q144"
+      }
+    ]
+  }
+}

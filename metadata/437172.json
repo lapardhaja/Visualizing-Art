@@ -1,0 +1,103 @@
+{
+  "object_id": 437172,
+  "excel_metadata": {
+    "Object Number": "1976.100.17",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437172,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1976.0,
+    "Object Name": "Painting",
+    "Title": "The Crucifixion",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16215.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Bartolomé Estebán Murillo",
+    "Artist Display Bio": "Spanish, Seville 1617–1682 Seville",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Murillo, Bartolomé Estebán",
+    "Artist Nationality": "Spanish",
+    "Artist Begin Date": "1617",
+    "Artist End Date": "1682",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500007425",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q192062",
+    "Object Date": "ca. 1675",
+    "Object Begin Date": 1670,
+    "Object End Date": 1680,
+    "Medium": "Oil on canvas",
+    "Dimensions": "20 x 13 in. (50.8 x 33 cm)",
+    "Credit Line": "Bequest of Harry G. Sperling, 1971",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437172",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19906247",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Cross|Crucifixion|Christ",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300235443|http://vocab.getty.edu/page/aat/300404300|http://vocab.getty.edu/page/ia/901000087",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q40843|https://www.wikidata.org/wiki/Q3235597|https://www.wikidata.org/wiki/Q642420"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT10248.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-1976_100_17-2.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-1976_100_17-3.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 162152,
+        "role": "Artist",
+        "name": "Bartolomé Estebán Murillo",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500007425",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q192062",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 50.8,
+          "Width": 33
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Christ",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+      },
+      {
+        "term": "Cross",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300235443",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q40843"
+      },
+      {
+        "term": "Crucifixion",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300404300",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3235597"
+      }
+    ]
+  }
+}

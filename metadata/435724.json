@@ -1,0 +1,132 @@
+{
+  "object_id": 435724,
+  "excel_metadata": {
+    "Object Number": "13.26",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 435724,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1913.0,
+    "Object Name": "Painting",
+    "Title": "The Adoration of the Magi",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16170.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Hieronymus Bosch",
+    "Artist Display Bio": "Netherlandish, ’s Hertogenbosch ca. 1450–1516 ’s Hertogenbosch",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Bosch, Hieronymus",
+    "Artist Nationality": "Netherlandish",
+    "Artist Begin Date": "1450",
+    "Artist End Date": "1516",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500000759",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q130531",
+    "Object Date": "ca. 1475",
+    "Object Begin Date": 1470,
+    "Object End Date": 1480,
+    "Medium": "Oil and gold on oak",
+    "Dimensions": "28 x 22 1/4in. (71.1 x 56.5cm)\r\n",
+    "Credit Line": "John Stewart Kennedy Fund, 1913",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/435724",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q2489939",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Adoration of the Magi|Cows|Dogs|Angels|Jesus|Virgin Mary",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901000083|http://vocab.getty.edu/page/aat/300250120|http://vocab.getty.edu/page/aat/300265714|http://vocab.getty.edu/page/aat/300379004|http://vocab.getty.edu/page/ia/901000087|http://vocab.getty.edu/page/ia/901000032",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q488841|https://www.wikidata.org/wiki/Q830|https://www.wikidata.org/wiki/Q144|https://www.wikidata.org/wiki/Q235113|https://www.wikidata.org/wiki/Q302|https://www.wikidata.org/wiki/Q345"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP372687.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/Bosch_13_26_IRR.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/Bosch_13_26_Xray.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/Bosch_13_26_Fig1.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/Bosch_13_26_Fig2.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/Bosch_13_26_Fig3.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/Bosch_13_26_Fig4.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/Bosch_13_26_Fig5.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 161700,
+        "role": "Artist",
+        "name": "Hieronymus Bosch",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500000759",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q130531",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 7.9375157,
+          "Height": 80.01016,
+          "Width": 64.45263
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 71.1,
+          "Width": 56.5
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Cows",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250120",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q830"
+      },
+      {
+        "term": "Dogs",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300265714",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q144"
+      },
+      {
+        "term": "Angels",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379004",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q235113"
+      },
+      {
+        "term": "Virgin Mary",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000032",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q345"
+      },
+      {
+        "term": "Jesus",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q302"
+      },
+      {
+        "term": "Adoration of the Magi",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000083",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q488841"
+      }
+    ]
+  }
+}

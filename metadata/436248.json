@@ -1,0 +1,100 @@
+{
+  "object_id": 436248,
+  "excel_metadata": {
+    "Object Number": "32.100.10",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436248,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1932.0,
+    "Object Name": "Painting",
+    "Title": "A Young Woman in a Landscape",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 12689.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Dutch Painter",
+    "Artist Display Bio": "dated 1636",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Dutch Painter",
+    "Artist Nationality": "Dutch",
+    "Artist Begin Date": "          ",
+    "Artist End Date": "          ",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": NaN,
+    "Artist Wikidata URL": NaN,
+    "Object Date": NaN,
+    "Object Begin Date": 1636,
+    "Object End Date": 1636,
+    "Medium": "Oil on wood",
+    "Dimensions": "26 x 19 7/8 in. (66 x 50.5 cm)",
+    "Credit Line": "The Friedsam Collection, Bequest of Michael Friedsam, 1931",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436248",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19913393",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Portraits|Women|Landscapes",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/aat/300132294",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q191163"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP143171.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 126897,
+        "role": "Artist",
+        "name": "Dutch Painter",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 66,
+          "Width": 50.5
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Landscapes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+      }
+    ]
+  }
+}

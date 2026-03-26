@@ -1,0 +1,109 @@
+{
+  "object_id": 436025,
+  "excel_metadata": {
+    "Object Number": "1995.537",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 436025,
+    "Gallery Number": 810.0,
+    "Department": "European Paintings",
+    "AccessionYear": 1995.0,
+    "Object Name": "Painting",
+    "Title": "View of Ornans",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16179.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Gustave Courbet",
+    "Artist Display Bio": "French, Ornans 1819–1877 La Tour-de-Peilz",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Courbet, Gustave",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1819",
+    "Artist End Date": "1877",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500010927",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q34618",
+    "Object Date": "probably mid-1850s",
+    "Object Begin Date": 1854,
+    "Object End Date": 1856,
+    "Medium": "Oil on canvas",
+    "Dimensions": "28 3/4 x 36 1/4 in. (73 x 92.1 cm)",
+    "Credit Line": "Bequest of Alice Tully, 1993",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436025",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912831",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Towns|Rivers|Landscapes",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300008375|http://vocab.getty.edu/page/aat/300008707|http://vocab.getty.edu/page/aat/300132294",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q3957|https://www.wikidata.org/wiki/Q4022|https://www.wikidata.org/wiki/Q191163"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-25139-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 161790,
+        "role": "Artist",
+        "name": "Gustave Courbet",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500010927",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q34618",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 73,
+          "Width": 92.1
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 10.795,
+          "Height": 105.41021,
+          "Width": 124.46025
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Towns",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300008375",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3957"
+      },
+      {
+        "term": "Rivers",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300008707",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q4022"
+      },
+      {
+        "term": "Landscapes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+      }
+    ]
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "object_id": 435806,
+  "excel_metadata": {
+    "Object Number": "32.100.1",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 435806,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1932.0,
+    "Object Name": "Painting",
+    "Title": "A Peasant Woman Picking Fleas off a Dog",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16172.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Adriaen Brouwer",
+    "Artist Display Bio": "Flemish, Oudenaarde 1605/6–1638 Antwerp",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Brouwer, Adriaen",
+    "Artist Nationality": "Flemish",
+    "Artist Begin Date": "1605",
+    "Artist End Date": "1638",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500012394",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q364139",
+    "Object Date": "ca. 1626–27",
+    "Object Begin Date": 1626,
+    "Object End Date": 1627,
+    "Medium": "Oil on wood",
+    "Dimensions": "Oval 7 1/8 x 5 3/8 in. (18.1 x 13.7 cm); set in rectangular panel 8 x 6 1/4 in. (20.3 x 15.9 cm)",
+    "Credit Line": "The Friedsam Collection, Bequest of Michael Friedsam, 1931",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/435806",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912838",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Women|Dogs",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/aat/300265714",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q144"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/ep32.100.1.bw.R.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 161725,
+        "role": "Artist",
+        "name": "Adriaen Brouwer",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500012394",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q364139",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 20.3,
+          "Width": 15.9
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Dogs",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300265714",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q144"
+      }
+    ]
+  }
+}

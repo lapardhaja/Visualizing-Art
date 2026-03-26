@@ -1,0 +1,104 @@
+{
+  "object_id": 10466,
+  "excel_metadata": {
+    "Object Number": "1973.342",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 10466,
+    "Gallery Number": NaN,
+    "Department": "The American Wing",
+    "AccessionYear": 1973.0,
+    "Object Name": "Painting",
+    "Title": "Edward Guthrie Kennedy",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16176.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "William Merritt Chase",
+    "Artist Display Bio": "American, Williamsburg, Indiana 1849–1916 New York",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Chase, William Merritt",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1849",
+    "Artist End Date": "1916",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500115356",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q265820",
+    "Object Date": "ca. 1895",
+    "Object Begin Date": 1892,
+    "Object End Date": 1895,
+    "Medium": "Oil on canvas",
+    "Dimensions": "22 x 17 7/8 in. (55.9 x 45.4 cm)",
+    "Credit Line": "Gift of Margaret and Raymond J. Horowitz, 1973",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/10466",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20175756",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DP137144.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 161767,
+        "role": "Artist",
+        "name": "William Merritt Chase",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115356",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q265820",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 55.9,
+          "Width": 45.4
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 5.8,
+          "Height": 72.5,
+          "Width": 62
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

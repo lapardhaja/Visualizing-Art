@@ -1,0 +1,88 @@
+{
+  "object_id": 231581,
+  "excel_metadata": {
+    "Object Number": "2005.364.17",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 231581,
+    "Gallery Number": 551,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 2005,
+    "Object Name": "Candlestick",
+    "Title": "Candlestick (one of a pair)",
+    "Culture": "German, Augsburg",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 4390,
+    "Artist Role": "Maker",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Johann Peter Pepfenhauser",
+    "Artist Display Bio": "German, active 1738–47",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Pepfenhauser Johann Peter",
+    "Artist Nationality": "German",
+    "Artist Begin Date": 1738,
+    "Artist End Date": 1747,
+    "Artist Gender": null,
+    "Artist ULAN URL": null,
+    "Artist Wikidata URL": null,
+    "Object Date": "ca. 1743–45",
+    "Object Begin Date": 1738,
+    "Object End Date": 1750,
+    "Medium": "Silver gilt",
+    "Dimensions": "Overall: H. 7 1/16 x W. 4 7/8 x D. 5 in. (17.9 x 12.4 x 12.7 cm)",
+    "Credit Line": "Purchase, Anna-Maria and Stephen Kellen Foundation Gift, in memory of Stephen M. Kellen, 2005",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Metalwork-Silver",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/231581",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q116306509",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": null,
+    "Tags AAT URL": null,
+    "Tags Wikidata URL": null
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/SF2005_364_17-18.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/SF2005_364_17_marks.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP137849.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 43901,
+        "role": "Maker",
+        "name": "Johann Peter Pepfenhauser",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 12.7,
+          "Height": 17.9388,
+          "Width": 12.3825
+        }
+      }
+    ],
+    "tags": null
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "object_id": 458960,
+  "excel_metadata": {
+    "Object Number": "1975.1.20",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 458960,
+    "Gallery Number": NaN,
+    "Department": "Robert Lehman Collection",
+    "AccessionYear": 1975.0,
+    "Object Name": "Painting",
+    "Title": "The Lamentation over the Dead Christ",
+    "Culture": "Italian, Siena",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 13537.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Workshop of  Niccolò di Buonaccorso",
+    "Artist Display Bio": "Italian (Sienese), active by 1372, died 1388",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Niccolò di Buonaccorso, Workshop of",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1372",
+    "Artist End Date": "1388",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": NaN,
+    "Artist Wikidata URL": NaN,
+    "Object Date": "1370–88",
+    "Object Begin Date": 1370,
+    "Object End Date": 1388,
+    "Medium": "Tempera on wood, gold ground",
+    "Dimensions": "Overall: 16 1/8 x 10 1/2 in. (41 x 26.7 cm); Painted Surface: 15 1/2 x 10 in. (39.4 x 25.4 cm)",
+    "Credit Line": "Robert Lehman Collection, 1975",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/458960",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20187973",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Christ|Men|Women|Lamentation|Saints",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901000087|http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/ia/901001196|http://vocab.getty.edu/page/aat/300150555",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q642420|https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q3155356|https://www.wikidata.org/wiki/Q43115"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/rl/original/DT3011.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/rl/original/ep1975.1.20.bw.R.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/0220.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 135376,
+        "role": "Artist",
+        "name": "Workshop of  Niccolò di Buonaccorso",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 41,
+          "Width": 26.7
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Christ",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+      },
+      {
+        "term": "Lamentation",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901001196",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3155356"
+      },
+      {
+        "term": "Saints",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300150555",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q43115"
+      }
+    ]
+  }
+}

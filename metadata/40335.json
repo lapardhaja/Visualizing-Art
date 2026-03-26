@@ -1,0 +1,95 @@
+{
+  "object_id": 40335,
+  "excel_metadata": {
+    "Object Number": "32.56",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 40335,
+    "Gallery Number": NaN,
+    "Department": "Asian Art",
+    "AccessionYear": 1932.0,
+    "Object Name": "Painting",
+    "Title": NaN,
+    "Culture": "Central Asia",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": NaN,
+    "Artist Role": NaN,
+    "Artist Prefix": NaN,
+    "Artist Display Name": NaN,
+    "Artist Display Bio": NaN,
+    "Artist Suffix": NaN,
+    "Artist Alpha Sort": NaN,
+    "Artist Nationality": NaN,
+    "Artist Begin Date": NaN,
+    "Artist End Date": NaN,
+    "Artist Gender": NaN,
+    "Artist ULAN URL": NaN,
+    "Artist Wikidata URL": NaN,
+    "Object Date": "8th century",
+    "Object Begin Date": 700,
+    "Object End Date": 799,
+    "Medium": "Canvas?",
+    "Dimensions": "Image: 13 3/8 × 6 5/8 in. (34 × 16.8 cm)\r\nFramed: 22 1/4 × 17 1/8 × 5/8 in. (56.5 × 43.5 × 1.6 cm)",
+    "Credit Line": "Rogers Fund, 1932",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/40335",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q78860628",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Buddhism|Bodhisattvas",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300073738|http://vocab.getty.edu/page/aat/300264360",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q748|https://www.wikidata.org/wiki/Q178149"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/as/original/32_56_87871.jpg",
+    "additionalImages": [],
+    "constituents": null,
+    "measurements": [
+      {
+        "elementName": "Image",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 33.97257,
+          "Width": 16.827534
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 1.5875032,
+          "Height": 56.515114,
+          "Width": 43.497585
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Buddhism",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300073738",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q748"
+      },
+      {
+        "term": "Bodhisattvas",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300264360",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q178149"
+      }
+    ]
+  }
+}

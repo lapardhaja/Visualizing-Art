@@ -1,0 +1,111 @@
+{
+  "object_id": 188000,
+  "excel_metadata": {
+    "Object Number": "95.14.9a, b",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 188000,
+    "Gallery Number": NaN,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1895.0,
+    "Object Name": "Box, painting",
+    "Title": "Box with portrait of a woman said to be Mrs. Bates (1755–1811) as Flora",
+    "Culture": "British, London",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 4541810752.0,
+    "Artist Role": "Maker|Artist",
+    "Artist Prefix": " |Minaiture by",
+    "Artist Display Name": "Alexander James Strachan|Richard Cosway",
+    "Artist Display Bio": "British, active 1817–42|British, Oakford, Devon 1742–1821 London",
+    "Artist Suffix": " | ",
+    "Artist Alpha Sort": "Strachan Alexander James|Cosway, Richard",
+    "Artist Nationality": "British|British",
+    "Artist Begin Date": "1817      |1742      ",
+    "Artist End Date": "1842      |1821      ",
+    "Artist Gender": "|",
+    "Artist ULAN URL": "|http://vocab.getty.edu/page/ulan/500115280",
+    "Artist Wikidata URL": "|https://www.wikidata.org/wiki/Q2539929",
+    "Object Date": "1811–12",
+    "Object Begin Date": 1811,
+    "Object End Date": 1812,
+    "Medium": "Gold, enamel, diamonds; ivory",
+    "Dimensions": "Overall: 1 × 3 3/4 × 3 3/4 in. (2.5 × 9.5 × 9.5 cm);\r\nOther (miniature): 1 3/4 in. (4.4 cm)",
+    "Credit Line": "The Moses Lazarus Collection, Gift of Josephine and Sarah Lazarus, in memory of their father, 1888-95",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Metalwork-Gold and Platinum|Miniatures",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/188000",
+    "Object Wikidata URL": NaN,
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Portraits|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DT200581.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 45418,
+        "role": "Maker",
+        "name": "Alexander James Strachan",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      },
+      {
+        "constituentID": 107528,
+        "role": "Artist",
+        "name": "Minaiture by Richard Cosway",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115280",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q2539929",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Other",
+        "elementDescription": "miniature",
+        "elementMeasurements": {
+          "Diameter": 4.4450088
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 9.525019,
+          "Height": 2.540005,
+          "Width": 9.525019
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

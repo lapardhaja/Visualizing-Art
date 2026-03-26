@@ -1,0 +1,88 @@
+{
+  "object_id": 199636,
+  "excel_metadata": {
+    "Object Number": "45.60.28",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 199636,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1945,
+    "Object Name": "Plaque",
+    "Title": "St. Francis",
+    "Culture": "French, possibly Paris",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": null,
+    "Artist Role": null,
+    "Artist Prefix": null,
+    "Artist Display Name": null,
+    "Artist Display Bio": null,
+    "Artist Suffix": null,
+    "Artist Alpha Sort": null,
+    "Artist Nationality": null,
+    "Artist Begin Date": null,
+    "Artist End Date": null,
+    "Artist Gender": null,
+    "Artist ULAN URL": null,
+    "Artist Wikidata URL": null,
+    "Object Date": "probably last quarter 19th century",
+    "Object Begin Date": 1875,
+    "Object End Date": 1899,
+    "Medium": "Painted enamel on copper, partly gilt",
+    "Dimensions": "H. 11 1/2 in.  (29.2 cm); W. 8 3/4 in. (22.2 cm.)",
+    "Credit Line": "Fletcher Fund, 1945",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Enamels",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/199636",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Saint Francis|Cross",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ulan/500349636|http://vocab.getty.edu/page/aat/300235443",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q676555|https://www.wikidata.org/wiki/Q40843"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/ES6640.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/134533.jpg"
+    ],
+    "constituents": null,
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 29.2,
+          "Width": 22.2
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Saint Francis",
+        "AAT_URL": "http://vocab.getty.edu/page/ulan/500349636",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q676555"
+      },
+      {
+        "term": "Cross",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300235443",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q40843"
+      }
+    ]
+  }
+}

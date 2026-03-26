@@ -1,0 +1,94 @@
+{
+  "object_id": 207775,
+  "excel_metadata": {
+    "Object Number": "1988.423.1",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 207775,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1988,
+    "Object Name": "Pitcher",
+    "Title": "Pitcher",
+    "Culture": "British, Linthorpe, Yorkshire",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 16435716184,
+    "Artist Role": "Factory|Designer",
+    "Artist Prefix": " | ",
+    "Artist Display Name": "Linthorpe Pottery Works|Christopher Dresser",
+    "Artist Display Bio": "British, 1879–1889|British, Glasgow, Scotland 1834–1904 Mulhouse",
+    "Artist Suffix": " | ",
+    "Artist Alpha Sort": "Linthorpe Pottery Works|Dresser, Christopher",
+    "Artist Nationality": "British|British, Scottish",
+    "Artist Begin Date": "1879      |1834      ",
+    "Artist End Date": "1889      |1904      ",
+    "Artist Gender": "|",
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500331531|http://vocab.getty.edu/page/ulan/500042183",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q87097134|https://www.wikidata.org/wiki/Q1086650",
+    "Object Date": "1879–82",
+    "Object Begin Date": 1879,
+    "Object End Date": 1882,
+    "Medium": "Glazed earthenware",
+    "Dimensions": "Height: 8 7/16 in. (21.4 cm)",
+    "Credit Line": "Gift of Cynthia Hazen Polsky, 1988",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Ceramics-Pottery",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/207775",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": null,
+    "Tags AAT URL": null,
+    "Tags Wikidata URL": null
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP-13486-030.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/DP-13486-029.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DT6022.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 164357,
+        "role": "Factory",
+        "name": "Linthorpe Pottery Works",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500331531",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q87097134",
+        "gender": ""
+      },
+      {
+        "constituentID": 161847,
+        "role": "Designer",
+        "name": "Christopher Dresser",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500042183",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1086650",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Height",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 21.431293
+        }
+      }
+    ],
+    "tags": null
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "object_id": 458966,
+  "excel_metadata": {
+    "Object Number": "1975.1.26",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 458966,
+    "Gallery Number": 956.0,
+    "Department": "Robert Lehman Collection",
+    "AccessionYear": 1975.0,
+    "Object Name": "Painting",
+    "Title": "The Annunciation",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16238.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Sassetta (Stefano di Giovanni)",
+    "Artist Display Bio": "Italian, Siena or Cortona ca. 1400–1450 Siena",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Sassetta (Stefano di Giovanni)",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1400",
+    "Artist End Date": "1450",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500021319",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q362016",
+    "Object Date": "ca. 1435",
+    "Object Begin Date": 1432,
+    "Object End Date": 1438,
+    "Medium": "Tempera on wood, gold ground",
+    "Dimensions": "Overall, with engaged (modern) frame, 30 x 17 1/8 in. (76.2 x 43.5 cm); painted surface 28 3/4 x 16 1/8 in. (73 x 41 cm)",
+    "Credit Line": "Robert Lehman Collection, 1975",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/458966",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20185319",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Annunciation",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300412102",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q154326"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/rl/original/DP152118.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/rl/original/Annunciation0230.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/DP152119.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/DP152120.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/DP152121.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/DT3018.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/ep1975.1.26.bw.R.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 162381,
+        "role": "Artist",
+        "name": "Sassetta (Stefano di Giovanni)",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500021319",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q362016",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 76.2,
+          "Width": 43.5
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Annunciation",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300412102",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q154326"
+      }
+    ]
+  }
+}

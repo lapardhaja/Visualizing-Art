@@ -1,0 +1,109 @@
+{
+  "object_id": 437518,
+  "excel_metadata": {
+    "Object Number": "25.110.52",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437518,
+    "Gallery Number": 802.0,
+    "Department": "European Paintings",
+    "AccessionYear": 1925.0,
+    "Object Name": "Painting",
+    "Title": "A River in a Meadow",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16234.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Théodore Rousseau",
+    "Artist Display Bio": "French, Paris 1812–1867 Barbizon",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Rousseau, Théodore",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1812",
+    "Artist End Date": "1867",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500019946",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q310025",
+    "Object Date": "ca. 1840",
+    "Object Begin Date": 1835,
+    "Object End Date": 1845,
+    "Medium": "Oil on wood",
+    "Dimensions": "16 3/4 x 26 1/8 in. (42.5 x 66.4 cm)",
+    "Credit Line": "Bequest of Collis P. Huntington, 1900",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437518",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912910",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Cows|Rivers|Landscapes",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300250120|http://vocab.getty.edu/page/aat/300008707|http://vocab.getty.edu/page/aat/300132294",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q830|https://www.wikidata.org/wiki/Q4022|https://www.wikidata.org/wiki/Q191163"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-15888-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162349,
+        "role": "Artist",
+        "name": "Théodore Rousseau",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500019946",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q310025",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 42.5,
+          "Width": 66.4
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 10.16,
+          "Height": 73.6601,
+          "Width": 97.1552
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Cows",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250120",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q830"
+      },
+      {
+        "term": "Rivers",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300008707",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q4022"
+      },
+      {
+        "term": "Landscapes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+      }
+    ]
+  }
+}

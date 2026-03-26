@@ -1,0 +1,98 @@
+{
+  "object_id": 436287,
+  "excel_metadata": {
+    "Object Number": "1982.60.37",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436287,
+    "Gallery Number": 537.0,
+    "Department": "European Paintings",
+    "AccessionYear": 1982.0,
+    "Object Name": "Painting",
+    "Title": "Heinrich(?) vom Rhein zum Mohren (1477–1536)",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16358.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": "Copy after",
+    "Artist Display Name": "Conrad Faber von Creuznach",
+    "Artist Display Bio": " ",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Faber von Creuznach, Conrad",
+    "Artist Nationality": "German",
+    "Artist Begin Date": "1524",
+    "Artist End Date": "1553",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500007968",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q1126773",
+    "Object Date": "late 1520s",
+    "Object Begin Date": 1527,
+    "Object End Date": 1529,
+    "Medium": "Oil and gold on oak",
+    "Dimensions": "Overall 21 3/4 x 15 5/8 in. (55.2 x 39.7 cm); painted surface 21 1/2 x 15 in. (54.6 x 38.1 cm)",
+    "Credit Line": "The Jack and Belle Linsky Collection, 1982",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436287",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19904851",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP164864.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/GermanCat27_Xraynocap.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/GermanCat27_IRR_DetailOfHeadnocap.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 163580,
+        "role": "Artist",
+        "name": "Copy after Conrad Faber von Creuznach",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500007968",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1126773",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 55.2,
+          "Width": 39.7
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

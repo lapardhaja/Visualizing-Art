@@ -1,0 +1,98 @@
+{
+  "object_id": 437869,
+  "excel_metadata": {
+    "Object Number": "1971.86",
+    "Is Highlight": true,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 437869,
+    "Gallery Number": 955.0,
+    "Department": "European Paintings",
+    "AccessionYear": 1971.0,
+    "Object Name": "Painting",
+    "Title": "Juan de Pareja (ca. 1608–1670)",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16261.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Velázquez (Diego Rodríguez de Silva y Velázquez)",
+    "Artist Display Bio": "Spanish, Seville 1599–1660 Madrid",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Velázquez (Diego Rodríguez de Silva y Velázquez)",
+    "Artist Nationality": "Spanish",
+    "Artist Begin Date": "1599",
+    "Artist End Date": "1660",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500016881",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q297",
+    "Object Date": "1650",
+    "Object Begin Date": 1650,
+    "Object End Date": 1650,
+    "Medium": "Oil on canvas",
+    "Dimensions": "32 x 27 1/2 in. (81.3 x 69.9 cm)",
+    "Credit Line": "Purchase, Fletcher and Rogers Funds, and Bequest of Miss Adelaide Milton de Groot (1876-1967), by exchange, supplemented by gifts from friends of the Museum, 1971",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437869",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q4717953",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-14286-001.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-1971_86-2.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-1971_86-3.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 162615,
+        "role": "Artist",
+        "name": "Velázquez (Diego Rodríguez de Silva y Velázquez)",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500016881",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q297",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 81.3,
+          "Width": 69.9
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

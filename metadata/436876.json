@@ -1,0 +1,95 @@
+{
+  "object_id": 436876,
+  "excel_metadata": {
+    "Object Number": "25.110.46",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436876,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1925.0,
+    "Object Name": "Painting",
+    "Title": "Marion Lenbach (1892–1947), the Artist's Daughter",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16458.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Franz von Lenbach",
+    "Artist Display Bio": "German, Schrobenhausen 1836–1904 Munich",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Lenbach, Franz von",
+    "Artist Nationality": "German",
+    "Artist Begin Date": "1836",
+    "Artist End Date": "1904",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500009477",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q585323",
+    "Object Date": "1900",
+    "Object Begin Date": 1900,
+    "Object End Date": 1900,
+    "Medium": "Oil on canvas",
+    "Dimensions": "58 7/8 x 41 1/2 in. (149.5 x 105.4 cm)",
+    "Credit Line": "Bequest of Collis P. Huntington, 1900",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436876",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912520",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Girls|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300247581|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q3031|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/ep25.110.46.R.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 164587,
+        "role": "Artist",
+        "name": "Franz von Lenbach",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500009477",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q585323",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 149.5,
+          "Width": 105.4
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Girls",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300247581",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3031"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

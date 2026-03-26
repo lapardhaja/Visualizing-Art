@@ -1,0 +1,104 @@
+{
+  "object_id": 200152,
+  "excel_metadata": {
+    "Object Number": "48.187.120a, b",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 200152,
+    "Gallery Number": 522,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1948,
+    "Object Name": "Box",
+    "Title": "Box (one of a pair) (part of a toilet service)",
+    "Culture": "French, Rennes",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 3406,
+    "Artist Role": "Maker",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Jean-Baptiste Boullemer",
+    "Artist Display Bio": "1682–1739, master 1705",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Boullemer Jean-Baptiste",
+    "Artist Nationality": " ",
+    "Artist Begin Date": 1682,
+    "Artist End Date": 1739,
+    "Artist Gender": null,
+    "Artist ULAN URL": null,
+    "Artist Wikidata URL": null,
+    "Object Date": "1726–28",
+    "Object Begin Date": 1726,
+    "Object End Date": 1728,
+    "Medium": "Silver",
+    "Dimensions": "Height: 2 7/8 in. (7.3 cm)",
+    "Credit Line": "Bequest of Catherine D. Wentworth, 1948",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Metalwork-Silver",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/200152",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q116310246",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Profiles",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300123319",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q4382010"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/146011.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/146012.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP139081.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 34062,
+        "role": "Maker",
+        "name": "Jean-Baptiste Boullemer",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Other",
+        "elementDescription": "historic dimension",
+        "elementMeasurements": {
+          "Weight": 0.28352708
+        }
+      },
+      {
+        "elementName": "Height",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 7.3025146
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Profiles",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300123319",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q4382010"
+      }
+    ]
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "object_id": 437462,
+  "excel_metadata": {
+    "Object Number": "81.1.666",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437462,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1881.0,
+    "Object Name": "Painting",
+    "Title": "A Spanish Garden",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16546.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Martín Rico y Ortega",
+    "Artist Display Bio": "Spanish, Madrid 1833–1908 Venice",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Rico y Ortega, Martín",
+    "Artist Nationality": "Spanish",
+    "Artist Begin Date": "1833",
+    "Artist End Date": "1908",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500010967",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q427999",
+    "Object Date": "1871",
+    "Object Begin Date": 1871,
+    "Object End Date": 1871,
+    "Medium": "Oil on canvas",
+    "Dimensions": "24 x 15 1/4 in. (61 x 38.7 cm)",
+    "Credit Line": "Bequest of Stephen Whitney Phoenix, 1881",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437462",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912801",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Buildings|Fountains|Gardens|Boys|Girls",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300004789|http://vocab.getty.edu/page/aat/300006179|http://vocab.getty.edu/page/aat/300008090|http://vocab.getty.edu/page/aat/300247598|http://vocab.getty.edu/page/aat/300247581",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q41176|https://www.wikidata.org/wiki/Q483453|https://www.wikidata.org/wiki/Q1107656|https://www.wikidata.org/wiki/Q3010|https://www.wikidata.org/wiki/Q3031"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP267027.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 165460,
+        "role": "Artist",
+        "name": "Martín Rico y Ortega",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500010967",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q427999",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 61,
+          "Width": 38.7
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 8.8900175,
+          "Height": 78.42265,
+          "Width": 56.515114
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Buildings",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300004789",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q41176"
+      },
+      {
+        "term": "Fountains",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300006179",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q483453"
+      },
+      {
+        "term": "Gardens",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300008090",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q1107656"
+      },
+      {
+        "term": "Boys",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300247598",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3010"
+      },
+      {
+        "term": "Girls",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300247581",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3031"
+      }
+    ]
+  }
+}

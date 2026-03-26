@@ -1,0 +1,114 @@
+{
+  "object_id": 435813,
+  "excel_metadata": {
+    "Object Number": "1991.444",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 435813,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1991.0,
+    "Object Name": "Painting",
+    "Title": "Aeneas and the Sibyl in the Underworld",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16313.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Jan Brueghel the Younger",
+    "Artist Display Bio": "Flemish, Antwerp 1601–1678 Antwerp",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Brueghel, Jan, the Younger",
+    "Artist Nationality": "Flemish",
+    "Artist Begin Date": "1601",
+    "Artist End Date": "1678",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500013747",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q285933",
+    "Object Date": "1630s",
+    "Object Begin Date": 1630,
+    "Object End Date": 1639,
+    "Medium": "Oil on copper",
+    "Dimensions": "10 1/2 x 14 1/8 in. (26.7 x 35.9 cm)",
+    "Credit Line": "Gift of Mrs. Erna S. Blade, in memory of her uncle, Sigmund Herrmann, 1991",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/435813",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19913202",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Male Nudes|Female Nudes|Aeneas|Sibyl",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300189568|http://vocab.getty.edu/page/aat/300189568|http://vocab.getty.edu/page/ia/901000142| ",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q40446|https://www.wikidata.org/wiki/Q40446|https://www.wikidata.org/wiki/Q82732|https://www.wikidata.org/wiki/Q273320"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP234687.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 163135,
+        "role": "Artist",
+        "name": "Jan Brueghel the Younger",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500013747",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q285933",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 26.7,
+          "Width": 35.9
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 4.4450088,
+          "Height": 38.100075,
+          "Width": 46.35509
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Male Nudes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300189568",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q40446"
+      },
+      {
+        "term": "Female Nudes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300189568",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q40446"
+      },
+      {
+        "term": "Aeneas",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000142",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q82732"
+      },
+      {
+        "term": "Sibyl",
+        "AAT_URL": null,
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q273320"
+      }
+    ]
+  }
+}

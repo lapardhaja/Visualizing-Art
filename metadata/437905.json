@@ -1,0 +1,95 @@
+{
+  "object_id": 437905,
+  "excel_metadata": {
+    "Object Number": "25.106.21",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437905,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1925.0,
+    "Object Name": "Painting, miniature",
+    "Title": "A Man with the Initials JD",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10868.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Villers",
+    "Artist Display Bio": "French, active ca. 1781–93",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Villers",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1781",
+    "Artist End Date": "1793",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500438607",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q22094516",
+    "Object Date": "1790",
+    "Object Begin Date": 1790,
+    "Object End Date": 1790,
+    "Medium": "Ivory",
+    "Dimensions": "Diameter 2 1/2 in. (62 mm)",
+    "Credit Line": "Gift of Mrs. Louis V. Bell, in memory of her husband, 1925",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Miniatures",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437905",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19913696",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP327719.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 108681,
+        "role": "Artist",
+        "name": "Villers",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500438607",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q22094516",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 6.3,
+          "Width": 6.3
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

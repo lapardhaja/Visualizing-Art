@@ -1,0 +1,112 @@
+{
+  "object_id": 11656,
+  "excel_metadata": {
+    "Object Number": "21.159.2",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 11656,
+    "Gallery Number": NaN,
+    "Department": "The American Wing",
+    "AccessionYear": 1921.0,
+    "Object Name": "Painting",
+    "Title": "Madonna and Child and Little Saint John",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 276016249.0,
+    "Artist Role": "Artist|Artist",
+    "Artist Prefix": " |After",
+    "Artist Display Name": "Robert Loftin Newman|Gilbert Stuart",
+    "Artist Display Bio": "1827–1912|American, North Kingston, Rhode Island 1755–1828 Boston, Massachusetts",
+    "Artist Suffix": " | ",
+    "Artist Alpha Sort": "Newman, Robert Loftin|Stuart, Gilbert",
+    "Artist Nationality": "American|American",
+    "Artist Begin Date": "1827      |1755      ",
+    "Artist End Date": "1912      |1828      ",
+    "Artist Gender": "|",
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500009311|http://vocab.getty.edu/page/ulan/500010392",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q7346973|https://www.wikidata.org/wiki/Q41402",
+    "Object Date": "by 1894",
+    "Object Begin Date": 1893,
+    "Object End Date": 1894,
+    "Medium": "Oil on canvas",
+    "Dimensions": "10 1/8 x 12 1/8 in. (25.7 x 30.8 cm)",
+    "Credit Line": "Gift of Mrs. Wallace Sawyer, 1921",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/11656",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19924049",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Madonna and Child|Saints",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901000052|http://vocab.getty.edu/page/aat/300150555",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q9309699|https://www.wikidata.org/wiki/Q43115"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/ap21.159.2.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 2760,
+        "role": "Artist",
+        "name": "Robert Loftin Newman",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500009311",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q7346973",
+        "gender": ""
+      },
+      {
+        "constituentID": 162490,
+        "role": "Artist",
+        "name": "After Gilbert Stuart",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500010392",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q41402",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 25.7,
+          "Width": 30.8
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 7.3,
+          "Height": 43.5,
+          "Width": 48.5
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Madonna and Child",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000052",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q9309699"
+      },
+      {
+        "term": "Saints",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300150555",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q43115"
+      }
+    ]
+  }
+}

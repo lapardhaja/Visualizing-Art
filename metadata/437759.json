@@ -1,0 +1,98 @@
+{
+  "object_id": 437759,
+  "excel_metadata": {
+    "Object Number": "71.34",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437759,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1871.0,
+    "Object Name": "Painting",
+    "Title": "Portrait of a Woman",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10835.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Bernhard Strigel",
+    "Artist Display Bio": "German, Memmingen 1460–1528 Memmingen",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Strigel, Bernhard",
+    "Artist Nationality": "German",
+    "Artist Begin Date": "1460",
+    "Artist End Date": "1528",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500028571",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q637420",
+    "Object Date": "ca. 1510–15",
+    "Object Begin Date": 1510,
+    "Object End Date": 1515,
+    "Medium": "Oil on linden",
+    "Dimensions": "15 1/8 x 10 1/2 in. (38.4 x 26.7 cm)",
+    "Credit Line": "Purchase, 1871",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437759",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19911479",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Portraits|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP280381.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/GermanCat52_IRR_detail.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/GermanCat52_Xray.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 108350,
+        "role": "Artist",
+        "name": "Bernhard Strigel",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500028571",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q637420",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 38.4,
+          "Width": 26.7
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "object_id": 436449,
+  "excel_metadata": {
+    "Object Number": "1993.400.3",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 436449,
+    "Gallery Number": 822.0,
+    "Department": "European Paintings",
+    "AccessionYear": 1993.0,
+    "Object Name": "Painting",
+    "Title": "The Siesta",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16192.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Paul Gauguin",
+    "Artist Display Bio": "French, Paris 1848–1903 Atuona, Hiva Oa, Marquesas Islands",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Gauguin, Paul",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1848",
+    "Artist End Date": "1903",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500011421",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q37693",
+    "Object Date": "ca. 1892–94",
+    "Object Begin Date": 1892,
+    "Object End Date": 1894,
+    "Medium": "Oil on canvas",
+    "Dimensions": "35 x 45 3/4 in. (88.9 x 116.2 cm)",
+    "Credit Line": "The Walter H. and Leonore Annenberg Collection, Gift of Walter H. and Leonore Annenberg, 1993, Bequest of Walter H. Annenberg, 2002",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436449",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q3212828",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Women|Baskets|Irons",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/aat/300194498|http://vocab.getty.edu/page/aat/300185311",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q201097|https://www.wikidata.org/wiki/Q483634"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT1952.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 161924,
+        "role": "Artist",
+        "name": "Paul Gauguin",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500011421",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q37693",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 88.9,
+          "Width": 116.2
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Baskets",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300194498",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q201097"
+      },
+      {
+        "term": "Irons",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300185311",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q483634"
+      }
+    ]
+  }
+}

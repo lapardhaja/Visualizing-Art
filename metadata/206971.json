@@ -1,0 +1,90 @@
+{
+  "object_id": 206971,
+  "excel_metadata": {
+    "Object Number": "1982.60.56",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 206971,
+    "Gallery Number": 539,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1982,
+    "Object Name": "Commode",
+    "Title": "Commode",
+    "Culture": "French, Paris",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 3354,
+    "Artist Role": "Maker",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Charles Cressent",
+    "Artist Display Bio": "French, Amiens 1685–1768 Paris",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Cressent, Charles",
+    "Artist Nationality": "French",
+    "Artist Begin Date": 1685,
+    "Artist End Date": 1768,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500001075",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q2958822",
+    "Object Date": "ca. 1745–49",
+    "Object Begin Date": 1740,
+    "Object End Date": 1754,
+    "Medium": "Pine and oak veneered with amaranth and bois satiné; drawer bottoms of walnut, drawer sides of oak, drawer fronts of pine; gilt-bronze mounts; portoro marble top",
+    "Dimensions": "34 1/2 x 55 x 22 3/4 in. (87.6 x 139.7 x 57.8cm)",
+    "Credit Line": "The Jack and Belle Linsky Collection, 1982",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Woodwork-Furniture",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/206971",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q116308143",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": null,
+    "Tags AAT URL": null,
+    "Tags Wikidata URL": null
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP105695.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/DP105697.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP105696.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP120723.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP105698.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 33545,
+        "role": "Maker",
+        "name": "Charles Cressent",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500001075",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q2958822",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 57.8,
+          "Height": 87.6,
+          "Width": 139.7
+        }
+      }
+    ],
+    "tags": null
+  }
+}

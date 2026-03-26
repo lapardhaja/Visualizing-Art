@@ -1,0 +1,119 @@
+{
+  "object_id": 435904,
+  "excel_metadata": {
+    "Object Number": "49.107",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 435904,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1949.0,
+    "Object Name": "Painting",
+    "Title": "Still Life with a Skull and a Writing Quill",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10750.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Pieter Claesz",
+    "Artist Display Bio": "Dutch, Berchem? 1596/97–1660 Haarlem",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Claesz, Pieter",
+    "Artist Nationality": "Dutch",
+    "Artist Begin Date": "1596",
+    "Artist End Date": "1660",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500115282",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q354832",
+    "Object Date": "1628",
+    "Object Begin Date": 1628,
+    "Object End Date": 1628,
+    "Medium": "Oil on wood",
+    "Dimensions": "9 1/2 x 14 1/8 in. (24.1 x 35.9 cm)",
+    "Credit Line": "Rogers Fund, 1949",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/435904",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19911680",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Books|Skulls|Still Life|Drinking Glasses|Lamps",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300028051|http://vocab.getty.edu/page/aat/300191856|http://vocab.getty.edu/page/aat/300015638|http://vocab.getty.edu/page/aat/300043230|http://vocab.getty.edu/page/aat/300037592",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q571|https://www.wikidata.org/wiki/Q13147|https://www.wikidata.org/wiki/Q170571|https://www.wikidata.org/wiki/Q56369598|https://www.wikidata.org/wiki/Q1138737"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP145929.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 107505,
+        "role": "Artist",
+        "name": "Pieter Claesz",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115282",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q354832",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 24.1,
+          "Width": 35.9
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 5.08,
+          "Height": 38.1001,
+          "Width": 49.5301
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Books",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300028051",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q571"
+      },
+      {
+        "term": "Skulls",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300191856",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q13147"
+      },
+      {
+        "term": "Still Life",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015638",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q170571"
+      },
+      {
+        "term": "Drinking Glasses",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300043230",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q56369598"
+      },
+      {
+        "term": "Lamps",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300037592",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q1138737"
+      }
+    ]
+  }
+}

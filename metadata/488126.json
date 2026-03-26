@@ -1,0 +1,105 @@
+{
+  "object_id": 488126,
+  "excel_metadata": {
+    "Object Number": "43.47.10",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 488126,
+    "Gallery Number": NaN,
+    "Department": "Modern and Contemporary Art",
+    "AccessionYear": 1943.0,
+    "Object Name": "Painting",
+    "Title": "\"One Third of a Nation\"",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 14435.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "O. Louis Guglielmi",
+    "Artist Display Bio": "American (born Egypt), Cairo 1906–1956 Amagansett, New York",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Guglielmi, O Louis",
+    "Artist Nationality": "American, born Egypt",
+    "Artist Begin Date": "1906",
+    "Artist End Date": "1956",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500009048",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q2036288",
+    "Object Date": "1939",
+    "Object Begin Date": 1939,
+    "Object End Date": 1939,
+    "Medium": "Oil and tempera on wood",
+    "Dimensions": "30 × 24 in. (76.2 × 61 cm)",
+    "Credit Line": "Gift of New York City W. P. A., 1943",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/488126",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20190808",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Coffins|Buildings",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300197585|http://vocab.getty.edu/page/aat/300004789",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q184418|https://www.wikidata.org/wiki/Q41176"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ma/original/LC-43_47_10-Overall_Recto-20240109-01.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 144359,
+        "role": "Artist",
+        "name": "O. Louis Guglielmi",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500009048",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q2036288",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 2.3812547,
+          "Height": 76.2,
+          "Width": 61
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": "F.43.47.10 Silver gilded wood frame-AR plexi",
+        "elementMeasurements": {
+          "Depth": 5.1816106,
+          "Height": 88.58268,
+          "Width": 73.977646
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Buildings",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300004789",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q41176"
+      },
+      {
+        "term": "Coffins",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300197585",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q184418"
+      }
+    ]
+  }
+}

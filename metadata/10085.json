@@ -1,0 +1,114 @@
+{
+  "object_id": 10085,
+  "excel_metadata": {
+    "Object Number": "29.85",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 10085,
+    "Gallery Number": 747.0,
+    "Department": "The American Wing",
+    "AccessionYear": 1929.0,
+    "Object Name": "Painting",
+    "Title": "James Badger",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 231.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Joseph Badger",
+    "Artist Display Bio": "1708–1765",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Badger, Joseph",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1708",
+    "Artist End Date": "1765",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500022577",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q3184555",
+    "Object Date": "1760",
+    "Object Begin Date": 1760,
+    "Object End Date": 1760,
+    "Medium": "Oil on canvas",
+    "Dimensions": "42 1/2 x 33 1/8 in. (108 x 84.1 cm)",
+    "Credit Line": "Rogers Fund, 1929",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/10085",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19925408",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Birds|Cherries|Boys|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300266506| |http://vocab.getty.edu/page/aat/300247598|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q5113|https://www.wikidata.org/wiki/Q196|https://www.wikidata.org/wiki/Q3010|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/ap29.85.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 2317,
+        "role": "Artist",
+        "name": "Joseph Badger",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500022577",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3184555",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 108,
+          "Width": 84.1
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 6,
+          "Height": 117.5,
+          "Width": 95
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Birds",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300266506",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q5113"
+      },
+      {
+        "term": "Cherries",
+        "AAT_URL": null,
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q196"
+      },
+      {
+        "term": "Boys",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300247598",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3010"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

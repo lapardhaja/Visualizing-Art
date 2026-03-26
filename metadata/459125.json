@@ -1,0 +1,104 @@
+{
+  "object_id": 459125,
+  "excel_metadata": {
+    "Object Number": "1975.1.1411",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 459125,
+    "Gallery Number": NaN,
+    "Department": "Robert Lehman Collection",
+    "AccessionYear": 1975.0,
+    "Object Name": "Painting",
+    "Title": "The Lamentation",
+    "Culture": "Netherlandish",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 13542.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Netherlandish",
+    "Artist Display Bio": " ",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Netherlandish",
+    "Artist Nationality": "Netherlandish",
+    "Artist Begin Date": "1545",
+    "Artist End Date": "1555",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": NaN,
+    "Artist Wikidata URL": NaN,
+    "Object Date": "ca. 1550",
+    "Object Begin Date": 1547,
+    "Object End Date": 1553,
+    "Medium": "Oil on copper alloy",
+    "Dimensions": "5 1/4 x 4 7/16 in. (13.4 x 11.2 cm), painted surface 4 3/4 x 3 7/8 in. (12.2 x 9.9 cm)",
+    "Credit Line": "Robert Lehman Collection, 1975",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/459125",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20186550",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Lamentation|Christ|Virgin Mary",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901001196|http://vocab.getty.edu/page/ia/901000087|http://vocab.getty.edu/page/ia/901000032",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q3155356|https://www.wikidata.org/wiki/Q642420|https://www.wikidata.org/wiki/Q345"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/rl/original/DP-19531-094.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/rl/original/DP-19531-095.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/264391_1975.1.1411.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/264392.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 135425,
+        "role": "Artist",
+        "name": "Netherlandish",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 13.4,
+          "Width": 11.2
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Christ",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+      },
+      {
+        "term": "Virgin Mary",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000032",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q345"
+      },
+      {
+        "term": "Lamentation",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901001196",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3155356"
+      }
+    ]
+  }
+}

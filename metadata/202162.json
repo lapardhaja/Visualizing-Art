@@ -1,0 +1,104 @@
+{
+  "object_id": 202162,
+  "excel_metadata": {
+    "Object Number": "58.75.56",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 202162,
+    "Gallery Number": 546,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1958,
+    "Object Name": "Writing and eating table",
+    "Title": "Writing and eating table",
+    "Culture": "French, Paris and Sèvres",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 1633360000000000,
+    "Artist Role": "Maker|Manufactory|Decorator",
+    "Artist Prefix": " |Porcelain plaques by|Plaque possibly decorated by",
+    "Artist Display Name": "Martin Carlin|Sèvres Manufactory|François Bouilliat",
+    "Artist Display Bio": "French, near Freiburg im Breisgau ca. 1730–1785 Paris|French, 1740–present|active 1785–93",
+    "Artist Suffix": " | | ",
+    "Artist Alpha Sort": "Carlin, Martin|Sèvres Manufactory|Bouilliat François",
+    "Artist Nationality": "French|French| ",
+    "Artist Begin Date": "1725      |1740      |1785      ",
+    "Artist End Date": "1785      |9999      |1793      ",
+    "Artist Gender": "||",
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500014041|http://vocab.getty.edu/page/ulan/500054661|",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q433205|https://www.wikidata.org/wiki/Q653307|",
+    "Object Date": "ca. 1780",
+    "Object Begin Date": 1775,
+    "Object End Date": 1785,
+    "Medium": "Oak veneered with tulipwood, gilt bronze, soft-paste porcelain, marble",
+    "Dimensions": "Overall: 29 1/4 × 13 1/2 × 10 1/4 in. (74.3 × 34.3 × 26 cm)",
+    "Credit Line": "Gift of Samuel H. Kress Foundation, 1958",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Woodwork-Furniture",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/202162",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q116310309",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": null,
+    "Tags AAT URL": null,
+    "Tags Wikidata URL": null
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/SF58_75_56.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/ES5293.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/166557.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 163336,
+        "role": "Maker",
+        "name": "Martin Carlin",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500014041",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q433205",
+        "gender": ""
+      },
+      {
+        "constituentID": 164856,
+        "role": "Manufactory",
+        "name": "Porcelain plaques by Sèvres Manufactory",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500054661",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q653307",
+        "gender": ""
+      },
+      {
+        "constituentID": 35461,
+        "role": "Decorator",
+        "name": "Plaque possibly decorated by François Bouilliat",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 26.035051,
+          "Height": 74.29515,
+          "Width": 34.29007
+        }
+      }
+    ],
+    "tags": null
+  }
+}

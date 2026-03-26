@@ -1,0 +1,119 @@
+{
+  "object_id": 436570,
+  "excel_metadata": {
+    "Object Number": "05.42",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436570,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1905.0,
+    "Object Name": "Painting",
+    "Title": "The Adoration of the Shepherds",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16195.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "El Greco (Domenikos Theotokopoulos)",
+    "Artist Display Bio": "Greek, Iráklion (Candia) 1541–1614 Toledo",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Greco, El (Domenikos Theotokopoulos)",
+    "Artist Nationality": "Greek",
+    "Artist Begin Date": "1540",
+    "Artist End Date": "1614",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500010916",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q301",
+    "Object Date": "ca. 1605–10",
+    "Object Begin Date": 1605,
+    "Object End Date": 1610,
+    "Medium": "Oil on canvas",
+    "Dimensions": "56 7/8 x 39 7/8 in. (144.5 x 101.3 cm); with added strips 64 1/2 x 42 in. (163.8 x 106.7 cm)",
+    "Credit Line": "Rogers Fund, 1905",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436570",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19911449",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Jesus|Cows|Lambs|Adoration of the Shepherds|Virgin Mary",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901000087|http://vocab.getty.edu/page/aat/300250120|http://vocab.getty.edu/page/aat/300250289|http://vocab.getty.edu/page/ia/901000229|http://vocab.getty.edu/page/ia/901000032",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q302|https://www.wikidata.org/wiki/Q830|https://www.wikidata.org/wiki/Q4575936|https://www.wikidata.org/wiki/Q1029715|https://www.wikidata.org/wiki/Q345"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP123919.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 161956,
+        "role": "Artist",
+        "name": "El Greco (Domenikos Theotokopoulos)",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500010916",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q301",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 163.8,
+          "Width": 106.7
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 8.89,
+          "Height": 173.9903,
+          "Width": 129.5403
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Cows",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250120",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q830"
+      },
+      {
+        "term": "Lambs",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250289",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q4575936"
+      },
+      {
+        "term": "Virgin Mary",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000032",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q345"
+      },
+      {
+        "term": "Jesus",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q302"
+      },
+      {
+        "term": "Adoration of the Shepherds",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000229",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q1029715"
+      }
+    ]
+  }
+}

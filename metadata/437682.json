@@ -1,0 +1,104 @@
+{
+  "object_id": 437682,
+  "excel_metadata": {
+    "Object Number": "67.187.103",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437682,
+    "Gallery Number": 824.0,
+    "Department": "European Paintings",
+    "AccessionYear": 1967.0,
+    "Object Name": "Painting",
+    "Title": "View of Marly-le-Roi from Coeur-Volant",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16511.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Alfred Sisley",
+    "Artist Display Bio": "British, Paris 1839–1899 Moret-sur-Loing",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Sisley, Alfred",
+    "Artist Nationality": "British",
+    "Artist Begin Date": "1839",
+    "Artist End Date": "1899",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500027485",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q175130",
+    "Object Date": "1876",
+    "Object Begin Date": 1876,
+    "Object End Date": 1876,
+    "Medium": "Oil on canvas",
+    "Dimensions": "25 3/4 x 36 3/8 in. (65.4 x 92.4 cm)",
+    "Credit Line": "Bequest of Miss Adelaide Milton de Groot (1876-1967), 1967",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437682",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19820399",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Gardens|Towns",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300008090|http://vocab.getty.edu/page/aat/300008375",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q1107656|https://www.wikidata.org/wiki/Q3957"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP130325.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 165111,
+        "role": "Artist",
+        "name": "Alfred Sisley",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500027485",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q175130",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 8.89,
+          "Height": 108.2677,
+          "Width": 81.2802
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 65.4,
+          "Width": 92.4
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Gardens",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300008090",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q1107656"
+      },
+      {
+        "term": "Towns",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300008375",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3957"
+      }
+    ]
+  }
+}

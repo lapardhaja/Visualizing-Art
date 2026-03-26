@@ -1,0 +1,121 @@
+{
+  "object_id": 464707,
+  "excel_metadata": {
+    "Object Number": "17.190.905",
+    "Is Highlight": true,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 464707,
+    "Gallery Number": 306,
+    "Department": "Medieval Art",
+    "AccessionYear": 1917,
+    "Object Name": "Statuette",
+    "Title": "Saint Catherine of Alexandria",
+    "Culture": "French",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": null,
+    "Artist Role": null,
+    "Artist Prefix": null,
+    "Artist Display Name": null,
+    "Artist Display Bio": null,
+    "Artist Suffix": null,
+    "Artist Alpha Sort": null,
+    "Artist Nationality": null,
+    "Artist Begin Date": null,
+    "Artist End Date": null,
+    "Artist Gender": null,
+    "Artist ULAN URL": null,
+    "Artist Wikidata URL": null,
+    "Object Date": "early 15th century",
+    "Object Begin Date": 1400,
+    "Object End Date": 1450,
+    "Medium": "Gold, ronde-basse enamel, jewels",
+    "Dimensions": "Overall (without wooden base): 3 7/8 x 2 1/8 x 1 1/8 in. (9.8 x 5.4 x 2.8 cm)_x000D_\nOverall (with wooden base): 4 13/16 x 2 3/16 x 1 in. (12.3 x 5.5 x 2.6 cm)_x000D_\nBase (wooden): 1 1/8 x 1 x 2 3/16 in. (2.9 x 2.6 x 5.5 cm)_x000D_\nBase (Marble): 1 3/4 x 1 3/8 x 2 15/16 in. (4.4 x 3.5 x 7.4 cm)",
+    "Credit Line": "Gift of J. Pierpont Morgan, 1917",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Enamels-Ronde Bosse",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/464707",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q29385387",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Women|Saint Catherine",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025943| ",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q467| "
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/md/original/DP159988.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/md/original/sf17-190-905s1at.jpg",
+      "https://images.metmuseum.org/CRDImages/md/original/sf17-190-905s2at.jpg",
+      "https://images.metmuseum.org/CRDImages/md/original/sf17-190-905s3at.jpg",
+      "https://images.metmuseum.org/CRDImages/md/original/sf17-190-905s4at.jpg",
+      "https://images.metmuseum.org/CRDImages/md/original/sf17-190-905d1at.jpg",
+      "https://images.metmuseum.org/CRDImages/md/original/sf17-190-905s5.jpg"
+    ],
+    "constituents": null,
+    "measurements": [
+      {
+        "elementName": "Base",
+        "elementDescription": "Marble",
+        "elementMeasurements": {
+          "Depth": 4.4,
+          "Height": 3.5,
+          "Width": 7.4
+        }
+      },
+      {
+        "elementName": "Base",
+        "elementDescription": "wooden",
+        "elementMeasurements": {
+          "Depth": 2.6,
+          "Height": 2.9,
+          "Width": 5.5
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": "with wooden base",
+        "elementMeasurements": {
+          "Depth": 2.6,
+          "Height": 12.3,
+          "Width": 5.5
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": "without wooden base",
+        "elementMeasurements": {
+          "Depth": 2.8,
+          "Height": 9.8,
+          "Width": 5.4
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Saint Catherine",
+        "AAT_URL": null,
+        "Wikidata_URL": null
+      }
+    ]
+  }
+}

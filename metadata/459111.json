@@ -1,0 +1,98 @@
+{
+  "object_id": 459111,
+  "excel_metadata": {
+    "Object Number": "1975.1.200",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 459111,
+    "Gallery Number": NaN,
+    "Department": "Robert Lehman Collection",
+    "AccessionYear": 1975.0,
+    "Object Name": "Painting",
+    "Title": "Sea and Cliffs",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16230.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Auguste Renoir",
+    "Artist Display Bio": "French, Limoges 1841–1919 Cagnes-sur-Mer",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Renoir, Auguste",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1841",
+    "Artist End Date": "1919",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500115467",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q39931",
+    "Object Date": "ca. 1885",
+    "Object Begin Date": 1880,
+    "Object End Date": 1890,
+    "Medium": "Oil on canvas",
+    "Dimensions": "20 1/4 x 25 in. (51.4 x 63.5 cm)",
+    "Credit Line": "Robert Lehman Collection, 1975",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/459111",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20186701",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Landscapes|Boats",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300132294|http://vocab.getty.edu/page/aat/300178749",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q191163|https://www.wikidata.org/wiki/Q35872"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/rl/original/DT3130.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/rl/original/ep1975.1.200.bw.R.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/2428.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 162302,
+        "role": "Artist",
+        "name": "Auguste Renoir",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115467",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q39931",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 51.4,
+          "Width": 63.5
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Landscapes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+      },
+      {
+        "term": "Boats",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300178749",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q35872"
+      }
+    ]
+  }
+}

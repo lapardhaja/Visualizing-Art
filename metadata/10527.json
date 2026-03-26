@@ -1,0 +1,107 @@
+{
+  "object_id": 10527,
+  "excel_metadata": {
+    "Object Number": "43.86.4",
+    "Is Highlight": true,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 10527,
+    "Gallery Number": 748.0,
+    "Department": "The American Wing",
+    "AccessionYear": 1943.0,
+    "Object Name": "Painting",
+    "Title": "Midshipman Augustus Brine",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16178.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "John Singleton Copley",
+    "Artist Display Bio": "American, Boston, Massachusetts 1738–1815 London",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Copley, John Singleton",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1738",
+    "Artist End Date": "1815",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500009177",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q316016",
+    "Object Date": "1782",
+    "Object Begin Date": 1782,
+    "Object End Date": 1782,
+    "Medium": "Oil on canvas",
+    "Dimensions": "50 x 40 in. (127 x 101.6 cm)",
+    "Credit Line": "Bequest of Richard De Wolfe Brixey, 1943",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/10527",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19925019",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Boys|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300247598|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q3010|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DT11882.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ad/original/DP257807.jpg",
+      "https://images.metmuseum.org/CRDImages/ad/original/DP256027.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 161784,
+        "role": "Artist",
+        "name": "John Singleton Copley",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500009177",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q316016",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 127,
+          "Width": 101.6
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 10.2,
+          "Height": 152.4,
+          "Width": 127.6
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Boys",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300247598",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3010"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

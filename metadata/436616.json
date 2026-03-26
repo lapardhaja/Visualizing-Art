@@ -1,0 +1,105 @@
+{
+  "object_id": 436616,
+  "excel_metadata": {
+    "Object Number": "14.40.602",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 436616,
+    "Gallery Number": 964.0,
+    "Department": "European Paintings",
+    "AccessionYear": 1914.0,
+    "Object Name": "Painting",
+    "Title": "Young Man and Woman in an Inn",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16197.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Frans Hals",
+    "Artist Display Bio": "Dutch, Antwerp 1582/83–1666 Haarlem",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Hals, Frans",
+    "Artist Nationality": "Dutch",
+    "Artist Begin Date": "1582",
+    "Artist End Date": "1666",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500027794",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q167654",
+    "Object Date": "1623",
+    "Object Begin Date": 1623,
+    "Object End Date": 1623,
+    "Medium": "Oil on canvas",
+    "Dimensions": "41 1/2 x 31 1/4 in. (105.4 x 79.4 cm)",
+    "Credit Line": "Bequest of Benjamin Altman, 1913",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436616",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q17355822",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Happiness|Men|Women|Dogs",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300410323|http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/aat/300265714",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8|https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q144"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP145899.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 161974,
+        "role": "Artist",
+        "name": "Frans Hals",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500027794",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q167654",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 105.4,
+          "Width": 79.4
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Happiness",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300410323",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Dogs",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300265714",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q144"
+      }
+    ]
+  }
+}

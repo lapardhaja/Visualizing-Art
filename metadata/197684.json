@@ -1,0 +1,83 @@
+{
+  "object_id": 197684,
+  "excel_metadata": {
+    "Object Number": "35.80.85",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 197684,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1935,
+    "Object Name": "Spoon",
+    "Title": "Master spoon",
+    "Culture": "British, London",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 3897,
+    "Artist Role": "Maker",
+    "Artist Prefix": " ",
+    "Artist Display Name": "William Cawdell",
+    "Artist Display Bio": "British, 1560–1625",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Cawdell, William",
+    "Artist Nationality": "British",
+    "Artist Begin Date": 1560,
+    "Artist End Date": 1625,
+    "Artist Gender": null,
+    "Artist ULAN URL": null,
+    "Artist Wikidata URL": null,
+    "Object Date": "1601–2",
+    "Object Begin Date": 1601,
+    "Object End Date": 1602,
+    "Medium": "Silver, parcel gilt",
+    "Dimensions": "Length: 7 in. (17.8 cm)",
+    "Credit Line": "Bequest of Mary Strong Shattuck, 1935",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Metalwork-Silver",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/197684",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": null,
+    "Tags AAT URL": null,
+    "Tags Wikidata URL": null
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/100809.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 38970,
+        "role": "Maker",
+        "name": "William Cawdell",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Length",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Length": 17.780035
+        }
+      }
+    ],
+    "tags": null
+  }
+}

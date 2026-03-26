@@ -1,0 +1,124 @@
+{
+  "object_id": 436576,
+  "excel_metadata": {
+    "Object Number": "56.48",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 436576,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1956.0,
+    "Object Name": "Painting",
+    "Title": "The Vision of Saint John",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16195.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "El Greco (Domenikos Theotokopoulos)",
+    "Artist Display Bio": "Greek, Iráklion (Candia) 1541–1614 Toledo",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Greco, El (Domenikos Theotokopoulos)",
+    "Artist Nationality": "Greek",
+    "Artist Begin Date": "1540",
+    "Artist End Date": "1614",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500010916",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q301",
+    "Object Date": "ca. 1608–14",
+    "Object Begin Date": 1608,
+    "Object End Date": 1614,
+    "Medium": "Oil on canvas",
+    "Dimensions": "87 1/2 x 76 in. (222.3 x 193 cm); with added strips 88 1/2 x 78 1/2 in. (224.8 x 199.4 cm) [top truncated]",
+    "Credit Line": "Rogers Fund, 1956",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436576",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q1220013",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Infants|Male Nudes|Female Nudes|Saint John the Evangelist",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300189561|http://vocab.getty.edu/page/aat/300189568|http://vocab.getty.edu/page/aat/300189568|http://vocab.getty.edu/page/ia/901001171",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q998|https://www.wikidata.org/wiki/Q40446|https://www.wikidata.org/wiki/Q40446|https://www.wikidata.org/wiki/Q328804"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-17641-001.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-56_48-2.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-56_48-3.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 161956,
+        "role": "Artist",
+        "name": "El Greco (Domenikos Theotokopoulos)",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500010916",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q301",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 222.3,
+          "Width": 193
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": "Travel Frame",
+        "elementMeasurements": {
+          "Depth": 10.16,
+          "Height": 251.4605,
+          "Width": 228.6005
+        }
+      },
+      {
+        "elementName": "Other",
+        "elementDescription": "Picture + Frame (F.56.48A)",
+        "elementMeasurements": {
+          "Weight": 79.37948
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Infants",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300189561",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q998"
+      },
+      {
+        "term": "Male Nudes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300189568",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q40446"
+      },
+      {
+        "term": "Female Nudes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300189568",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q40446"
+      },
+      {
+        "term": "Saint John the Evangelist",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901001171",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q328804"
+      }
+    ]
+  }
+}

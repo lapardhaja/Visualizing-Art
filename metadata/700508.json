@@ -1,0 +1,103 @@
+{
+  "object_id": 700508,
+  "excel_metadata": {
+    "Object Number": 2016.408,
+    "Is Highlight": true,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 700508,
+    "Gallery Number": null,
+    "Department": "Asian Art",
+    "AccessionYear": 2016,
+    "Object Name": "Crown",
+    "Title": null,
+    "Culture": "Nepal",
+    "Period": "Early Malla period",
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": null,
+    "Artist Role": null,
+    "Artist Prefix": null,
+    "Artist Display Name": null,
+    "Artist Display Bio": null,
+    "Artist Suffix": null,
+    "Artist Alpha Sort": null,
+    "Artist Nationality": null,
+    "Artist Begin Date": null,
+    "Artist End Date": null,
+    "Artist Gender": null,
+    "Artist ULAN URL": null,
+    "Artist Wikidata URL": null,
+    "Object Date": "13th–early 14th century",
+    "Object Begin Date": 1200,
+    "Object End Date": 1333,
+    "Medium": "Gilt-copper alloy inlaid with semiprecious stones, lapis lazuli, and turquoise_x000D_\n",
+    "Dimensions": "Overall: H. 12 in. (30.5 cm.); W. 9 in. (30.5 cm); D. 8 1/4 in. (21 cm)_x000D_\nOverall with mount: H. 18 1/2 (47 cm); W. 9 in. (30.5 cm); D. 8 1/2 in. (21.6 cm) _x000D_\nBase (mount foot): L. 6 in. (15.2 cm); W. 6 in. (15.2 cm); D. 6 in. (15.2 in.) _x000D_\n",
+    "Credit Line": "Gift of Barbara and David Kipper, 2016",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Sculpture",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/700508",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": null,
+    "Tags AAT URL": null,
+    "Tags Wikidata URL": null
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/as/original/DP-1041-001.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/as/original/DT369280.jpg",
+      "https://images.metmuseum.org/CRDImages/as/original/DP-1041-002.jpg",
+      "https://images.metmuseum.org/CRDImages/as/original/DP-1041-003.jpg",
+      "https://images.metmuseum.org/CRDImages/as/original/DP-1041-004.jpg",
+      "https://images.metmuseum.org/CRDImages/as/original/DP-1041-005.jpg",
+      "https://images.metmuseum.org/CRDImages/as/original/DP-1041-006.jpg",
+      "https://images.metmuseum.org/CRDImages/as/original/DP-1041-007.jpg",
+      "https://images.metmuseum.org/CRDImages/as/original/DP-1041-008.jpg"
+    ],
+    "constituents": null,
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 21,
+          "Height": 30.48006,
+          "Width": 22.860046
+        }
+      },
+      {
+        "elementName": "Base",
+        "elementDescription": "mount foot",
+        "elementMeasurements": {
+          "Depth": 15.24003,
+          "Length": 15.24003,
+          "Width": 15.24003
+        }
+      },
+      {
+        "elementName": "Overall with mounting",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 21.590044,
+          "Height": 46.990093,
+          "Width": 22.860046
+        }
+      }
+    ],
+    "tags": null
+  }
+}

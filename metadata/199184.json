@@ -1,0 +1,105 @@
+{
+  "object_id": 199184,
+  "excel_metadata": {
+    "Object Number": "42.205.97, .98",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 199184,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1942,
+    "Object Name": "Cup and saucer",
+    "Title": "Cup and saucer",
+    "Culture": "German, Meissen",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 16483,
+    "Artist Role": "Manufactory",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Meissen Manufactory",
+    "Artist Display Bio": "German, 1710–present",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Meissen Manufactory",
+    "Artist Nationality": "German",
+    "Artist Begin Date": 1710,
+    "Artist End Date": 9999,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500054662",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q822407",
+    "Object Date": "ca. 1740",
+    "Object Begin Date": 1735,
+    "Object End Date": 1745,
+    "Medium": "Hard-paste porcelain",
+    "Dimensions": "Cup (.97): 2 15/16 × 3 7/8 in. (7.5 × 9.8 cm);_x000D_\nSaucer (.98): 1 1/2 × 5 3/4 in. (3.8 × 14.6 cm)",
+    "Credit Line": "The George B. McClellan Collection, Gift of Mrs. George B. McClellan, 1941",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Ceramics-Porcelain",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/199184",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Birds|Flowers",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300266506|http://vocab.getty.edu/page/aat/300132399",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q5113|https://www.wikidata.org/wiki/Q506"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/133622.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/133623.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 164832,
+        "role": "Manufactory",
+        "name": "Meissen Manufactory",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500054662",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q822407",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": "Saucer (.98)",
+        "elementMeasurements": {
+          "Diameter": 14.605029,
+          "Height": 3.8100076
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": "Cup (.97)",
+        "elementMeasurements": {
+          "Diameter": 9.84252,
+          "Height": 7.461265
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Birds",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300266506",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q5113"
+      },
+      {
+        "term": "Flowers",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132399",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q506"
+      }
+    ]
+  }
+}

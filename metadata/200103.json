@@ -1,0 +1,95 @@
+{
+  "object_id": 200103,
+  "excel_metadata": {
+    "Object Number": "48.187.65a, b",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 200103,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1948,
+    "Object Name": "Sugar bowl",
+    "Title": "Sugar bowl",
+    "Culture": "French, Paris",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 3463,
+    "Artist Role": "Maker",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Sébastien Igonet",
+    "Artist Display Bio": "master 1725, recorded 1766",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "IGONET SÉBASTIEN",
+    "Artist Nationality": " ",
+    "Artist Begin Date": 1695,
+    "Artist End Date": 1796,
+    "Artist Gender": null,
+    "Artist ULAN URL": null,
+    "Artist Wikidata URL": null,
+    "Object Date": "1753–54",
+    "Object Begin Date": 1753,
+    "Object End Date": 1754,
+    "Medium": "Silver",
+    "Dimensions": "Overall: 5 1/8 × 3 3/4 in. (13 × 9.5 cm)",
+    "Credit Line": "Bequest of Catherine D. Wentworth, 1948",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Metalwork-Silver",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/200103",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Coat of Arms",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300126352",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q14659"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/145022.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/145023.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/145024.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/145025.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/145026.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 34637,
+        "role": "Maker",
+        "name": "Sébastien Igonet",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Diameter": 9.525019,
+          "Height": 13.017526
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Coat of Arms",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300126352",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q14659"
+      }
+    ]
+  }
+}

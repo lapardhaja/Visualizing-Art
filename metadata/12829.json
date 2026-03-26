@@ -1,0 +1,109 @@
+{
+  "object_id": 12829,
+  "excel_metadata": {
+    "Object Number": "24.19.1",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 12829,
+    "Gallery Number": 753.0,
+    "Department": "The American Wing",
+    "AccessionYear": 1924.0,
+    "Object Name": "Painting",
+    "Title": "Thomas Jefferson",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16256.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "John Trumbull",
+    "Artist Display Bio": "American, Lebanon, Connecticut 1756–1843 New York",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Trumbull, John",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1756",
+    "Artist End Date": "1843",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500016000",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q369263",
+    "Object Date": "1788",
+    "Object Begin Date": 1788,
+    "Object End Date": 1788,
+    "Medium": "Oil on mahogany",
+    "Dimensions": "4 1/2 x 3 1/4 in. (11.4 x 8.3 cm)",
+    "Credit Line": "Bequest of Cornelia Cruger, 1923",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/12829",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19924867",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Thomas Jefferson|Portraits|Men",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ulan/500017255|http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300025928",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q11812|https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q8441"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DT2069.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162569,
+        "role": "Artist",
+        "name": "John Trumbull",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500016000",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q369263",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 11.4,
+          "Width": 8.3
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 3,
+          "Height": 18,
+          "Width": 14.9
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Thomas Jefferson",
+        "AAT_URL": "http://vocab.getty.edu/page/ulan/500017255",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q11812"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

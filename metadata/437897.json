@@ -1,0 +1,129 @@
+{
+  "object_id": 437897,
+  "excel_metadata": {
+    "Object Number": "71.17",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437897,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1871.0,
+    "Object Name": "Painting",
+    "Title": "Abraham's Parting from the Family of Lot",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10842.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Jan Victors",
+    "Artist Display Bio": "Dutch, Amsterdam 1619–1676/77 East Indies",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Victors, Jan",
+    "Artist Nationality": "Dutch",
+    "Artist Begin Date": "1619",
+    "Artist End Date": "1677",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500007951",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q1357477",
+    "Object Date": "ca. 1655–65",
+    "Object Begin Date": 1655,
+    "Object End Date": 1665,
+    "Medium": "Oil on canvas",
+    "Dimensions": "58 x 65 1/8 in. (147.3 x 165.4 cm)",
+    "Credit Line": "Purchase, 1871",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437897",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19913091",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Food|Girls|Men|Women|Dogs|Abraham|Eating",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300254496|http://vocab.getty.edu/page/aat/300247581|http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/aat/300265714|http://vocab.getty.edu/page/ia/901000475|http://vocab.getty.edu/page/aat/300375120",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q2095|https://www.wikidata.org/wiki/Q3031|https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q144|https://www.wikidata.org/wiki/Q9181|https://www.wikidata.org/wiki/Q213449"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP143196.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 108425,
+        "role": "Artist",
+        "name": "Jan Victors",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500007951",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1357477",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 147.3,
+          "Width": 165.4
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 10.795022,
+          "Height": 190.50038,
+          "Width": 173.35535
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Food",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300254496",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q2095"
+      },
+      {
+        "term": "Girls",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300247581",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3031"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Dogs",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300265714",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q144"
+      },
+      {
+        "term": "Abraham",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000475",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q9181"
+      },
+      {
+        "term": "Eating",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300375120",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q213449"
+      }
+    ]
+  }
+}

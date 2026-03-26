@@ -1,0 +1,89 @@
+{
+  "object_id": 203981,
+  "excel_metadata": {
+    "Object Number": "64.101.1561",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 203981,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1964,
+    "Object Name": "Bracket",
+    "Title": "Bracket",
+    "Culture": "German, Munich or Augsburg",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 14095,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Hubert Gerhard",
+    "Artist Display Bio": "Netherlandish, 1540/50–1621, active Germany",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Gerhard, Hubert",
+    "Artist Nationality": "Netherlandish",
+    "Artist Begin Date": 1540,
+    "Artist End Date": 1621,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500016667",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q316824",
+    "Object Date": "ca. 1600",
+    "Object Begin Date": 1595,
+    "Object End Date": 1605,
+    "Medium": "Bronze",
+    "Dimensions": "Height: 6 in. (15.2 cm)",
+    "Credit Line": "Gift of Irwin Untermyer, 1964",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Sculpture-Bronze",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/203981",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Faces",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300251798",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q37017"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/201595.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 140950,
+        "role": "Artist",
+        "name": "Hubert Gerhard",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500016667",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q316824",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Height",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 15.24003
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Faces",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300251798",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q37017"
+      }
+    ]
+  }
+}

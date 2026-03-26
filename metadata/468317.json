@@ -1,0 +1,112 @@
+{
+  "object_id": 468317,
+  "excel_metadata": {
+    "Object Number": "49.7.109",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 468317,
+    "Gallery Number": null,
+    "Department": "Medieval Art",
+    "AccessionYear": 1949,
+    "Object Name": "Triptych",
+    "Title": "Triptych with The Way to Calvary, Crucifixion, and Descent from the Cross",
+    "Culture": "French",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 16221,
+    "Artist Role": "Artist",
+    "Artist Prefix": "Atelier of",
+    "Artist Display Name": "Jean Pénicaud I",
+    "Artist Display Bio": "French, ca. 1490–after 1543",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Pénicaud, Jean, I",
+    "Artist Nationality": "French",
+    "Artist Begin Date": 1490,
+    "Artist End Date": 1543,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500010455",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q27925192",
+    "Object Date": "16th century",
+    "Object Begin Date": 1500,
+    "Object End Date": 1599,
+    "Medium": "Painted enamel, copper (frame: gilt copper)",
+    "Dimensions": "Overall (with frame): 9 15/16 x 16 9/16 in. (25.2 x 42.1 cm)_x000D_\nwings: 9 15/16 x 4 in. (25.2 x 10.2 cm)_x000D_\ncenter panel: 9 15/16 x 8 7/16 in. (25.2 x 21.5 cm)",
+    "Credit Line": "The Jules S. Bache Collection, 1949",
+    "Geography Type": "Made in",
+    "City": "Limoges",
+    "State": null,
+    "County": null,
+    "Country": "France",
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Enamels-Painted",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/468317",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Christ|Descent from the Cross",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901000087|http://vocab.getty.edu/page/ia/901000462",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q642420|https://www.wikidata.org/wiki/Q13365963"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/md/original/sf49-7-109s1.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162219,
+        "role": "Artist",
+        "name": "Atelier of Jean Pénicaud I",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500010455",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q27925192",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Other",
+        "elementDescription": "wings",
+        "elementMeasurements": {
+          "Height": 25.2,
+          "Width": 10.2
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": "with frame",
+        "elementMeasurements": {
+          "Height": 25.2,
+          "Thickness": 1.5,
+          "Width": 42.1
+        }
+      },
+      {
+        "elementName": "Other",
+        "elementDescription": "center panel",
+        "elementMeasurements": {
+          "Height": 25.2,
+          "Width": 21.5
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Christ",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+      },
+      {
+        "term": "Descent from the Cross",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000462",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q13365963"
+      }
+    ]
+  }
+}

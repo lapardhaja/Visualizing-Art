@@ -1,0 +1,108 @@
+{
+  "object_id": 436643,
+  "excel_metadata": {
+    "Object Number": "71.155",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 436643,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1871.0,
+    "Object Name": "Painting",
+    "Title": "The Calling of Saint Matthew",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10777.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": "Copy after",
+    "Artist Display Name": "Jan Sanders van Hemessen",
+    "Artist Display Bio": "Netherlandish, active by ca. 1524–died ca. 1564",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Hemessen, Jan Sanders van",
+    "Artist Nationality": "Netherlandish",
+    "Artist Begin Date": "1524",
+    "Artist End Date": "1564",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500004571",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q427870",
+    "Object Date": NaN,
+    "Object Begin Date": 1524,
+    "Object End Date": 1564,
+    "Medium": "Oil on wood",
+    "Dimensions": "43 7/8 x 59 1/2 in. (111.4 x 151.1 cm)",
+    "Credit Line": "Purchase, 1871",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436643",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912150",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Women|Saint Matthew|Writing",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/ia/901000497|http://vocab.getty.edu/page/aat/300054698",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q43600|https://www.wikidata.org/wiki/Q37260"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT201070.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-71_155-IRP.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-71_155-Xray.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 107779,
+        "role": "Artist",
+        "name": "Copy after Jan Sanders van Hemessen",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500004571",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q427870",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 111.4,
+          "Width": 151.1
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Saint Matthew",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000497",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q43600"
+      },
+      {
+        "term": "Writing",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300054698",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q37260"
+      }
+    ]
+  }
+}

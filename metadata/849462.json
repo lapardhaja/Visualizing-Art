@@ -1,0 +1,105 @@
+{
+  "object_id": 849462,
+  "excel_metadata": {
+    "Object Number": "07.225.464c MODERN COPY",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 849462,
+    "Gallery Number": 524,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1907,
+    "Object Name": "Panel",
+    "Title": "Modern copy of a panel for a decorative frieze with portrait of Carracci (from an original set of six)",
+    "Culture": "French",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": null,
+    "Artist Role": null,
+    "Artist Prefix": null,
+    "Artist Display Name": null,
+    "Artist Display Bio": null,
+    "Artist Suffix": null,
+    "Artist Alpha Sort": null,
+    "Artist Nationality": null,
+    "Artist Begin Date": null,
+    "Artist End Date": null,
+    "Artist Gender": null,
+    "Artist ULAN URL": null,
+    "Artist Wikidata URL": null,
+    "Object Date": "ca. 1771",
+    "Object Begin Date": 1766,
+    "Object End Date": 1776,
+    "Medium": "Carved, painted, and gilded oak",
+    "Dimensions": "Outside: H. 29-7/8 x W. 57-3/4 in.  (75.9 x 146.7 cm);_x000D_\nInside: H. 25-1/8 x L. 52-3/8 in. (63.8 x 133 cm)",
+    "Credit Line": "Gift of J. Pierpont Morgan, 1906",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Woodwork",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/849462",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q116242592",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Profiles|Men|Garlands",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300123319|http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300167386",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q4382010|https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q756600"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/5103.jpg",
+    "additionalImages": [],
+    "constituents": null,
+    "measurements": [
+      {
+        "elementName": "Other",
+        "elementDescription": "inside height",
+        "elementMeasurements": {
+          "Height": 63.8
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 75.9,
+          "Width": 146.7
+        }
+      },
+      {
+        "elementName": "Other",
+        "elementDescription": "inside length",
+        "elementMeasurements": {
+          "Length": 133
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Garlands",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300167386",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q756600"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Profiles",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300123319",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q4382010"
+      }
+    ]
+  }
+}

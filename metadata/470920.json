@@ -1,0 +1,107 @@
+{
+  "object_id": 470920,
+  "excel_metadata": {
+    "Object Number": "25.120.928",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 470920,
+    "Gallery Number": NaN,
+    "Department": "The Cloisters",
+    "AccessionYear": 1925.0,
+    "Object Name": "Painting",
+    "Title": "Panel with The Crucifixion from Retable",
+    "Culture": "Spanish",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16506.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Domingo Ram",
+    "Artist Display Bio": "Spanish, Aragon, active 1464–1507",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Ram, Domingo",
+    "Artist Nationality": "Spanish",
+    "Artist Begin Date": "1464",
+    "Artist End Date": "1507",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500014489",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q20829680",
+    "Object Date": "15th century",
+    "Object Begin Date": 1400,
+    "Object End Date": 1499,
+    "Medium": "Tempera on wood, gold ground",
+    "Dimensions": "H.  27-3/4; L. 40-1/2 in.",
+    "Credit Line": "The Cloisters Collection, 1925",
+    "Geography Type": "Made in",
+    "City": NaN,
+    "State": NaN,
+    "County": "Aragon",
+    "Country": "Spain",
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings-Panels",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/470920",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20200971",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Christ|Virgin Mary|Crucifixion|Saints",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901000087|http://vocab.getty.edu/page/ia/901000032|http://vocab.getty.edu/page/aat/300404300|http://vocab.getty.edu/page/aat/300150555",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q642420|https://www.wikidata.org/wiki/Q345|https://www.wikidata.org/wiki/Q3235597|https://www.wikidata.org/wiki/Q43115"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/cl/original/cdi25-120-928.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/cl/original/ep25.120.668.bw.R.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 165060,
+        "role": "Artist",
+        "name": "Domingo Ram",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500014489",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q20829680",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 70.48514,
+          "Width": 102.87021
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Christ",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+      },
+      {
+        "term": "Virgin Mary",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000032",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q345"
+      },
+      {
+        "term": "Crucifixion",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300404300",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3235597"
+      },
+      {
+        "term": "Saints",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300150555",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q43115"
+      }
+    ]
+  }
+}

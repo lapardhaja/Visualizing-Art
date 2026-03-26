@@ -1,0 +1,84 @@
+{
+  "object_id": 438029,
+  "excel_metadata": {
+    "Object Number": "1996.341",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 438029,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1996.0,
+    "Object Name": "Painting, lunette",
+    "Title": "The Man of Sorrows with Two Angels",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16189.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": "Workshop of",
+    "Artist Display Name": "Francesco di Giorgio Martini",
+    "Artist Display Bio": "Italian, Siena 1439–1501 Siena",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Francesco di Giorgio Martini",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1439",
+    "Artist End Date": "1501",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500115162",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q434425",
+    "Object Date": "ca. 1470",
+    "Object Begin Date": 1465,
+    "Object End Date": 1475,
+    "Medium": "Tempera on wood",
+    "Dimensions": "Frame 53 3/4 x 32 5/8 in. (136.5 x 82.9 cm); painted surface 6 7/8 x 18 1/4 in. (17.5 x 46.4 cm)",
+    "Credit Line": "Anonymous Gift, in memory of Kurt Cassirer, 1996",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings|Frames",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/438029",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19913430",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": NaN,
+    "Tags AAT URL": NaN,
+    "Tags Wikidata URL": NaN
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT5277.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 161897,
+        "role": "Artist",
+        "name": "Workshop of Francesco di Giorgio Martini",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115162",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q434425",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 136.5,
+          "Width": 82.9
+        }
+      }
+    ],
+    "tags": null
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "object_id": 435968,
+  "excel_metadata": {
+    "Object Number": "30.95.272",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 435968,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1930.0,
+    "Object Name": "Painting",
+    "Title": "The Environs of Paris",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16178.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Camille Corot",
+    "Artist Display Bio": "French, Paris 1796–1875 Paris",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Corot, Camille",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1796",
+    "Artist End Date": "1875",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500115390",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q148475",
+    "Object Date": "1860s",
+    "Object Begin Date": 1860,
+    "Object End Date": 1869,
+    "Medium": "Oil on wood",
+    "Dimensions": "13 1/2 x 20 1/4 in. (34.3 x 51.4 cm)",
+    "Credit Line": "Theodore M. Davis Collection, Bequest of Theodore M. Davis, 1915",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/435968",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20168285",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Paris|Roads|Landscapes",
+    "Tags AAT URL": "http://vocab.getty.edu/page/tgn/7008038|http://vocab.getty.edu/page/aat/300008217|http://vocab.getty.edu/page/aat/300132294",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q90|https://www.wikidata.org/wiki/Q34442|https://www.wikidata.org/wiki/Q191163"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT225534.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 161787,
+        "role": "Artist",
+        "name": "Camille Corot",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115390",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q148475",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 34.3,
+          "Width": 51.4
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 5.715,
+          "Height": 57.7851,
+          "Width": 74.9301
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Roads",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300008217",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q34442"
+      },
+      {
+        "term": "Landscapes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+      },
+      {
+        "term": "Paris",
+        "AAT_URL": "http://vocab.getty.edu/page/tgn/7008038",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q90"
+      }
+    ]
+  }
+}

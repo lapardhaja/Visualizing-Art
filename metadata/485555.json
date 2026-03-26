@@ -1,0 +1,95 @@
+{
+  "object_id": 485555,
+  "excel_metadata": {
+    "Object Number": "1990.38.5",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 485555,
+    "Gallery Number": NaN,
+    "Department": "Modern and Contemporary Art",
+    "AccessionYear": 1990.0,
+    "Object Name": "Painting",
+    "Title": "The Street Pavers",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16318.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Umberto Boccioni",
+    "Artist Display Bio": "Italian, Reggio 1882–1916 Sorte",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Boccioni, Umberto",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1882",
+    "Artist End Date": "1916",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500012624",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q152797",
+    "Object Date": "1914",
+    "Object Begin Date": 1914,
+    "Object End Date": 1914,
+    "Medium": "Oil on canvas",
+    "Dimensions": "39 3/8 × 39 3/8 in. (100 × 100 cm)",
+    "Credit Line": "Bequest of Lydia Winston Malbin, 1989",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/485555",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19917794",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": NaN,
+    "Tags AAT URL": NaN,
+    "Tags Wikidata URL": NaN
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ma/original/DT6415.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ma/original/1990.38.5.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 163186,
+        "role": "Artist",
+        "name": "Umberto Boccioni",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500012624",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q152797",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 100,
+          "Width": 100
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": "F.1990.38.5 Silver gilded wood frame-NO plexi",
+        "elementMeasurements": {
+          "Depth": 5.5880113,
+          "Height": 114.30023,
+          "Width": 114.61773
+        }
+      }
+    ],
+    "tags": null
+  }
+}

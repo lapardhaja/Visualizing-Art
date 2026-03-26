@@ -1,0 +1,93 @@
+{
+  "object_id": 436334,
+  "excel_metadata": {
+    "Object Number": "1982.448",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 436334,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1982.0,
+    "Object Name": "Painting",
+    "Title": "Madonna and Child",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16189.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Francesco Francia",
+    "Artist Display Bio": "Italian, Bologna ca. 1447–1517 Bologna",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Francia, Francesco",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1447",
+    "Artist End Date": "1517",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500115527",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q260057",
+    "Object Date": "1490s",
+    "Object Begin Date": 1490,
+    "Object End Date": 1499,
+    "Medium": "Oil on wood",
+    "Dimensions": "24 x 18 1/8 in. (61 x 46 cm)",
+    "Credit Line": "Gift of Lewis C. Ledyard III, Mrs. Victor Onet, and Mrs. T. F. Turner, in memory of Lewis C. Ledyard, 1982",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436334",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912336",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Madonna and Child",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901000052",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q9309699"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP247207.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-1982_448-2.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-1982_448-3.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 161898,
+        "role": "Artist",
+        "name": "Francesco Francia",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115527",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q260057",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 61,
+          "Width": 46
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Madonna and Child",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000052",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q9309699"
+      }
+    ]
+  }
+}

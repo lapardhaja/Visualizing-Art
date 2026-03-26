@@ -1,0 +1,95 @@
+{
+  "object_id": 439273,
+  "excel_metadata": {
+    "Object Number": "2007.361",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 439273,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 2007.0,
+    "Object Name": "Painting, drawing",
+    "Title": "Study of a Girl in Red",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16481.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Benedetto Luti",
+    "Artist Display Bio": "Italian, Florence 1666–1724 Rome",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Luti, Benedetto",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1666",
+    "Artist End Date": "1724",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500012192",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q816847",
+    "Object Date": "1717",
+    "Object Begin Date": 1717,
+    "Object End Date": 1717,
+    "Medium": "Pastel and chalk on blue laid paper, laid down on paste paper",
+    "Dimensions": "16 1/2 x 13 3/8 in. (41.9 x 34 cm)",
+    "Credit Line": "Gwynne Andrews Fund, 2007",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Pastels & Oil Sketches on Paper",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/439273",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19913738",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Girls|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300247581|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q3031|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP161656.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 164818,
+        "role": "Artist",
+        "name": "Benedetto Luti",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500012192",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q816847",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 41.9101,
+          "Width": 33.9726
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Girls",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300247581",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3031"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

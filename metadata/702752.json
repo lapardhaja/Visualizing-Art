@@ -1,0 +1,95 @@
+{
+  "object_id": 702752,
+  "excel_metadata": {
+    "Object Number": "2015.645",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 702752,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 2015.0,
+    "Object Name": "Painting",
+    "Title": "Christ and the Woman of Samaria",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16481.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Benedetto Luti",
+    "Artist Display Bio": "Italian, Florence 1666–1724 Rome",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Luti, Benedetto",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1666",
+    "Artist End Date": "1724",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500012192",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q816847",
+    "Object Date": "1715–20",
+    "Object Begin Date": 1715,
+    "Object End Date": 1720,
+    "Medium": "Oil on copper",
+    "Dimensions": "15 × 12 1/8 in. (38.2 × 30.9 cm)",
+    "Credit Line": "Rogers Fund, by exchange, 2015",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/702752",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q78614077",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Women|Christ",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/ia/901000087",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q642420"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-20208-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 164818,
+        "role": "Artist",
+        "name": "Benedetto Luti",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500012192",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q816847",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": "Measured by Charlotte Hale",
+        "elementMeasurements": {
+          "Height": 38.1,
+          "Width": 30.797562
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Christ",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+      }
+    ]
+  }
+}

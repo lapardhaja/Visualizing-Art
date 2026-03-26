@@ -1,0 +1,104 @@
+{
+  "object_id": 437424,
+  "excel_metadata": {
+    "Object Number": "51.2",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437424,
+    "Gallery Number": 824.0,
+    "Department": "European Paintings",
+    "AccessionYear": 1951.0,
+    "Object Name": "Painting",
+    "Title": "Madame Édouard Bernier (Marie-Octavie-Stéphanie Laurens, 1838–1920)",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16230.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Auguste Renoir",
+    "Artist Display Bio": "French, Limoges 1841–1919 Cagnes-sur-Mer",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Renoir, Auguste",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1841",
+    "Artist End Date": "1919",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500115467",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q39931",
+    "Object Date": "1871",
+    "Object Begin Date": 1871,
+    "Object End Date": 1871,
+    "Medium": "Oil on canvas",
+    "Dimensions": "30 3/4 x 24 1/2 in. (78.1 x 62.2 cm)",
+    "Credit Line": "Gift of Margaret Seligman Lewisohn, in memory of her husband, Sam A. Lewisohn, and of her sister-in-law, Adele Lewisohn Lehman, 1951",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437424",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19905288",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Portraits|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT1399.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162302,
+        "role": "Artist",
+        "name": "Auguste Renoir",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115467",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q39931",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 78.1,
+          "Width": 62.2
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 11.43,
+          "Height": 105.4102,
+          "Width": 90.1702
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

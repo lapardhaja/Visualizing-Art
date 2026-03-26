@@ -1,0 +1,127 @@
+{
+  "object_id": 816624,
+  "excel_metadata": {
+    "Object Number": "2020.263.5",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 816624,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 2020.0,
+    "Object Name": "Painting",
+    "Title": "Basket of Fruit",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 19116420608.0,
+    "Artist Role": "Artist|Artist",
+    "Artist Prefix": " |or",
+    "Artist Display Name": "Bartolomeo Cavarozzi|Master of the Acquavella Still Life",
+    "Artist Display Bio": "Italian, Viterbo 1587–1625 Rome| ",
+    "Artist Suffix": " | ",
+    "Artist Alpha Sort": "Cavarozzi, Bartolomeo|Master of the Acquavella Still Life",
+    "Artist Nationality": "Italian| ",
+    "Artist Begin Date": "1587      |          ",
+    "Artist End Date": "1625      |          ",
+    "Artist Gender": "|",
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500006553|http://vocab.getty.edu/page/ulan/500198766",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q519379|https://www.wikidata.org/wiki/Q1411333",
+    "Object Date": "ca. 1620",
+    "Object Begin Date": 1615,
+    "Object End Date": 1625,
+    "Medium": "Oil on canvas",
+    "Dimensions": "19 1/2 × 26 3/4 in. (49.5 × 67.9 cm)",
+    "Credit Line": "Bequest of Errol M. Rudman, 2020",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/816624",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q111272640",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Grapes|Fruit|Still Life|Apples|Pomegranates",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300379338|http://vocab.getty.edu/page/aat/300011868|http://vocab.getty.edu/page/aat/300015638|http://vocab.getty.edu/page/aat/300266417|http://vocab.getty.edu/page/aat/300379961",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q10978|https://www.wikidata.org/wiki/Q1364|https://www.wikidata.org/wiki/Q170571|https://www.wikidata.org/wiki/Q89|https://www.wikidata.org/wiki/Q13222088"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-19711-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 191164,
+        "role": "Artist",
+        "name": "Bartolomeo Cavarozzi",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500006553",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q519379",
+        "gender": ""
+      },
+      {
+        "constituentID": 206086,
+        "role": "Artist",
+        "name": "or Master of the Acquavella Still Life",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500198766",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1411333",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 49.530098,
+          "Width": 67.94514
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 8.8900175,
+          "Height": 75.24765,
+          "Width": 92.71018
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Fruit",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300011868",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q1364"
+      },
+      {
+        "term": "Apples",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300266417",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q89"
+      },
+      {
+        "term": "Grapes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379338",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q10978"
+      },
+      {
+        "term": "Pomegranates",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379961",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q13222088"
+      },
+      {
+        "term": "Still Life",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015638",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q170571"
+      }
+    ]
+  }
+}

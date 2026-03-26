@@ -1,0 +1,90 @@
+{
+  "object_id": 623529,
+  "excel_metadata": {
+    "Object Number": "60.134.2",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 623529,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1960,
+    "Object Name": "Side chair",
+    "Title": "Side chair (one of a pair)",
+    "Culture": "British",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 3670,
+    "Artist Role": "Maker",
+    "Artist Prefix": "Attributed to",
+    "Artist Display Name": "Richard Roberts",
+    "Artist Display Bio": "British, active 1714–29",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Roberts Richard",
+    "Artist Nationality": "British",
+    "Artist Begin Date": 1714,
+    "Artist End Date": 1729,
+    "Artist Gender": null,
+    "Artist ULAN URL": null,
+    "Artist Wikidata URL": null,
+    "Object Date": "ca. 1715",
+    "Object Begin Date": 1710,
+    "Object End Date": 1720,
+    "Medium": "Beech and oak veneered with burl walnut, parcel-gilt; covered in silk velvet",
+    "Dimensions": "Overall: 41 3/4 × 25 × 29 in. (106 × 63.5 × 73.7 cm)",
+    "Credit Line": "Harris Brisbane Dick Fund, 1960",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Woodwork-Furniture",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/623529",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": null,
+    "Tags AAT URL": null,
+    "Tags Wikidata URL": null
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP-14204-057.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/DP-14204-058.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP-14204-285.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP110713.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP110714.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 36706,
+        "role": "Maker",
+        "name": "Attributed to Richard Roberts",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 73.66015,
+          "Height": 106.04521,
+          "Width": 63.500126
+        }
+      }
+    ],
+    "tags": null
+  }
+}

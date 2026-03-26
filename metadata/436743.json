@@ -1,0 +1,115 @@
+{
+  "object_id": 436743,
+  "excel_metadata": {
+    "Object Number": "32.100.96",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436743,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1932.0,
+    "Object Name": "Painting",
+    "Title": "The Annunciation",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10728.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Italian (Marchigian?) Painter",
+    "Artist Display Bio": "first half 15th century",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Italian (Marchigian?) Painter",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "          ",
+    "Artist End Date": "          ",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": NaN,
+    "Artist Wikidata URL": NaN,
+    "Object Date": NaN,
+    "Object Begin Date": 1400,
+    "Object End Date": 1449,
+    "Medium": "Tempera and gold on wood",
+    "Dimensions": "Overall 17 7/8 x 14 7/8 in. (45.4 x 37.8 cm); painted surface 15 1/4 x 14 in. (38.7 x 35.6 cm)",
+    "Credit Line": "The Friedsam Collection, Bequest of Michael Friedsam, 1931",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436743",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912865",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Archangel Gabriel|Annunciation|Doves|Deer|God the Father|Virgin Mary",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901000493|http://vocab.getty.edu/page/aat/300412102|http://vocab.getty.edu/page/aat/300250045|http://vocab.getty.edu/page/aat/300250308|http://vocab.getty.edu/page/ia/901000593|http://vocab.getty.edu/page/ia/901000032",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q81989|https://www.wikidata.org/wiki/Q154326|https://www.wikidata.org/wiki/Q2984138|https://www.wikidata.org/wiki/Q685795|https://www.wikidata.org/wiki/Q186350|https://www.wikidata.org/wiki/Q345"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/ep32.100.96.bw.R.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 107283,
+        "role": "Artist",
+        "name": "Italian (Marchigian?) Painter",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 45.4,
+          "Width": 37.8
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Doves",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250045",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q2984138"
+      },
+      {
+        "term": "Deer",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250308",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q685795"
+      },
+      {
+        "term": "Virgin Mary",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000032",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q345"
+      },
+      {
+        "term": "Archangel Gabriel",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000493",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q81989"
+      },
+      {
+        "term": "Annunciation",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300412102",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q154326"
+      },
+      {
+        "term": "God the Father",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000593",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q186350"
+      }
+    ]
+  }
+}

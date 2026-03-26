@@ -1,0 +1,114 @@
+{
+  "object_id": 436236,
+  "excel_metadata": {
+    "Object Number": "32.100.132",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436236,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1932.0,
+    "Object Name": "Painting",
+    "Title": "Benjamin Franklin (1706–1790)",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16555.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Joseph Siffred Duplessis",
+    "Artist Display Bio": "French, Carpentras 1725–1802 Versailles",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Duplessis, Joseph Siffred",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1725",
+    "Artist End Date": "1802",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500016763",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q2286906",
+    "Object Date": "1778",
+    "Object Begin Date": 1778,
+    "Object End Date": 1778,
+    "Medium": "Oil on canvas",
+    "Dimensions": "Oval, 28 1/2 x 23 in. (72.4 x 58.4 cm)",
+    "Credit Line": "The Friedsam Collection, Bequest of Michael Friedsam, 1931",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436236",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19905187",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Benjamin Franklin|Men|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ulan/500331804|http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q34969|https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-1255-001.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/DP312881.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-32_100_132-2.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-32_100_132-3.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 165550,
+        "role": "Artist",
+        "name": "Joseph Siffred Duplessis",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500016763",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q2286906",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 2.540005,
+          "Height": 72.4,
+          "Width": 58.102615
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": "Travel Frame",
+        "elementMeasurements": {
+          "Depth": 10.477521,
+          "Height": 93.98019,
+          "Width": 80.32766
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Benjamin Franklin",
+        "AAT_URL": "http://vocab.getty.edu/page/ulan/500331804",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q34969"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

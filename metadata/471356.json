@@ -1,0 +1,91 @@
+{
+  "object_id": 471356,
+  "excel_metadata": {
+    "Object Number": "50.102.2",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 471356,
+    "Gallery Number": null,
+    "Department": "The Cloisters",
+    "AccessionYear": 1950,
+    "Object Name": "Statue",
+    "Title": "Saint Barbara",
+    "Culture": "North French",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": null,
+    "Artist Role": null,
+    "Artist Prefix": null,
+    "Artist Display Name": null,
+    "Artist Display Bio": null,
+    "Artist Suffix": null,
+    "Artist Alpha Sort": null,
+    "Artist Nationality": null,
+    "Artist Begin Date": null,
+    "Artist End Date": null,
+    "Artist Gender": null,
+    "Artist ULAN URL": null,
+    "Artist Wikidata URL": null,
+    "Object Date": "ca. 1500",
+    "Object Begin Date": 1497,
+    "Object End Date": 1503,
+    "Medium": "Limestone, paint, gilt",
+    "Dimensions": "Overall: 46 1/4 x 15 1/2 x 11 1/2 in. (117.5 x 39.4 x 29.2 cm)",
+    "Credit Line": "Gift of Mrs. Solomon R. Guggenheim, 1950",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Sculpture",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/471356",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20201802",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Women|Saints",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/aat/300150555",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q43115"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/cl/original/LC-50_102_2-1.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/cl/original/LC-50_102_2-2.jpg",
+      "https://images.metmuseum.org/CRDImages/cl/original/cdi50-102-2s2.jpg",
+      "https://images.metmuseum.org/CRDImages/cl/original/cdi50-102-2s4.jpg"
+    ],
+    "constituents": null,
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 29.2101,
+          "Height": 117.4752,
+          "Width": 39.3701
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Saints",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300150555",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q43115"
+      }
+    ]
+  }
+}

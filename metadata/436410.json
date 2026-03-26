@@ -1,0 +1,165 @@
+{
+  "object_id": 436410,
+  "excel_metadata": {
+    "Object Number": "42.150.12",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 436410,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1942.0,
+    "Object Name": "Painting",
+    "Title": "The Nymph of Fontainebleau",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10726.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "French (Fontainebleau) Painter",
+    "Artist Display Bio": "third quarter 16th century",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "French (Fontainebleau) Painter",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "          ",
+    "Artist End Date": "          ",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": NaN,
+    "Artist Wikidata URL": NaN,
+    "Object Date": NaN,
+    "Object Begin Date": 1550,
+    "Object End Date": 1574,
+    "Medium": "Oil on wood",
+    "Dimensions": "26 x 47 3/4 in. (66 x 121.3 cm)",
+    "Credit Line": "Gift of Mrs. Heyward Cutting, 1942",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436410",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19905421",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Fruit|Nymphs|Putti|Dogs|Monkeys|Books|Heads|Reading|Dragons|Diana|Flowers|Landscapes|Trees|Urns|Lyres|Lions",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300011868|http://vocab.getty.edu/page/aat/300379159|http://vocab.getty.edu/page/aat/300250465|http://vocab.getty.edu/page/aat/300265714|http://vocab.getty.edu/page/aat/300250028|http://vocab.getty.edu/page/aat/300028051|http://vocab.getty.edu/page/aat/300375054|http://vocab.getty.edu/page/aat/300248178|http://vocab.getty.edu/page/aat/300375726|http://vocab.getty.edu/page/ia/901000118|http://vocab.getty.edu/page/aat/300132399|http://vocab.getty.edu/page/aat/300132294|http://vocab.getty.edu/page/aat/300132410|http://vocab.getty.edu/page/aat/300129425|http://vocab.getty.edu/page/aat/300042114|http://vocab.getty.edu/page/aat/300310388",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q1364|https://www.wikidata.org/wiki/Q373916|https://www.wikidata.org/wiki/Q284865|https://www.wikidata.org/wiki/Q144|https://www.wikidata.org/wiki/Q1367|https://www.wikidata.org/wiki/Q571|https://www.wikidata.org/wiki/Q3409626|https://www.wikidata.org/wiki/Q199657|https://www.wikidata.org/wiki/Q7559|https://www.wikidata.org/wiki/Q132543|https://www.wikidata.org/wiki/Q506|https://www.wikidata.org/wiki/Q191163|https://www.wikidata.org/wiki/Q10884|https://www.wikidata.org/wiki/Q11083119|https://www.wikidata.org/wiki/Q201129|https://www.wikidata.org/wiki/Q140"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-16596-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 107265,
+        "role": "Artist",
+        "name": "French (Fontainebleau) Painter",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 66,
+          "Width": 121.3
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Books",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300028051",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q571"
+      },
+      {
+        "term": "Fruit",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300011868",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q1364"
+      },
+      {
+        "term": "Heads",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300375054",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3409626"
+      },
+      {
+        "term": "Reading",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300248178",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q199657"
+      },
+      {
+        "term": "Dragons",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300375726",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q7559"
+      },
+      {
+        "term": "Nymphs",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379159",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q373916"
+      },
+      {
+        "term": "Putti",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250465",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q284865"
+      },
+      {
+        "term": "Diana",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000118",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q132543"
+      },
+      {
+        "term": "Dogs",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300265714",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q144"
+      },
+      {
+        "term": "Lions",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300310388",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q140"
+      },
+      {
+        "term": "Monkeys",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250028",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q1367"
+      },
+      {
+        "term": "Flowers",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132399",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q506"
+      },
+      {
+        "term": "Landscapes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+      },
+      {
+        "term": "Trees",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132410",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q10884"
+      },
+      {
+        "term": "Urns",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300129425",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q11083119"
+      },
+      {
+        "term": "Lyres",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300042114",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q201129"
+      }
+    ]
+  }
+}

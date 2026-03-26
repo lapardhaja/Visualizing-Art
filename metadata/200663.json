@@ -1,0 +1,94 @@
+{
+  "object_id": 200663,
+  "excel_metadata": {
+    "Object Number": "50.145.61",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 200663,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1950,
+    "Object Name": "Bust",
+    "Title": "Henry IV",
+    "Culture": "French",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 3423,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Jean-Claude-François-Joseph Rosset",
+    "Artist Display Bio": "French, Sainte-Claude, Jura 1706–1786 Sainte-Claude, Jura",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Rosset, Jean-Claude-François-Joseph",
+    "Artist Nationality": "French",
+    "Artist Begin Date": 1706,
+    "Artist End Date": 1786,
+    "Artist Gender": null,
+    "Artist ULAN URL": "(not assigned)",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q15971335",
+    "Object Date": "18th century",
+    "Object Begin Date": 1700,
+    "Object End Date": 1799,
+    "Medium": "Marble; wood base",
+    "Dimensions": "Height: 8 11/16 in. (22.1 cm)",
+    "Credit Line": "Bequest of Mary Stillman Harkness, 1950",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Sculpture",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/200663",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Kings|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025481|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q12097|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/148275.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 34231,
+        "role": "Artist",
+        "name": "Jean-Claude-François-Joseph Rosset",
+        "constituentULAN_URL": "(not assigned)",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q15971335",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Height",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 22.066294
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Kings",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025481",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q12097"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

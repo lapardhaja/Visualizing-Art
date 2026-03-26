@@ -1,0 +1,97 @@
+{
+  "object_id": 10165,
+  "excel_metadata": {
+    "Object Number": "1985.141.12",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 10165,
+    "Gallery Number": NaN,
+    "Department": "The American Wing",
+    "AccessionYear": 1985.0,
+    "Object Name": "Painting, miniature",
+    "Title": "Brock Livingston Delaplaine",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16168.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "William Russell Birch",
+    "Artist Display Bio": "American (born England), Warwick 1755–1834 Philadelphia, Pennsylvania",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Birch, William Russell",
+    "Artist Nationality": "American, born England",
+    "Artist Begin Date": "1755",
+    "Artist End Date": "1834",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500018910",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q8017857",
+    "Object Date": "1817",
+    "Object Begin Date": 1817,
+    "Object End Date": 1817,
+    "Medium": "Enamel on copper",
+    "Dimensions": "Sight: 3 x 2 1/2 in. (7.6 x 6.4 cm)",
+    "Credit Line": "Maria DeWitt Jesup Fund, 1985",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/10165",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19924939",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Boys|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300247598|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q3010|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DP168963.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ad/original/DP222410.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 161689,
+        "role": "Artist",
+        "name": "William Russell Birch",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500018910",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q8017857",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Sight",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 7.62,
+          "Width": 6.35
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Boys",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300247598",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3010"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

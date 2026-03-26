@@ -1,0 +1,137 @@
+{
+  "object_id": 206832,
+  "excel_metadata": {
+    "Object Number": "1980.203.2",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 206832,
+    "Gallery Number": 521,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1980,
+    "Object Name": "Casket",
+    "Title": "Casket with scenes of Genesis",
+    "Culture": "French, Limoges",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 16354716385,
+    "Artist Role": "Enameler|Engraver",
+    "Artist Prefix": " |Based on a series of engravings by",
+    "Artist Display Name": "Suzanne de Court|Etienne Delaune",
+    "Artist Display Bio": "French, active 1575–1625|French, Orléans 1518/19–1583 Strasbourg",
+    "Artist Suffix": " | ",
+    "Artist Alpha Sort": "Court, Suzanne de|Delaune, Etienne",
+    "Artist Nationality": "French|French",
+    "Artist Begin Date": "1575      |1518      ",
+    "Artist End Date": "1625      |1583      ",
+    "Artist Gender": "Female|",
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500316249|http://vocab.getty.edu/page/ulan/500026480",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q18508663|https://www.wikidata.org/wiki/Q2114093",
+    "Object Date": "first quarter 17th century",
+    "Object Begin Date": 1600,
+    "Object End Date": 1625,
+    "Medium": "Painted enamel on copper, partly gilt; silver mounts",
+    "Dimensions": "Overall: 7 3/4 × 9 1/2 × 5 1/4 in. (19.7 × 24.1 × 13.3 cm)",
+    "Credit Line": "Gift of Mr. and Mrs. Walter Mendelsohn, 1980",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Enamels",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/206832",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q96181454",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Isaac|Wells|Men|Sheep|Rebecca",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901000952|http://vocab.getty.edu/page/aat/300006207|http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300250284|http://vocab.getty.edu/page/ia/901000955",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q671872|https://www.wikidata.org/wiki/Q43483|https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q7368|https://www.wikidata.org/wiki/Q40520"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP-24701-001.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/DP-24701-003.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP-24701-002.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP-24701-006.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP-24701-004.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP-24701-005.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP-24701-007.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/SF1980_203_2_img1.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/SF1980_203_2_img2.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/SF1980_203_2_img3.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/SF1980_203_2_img7.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/SF1980_203_2_img5.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/SF1980_203_2_img4.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/SF1980_203_2_img6.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/SF1980_203_2_img8.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/SF1980_203_2_img9.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/SF1980_203_2_img10.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/SF1980_203_2_img11.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 163547,
+        "role": "Enameler",
+        "name": "Suzanne de Court",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500316249",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q18508663",
+        "gender": "Female"
+      },
+      {
+        "constituentID": 163851,
+        "role": "Engraver",
+        "name": "Based on a series of engravings by Etienne Delaune",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500026480",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q2114093",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 13.335027,
+          "Height": 19.68504,
+          "Width": 24.130049
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Wells",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300006207",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q43483"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Sheep",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250284",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q7368"
+      },
+      {
+        "term": "Isaac",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000952",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q671872"
+      },
+      {
+        "term": "Rebecca",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000955",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q40520"
+      }
+    ]
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "object_id": 201873,
+  "excel_metadata": {
+    "Object Number": "55.187.3",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 201873,
+    "Gallery Number": 515,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1955,
+    "Object Name": "Side table",
+    "Title": "Side table",
+    "Culture": "British",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 16613,
+    "Artist Role": "Designer",
+    "Artist Prefix": "In the style of",
+    "Artist Display Name": "Robert Adam",
+    "Artist Display Bio": "British, Kirkcaldy, Scotland 1728–1792 London",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Adam, Robert",
+    "Artist Nationality": "British, Scottish",
+    "Artist Begin Date": 1728,
+    "Artist End Date": 1792,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500008907",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q312635",
+    "Object Date": "ca. 1780",
+    "Object Begin Date": 1775,
+    "Object End Date": 1785,
+    "Medium": "Mahogany",
+    "Dimensions": "Overall: 34 7/8 × 55 5/8 × 22 1/2 in. (88.6 × 141.3 × 57.1 cm)",
+    "Credit Line": "Purchase, Morris Loeb Bequest, 1955",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Woodwork-Furniture",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/201873",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q116240769",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": null,
+    "Tags AAT URL": null,
+    "Tags Wikidata URL": null
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP-14204-045.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 166135,
+        "role": "Designer",
+        "name": "In the style of Robert Adam",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500008907",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q312635",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 57.1,
+          "Height": 88.6,
+          "Width": 141.3
+        }
+      }
+    ],
+    "tags": null
+  }
+}

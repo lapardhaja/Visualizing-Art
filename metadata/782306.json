@@ -1,0 +1,92 @@
+{
+  "object_id": 782306,
+  "excel_metadata": {
+    "Object Number": "2018.289.4",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 782306,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 2018.0,
+    "Object Name": "Painting",
+    "Title": "A Deerhound",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 7152.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Sir Edwin Henry Landseer",
+    "Artist Display Bio": "British, London 1802–1873 London",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Landseer, Edwin Henry, Sir",
+    "Artist Nationality": "British",
+    "Artist Begin Date": "1802",
+    "Artist End Date": "1873",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500004856",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q328369",
+    "Object Date": "1826",
+    "Object Begin Date": 1826,
+    "Object End Date": 1826,
+    "Medium": "Oil on board",
+    "Dimensions": "12 1/16 × 16 1/16 in. (30.6 × 40.8 cm)",
+    "Credit Line": "Gift of the Eugene V. and Clare E. Thaw Charitable Trust, 2018",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/782306",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q78611072",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Dogs",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300265714",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q144"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-19540-001.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-2018_289_4-fig2a.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 71529,
+        "role": "Artist",
+        "name": "Sir Edwin Henry Landseer",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500004856",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q328369",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 30.638811,
+          "Width": 40.798832
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Dogs",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300265714",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q144"
+      }
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "object_id": 33284,
+  "excel_metadata": {
+    "Object Number": "20.151.6",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 33284,
+    "Gallery Number": NaN,
+    "Department": "Arms and Armor",
+    "AccessionYear": 1920.0,
+    "Object Name": "Painting",
+    "Title": "Portrait of Walter Devereux (1539–1576), First Earl of Essex",
+    "Culture": "British",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 1125.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "British Painter",
+    "Artist Display Bio": "British",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "British Painter",
+    "Artist Nationality": "British",
+    "Artist Begin Date": "          ",
+    "Artist End Date": "          ",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": NaN,
+    "Artist Wikidata URL": NaN,
+    "Object Date": "dated 1572",
+    "Object Begin Date": 1572,
+    "Object End Date": 1572,
+    "Medium": "Oil on wood",
+    "Dimensions": "41 1/8 x 31 1/2 in. (104.5 x 80 cm)",
+    "Credit Line": "Rogers Fund, 1920",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Miscellaneous-Paintings & Portraits",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/33284",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q79012093",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits|Armor|Coat of Arms",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300226591|http://vocab.getty.edu/page/aat/300126352",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q20793164|https://www.wikidata.org/wiki/Q14659"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/aa/original/DP162146.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 11251,
+        "role": "Artist",
+        "name": "British Painter",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": null,
+    "tags": [
+      {
+        "term": "Armor",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300226591",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q20793164"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Coat of Arms",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300126352",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q14659"
+      }
+    ]
+  }
+}

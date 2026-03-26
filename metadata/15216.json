@@ -1,0 +1,100 @@
+{
+  "object_id": 15216,
+  "excel_metadata": {
+    "Object Number": "2006.235.258",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 15216,
+    "Gallery Number": NaN,
+    "Department": "The American Wing",
+    "AccessionYear": 2006.0,
+    "Object Name": "Painting, miniature",
+    "Title": "Mary R. Whitlock",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 343.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Aramenta Dianthe Vail",
+    "Artist Display Bio": "1820–1888",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Vail, Aramenta Dianthe",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1820",
+    "Artist End Date": "1888",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": NaN,
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q22276332",
+    "Object Date": "1843",
+    "Object Begin Date": 1843,
+    "Object End Date": 1843,
+    "Medium": "Watercolor on ivory",
+    "Dimensions": "4 1/4 x 3 1/8 in. (10.7 x 8 cm)",
+    "Credit Line": "Gift of Gloria Manney, 2006",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/15216",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19923867",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Portraits|Girls|Dogs",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300247581|http://vocab.getty.edu/page/aat/300265714",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q3031|https://www.wikidata.org/wiki/Q144"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/SFsf67259.JPG",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 3432,
+        "role": "Artist",
+        "name": "Aramenta Dianthe Vail",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q22276332",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 10.8,
+          "Width": 7.9
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Girls",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300247581",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3031"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Dogs",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300265714",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q144"
+      }
+    ]
+  }
+}

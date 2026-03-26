@@ -1,0 +1,107 @@
+{
+  "object_id": 464110,
+  "excel_metadata": {
+    "Object Number": "17.190.170",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 464110,
+    "Gallery Number": null,
+    "Department": "Medieval Art",
+    "AccessionYear": 1917,
+    "Object Name": "Statuette",
+    "Title": "Virgin and Child",
+    "Culture": "North French",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": null,
+    "Artist Role": null,
+    "Artist Prefix": null,
+    "Artist Display Name": null,
+    "Artist Display Bio": null,
+    "Artist Suffix": null,
+    "Artist Alpha Sort": null,
+    "Artist Nationality": null,
+    "Artist Begin Date": null,
+    "Artist End Date": null,
+    "Artist Gender": null,
+    "Artist ULAN URL": null,
+    "Artist Wikidata URL": null,
+    "Object Date": "ca. 1350",
+    "Object Begin Date": 1345,
+    "Object End Date": 1355,
+    "Medium": "Ivory",
+    "Dimensions": "Overall (with base): 10 1/2 x 2 15/16 x 1 11/16 in. (26.7 x 7.5 x 4.3 cm)_x000D_\nOverall (without base): 9 1/16 x 2 3/4 x 1 7/16 in. (23 x 7 x 3.7 cm)_x000D_\nBase: 1 11/16 x 1 7/16 x 2 15/16 in. (4.3 x 3.6 x 7.5 cm)",
+    "Credit Line": "Gift of J. Pierpont Morgan, 1917",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Ivories",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/464110",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Madonna and Child",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901000052",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q9309699"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/md/original/sf17-190-170s6.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/md/original/sf17-190-170s1.jpg",
+      "https://images.metmuseum.org/CRDImages/md/original/sf17-190-170s2.jpg",
+      "https://images.metmuseum.org/CRDImages/md/original/sf17-190-170s3.jpg",
+      "https://images.metmuseum.org/CRDImages/md/original/sf17-190-170s4.jpg",
+      "https://images.metmuseum.org/CRDImages/md/original/sf17-190-170d2.jpg",
+      "https://images.metmuseum.org/CRDImages/md/original/sf17-190-170d1.jpg"
+    ],
+    "constituents": null,
+    "measurements": [
+      {
+        "elementName": "Base",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 4.2863,
+          "Height": 3.5719,
+          "Width": 7.5406
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": "with base",
+        "elementMeasurements": {
+          "Depth": 4.2863,
+          "Height": 26.7,
+          "Width": 7.4613
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": "without base",
+        "elementMeasurements": {
+          "Depth": 3.7306,
+          "Height": 23.0188,
+          "Width": 6.985
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Madonna and Child",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000052",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q9309699"
+      }
+    ]
+  }
+}

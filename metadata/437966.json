@@ -1,0 +1,109 @@
+{
+  "object_id": 437966,
+  "excel_metadata": {
+    "Object Number": "17.204",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 437966,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1917.0,
+    "Object Name": "Painting",
+    "Title": "Mrs. Walter Rathbone Bacon (Virginia Purdy Barker, 1862–1919)",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16278.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Anders Zorn",
+    "Artist Display Bio": "Swedish, Mora 1860–1920 Mora",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Zorn, Anders",
+    "Artist Nationality": "Swedish",
+    "Artist Begin Date": "1860",
+    "Artist End Date": "1920",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500002927",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q206820",
+    "Object Date": "1897",
+    "Object Begin Date": 1897,
+    "Object End Date": 1897,
+    "Medium": "Oil on canvas",
+    "Dimensions": "67 1/4 x 42 1/2 in. (170.8 x 108 cm)",
+    "Credit Line": "Gift of Mrs. Walter Rathbone Bacon, in memory of her husband, 1917",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437966",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19868939",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Portraits|Women|Dogs",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/aat/300265714",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q144"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT400.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162786,
+        "role": "Artist",
+        "name": "Anders Zorn",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500002927",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q206820",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 170.8,
+          "Width": 108
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 12.065,
+          "Height": 205.7404,
+          "Width": 144.7803
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Dogs",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300265714",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q144"
+      }
+    ]
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "object_id": 12701,
+  "excel_metadata": {
+    "Object Number": "94.23.3",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 12701,
+    "Gallery Number": 774.0,
+    "Department": "The American Wing",
+    "AccessionYear": 1894.0,
+    "Object Name": "Painting",
+    "Title": "Portrait of the Artist",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16249.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Thomas Sully",
+    "Artist Display Bio": "American, Horncastle, Lincolnshire 1783–1872 Philadelphia, Pennsylvania",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Sully, Thomas",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1783",
+    "Artist End Date": "1872",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500006873",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q786545",
+    "Object Date": "1821",
+    "Object Begin Date": 1821,
+    "Object End Date": 1821,
+    "Medium": "Oil on canvas",
+    "Dimensions": "17 1/8 x 14 in. (43.5 x 35.6 cm)",
+    "Credit Line": "Gift of Mrs. Rosa C. Stanfield, in memory of her father, Henry Robinson, 1894",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/12701",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20170480",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Self-portraits|Artists",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300124534|http://vocab.getty.edu/page/aat/300025103",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q192110|https://www.wikidata.org/wiki/Q483501"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/ap94.23.3.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162494,
+        "role": "Artist",
+        "name": "Thomas Sully",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500006873",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q786545",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 43.5,
+          "Width": 35.6
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 8.89,
+          "Height": 62.5476,
+          "Width": 54.6101
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Self-portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300124534",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q192110"
+      },
+      {
+        "term": "Artists",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025103",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q483501"
+      }
+    ]
+  }
+}

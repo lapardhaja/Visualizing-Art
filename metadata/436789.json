@@ -1,0 +1,95 @@
+{
+  "object_id": 436789,
+  "excel_metadata": {
+    "Object Number": "57.30.2",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436789,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1957.0,
+    "Object Name": "Painting",
+    "Title": "Portrait of a Woman",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10783.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Cornelis Jonson van Ceulen the Elder",
+    "Artist Display Bio": "Dutch, London 1593–1661 Utrecht",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Jonson van Ceulen, Cornelis, the Elder",
+    "Artist Nationality": "Dutch",
+    "Artist Begin Date": "1593",
+    "Artist End Date": "1661",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500013588",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q636113",
+    "Object Date": "1648",
+    "Object Begin Date": 1648,
+    "Object End Date": 1648,
+    "Medium": "Oil on canvas",
+    "Dimensions": "Overall 40 3/4 x 31 1/2 in. (103.5 x 80 cm); painted surface 40 3/4 x 30 7/8 in. (103.5 x 78.4 cm)",
+    "Credit Line": "Gift of Mrs. J. E. Spingarn, 1957",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436789",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19913256",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Portraits|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP147901.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 107837,
+        "role": "Artist",
+        "name": "Cornelis Jonson van Ceulen the Elder",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500013588",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q636113",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 103.5,
+          "Width": 80
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

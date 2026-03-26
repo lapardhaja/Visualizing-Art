@@ -1,0 +1,110 @@
+{
+  "object_id": 438857,
+  "excel_metadata": {
+    "Object Number": "2007.529",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 438857,
+    "Gallery Number": 809.0,
+    "Department": "European Paintings",
+    "AccessionYear": 2007.0,
+    "Object Name": "Painting",
+    "Title": "Male Nude",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16182.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Edgar Degas",
+    "Artist Display Bio": "French, Paris 1834–1917 Paris",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Degas, Edgar",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1834",
+    "Artist End Date": "1917",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500115194",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q46373",
+    "Object Date": "1856",
+    "Object Begin Date": 1856,
+    "Object End Date": 1856,
+    "Medium": "Oil on canvas",
+    "Dimensions": "13 3/4 x 24 1/4 in. (34.9 x 61.6 cm)\r\n",
+    "Credit Line": "Gift of Philip and Catherine Korsant, 2007",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/438857",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19913026",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Male Nudes",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300189568",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q40446"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP158871.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/Degas reflectogram.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/Degas xray mosaic.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 161821,
+        "role": "Artist",
+        "name": "Edgar Degas",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115194",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q46373",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 8.572517,
+          "Height": 58.4201,
+          "Width": 85.09017
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 34.9251,
+          "Width": 61.5951
+        }
+      },
+      {
+        "elementName": "Other",
+        "elementDescription": "plexi",
+        "elementMeasurements": {
+          "Height": 36.512573,
+          "Width": 62.865128
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Male Nudes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300189568",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q40446"
+      }
+    ]
+  }
+}

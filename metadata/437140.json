@@ -1,0 +1,95 @@
+{
+  "object_id": 437140,
+  "excel_metadata": {
+    "Object Number": "62.122.23",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437140,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1962.0,
+    "Object Name": "Painting, miniature",
+    "Title": "Portrait of a Man",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10853.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": "Attributed to",
+    "Artist Display Name": "Monogrammist FS (Franciszek Smiadecki?)",
+    "Artist Display Bio": "British, active ca. 1650–65",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Monogrammist FS (Franciszek Smiadecki?)",
+    "Artist Nationality": "British",
+    "Artist Begin Date": "1650",
+    "Artist End Date": "1665",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": NaN,
+    "Artist Wikidata URL": NaN,
+    "Object Date": "ca. 1650",
+    "Object Begin Date": 1645,
+    "Object End Date": 1655,
+    "Medium": "Oil on card with gessoed back",
+    "Dimensions": "Oval, 2 5/8 x 2 1/4 in. (67 x 56 mm)",
+    "Credit Line": "Bequest of Millie Bruhl Fredrick, 1962",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Miniatures",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437140",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19913317",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/175400.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 108533,
+        "role": "Artist",
+        "name": "Attributed to Monogrammist FS (Franciszek Smiadecki?)",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 6.7,
+          "Width": 5.7
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

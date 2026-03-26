@@ -1,0 +1,97 @@
+{
+  "object_id": 203549,
+  "excel_metadata": {
+    "Object Number": "64.101.712",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 203549,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1964,
+    "Object Name": "Candlestick",
+    "Title": "Candlestick",
+    "Culture": "British, Bow, London",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 3473,
+    "Artist Role": "Factory",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Bow Porcelain Factory",
+    "Artist Display Bio": "British, 1747–1776",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Bow Porcelain Factory",
+    "Artist Nationality": "British",
+    "Artist Begin Date": 1747,
+    "Artist End Date": 1776,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500332807",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q3816631",
+    "Object Date": "ca. 1755",
+    "Object Begin Date": 1750,
+    "Object End Date": 1760,
+    "Medium": "Soft-paste porcelain",
+    "Dimensions": "8 1/2 × 6 1/4 in. (21.6 × 15.9 cm)",
+    "Credit Line": "Gift of Irwin Untermyer, 1964",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Ceramics-Porcelain",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/203549",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Birds",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300266506",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q5113"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP-38869-001.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/DP-38869-002.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 34736,
+        "role": "Factory",
+        "name": "Bow Porcelain Factory",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500332807",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3816631",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 21.590044,
+          "Width": 15.875031
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Birds",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300266506",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q5113"
+      },
+      {
+        "term": "Dogs",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300265714",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q144"
+      }
+    ]
+  }
+}

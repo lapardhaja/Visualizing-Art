@@ -1,0 +1,117 @@
+{
+  "object_id": 11130,
+  "excel_metadata": {
+    "Object Number": "10.64.5",
+    "Is Highlight": true,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 11130,
+    "Gallery Number": 767.0,
+    "Department": "The American Wing",
+    "AccessionYear": 1910.0,
+    "Object Name": "Painting",
+    "Title": "Northeaster",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16199.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Winslow Homer",
+    "Artist Display Bio": "American, Boston, Massachusetts 1836–1910 Prouts Neck, Maine",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Homer, Winslow",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1836",
+    "Artist End Date": "1910",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500019202",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q344838",
+    "Object Date": "1895; reworked by 1901",
+    "Object Begin Date": 1895,
+    "Object End Date": 1901,
+    "Medium": "Oil on canvas",
+    "Dimensions": "34 1/2 x 50 in. (87.6 x 127 cm)\r\nFramed: 48 13/16 x 64 3/4 x 5 7/8 in. (124 x 164.5 x 15 cm)",
+    "Credit Line": "Gift of George A. Hearn, 1910",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/11130",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q18619431",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Seascapes|Waves|Storms",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300117546|http://vocab.getty.edu/page/aat/300343616|http://vocab.getty.edu/page/aat/300054734",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q158607|https://www.wikidata.org/wiki/Q165848|https://www.wikidata.org/wiki/Q81054"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DT1545.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 161996,
+        "role": "Artist",
+        "name": "Winslow Homer",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500019202",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q344838",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 87.6,
+          "Width": 127
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 15,
+          "Height": 124,
+          "Width": 164.5
+        }
+      },
+      {
+        "elementName": "Glazing",
+        "elementDescription": "when needed",
+        "elementMeasurements": {
+          "Height": 88.42393,
+          "Width": 128.7465
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Seascapes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300117546",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q158607"
+      },
+      {
+        "term": "Waves",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300343616",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q165848"
+      },
+      {
+        "term": "Storms",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300054734",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q81054"
+      }
+    ]
+  }
+}

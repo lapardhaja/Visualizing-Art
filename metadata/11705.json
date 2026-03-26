@@ -1,0 +1,103 @@
+{
+  "object_id": 11705,
+  "excel_metadata": {
+    "Object Number": "68.222.5",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 11705,
+    "Gallery Number": NaN,
+    "Department": "The American Wing",
+    "AccessionYear": 1968.0,
+    "Object Name": "Painting, miniature",
+    "Title": "General Henry Knox",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16221.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Charles Willson Peale",
+    "Artist Display Bio": "American, Chester, Maryland 1741–1827 Philadelphia, Pennsylvania",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Peale, Charles Willson",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1741",
+    "Artist End Date": "1827",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500017914",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q454945",
+    "Object Date": "1778",
+    "Object Begin Date": 1778,
+    "Object End Date": 1778,
+    "Medium": "Watercolor on ivory",
+    "Dimensions": "2 7/8 x 2 1/8 in. (7.3 x 5.2 cm)",
+    "Credit Line": "Gift of J. William Middendorf II, 1968",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/11705",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20177617",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits|Generals",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300236762",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q83460"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DP-38097-001.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ad/original/DP-38097-002.jpg",
+      "https://images.metmuseum.org/CRDImages/ad/original/DP161474.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 162210,
+        "role": "Artist",
+        "name": "Charles Willson Peale",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500017914",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q454945",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 7.3,
+          "Width": 5.2
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Generals",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300236762",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q83460"
+      }
+    ]
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "object_id": 12978,
+  "excel_metadata": {
+    "Object Number": "55.73.3",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 12978,
+    "Gallery Number": NaN,
+    "Department": "The American Wing",
+    "AccessionYear": 1955.0,
+    "Object Name": "Painting",
+    "Title": "Portrait of a Man",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16430.0,
+    "Artist Role": "Former Attribution",
+    "Artist Prefix": "Formerly attributed to",
+    "Artist Display Name": "Thomas Hicks",
+    "Artist Display Bio": "American, Newton, Pennsylvania 1823–1890 Trenton Falls, New York",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Hicks, Thomas",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1823",
+    "Artist End Date": "1890",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500018244",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q974618",
+    "Object Date": "ca. 1850",
+    "Object Begin Date": 1847,
+    "Object End Date": 1850,
+    "Medium": "Oil on canvas",
+    "Dimensions": "26 1/2 x 19 3/4 in. (66.5 x 49 cm)",
+    "Credit Line": "Gift of The Chester Dale Collection, 1955",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/12978",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20171643",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/ap55.73.3.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 164308,
+        "role": "Former Attribution",
+        "name": "Formerly attributed to Thomas Hicks",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500018244",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q974618",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 67.3,
+          "Width": 50.2
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 10.795,
+          "Height": 79,
+          "Width": 65.4051
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

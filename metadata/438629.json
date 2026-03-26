@@ -1,0 +1,114 @@
+{
+  "object_id": 438629,
+  "excel_metadata": {
+    "Object Number": "2003.42.9",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 438629,
+    "Gallery Number": 806.0,
+    "Department": "European Paintings",
+    "AccessionYear": 2003.0,
+    "Object Name": "Painting",
+    "Title": "First Steps",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16175.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Franz Ludwig Catel",
+    "Artist Display Bio": "German, Berlin 1778–1856 Rome",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Catel, Franz Ludwig",
+    "Artist Nationality": "German",
+    "Artist Begin Date": "1778",
+    "Artist End Date": "1856",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500019417",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q879031",
+    "Object Date": "ca. 1820–25",
+    "Object Begin Date": 1815,
+    "Object End Date": 1830,
+    "Medium": "Oil on canvas",
+    "Dimensions": "18 3/4 x 14 3/4 in. (47.6 x 37.4 cm)",
+    "Credit Line": "The Whitney Collection, Gift of Wheelock Whitney III, and Purchase, Gift of Mr. and Mrs. Charles S. McVeigh, by exchange, 2003\r\n\r\n",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/438629",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19905108",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Infants|Men|Women|Vegetables",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300189561|http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/aat/300380162",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q998|https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q11004"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP169443.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 161759,
+        "role": "Artist",
+        "name": "Franz Ludwig Catel",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500019417",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q879031",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 47.6251,
+          "Width": 37.4
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 9.525019,
+          "Height": 65.08763,
+          "Width": 53.657608
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Vegetables",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300380162",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q11004"
+      },
+      {
+        "term": "Infants",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300189561",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q998"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

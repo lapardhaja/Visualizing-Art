@@ -1,0 +1,117 @@
+{
+  "object_id": 12977,
+  "excel_metadata": {
+    "Object Number": "54.196.1",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 12977,
+    "Gallery Number": 774.0,
+    "Department": "The American Wing",
+    "AccessionYear": 1954.0,
+    "Object Name": "Painting",
+    "Title": "Portrait of a Man",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16618116535.0,
+    "Artist Role": "Artist|Former Attribution",
+    "Artist Prefix": "School of|Formerly attributed to",
+    "Artist Display Name": "Sir Godfrey Kneller|John Smibert",
+    "Artist Display Bio": "German, Lübeck 1646–1723 London|American, Edinburgh, Scotland 1688–1751 Boston, Massachusetts",
+    "Artist Suffix": " | ",
+    "Artist Alpha Sort": "Kneller, Godfrey, Sir|Smibert, John",
+    "Artist Nationality": "German|American, Scottish",
+    "Artist Begin Date": "1646      |1688      ",
+    "Artist End Date": "1723      |1751      ",
+    "Artist Gender": "|",
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500015875|http://vocab.getty.edu/page/ulan/500006043",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q65317|https://www.wikidata.org/wiki/Q3182482",
+    "Object Date": "ca. 1720–30",
+    "Object Begin Date": 1717,
+    "Object End Date": 1730,
+    "Medium": "Oil on canvas",
+    "Dimensions": "49 3/4 x 39 3/4 in. (125.2 x 99.8 cm)",
+    "Credit Line": "Gift of The Chester Dale Collection, 1954",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/12977",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19930642",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits|Books",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300028051",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q571"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/ap54.196.1.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 165357,
+        "role": "Former Attribution",
+        "name": "Formerly attributed to John Smibert",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500006043",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3182482",
+        "gender": ""
+      },
+      {
+        "constituentID": 166181,
+        "role": "Artist",
+        "name": "School of Sir Godfrey Kneller",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500015875",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q65317",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 126.4,
+          "Width": 101
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 7.62,
+          "Height": 146.0503,
+          "Width": 121.6027
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Books",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300028051",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q571"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

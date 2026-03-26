@@ -1,0 +1,119 @@
+{
+  "object_id": 10837,
+  "excel_metadata": {
+    "Object Number": "66.242.21",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 10837,
+    "Gallery Number": 751.0,
+    "Department": "The American Wing",
+    "AccessionYear": 1966.0,
+    "Object Name": "Painting",
+    "Title": "The Alling Children",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 249.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Oliver Tarbell Eddy",
+    "Artist Display Bio": "1799–1868",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Eddy, Oliver Tarbell",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1799",
+    "Artist End Date": "1868",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500032012",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q21995264",
+    "Object Date": "ca. 1839",
+    "Object Begin Date": 1836,
+    "Object End Date": 1839,
+    "Medium": "Oil on canvas",
+    "Dimensions": "47 1/8 x 62 7/8 in. (119.7 x 159.7 cm)",
+    "Credit Line": "Gift of Edgar William and Bernice Chrysler Garbisch, 1966",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/10837",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19930635",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Boys|Portraits|Girls|Cats|Hammers",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300247598|http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300247581|http://vocab.getty.edu/page/aat/300265960|http://vocab.getty.edu/page/aat/300024823",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q3010|https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q3031|https://www.wikidata.org/wiki/Q146|https://www.wikidata.org/wiki/Q25294"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DT5508.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 2492,
+        "role": "Artist",
+        "name": "Oliver Tarbell Eddy",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500032012",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q21995264",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 10.8,
+          "Height": 149.5,
+          "Width": 189.9
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 119.7,
+          "Width": 159.7
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Boys",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300247598",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3010"
+      },
+      {
+        "term": "Girls",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300247581",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3031"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Cats",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300265960",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q146"
+      },
+      {
+        "term": "Hammers",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300024823",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q25294"
+      }
+    ]
+  }
+}

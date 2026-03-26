@@ -1,0 +1,89 @@
+{
+  "object_id": 207156,
+  "excel_metadata": {
+    "Object Number": "1982.60.274",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 207156,
+    "Gallery Number": 543,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1982,
+    "Object Name": "Figure",
+    "Title": "Hussar",
+    "Culture": "French, Villeroy",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 3824,
+    "Artist Role": "Factory",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Villeroy",
+    "Artist Display Bio": "French, 1734/37–1748",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Villeroy",
+    "Artist Nationality": "French",
+    "Artist Begin Date": 1734,
+    "Artist End Date": 1748,
+    "Artist Gender": null,
+    "Artist ULAN URL": null,
+    "Artist Wikidata URL": null,
+    "Object Date": "ca. 1740–45",
+    "Object Begin Date": 1735,
+    "Object End Date": 1750,
+    "Medium": "Soft-paste porcelain",
+    "Dimensions": "Height: 5 in. (12.7 cm)",
+    "Credit Line": "The Jack and Belle Linsky Collection, 1982",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Ceramics-Porcelain",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/207156",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q116307173",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/ES6158.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 38246,
+        "role": "Factory",
+        "name": "Villeroy",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Height",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 12.700026
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      }
+    ]
+  }
+}

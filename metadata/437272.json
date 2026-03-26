@@ -1,0 +1,114 @@
+{
+  "object_id": 437272,
+  "excel_metadata": {
+    "Object Number": "11.65",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437272,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1911.0,
+    "Object Name": "Painting, predella panel",
+    "Title": "The Resurrection",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16223.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Perugino (Pietro di Cristoforo Vannucci)",
+    "Artist Display Bio": "Italian, Città della Pieve, active by 1469–died 1523 Fontignano",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Perugino (Pietro di Cristoforo Vannucci)",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1469",
+    "Artist End Date": "1523",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500024544",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q5827",
+    "Object Date": NaN,
+    "Object Begin Date": 1497,
+    "Object End Date": 1507,
+    "Medium": "Tempera on wood",
+    "Dimensions": "10 5/8 x 18 in. (27 x 45.7 cm)",
+    "Credit Line": "Frederick C. Hewitt Fund, 1911",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437272",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19905215",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Soldiers|Men|Christ|Resurrection",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300185678|http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/ia/901000087|http://vocab.getty.edu/page/aat/300404323",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q4991371|https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q642420|https://www.wikidata.org/wiki/Q51624"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-24050-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162230,
+        "role": "Artist",
+        "name": "Perugino (Pietro di Cristoforo Vannucci)",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500024544",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5827",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 27,
+          "Width": 45.7
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 6.350013,
+          "Height": 44.45009,
+          "Width": 62.865128
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Soldiers",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300185678",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q4991371"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Christ",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+      },
+      {
+        "term": "Resurrection",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300404323",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q51624"
+      }
+    ]
+  }
+}

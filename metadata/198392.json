@@ -1,0 +1,113 @@
+{
+  "object_id": 198392,
+  "excel_metadata": {
+    "Object Number": "39.66.1",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 198392,
+    "Gallery Number": 544,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1939,
+    "Object Name": "Candlestick",
+    "Title": "Candlestick (one of a pair)",
+    "Culture": "French, Limoges",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 4120116158,
+    "Artist Role": "Artist|Engraver",
+    "Artist Prefix": " |After engravings by",
+    "Artist Display Name": "Master I. C. (probably Jean Court or Jean de Court)|Heinrich Aldegrever",
+    "Artist Display Bio": "working in the second half of the sixteenth century|German, Paderborn ca. 1502–1555/1561 Soest",
+    "Artist Suffix": " | ",
+    "Artist Alpha Sort": "Master I. C.|Aldegrever, Heinrich",
+    "Artist Nationality": " |German",
+    "Artist Begin Date": "1550      |1502      ",
+    "Artist End Date": "1599      |1561      ",
+    "Artist Gender": "|",
+    "Artist ULAN URL": "|http://vocab.getty.edu/page/ulan/500002169",
+    "Artist Wikidata URL": "|https://www.wikidata.org/wiki/Q62514",
+    "Object Date": "ca. 1560–70",
+    "Object Begin Date": 1555,
+    "Object End Date": 1575,
+    "Medium": "Painted enamel on copper, partly gilt",
+    "Dimensions": "Height: 6 in. (15.2 cm); Diameter: 7 1/4 in. (18.4 cm)",
+    "Credit Line": "Gift of Ann Payne Blumenthal, 1939",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Enamels",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/198392",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q116308357",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Animals|Hercules",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300249525|http://vocab.getty.edu/page/ia/901000042",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q729|https://www.wikidata.org/wiki/Q122248"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP210391.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/DP210392.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/ES1160.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/ES1159.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 41201,
+        "role": "Artist",
+        "name": "Master I. C. (probably Jean Court or Jean de Court)",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      },
+      {
+        "constituentID": 161581,
+        "role": "Engraver",
+        "name": "After engravings by Heinrich Aldegrever",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500002169",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q62514",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Diameter",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Diameter": 18.415037
+        }
+      },
+      {
+        "elementName": "Height",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 15.24003
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Animals",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300249525",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q729"
+      },
+      {
+        "term": "Hercules",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000042",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q122248"
+      }
+    ]
+  }
+}

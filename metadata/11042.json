@@ -1,0 +1,107 @@
+{
+  "object_id": 11042,
+  "excel_metadata": {
+    "Object Number": "54.90.32",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 11042,
+    "Gallery Number": NaN,
+    "Department": "The American Wing",
+    "AccessionYear": 1954.0,
+    "Object Name": "Painting",
+    "Title": "View of the Bay and City of New York from Weehawken",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16457.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Robert Havell Jr.",
+    "Artist Display Bio": "American (born England), Reading 1793–1878 Tarrytown, New York",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Havell, Robert, Jr.",
+    "Artist Nationality": "American, born England",
+    "Artist Begin Date": "1793",
+    "Artist End Date": "1878",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500015081",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q2157495",
+    "Object Date": "1840",
+    "Object Begin Date": 1840,
+    "Object End Date": 1840,
+    "Medium": "Oil on canvas",
+    "Dimensions": "24 x 33 in. (61 x 83.8 cm)",
+    "Credit Line": "The Edward W. C. Arnold Collection of New York Prints, Maps, and Pictures, Bequest of Edward W. C. Arnold, 1954",
+    "Geography Type": "Made in",
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": "United States",
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/11042",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20174458",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "New York City|Landscapes",
+    "Tags AAT URL": "http://vocab.getty.edu/page/tgn/7007567|http://vocab.getty.edu/page/aat/300132294",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q60|https://www.wikidata.org/wiki/Q191163"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/ap54.90.32.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ad/original/DP268755.jpg",
+      "https://images.metmuseum.org/CRDImages/ad/original/DP269846.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 164572,
+        "role": "Artist",
+        "name": "Robert Havell Jr.",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500015081",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q2157495",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 61,
+          "Width": 83.8
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 6.35,
+          "Height": 82.2327,
+          "Width": 103.5052
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Landscapes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+      },
+      {
+        "term": "New York City",
+        "AAT_URL": "http://vocab.getty.edu/page/tgn/7007567",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q60"
+      }
+    ]
+  }
+}

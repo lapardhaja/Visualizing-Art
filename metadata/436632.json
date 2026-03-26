@@ -1,0 +1,109 @@
+{
+  "object_id": 436632,
+  "excel_metadata": {
+    "Object Number": "86.6",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436632,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1886.0,
+    "Object Name": "Painting",
+    "Title": "Moonrise",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16197.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Henri-Joseph Harpignies",
+    "Artist Display Bio": "French, Valenciennes 1819–1916 Saint-Privé",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Harpignies, Henri-Joseph",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1819",
+    "Artist End Date": "1916",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500010008",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q187496",
+    "Object Date": "1885",
+    "Object Begin Date": 1885,
+    "Object End Date": 1885,
+    "Medium": "Oil on canvas",
+    "Dimensions": "34 1/2 x 64 1/4 in. (87.6 x 163.2 cm)",
+    "Credit Line": "Gift of Arnold and Tripp, 1886",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436632",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912408",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Moon|Landscapes|Evening",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300386951|http://vocab.getty.edu/page/aat/300132294|http://vocab.getty.edu/page/aat/300343633",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q405|https://www.wikidata.org/wiki/Q191163|https://www.wikidata.org/wiki/Q7725"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP238263.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 161976,
+        "role": "Artist",
+        "name": "Henri-Joseph Harpignies",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500010008",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q187496",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 87.6,
+          "Width": 163.2
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 8.572517,
+          "Height": 104.45771,
+          "Width": 180.34036
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Moon",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300386951",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q405"
+      },
+      {
+        "term": "Landscapes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+      },
+      {
+        "term": "Evening",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300343633",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q7725"
+      }
+    ]
+  }
+}

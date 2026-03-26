@@ -1,0 +1,112 @@
+{
+  "object_id": 435702,
+  "excel_metadata": {
+    "Object Number": "87.25",
+    "Is Highlight": true,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 435702,
+    "Gallery Number": 812.0,
+    "Department": "European Paintings",
+    "AccessionYear": 1887.0,
+    "Object Name": "Painting",
+    "Title": "The Horse Fair",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16169.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Rosa Bonheur",
+    "Artist Display Bio": "French, Bordeaux 1822–1899 Thomery",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Bonheur, Rosa",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1822",
+    "Artist End Date": "1899",
+    "Artist Gender": "Female",
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500014964",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q241732",
+    "Object Date": "1852–55",
+    "Object Begin Date": 1852,
+    "Object End Date": 1855,
+    "Medium": "Oil on canvas",
+    "Dimensions": "96 1/4 x 199 1/2 in. (244.5 x 506.7 cm)",
+    "Credit Line": "Gift of Cornelius Vanderbilt, 1887",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/435702",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q40432",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Horses|Paris",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300250148|http://vocab.getty.edu/page/tgn/7008038",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q726|https://www.wikidata.org/wiki/Q90"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-23550-001.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/87_25a.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/87_25b.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 161695,
+        "role": "Artist",
+        "name": "Rosa Bonheur",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500014964",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q241732",
+        "gender": "Female"
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 244.5,
+          "Width": 506.7
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 8.8900175,
+          "Height": 270.82803,
+          "Width": 532.76605
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Horses",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250148",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q726"
+      },
+      {
+        "term": "Paris",
+        "AAT_URL": "http://vocab.getty.edu/page/tgn/7008038",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q90"
+      }
+    ]
+  }
+}

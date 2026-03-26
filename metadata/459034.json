@@ -1,0 +1,104 @@
+{
+  "object_id": 459034,
+  "excel_metadata": {
+    "Object Number": "1975.1.92",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 459034,
+    "Gallery Number": NaN,
+    "Department": "Robert Lehman Collection",
+    "AccessionYear": 1975.0,
+    "Object Name": "Painting",
+    "Title": "Capriccio with a Circular Tower, Two Houses, and a Bridge",
+    "Culture": "Italian",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16196.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": "Follower of",
+    "Artist Display Name": "Francesco Guardi",
+    "Artist Display Bio": "Italian, Venice 1712–1793 Venice",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Guardi, Francesco",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1712",
+    "Artist End Date": "1793",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500017409",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q318769",
+    "Object Date": "18th century",
+    "Object Begin Date": 1700,
+    "Object End Date": 1800,
+    "Medium": "Oil on paper, laid down on Masonite",
+    "Dimensions": "2 1/8 x 3 1/2 in. (5.4 x 8.9 cm)",
+    "Credit Line": "Robert Lehman Collection, 1975",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/459034",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20187035",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Towers|Bridges|Boats",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300004847|http://vocab.getty.edu/page/aat/300386855|http://vocab.getty.edu/page/aat/300178749",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q12518|https://www.wikidata.org/wiki/Q12280|https://www.wikidata.org/wiki/Q35872"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/rl/original/DP328378.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/rl/original/DP335163.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/ep1975.1.92.bw.R.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/0442.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 161967,
+        "role": "Artist",
+        "name": "Follower of Francesco Guardi",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500017409",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q318769",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 5.4,
+          "Width": 8.9
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Towers",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300004847",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q12518"
+      },
+      {
+        "term": "Bridges",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300386855",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q12280"
+      },
+      {
+        "term": "Boats",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300178749",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q35872"
+      }
+    ]
+  }
+}

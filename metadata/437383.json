@@ -1,0 +1,112 @@
+{
+  "object_id": 437383,
+  "excel_metadata": {
+    "Object Number": "60.19.1",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 437383,
+    "Gallery Number": 813.0,
+    "Department": "European Paintings",
+    "AccessionYear": 1960.0,
+    "Object Name": "Painting",
+    "Title": "Pandora",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16229.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Odilon Redon",
+    "Artist Display Bio": "French, Bordeaux 1840–1916 Paris",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Redon, Odilon",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1840",
+    "Artist End Date": "1916",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500007292",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q154349",
+    "Object Date": "ca. 1914",
+    "Object Begin Date": 1909,
+    "Object End Date": 1919,
+    "Medium": "Oil on canvas",
+    "Dimensions": "56 1/2 x 24 1/2 in. (143.5 x 62.2 cm)",
+    "Credit Line": "Bequest of Alexander M. Bing, 1959",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437383",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912418",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Female Nudes|Flowers",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300189568|http://vocab.getty.edu/page/aat/300132399",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q40446|https://www.wikidata.org/wiki/Q506"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-20339-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162295,
+        "role": "Artist",
+        "name": "Odilon Redon",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500007292",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q154349",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 143.5,
+          "Width": 62.2
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 5.715,
+          "Height": 152.4003,
+          "Width": 71.1201
+        }
+      },
+      {
+        "elementName": "Other",
+        "elementDescription": "plexi",
+        "elementMeasurements": {
+          "Height": 143.82779,
+          "Width": 62.547626
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Female Nudes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300189568",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q40446"
+      },
+      {
+        "term": "Flowers",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132399",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q506"
+      }
+    ]
+  }
+}

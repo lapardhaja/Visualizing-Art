@@ -1,0 +1,87 @@
+{
+  "object_id": 200138,
+  "excel_metadata": {
+    "Object Number": "48.187.104",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 200138,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1948,
+    "Object Name": "Beaker",
+    "Title": "Beaker",
+    "Culture": "French, Saumur (Angers Mint)",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 3403,
+    "Artist Role": "Maker",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Jean Bérard",
+    "Artist Display Bio": "master 1711, active 1752, died 1763",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Bérard Jean",
+    "Artist Nationality": " ",
+    "Artist Begin Date": 1663,
+    "Artist End Date": 1763,
+    "Artist Gender": null,
+    "Artist ULAN URL": null,
+    "Artist Wikidata URL": null,
+    "Object Date": "second quarter 18th century",
+    "Object Begin Date": 1725,
+    "Object End Date": 1750,
+    "Medium": "Silver",
+    "Dimensions": "Overall: 3 5/8 × 3 1/8 in. (9.2 × 7.9 cm)",
+    "Credit Line": "Bequest of Catherine D. Wentworth, 1948",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Metalwork-Silver",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/200138",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": null,
+    "Tags AAT URL": null,
+    "Tags Wikidata URL": null
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/145299.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/145301.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/145302.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 34035,
+        "role": "Maker",
+        "name": "Jean Bérard",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Diameter": 7.9375157,
+          "Height": 9.207519
+        }
+      }
+    ],
+    "tags": null
+  }
+}

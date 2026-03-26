@@ -1,0 +1,95 @@
+{
+  "object_id": 436908,
+  "excel_metadata": {
+    "Object Number": "13.212",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 436908,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1913.0,
+    "Object Name": "Painting",
+    "Title": "Saint Catherine of Alexandria",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16207.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Pietro Lorenzetti",
+    "Artist Display Bio": "Italian, active Siena 1320–44",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Lorenzetti, Pietro",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1320",
+    "Artist End Date": "1344",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500030946",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q309635",
+    "Object Date": "shortly after 1342",
+    "Object Begin Date": 1342,
+    "Object End Date": 1344,
+    "Medium": "Tempera on wood, gold ground",
+    "Dimensions": "Overall 26 x 16 1/4 in. (66 x 41.3 cm); painted surface 24 1/2 x 16 1/4 in. (62.2 x 41.3 cm)",
+    "Credit Line": "Rogers Fund, 1913",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436908",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20167186",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Saint Catherine|Women",
+    "Tags AAT URL": " |http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": " |https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/SF Lorenzetti.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162079,
+        "role": "Artist",
+        "name": "Pietro Lorenzetti",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500030946",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q309635",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 66,
+          "Width": 41.3
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Saint Catherine",
+        "AAT_URL": null,
+        "Wikidata_URL": null
+      }
+    ]
+  }
+}

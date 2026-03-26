@@ -1,0 +1,100 @@
+{
+  "object_id": 438551,
+  "excel_metadata": {
+    "Object Number": "2003.20.2",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 438551,
+    "Gallery Number": 821.0,
+    "Department": "European Paintings",
+    "AccessionYear": 2003.0,
+    "Object Name": "Painting",
+    "Title": "On the Beach, Sunset",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16170.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Eugène Boudin",
+    "Artist Display Bio": "French, Honfleur 1824–1898 Deauville",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Boudin, Eugène",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1824",
+    "Artist End Date": "1898",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500004513",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q212600",
+    "Object Date": "1865",
+    "Object Begin Date": 1865,
+    "Object End Date": 1865,
+    "Medium": "Oil on wood",
+    "Dimensions": "15 x 23 in. (38.1 x 58.4 cm)",
+    "Credit Line": "The Walter H. and Leonore Annenberg Collection, Bequest of Walter H. Annenberg, 2002",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/438551",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19913470",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Women|Beaches",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/aat/300008816",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q40080"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT1031.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 161704,
+        "role": "Artist",
+        "name": "Eugène Boudin",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500004513",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q212600",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 38.1001,
+          "Width": 58.4201
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Beaches",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300008816",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q40080"
+      }
+    ]
+  }
+}

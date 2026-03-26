@@ -1,0 +1,101 @@
+{
+  "object_id": 74743,
+  "excel_metadata": {
+    "Object Number": "2008.359.55",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 74743,
+    "Gallery Number": NaN,
+    "Department": "Asian Art",
+    "AccessionYear": 2008.0,
+    "Object Name": "Painting",
+    "Title": NaN,
+    "Culture": "India (Jammu)",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": NaN,
+    "Artist Role": NaN,
+    "Artist Prefix": NaN,
+    "Artist Display Name": NaN,
+    "Artist Display Bio": NaN,
+    "Artist Suffix": NaN,
+    "Artist Alpha Sort": NaN,
+    "Artist Nationality": NaN,
+    "Artist Begin Date": NaN,
+    "Artist End Date": NaN,
+    "Artist Gender": NaN,
+    "Artist ULAN URL": NaN,
+    "Artist Wikidata URL": NaN,
+    "Object Date": "ca. 1860–80",
+    "Object Begin Date": 1860,
+    "Object End Date": 1880,
+    "Medium": "Ink and transparent watercolor on paper",
+    "Dimensions": "Image (sight): 8 x 5 in. (20.3 x 12.7 cm)",
+    "Credit Line": "Gift of Subhash Kapoor, in memory of his parents, Smt Shashi Kanta and Shree Parshotam Ram Kapoor, 2008",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/74743",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q78707212",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Thrones|Swords|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300038141|http://vocab.getty.edu/page/aat/300037048|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q189233|https://www.wikidata.org/wiki/Q12791|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/as/original/DP166122.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/as/original/LC-2008_359_55_002.jpg"
+    ],
+    "constituents": null,
+    "measurements": [
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 50.800102,
+          "Width": 40.64008
+        }
+      },
+      {
+        "elementName": "Image",
+        "elementDescription": "sight",
+        "elementMeasurements": {
+          "Height": 20.32004,
+          "Width": 12.700026
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Swords",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300037048",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q12791"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Thrones",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300038141",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q189233"
+      }
+    ]
+  }
+}

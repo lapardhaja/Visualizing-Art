@@ -1,0 +1,105 @@
+{
+  "object_id": 437652,
+  "excel_metadata": {
+    "Object Number": "41.100.10",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437652,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1941.0,
+    "Object Name": "Painting",
+    "Title": "The Virgin Adoring the Child with the Infant Saint John the Baptist",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10830.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Jacopo di Arcangelo (called Jacopo del Sellaio)",
+    "Artist Display Bio": "Italian, Florence 1441/42–1493 Florence",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Arcangelo, Jacopo di",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1441",
+    "Artist End Date": "1493",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500023242",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q2525549",
+    "Object Date": "late 1480s",
+    "Object Begin Date": 1487,
+    "Object End Date": 1489,
+    "Medium": "Tempera and gold on wood",
+    "Dimensions": "Arched top, 41 x 27 in. (104.1 x 68.6 cm)",
+    "Credit Line": "Gift of George Blumenthal, 1941",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437652",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19906253",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Jesus|Nativity|Virgin Mary|Saint John the Baptist",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901000087|http://vocab.getty.edu/page/ia/901000124|http://vocab.getty.edu/page/ia/901000032|http://vocab.getty.edu/page/ia/901001056",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q302|https://www.wikidata.org/wiki/Q51628|https://www.wikidata.org/wiki/Q345|https://www.wikidata.org/wiki/Q40662"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/ep41.100.10.bw.R.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 108303,
+        "role": "Artist",
+        "name": "Jacopo di Arcangelo (called Jacopo del Sellaio)",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500023242",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q2525549",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 104.1,
+          "Width": 68.6
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Saint John the Baptist",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901001056",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q40662"
+      },
+      {
+        "term": "Virgin Mary",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000032",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q345"
+      },
+      {
+        "term": "Jesus",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q302"
+      },
+      {
+        "term": "Nativity",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000124",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q51628"
+      }
+    ]
+  }
+}

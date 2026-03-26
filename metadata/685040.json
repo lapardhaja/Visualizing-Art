@@ -1,0 +1,100 @@
+{
+  "object_id": 685040,
+  "excel_metadata": {
+    "Object Number": "2015.282",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 685040,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 2015.0,
+    "Object Name": "Painting",
+    "Title": "Woman at a Balcony",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16192.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Jean-Léon Gérôme",
+    "Artist Display Bio": "French, Vesoul 1824–1904 Paris",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Gérôme, Jean-Léon",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1824",
+    "Artist End Date": "1904",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500115563",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q212499",
+    "Object Date": "1887–88",
+    "Object Begin Date": 1887,
+    "Object End Date": 1888,
+    "Medium": "Oil on canvas",
+    "Dimensions": "19 3/4 × 16 3/8 in. (50.2 × 41.6 cm)",
+    "Credit Line": "Gift of Kenneth Jay Lane, 2015",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/685040",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20167702",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Portraits|Women|Orientalist",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/aat/300055784",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q765606"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP354143.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 161927,
+        "role": "Artist",
+        "name": "Jean-Léon Gérôme",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115563",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q212499",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 50.1651,
+          "Width": 41.592583
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Orientalist",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300055784",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q765606"
+      }
+    ]
+  }
+}

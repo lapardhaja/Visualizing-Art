@@ -1,0 +1,104 @@
+{
+  "object_id": 11409,
+  "excel_metadata": {
+    "Object Number": "64.220.3",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 11409,
+    "Gallery Number": 774.0,
+    "Department": "The American Wing",
+    "AccessionYear": 1964.0,
+    "Object Name": "Painting",
+    "Title": "Amory Sibley Carhart",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 268.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Thomas Le Clear",
+    "Artist Display Bio": "1818–1882",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Le Clear, Thomas",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1818",
+    "Artist End Date": "1882",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500125339",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q7791757",
+    "Object Date": "ca. 1860–65",
+    "Object Begin Date": 1857,
+    "Object End Date": 1865,
+    "Medium": "Oil on canvas",
+    "Dimensions": "63 3/4 x 43 7/8 in. (161.9 x 111.4 cm)",
+    "Credit Line": "Gift of Mrs. George S. Amory, 1964",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/11409",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20172325",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Portraits|Boys",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300247598",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q3010"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/ap64.220.3.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 2684,
+        "role": "Artist",
+        "name": "Thomas Le Clear",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500125339",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q7791757",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 161.9,
+          "Width": 111.4
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 12.6,
+          "Height": 198,
+          "Width": 146.8
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Boys",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300247598",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3010"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

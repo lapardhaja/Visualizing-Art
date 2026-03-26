@@ -1,0 +1,104 @@
+{
+  "object_id": 488108,
+  "excel_metadata": {
+    "Object Number": "43.46.2",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 488108,
+    "Gallery Number": NaN,
+    "Department": "Modern and Contemporary Art",
+    "AccessionYear": 1943.0,
+    "Object Name": "Painting",
+    "Title": "The Harbor",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 14629.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Josef Presser",
+    "Artist Display Bio": "American (born Poland), Lublin 1907–1967 Paris, France",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Presser, Josef",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1907",
+    "Artist End Date": "1967",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": NaN,
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q22241026",
+    "Object Date": "ca. 1943",
+    "Object Begin Date": 1943,
+    "Object End Date": 1943,
+    "Medium": "Oil on wood",
+    "Dimensions": "34 3/4 x 53 1/4 in. (88.3 x 135.3 cm)",
+    "Credit Line": "Gift of Pennsylvania W. P. A., 1943",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/488108",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19920722",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Boats|Harbors",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300178749|http://vocab.getty.edu/page/aat/300008678",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q35872|https://www.wikidata.org/wiki/Q283202"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ma/original/DT220060.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 146299,
+        "role": "Artist",
+        "name": "Josef Presser",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q22241026",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 88.3,
+          "Width": 135.3
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 2.8575058,
+          "Height": 103.82271,
+          "Width": 150.4953
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Boats",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300178749",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q35872"
+      },
+      {
+        "term": "Harbors",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300008678",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q283202"
+      }
+    ]
+  }
+}

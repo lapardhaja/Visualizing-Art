@@ -1,0 +1,109 @@
+{
+  "object_id": 436709,
+  "excel_metadata": {
+    "Object Number": "43.85.1",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436709,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1943.0,
+    "Object Name": "Painting",
+    "Title": "Ingres (1780–1867) as a Young Man",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 11839.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Laurence-Augustine Jubé Héquet (Madame Héquet)",
+    "Artist Display Bio": "French, Cuneo (Coni) 1803/4–1864 Paris",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Héquet, Laurence-Augustine Jubé",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1803",
+    "Artist End Date": "1864",
+    "Artist Gender": "Female",
+    "Artist ULAN URL": NaN,
+    "Artist Wikidata URL": NaN,
+    "Object Date": "ca. 1850–60",
+    "Object Begin Date": 1845,
+    "Object End Date": 1865,
+    "Medium": "Oil on canvas",
+    "Dimensions": "34 x 27 1/ 2 in. (86.4 x 69.9 cm)",
+    "Credit Line": "Bequest of Grace Rainey Rogers, 1943",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436709",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19911837",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits|Artists",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300025103",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q483501"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT1307.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 118392,
+        "role": "Artist",
+        "name": "Laurence-Augustine Jubé Héquet (Madame Héquet)",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": "Female"
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 86.4,
+          "Width": 69.9
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 8.255,
+          "Height": 111.7602,
+          "Width": 95.2502
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Artists",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025103",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q483501"
+      }
+    ]
+  }
+}

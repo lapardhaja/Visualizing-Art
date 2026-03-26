@@ -1,0 +1,94 @@
+{
+  "object_id": 12645,
+  "excel_metadata": {
+    "Object Number": "1984.116.1",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 12645,
+    "Gallery Number": NaN,
+    "Department": "The American Wing",
+    "AccessionYear": 1984.0,
+    "Object Name": "Painting, miniature",
+    "Title": "Rufus Morse Newhall",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 331.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": "Attributed to",
+    "Artist Display Name": "Mrs. Moses B. Russell (Clarissa Peters)",
+    "Artist Display Bio": "1809–1854",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Russell, Clarissa Peters",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1809",
+    "Artist End Date": "1854",
+    "Artist Gender": "Female",
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500372708",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q22669548",
+    "Object Date": "1849",
+    "Object Begin Date": 1849,
+    "Object End Date": 1849,
+    "Medium": "Watercolor on ivory",
+    "Dimensions": "Diam. 3/4 in. (1.9 cm)",
+    "Credit Line": "Gift of  Alvin and Davida Deutsch, in honor of Kathy Luhrs, 1984",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/12645",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20177789",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Boys|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300247598|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q3010|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/ap1984.116.1.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 3310,
+        "role": "Artist",
+        "name": "Attributed to Mrs. Moses B. Russell (Clarissa Peters)",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500372708",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q22669548",
+        "gender": "Female"
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Other",
+        "elementDescription": "Object diameter",
+        "elementMeasurements": {
+          "Diameter": 1.9
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Boys",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300247598",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3010"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

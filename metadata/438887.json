@@ -1,0 +1,115 @@
+{
+  "object_id": 438887,
+  "excel_metadata": {
+    "Object Number": "2006.278",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 438887,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 2006.0,
+    "Object Name": "Painting",
+    "Title": "In Full Sunlight (En plein soleil)",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16255.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "James Tissot",
+    "Artist Display Bio": "French, Nantes 1836–1902 Chenecey-Buillon",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Tissot, James",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1836",
+    "Artist End Date": "1902",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500010633",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q381248",
+    "Object Date": "ca. 1881",
+    "Object Begin Date": 1876,
+    "Object End Date": 1886,
+    "Medium": "Oil on wood",
+    "Dimensions": "9 3/4 x 13 7/8 in. (24.8 x 35.2 cm)",
+    "Credit Line": "Gift of Mrs. Charles Wrightsman, 2006",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/438887",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19911794",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Gardens|Boys|Girls|Women|Sewing|Parasols",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300008090|http://vocab.getty.edu/page/aat/300247598|http://vocab.getty.edu/page/aat/300247581|http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/aat/300053658|http://vocab.getty.edu/page/aat/300046218",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q1107656|https://www.wikidata.org/wiki/Q3010|https://www.wikidata.org/wiki/Q3031|https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q652122|https://www.wikidata.org/wiki/Q1762975"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-21607-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162551,
+        "role": "Artist",
+        "name": "James Tissot",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500010633",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q381248",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 24.765,
+          "Width": 35.2426
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Gardens",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300008090",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q1107656"
+      },
+      {
+        "term": "Boys",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300247598",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3010"
+      },
+      {
+        "term": "Girls",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300247581",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3031"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Sewing",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300053658",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q652122"
+      },
+      {
+        "term": "Parasols",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300046218",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q1762975"
+      }
+    ]
+  }
+}

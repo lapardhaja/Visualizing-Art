@@ -1,0 +1,99 @@
+{
+  "object_id": 459088,
+  "excel_metadata": {
+    "Object Number": "1975.1.146",
+    "Is Highlight": true,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 459088,
+    "Gallery Number": 958.0,
+    "Department": "Robert Lehman Collection",
+    "AccessionYear": 1975.0,
+    "Object Name": "Painting",
+    "Title": "Saint Jerome as Scholar",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16195.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "El Greco (Domenikos Theotokopoulos)",
+    "Artist Display Bio": "Greek, Iráklion (Candia) 1541–1614 Toledo",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Greco, El (Domenikos Theotokopoulos)",
+    "Artist Nationality": "Greek",
+    "Artist Begin Date": "1540",
+    "Artist End Date": "1614",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500010916",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q301",
+    "Object Date": "ca. 1610",
+    "Object Begin Date": 1600,
+    "Object End Date": 1614,
+    "Medium": "Oil on canvas",
+    "Dimensions": "42 1/2 x 35 1/16 in. (108 x 89 cm)",
+    "Credit Line": "Robert Lehman Collection, 1975",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/459088",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19856861",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Saint Jerome",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/ulan/500060933",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q44248"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/rl/original/DT3103.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/rl/original/ep1975.1.146.bw.R.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/0766.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/rl1975.1.146.R.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 161956,
+        "role": "Artist",
+        "name": "El Greco (Domenikos Theotokopoulos)",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500010916",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q301",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 108,
+          "Width": 89
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Saint Jerome",
+        "AAT_URL": "http://vocab.getty.edu/page/ulan/500060933",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q44248"
+      }
+    ]
+  }
+}

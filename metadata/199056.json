@@ -1,0 +1,97 @@
+{
+  "object_id": 199056,
+  "excel_metadata": {
+    "Object Number": "42.38.2",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 199056,
+    "Gallery Number": 500,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1942,
+    "Object Name": "Relief",
+    "Title": "Virgin and Child",
+    "Culture": "Italian, Florence",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 16552,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Mino da Fiesole (Mino di Giovanni)",
+    "Artist Display Bio": "Italian, Papiano or Montemignaio 1429–1484 Florence",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Mino da Fiesole (Mino di Giovanni)",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": 1429,
+    "Artist End Date": 1484,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500002074",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q477441",
+    "Object Date": "ca. 1471–74",
+    "Object Begin Date": 1466,
+    "Object End Date": 1479,
+    "Medium": "Marble",
+    "Dimensions": "Overall (wt. confirmed): H. 21 1/2 x W. 15 1/4 x D. 3 3/4 in., 76lb. (54.6 x 38.7 x 9.5 cm, 34.4734kg)",
+    "Credit Line": "Bequest of Caroline Lucy Morgan, in memory of her parents, 1942",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Sculpture",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/199056",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q116374069",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Madonna and Child|Cross",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901000052|http://vocab.getty.edu/page/aat/300235443",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q9309699|https://www.wikidata.org/wiki/Q40843"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/ES5235.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 165525,
+        "role": "Artist",
+        "name": "Mino da Fiesole (Mino di Giovanni)",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500002074",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q477441",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": "wt. confirmed",
+        "elementMeasurements": {
+          "Depth": 9.5,
+          "Height": 54.6,
+          "Weight": 34.4734,
+          "Width": 38.7
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Madonna and Child",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000052",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q9309699"
+      },
+      {
+        "term": "Cross",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300235443",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q40843"
+      }
+    ]
+  }
+}

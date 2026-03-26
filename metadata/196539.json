@@ -1,0 +1,110 @@
+{
+  "object_id": 196539,
+  "excel_metadata": {
+    "Object Number": "30.58.3",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 196539,
+    "Gallery Number": NaN,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1930.0,
+    "Object Name": "Snuffbox, painting",
+    "Title": "Snuffbox with portrait of Louis XVI (1754–1793), King of France",
+    "Culture": "French, Paris",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16556016241.0,
+    "Artist Role": "Maker|Artist",
+    "Artist Prefix": " |Miniature by",
+    "Artist Display Name": "Joseph Etienne Blerzy|Louis Marie Sicardi",
+    "Artist Display Bio": "French, active 1750–1806|French, Avignon 1743–1825 Paris",
+    "Artist Suffix": " | ",
+    "Artist Alpha Sort": "Blerzy, Joseph Etienne|Sicardi, Louis Marie",
+    "Artist Nationality": "French|French",
+    "Artist Begin Date": "1750      |1743      ",
+    "Artist End Date": "1806      |1825      ",
+    "Artist Gender": "|",
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500524496|http://vocab.getty.edu/page/ulan/500025578",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q22661422|https://www.wikidata.org/wiki/Q18508479",
+    "Object Date": "1779–80",
+    "Object Begin Date": 1779,
+    "Object End Date": 1780,
+    "Medium": "Gold, enamel, diamonds; ivory, glass",
+    "Dimensions": "1 3/8 x 3 1/4 x 2 1/2 in. (3.5 x 8.3 x 6.4cm); Miniature: oval, 1 1/4 x 1 in. (32 x 25 mm)",
+    "Credit Line": "Bequest of Edward C. Post, 1915",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Metalwork-Gold and Platinum|Miniatures",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/196539",
+    "Object Wikidata URL": NaN,
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Kings|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025481|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q12097|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP-594-005.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/DP-594-006.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP-594-001.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP-594-002.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP-594-004.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP-594-003.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 165560,
+        "role": "Maker",
+        "name": "Joseph Etienne Blerzy",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500524496",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q22661422",
+        "gender": ""
+      },
+      {
+        "constituentID": 162414,
+        "role": "Artist",
+        "name": "Miniature by Louis Marie Sicardi",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500025578",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q18508479",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 6.4,
+          "Height": 3.5,
+          "Width": 8.3
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Kings",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025481",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q12097"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "object_id": 256186,
+  "excel_metadata": {
+    "Object Number": "1994.62",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 256186,
+    "Gallery Number": 162.0,
+    "Department": "Greek and Roman Art",
+    "AccessionYear": 1994.0,
+    "Object Name": "Wall painting",
+    "Title": "Wall painting",
+    "Culture": "Greek, South Italian, Lucanian",
+    "Period": "Late Classical",
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": NaN,
+    "Artist Role": NaN,
+    "Artist Prefix": NaN,
+    "Artist Display Name": NaN,
+    "Artist Display Bio": NaN,
+    "Artist Suffix": NaN,
+    "Artist Alpha Sort": NaN,
+    "Artist Nationality": NaN,
+    "Artist Begin Date": NaN,
+    "Artist End Date": NaN,
+    "Artist Gender": NaN,
+    "Artist ULAN URL": NaN,
+    "Artist Wikidata URL": NaN,
+    "Object Date": "mid-4th century BCE",
+    "Object Begin Date": -375,
+    "Object End Date": -325,
+    "Medium": "Fresco",
+    "Dimensions": "Overall: 53 3/8 x 38 1/2in. (135.6 x 97.8cm)",
+    "Credit Line": "Gift of Robin F. Beningson, 1994",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Miscellaneous-Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/256186",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q116288075",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Horses|Warriors|Women|Pomegranates",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300250148|http://vocab.getty.edu/page/aat/300261945|http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/aat/300379961",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q726|https://www.wikidata.org/wiki/Q1250916|https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q13222088"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/gr/original/DP350061.jpg",
+    "additionalImages": [],
+    "constituents": null,
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 135.61,
+          "Width": 97.79
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Pomegranates",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379961",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q13222088"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Horses",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250148",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q726"
+      },
+      {
+        "term": "Warriors",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300261945",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q1250916"
+      }
+    ]
+  }
+}

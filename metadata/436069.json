@@ -1,0 +1,105 @@
+{
+  "object_id": 436069,
+  "excel_metadata": {
+    "Object Number": "43.98.3",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436069,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1943.0,
+    "Object Name": "Painting, predella panel",
+    "Title": "Saint Reparata before the Emperor Decius",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16180.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Bernardo Daddi",
+    "Artist Display Bio": "Italian, Florence (?) ca. 1290–1348 Florence",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Daddi, Bernardo",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1290",
+    "Artist End Date": "1348",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500004953",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q366562",
+    "Object Date": "ca. 1338–40",
+    "Object Begin Date": 1333,
+    "Object End Date": 1343,
+    "Medium": "Tempera on wood",
+    "Dimensions": "Overall 12 3/4 x 16 in. (32.4 x 40.6 cm); painted surface 10 1/2 x 13 7/8 in. (26.7 x 35.2 cm)",
+    "Credit Line": "Maitland F. Griggs Collection, Bequest of Maitland F. Griggs, 1943",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436069",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19911806",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Women|Saints|Interiors",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/aat/300150555|http://vocab.getty.edu/page/aat/300391239",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q43115|https://www.wikidata.org/wiki/Q2998430"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-13336-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 161801,
+        "role": "Artist",
+        "name": "Bernardo Daddi",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500004953",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q366562",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 32.385063,
+          "Width": 40.64008
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Interiors",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300391239",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q2998430"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Saints",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300150555",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q43115"
+      }
+    ]
+  }
+}

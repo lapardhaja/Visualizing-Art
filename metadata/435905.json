@@ -1,0 +1,119 @@
+{
+  "object_id": 435905,
+  "excel_metadata": {
+    "Object Number": "28.117",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 435905,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1928.0,
+    "Object Name": "Painting",
+    "Title": "The Ford",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16177.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Claude Lorrain (Claude Gellée)",
+    "Artist Display Bio": "French, Chamagne 1604/5?–1682 Rome",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Claude Lorrain (Claude Gellée)",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1604",
+    "Artist End Date": "1682",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500115366",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q214074",
+    "Object Date": "possibly 1636",
+    "Object Begin Date": 1636,
+    "Object End Date": 1636,
+    "Medium": "Oil on canvas",
+    "Dimensions": "29 1/4 x 39 3/4 in. (74.3 x 101 cm)",
+    "Credit Line": "Fletcher Fund, 1928",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/435905",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19911635",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Women|Rivers|Landscapes|Boats",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/aat/300008707|http://vocab.getty.edu/page/aat/300132294|http://vocab.getty.edu/page/aat/300178749",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q4022|https://www.wikidata.org/wiki/Q191163|https://www.wikidata.org/wiki/Q35872"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP123844.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 161774,
+        "role": "Artist",
+        "name": "Claude Lorrain (Claude Gellée)",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115366",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q214074",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 74.3,
+          "Width": 101
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 10.16,
+          "Height": 104.1402,
+          "Width": 129.5403
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Rivers",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300008707",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q4022"
+      },
+      {
+        "term": "Landscapes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+      },
+      {
+        "term": "Boats",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300178749",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q35872"
+      }
+    ]
+  }
+}

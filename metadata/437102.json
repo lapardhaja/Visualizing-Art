@@ -1,0 +1,99 @@
+{
+  "object_id": 437102,
+  "excel_metadata": {
+    "Object Number": "95.7",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 437102,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1895.0,
+    "Object Name": "Painting",
+    "Title": "Landscape with a Cottage",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16213.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Pieter de Molijn",
+    "Artist Display Bio": "Dutch, London 1595–1661 Haarlem",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Molijn, Pieter de",
+    "Artist Nationality": "Dutch",
+    "Artist Begin Date": "1595",
+    "Artist End Date": "1661",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500118808",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q28771",
+    "Object Date": "1629",
+    "Object Begin Date": 1629,
+    "Object End Date": 1629,
+    "Medium": "Oil on wood",
+    "Dimensions": "14 3/4 x 21 3/4 in. (37.5 x 55.2 cm)",
+    "Credit Line": "Gift of Henry G. Marquand, 1895",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437102",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912168",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Landscapes",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300132294",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q191163"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP146459.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162133,
+        "role": "Artist",
+        "name": "Pieter de Molijn",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500118808",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q28771",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 7.620015,
+          "Height": 76.20015,
+          "Width": 93.98019
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 37.5,
+          "Width": 55.2
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Landscapes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+      }
+    ]
+  }
+}

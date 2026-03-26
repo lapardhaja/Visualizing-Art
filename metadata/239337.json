@@ -1,0 +1,104 @@
+{
+  "object_id": 239337,
+  "excel_metadata": {
+    "Object Number": 2013.198,
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 239337,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 2013,
+    "Object Name": "Relief",
+    "Title": "Profile head of Napoleon",
+    "Culture": "French",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 16387,
+    "Artist Role": "Maker",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Pierre Jean David d'Angers",
+    "Artist Display Bio": "French, Angers 1788–1856 Paris",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "David d'Angers, Pierre Jean",
+    "Artist Nationality": "French",
+    "Artist Begin Date": 1788,
+    "Artist End Date": 1856,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500115506",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q364498",
+    "Object Date": 1839,
+    "Object Begin Date": 1839,
+    "Object End Date": 1839,
+    "Medium": "Patinated plaster",
+    "Dimensions": "Overall: 14 1/2 × 7 1/16 × 2 7/8 in. (36.8 × 17.9 × 7.3 cm)",
+    "Credit Line": "Gift of Eugene V. Thaw, 2013",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Sculpture",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/239337",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Napoleon I|Heads|Profiles",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ulan/500122388|http://vocab.getty.edu/page/aat/300375054|http://vocab.getty.edu/page/aat/300123319",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q517|https://www.wikidata.org/wiki/Q3409626|https://www.wikidata.org/wiki/Q4382010"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP-2876-001.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/DP-2876-002.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/SF2013_198_signature.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 163879,
+        "role": "Maker",
+        "name": "Pierre Jean David d&#39;Angers",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115506",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q364498",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 7.3025146,
+          "Height": 36.830074,
+          "Width": 17.938786
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Napoleon I",
+        "AAT_URL": "http://vocab.getty.edu/page/ulan/500122388",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q517"
+      },
+      {
+        "term": "Heads",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300375054",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3409626"
+      },
+      {
+        "term": "Profiles",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300123319",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q4382010"
+      }
+    ]
+  }
+}

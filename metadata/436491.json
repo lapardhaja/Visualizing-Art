@@ -1,0 +1,104 @@
+{
+  "object_id": 436491,
+  "excel_metadata": {
+    "Object Number": "32.100.71",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436491,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1932.0,
+    "Object Name": "Painting",
+    "Title": "Selvaggia Sassetti (born 1470)",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16453.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Davide Ghirlandaio (David Bigordi)",
+    "Artist Display Bio": "Italian, Florence 1452–1525 Florence",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Ghirlandaio, Davide (David Bigordi)",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1452",
+    "Artist End Date": "1525",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500021575",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q1145811",
+    "Object Date": "ca. 1487–88",
+    "Object Begin Date": 1487,
+    "Object End Date": 1488,
+    "Medium": "Tempera on wood",
+    "Dimensions": "22 1/2 x 17 3/8 in. (57.2 x 44.1 cm)",
+    "Credit Line": "The Friedsam Collection, Bequest of Michael Friedsam, 1931",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436491",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19905424",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Portraits|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-17015-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 164536,
+        "role": "Artist",
+        "name": "Davide Ghirlandaio (David Bigordi)",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500021575",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1145811",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 57.2,
+          "Width": 44.1
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 6.6675,
+          "Height": 72.0726,
+          "Width": 59.6901
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "object_id": 203225,
+  "excel_metadata": {
+    "Object Number": "64.101.292",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 203225,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1964,
+    "Object Name": "Group",
+    "Title": "Seated couple",
+    "Culture": "German, Höchst",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 3707,
+    "Artist Role": "Manufactory",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Höchst Manufactory",
+    "Artist Display Bio": "German, 1746–1796",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Höchst Manufactory",
+    "Artist Nationality": "German",
+    "Artist Begin Date": 1746,
+    "Artist End Date": 1796,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500331057",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q97105166",
+    "Object Date": "1760–65",
+    "Object Begin Date": 1760,
+    "Object End Date": 1765,
+    "Medium": "Hard-paste porcelain",
+    "Dimensions": "6 7/8 × 7 5/16 in. (17.5 × 18.6 cm)",
+    "Credit Line": "Gift of Irwin Untermyer, 1964",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Ceramics-Porcelain",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/203225",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Couples|Men|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300379217|http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q219160|https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/183996.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 37076,
+        "role": "Manufactory",
+        "name": "Höchst Manufactory",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500331057",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q97105166",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 17.462536,
+          "Width": 18.573788
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Couples",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379217",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q219160"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

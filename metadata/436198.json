@@ -1,0 +1,110 @@
+{
+  "object_id": 436198,
+  "excel_metadata": {
+    "Object Number": "29.100.14",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436198,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1929.0,
+    "Object Name": "Painting",
+    "Title": "Saint Cecilia",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16183.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Abraham van Diepenbeeck",
+    "Artist Display Bio": "Flemish, 's Hertogenbosch 1596–1675 Antwerp",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Diepenbeeck, Abraham van",
+    "Artist Nationality": "Flemish",
+    "Artist Begin Date": "1596",
+    "Artist End Date": "1675",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500024425",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q330854",
+    "Object Date": NaN,
+    "Object Begin Date": 1616,
+    "Object End Date": 1675,
+    "Medium": "Oil on canvas",
+    "Dimensions": "47 7/8 x 40 3/4 in. (121.6 x 103.5 cm)",
+    "Credit Line": "H. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436198",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912204",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Music|Saints|Musical Instruments|Women|Angels",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300435214|http://vocab.getty.edu/page/aat/300150555|http://vocab.getty.edu/page/aat/300041620|http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/aat/300379004",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q638|https://www.wikidata.org/wiki/Q43115|https://www.wikidata.org/wiki/Q34379|https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q235113"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-22910-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 161834,
+        "role": "Artist",
+        "name": "Abraham van Diepenbeeck",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500024425",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q330854",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 121.6,
+          "Width": 103.5
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Musical Instruments",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300041620",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q34379"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Music",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300435214",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q638"
+      },
+      {
+        "term": "Angels",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379004",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q235113"
+      },
+      {
+        "term": "Saints",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300150555",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q43115"
+      }
+    ]
+  }
+}

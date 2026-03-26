@@ -7,7 +7,7 @@
 
     <link rel="stylesheet" href="../styles/main.css" />
     <link rel="preconnect" href="https://storage.googleapis.com" crossorigin />
-    <link rel="dns-prefetch" href="//gtvault.sharepoint.com///storage.googleapis.com" />
+    <link rel="dns-prefetch" href="//storage.googleapis.com" />
 
     <style>
         .viz-wrapper{position:relative;border:1px solid var(--border);border-radius:12px;background:var(--card);
@@ -28,7 +28,7 @@
             background:rgba(10,10,14,.96); padding:6px; opacity:0; transition:opacity .12s ease;
             /*max-width:min(40vw,520px); max-height:min(70vh,520px); overflow:hidden;*/
             /* no cropping */
-            max-width: 60vw; max-height: 60vh; overflow: visible;
+             max-width: 60vw; max-height: 60vh; overflow: visible;
         }
         .img-tooltip img{display:block;width:auto;height:auto;max-width:60vw;max-height:60vh;object-fit:contain}
         #artist-filter label{color:var(--ink)}
@@ -36,7 +36,7 @@
             background: rgba(20, 20, 30, 0.6);   /* dark translucent background */
             backdrop-filter: blur(8px);          /* frosted glass blur */
             -webkit-backdrop-filter: blur(8px);  /* Safari support */
-
+            
             color: #fff;                          /* white text for contrast */
             padding: 10px 14px;
             border-radius: 12px;
@@ -55,9 +55,9 @@
 <header class="site-header">
     <nav class="nav">
         <a href="../../index.html">Home</a>
-        <a href="about.html">About</a>
-        <a href="connections.html" aria-current="page">Art Connections</a>
-        <a href="filters.html">Art Filters</a>
+        <a href="./about.html">About</a>
+        <a href="./connections.html" aria-current="page">Art Connections</a>
+        <a href="./filters.html">Art Filters</a>
     </nav>
     <button class="menu-toggle" aria-label="Open menu" aria-expanded="false">☰</button>
 </header>
@@ -165,7 +165,7 @@
         }
 
         /* Grabbing the information from the CSV file */
-        d3.dsv(",", "../../embeddings/summary_cross_artist_with_metadata.csv", function (d) {
+        d3.dsv(",", "../../embeddings/summary_cross_artist_join_met_paintings.csv", function (d) {
             return {
                 source: d.query_object_id,
                 target: d.similar_object_id,
@@ -178,7 +178,7 @@
                 similar_artist:d.similar_artist,
 
 
-                query_medium: d.query_medium,
+                query_medium: d.query_medium,        
                 similar_medium: d.similar_medium,
 
                 query_artist_nationality: d.query_artist_nationality,
@@ -248,7 +248,7 @@
 
 
             //  Update dropdowns
-
+ 
             function updateDropdowns(filtered) {
                 // Keep currently selected values
                 const currentArtwork = d3.select("#artworkSelect").property("value");
@@ -276,7 +276,7 @@
 
                 // --- Artwork ---
                 const artworkDropdown = d3.select("#artworkSelect");
-
+                
                 // Faster artwork filtering using precomputed mapping
                 let artworks;
                 if (currentArtist && artworkByArtist[currentArtist]) {
@@ -286,7 +286,7 @@
                         filtered.flatMap(l => [l.query_title, l.similar_title]).filter(Boolean)
                     )).sort();
                 }
-
+                                
                 artworkDropdown.selectAll("option").remove();
                 artworkDropdown.append("option").attr("value", "").text("-- All Artworks --");
                 artworks.forEach(a => artworkDropdown.append("option").attr("value", a).text(a));
@@ -336,7 +336,7 @@
 
 
                 if (artist) {
-                    filtered = filtered.filter(l =>
+                    filtered = filtered.filter(l => 
                         (l.query_artist || "").trim() === artist.trim() ||
                         (l.similar_artist || "").trim() === artist.trim()
                     );
@@ -451,31 +451,31 @@
                 // Merging the endpoints to the nodes
                 const nodesByTitle = {};
                 linksRaw.forEach(l => {
-                    if (!nodesByTitle[l.source]) {
-                        nodesByTitle[l.source] = {
-                            key: l.source,
-                            id: l.source,
-                            name: l.query_title || "",
-                            degree: 0,
-                            artist: l.query_artist || "Unknown",
-                            medium: l.query_medium || "",
-                            year: l.query_object_begin_date || "",
-                            nationality: l.query_artist_nationality || ""
-                        };
+                if (!nodesByTitle[l.source]) {
+                    nodesByTitle[l.source] = { 
+                        key: l.source,
+                        id: l.source,
+                        name: l.query_title || "",
+                        degree: 0,
+                        artist: l.query_artist || "Unknown",
+                        medium: l.query_medium || "",
+                        year: l.query_object_begin_date || "",
+                        nationality: l.query_artist_nationality || ""
+                    };
                     } /*else {
                         if (!nodesByTitle[l.source].id && l.query_id) nodesByTitle[l.source].id = l.query_id;
                     }*/
-                    if (!nodesByTitle[l.target]) {
-                        nodesByTitle[l.target] = {
-                            key: l.target,
-                            id: l.target,
-                            name: l.similar_title || "",
-                            degree: 0,
-                            artist: l.similar_artist || "Unknown",
-                            medium: l.similar_medium || "",
-                            year: l.similar_object_begin_date || "",
-                            nationality: l.similar_artist_nationality || ""
-                        };
+                if (!nodesByTitle[l.target]) {
+                    nodesByTitle[l.target] = { 
+                        key: l.target,
+                        id: l.target,
+                        name: l.similar_title || "",
+                        degree: 0,
+                        artist: l.similar_artist || "Unknown",
+                        medium: l.similar_medium || "",
+                        year: l.similar_object_begin_date || "",
+                        nationality: l.similar_artist_nationality || ""
+                    };
                     } /*else {
                         if (!nodesByTitle[l.target].id && l.similar_id) nodesByTitle[l.target].id = l.similar_id;
                     }*/
@@ -520,7 +520,7 @@
                     .force("charge", d3.forceManyBody().strength(-160))
                     .force("center", d3.forceCenter(width/2, height/2))
                     .force("collision", d3.forceCollide().radius(d => rScale(d.degree) / 1.6))
-                    .alphaDecay(0.05)
+                    .alphaDecay(0.05)   
                     .on("tick", tick);
 
                 window.addEventListener("resize", () => {
@@ -544,7 +544,7 @@
                 tipInfo.style.fontSize = "0.85rem";
                 tipInfo.style.fontFamily = "sans-serif";
 
-                function showTip(d){
+                function showTip(d){ 
                     const u = fullImageURL(d.id);
                     if (!u) return;
 
@@ -563,7 +563,7 @@
                     `;
 
                 }
-
+                
                 function moveTip(ev){
                     const PAD=12, GAP=14, vw=window.innerWidth||document.documentElement.clientWidth, vh=window.innerHeight||document.documentElement.clientHeight;
                     const rect=tooltip.getBoundingClientRect(), tw=rect.width||300, th=rect.height||200;

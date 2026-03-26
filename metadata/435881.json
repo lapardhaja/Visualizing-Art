@@ -1,0 +1,117 @@
+{
+  "object_id": 435881,
+  "excel_metadata": {
+    "Object Number": "61.101.4",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 435881,
+    "Gallery Number": 826.0,
+    "Department": "European Paintings",
+    "AccessionYear": 1961.0,
+    "Object Name": "Painting",
+    "Title": "Still Life with a Ginger Jar and Eggplants",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16176.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Paul Cézanne",
+    "Artist Display Bio": "French, Aix-en-Provence 1839–1906 Aix-en-Provence",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Cézanne, Paul",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1839",
+    "Artist End Date": "1906",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500004793",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q35548",
+    "Object Date": "1893–94",
+    "Object Begin Date": 1893,
+    "Object End Date": 1894,
+    "Medium": "Oil on canvas",
+    "Dimensions": "28 1/2 x 36 in. (72.4 x 91.4 cm)",
+    "Credit Line": "Bequest of Stephen C. Clark, 1960",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/435881",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20167092",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Fruit|Eggplants|Still Life",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300011868|http://vocab.getty.edu/page/aat/300311491|http://vocab.getty.edu/page/aat/300015638",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q1364|https://www.wikidata.org/wiki/Q12533094|https://www.wikidata.org/wiki/Q170571"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-20100-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 161761,
+        "role": "Artist",
+        "name": "Paul Cézanne",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500004793",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q35548",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 72.4,
+          "Width": 91.4
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 12.7,
+          "Height": 97.7902,
+          "Width": 116.8402
+        }
+      },
+      {
+        "elementName": "Other",
+        "elementDescription": "plexi",
+        "elementMeasurements": {
+          "Height": 73.66015,
+          "Width": 93.02769
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Fruit",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300011868",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q1364"
+      },
+      {
+        "term": "Eggplants",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300311491",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q12533094"
+      },
+      {
+        "term": "Still Life",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015638",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q170571"
+      }
+    ]
+  }
+}

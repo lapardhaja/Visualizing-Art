@@ -1,0 +1,96 @@
+{
+  "object_id": 463205,
+  "excel_metadata": {
+    "Object Number": "09.153b, c",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 463205,
+    "Gallery Number": 304,
+    "Department": "Medieval Art",
+    "AccessionYear": 1909,
+    "Object Name": "Pilaster",
+    "Title": "Pilasters",
+    "Culture": "North Italian",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": null,
+    "Artist Role": null,
+    "Artist Prefix": null,
+    "Artist Display Name": null,
+    "Artist Display Bio": null,
+    "Artist Suffix": null,
+    "Artist Alpha Sort": null,
+    "Artist Nationality": null,
+    "Artist Begin Date": null,
+    "Artist End Date": null,
+    "Artist Gender": null,
+    "Artist ULAN URL": null,
+    "Artist Wikidata URL": null,
+    "Object Date": "10th–11th century",
+    "Object Begin Date": 900,
+    "Object End Date": 1099,
+    "Medium": "Marble (Carrara and Parian marble)",
+    "Dimensions": "Overall (b): 40 3/8 x 9 5/8 x 6 3/4 in., 214lb. (102.6 x 24.4 x 17.1 cm, 97.1kg)_x000D_\nOverall (c): 40 5/8 x 9 5/8 x 6 7/8 in., 202lb. (103.2 x 24.4 x 17.5 cm, 91.6kg)",
+    "Credit Line": "Rogers Fund, 1909",
+    "Geography Type": "Made in",
+    "City": "possibly Venice",
+    "State": null,
+    "County": "Veneto",
+    "Country": "Italy",
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Sculpture-Architectural",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/463205",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q116276602",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Birds",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300266506",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q5113"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/md/original/sf09-153bcs1.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/md/original/DP216418.jpg",
+      "https://images.metmuseum.org/CRDImages/md/original/DP216419.jpg"
+    ],
+    "constituents": null,
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": "b",
+        "elementMeasurements": {
+          "Depth": 17.1,
+          "Height": 102.6,
+          "Weight": 97.06976,
+          "Width": 24.4
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": "c",
+        "elementMeasurements": {
+          "Depth": 17.5,
+          "Height": 103.2,
+          "Weight": 91.6266,
+          "Width": 24.4
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Birds",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300266506",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q5113"
+      }
+    ]
+  }
+}

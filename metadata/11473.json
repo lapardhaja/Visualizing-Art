@@ -1,0 +1,95 @@
+{
+  "object_id": 11473,
+  "excel_metadata": {
+    "Object Number": "25.119",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 11473,
+    "Gallery Number": NaN,
+    "Department": "The American Wing",
+    "AccessionYear": 1925.0,
+    "Object Name": "Painting, miniature",
+    "Title": "Henry Clay",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 270.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "John Alexander McDougall",
+    "Artist Display Bio": "1810/11–1894",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "McDougall, John Alexander",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1811",
+    "Artist End Date": "1894",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": NaN,
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q20203252",
+    "Object Date": "ca. 1840",
+    "Object Begin Date": 1837,
+    "Object End Date": 1840,
+    "Medium": "Watercolor on ivory",
+    "Dimensions": "Sight: 1 3/16 x 15/16 in. (3 x 2.4 cm)",
+    "Credit Line": "Maria DeWitt Jesup Fund, 1925",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/11473",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20172377",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/ap25.119.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 2709,
+        "role": "Artist",
+        "name": "John Alexander McDougall",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q20203252",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Sight",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 3.0163,
+          "Width": 2.3813
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

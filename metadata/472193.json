@@ -1,0 +1,84 @@
+{
+  "object_id": 472193,
+  "excel_metadata": {
+    "Object Number": "25.120.117",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 472193,
+    "Gallery Number": 3,
+    "Department": "The Cloisters",
+    "AccessionYear": 1925,
+    "Object Name": "Capital",
+    "Title": "Engaged capital",
+    "Culture": "French",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": null,
+    "Artist Role": null,
+    "Artist Prefix": null,
+    "Artist Display Name": null,
+    "Artist Display Bio": null,
+    "Artist Suffix": null,
+    "Artist Alpha Sort": null,
+    "Artist Nationality": null,
+    "Artist Begin Date": null,
+    "Artist End Date": null,
+    "Artist Gender": null,
+    "Artist ULAN URL": null,
+    "Artist Wikidata URL": null,
+    "Object Date": "late 12th century",
+    "Object Begin Date": 1171,
+    "Object End Date": 1199,
+    "Medium": "Stone",
+    "Dimensions": "Overall: 11 1/2 x 9 1/4 x 12 3/8 in. (29.2 x 23.5 x 31.4 cm)",
+    "Credit Line": "The Cloisters Collection, 1925",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Sculpture-Architectural",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/472193",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q116256544",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Animals",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300249525",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q729"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/cl/original/cdi-st-g15.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/cl/original/cl25.120.1-.134.R.jpg"
+    ],
+    "constituents": null,
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 31.432564,
+          "Height": 29.210058,
+          "Width": 23.495047
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Animals",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300249525",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q729"
+      }
+    ]
+  }
+}

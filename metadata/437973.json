@@ -1,0 +1,95 @@
+{
+  "object_id": 437973,
+  "excel_metadata": {
+    "Object Number": "1996.181",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437973,
+    "Gallery Number": 805.0,
+    "Department": "European Paintings",
+    "AccessionYear": 1996.0,
+    "Object Name": "Painting",
+    "Title": "Ponte San Rocco and Waterfalls, Tivoli",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16195.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "François Marius Granet",
+    "Artist Display Bio": "French, Aix-en-Provence 1775–1849 Aix-en-Provence",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Granet, François Marius",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1775",
+    "Artist End Date": "1849",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500031529",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q964812",
+    "Object Date": "ca. 1810–20",
+    "Object Begin Date": 1810,
+    "Object End Date": 1820,
+    "Medium": "Oil on canvas",
+    "Dimensions": "14 7/8 x 11 1/8 in. (37.8 x  28.3 cm)",
+    "Credit Line": "Purchase, Leonora Brenauer Bequest, in memory of her father, Joseph B. Brenauer; Wolfe Fund, and Wolfe Fund, by exchange, 1996",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437973",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912234",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Waterfalls|Bridges",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300008736|http://vocab.getty.edu/page/aat/300386855",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q34038|https://www.wikidata.org/wiki/Q12280"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-23367-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 161955,
+        "role": "Artist",
+        "name": "François Marius Granet",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500031529",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q964812",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 37.8,
+          "Width": 28.3
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Bridges",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300386855",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q12280"
+      },
+      {
+        "term": "Waterfalls",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300008736",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q34038"
+      }
+    ]
+  }
+}

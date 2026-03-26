@@ -1,0 +1,101 @@
+{
+  "object_id": 49104,
+  "excel_metadata": {
+    "Object Number": "29.100.444",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 49104,
+    "Gallery Number": NaN,
+    "Department": "Asian Art",
+    "AccessionYear": 1929.0,
+    "Object Name": "Painting",
+    "Title": "能面図・般若|Noh Mask of a Demoness (Hannya)",
+    "Culture": "Japan",
+    "Period": "Edo period (1615–1868)",
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 1181.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": "In the Style of",
+    "Artist Display Name": "Ogawa Haritsu (Ritsuō)",
+    "Artist Display Bio": "Japanese, 1663–1747",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Ritsuō",
+    "Artist Nationality": "Japanese",
+    "Artist Begin Date": "1663",
+    "Artist End Date": "1747",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500336156",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q11460566",
+    "Object Date": "18th century",
+    "Object Begin Date": 1700,
+    "Object End Date": 1747,
+    "Medium": "Matted painting; color on papier mache in relief, against a paper background",
+    "Dimensions": "Diam. 10 3/4 in. (27.3 cm)",
+    "Credit Line": "H. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/49104",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q78828209",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Heads|Demons",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300375054|http://vocab.getty.edu/page/aat/300379730",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q3409626|https://www.wikidata.org/wiki/Q177413"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/as/original/29_100_444_tms.JPG",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 11819,
+        "role": "Artist",
+        "name": "In the Style of Ogawa Haritsu (Ritsuō)",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500336156",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q11460566",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Other",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Diameter": 27.3
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 103
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Heads",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300375054",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3409626"
+      },
+      {
+        "term": "Demons",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379730",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q177413"
+      }
+    ]
+  }
+}

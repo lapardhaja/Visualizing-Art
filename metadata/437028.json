@@ -1,0 +1,127 @@
+{
+  "object_id": 437028,
+  "excel_metadata": {
+    "Object Number": "32.100.56a–d",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 437028,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1932.0,
+    "Object Name": "Painting, wings of an altarpiece",
+    "Title": "Abner's Messenger before David; The Queen of Sheba Bringing Gifts to Solomon; The Annunciation",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10801.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Master of the Saint Barbara Legend",
+    "Artist Display Bio": "Netherlandish, active late 15th century",
+    "Artist Suffix": "and Collaborator",
+    "Artist Alpha Sort": "Master of the Saint Barbara Legend",
+    "Artist Nationality": "Netherlandish",
+    "Artist Begin Date": "1470",
+    "Artist End Date": "1499",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500016307",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q1233615",
+    "Object Date": "ca. 1480",
+    "Object Begin Date": 1475,
+    "Object End Date": 1485,
+    "Medium": "Oil on oak",
+    "Dimensions": "Each panel 36 3/4 x 17 5/8 in. (93.3 x 44.8 cm)",
+    "Credit Line": "The Friedsam Collection, Bequest of Michael Friedsam, 1931",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437028",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19911645",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|David|Annunciation|Dogs|Solomon|Queen of Sheba",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/ia/901001014|http://vocab.getty.edu/page/aat/300412102|http://vocab.getty.edu/page/aat/300265714|http://vocab.getty.edu/page/ia/901000120|http://vocab.getty.edu/page/ia/901000082",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q41370|https://www.wikidata.org/wiki/Q154326|https://www.wikidata.org/wiki/Q144|https://www.wikidata.org/wiki/Q37085|https://www.wikidata.org/wiki/Q159888"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/SF DT1049.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/DT1050.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-32_100_56-12.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-32_100_56-13.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-32_100_56-IRP_ext.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-32_100_56-3.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-32_100_56-4.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-32_100_56-5.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-32_100_56-6.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-32_100_56-7.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-32_100_56-8.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-32_100_56-9.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 108015,
+        "role": "Artist",
+        "name": "Master of the Saint Barbara Legend",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500016307",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1233615",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 93.3,
+          "Width": 44.8
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Dogs",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300265714",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q144"
+      },
+      {
+        "term": "David",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901001014",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q41370"
+      },
+      {
+        "term": "Annunciation",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300412102",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q154326"
+      },
+      {
+        "term": "Solomon",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000120",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q37085"
+      },
+      {
+        "term": "Queen of Sheba",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000082",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q159888"
+      }
+    ]
+  }
+}

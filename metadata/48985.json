@@ -1,0 +1,102 @@
+{
+  "object_id": 48985,
+  "excel_metadata": {
+    "Object Number": "08.148.1–.3",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 48985,
+    "Gallery Number": NaN,
+    "Department": "Asian Art",
+    "AccessionYear": 1908.0,
+    "Object Name": "Painting",
+    "Title": "月に兎・牡丹・立葵図|Rabbits under the Moon, Peonies, and Hollyhocks",
+    "Culture": "Japan",
+    "Period": "Edo period (1615–1868)",
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 1175.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": "Formerly attributed to",
+    "Artist Display Name": "Ogata Kōrin",
+    "Artist Display Bio": "Japanese, 1658–1716",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Kōrin",
+    "Artist Nationality": "Japanese",
+    "Artist Begin Date": "1658",
+    "Artist End Date": "1716",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500034109",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q952938",
+    "Object Date": "19th century",
+    "Object Begin Date": 1800,
+    "Object End Date": 1899,
+    "Medium": "Set of three matted paintings; ink and color on paper",
+    "Dimensions": "39 7/16 x 14 3/16 in. (100.2 x 36 cm)",
+    "Credit Line": "Gift of Francis Lathrop, 1908",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/48985",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q78832707",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Flowers",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300132399",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q506"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/as/original/4077.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/as/original/4078.jpg",
+      "https://images.metmuseum.org/CRDImages/as/original/4079.jpg",
+      "https://images.metmuseum.org/CRDImages/as/original/08_148_1_d.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 11750,
+        "role": "Artist",
+        "name": "Formerly attributed to Ogata Kōrin",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500034109",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q952938",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Other",
+        "elementDescription": "outside frame",
+        "elementMeasurements": {
+          "Height": 111.4,
+          "Width": 47.3
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 100.2,
+          "Width": 36
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Flowers",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132399",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q506"
+      }
+    ]
+  }
+}

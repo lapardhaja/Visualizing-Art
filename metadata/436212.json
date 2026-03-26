@@ -1,0 +1,100 @@
+{
+  "object_id": 436212,
+  "excel_metadata": {
+    "Object Number": "14.40.629",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436212,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1914.0,
+    "Object Name": "Painting",
+    "Title": "Young Woman with a Pearl Necklace",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10760.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": "Copy after",
+    "Artist Display Name": "Willem Drost",
+    "Artist Display Bio": "Dutch, late 17th or early 18th century",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Drost, Willem",
+    "Artist Nationality": "Dutch",
+    "Artist Begin Date": "1633",
+    "Artist End Date": "1659",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500009474",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q60099",
+    "Object Date": NaN,
+    "Object Begin Date": 1670,
+    "Object End Date": 1729,
+    "Medium": "Oil on canvas",
+    "Dimensions": "33 1/8 x 24 1/2 in. (84.1 x 62.2 cm)",
+    "Credit Line": "Bequest of Benjamin Altman, 1913",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436212",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19905418",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Necklaces|Portraits|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300046001|http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q189299|https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP145914.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 107602,
+        "role": "Artist",
+        "name": "Copy after Willem Drost",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500009474",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q60099",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 84.1,
+          "Width": 62.2
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Necklaces",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300046001",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q189299"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

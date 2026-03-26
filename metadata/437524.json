@@ -1,0 +1,119 @@
+{
+  "object_id": 437524,
+  "excel_metadata": {
+    "Object Number": "1984.433.336",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 437524,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1984.0,
+    "Object Name": "Painting, sketch",
+    "Title": "The Coronation of the Virgin",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16235.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Peter Paul Rubens",
+    "Artist Display Bio": "Flemish, Siegen 1577–1640 Antwerp",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Rubens, Peter Paul",
+    "Artist Nationality": "Flemish",
+    "Artist Begin Date": "1577",
+    "Artist End Date": "1640",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500002921",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q5599",
+    "Object Date": "ca. 1632–33",
+    "Object Begin Date": 1632,
+    "Object End Date": 1633,
+    "Medium": "Oil on wood",
+    "Dimensions": "19 5/8 x 16 in. (49.8 x 40.6 cm)",
+    "Credit Line": "Bequest of Scofield Thayer, 1982",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437524",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19906264",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Virgin Mary|Christ|God the Father|Coronation of the Virgin",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/ia/901000032|http://vocab.getty.edu/page/ia/901000087|http://vocab.getty.edu/page/ia/901000593|http://vocab.getty.edu/page/ia/901000780",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q345|https://www.wikidata.org/wiki/Q642420|https://www.wikidata.org/wiki/Q186350|https://www.wikidata.org/wiki/Q1093370"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT7932.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162350,
+        "role": "Artist",
+        "name": "Peter Paul Rubens",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500002921",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5599",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 49.8,
+          "Width": 40.6
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 9.2075,
+          "Height": 72.70764,
+          "Width": 62.230125
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Christ",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+      },
+      {
+        "term": "Virgin Mary",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000032",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q345"
+      },
+      {
+        "term": "God the Father",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000593",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q186350"
+      },
+      {
+        "term": "Coronation of the Virgin",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000780",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q1093370"
+      }
+    ]
+  }
+}

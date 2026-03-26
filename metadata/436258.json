@@ -1,0 +1,107 @@
+{
+  "object_id": 436258,
+  "excel_metadata": {
+    "Object Number": "49.7.25",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 436258,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1949.0,
+    "Object Name": "Painting",
+    "Title": "Self-Portrait",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16185.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Anthony van Dyck",
+    "Artist Display Bio": "Flemish, Antwerp 1599–1641 London",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Dyck, Anthony van",
+    "Artist Nationality": "Flemish",
+    "Artist Begin Date": "1599",
+    "Artist End Date": "1641",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500115190",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q150679",
+    "Object Date": "ca. 1620–21",
+    "Object Begin Date": 1620,
+    "Object End Date": 1621,
+    "Medium": "Oil on canvas",
+    "Dimensions": "47 1/8 x 34 5/8 in. (119.7 x 87.9 cm)",
+    "Credit Line": "The Jules Bache Collection, 1949",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436258",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q3630737",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Self-portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300124534",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q192110"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-23705-001.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-49_7_25-2.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-49_7_25-3.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 161858,
+        "role": "Artist",
+        "name": "Anthony van Dyck",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115190",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q150679",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 119.7,
+          "Width": 87.9
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 12.0396,
+          "Height": 147.9553,
+          "Width": 115.5702
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Self-portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300124534",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q192110"
+      }
+    ]
+  }
+}

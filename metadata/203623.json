@@ -1,0 +1,145 @@
+{
+  "object_id": 203623,
+  "excel_metadata": {
+    "Object Number": "64.101.805",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 203623,
+    "Gallery Number": 512,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1964,
+    "Object Name": "Snuffbox",
+    "Title": "Snuffbox",
+    "Culture": "British, London (Battersea)",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": null,
+    "Artist Role": null,
+    "Artist Prefix": null,
+    "Artist Display Name": null,
+    "Artist Display Bio": null,
+    "Artist Suffix": null,
+    "Artist Alpha Sort": null,
+    "Artist Nationality": null,
+    "Artist Begin Date": null,
+    "Artist End Date": null,
+    "Artist Gender": null,
+    "Artist ULAN URL": null,
+    "Artist Wikidata URL": null,
+    "Object Date": "1753–56",
+    "Object Begin Date": 1753,
+    "Object End Date": 1756,
+    "Medium": "Enameled copper",
+    "Dimensions": "Overall (confirmed): 1 1/2 × 2 3/4 × 3 1/2 in. (3.8 × 7 × 8.9 cm)",
+    "Credit Line": "Gift of Irwin Untermyer, 1964",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Enamels-Painted",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/203623",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q116400143",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Shields|Women|Harps",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300036869|http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/aat/300042047",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q131559|https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q47369"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP-16194-212.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/DP-16194-211.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP-16194-298.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/ES2035.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 94783,
+        "role": "Engraver",
+        "name": "exterior of lid engraved by Simon Francis Ravenet, the elder",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500030474",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1771158",
+        "gender": ""
+      },
+      {
+        "constituentID": 98237,
+        "role": "Designer",
+        "name": "exterior of lid possibly designed by James Gwim",
+        "constituentULAN_URL": "(not assigned)",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q53501969",
+        "gender": ""
+      },
+      {
+        "constituentID": 231563,
+        "role": "Engraver",
+        "name": "portrait of Elizabeth Gunning on inside by John Brooks, Irish, ca. 1710–after 1756 London",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      },
+      {
+        "constituentID": 164061,
+        "role": "Engraver",
+        "name": "portrait of Elizabeth Gunning on inside after engraving by Richard Houston",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500013630",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q2540800",
+        "gender": ""
+      },
+      {
+        "constituentID": 166193,
+        "role": "Artist",
+        "name": "portrait of Elizabeth Gunning on inside possibly after Francis Cotes",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115400",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q632772",
+        "gender": ""
+      },
+      {
+        "constituentID": 229762,
+        "role": "Manufactory",
+        "name": "York House",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": "confirmed",
+        "elementMeasurements": {
+          "Depth": 8.9,
+          "Height": 3.8100076,
+          "Width": 7
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Shields",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300036869",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q131559"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Harps",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300042047",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q47369"
+      }
+    ]
+  }
+}

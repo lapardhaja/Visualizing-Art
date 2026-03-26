@@ -1,0 +1,118 @@
+{
+  "object_id": 747199,
+  "excel_metadata": {
+    "Object Number": "2017.234",
+    "Is Highlight": true,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 747199,
+    "Gallery Number": 749.0,
+    "Department": "The American Wing",
+    "AccessionYear": 2017.0,
+    "Object Name": "Painting",
+    "Title": "The Virgin of Carmen and the Souls of Purgatory with St. Joseph and the Prophet Elijah",
+    "Culture": "Mexican",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 19722.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Juan Francisco de Aguilera",
+    "Artist Display Bio": "active Mexico, first third 18th century",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Aguilera, Juan Francisco de",
+    "Artist Nationality": "Mexico",
+    "Artist Begin Date": "          ",
+    "Artist End Date": "          ",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "(not assigned)",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q18575647",
+    "Object Date": "ca. 1720",
+    "Object Begin Date": 1715,
+    "Object End Date": 1725,
+    "Medium": "Oil and gold on copper; Frame: ebony, tortoise shell, and silver",
+    "Dimensions": "Image: 13 in. × 9 5/8 in. (33 × 24.5 cm)\r\nFramed: 17 15/16 × 14 15/16 in. (45.5 × 38 cm)",
+    "Credit Line": "Purchase, Nancy Dunn Revocable Trust Gift, 2017",
+    "Geography Type": "Made in",
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": "Mexico",
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/747199",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q104413095",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Virgin Mary|Men|Jesus|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901000032|http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/ia/901000087|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q345|https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q302|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DP-15280-003.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ad/original/DP-15280-004.jpg",
+      "https://images.metmuseum.org/CRDImages/ad/original/DP-15280-005.jpg",
+      "https://images.metmuseum.org/CRDImages/ad/original/DP-15280-001.jpg",
+      "https://images.metmuseum.org/CRDImages/ad/original/DP-15280-002.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 197225,
+        "role": "Artist",
+        "name": "Juan Francisco de Aguilera",
+        "constituentULAN_URL": "(not assigned)",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q18575647",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Diameter": 45.5,
+          "Height": 38
+        }
+      },
+      {
+        "elementName": "Image",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 33,
+          "Width": 24.5
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Virgin Mary",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000032",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q345"
+      },
+      {
+        "term": "Jesus",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q302"
+      }
+    ]
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "object_id": 436039,
+  "excel_metadata": {
+    "Object Number": "57.22",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436039,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1957.0,
+    "Object Name": "Painting",
+    "Title": "The Martyrdom of Saint Barbara",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16179.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Lucas Cranach the Elder",
+    "Artist Display Bio": "German, Kronach 1472–1553 Weimar",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Cranach, Lucas, the Elder",
+    "Artist Nationality": "German",
+    "Artist Begin Date": "1472",
+    "Artist End Date": "1553",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500115364",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q191748",
+    "Object Date": "ca. 1510",
+    "Object Begin Date": 1505,
+    "Object End Date": 1515,
+    "Medium": "Oil on linden",
+    "Dimensions": "Overall 60 3/8 x 54 1/4 in. (153.4 x 137.8 cm); painted surface 59 3/8 x 53 1/8 in. (150.8 x 134.9 cm)",
+    "Credit Line": "Rogers Fund, 1957",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436039",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19911426",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Soldiers|Men|Saints|Coat of Arms|Armor|Swords",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300185678|http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300150555|http://vocab.getty.edu/page/aat/300126352|http://vocab.getty.edu/page/aat/300226591|http://vocab.getty.edu/page/aat/300037048",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q4991371|https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q43115|https://www.wikidata.org/wiki/Q14659|https://www.wikidata.org/wiki/Q20793164|https://www.wikidata.org/wiki/Q12791"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP159770.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/GermanCat9_Xraynocap.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/GermanCat9_IRR_detail_1nocap.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/GermanCat9_IRR_detail_2nocap.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/GermanCat9_IRR_detail_3nocap.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/GermanCat9_IRR_detail_4nocap.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 161794,
+        "role": "Artist",
+        "name": "Lucas Cranach the Elder",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115364",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q191748",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 153.4,
+          "Width": 137.8
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Soldiers",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300185678",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q4991371"
+      },
+      {
+        "term": "Armor",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300226591",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q20793164"
+      },
+      {
+        "term": "Swords",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300037048",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q12791"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Saints",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300150555",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q43115"
+      },
+      {
+        "term": "Coat of Arms",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300126352",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q14659"
+      }
+    ]
+  }
+}

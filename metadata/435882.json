@@ -1,0 +1,104 @@
+{
+  "object_id": 435882,
+  "excel_metadata": {
+    "Object Number": "51.112.1",
+    "Is Highlight": true,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 435882,
+    "Gallery Number": 826.0,
+    "Department": "European Paintings",
+    "AccessionYear": 1951.0,
+    "Object Name": "Painting",
+    "Title": "Still Life with Apples and a Pot of Primroses",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16176.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Paul Cézanne",
+    "Artist Display Bio": "French, Aix-en-Provence 1839–1906 Aix-en-Provence",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Cézanne, Paul",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1839",
+    "Artist End Date": "1906",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500004793",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q35548",
+    "Object Date": "ca. 1890",
+    "Object Begin Date": 1885,
+    "Object End Date": 1895,
+    "Medium": "Oil on canvas",
+    "Dimensions": "28 3/4 x 36 3/8 in. (73 x 92.4 cm)",
+    "Credit Line": "Bequest of Sam A. Lewisohn, 1951",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/435882",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19904841",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Apples|Flowers|Still Life",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300266417|http://vocab.getty.edu/page/aat/300132399|http://vocab.getty.edu/page/aat/300015638",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q89|https://www.wikidata.org/wiki/Q506|https://www.wikidata.org/wiki/Q170571"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT47.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 161761,
+        "role": "Artist",
+        "name": "Paul Cézanne",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500004793",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q35548",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 73,
+          "Width": 92.4
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 11.43,
+          "Height": 106.0452,
+          "Width": 124.4602
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Apples",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300266417",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q89"
+      },
+      {
+        "term": "Still Life",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015638",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q170571"
+      }
+    ]
+  }
+}

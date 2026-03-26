@@ -1,0 +1,122 @@
+{
+  "object_id": 438776,
+  "excel_metadata": {
+    "Object Number": "2007.33",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 438776,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 2007.0,
+    "Object Name": "Painting",
+    "Title": "Madonna and Child with Saints",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16174.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Ludovico Carracci",
+    "Artist Display Bio": "Italian, Bologna 1555–1619 Bologna",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Carracci, Ludovico",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1555",
+    "Artist End Date": "1619",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500009619",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q380553",
+    "Object Date": "1607",
+    "Object Begin Date": 1607,
+    "Object End Date": 1607,
+    "Medium": "Oil on copper",
+    "Dimensions": "11 3/4 x 9 7/8 in. (29.8 x 25.1 cm)",
+    "Credit Line": "Gift of Mr. and Mrs. Mark Fisch, 2007",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/438776",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19905238",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Madonna and Child|Saints|Saint Catherine|Saint Peter|Saint Andrew",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901000052|http://vocab.getty.edu/page/aat/300150555| |http://vocab.getty.edu/page/ia/901000056|http://vocab.getty.edu/page/ia/901001059",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q9309699|https://www.wikidata.org/wiki/Q43115| |https://www.wikidata.org/wiki/Q33923|https://www.wikidata.org/wiki/Q43399"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP153642.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/DP153643.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-2007_330-2.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-2007_330-3.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 161749,
+        "role": "Artist",
+        "name": "Ludovico Carracci",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500009619",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q380553",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 29.8451,
+          "Width": 25.0826
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 48.8951,
+          "Width": 43.8151
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Madonna and Child",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000052",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q9309699"
+      },
+      {
+        "term": "Saint Catherine",
+        "AAT_URL": null,
+        "Wikidata_URL": null
+      },
+      {
+        "term": "Saint Peter",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000056",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q33923"
+      },
+      {
+        "term": "Saints",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300150555",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q43115"
+      },
+      {
+        "term": "Saint Andrew",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901001059",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q43399"
+      }
+    ]
+  }
+}

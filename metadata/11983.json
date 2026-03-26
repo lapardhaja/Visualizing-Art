@@ -1,0 +1,104 @@
+{
+  "object_id": 11983,
+  "excel_metadata": {
+    "Object Number": "93.18.1",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 11983,
+    "Gallery Number": NaN,
+    "Department": "The American Wing",
+    "AccessionYear": 1893.0,
+    "Object Name": "Painting",
+    "Title": "George P. Putnam",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 286.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Platt Powell Ryder",
+    "Artist Display Bio": "1821–1896",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Ryder, Platt Powell",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1821",
+    "Artist End Date": "1896",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500009441",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q18508617",
+    "Object Date": "1872",
+    "Object Begin Date": 1872,
+    "Object End Date": 1872,
+    "Medium": "Oil on canvas",
+    "Dimensions": "27 1/2 x 22 1/16 in. (69.9 x 56 cm)",
+    "Credit Line": "Gift of Samuel P. Avery, 1893",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/11983",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19925043",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/ap93.18.1.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 2862,
+        "role": "Artist",
+        "name": "Platt Powell Ryder",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500009441",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q18508617",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 69.9,
+          "Width": 56
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 7.62,
+          "Height": 82,
+          "Width": 69.5
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "object_id": 202499,
+  "excel_metadata": {
+    "Object Number": "60.127.2",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 202499,
+    "Gallery Number": 500,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1960,
+    "Object Name": "Lunette_x000D_\n",
+    "Title": "Saint Michael the Archangel",
+    "Culture": "Italian, Florence",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 3341,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Andrea della Robbia",
+    "Artist Display Bio": "Italian, 1435–1525",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Robbia, Andrea della",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": 1435,
+    "Artist End Date": 1525,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500030958",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q195655",
+    "Object Date": "ca. 1475",
+    "Object Begin Date": 1470,
+    "Object End Date": 1480,
+    "Medium": "Glazed terracotta",
+    "Dimensions": "Overall (confirmed): 31 1/8 × 61 7/8 in., 217.7 lb. (79.1 × 157.2 cm, 98.7 kg)",
+    "Credit Line": "Harris Brisbane Dick Fund, 1960",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Sculpture",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/202499",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q116374044",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Angels|Saint Michael",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300379004| ",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q235113|https://www.wikidata.org/wiki/Q45581"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP369834.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 33418,
+        "role": "Artist",
+        "name": "Andrea della Robbia",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500030958",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q195655",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": "confirmed",
+        "elementMeasurements": {
+          "Height": 79.1,
+          "Weight": 98.74807,
+          "Width": 157.2
+        }
+      },
+      {
+        "elementName": "Mount",
+        "elementDescription": "Aluminium backing board, confirmed",
+        "elementMeasurements": {
+          "Weight": 58.06042
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Angels",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379004",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q235113"
+      },
+      {
+        "term": "Saint Michael",
+        "AAT_URL": null,
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q45581"
+      }
+    ]
+  }
+}

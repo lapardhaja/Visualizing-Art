@@ -1,0 +1,103 @@
+{
+  "object_id": 435823,
+  "excel_metadata": {
+    "Object Number": "1971.115.3ab",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 435823,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1971.0,
+    "Object Name": "Painting",
+    "Title": "Adam; Eve",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16330.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Giuliano di Piero di Simone Bugiardini",
+    "Artist Display Bio": "Italian, Florence 1475–1554 Florence",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Bugiardini, Giuliano di Piero di Simone",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1475",
+    "Artist End Date": "1554",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500011070",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q2578459",
+    "Object Date": "ca. 1520",
+    "Object Begin Date": 1515,
+    "Object End Date": 1525,
+    "Medium": "Oil on canvas",
+    "Dimensions": "Each 26 3/8 x 61 3/4 in. (67 x 156.8 cm)",
+    "Credit Line": "Bequest of Edward Fowles, 1971",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/435823",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912183",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Eve|Snakes|Adam",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901000205|http://vocab.getty.edu/page/aat/300250870|http://vocab.getty.edu/page/ia/901000219",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q830183|https://www.wikidata.org/wiki/Q2102|https://www.wikidata.org/wiki/Q70899"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP246969.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/DP248085.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/SF 1971.115.3ab.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 163304,
+        "role": "Artist",
+        "name": "Giuliano di Piero di Simone Bugiardini",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500011070",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q2578459",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 67,
+          "Width": 156.8
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Snakes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250870",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q2102"
+      },
+      {
+        "term": "Adam",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000219",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q70899"
+      },
+      {
+        "term": "Eve",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000205",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q830183"
+      }
+    ]
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "object_id": 11904,
+  "excel_metadata": {
+    "Object Number": "32.73.1",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 11904,
+    "Gallery Number": 774.0,
+    "Department": "The American Wing",
+    "AccessionYear": 1932.0,
+    "Object Name": "Painting",
+    "Title": "New Jersey Beach",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16230.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "William Trost Richards",
+    "Artist Display Bio": "American, Philadelphia, Pennsylvania 1833–1905 Newport, Rhode Island",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Richards, William Trost",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1833",
+    "Artist End Date": "1905",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500014455",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q1985982",
+    "Object Date": "1901",
+    "Object Begin Date": 1901,
+    "Object End Date": 1901,
+    "Medium": "Oil on canvas",
+    "Dimensions": "28 1/4 x 48 1/4in. (71.8 x 122.6cm)\r\nFramed: 35 11/16 x 55 1/2 x 4 5/16 in. (90.7 x 141 x 11 cm)",
+    "Credit Line": "Gift of Mrs. William T. Brewster, 1932",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/11904",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19925701",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Seascapes|Beaches|Waves",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300117546|http://vocab.getty.edu/page/aat/300008816|http://vocab.getty.edu/page/aat/300343616",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q158607|https://www.wikidata.org/wiki/Q40080|https://www.wikidata.org/wiki/Q165848"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/ap32.73.1.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162306,
+        "role": "Artist",
+        "name": "William Trost Richards",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500014455",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1985982",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 71.8,
+          "Width": 122.6
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 11,
+          "Height": 90.7,
+          "Width": 141
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Beaches",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300008816",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q40080"
+      },
+      {
+        "term": "Seascapes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300117546",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q158607"
+      },
+      {
+        "term": "Waves",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300343616",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q165848"
+      }
+    ]
+  }
+}

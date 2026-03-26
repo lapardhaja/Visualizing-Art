@@ -1,0 +1,99 @@
+{
+  "object_id": 468218,
+  "excel_metadata": {
+    "Object Number": "47.100.54",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 468218,
+    "Gallery Number": 304,
+    "Department": "Medieval Art",
+    "AccessionYear": 1947,
+    "Object Name": "Crucifix",
+    "Title": "Crucifix",
+    "Culture": "North Italian",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": null,
+    "Artist Role": null,
+    "Artist Prefix": null,
+    "Artist Display Name": null,
+    "Artist Display Bio": null,
+    "Artist Suffix": null,
+    "Artist Alpha Sort": null,
+    "Artist Nationality": null,
+    "Artist Begin Date": null,
+    "Artist End Date": null,
+    "Artist Gender": null,
+    "Artist ULAN URL": null,
+    "Artist Wikidata URL": null,
+    "Object Date": "ca. 1200–1220",
+    "Object Begin Date": 1195,
+    "Object End Date": 1225,
+    "Medium": "Wood with polychromy",
+    "Dimensions": "Overall (Christ): 75 5/8 x 76 1/4 x 11 1/4 in. (192.1 x 193.7 x 28.6 cm)_x000D_\nCross: 89 1/8 x 80 1/2 x 1 in. (226.4 x 204.5 x 2.5 cm)",
+    "Credit Line": "Fletcher Fund, 1947",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Sculpture-Wood",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/468218",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q116276280",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Christ|Cross",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901000087|http://vocab.getty.edu/page/aat/300235443",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q642420|https://www.wikidata.org/wiki/Q40843"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/md/original/DP100204.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/md/original/DP216450.jpg",
+      "https://images.metmuseum.org/CRDImages/md/original/DP216451.jpg"
+    ],
+    "constituents": null,
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": "Christ",
+        "elementMeasurements": {
+          "Depth": 28.575058,
+          "Height": 192.08789,
+          "Width": 193.67538
+        }
+      },
+      {
+        "elementName": "Other",
+        "elementDescription": "Cross",
+        "elementMeasurements": {
+          "Depth": 2.540005,
+          "Height": 226.37796,
+          "Width": 204.47041
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Christ",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+      },
+      {
+        "term": "Cross",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300235443",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q40843"
+      }
+    ]
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "object_id": 435921,
+  "excel_metadata": {
+    "Object Number": "06.1272",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 435921,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1906.0,
+    "Object Name": "Painting",
+    "Title": "Mrs. James Pulham Sr. (Frances Amys, ca. 1766–1856)",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16623.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "John Constable",
+    "Artist Display Bio": "British, East Bergholt 1776–1837 Hampstead",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Constable, John",
+    "Artist Nationality": "British",
+    "Artist Begin Date": "1776",
+    "Artist End Date": "1837",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500115382",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q159297",
+    "Object Date": "1818",
+    "Object Begin Date": 1818,
+    "Object End Date": 1818,
+    "Medium": "Oil on canvas",
+    "Dimensions": "29 3/4 x 24 3/4 in. (75.6 x 62.9 cm)",
+    "Credit Line": "Gift of George A. Hearn, 1906",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/435921",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19905109",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Portraits|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP162142.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 166233,
+        "role": "Artist",
+        "name": "John Constable",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115382",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q159297",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 75.6,
+          "Width": 62.9
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 12.7,
+          "Height": 97.7902,
+          "Width": 85.0902
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

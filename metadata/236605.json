@@ -1,0 +1,91 @@
+{
+  "object_id": 236605,
+  "excel_metadata": {
+    "Object Number": 2008.544,
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 236605,
+    "Gallery Number": 521,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 2008,
+    "Object Name": "Casket",
+    "Title": "Mechanical casket",
+    "Culture": "Russian, St. Petersburg",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 4565,
+    "Artist Role": "Maker",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Heinrich Gambs",
+    "Artist Display Bio": "Durlach–Baden 1765–1831 Saint Petersburg",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Gambs Heinrich",
+    "Artist Nationality": " ",
+    "Artist Begin Date": 1765,
+    "Artist End Date": 1831,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500067279",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q109886249",
+    "Object Date": "1800–1810",
+    "Object Begin Date": 1800,
+    "Object End Date": 1810,
+    "Medium": "Burr-maple, ebony and ebonized fruitwood, mahogany, birch, gold-colored silk and green baize",
+    "Dimensions": "Overall: 7 1/4 x 16 x 9 1/2 in. (18.4 x 40.6 x 24.1 cm)",
+    "Credit Line": "Anonymous Gift, in memory of Walter E. Stait, 2008",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Woodwork-Furniture",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/236605",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": null,
+    "Tags AAT URL": null,
+    "Tags Wikidata URL": null
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP169725.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/DP169726.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP-24675-004.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP-24675-003.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP-24675-001.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP-24675-002.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 45651,
+        "role": "Maker",
+        "name": "Heinrich Gambs",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500067279",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q109886249",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 24.13,
+          "Height": 18.415,
+          "Width": 40.6401
+        }
+      }
+    ],
+    "tags": null
+  }
+}

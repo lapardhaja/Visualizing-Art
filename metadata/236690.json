@@ -1,0 +1,91 @@
+{
+  "object_id": 236690,
+  "excel_metadata": {
+    "Object Number": "2004.83.3",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 236690,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 2004,
+    "Object Name": "Statuette",
+    "Title": "Anacharsis the Scythian (?)",
+    "Culture": "French",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 4287,
+    "Artist Role": "Artist",
+    "Artist Prefix": "After a model by",
+    "Artist Display Name": "Pierre I Legros",
+    "Artist Display Bio": "1629–1714",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Legros Pierre I",
+    "Artist Nationality": " ",
+    "Artist Begin Date": 1629,
+    "Artist End Date": 1714,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500003450",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q2604375",
+    "Object Date": "late 17th century",
+    "Object Begin Date": 1685,
+    "Object End Date": 1699,
+    "Medium": "Bronze",
+    "Dimensions": "Overall: 6 1/4 x 2 5/8 x 1 3/4 in. (15.9 x 6.7 x 4.4 cm)",
+    "Credit Line": "Gift of Eugene V. Thaw, 2004",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Sculpture-Bronze",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/236690",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/SF2004_83_3.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 42876,
+        "role": "Artist",
+        "name": "After a model by Pierre I Legros",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500003450",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q2604375",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 4.445,
+          "Height": 15.875,
+          "Width": 6.6675
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      }
+    ]
+  }
+}

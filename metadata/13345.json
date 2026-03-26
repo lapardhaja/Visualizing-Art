@@ -1,0 +1,114 @@
+{
+  "object_id": 13345,
+  "excel_metadata": {
+    "Object Number": "84.12a",
+    "Is Highlight": true,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 13345,
+    "Gallery Number": 762.0,
+    "Department": "The American Wing",
+    "AccessionYear": 1884.0,
+    "Object Name": "Painting",
+    "Title": "A Bit of War History: The Contraband",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16275.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Thomas Waterman Wood",
+    "Artist Display Bio": "American, Montpelier, Vermont 1823–1903 New York",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Wood, Thomas Waterman",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1823",
+    "Artist End Date": "1903",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500017367",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q7794913",
+    "Object Date": "1865",
+    "Object Begin Date": 1865,
+    "Object End Date": 1865,
+    "Medium": "Oil on canvas",
+    "Dimensions": "28 1/4 x 20 1/4 in. (71.8 x 51.4 cm)\r\n(framed with 84.12b and 84.12c)",
+    "Credit Line": "Gift of Charles Stewart Smith, 1884",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/13345",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20169695",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "American Civil War|Firearms|Men|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901000030|http://vocab.getty.edu/page/aat/300037148|http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8676|https://www.wikidata.org/wiki/Q12796|https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DT2076.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162757,
+        "role": "Artist",
+        "name": "Thomas Waterman Wood",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500017367",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q7794913",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 71.8,
+          "Width": 51.4
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 10.8,
+          "Height": 109,
+          "Width": 182.9
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Firearms",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300037148",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q12796"
+      },
+      {
+        "term": "American Civil War",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000030",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8676"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "object_id": 14993,
+  "excel_metadata": {
+    "Object Number": "2006.235.1",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 14993,
+    "Gallery Number": NaN,
+    "Department": "The American Wing",
+    "AccessionYear": 2006.0,
+    "Object Name": "Painting, miniature",
+    "Title": "Miss Bruce",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 230.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Alfred Thomas Agate",
+    "Artist Display Bio": "1812–1846",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Agate, Alfred T.",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1812",
+    "Artist End Date": "1846",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500116915",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q3373427",
+    "Object Date": "1837",
+    "Object Begin Date": 1837,
+    "Object End Date": 1837,
+    "Medium": "Watercolor on ivory",
+    "Dimensions": "2 5/8 x 2 in (6.7 x 5 cm)",
+    "Credit Line": "Gift of Gloria Manney, 2006",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/14993",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20177222",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Portraits|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/APS6599.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 2302,
+        "role": "Artist",
+        "name": "Alfred Thomas Agate",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500116915",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3373427",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 6.7,
+          "Width": 5.1
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

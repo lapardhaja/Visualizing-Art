@@ -1,0 +1,104 @@
+{
+  "object_id": 835145,
+  "excel_metadata": {
+    "Object Number": "2019.405",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 835145,
+    "Gallery Number": NaN,
+    "Department": "Islamic Art",
+    "AccessionYear": 1999.0,
+    "Object Name": "Painting",
+    "Title": "Portrait of a Prince (Possibly Mohammad Mirza)",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": NaN,
+    "Artist Role": NaN,
+    "Artist Prefix": NaN,
+    "Artist Display Name": NaN,
+    "Artist Display Bio": NaN,
+    "Artist Suffix": NaN,
+    "Artist Alpha Sort": NaN,
+    "Artist Nationality": NaN,
+    "Artist Begin Date": NaN,
+    "Artist End Date": NaN,
+    "Artist Gender": NaN,
+    "Artist ULAN URL": NaN,
+    "Artist Wikidata URL": NaN,
+    "Object Date": "ca. 1820",
+    "Object Begin Date": 1795,
+    "Object End Date": 1845,
+    "Medium": "Oil on canvas",
+    "Dimensions": "H. 47 3/16 in. (119.9 cm)\r\nW. 31 1/2 in. (80 cm)",
+    "Credit Line": "Purchase, 2017 and 2018 NoRuz at The Met Benefits, 2019",
+    "Geography Type": "Made in",
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": "Iran",
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/835145",
+    "Object Wikidata URL": NaN,
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Princes|Portraits|Men|Hookah",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025482|http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300259151",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q2747456|https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q105397"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/is/original/LC-2019_405.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/is/original/LC-TR_320_2019-BT-20191101.jpg"
+    ],
+    "constituents": null,
+    "measurements": [
+      {
+        "elementName": "Width",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Width": 80.01016
+        }
+      },
+      {
+        "elementName": "Height",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 119.88824
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Princes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025482",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q2747456"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Hookah",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300259151",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q105397"
+      }
+    ]
+  }
+}

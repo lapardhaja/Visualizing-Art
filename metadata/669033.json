@@ -1,0 +1,104 @@
+{
+  "object_id": 669033,
+  "excel_metadata": {
+    "Object Number": "2014.608",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 669033,
+    "Gallery Number": 809.0,
+    "Department": "European Paintings",
+    "AccessionYear": 2014.0,
+    "Object Name": "Painting",
+    "Title": "Henri Fantin-Latour (1836–1904)",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16334.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Carolus-Duran (Charles-Auguste-Emile Durant)",
+    "Artist Display Bio": "French, Lille 1837–1917 Paris",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Carolus-Duran, Charles-Auguste-Emile Durant",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1837",
+    "Artist End Date": "1917",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500115346",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q274901",
+    "Object Date": "1861",
+    "Object Begin Date": 1861,
+    "Object End Date": 1861,
+    "Medium": "Oil on canvas",
+    "Dimensions": "18 3/4 × 15 in. (47.6 × 38.1 cm)",
+    "Credit Line": "Purchase, Marisa I. Alonso Bequest and Elizabeth and Thomas Easton Gift, in memory of their mother, Joan K. Easton, 2014\r\n",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/669033",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19911664",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP338851.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 163346,
+        "role": "Artist",
+        "name": "Carolus-Duran (Charles-Auguste-Emile Durant)",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115346",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q274901",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 47.625095,
+          "Width": 38.100075
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 6.350013,
+          "Height": 75.88265,
+          "Width": 67.310135
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

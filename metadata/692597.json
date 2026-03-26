@@ -1,0 +1,95 @@
+{
+  "object_id": 692597,
+  "excel_metadata": {
+    "Object Number": "2017.714",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 692597,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 2017.0,
+    "Object Name": "Painting",
+    "Title": "Saint Francis of Assisi",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10731.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Antoniazzo Romano (Antonio di Benedetto Aquilio)",
+    "Artist Display Bio": "Italian, Rome 1435/40–1508 Rome",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Antoniazzo Romano (Antonio di Benedetto Aquilio)",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1435",
+    "Artist End Date": "1508",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500031194",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q598649",
+    "Object Date": "ca. 1480–81",
+    "Object Begin Date": 1480,
+    "Object End Date": 1481,
+    "Medium": "Tempera and gold on wood, transferred to wood",
+    "Dimensions": "63 1/8 × 23 1/2 in. (160.3 × 59.7 cm)",
+    "Credit Line": "Gift of Dinko Podrug, Nena Ilic-Podrug, and Iva Podrug, 2017",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/692597",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q78614458",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Saint Francis",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/ulan/500349636",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q676555"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-17151-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 107313,
+        "role": "Artist",
+        "name": "Antoniazzo Romano (Antonio di Benedetto Aquilio)",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500031194",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q598649",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 160.33781,
+          "Width": 59.69012
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Saint Francis",
+        "AAT_URL": "http://vocab.getty.edu/page/ulan/500349636",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q676555"
+      }
+    ]
+  }
+}

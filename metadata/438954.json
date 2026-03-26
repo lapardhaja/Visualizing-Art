@@ -1,0 +1,124 @@
+{
+  "object_id": 438954,
+  "excel_metadata": {
+    "Object Number": "2007.164.2",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 438954,
+    "Gallery Number": 807.0,
+    "Department": "European Paintings",
+    "AccessionYear": 2007.0,
+    "Object Name": "Painting",
+    "Title": "Mother and Child by the Sea",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16180.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Johan Christian Dahl",
+    "Artist Display Bio": "Norwegian, Bergen 1788–1857 Dresden",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Dahl, Johan Christian",
+    "Artist Nationality": "Norwegian",
+    "Artist Begin Date": "1788",
+    "Artist End Date": "1857",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500002468",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q164735",
+    "Object Date": "1830",
+    "Object Begin Date": 1830,
+    "Object End Date": 1830,
+    "Medium": "Oil on canvas",
+    "Dimensions": "6 1/4 x 8 1/8 in. (15.9 x 20.6 cm)",
+    "Credit Line": "Gift of Eugene V. Thaw, 2007",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/438954",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19905395",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Children|Beaches|Clouds|Women|Night|Boats",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025945|http://vocab.getty.edu/page/aat/300008816|http://vocab.getty.edu/page/aat/300343840|http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/aat/300133095|http://vocab.getty.edu/page/aat/300178749",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q7569|https://www.wikidata.org/wiki/Q40080|https://www.wikidata.org/wiki/Q8074|https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q575|https://www.wikidata.org/wiki/Q35872"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-34304-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 161802,
+        "role": "Artist",
+        "name": "Johan Christian Dahl",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500002468",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q164735",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 15.875,
+          "Width": 20.6375
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 5.397511,
+          "Height": 25.400051,
+          "Width": 29.84506
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Children",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025945",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q7569"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Beaches",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300008816",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q40080"
+      },
+      {
+        "term": "Night",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300133095",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q575"
+      },
+      {
+        "term": "Clouds",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300343840",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8074"
+      },
+      {
+        "term": "Boats",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300178749",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q35872"
+      }
+    ]
+  }
+}

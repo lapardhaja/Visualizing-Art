@@ -1,0 +1,114 @@
+{
+  "object_id": 436600,
+  "excel_metadata": {
+    "Object Number": "1982.60.14",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436600,
+    "Gallery Number": 541.0,
+    "Department": "European Paintings",
+    "AccessionYear": 1982.0,
+    "Object Name": "Painting",
+    "Title": "Venice: The Dogana and Santa Maria della Salute",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16196.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": "Workshop of",
+    "Artist Display Name": "Francesco Guardi",
+    "Artist Display Bio": "Italian, Venice 1712–1793 Venice",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Guardi, Francesco",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1712",
+    "Artist End Date": "1793",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500017409",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q318769",
+    "Object Date": NaN,
+    "Object Begin Date": 1732,
+    "Object End Date": 1793,
+    "Medium": "Oil on wood",
+    "Dimensions": "7 1/8 x 12 5/8in. (18.1 x 32.1cm)\r\n",
+    "Credit Line": "The Jack and Belle Linsky Collection, 1982",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436600",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19913140",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Buildings|Boats|Canals|Venice",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300004789|http://vocab.getty.edu/page/aat/300178749|http://vocab.getty.edu/page/aat/300006075|http://vocab.getty.edu/page/tgn/7018159",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q41176|https://www.wikidata.org/wiki/Q35872|https://www.wikidata.org/wiki/Q12284|https://www.wikidata.org/wiki/Q641"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT8847.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 161967,
+        "role": "Artist",
+        "name": "Workshop of Francesco Guardi",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500017409",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q318769",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 18.1,
+          "Width": 32.1
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 5.08001,
+          "Height": 33.020065,
+          "Width": 46.037594
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Buildings",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300004789",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q41176"
+      },
+      {
+        "term": "Canals",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300006075",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q12284"
+      },
+      {
+        "term": "Boats",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300178749",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q35872"
+      },
+      {
+        "term": "Venice",
+        "AAT_URL": "http://vocab.getty.edu/page/tgn/7018159",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q641"
+      }
+    ]
+  }
+}

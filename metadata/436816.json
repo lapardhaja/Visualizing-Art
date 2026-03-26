@@ -1,0 +1,100 @@
+{
+  "object_id": 436816,
+  "excel_metadata": {
+    "Object Number": "1971.115.2",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436816,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1971.0,
+    "Object Name": "Painting",
+    "Title": "The Lacemaker",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10785.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Bernhard Keil",
+    "Artist Display Bio": "Danish, 1624–1687",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Keil, Bernhard",
+    "Artist Nationality": "Danish",
+    "Artist Begin Date": "1624",
+    "Artist End Date": "1687",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500015723",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q259393",
+    "Object Date": "ca. 1665",
+    "Object Begin Date": 1660,
+    "Object End Date": 1670,
+    "Medium": "Oil on canvas",
+    "Dimensions": "28 1/4 x 38 1/4 in. (71.8 x 97.2 cm)",
+    "Credit Line": "Bequest of Edward Fowles, 1971",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436816",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912155",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Women|Cats|Needlework",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/aat/300265960|http://vocab.getty.edu/page/aat/300053652",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q146|https://www.wikidata.org/wiki/Q28966125"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-20394-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 107854,
+        "role": "Artist",
+        "name": "Bernhard Keil",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500015723",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q259393",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 71.8,
+          "Width": 97.2
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Cats",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300265960",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q146"
+      },
+      {
+        "term": "Needlework",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300053652",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q28966125"
+      }
+    ]
+  }
+}

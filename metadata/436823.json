@@ -1,0 +1,95 @@
+{
+  "object_id": 436823,
+  "excel_metadata": {
+    "Object Number": "39.65.8",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436823,
+    "Gallery Number": 509.0,
+    "Department": "European Paintings",
+    "AccessionYear": 1939.0,
+    "Object Name": "Painting",
+    "Title": "Charles Beauclerk (1670–1726), Duke of St. Albans",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16618.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Sir Godfrey Kneller",
+    "Artist Display Bio": "German, Lübeck 1646–1723 London",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Kneller, Godfrey, Sir",
+    "Artist Nationality": "German",
+    "Artist Begin Date": "1646",
+    "Artist End Date": "1723",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500015875",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q65317",
+    "Object Date": "ca. 1690–95",
+    "Object Begin Date": 1690,
+    "Object End Date": 1695,
+    "Medium": "Oil on canvas",
+    "Dimensions": "49 7/8 x 40 1/2 in. (126.7 x 102.9 cm)",
+    "Credit Line": "Bequest of Jacob Ruppert, 1939",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436823",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912718",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP169383.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 166181,
+        "role": "Artist",
+        "name": "Sir Godfrey Kneller",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500015875",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q65317",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 126.7,
+          "Width": 102.9
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

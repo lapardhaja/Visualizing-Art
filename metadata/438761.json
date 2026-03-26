@@ -1,0 +1,117 @@
+{
+  "object_id": 438761,
+  "excel_metadata": {
+    "Object Number": "2005.103",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 438761,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 2005.0,
+    "Object Name": "Painting",
+    "Title": "The Annunciation",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 13004.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "South German (Bavarian?) Painter",
+    "Artist Display Bio": "1440–50",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "South German (Bavarian?) Painter",
+    "Artist Nationality": "German",
+    "Artist Begin Date": "          ",
+    "Artist End Date": "          ",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500125284",
+    "Artist Wikidata URL": NaN,
+    "Object Date": NaN,
+    "Object Begin Date": 1440,
+    "Object End Date": 1450,
+    "Medium": "Oil and gold on linden",
+    "Dimensions": "6 5/16 x 4 1/8 in. (16 x 10.5 cm)",
+    "Credit Line": "Gift of Julie and Lawrence Salander, in honor of Keith Christiansen, 2005",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/438761",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19911483",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Annunciation|Bedrooms|Virgin Mary|Archangel Gabriel",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300412102|http://vocab.getty.edu/page/aat/300004364|http://vocab.getty.edu/page/ia/901000032|http://vocab.getty.edu/page/ia/901000493",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q154326|https://www.wikidata.org/wiki/Q193837|https://www.wikidata.org/wiki/Q345|https://www.wikidata.org/wiki/Q81989"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP262812.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/GermanCat61_IRR.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/GermanCat61_Xray.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 130046,
+        "role": "Artist",
+        "name": "South German (Bavarian?) Painter",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500125284",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 16.0338,
+          "Width": 10.4775
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 2.3,
+          "Height": 19.7,
+          "Width": 14.3
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Bedrooms",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300004364",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q193837"
+      },
+      {
+        "term": "Virgin Mary",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000032",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q345"
+      },
+      {
+        "term": "Archangel Gabriel",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000493",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q81989"
+      },
+      {
+        "term": "Annunciation",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300412102",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q154326"
+      }
+    ]
+  }
+}

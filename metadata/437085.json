@@ -1,0 +1,104 @@
+{
+  "object_id": 437085,
+  "excel_metadata": {
+    "Object Number": "25.110.12",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437085,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1925.0,
+    "Object Name": "Painting",
+    "Title": "Margaretha van Clootwijk (born about 1580/81, died 1662)",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16603.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Michiel Jansz. van Mierevelt",
+    "Artist Display Bio": "Netherlandish, Delft 1567–1641 Delft",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Mierevelt, Michiel Jansz. van",
+    "Artist Nationality": "Netherlandish",
+    "Artist Begin Date": "1567",
+    "Artist End Date": "1641",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500025466",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q864092",
+    "Object Date": "1639",
+    "Object Begin Date": 1639,
+    "Object End Date": 1639,
+    "Medium": "Oil on wood",
+    "Dimensions": "27 3/4 x 22 7/8 in. (70.5 x 58.1 cm)",
+    "Credit Line": "Bequest of Collis P. Huntington, 1900",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437085",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912766",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Portraits|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP143161.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 166030,
+        "role": "Artist",
+        "name": "Michiel Jansz. van Mierevelt",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500025466",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q864092",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 10.795022,
+          "Height": 102.87021,
+          "Width": 92.07519
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 70.5,
+          "Width": 58.1
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

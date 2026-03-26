@@ -1,0 +1,98 @@
+{
+  "object_id": 459009,
+  "excel_metadata": {
+    "Object Number": "1975.1.68",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 459009,
+    "Gallery Number": 952.0,
+    "Department": "Robert Lehman Collection",
+    "AccessionYear": 1975.0,
+    "Object Name": "Painting",
+    "Title": "Saints John the Baptist and Matthew",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16312.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Bicci di Lorenzo",
+    "Artist Display Bio": "Italian, Florence 1373–1452 Florence",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Bicci di Lorenzo",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1373",
+    "Artist End Date": "1452",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500002727",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q856749",
+    "Object Date": "possibly 1433",
+    "Object Begin Date": 1428,
+    "Object End Date": 1438,
+    "Medium": "Tempera on wood, gold ground",
+    "Dimensions": "48 5/8 x 29 in. (123.5 x 73.7 cm)",
+    "Credit Line": "Robert Lehman Collection, 1975",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/459009",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20188025",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Saint John the Baptist|Saint Matthew",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901001056|http://vocab.getty.edu/page/ia/901000497",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q40662|https://www.wikidata.org/wiki/Q43600"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/rl/original/DT3048.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/rl/original/ep1975.1.68.bw.R.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/0070.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 163121,
+        "role": "Artist",
+        "name": "Bicci di Lorenzo",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500002727",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q856749",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 123.5,
+          "Width": 73.7
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Saint John the Baptist",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901001056",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q40662"
+      },
+      {
+        "term": "Saint Matthew",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000497",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q43600"
+      }
+    ]
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "object_id": 437935,
+  "excel_metadata": {
+    "Object Number": "97.41.3",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437935,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1897.0,
+    "Object Name": "Painting",
+    "Title": "An Old Bridge at Hendon, Middlesex",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10845.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Frederick Waters Watts",
+    "Artist Display Bio": "British, Bath 1800–1870 Hampstead",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Watts, Frederick Waters",
+    "Artist Nationality": "British",
+    "Artist Begin Date": "1800",
+    "Artist End Date": "1870",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500000283",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q5498969",
+    "Object Date": "ca. 1828",
+    "Object Begin Date": 1820,
+    "Object End Date": 1833,
+    "Medium": "Oil on canvas",
+    "Dimensions": "21 3/4 x 32 3/4 in. (55.2 x 83.2 cm)",
+    "Credit Line": "Gift of George A. Hearn, 1897",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437935",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19911883",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Bridges|Men|Dogs|Streams",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300386855|http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300265714|http://vocab.getty.edu/page/aat/300008699",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q12280|https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q144|https://www.wikidata.org/wiki/Q47521"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP169650.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 108451,
+        "role": "Artist",
+        "name": "Frederick Waters Watts",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500000283",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5498969",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 55.2,
+          "Width": 83.2
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Bridges",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300386855",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q12280"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Dogs",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300265714",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q144"
+      },
+      {
+        "term": "Streams",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300008699",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q47521"
+      }
+    ]
+  }
+}

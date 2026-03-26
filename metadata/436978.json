@@ -1,0 +1,100 @@
+{
+  "object_id": 436978,
+  "excel_metadata": {
+    "Object Number": "30.95.265",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436978,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1930.0,
+    "Object Name": "Painting, part of an altarpiece",
+    "Title": "Saint Anthony Abbot (with Saint John the Baptist)",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10797.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Martino di Bartolommeo di Biagio",
+    "Artist Display Bio": "Italian, Sienese, active by 1389–died 1434/35",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Martino di Bartolommeo di Biagio",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1389",
+    "Artist End Date": "1435",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500016530",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q1155177",
+    "Object Date": NaN,
+    "Object Begin Date": 1389,
+    "Object End Date": 1435,
+    "Medium": "Tempera on wood, gold ground",
+    "Dimensions": "Overall, with shaped top and engaged (modern) frame, 58 5/8 x 16 1/2 in. (148.9 x 41.9 cm); Saint Anthony 39 1/2 x 11 3/4 in. (100.3 x 29.8 cm); Saint John 12 3/4 x 8 7/8 in. (32.4 x 22.5 cm)",
+    "Credit Line": "Theodore M. Davis Collection, Bequest of Theodore M. Davis, 1915",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436978",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912243",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Saint John the Baptist|Saints",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/ia/901001056|http://vocab.getty.edu/page/aat/300150555",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q40662|https://www.wikidata.org/wiki/Q43115"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/ep30.95.265.bw.R.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 107977,
+        "role": "Artist",
+        "name": "Martino di Bartolommeo di Biagio",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500016530",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1155177",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 148.9,
+          "Width": 41.9
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Saint John the Baptist",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901001056",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q40662"
+      },
+      {
+        "term": "Saints",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300150555",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q43115"
+      }
+    ]
+  }
+}

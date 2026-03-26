@@ -1,0 +1,110 @@
+{
+  "object_id": 20114,
+  "excel_metadata": {
+    "Object Number": "2009.15a–c",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 20114,
+    "Gallery Number": 754.0,
+    "Department": "The American Wing",
+    "AccessionYear": 2009.0,
+    "Object Name": "Painting, miniature",
+    "Title": "Paul Joseph Revere",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 364.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Margaret Bogardus",
+    "Artist Display Bio": "1804–1878",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Bogardus, Margaret",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1804",
+    "Artist End Date": "1878",
+    "Artist Gender": "Female",
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500334192",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q21647194",
+    "Object Date": "ca. 1840",
+    "Object Begin Date": 1837,
+    "Object End Date": 1843,
+    "Medium": "Watercolor on ivory",
+    "Dimensions": "3 13/16 x 3 in. (9.7 x 7.6 cm)\r\n",
+    "Credit Line": "Purchase, Dale T. Johnson Fund and Jan and Warren Adelson Gift, 2009",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/20114",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19930616",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Toys|Boys|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300211037|http://vocab.getty.edu/page/aat/300247598|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q11422|https://www.wikidata.org/wiki/Q3010|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DP207859.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ad/original/DP223005.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 3640,
+        "role": "Artist",
+        "name": "Margaret Bogardus",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500334192",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q21647194",
+        "gender": "Female"
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Sight",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 9.6838,
+          "Width": 7.62
+        }
+      },
+      {
+        "elementName": "Other",
+        "elementDescription": "In case",
+        "elementMeasurements": {
+          "Height": 16.8275,
+          "Width": 14.2875
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Boys",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300247598",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3010"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Toys",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300211037",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q11422"
+      }
+    ]
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "object_id": 435768,
+  "excel_metadata": {
+    "Object Number": "12.178.2",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 435768,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1912.0,
+    "Object Name": "Painting",
+    "Title": "Madonna and Child",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10743.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Bramantino (Bartolomeo Suardi)",
+    "Artist Display Bio": "Italian, Bergamo (?) ca. 1465–1530 Milan",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Bramantino (Bartolomeo Suardi)",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1460",
+    "Artist End Date": "1530",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500005572",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q7799",
+    "Object Date": "before 1508",
+    "Object Begin Date": 1507,
+    "Object End Date": 1507,
+    "Medium": "Tempera on wood",
+    "Dimensions": "Overall 13 1/2 x 11 1/4 in. (34.3 x 28.6 cm); painted surface 13 1/2 x 10 7/8 in. (34.3 x 27.6 cm)",
+    "Credit Line": "John Stewart Kennedy Fund, 1912",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/435768",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q3842406",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Madonna and Child|Apples",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901000052|http://vocab.getty.edu/page/aat/300266417",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q9309699|https://www.wikidata.org/wiki/Q89"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT5282.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/bramantino bt.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/bramantino stripped.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/BramantinoIRR.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 107434,
+        "role": "Artist",
+        "name": "Bramantino (Bartolomeo Suardi)",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500005572",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q7799",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 34.3,
+          "Width": 28.6
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Apples",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300266417",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q89"
+      },
+      {
+        "term": "Madonna and Child",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000052",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q9309699"
+      }
+    ]
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "object_id": 11189,
+  "excel_metadata": {
+    "Object Number": "87.15.78",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 11189,
+    "Gallery Number": NaN,
+    "Department": "The American Wing",
+    "AccessionYear": 1887.0,
+    "Object Name": "Painting",
+    "Title": "John David Wolfe",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16510.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Daniel Huntington",
+    "Artist Display Bio": "American, New York 1816–1906 New York",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Huntington, Daniel",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1816",
+    "Artist End Date": "1906",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500017937",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q323987",
+    "Object Date": "1871",
+    "Object Begin Date": 1871,
+    "Object End Date": 1871,
+    "Medium": "Oil on canvas",
+    "Dimensions": "43 1/4 x 37 3/8 in. (109.9 x 94.9 cm)",
+    "Credit Line": "Bequest of Catharine Lorillard Wolfe, 1887",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/11189",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19923940",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/ap87.15.78.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 165104,
+        "role": "Artist",
+        "name": "Daniel Huntington",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500017937",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q323987",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 109.9,
+          "Width": 94.9
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

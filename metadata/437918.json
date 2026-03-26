@@ -1,0 +1,100 @@
+{
+  "object_id": 437918,
+  "excel_metadata": {
+    "Object Number": "71.46",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437918,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1871.0,
+    "Object Name": "Painting",
+    "Title": "Portrait of a Young Woman",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16267.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Cornelis de Vos",
+    "Artist Display Bio": "Flemish, Hulst 1584/85–1651 Antwerp",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Vos, Cornelis de",
+    "Artist Nationality": "Flemish",
+    "Artist Begin Date": "1584",
+    "Artist End Date": "1651",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500022702",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q474934",
+    "Object Date": NaN,
+    "Object Begin Date": 1603,
+    "Object End Date": 1651,
+    "Medium": "Oil on canvas",
+    "Dimensions": "46 1/2 x 37 1/4 in. (118.1 x 94.6 cm), including added strip of 2 3/4 in. (7 cm) at top",
+    "Credit Line": "Purchase, 1871",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437918",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912750",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Fans|Portraits|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300258857|http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q193220|https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-17623-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162670,
+        "role": "Artist",
+        "name": "Cornelis de Vos",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500022702",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q474934",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 118.1,
+          "Width": 94.6
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Fans",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300258857",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q193220"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

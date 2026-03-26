@@ -1,0 +1,95 @@
+{
+  "object_id": 11500,
+  "excel_metadata": {
+    "Object Number": "38.165.30",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 11500,
+    "Gallery Number": NaN,
+    "Department": "The American Wing",
+    "AccessionYear": 1938.0,
+    "Object Name": "Painting, miniature",
+    "Title": "Joel Roberts Poinsett",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 153.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Edward Greene Malbone",
+    "Artist Display Bio": "1777–1807",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Malbone, Edward Greene",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1777",
+    "Artist End Date": "1807",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500023492",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q1292928",
+    "Object Date": "1801",
+    "Object Begin Date": 1801,
+    "Object End Date": 1801,
+    "Medium": "Watercolor on ivory",
+    "Dimensions": "2 13/16 x 2 3/16 in. (7.1 x 5.5 cm)",
+    "Credit Line": "Harris Brisbane Dick Fund, 1938",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/11500",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19923888",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/ap38.165.30.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 1530,
+        "role": "Artist",
+        "name": "Edward Greene Malbone",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500023492",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1292928",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 7.1,
+          "Width": 5.5
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

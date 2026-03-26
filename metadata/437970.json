@@ -1,0 +1,109 @@
+{
+  "object_id": 437970,
+  "excel_metadata": {
+    "Object Number": "1976.100.21",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437970,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1976.0,
+    "Object Name": "Painting",
+    "Title": "Saint Benedict",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16279.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Francisco de Zurbarán",
+    "Artist Display Bio": "Spanish, Fuente de Cantos 1598–1664 Madrid",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Zurbarán, Francisco de",
+    "Artist Nationality": "Spanish",
+    "Artist Begin Date": "1598",
+    "Artist End Date": "1664",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500001984",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q209615",
+    "Object Date": "ca. 1640–45",
+    "Object Begin Date": 1640,
+    "Object End Date": 1645,
+    "Medium": "Oil on canvas",
+    "Dimensions": "74 x 40 3/4 in. (188 x 103.5 cm)",
+    "Credit Line": "Bequest of Harry G. Sperling, 1971",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437970",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19905433",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Saints|Pitchers",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300150555|http://vocab.getty.edu/page/aat/300194765",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q43115|https://www.wikidata.org/wiki/Q132397"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-25223-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162794,
+        "role": "Artist",
+        "name": "Francisco de Zurbarán",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500001984",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q209615",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 188,
+          "Width": 103.5
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 12.065024,
+          "Height": 214.63043,
+          "Width": 129.54025
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Saints",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300150555",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q43115"
+      },
+      {
+        "term": "Pitchers",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300194765",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q132397"
+      }
+    ]
+  }
+}

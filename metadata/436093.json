@@ -1,0 +1,95 @@
+{
+  "object_id": 436093,
+  "excel_metadata": {
+    "Object Number": "54.143.1",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436093,
+    "Gallery Number": 802.0,
+    "Department": "European Paintings",
+    "AccessionYear": 1954.0,
+    "Object Name": "Painting",
+    "Title": "The Drinkers",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16180.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Honoré Daumier",
+    "Artist Display Bio": "French, Marseilles 1808–1879 Valmondois",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Daumier, Honoré",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1808",
+    "Artist End Date": "1879",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500117998",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q187506",
+    "Object Date": "by 1861",
+    "Object Begin Date": 1841,
+    "Object End Date": 1861,
+    "Medium": "Oil on wood",
+    "Dimensions": "14 3/8 x 11 in. (36.5 x 27.9 cm)",
+    "Credit Line": "Bequest of Margaret Seligman Lewisohn, in memory of her husband, Sam A. Lewisohn, 1954",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436093",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19905186",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Drinking",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300379698",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q876776"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-21956-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 161808,
+        "role": "Artist",
+        "name": "Honoré Daumier",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500117998",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q187506",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 36.5,
+          "Width": 27.9
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Drinking",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379698",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q876776"
+      }
+    ]
+  }
+}

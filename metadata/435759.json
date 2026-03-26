@@ -1,0 +1,99 @@
+{
+  "object_id": 435759,
+  "excel_metadata": {
+    "Object Number": "60.55.2",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 435759,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1960.0,
+    "Object Name": "Painting",
+    "Title": "Head of Saint John the Baptist on a Charger",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16312.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Aelbert Bouts",
+    "Artist Display Bio": "Netherlandish, Leuven ca. 1451/54–1549",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Bouts, Aelbert",
+    "Artist Nationality": "Netherlandish",
+    "Artist Begin Date": "1451",
+    "Artist End Date": "1549",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500006416",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q380743",
+    "Object Date": "ca. 1500",
+    "Object Begin Date": 1495,
+    "Object End Date": 1505,
+    "Medium": "Oil on poplar",
+    "Dimensions": "Diameter 11 1/8 in. (28.3 cm)",
+    "Credit Line": "Bequest of Rupert L. Joseph, 1959",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/435759",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19911868",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Heads|Saint John the Baptist",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300375054|http://vocab.getty.edu/page/ia/901001056",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q3409626|https://www.wikidata.org/wiki/Q40662"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP345354.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-60_55_2_Xray.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-60_55_2_Supp2.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-60_55_2_Supp3.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 163124,
+        "role": "Artist",
+        "name": "Aelbert Bouts",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500006416",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q380743",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 28.3,
+          "Width": 28.3
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Heads",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300375054",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3409626"
+      },
+      {
+        "term": "Saint John the Baptist",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901001056",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q40662"
+      }
+    ]
+  }
+}

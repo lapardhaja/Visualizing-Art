@@ -1,0 +1,116 @@
+{
+  "object_id": 11136,
+  "excel_metadata": {
+    "Object Number": "06.1282",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 11136,
+    "Gallery Number": NaN,
+    "Department": "The American Wing",
+    "AccessionYear": 1906.0,
+    "Object Name": "Painting",
+    "Title": "Searchlight on Harbor Entrance, Santiago de Cuba",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16199.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Winslow Homer",
+    "Artist Display Bio": "American, Boston, Massachusetts 1836–1910 Prouts Neck, Maine",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Homer, Winslow",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1836",
+    "Artist End Date": "1910",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500019202",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q344838",
+    "Object Date": "1902",
+    "Object Begin Date": 1902,
+    "Object End Date": 1902,
+    "Medium": "Oil on canvas",
+    "Dimensions": "30 1/2 x 50 1/2 in. (77.5 x 128.3 cm)\r\nFramed: 43 7/8 x 63 5/8 x 6 in. (111.4 x 161.6 x 15.2 cm)",
+    "Credit Line": "Gift of George A. Hearn, 1906",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/11136",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19924223",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Cannons|Moon|Night",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300036936|http://vocab.getty.edu/page/aat/300386951|http://vocab.getty.edu/page/aat/300133095",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q81103|https://www.wikidata.org/wiki/Q405|https://www.wikidata.org/wiki/Q575"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DP-21455-001.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ad/original/DP-21455-002.jpg",
+      "https://images.metmuseum.org/CRDImages/ad/original/265_1906.jpg",
+      "https://images.metmuseum.org/CRDImages/ad/original/265_1939.jpg",
+      "https://images.metmuseum.org/CRDImages/ad/original/265_NA.jpg",
+      "https://images.metmuseum.org/CRDImages/ad/original/ap06.1282.jpg",
+      "https://images.metmuseum.org/CRDImages/ad/original/DT261206.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 161996,
+        "role": "Artist",
+        "name": "Winslow Homer",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500019202",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q344838",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 15.2,
+          "Height": 111.4,
+          "Width": 161.6
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 77.5,
+          "Width": 128.3
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Cannons",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300036936",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q81103"
+      },
+      {
+        "term": "Moon",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300386951",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q405"
+      },
+      {
+        "term": "Night",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300133095",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q575"
+      }
+    ]
+  }
+}

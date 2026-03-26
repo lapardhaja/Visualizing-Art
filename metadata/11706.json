@@ -1,0 +1,102 @@
+{
+  "object_id": 11706,
+  "excel_metadata": {
+    "Object Number": "83.2.122",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 11706,
+    "Gallery Number": NaN,
+    "Department": "The American Wing",
+    "AccessionYear": 1883.0,
+    "Object Name": "Painting, miniature",
+    "Title": "George Washington",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16221.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Charles Willson Peale",
+    "Artist Display Bio": "American, Chester, Maryland 1741–1827 Philadelphia, Pennsylvania",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Peale, Charles Willson",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1741",
+    "Artist End Date": "1827",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500017914",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q454945",
+    "Object Date": "ca. 1777",
+    "Object Begin Date": 1774,
+    "Object End Date": 1777,
+    "Medium": "Watercolor on ivory",
+    "Dimensions": "1 1/2 x 1 3/8 in. (3.8 x 3.5 cm)",
+    "Credit Line": "Gift of William H. Huntington, 1883",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/11706",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20177620",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "George Washington|Men|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ulan/500126198|http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q23|https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DT2092.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ad/original/DP169095.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 162210,
+        "role": "Artist",
+        "name": "Charles Willson Peale",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500017914",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q454945",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 3.81,
+          "Width": 3.5
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "George Washington",
+        "AAT_URL": "http://vocab.getty.edu/page/ulan/500126198",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q23"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

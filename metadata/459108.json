@@ -1,0 +1,113 @@
+{
+  "object_id": 459108,
+  "excel_metadata": {
+    "Object Number": "1975.1.197",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 459108,
+    "Gallery Number": NaN,
+    "Department": "Robert Lehman Collection",
+    "AccessionYear": 1975.0,
+    "Object Name": "Painting",
+    "Title": "The Harvest, Pontoise (La Récolte, Pontoise)",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16225.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Camille Pissarro",
+    "Artist Display Bio": "French, Charlotte Amalie, Saint Thomas 1830–1903 Paris",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Pissarro, Camille",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1830",
+    "Artist End Date": "1903",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500001924",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q134741",
+    "Object Date": "1881",
+    "Object Begin Date": 1881,
+    "Object End Date": 1881,
+    "Medium": "Oil on canvas",
+    "Dimensions": "18 1/8 x 21 3/4 in. (46 x 55.2 cm)",
+    "Credit Line": "Robert Lehman Collection, 1975",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/459108",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20183472",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Women|Working",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/aat/300412186",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q6958747"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/rl/original/DP-34499-001.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/rl/original/DP-34499-002.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/2209.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/DT3127.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/ep1975.1.197.bw.R.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 162257,
+        "role": "Artist",
+        "name": "Camille Pissarro",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500001924",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q134741",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 72.07265,
+          "Width": 81.121414
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 46,
+          "Width": 55.2
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Working",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300412186",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q6958747"
+      },
+      {
+        "term": "Harvesting",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300417516",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q213753"
+      }
+    ]
+  }
+}

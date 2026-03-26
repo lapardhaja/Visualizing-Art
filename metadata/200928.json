@@ -1,0 +1,95 @@
+{
+  "object_id": 200928,
+  "excel_metadata": {
+    "Object Number": "50.211.240a, b",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 200928,
+    "Gallery Number": 533,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1950,
+    "Object Name": "Vase with cover",
+    "Title": "Vase with cover",
+    "Culture": "German, Meissen",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 16483,
+    "Artist Role": "Manufactory",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Meissen Manufactory",
+    "Artist Display Bio": "German, 1710–present",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Meissen Manufactory",
+    "Artist Nationality": "German",
+    "Artist Begin Date": 1710,
+    "Artist End Date": 9999,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500054662",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q822407",
+    "Object Date": "ca. 1725–30",
+    "Object Begin Date": 1720,
+    "Object End Date": 1735,
+    "Medium": "Hard-paste porcelain",
+    "Dimensions": "Overall: 22 1/2 × 11 1/2 in. (57.2 × 29.2 cm)",
+    "Credit Line": "Gift of R. Thornton Wilson, in memory of Florence Ellsworth Wilson, 1950",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Ceramics-Porcelain",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/200928",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q116310440",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Flowers",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300132399",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q506"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP264584.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/DP264585.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP264586.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP264587.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP264588.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 164832,
+        "role": "Manufactory",
+        "name": "Meissen Manufactory",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500054662",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q822407",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Diameter": 29.210058,
+          "Height": 57.150116
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Flowers",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132399",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q506"
+      }
+    ]
+  }
+}

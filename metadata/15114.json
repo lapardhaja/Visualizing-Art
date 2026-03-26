@@ -1,0 +1,95 @@
+{
+  "object_id": 15114,
+  "excel_metadata": {
+    "Object Number": "2006.235.66",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 15114,
+    "Gallery Number": NaN,
+    "Department": "The American Wing",
+    "AccessionYear": 2006.0,
+    "Object Name": "Painting, miniature",
+    "Title": "L. B. Walker",
+    "Culture": "British",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16489.0,
+    "Artist Role": "Former Attribution",
+    "Artist Prefix": "Formerly attributed to",
+    "Artist Display Name": "Edward Miles",
+    "Artist Display Bio": "British, Yarmouth 1752–1828 Philadelphia, Pennsylvania",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Miles, Edward",
+    "Artist Nationality": "British",
+    "Artist Begin Date": "1752",
+    "Artist End Date": "1828",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500012458",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q18730215",
+    "Object Date": NaN,
+    "Object Begin Date": 1752,
+    "Object End Date": 1828,
+    "Medium": "Watercolor on ivory",
+    "Dimensions": "2 7/8 x 2 3/16 in. (7.2 x 5.5 cm)",
+    "Credit Line": "Gift of Gloria Manney, 2006",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/15114",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19923920",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/APS6707.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 164896,
+        "role": "Former Attribution",
+        "name": "Formerly attributed to Edward Miles",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500012458",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q18730215",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 7.3,
+          "Width": 5.6
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "object_id": 11193,
+  "excel_metadata": {
+    "Object Number": "53.76",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 11193,
+    "Gallery Number": NaN,
+    "Department": "The American Wing",
+    "AccessionYear": 1953.0,
+    "Object Name": "Painting",
+    "Title": "Mrs. Birdsall Cornell",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16510.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Daniel Huntington",
+    "Artist Display Bio": "American, New York 1816–1906 New York",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Huntington, Daniel",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1816",
+    "Artist End Date": "1906",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500017937",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q323987",
+    "Object Date": "1860",
+    "Object Begin Date": 1860,
+    "Object End Date": 1860,
+    "Medium": "Oil on canvas",
+    "Dimensions": "55 7/8 x 44 in. (141.9 x 111.8 cm)",
+    "Credit Line": "Gift of Lady Doverdale, 1953",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/11193",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20174771",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Portraits|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/ap53.76.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 165104,
+        "role": "Artist",
+        "name": "Daniel Huntington",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500017937",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q323987",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 141.9,
+          "Width": 111.8
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 15.875,
+          "Height": 177,
+          "Width": 148
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

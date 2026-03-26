@@ -1,0 +1,88 @@
+{
+  "object_id": 198824,
+  "excel_metadata": {
+    "Object Number": "41.100.394",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 198824,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1941,
+    "Object Name": "Column ",
+    "Title": "Column (one of a pair)",
+    "Culture": "Italian",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": null,
+    "Artist Role": null,
+    "Artist Prefix": null,
+    "Artist Display Name": null,
+    "Artist Display Bio": null,
+    "Artist Suffix": null,
+    "Artist Alpha Sort": null,
+    "Artist Nationality": null,
+    "Artist Begin Date": null,
+    "Artist End Date": null,
+    "Artist Gender": null,
+    "Artist ULAN URL": null,
+    "Artist Wikidata URL": null,
+    "Object Date": "ca. 1500",
+    "Object Begin Date": 1495,
+    "Object End Date": 1505,
+    "Medium": "Limestone",
+    "Dimensions": "Height (whole): 60 1/2 in. (153.7 cm); Height (capital): 11 in. (27.9 cm); Height (shaft): 39 1/2 in. (100.3 cm)",
+    "Credit Line": "Gift of George Blumenthal, 1941",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Sculpture-Architectural",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/198824",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": null,
+    "Tags AAT URL": null,
+    "Tags Wikidata URL": null
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/124952.jpg",
+    "additionalImages": [],
+    "constituents": null,
+    "measurements": [
+      {
+        "elementName": "Height",
+        "elementDescription": "capital",
+        "elementMeasurements": {
+          "Height": 27.940056
+        }
+      },
+      {
+        "elementName": "Height",
+        "elementDescription": "whole",
+        "elementMeasurements": {
+          "Height": 153.6703
+        }
+      },
+      {
+        "elementName": "Height",
+        "elementDescription": "shaft",
+        "elementMeasurements": {
+          "Height": 100.3302
+        }
+      }
+    ],
+    "tags": null
+  }
+}

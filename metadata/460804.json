@@ -1,0 +1,107 @@
+{
+  "object_id": 460804,
+  "excel_metadata": {
+    "Object Number": "1975.1.1230",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 460804,
+    "Gallery Number": 958,
+    "Department": "Robert Lehman Collection",
+    "AccessionYear": 1975,
+    "Object Name": "Plaque",
+    "Title": "Faith",
+    "Culture": null,
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 13823013815,
+    "Artist Role": "Artist|Artist",
+    "Artist Prefix": " | ",
+    "Artist Display Name": "Master IDC|Jean Cour (or Court)",
+    "Artist Display Bio": "French, active Limoges 1614–27|French, Limoges, active 1598–1631",
+    "Artist Suffix": "or| ",
+    "Artist Alpha Sort": "Master IDC|Cour, Jean",
+    "Artist Nationality": " |French, Limoges",
+    "Artist Begin Date": "          |1598      ",
+    "Artist End Date": "          |1631      ",
+    "Artist Gender": "|",
+    "Artist ULAN URL": "|",
+    "Artist Wikidata URL": "|",
+    "Object Date": "late 16th century or early 17th century",
+    "Object Begin Date": 1571,
+    "Object End Date": 1635,
+    "Medium": "Painted enamel, partly gilt, on copper",
+    "Dimensions": "11 5/8 x 9 1/8 in. (29.8 x 23.2 cm)",
+    "Credit Line": "Robert Lehman Collection, 1975",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Enamels",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/460804",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20188137",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Crucifixion|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300404300|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q3235597|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/rl/original/SLP1230-1.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/rl/original/SLP1230-2.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/SF-1975-1-1230a.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/SF-1975-1-1230.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 138230,
+        "role": "Artist",
+        "name": "Master IDC",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      },
+      {
+        "constituentID": 138158,
+        "role": "Artist",
+        "name": "Jean Cour (or Court)",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 29.5276,
+          "Width": 23.1775
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Crucifixion",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300404300",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3235597"
+      }
+    ]
+  }
+}

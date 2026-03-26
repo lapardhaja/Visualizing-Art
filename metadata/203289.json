@@ -1,0 +1,89 @@
+{
+  "object_id": 203289,
+  "excel_metadata": {
+    "Object Number": "64.101.397",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 203289,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1964,
+    "Object Name": "Plaque",
+    "Title": "Plaque",
+    "Culture": "German, Berlin",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 335653804,
+    "Artist Role": "Maker|Maker",
+    "Artist Prefix": "Enameler:| ",
+    "Artist Display Name": "Christian Friedrich Herold|Workshop of Charles Fromery",
+    "Artist Display Bio": "German, Berlin 1700–1779 Meissen|1685–1738",
+    "Artist Suffix": " | ",
+    "Artist Alpha Sort": "Herold, Christian Friedrich|Fromery, Charles",
+    "Artist Nationality": "German|Geman",
+    "Artist Begin Date": "1700      |1685      ",
+    "Artist End Date": "1779      |1738      ",
+    "Artist Gender": "|",
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500055254|",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q1079610|",
+    "Object Date": "ca. 1730",
+    "Object Begin Date": 1725,
+    "Object End Date": 1735,
+    "Medium": "Painted enamel on copper, with applied gold relief",
+    "Dimensions": "H. 1-3/4 in. (4.5 cm.); L. 2-5/8 in. (6.7 cm.)",
+    "Credit Line": "Gift of Irwin Untermyer, 1964",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Enamels-Painted",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/203289",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Human Figures",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300404114",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q5937779"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/208716.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 33565,
+        "role": "Maker",
+        "name": "Enameler: Christian Friedrich Herold",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500055254",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1079610",
+        "gender": ""
+      },
+      {
+        "constituentID": 38041,
+        "role": "Maker",
+        "name": "Workshop of Charles Fromery",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": null,
+    "tags": [
+      {
+        "term": "Human Figures",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300404114",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q5937779"
+      }
+    ]
+  }
+}

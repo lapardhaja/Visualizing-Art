@@ -1,0 +1,101 @@
+{
+  "object_id": 458979,
+  "excel_metadata": {
+    "Object Number": "1975.1.39",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 458979,
+    "Gallery Number": 956.0,
+    "Department": "Robert Lehman Collection",
+    "AccessionYear": 1975.0,
+    "Object Name": "Painting",
+    "Title": "Madonna and Child",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16237.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": "Workshop of",
+    "Artist Display Name": "Sano di Pietro (Ansano di Pietro di Mencio)",
+    "Artist Display Bio": "Italian, Siena 1405–1481 Siena",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Sano di Pietro (Ansano di Pietro di Mencio)",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1405",
+    "Artist End Date": "1481",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500115558",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q1379714",
+    "Object Date": "ca. 1448–60",
+    "Object Begin Date": 1445,
+    "Object End Date": 1463,
+    "Medium": "Tempera on wood, gold ground",
+    "Dimensions": "Overall: 24 7/8 × 17 5/8 in. (63.2 × 44.8 cm)\r\nPainted surface: 21 5/8 × 14 1/8 in. (54.9 × 35.9 cm)",
+    "Credit Line": "Robert Lehman Collection, 1975",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/458979",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20188018",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Madonna and Child",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901000052",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q9309699"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/rl/original/DT3028.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/rl/original/ep1975.1.39.bw.R.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/0271.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 162375,
+        "role": "Artist",
+        "name": "Workshop of Sano di Pietro (Ansano di Pietro di Mencio)",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115558",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1379714",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": "Overall",
+        "elementMeasurements": {
+          "Height": 63.2,
+          "Width": 44.8
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": "Painted surface",
+        "elementMeasurements": {
+          "Height": 54.9,
+          "Width": 35.9
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Madonna and Child",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000052",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q9309699"
+      }
+    ]
+  }
+}

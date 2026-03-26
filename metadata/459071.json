@@ -1,0 +1,98 @@
+{
+  "object_id": 459071,
+  "excel_metadata": {
+    "Object Number": "1975.1.129",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 459071,
+    "Gallery Number": 953.0,
+    "Department": "Robert Lehman Collection",
+    "AccessionYear": 1975.0,
+    "Object Name": "Painting",
+    "Title": "Portrait of a Woman",
+    "Culture": "Franco-Flemish",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 13541.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Netherlandish or French",
+    "Artist Display Bio": " ",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Netherlandish or French",
+    "Artist Nationality": "Netherlandish / French",
+    "Artist Begin Date": "1475",
+    "Artist End Date": "1480",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": NaN,
+    "Artist Wikidata URL": NaN,
+    "Object Date": "ca. 1470–80",
+    "Object Begin Date": 1465,
+    "Object End Date": 1475,
+    "Medium": "Oil on oak panel",
+    "Dimensions": "22 5/8 x 16 3/8 in. (57.5 x 41.6 cm)",
+    "Credit Line": "Robert Lehman Collection, 1975",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/459071",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20187123",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Portraits|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/rl/original/SLP0129.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/rl/original/DP262785.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/DT3092.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 135412,
+        "role": "Artist",
+        "name": "Netherlandish or French",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 57.5,
+          "Width": 41.6
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "object_id": 437376,
+  "excel_metadata": {
+    "Object Number": "71.17",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 437376,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1871.0,
+    "Object Name": "Painting",
+    "Title": "A Cat Stealing Fish",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10821.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Giuseppe Recco",
+    "Artist Display Bio": "Italian, Neapolitan, 1634–1695",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Recco, Giuseppe",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1634",
+    "Artist End Date": "1695",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500007290",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q1528623",
+    "Object Date": "late 1660s",
+    "Object Begin Date": 1667,
+    "Object End Date": 1669,
+    "Medium": "Oil on canvas",
+    "Dimensions": "38 x 50 1/2 in. (96.5 x 128.3 cm)",
+    "Credit Line": "Purchase, 1871",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437376",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912933",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Cats|Fish|Still Life",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300265960|http://vocab.getty.edu/page/aat/300266085|http://vocab.getty.edu/page/aat/300015638",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q146|https://www.wikidata.org/wiki/Q152|https://www.wikidata.org/wiki/Q170571"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-1149-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 108212,
+        "role": "Artist",
+        "name": "Giuseppe Recco",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500007290",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1528623",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 96.5,
+          "Width": 128.3
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Cats",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300265960",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q146"
+      },
+      {
+        "term": "Fish",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300266085",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q152"
+      },
+      {
+        "term": "Still Life",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015638",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q170571"
+      }
+    ]
+  }
+}

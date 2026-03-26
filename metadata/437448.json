@@ -1,0 +1,97 @@
+{
+  "object_id": 437448,
+  "excel_metadata": {
+    "Object Number": "15.30.38",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437448,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1915.0,
+    "Object Name": "Painting",
+    "Title": "Georgiana Augusta Frederica Elliott (1782–1813), Later Lady Charles Bentinck",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16508.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Sir Joshua Reynolds",
+    "Artist Display Bio": "British, Plympton 1723–1792 London",
+    "Artist Suffix": "and Workshop",
+    "Artist Alpha Sort": "Reynolds, Joshua, Sir",
+    "Artist Nationality": "British",
+    "Artist Begin Date": "1723",
+    "Artist End Date": "1792",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500004539",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q194402",
+    "Object Date": "1784",
+    "Object Begin Date": 1784,
+    "Object End Date": 1784,
+    "Medium": "Oil on canvas",
+    "Dimensions": "35 x 30 in. (88.9 x 76.2 cm)",
+    "Credit Line": "Bequest of Maria DeWitt Jesup, from the collection of her husband, Morris K. Jesup, 1914",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437448",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19906259",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Girls|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300247581|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q3031|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP169382.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/67 Georgiana.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 165087,
+        "role": "Artist",
+        "name": "Sir Joshua Reynolds",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500004539",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q194402",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 88.9,
+          "Width": 76.2
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Girls",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300247581",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3031"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

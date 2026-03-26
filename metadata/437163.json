@@ -1,0 +1,115 @@
+{
+  "object_id": 437163,
+  "excel_metadata": {
+    "Object Number": "30.95.255",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 437163,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1930.0,
+    "Object Name": "Painting",
+    "Title": "Lucrezia Agliardi Vertova (1490?–1558)",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10808.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Giovanni Battista Moroni",
+    "Artist Display Bio": "Italian, Albino, no later than 1524–1578 Albino",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Moroni, Giovanni Battista",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1524",
+    "Artist End Date": "1578",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500011118",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q504949",
+    "Object Date": "1557",
+    "Object Begin Date": 1557,
+    "Object End Date": 1557,
+    "Medium": "Oil on canvas",
+    "Dimensions": "36 x 27 in. (91.4 x 68.6 cm)",
+    "Credit Line": "Theodore M. Davis Collection, Bequest of Theodore M. Davis, 1915",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437163",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19911825",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Portraits|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP105661.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-30_95_255-2.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-30_95_255-3.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 108085,
+        "role": "Artist",
+        "name": "Giovanni Battista Moroni",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500011118",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q504949",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Glazing",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 92.392685,
+          "Width": 69.21514
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 91.4,
+          "Width": 68.6
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 8.255,
+          "Height": 107.9502,
+          "Width": 84.1377
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

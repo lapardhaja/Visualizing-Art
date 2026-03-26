@@ -1,0 +1,100 @@
+{
+  "object_id": 437676,
+  "excel_metadata": {
+    "Object Number": "43.98.12",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437676,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1943.0,
+    "Object Name": "Painting",
+    "Title": "Saint Andrew",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16210.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": "Workshop of",
+    "Artist Display Name": "Simone Martini",
+    "Artist Display Bio": "Italian, Siena, active by 1315–died 1344 Avignon",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Martini, Simone",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1315",
+    "Artist End Date": "1344",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500399029",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q221043",
+    "Object Date": "ca. 1317–19",
+    "Object Begin Date": 1317,
+    "Object End Date": 1319,
+    "Medium": "Tempera on wood, gold ground",
+    "Dimensions": "Overall, with arched top and engaged frame, 11 3/4 x 8 3/4 in. (29.8 x 22.2 cm); painted surface 10 3/8 x 7 7/8 in. (26.4 x 20 cm)",
+    "Credit Line": "Maitland F. Griggs Collection, Bequest of Maitland F. Griggs, 1943",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437676",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19905144",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Books|Cross|Saints",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300028051|http://vocab.getty.edu/page/aat/300235443|http://vocab.getty.edu/page/aat/300150555",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q571|https://www.wikidata.org/wiki/Q40843|https://www.wikidata.org/wiki/Q43115"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP168806.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162107,
+        "role": "Artist",
+        "name": "Workshop of Simone Martini",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500399029",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q221043",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 29.8,
+          "Width": 22.2
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Books",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300028051",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q571"
+      },
+      {
+        "term": "Cross",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300235443",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q40843"
+      },
+      {
+        "term": "Saints",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300150555",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q43115"
+      }
+    ]
+  }
+}

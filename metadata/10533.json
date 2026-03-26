@@ -1,0 +1,109 @@
+{
+  "object_id": 10533,
+  "excel_metadata": {
+    "Object Number": "24.79",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 10533,
+    "Gallery Number": 748.0,
+    "Department": "The American Wing",
+    "AccessionYear": 1924.0,
+    "Object Name": "Painting",
+    "Title": "Mrs. Sylvanus Bourne",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16178.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "John Singleton Copley",
+    "Artist Display Bio": "American, Boston, Massachusetts 1738–1815 London",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Copley, John Singleton",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1738",
+    "Artist End Date": "1815",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500009177",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q316016",
+    "Object Date": "1766",
+    "Object Begin Date": 1766,
+    "Object End Date": 1766,
+    "Medium": "Oil on canvas",
+    "Dimensions": "50 1/4 x 40 in. (127.6 x 101.6 cm)",
+    "Credit Line": "Morris K. Jesup Fund, 1924",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/10533",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19923975",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Books|Portraits|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300028051|http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q571|https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/ap24.79.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 161784,
+        "role": "Artist",
+        "name": "John Singleton Copley",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500009177",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q316016",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 127.6,
+          "Width": 101.6
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 7.5,
+          "Height": 149.8,
+          "Width": 125.3
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Books",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300028051",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q571"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

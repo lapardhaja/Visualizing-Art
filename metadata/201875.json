@@ -1,0 +1,105 @@
+{
+  "object_id": 201875,
+  "excel_metadata": {
+    "Object Number": "55.199a, b",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 201875,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1955,
+    "Object Name": "Bust",
+    "Title": "Napoleon",
+    "Culture": "Italian",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 16557,
+    "Artist Role": "Artist",
+    "Artist Prefix": "After an original by",
+    "Artist Display Name": "Antoine Denis Chaudet",
+    "Artist Display Bio": "French, Paris 1763–1810 Paris",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Chaudet, Antoine Denis",
+    "Artist Nationality": "French",
+    "Artist Begin Date": 1763,
+    "Artist End Date": 1810,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500003453",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q601065",
+    "Object Date": "19th century",
+    "Object Begin Date": 1800,
+    "Object End Date": 1899,
+    "Medium": "White marble_x000D_\n",
+    "Dimensions": "Overall: 12 × 7 3/4 × 6 1/2 in. (30.5 × 19.7 × 16.5 cm);_x000D_\nHeight (base): 4 5/8 in. (11.7 cm);_x000D_\nDiameter (base): 7 3/4 in. (19.7 cm)",
+    "Credit Line": "Gift of John Davis Hatch Jr., 1955",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Sculpture",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/201875",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Napoleon I",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ulan/500122388",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q517"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/160338.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 165570,
+        "role": "Artist",
+        "name": "After an original by Antoine Denis Chaudet",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500003453",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q601065",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Diameter",
+        "elementDescription": "base",
+        "elementMeasurements": {
+          "Diameter": 19.68504
+        }
+      },
+      {
+        "elementName": "Height",
+        "elementDescription": "base",
+        "elementMeasurements": {
+          "Height": 11.747523
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 16.510033,
+          "Height": 30.48006,
+          "Width": 19.68504
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Napoleon I",
+        "AAT_URL": "http://vocab.getty.edu/page/ulan/500122388",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q517"
+      }
+    ]
+  }
+}

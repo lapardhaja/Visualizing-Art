@@ -1,0 +1,99 @@
+{
+  "object_id": 203318,
+  "excel_metadata": {
+    "Object Number": "64.101.435, .436",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 203318,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1964,
+    "Object Name": "Figures",
+    "Title": "Pair of parakeets",
+    "Culture": "British, Chelsea",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 3509,
+    "Artist Role": "Factory",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Chelsea Porcelain Manufactory",
+    "Artist Display Bio": "British, 1744–1784",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Chelsea Porcelain Manufactory",
+    "Artist Nationality": "British",
+    "Artist Begin Date": 1744,
+    "Artist End Date": 1784,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500371694",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q2072152",
+    "Object Date": "ca. 1750",
+    "Object Begin Date": 1745,
+    "Object End Date": 1755,
+    "Medium": "Soft-paste porcelain",
+    "Dimensions": "each: 5 × 4 1/2 in. (12.7 × 11.4 cm)",
+    "Credit Line": "Gift of Irwin Untermyer, 1964",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Ceramics-Porcelain",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/203318",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Birds",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300266506",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q5113"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP-15275-046.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/DP-15275-064.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP-15275-042.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP-15275-063.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/SF64_101_436_mark.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/SF64_101_435,436_img1.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/SF64_101_435,436_img2.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/SF64_101_435,436_img3.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/SF64_101_435,436_img4.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 35094,
+        "role": "Factory",
+        "name": "Chelsea Porcelain Manufactory",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500371694",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q2072152",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": "each",
+        "elementMeasurements": {
+          "Height": 12.700026,
+          "Width": 11.430023
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Birds",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300266506",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q5113"
+      }
+    ]
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "object_id": 435713,
+  "excel_metadata": {
+    "Object Number": "1972.261",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 435713,
+    "Gallery Number": 964.0,
+    "Department": "European Paintings",
+    "AccessionYear": 1972.0,
+    "Object Name": "Painting",
+    "Title": "The Disillusioned Medea",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10741.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Paulus Bor",
+    "Artist Display Bio": "Dutch, Amersfoort ca. 1601–1669 Amersfoort",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Bor, Paulus",
+    "Artist Nationality": "Dutch",
+    "Artist Begin Date": "1601",
+    "Artist End Date": "1669",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500027875",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q2625028",
+    "Object Date": "ca. 1640",
+    "Object Begin Date": 1635,
+    "Object End Date": 1645,
+    "Medium": "Oil on canvas",
+    "Dimensions": "61 1/4 x 44 1/4 in. (155.6 x 112.4 cm)",
+    "Credit Line": "Gift of Ben Heller, 1972",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/435713",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19905184",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Female Nudes",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300189568",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q40446"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP120565.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-1972_261-2.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-1972_261-3.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 107418,
+        "role": "Artist",
+        "name": "Paulus Bor",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500027875",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q2625028",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 155.6,
+          "Width": 112.4
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 8.89,
+          "Height": 175.5779,
+          "Width": 130.1753
+        }
+      },
+      {
+        "elementName": "Other",
+        "elementDescription": "Picture + Frame (F.1972.261)",
+        "elementMeasurements": {
+          "Weight": 27.215822
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Female Nudes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300189568",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q40446"
+      }
+    ]
+  }
+}

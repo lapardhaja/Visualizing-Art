@@ -1,0 +1,114 @@
+{
+  "object_id": 437842,
+  "excel_metadata": {
+    "Object Number": "1976.100.19",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 437842,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1976.0,
+    "Object Name": "Painting",
+    "Title": "Teasing a Sleeping Girl",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10838.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Gaspare Traversi",
+    "Artist Display Bio": "Italian, Neapolitan, ca. 1722–1770",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Traversi, Gaspare",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1722",
+    "Artist End Date": "1770",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500011841",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q1388163",
+    "Object Date": "ca. 1760",
+    "Object Begin Date": 1755,
+    "Object End Date": 1765,
+    "Medium": "Oil on canvas",
+    "Dimensions": "34 1/8 x 42 3/8 in. (86.7 x 107.6 cm)",
+    "Credit Line": "Bequest of Harry G. Sperling, 1971",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437842",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19913258",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Girls|Men|Women|Sleeping",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300247581|http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/aat/300375130",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q3031|https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q35831"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-22991-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 108387,
+        "role": "Artist",
+        "name": "Gaspare Traversi",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500011841",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1388163",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 86.7,
+          "Width": 107.6
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 5.715,
+          "Height": 104.7752,
+          "Width": 124.4602
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Sleeping",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300375130",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q35831"
+      },
+      {
+        "term": "Girls",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300247581",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3031"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "object_id": 10782,
+  "excel_metadata": {
+    "Object Number": "68.222.30",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 10782,
+    "Gallery Number": NaN,
+    "Department": "The American Wing",
+    "AccessionYear": 1968.0,
+    "Object Name": "Painting, miniature",
+    "Title": "William Gale",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 248.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Joseph Dunkerley",
+    "Artist Display Bio": "active 1776–1806",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Dunkerley, Joseph",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1776",
+    "Artist End Date": "1776",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500001013",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q47455747",
+    "Object Date": "1776",
+    "Object Begin Date": 1776,
+    "Object End Date": 1776,
+    "Medium": "Watercolor on ivory",
+    "Dimensions": "Sight: 1 3/8 x 1 1/8 in. (3.5 x 2.9 cm)",
+    "Credit Line": "Gift of J. William Middendorf II, 1968",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/10782",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19924555",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DP216796.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ad/original/DP217052.jpg",
+      "https://images.metmuseum.org/CRDImages/ad/original/DP223048.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 2480,
+        "role": "Artist",
+        "name": "Joseph Dunkerley",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500001013",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q47455747",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Sight",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 3.4925,
+          "Width": 2.8575
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

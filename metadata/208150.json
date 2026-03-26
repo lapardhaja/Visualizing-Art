@@ -1,0 +1,102 @@
+{
+  "object_id": 208150,
+  "excel_metadata": {
+    "Object Number": "1993.334.1",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 208150,
+    "Gallery Number": 552,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1993,
+    "Object Name": "Statuette group",
+    "Title": "Children with dead game",
+    "Culture": "French, Paris",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 3460,
+    "Artist Role": "Artist",
+    "Artist Prefix": "Attributed to",
+    "Artist Display Name": "Robert Joseph Auguste",
+    "Artist Display Bio": "French, 1723–1805, master 1757",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Auguste, Robert Joseph",
+    "Artist Nationality": "French",
+    "Artist Begin Date": 1723,
+    "Artist End Date": 1805,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500004772",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q3435548",
+    "Object Date": "ca. 1756",
+    "Object Begin Date": 1751,
+    "Object End Date": 1761,
+    "Medium": "Terracotta",
+    "Dimensions": "Height: 6 in. (15.2 cm)",
+    "Credit Line": "Purchase, Gift of The Hearst Foundation, by exchange; Gift in memory of Frederick P. Victoria; The Metropolitan Museum of Art Volunteer Anniversary Gift; Ralph and Frances DeJur Foundation Gift, 1993",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Sculpture",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/208150",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q116373925",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Birds|Children|Rabbits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300266506|http://vocab.getty.edu/page/aat/300025945|http://vocab.getty.edu/page/aat/300250218",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q5113|https://www.wikidata.org/wiki/Q7569|https://www.wikidata.org/wiki/Q9394"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/ES3863.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/ES3864.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/ES3865.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 34604,
+        "role": "Artist",
+        "name": "Attributed to Robert Joseph Auguste",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500004772",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3435548",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Height",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 15.24003
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Birds",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300266506",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q5113"
+      },
+      {
+        "term": "Children",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025945",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q7569"
+      },
+      {
+        "term": "Rabbits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250218",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q9394"
+      }
+    ]
+  }
+}

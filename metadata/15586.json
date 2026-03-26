@@ -1,0 +1,105 @@
+{
+  "object_id": 15586,
+  "excel_metadata": {
+    "Object Number": "1996.562",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 15586,
+    "Gallery Number": NaN,
+    "Department": "The American Wing",
+    "AccessionYear": 1996.0,
+    "Object Name": "Painting, miniature",
+    "Title": "Portrait of a Lady",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16457616388.0,
+    "Artist Role": "Artist|Artist",
+    "Artist Prefix": " | ",
+    "Artist Display Name": "Henry Inman|Thomas Seir Cummings",
+    "Artist Display Bio": "American, Utica, New York 1801–1846 New York|American (born England), Bath 1804–1894 Hackensack, New Jersey",
+    "Artist Suffix": " | ",
+    "Artist Alpha Sort": "Inman, Henry|Cummings, Thomas Seir",
+    "Artist Nationality": "American|American, born England",
+    "Artist Begin Date": "1801      |1804      ",
+    "Artist End Date": "1846      |1894      ",
+    "Artist Gender": "|",
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500021656|http://vocab.getty.edu/page/ulan/500096121",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q3132855|https://www.wikidata.org/wiki/Q7793863",
+    "Object Date": "ca. 1825",
+    "Object Begin Date": 1825,
+    "Object End Date": 1825,
+    "Medium": "Watercolor on ivory",
+    "Dimensions": "3 3/8 x 2 3/8 in. (8.6 x 6 cm)",
+    "Credit Line": "Dale T. Johnson Fund, 1996",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/15586",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20176993",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Portraits|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DT4115.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ad/original/49A_015r3.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 164576,
+        "role": "Artist",
+        "name": "Henry Inman",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500021656",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3132855",
+        "gender": ""
+      },
+      {
+        "constituentID": 163888,
+        "role": "Artist",
+        "name": "Thomas Seir Cummings",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500096121",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q7793863",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 6,
+          "Width": 8.6
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

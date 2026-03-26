@@ -1,0 +1,85 @@
+{
+  "object_id": 199412,
+  "excel_metadata": {
+    "Object Number": "44.39.4a, b",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 199412,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1944,
+    "Object Name": "Coffeepot",
+    "Title": "Coffeepot",
+    "Culture": "British, Staffordshire",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 3481,
+    "Artist Role": "Maker",
+    "Artist Prefix": "Style of",
+    "Artist Display Name": "John Astbury",
+    "Artist Display Bio": "active 1688–1743",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Astbury, John",
+    "Artist Nationality": " ",
+    "Artist Begin Date": 1688,
+    "Artist End Date": 1743,
+    "Artist Gender": null,
+    "Artist ULAN URL": "(not assigned)",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q6219642",
+    "Object Date": "ca. 1745",
+    "Object Begin Date": 1740,
+    "Object End Date": 1750,
+    "Medium": "Lead-glazed earthenware",
+    "Dimensions": "Height: 8 in. (20.3 cm)",
+    "Credit Line": "Gift of Mrs. Russell S. Carter, 1944",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Ceramics-Pottery",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/199412",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": null,
+    "Tags AAT URL": null,
+    "Tags Wikidata URL": null
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP-17961-021.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/DP-17961-022.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 34817,
+        "role": "Maker",
+        "name": "Style of John Astbury",
+        "constituentULAN_URL": "(not assigned)",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q6219642",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Height",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 20.32004
+        }
+      }
+    ],
+    "tags": null
+  }
+}

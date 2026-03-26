@@ -1,0 +1,105 @@
+{
+  "object_id": 438100,
+  "excel_metadata": {
+    "Object Number": "2019.141.2",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 438100,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 2019.0,
+    "Object Name": "Painting",
+    "Title": "The Grand Canal, Venice, Looking South toward the Rialto Bridge",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16174.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Canaletto (Giovanni Antonio Canal)",
+    "Artist Display Bio": "Italian, Venice 1697–1768 Venice",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Canaletto (Giovanni Antonio Canal)",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1697",
+    "Artist End Date": "1768",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500115269",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q182664",
+    "Object Date": "1730s",
+    "Object Begin Date": 1730,
+    "Object End Date": 1739,
+    "Medium": "Oil on canvas",
+    "Dimensions": "18 1/4 × 30 1/2 in. (46.4 × 77.5 cm)",
+    "Credit Line": "Bequest of Mrs. Charles Wrightsman, 2019",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/438100",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q78640358",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Cities|Canals|Boats|Venice",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300008389|http://vocab.getty.edu/page/aat/300006075|http://vocab.getty.edu/page/aat/300178749|http://vocab.getty.edu/page/tgn/7018159",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q515|https://www.wikidata.org/wiki/Q12284|https://www.wikidata.org/wiki/Q35872|https://www.wikidata.org/wiki/Q641"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/Wrightsman16.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 161741,
+        "role": "Artist",
+        "name": "Canaletto (Giovanni Antonio Canal)",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115269",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q182664",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 46.35509,
+          "Width": 77.47015
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Cities",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300008389",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q515"
+      },
+      {
+        "term": "Canals",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300006075",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q12284"
+      },
+      {
+        "term": "Boats",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300178749",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q35872"
+      },
+      {
+        "term": "Venice",
+        "AAT_URL": "http://vocab.getty.edu/page/tgn/7018159",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q641"
+      }
+    ]
+  }
+}

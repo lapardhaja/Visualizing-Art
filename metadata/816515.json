@@ -1,0 +1,110 @@
+{
+  "object_id": 816515,
+  "excel_metadata": {
+    "Object Number": "2020.263.7",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 816515,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 2020.0,
+    "Object Name": "Painting",
+    "Title": "Allegory of Sacred and Profane Love",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 20607.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Michele Desubleo",
+    "Artist Display Bio": "Flemish, Maubeuge 1602–1676 Parma",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Desubleo, Michele",
+    "Artist Nationality": "Flemish",
+    "Artist Begin Date": "1602",
+    "Artist End Date": "1676",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500023997",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q633742",
+    "Object Date": "1665–75",
+    "Object Begin Date": 1665,
+    "Object End Date": 1675,
+    "Medium": "Oil on canvas",
+    "Dimensions": "59 × 76 1/2 in. (149.9 × 194.3 cm)",
+    "Credit Line": "Bequest of Errol M. Rudman, 2020",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/816515",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q111272632",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Allegory|Musical Instruments|Cupid|Lutes",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300055866|http://vocab.getty.edu/page/aat/300041620|http://vocab.getty.edu/page/aat/300380105|http://vocab.getty.edu/page/aat/300042101",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q18535|https://www.wikidata.org/wiki/Q34379|https://www.wikidata.org/wiki/Q5011|https://www.wikidata.org/wiki/Q180733"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-21344-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 206071,
+        "role": "Artist",
+        "name": "Michele Desubleo",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500023997",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q633742",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 149.8603,
+          "Width": 194.3104
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Musical Instruments",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300041620",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q34379"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Lutes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300042101",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q180733"
+      },
+      {
+        "term": "Cupid",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300380105",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q5011"
+      },
+      {
+        "term": "Allegory",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300055866",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q18535"
+      }
+    ]
+  }
+}

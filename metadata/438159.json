@@ -1,0 +1,105 @@
+{
+  "object_id": 438159,
+  "excel_metadata": {
+    "Object Number": "2019.167.1",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 438159,
+    "Gallery Number": 807.0,
+    "Department": "European Paintings",
+    "AccessionYear": 2019.0,
+    "Object Name": "Painting",
+    "Title": "An Eruption of Vesuvius",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16180.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Johan Christian Dahl",
+    "Artist Display Bio": "Norwegian, Bergen 1788–1857 Dresden",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Dahl, Johan Christian",
+    "Artist Nationality": "Norwegian",
+    "Artist Begin Date": "1788",
+    "Artist End Date": "1857",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500002468",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q164735",
+    "Object Date": "1824",
+    "Object Begin Date": 1824,
+    "Object End Date": 1824,
+    "Medium": "Oil on canvas",
+    "Dimensions": "37 x 54 3/4 in. (94 x 139.1 cm)",
+    "Credit Line": "Gift of Christen Sveaas, in celebration of the Museum's 150th Anniversary, 2019",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/438159",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q78637988",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Donkeys|Fire|Mountains|Volcanoes",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300265959|http://vocab.getty.edu/page/aat/300417275|http://vocab.getty.edu/page/aat/300008795|http://vocab.getty.edu/page/aat/300132325",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q3537778|https://www.wikidata.org/wiki/Q3196|https://www.wikidata.org/wiki/Q8502|https://www.wikidata.org/wiki/Q8072"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP155336.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 161802,
+        "role": "Artist",
+        "name": "Johan Christian Dahl",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500002468",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q164735",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 94,
+          "Width": 139.1
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Donkeys",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300265959",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3537778"
+      },
+      {
+        "term": "Fire",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300417275",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3196"
+      },
+      {
+        "term": "Mountains",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300008795",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8502"
+      },
+      {
+        "term": "Volcanoes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132325",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8072"
+      }
+    ]
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "object_id": 435648,
+  "excel_metadata": {
+    "Object Number": "90.3",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 435648,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1890.0,
+    "Object Name": "Painting",
+    "Title": "Project for a Room for King Ludwig II (1854–1886) of Bavaria",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16284.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Gyula Benczúr",
+    "Artist Display Bio": "Hungarian, Nyíregyháza 1844–1920 Dolány",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Benczúr, Gyula",
+    "Artist Nationality": "Hungarian",
+    "Artist Begin Date": "1844",
+    "Artist End Date": "1920",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500013687",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q632046",
+    "Object Date": NaN,
+    "Object Begin Date": 1864,
+    "Object End Date": 1920,
+    "Medium": "Oil on canvas",
+    "Dimensions": "30 3/4 x 39 1/2 in. (78.1 x 100.3 cm)",
+    "Credit Line": "Gift of Frederick Loeser, 1890",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/435648",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19913249",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Interiors|Tables|Chairs",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300391239|http://vocab.getty.edu/page/aat/300039548|http://vocab.getty.edu/page/aat/300037772",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q2998430|https://www.wikidata.org/wiki/Q14748|https://www.wikidata.org/wiki/Q15026"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-22990-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162844,
+        "role": "Artist",
+        "name": "Gyula Benczúr",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500013687",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q632046",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 78.1,
+          "Width": 100.3
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Interiors",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300391239",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q2998430"
+      },
+      {
+        "term": "Chairs",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300037772",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q15026"
+      },
+      {
+        "term": "Tables",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300039548",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q14748"
+      }
+    ]
+  }
+}

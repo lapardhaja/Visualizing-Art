@@ -1,0 +1,106 @@
+{
+  "object_id": 436506,
+  "excel_metadata": {
+    "Object Number": "07.200",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436506,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1907.0,
+    "Object Name": "Painting, lunette",
+    "Title": "Madonna and Child with Donors",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10770.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Giovanni da Milano",
+    "Artist Display Bio": "Italian, born Lombardy, active Florence 1346–69",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Giovanni da Milano",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1346",
+    "Artist End Date": "1369",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500012251",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q2628927",
+    "Object Date": "ca. 1365",
+    "Object Begin Date": 1360,
+    "Object End Date": 1370,
+    "Medium": "Tempera on wood, gold ground",
+    "Dimensions": "27 1/8 x 56 3/4 in. (68.9 x 144.1 cm)",
+    "Credit Line": "Rogers Fund, 1907",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436506",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19911621",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Women|Madonna and Child|Lilies|Jesus",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/ia/901000052|http://vocab.getty.edu/page/aat/300375591|http://vocab.getty.edu/page/ia/901000087",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q9309699|https://www.wikidata.org/wiki/Q40458125|https://www.wikidata.org/wiki/Q302"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-18296-011.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 107705,
+        "role": "Artist",
+        "name": "Giovanni da Milano",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500012251",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q2628927",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 6.6675,
+          "Height": 68.8976,
+          "Width": 144.1453
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Lilies",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300375591",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q40458125"
+      },
+      {
+        "term": "Madonna and Child",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000052",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q9309699"
+      },
+      {
+        "term": "Jesus",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q302"
+      }
+    ]
+  }
+}

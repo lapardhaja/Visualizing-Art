@@ -1,0 +1,104 @@
+{
+  "object_id": 12849,
+  "excel_metadata": {
+    "Object Number": "66.214",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 12849,
+    "Gallery Number": NaN,
+    "Department": "The American Wing",
+    "AccessionYear": 1966.0,
+    "Object Name": "Painting",
+    "Title": "After the Storm",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16168.0,
+    "Artist Role": "Former Attribution",
+    "Artist Prefix": "Formerly attributed to",
+    "Artist Display Name": "Albert Bierstadt",
+    "Artist Display Bio": "American, Solingen 1830–1902 New York",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Bierstadt, Albert",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1830",
+    "Artist End Date": "1902",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500001248",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q77132",
+    "Object Date": "ca. 1870–80 (?)",
+    "Object Begin Date": 1867,
+    "Object End Date": 1880,
+    "Medium": "Oil on canvas",
+    "Dimensions": "26 3/4 x 38 3/4 in. (67.9 x 98.4 cm)",
+    "Credit Line": "Gift of Mr. and Mrs. Alfred Fischer, 1966",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/12849",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19923928",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Rivers|Landscapes",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300008707|http://vocab.getty.edu/page/aat/300132294",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q4022|https://www.wikidata.org/wiki/Q191163"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/ap66.214.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 161685,
+        "role": "Former Attribution",
+        "name": "Formerly attributed to Albert Bierstadt",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500001248",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q77132",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 67.9451,
+          "Width": 98.4
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 7.9375,
+          "Height": 67.7,
+          "Width": 98.4
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Rivers",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300008707",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q4022"
+      },
+      {
+        "term": "Landscapes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+      }
+    ]
+  }
+}

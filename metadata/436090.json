@@ -1,0 +1,109 @@
+{
+  "object_id": 436090,
+  "excel_metadata": {
+    "Object Number": "08.136.4",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436090,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1908.0,
+    "Object Name": "Painting",
+    "Title": "Landscape with a Sunlit Stream",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16180.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Charles-François Daubigny",
+    "Artist Display Bio": "French, Paris 1817–1878 Paris",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Daubigny, Charles-François",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1817",
+    "Artist End Date": "1878",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500115164",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q252357",
+    "Object Date": "ca. 1877",
+    "Object Begin Date": 1877,
+    "Object End Date": 1877,
+    "Medium": "Oil on canvas",
+    "Dimensions": "25 1/8 x 18 7/8 in. (63.8 x 47.9 cm)",
+    "Credit Line": "Bequest of Martha T. Fiske Collord, in memory of her first husband, Josiah M. Fiske, 1908",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436090",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19905752",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Forests|Landscapes|Streams",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300387598|http://vocab.getty.edu/page/aat/300132294|http://vocab.getty.edu/page/aat/300008699",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q4421|https://www.wikidata.org/wiki/Q191163|https://www.wikidata.org/wiki/Q47521"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-23369-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 161806,
+        "role": "Artist",
+        "name": "Charles-François Daubigny",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115164",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q252357",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 63.8,
+          "Width": 47.9
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 12.7,
+          "Height": 93.9802,
+          "Width": 77.4702
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Forests",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300387598",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q4421"
+      },
+      {
+        "term": "Landscapes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+      },
+      {
+        "term": "Streams",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300008699",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q47521"
+      }
+    ]
+  }
+}

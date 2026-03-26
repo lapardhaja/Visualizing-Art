@@ -1,0 +1,90 @@
+{
+  "object_id": 40323,
+  "excel_metadata": {
+    "Object Number": "25.222.11",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 40323,
+    "Gallery Number": NaN,
+    "Department": "Asian Art",
+    "AccessionYear": 1925.0,
+    "Object Name": "Wall painting",
+    "Title": NaN,
+    "Culture": "China",
+    "Period": "Song dynasty (960–1279)",
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": NaN,
+    "Artist Role": NaN,
+    "Artist Prefix": NaN,
+    "Artist Display Name": NaN,
+    "Artist Display Bio": NaN,
+    "Artist Suffix": NaN,
+    "Artist Alpha Sort": NaN,
+    "Artist Nationality": NaN,
+    "Artist Begin Date": NaN,
+    "Artist End Date": NaN,
+    "Artist Gender": NaN,
+    "Artist ULAN URL": NaN,
+    "Artist Wikidata URL": NaN,
+    "Object Date": NaN,
+    "Object Begin Date": 960,
+    "Object End Date": 1279,
+    "Medium": "Fresco",
+    "Dimensions": "H. 26 in. (66 cm); W. 23 1/2 in. (59.7 cm)",
+    "Credit Line": "Fletcher Fund, 1925",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/40323",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q78860908",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/as/original/63648.jpg",
+    "additionalImages": [],
+    "constituents": null,
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 66,
+          "Width": 59.7
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 4.4450088,
+          "Height": 74.93015,
+          "Width": 66.67513
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      }
+    ]
+  }
+}

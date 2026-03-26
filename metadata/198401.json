@@ -1,0 +1,85 @@
+{
+  "object_id": 198401,
+  "excel_metadata": {
+    "Object Number": "39.70.8",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 198401,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1939,
+    "Object Name": "Spoon handle section",
+    "Title": "Section of a spoon handle",
+    "Culture": "French, Paris",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 3439,
+    "Artist Role": "Maker",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Michel Savigny",
+    "Artist Display Bio": "master 1781, recorded 1793",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Savigny Michel",
+    "Artist Nationality": " ",
+    "Artist Begin Date": 1751,
+    "Artist End Date": 1823,
+    "Artist Gender": null,
+    "Artist ULAN URL": null,
+    "Artist Wikidata URL": null,
+    "Object Date": 1789,
+    "Object Begin Date": 1789,
+    "Object End Date": 1789,
+    "Medium": "Silver",
+    "Dimensions": "Length: 1 3/8 in. (3.5 cm)",
+    "Credit Line": "Gift of Jacques Helft, 1939",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Metalwork-Silver",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/198401",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": null,
+    "Tags AAT URL": null,
+    "Tags Wikidata URL": null
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/118309.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/118310.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 34396,
+        "role": "Maker",
+        "name": "Michel Savigny",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Length",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Length": 3.492507
+        }
+      }
+    ],
+    "tags": null
+  }
+}

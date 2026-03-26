@@ -1,0 +1,85 @@
+{
+  "object_id": 202887,
+  "excel_metadata": {
+    "Object Number": "63.53.211",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 202887,
+    "Gallery Number": 512,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1963,
+    "Object Name": "Cruet stand",
+    "Title": "Miniature cruet stand",
+    "Culture": "British, London",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 3360,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "David Clayton",
+    "Artist Display Bio": "British, active 1689",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Clayton, David",
+    "Artist Nationality": "British",
+    "Artist Begin Date": 1659,
+    "Artist End Date": 1719,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500332796",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q5232407",
+    "Object Date": "1720–23",
+    "Object Begin Date": 1720,
+    "Object End Date": 1723,
+    "Medium": "Silver, glass",
+    "Dimensions": "Height: 3 1/4 in. (8.3 cm)",
+    "Credit Line": "The Joseph M. and Aimee Loeb May Collection, 1963",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Metalwork-Silver-Miniature",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/202887",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q116310097",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": null,
+    "Tags AAT URL": null,
+    "Tags Wikidata URL": null
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP-13159-078.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/DP-13159-084.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 33609,
+        "role": "Artist",
+        "name": "David Clayton",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500332796",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5232407",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Height",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 8.255016
+        }
+      }
+    ],
+    "tags": null
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "object_id": 10784,
+  "excel_metadata": {
+    "Object Number": "13.217.2",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 10784,
+    "Gallery Number": 774.0,
+    "Department": "The American Wing",
+    "AccessionYear": 1913.0,
+    "Object Name": "Painting",
+    "Title": "Mrs. John Adams Conant",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 248.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "William Dunlap",
+    "Artist Display Bio": "American, Perth Amboy, New Jersey 1766–1839 New York",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Dunlap, William",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1766",
+    "Artist End Date": "1839",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500027594",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q2578528",
+    "Object Date": "1829",
+    "Object Begin Date": 1829,
+    "Object End Date": 1829,
+    "Medium": "Oil on wood",
+    "Dimensions": "30 1/8 x 25 in. (76.8 x 63.5 cm)",
+    "Credit Line": "Gift of John A. Church, 1913",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/10784",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19925605",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Portraits|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/ap13.217.2.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 2481,
+        "role": "Artist",
+        "name": "William Dunlap",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500027594",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q2578528",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 76.5,
+          "Width": 63.5
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 6.985,
+          "Height": 98.7427,
+          "Width": 85.7252
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

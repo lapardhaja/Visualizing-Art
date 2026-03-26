@@ -1,0 +1,95 @@
+{
+  "object_id": 436555,
+  "excel_metadata": {
+    "Object Number": "1972.25",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 436555,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1972.0,
+    "Object Name": "Painting",
+    "Title": "Sandy Road with a Farmhouse",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16521.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Jan van Goyen",
+    "Artist Display Bio": "Dutch, Leiden 1596–1656 The Hague",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Goyen, Jan van",
+    "Artist Nationality": "Dutch",
+    "Artist Begin Date": "1596",
+    "Artist End Date": "1656",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500115612",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q315996",
+    "Object Date": "1627",
+    "Object Begin Date": 1627,
+    "Object End Date": 1627,
+    "Medium": "Oil on wood",
+    "Dimensions": "12 1/8 x 16 1/4 in. (30.8 x 41.3 cm)",
+    "Credit Line": "Bequest of Myra Mortimer Pinter, 1972",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436555",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912808",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Houses|Landscapes",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300005433|http://vocab.getty.edu/page/aat/300132294",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q3947|https://www.wikidata.org/wiki/Q191163"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP147598.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 165218,
+        "role": "Artist",
+        "name": "Jan van Goyen",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115612",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q315996",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 30.8,
+          "Width": 41.3
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Houses",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300005433",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3947"
+      },
+      {
+        "term": "Landscapes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+      }
+    ]
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "object_id": 205352,
+  "excel_metadata": {
+    "Object Number": 1971.171,
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 205352,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1971,
+    "Object Name": "Inkwell",
+    "Title": "Atlas Supporting a Vessel",
+    "Culture": "Italian, probably Ravenna",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 16517,
+    "Artist Role": "Artist",
+    "Artist Prefix": "Circle of",
+    "Artist Display Name": "Severo Calzetta da Ravenna",
+    "Artist Display Bio": "Italian, active by 1496, died before 1543",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Ravenna, Severo Calzetta da",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": 1496,
+    "Artist End Date": 1543,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500006878",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q3958521",
+    "Object Date": "mid-16th century",
+    "Object Begin Date": 1525,
+    "Object End Date": 1575,
+    "Medium": "Bronze",
+    "Dimensions": "Overall (confirmed): 7 3/8 × 2 3/8 × 2 3/4 in. (18.7 × 6 × 7 cm)",
+    "Credit Line": "Gift of Irwin Untermyer, 1971",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Sculpture-Bronze",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/205352",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Male Nudes",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300189568",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q40446"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP-223-001.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/DP-223-002.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 165173,
+        "role": "Artist",
+        "name": "Circle of Severo Calzetta da Ravenna",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500006878",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3958521",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Height",
+        "elementDescription": "without base",
+        "elementMeasurements": {
+          "Height": 18.732538
+        }
+      },
+      {
+        "elementName": "Height",
+        "elementDescription": "with base",
+        "elementMeasurements": {
+          "Height": 26.193802
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": "Overall (confirmed)",
+        "elementMeasurements": {
+          "Depth": 6.985014,
+          "Height": 18.732538,
+          "Width": 6.032512
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Male Nudes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300189568",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q40446"
+      }
+    ]
+  }
+}

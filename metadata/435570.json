@@ -1,0 +1,100 @@
+{
+  "object_id": 435570,
+  "excel_metadata": {
+    "Object Number": "13.13",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 435570,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1913.0,
+    "Object Name": "Painting, miniature",
+    "Title": "A Ship in a Stormy Sea",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10729.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Ivan Konstantinovich Aivazovsky (Hovhannes Aivazian)",
+    "Artist Display Bio": "Armenian, born Russian Empire [now Ukraine], Feodosia (Theodosia) 1817–1900 Feodosia (Theodosia)",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Aivazovsky, Ivan Konstantinovich",
+    "Artist Nationality": "Armenian, born Russian Empire [now Ukraine]",
+    "Artist Begin Date": "1817",
+    "Artist End Date": "1900",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500021161",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q181568",
+    "Object Date": "1892",
+    "Object Begin Date": 1837,
+    "Object End Date": 1900,
+    "Medium": "Card",
+    "Dimensions": "1 x 2 in. (26 x 53 mm)",
+    "Credit Line": "Gift of Isabel F. Hapgood, 1913",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Miniatures",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/435570",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19913804",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Seas|Storms|Ships",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300008694|http://vocab.getty.edu/page/aat/300054734|http://vocab.getty.edu/page/aat/300082981",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q165|https://www.wikidata.org/wiki/Q81054|https://www.wikidata.org/wiki/Q11446"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-27364-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 107298,
+        "role": "Artist",
+        "name": "Ivan Konstantinovich Aivazovsky (Hovhannes Aivazian)",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500021161",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q181568",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 2.5,
+          "Width": 5.1
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Seas",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300008694",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q165"
+      },
+      {
+        "term": "Storms",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300054734",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q81054"
+      },
+      {
+        "term": "Ships",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300082981",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q11446"
+      }
+    ]
+  }
+}

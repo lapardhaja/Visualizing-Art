@@ -1,0 +1,114 @@
+{
+  "object_id": 436207,
+  "excel_metadata": {
+    "Object Number": "28.113",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436207,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1928.0,
+    "Object Name": "Painting",
+    "Title": "Don Quixote and Sancho Panza Entertained by Basil and Quiteria",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16390.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Gustave Doré",
+    "Artist Display Bio": "French, Strasbourg 1832–1883 Paris",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Doré, Gustave",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1832",
+    "Artist End Date": "1883",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500013657",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q6682",
+    "Object Date": "1863?",
+    "Object Begin Date": 1863,
+    "Object End Date": 1863,
+    "Medium": "Oil on canvas",
+    "Dimensions": "36 1/4 x 28 3/4 in. (92.1 x 73 cm)",
+    "Credit Line": "Gift of Mrs. William A. McFadden and Mrs. Giles Whiting, 1928",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436207",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19913054",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Women|Interiors|Don Quixote",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/aat/300391239|http://vocab.getty.edu/page/ia/901001016",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q2998430|https://www.wikidata.org/wiki/Q480"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP318275.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 163902,
+        "role": "Artist",
+        "name": "Gustave Doré",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500013657",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q6682",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 15.875,
+          "Height": 134.6203,
+          "Width": 114.9352
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 92.1,
+          "Width": 73
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Interiors",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300391239",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q2998430"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Don Quixote",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901001016",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q480"
+      }
+    ]
+  }
+}

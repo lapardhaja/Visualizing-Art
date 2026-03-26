@@ -1,0 +1,97 @@
+{
+  "object_id": 467721,
+  "excel_metadata": {
+    "Object Number": "41.100.148",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 467721,
+    "Gallery Number": 304,
+    "Department": "Medieval Art",
+    "AccessionYear": 1941,
+    "Object Name": "Arch",
+    "Title": "Tri-Lobed Arch from a Reliquary Shrine",
+    "Culture": "German",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 14139,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Nicholas of Verdun and Cologne Followers",
+    "Artist Display Bio": " ",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "of Verdun Nicholas and Cologne Followers",
+    "Artist Nationality": "Mosan",
+    "Artist Begin Date": "          ",
+    "Artist End Date": "          ",
+    "Artist Gender": null,
+    "Artist ULAN URL": null,
+    "Artist Wikidata URL": null,
+    "Object Date": "ca. 1200",
+    "Object Begin Date": 1195,
+    "Object End Date": 1205,
+    "Medium": "Champlevé enamel on gilded copper",
+    "Dimensions": "Overall: 4 1/4 x 11 x 1/8 in. (10.8 x 27.9 x 0.3 cm)_x000D_\nband width: 1 1/16 x 1/8 in. (2.7 x 0.3 cm)",
+    "Credit Line": "Gift of George Blumenthal, 1941",
+    "Geography Type": "Made in",
+    "City": "Cologne",
+    "State": null,
+    "County": null,
+    "Country": "Germany",
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Enamels-Champlevé",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/467721",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q116279760",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": null,
+    "Tags AAT URL": null,
+    "Tags Wikidata URL": null
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/md/original/DP221825.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/md/original/sf41-100-148d1.jpg",
+      "https://images.metmuseum.org/CRDImages/md/original/DP221826.jpg",
+      "https://images.metmuseum.org/CRDImages/md/original/DP222629.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 141392,
+        "role": "Artist",
+        "name": "Nicholas of Verdun and Cologne Followers",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 10.795,
+          "Thickness": 0.3,
+          "Width": 27.9401
+        }
+      },
+      {
+        "elementName": "Other",
+        "elementDescription": "band width",
+        "elementMeasurements": {
+          "Thickness": 0.3,
+          "Width": 2.7
+        }
+      }
+    ],
+    "tags": null
+  }
+}

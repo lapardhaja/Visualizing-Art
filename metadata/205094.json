@@ -1,0 +1,88 @@
+{
+  "object_id": 205094,
+  "excel_metadata": {
+    "Object Number": "69.9.4",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 205094,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1969,
+    "Object Name": "Dressing table",
+    "Title": "Dressing table",
+    "Culture": "French",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 13826,
+    "Artist Role": "Maker",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Léonard Boudin",
+    "Artist Display Bio": "French, 1735–1807, master 1761",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Boudin, Léonard",
+    "Artist Nationality": "French",
+    "Artist Begin Date": 1735,
+    "Artist End Date": 1807,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500077658",
+    "Artist Wikidata URL": null,
+    "Object Date": "ca. 1765",
+    "Object Begin Date": 1760,
+    "Object End Date": 1770,
+    "Medium": "Tulipwood and various other woods, gilt bronze, leather",
+    "Dimensions": "Overall: 28 1/4 × 28 1/2 × 16 1/2 in. (71.8 × 72.4 × 41.9 cm)",
+    "Credit Line": "Bequest of Mary Hayward Weir, 1968",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Woodwork-Furniture",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/205094",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": null,
+    "Tags AAT URL": null,
+    "Tags Wikidata URL": null
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/190633.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/190634.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/190635.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 138269,
+        "role": "Maker",
+        "name": "Léonard Boudin",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500077658",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3271486",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 41.910084,
+          "Height": 71.75514,
+          "Width": 72.390144
+        }
+      }
+    ],
+    "tags": null
+  }
+}

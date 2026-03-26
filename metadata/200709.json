@@ -1,0 +1,98 @@
+{
+  "object_id": 200709,
+  "excel_metadata": {
+    "Object Number": "50.187.34",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 200709,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1950,
+    "Object Name": "Medallion",
+    "Title": "Lord Teignmouth",
+    "Culture": "British",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 3464,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "T. R. Poole",
+    "Artist Display Bio": "active 1799, died ca. 1821",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Poole T. R.",
+    "Artist Nationality": " ",
+    "Artist Begin Date": 1721,
+    "Artist End Date": 1821,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500297826",
+    "Artist Wikidata URL": null,
+    "Object Date": 1818,
+    "Object Begin Date": 1818,
+    "Object End Date": 1818,
+    "Medium": "Pink wax on glass painted black; frame: wood with glass",
+    "Dimensions": "Framed: 7 3/4 × 7 3/8 in. (19.7 × 18.7 cm)",
+    "Credit Line": "The Glenn Tilley Morse Collection, Bequest of Glenn Tilley Morse, 1950",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Sculpture-Miniature",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/200709",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Profiles",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300123319",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q4382010"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP-13721-042.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/DP-13721-043.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP-13721-041.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 34647,
+        "role": "Artist",
+        "name": "T. R. Poole",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500297826",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Diameter": 19.68504,
+          "Height": 18.732538
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Profiles",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300123319",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q4382010"
+      }
+    ]
+  }
+}

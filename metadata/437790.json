@@ -1,0 +1,117 @@
+{
+  "object_id": 437790,
+  "excel_metadata": {
+    "Object Number": "1977.1.3",
+    "Is Highlight": true,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 437790,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1977.0,
+    "Object Name": "Painting, sketch",
+    "Title": "Allegory of the Planets and Continents",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16253.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Giovanni Battista Tiepolo",
+    "Artist Display Bio": "Italian, Venice 1696–1770 Madrid",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Tiepolo, Giovanni Battista",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1696",
+    "Artist End Date": "1770",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500018523",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q186202",
+    "Object Date": "1752",
+    "Object Begin Date": 1752,
+    "Object End Date": 1752,
+    "Medium": "Oil on canvas",
+    "Dimensions": "73 x 54 7/8 in. (185.4 x 139.4 cm)",
+    "Credit Line": "Gift of Mr. and Mrs. Charles Wrightsman, 1977",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437790",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19911765",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Male Nudes|Women|Female Nudes|Elephants|Horses",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300189568|http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/aat/300189568|http://vocab.getty.edu/page/aat/300250160|http://vocab.getty.edu/page/aat/300250148",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q40446|https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q40446|https://www.wikidata.org/wiki/Q7378|https://www.wikidata.org/wiki/Q726"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-14286-007.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/List and Image.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 162537,
+        "role": "Artist",
+        "name": "Giovanni Battista Tiepolo",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500018523",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q186202",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 185.4,
+          "Width": 139.4
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Male Nudes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300189568",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q40446"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Female Nudes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300189568",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q40446"
+      },
+      {
+        "term": "Elephants",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250160",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q7378"
+      },
+      {
+        "term": "Horses",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250148",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q726"
+      }
+    ]
+  }
+}

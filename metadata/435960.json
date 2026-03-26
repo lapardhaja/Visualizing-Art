@@ -1,0 +1,95 @@
+{
+  "object_id": 435960,
+  "excel_metadata": {
+    "Object Number": "32.100.113",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 435960,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1932.0,
+    "Object Name": "Painting",
+    "Title": "Portrait of a Widow",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16178.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": "Style of",
+    "Artist Display Name": "Corneille de Lyon",
+    "Artist Display Bio": "French, second quarter 16th century",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Corneille de Lyon",
+    "Artist Nationality": "Netherlandish",
+    "Artist Begin Date": "1533",
+    "Artist End Date": "1575",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500115387",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q720941",
+    "Object Date": NaN,
+    "Object Begin Date": 1525,
+    "Object End Date": 1549,
+    "Medium": "Oil on wood",
+    "Dimensions": "8 3/4 x 7 in. (22.2 x 17.8 cm)",
+    "Credit Line": "The Friedsam Collection, Bequest of Michael Friedsam, 1931",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/435960",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19913194",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Portraits|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/ep32.100.113.bw.R.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 161785,
+        "role": "Artist",
+        "name": "Style of Corneille de Lyon",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115387",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q720941",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 22.2,
+          "Width": 17.8
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

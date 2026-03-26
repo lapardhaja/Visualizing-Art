@@ -1,0 +1,100 @@
+{
+  "object_id": 437913,
+  "excel_metadata": {
+    "Object Number": "65.181.1",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437913,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1965.0,
+    "Object Name": "Painting fragment",
+    "Title": "A Saint (Mark?) Reading",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16266.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Bartolomeo Vivarini",
+    "Artist Display Bio": "Italian, active Venice 1450–91",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Vivarini, Bartolomeo",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1450",
+    "Artist End Date": "1491",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500029396",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q456971",
+    "Object Date": "ca. 1470",
+    "Object Begin Date": 1465,
+    "Object End Date": 1475,
+    "Medium": "Tempera on wood, gold ground",
+    "Dimensions": "18 5/8 x 14 3/4 in. (47.3 x 37.5 cm)",
+    "Credit Line": "Bequest of Adele L. Lehman, in memory of Arthur Lehman, 1965",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437913",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912872",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Reading|Saint Mark|Men",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300248178|http://vocab.getty.edu/page/ia/901000495|http://vocab.getty.edu/page/aat/300025928",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q199657|https://www.wikidata.org/wiki/Q31966|https://www.wikidata.org/wiki/Q8441"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP256393.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162660,
+        "role": "Artist",
+        "name": "Bartolomeo Vivarini",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500029396",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q456971",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 47.3,
+          "Width": 37.5
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Reading",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300248178",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q199657"
+      },
+      {
+        "term": "Saint Mark",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000495",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q31966"
+      }
+    ]
+  }
+}

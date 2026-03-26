@@ -1,0 +1,111 @@
+{
+  "object_id": 816272,
+  "excel_metadata": {
+    "Object Number": "2019.299",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 816272,
+    "Gallery Number": NaN,
+    "Department": "Islamic Art",
+    "AccessionYear": 2019.0,
+    "Object Name": "Painting",
+    "Title": "Portrait of a Lady",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": NaN,
+    "Artist Role": NaN,
+    "Artist Prefix": NaN,
+    "Artist Display Name": NaN,
+    "Artist Display Bio": NaN,
+    "Artist Suffix": NaN,
+    "Artist Alpha Sort": NaN,
+    "Artist Nationality": NaN,
+    "Artist Begin Date": NaN,
+    "Artist End Date": NaN,
+    "Artist Gender": NaN,
+    "Artist ULAN URL": NaN,
+    "Artist Wikidata URL": NaN,
+    "Object Date": "mid-17th century",
+    "Object Begin Date": 1625,
+    "Object End Date": 1675,
+    "Medium": "Oil on canvas",
+    "Dimensions": "Painting:\r\n              H. 60 1/4 in. (153 cm)\r\n              W. 36 in. (91.4 cm)\r\nFramed:\r\n              H. 65 1/4 in. (165.7 cm)\r\n              W. 40 in. (101.6 cm)",
+    "Credit Line": "Purchase, 2017 and 2018 NoRuz at The Met Benefit, 2019",
+    "Geography Type": "Made in",
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": "Iran",
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/816272",
+    "Object Wikidata URL": NaN,
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Portraits|Fans|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300258857|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q193220|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/is/original/LC-2019_299.jpg",
+    "additionalImages": [],
+    "constituents": null,
+    "measurements": [
+      {
+        "elementName": "Width",
+        "elementDescription": "Framed",
+        "elementMeasurements": {
+          "Width": 101.600204
+        }
+      },
+      {
+        "elementName": "Height",
+        "elementDescription": "Framed",
+        "elementMeasurements": {
+          "Height": 165.73534
+        }
+      },
+      {
+        "elementName": "Width",
+        "elementDescription": "Painting",
+        "elementMeasurements": {
+          "Width": 91.440186
+        }
+      },
+      {
+        "elementName": "Height",
+        "elementDescription": "Painting",
+        "elementMeasurements": {
+          "Height": 153.0099
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Fans",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300258857",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q193220"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

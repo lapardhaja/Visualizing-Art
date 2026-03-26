@@ -1,0 +1,88 @@
+{
+  "object_id": 239354,
+  "excel_metadata": {
+    "Object Number": 2013.479,
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 239354,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 2013,
+    "Object Name": "Vase",
+    "Title": "Monumental vase",
+    "Culture": "French, Choisy-le-Roi",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 16176,
+    "Artist Role": "Maker",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Ernest Chaplet",
+    "Artist Display Bio": "French, Sèvres 1835–1909 Choisy-le-Roi",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Chaplet, Ernest",
+    "Artist Nationality": "French",
+    "Artist Begin Date": 1835,
+    "Artist End Date": 1909,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500059181",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q3056883",
+    "Object Date": "ca. 1890",
+    "Object Begin Date": 1885,
+    "Object End Date": 1895,
+    "Medium": "Porcelain",
+    "Dimensions": "Overall (confirmed): 29 1/2 × 19 1/4 × 19 1/4 in., 71.3lb. (74.9 × 48.9 × 48.9 cm, 32.3415kg)",
+    "Credit Line": "Robert A. Ellison Jr. Collection, Purchase, Acquisitions Fund; Louis V. Bell, Harris Brisbane Dick, Fletcher, and Rogers Funds and Joseph Pulitzer Bequest; and 2011 Benefit Fund, 2013",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Ceramics-Porcelain",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/239354",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": null,
+    "Tags AAT URL": null,
+    "Tags Wikidata URL": null
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP704028.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/DP704029.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 161766,
+        "role": "Maker",
+        "name": "Ernest Chaplet",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500059181",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3056883",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": "confirmed",
+        "elementMeasurements": {
+          "Depth": 48.8951,
+          "Height": 74.93015,
+          "Weight": 32.34147,
+          "Width": 48.8951
+        }
+      }
+    ],
+    "tags": null
+  }
+}

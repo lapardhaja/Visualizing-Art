@@ -1,0 +1,95 @@
+{
+  "object_id": 435726,
+  "excel_metadata": {
+    "Object Number": "1972.145.7",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 435726,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1972.0,
+    "Object Name": "Painting, miniature",
+    "Title": "Count Alexander Ivanovich Sollogoub (1788–1844)",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10864.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Domenico Bossi",
+    "Artist Display Bio": "Italian, Venetian, 1765–1853",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Bossi, Domenico",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1765",
+    "Artist End Date": "1853",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500021275",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q1905185",
+    "Object Date": "1810",
+    "Object Begin Date": 1810,
+    "Object End Date": 1810,
+    "Medium": "Ivory",
+    "Dimensions": "Oval, 2 3/8 x 1 7/8 in. (60 x 47 mm)",
+    "Credit Line": "Gift of Humanities Fund Inc., 1972",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Miniatures",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/435726",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19913985",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/209773.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 108641,
+        "role": "Artist",
+        "name": "Domenico Bossi",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500021275",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1905185",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 6,
+          "Width": 4.8
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

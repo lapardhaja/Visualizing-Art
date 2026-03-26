@@ -1,0 +1,87 @@
+{
+  "object_id": 549069,
+  "excel_metadata": {
+    "Object Number": "23.3.464",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 549069,
+    "Gallery Number": NaN,
+    "Department": "Egyptian Art",
+    "AccessionYear": 1923.0,
+    "Object Name": "Ceiling Painting, Senenmut, TT 71",
+    "Title": "Ceiling Painting from the Tomb Chapel of Senenmut",
+    "Culture": NaN,
+    "Period": "New Kingdom",
+    "Dynasty": "Dynasty 18",
+    "Reign": "Joint reign of Hatshepsut and Thutmose III",
+    "Portfolio": NaN,
+    "Constituent ID": NaN,
+    "Artist Role": NaN,
+    "Artist Prefix": NaN,
+    "Artist Display Name": NaN,
+    "Artist Display Bio": NaN,
+    "Artist Suffix": NaN,
+    "Artist Alpha Sort": NaN,
+    "Artist Nationality": NaN,
+    "Artist Begin Date": NaN,
+    "Artist End Date": NaN,
+    "Artist Gender": NaN,
+    "Artist ULAN URL": NaN,
+    "Artist Wikidata URL": NaN,
+    "Object Date": "ca. 1479–1458 B.C.",
+    "Object Begin Date": -1479,
+    "Object End Date": -1479,
+    "Medium": "Mud plaster, paint",
+    "Dimensions": "Unframed: H. 17 × W. 44 cm (6 11/16 × 17 5/16 in.)\r\nFramed: H. 24.4 × W. 51.7 × D. 6.5 cm, 13.1 kg (9 5/8 × 20 3/8 × 2 9/16 in., 28.8 lb.)",
+    "Credit Line": "Rogers Fund, 1923",
+    "Geography Type": "From",
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": "Egypt",
+    "Region": "Upper Egypt, Thebes",
+    "Subregion": "Sheikh Abd el-Qurna",
+    "Locale": "Tomb of Senenmut (TT 71)",
+    "Locus": "Ceiling south of axial beam of front hall",
+    "Excavation": "MMA excavations, 1923",
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/549069",
+    "Object Wikidata URL": NaN,
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": NaN,
+    "Tags AAT URL": NaN,
+    "Tags Wikidata URL": NaN
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/eg/original/LC-23_3_464_EGDP029731.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/eg/original/23-3-464_71182.jpg"
+    ],
+    "constituents": null,
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": "Unframed",
+        "elementMeasurements": {
+          "Height": 17,
+          "Width": 44
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 6.508763,
+          "Height": 24.4,
+          "Weight": 13.063594,
+          "Width": 51.7
+        }
+      }
+    ],
+    "tags": null
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "object_id": 437673,
+  "excel_metadata": {
+    "Object Number": "29.164",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437673,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1929.0,
+    "Object Name": "Painting, altarpiece",
+    "Title": "The Assumption of the Virgin with Saints Michael and Benedict",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16241.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Luca Signorelli",
+    "Artist Display Bio": "Italian, Cortona, active by 1470–died 1523 Cortona",
+    "Artist Suffix": "and Workshop",
+    "Artist Alpha Sort": "Signorelli, Luca",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1470",
+    "Artist End Date": "1523",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500003947",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q7031",
+    "Object Date": "ca. 1493–96",
+    "Object Begin Date": 1493,
+    "Object End Date": 1496,
+    "Medium": "Oil and gold on wood",
+    "Dimensions": "67 1/4 x 51 3/4 in. (170.8 x 131.4 cm)",
+    "Credit Line": "Purchase, Joseph Pulitzer Bequest, 1929",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437673",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19904866",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Saint Michael|Assumption of the Virgin|Saints|Angels|Virgin Mary|Devil",
+    "Tags AAT URL": " |http://vocab.getty.edu/page/ia/901001007|http://vocab.getty.edu/page/aat/300150555|http://vocab.getty.edu/page/aat/300379004|http://vocab.getty.edu/page/ia/901000032|http://vocab.getty.edu/page/aat/300379005",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q45581|https://www.wikidata.org/wiki/Q162691|https://www.wikidata.org/wiki/Q43115|https://www.wikidata.org/wiki/Q235113|https://www.wikidata.org/wiki/Q345|https://www.wikidata.org/wiki/Q6674"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP102429.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162416,
+        "role": "Artist",
+        "name": "Luca Signorelli",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500003947",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q7031",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 170.8,
+          "Width": 131.4
+        }
+      },
+      {
+        "elementName": "Other",
+        "elementDescription": "Picture + Frame ",
+        "elementMeasurements": {
+          "Weight": 77.111496
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Angels",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379004",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q235113"
+      },
+      {
+        "term": "Saint Michael",
+        "AAT_URL": null,
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q45581"
+      },
+      {
+        "term": "Virgin Mary",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000032",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q345"
+      },
+      {
+        "term": "Devil",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379005",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q6674"
+      },
+      {
+        "term": "Assumption of the Virgin",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901001007",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q162691"
+      },
+      {
+        "term": "Saints",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300150555",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q43115"
+      }
+    ]
+  }
+}

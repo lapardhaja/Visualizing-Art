@@ -1,0 +1,104 @@
+{
+  "object_id": 435886,
+  "excel_metadata": {
+    "Object Number": "51.34",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 435886,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1951.0,
+    "Object Name": "Painting",
+    "Title": "Jean-Baptiste Colbert (1619–1683)",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16176.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Philippe de Champaigne",
+    "Artist Display Bio": "French, Brussels 1602–1674 Paris",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Champaigne, Philippe de",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1602",
+    "Artist End Date": "1674",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500115355",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q314814",
+    "Object Date": "1655",
+    "Object Begin Date": 1655,
+    "Object End Date": 1655,
+    "Medium": "Oil on canvas",
+    "Dimensions": "36 1/4 x 28 1/2 in. (92.1 x 72.4 cm)",
+    "Credit Line": "Gift of The Wildenstein Foundation Inc., 1951",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/435886",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19905399",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-27911-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 161763,
+        "role": "Artist",
+        "name": "Philippe de Champaigne",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115355",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q314814",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 92.1,
+          "Width": 72.4
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 11.43,
+          "Height": 122.5552,
+          "Width": 102.8702
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

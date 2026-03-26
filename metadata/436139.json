@@ -1,0 +1,105 @@
+{
+  "object_id": 436139,
+  "excel_metadata": {
+    "Object Number": "29.100.34",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 436139,
+    "Gallery Number": 815.0,
+    "Department": "European Paintings",
+    "AccessionYear": 1929.0,
+    "Object Name": "Painting",
+    "Title": "Dancers Practicing at the Barre",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16182.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Edgar Degas",
+    "Artist Display Bio": "French, Paris 1834–1917 Paris",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Degas, Edgar",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1834",
+    "Artist End Date": "1917",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500115194",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q46373",
+    "Object Date": "1877",
+    "Object Begin Date": 1877,
+    "Object End Date": 1877,
+    "Medium": "Mixed media on canvas",
+    "Dimensions": "29 3/4 x 32 in. (75.6 x 81.3 cm)",
+    "Credit Line": "H. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436139",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19905112",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Dancing|Dancers|Women|Ballet",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300389779|http://vocab.getty.edu/page/aat/300025653|http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/aat/300054145",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q43393537|https://www.wikidata.org/wiki/Q5716684|https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q41425"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT840.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 161821,
+        "role": "Artist",
+        "name": "Edgar Degas",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115194",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q46373",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 75.6,
+          "Width": 81.3
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Dancing",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300389779",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q43393537"
+      },
+      {
+        "term": "Dancers",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025653",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q5716684"
+      },
+      {
+        "term": "Ballet",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300054145",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q41425"
+      }
+    ]
+  }
+}

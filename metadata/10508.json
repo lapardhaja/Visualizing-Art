@@ -1,0 +1,109 @@
+{
+  "object_id": 10508,
+  "excel_metadata": {
+    "Object Number": "68.19",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 10508,
+    "Gallery Number": 737.0,
+    "Department": "The American Wing",
+    "AccessionYear": 1968.0,
+    "Object Name": "Painting",
+    "Title": "The Hill of the Alhambra, Granada",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16351.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Samuel Colman",
+    "Artist Display Bio": "American, Portland, Maine 1832–1920 New York",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Colman, Samuel",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1832",
+    "Artist End Date": "1920",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500031860",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q1751436",
+    "Object Date": "1865",
+    "Object Begin Date": 1865,
+    "Object End Date": 1865,
+    "Medium": "Oil on canvas",
+    "Dimensions": "47 1/2 x 72 1/2 in. (120.7 x 184.2 cm)",
+    "Credit Line": "Gift of Mrs. Oswald C. Hering, in memory of her husband, 1968",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/10508",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19924102",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Towns|Buildings|Bridges",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300008375|http://vocab.getty.edu/page/aat/300004789|http://vocab.getty.edu/page/aat/300386855",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q3957|https://www.wikidata.org/wiki/Q41176|https://www.wikidata.org/wiki/Q12280"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DP226882.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 163519,
+        "role": "Artist",
+        "name": "Samuel Colman",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500031860",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1751436",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 120.7,
+          "Width": 184.2
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 12.3,
+          "Height": 145.5,
+          "Width": 205.5
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Buildings",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300004789",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q41176"
+      },
+      {
+        "term": "Bridges",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300386855",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q12280"
+      },
+      {
+        "term": "Towns",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300008375",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3957"
+      }
+    ]
+  }
+}

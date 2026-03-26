@@ -1,0 +1,100 @@
+{
+  "object_id": 436975,
+  "excel_metadata": {
+    "Object Number": "92.1.49",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436975,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1892.0,
+    "Object Name": "Painting",
+    "Title": "Reverie",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10797.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Matthys Maris",
+    "Artist Display Bio": "Dutch, The Hague 1839–1917 London",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Maris, Matthys",
+    "Artist Nationality": "Dutch",
+    "Artist Begin Date": "1839",
+    "Artist End Date": "1917",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500000637",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q1375830",
+    "Object Date": "1875",
+    "Object Begin Date": 1875,
+    "Object End Date": 1875,
+    "Medium": "Oil on canvas",
+    "Dimensions": "12 x 9 1/4 in. (30.5 x 23.5 cm)",
+    "Credit Line": "Bequest of Elizabeth U. Coles, in memory of her son, William F. Coles, 1892",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436975",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19913270",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Women|Cats|Interiors",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/aat/300265960|http://vocab.getty.edu/page/aat/300391239",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q146|https://www.wikidata.org/wiki/Q2998430"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP143204.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 107971,
+        "role": "Artist",
+        "name": "Matthys Maris",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500000637",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1375830",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 30.5,
+          "Width": 23.5
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Interiors",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300391239",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q2998430"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Cats",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300265960",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q146"
+      }
+    ]
+  }
+}

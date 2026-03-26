@@ -1,0 +1,114 @@
+{
+  "object_id": 437314,
+  "excel_metadata": {
+    "Object Number": "66.36",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437314,
+    "Gallery Number": 820.0,
+    "Department": "European Paintings",
+    "AccessionYear": 1966.0,
+    "Object Name": "Painting",
+    "Title": "The Garden of the Tuileries on a Winter Afternoon",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16225.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Camille Pissarro",
+    "Artist Display Bio": "French, Charlotte Amalie, Saint Thomas 1830–1903 Paris",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Pissarro, Camille",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1830",
+    "Artist End Date": "1903",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500001924",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q134741",
+    "Object Date": "1899",
+    "Object Begin Date": 1899,
+    "Object End Date": 1899,
+    "Medium": "Oil on canvas",
+    "Dimensions": "29 x 36 1/4 in. (73.7 x 92.1 cm)",
+    "Credit Line": "Gift of Katrin S. Vietor, in loving memory of Ernest G. Vietor, 1966",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437314",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19911912",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Paris|Cities|Gardens|Winter",
+    "Tags AAT URL": "http://vocab.getty.edu/page/tgn/7008038|http://vocab.getty.edu/page/aat/300008389|http://vocab.getty.edu/page/aat/300008090|http://vocab.getty.edu/page/aat/300133101",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q90|https://www.wikidata.org/wiki/Q515|https://www.wikidata.org/wiki/Q1107656|https://www.wikidata.org/wiki/Q1311"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT1559.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162257,
+        "role": "Artist",
+        "name": "Camille Pissarro",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500001924",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q134741",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 73.7,
+          "Width": 92.1
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 8.255016,
+          "Height": 92.392685,
+          "Width": 111.12522
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Cities",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300008389",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q515"
+      },
+      {
+        "term": "Gardens",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300008090",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q1107656"
+      },
+      {
+        "term": "Winter",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300133101",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q1311"
+      },
+      {
+        "term": "Paris",
+        "AAT_URL": "http://vocab.getty.edu/page/tgn/7008038",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q90"
+      }
+    ]
+  }
+}

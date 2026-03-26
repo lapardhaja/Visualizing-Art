@@ -1,0 +1,104 @@
+{
+  "object_id": 11053,
+  "excel_metadata": {
+    "Object Number": "1985.117",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 11053,
+    "Gallery Number": 761.0,
+    "Department": "The American Wing",
+    "AccessionYear": 1985.0,
+    "Object Name": "Painting",
+    "Title": "Newburyport Meadows",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 259.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Martin Johnson Heade",
+    "Artist Display Bio": "1819–1904",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Heade, Martin Johnson",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1819",
+    "Artist End Date": "1904",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500000888",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q3123472",
+    "Object Date": "ca. 1876–81",
+    "Object Begin Date": 1873,
+    "Object End Date": 1881,
+    "Medium": "Oil on canvas",
+    "Dimensions": "10 1/2 x 22 in. (26.7 x 55.9 cm)",
+    "Credit Line": "Purchase, Mrs. Samuel P. Reed Gift, Morris K. Jesup Fund, Maria DeWitt Jesup Fund, John Osgood and Elizabeth Amis Cameron Blanchard Memorial Fund and Gifts of Robert E. Tod and William Gedney Bunce, by exchange, 1985",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/11053",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912726",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Haystacks|Landscapes",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300435325|http://vocab.getty.edu/page/aat/300132294",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q62577|https://www.wikidata.org/wiki/Q191163"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DT2050.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 2593,
+        "role": "Artist",
+        "name": "Martin Johnson Heade",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500000888",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3123472",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 7.6,
+          "Height": 54.6,
+          "Width": 84.8
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 26.7,
+          "Width": 55.9
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Landscapes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+      },
+      {
+        "term": "Haystacks",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300435325",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q62577"
+      }
+    ]
+  }
+}

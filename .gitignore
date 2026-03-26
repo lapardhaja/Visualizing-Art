@@ -1,14 +1,11 @@
-.git/
-.idea/
-.DS*
-
-# Large data files
-images/
-thumbnails/
-metadata/
+data/
 embeddings/
-*.log
-download_log.txt
-data/*.xlsx
+thumbnails/
+jd_workspace/
+
+# Python
 __pycache__/
 *.pyc
+
+# OS
+.DS_Store

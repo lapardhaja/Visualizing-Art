@@ -1,0 +1,93 @@
+{
+  "object_id": 209670,
+  "excel_metadata": {
+    "Object Number": "43.129.2",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 209670,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1943,
+    "Object Name": "Fan",
+    "Title": "Fan",
+    "Culture": "French, Paris",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 4106,
+    "Artist Role": "Manufacturer",
+    "Artist Prefix": " ",
+    "Artist Display Name": "A. Rodien",
+    "Artist Display Bio": " ",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Rodien, A.",
+    "Artist Nationality": " ",
+    "Artist Begin Date": "          ",
+    "Artist End Date": "          ",
+    "Artist Gender": null,
+    "Artist ULAN URL": null,
+    "Artist Wikidata URL": null,
+    "Object Date": "ca. 1870",
+    "Object Begin Date": 1865,
+    "Object End Date": 1875,
+    "Medium": "Silk taffeta, bobbin lace, ivory, steel, mother-of-pearl",
+    "Dimensions": "Overall (confirmed): 10 7/8 × 19 7/8 in. (27.6 × 50.5 cm); 1 1/4 in. (3.175 cm) closed",
+    "Credit Line": "Gift of Miss Ida Lincoln Cooper, 1943",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Fans",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/209670",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Butterflies",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300417320",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q11946202"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/SF43_129_2_img1.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/SF43_129_2_img2.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/SF43_129_2_img3.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 41062,
+        "role": "Manufacturer",
+        "name": "A. Rodien",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": "confirmed",
+        "elementMeasurements": {
+          "Height": 27.622555,
+          "Width": 50.4826
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Butterflies",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300417320",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q11946202"
+      }
+    ]
+  }
+}

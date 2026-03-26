@@ -1,0 +1,114 @@
+{
+  "object_id": 436795,
+  "excel_metadata": {
+    "Object Number": "1982.60.47",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 436795,
+    "Gallery Number": 537.0,
+    "Department": "European Paintings",
+    "AccessionYear": 1982.0,
+    "Object Name": "Painting",
+    "Title": "Virgin and Child",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16201.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Joos van Cleve",
+    "Artist Display Bio": "Netherlandish, Cleve ca. 1485–1540/41 Antwerp",
+    "Artist Suffix": "and a collaborator",
+    "Artist Alpha Sort": "Joos van Cleve",
+    "Artist Nationality": "Netherlandish",
+    "Artist Begin Date": "1485",
+    "Artist End Date": "1541",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500007799",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q153472",
+    "Object Date": "ca. 1525",
+    "Object Begin Date": 1520,
+    "Object End Date": 1530,
+    "Medium": "Oil on wood",
+    "Dimensions": "Overall 28 3/8 x 21 1/4 in. (72.1 x 54 cm); painted surface 27 3/4 x 20 3/4 in. (70.5 x 52.7 cm)",
+    "Credit Line": "The Jack and Belle Linsky Collection, 1982",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436795",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19911571",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Madonna and Child|Fruit|Apples|Grapes|Nursing",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901000052|http://vocab.getty.edu/page/aat/300011868|http://vocab.getty.edu/page/aat/300266417|http://vocab.getty.edu/page/aat/300379338|http://vocab.getty.edu/page/aat/300379905",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q9309699|https://www.wikidata.org/wiki/Q1364|https://www.wikidata.org/wiki/Q89|https://www.wikidata.org/wiki/Q10978|https://www.wikidata.org/wiki/Q174876"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT7241.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-1982_60_47-1.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-1982_60_47-IRR.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-1982_60_47-XRAY.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 162015,
+        "role": "Artist",
+        "name": "Joos van Cleve",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500007799",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q153472",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 72.1,
+          "Width": 54
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Fruit",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300011868",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q1364"
+      },
+      {
+        "term": "Apples",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300266417",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q89"
+      },
+      {
+        "term": "Grapes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379338",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q10978"
+      },
+      {
+        "term": "Madonna and Child",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000052",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q9309699"
+      },
+      {
+        "term": "Nursing",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379905",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q174876"
+      }
+    ]
+  }
+}

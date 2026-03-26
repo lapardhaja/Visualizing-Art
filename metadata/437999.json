@@ -1,0 +1,100 @@
+{
+  "object_id": 437999,
+  "excel_metadata": {
+    "Object Number": "1997.391.2",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 437999,
+    "Gallery Number": 822.0,
+    "Department": "European Paintings",
+    "AccessionYear": 1997.0,
+    "Object Name": "Painting",
+    "Title": "Still Life with Teapot and Fruit",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16192.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Paul Gauguin",
+    "Artist Display Bio": "French, Paris 1848–1903 Atuona, Hiva Oa, Marquesas Islands",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Gauguin, Paul",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1848",
+    "Artist End Date": "1903",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500011421",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q37693",
+    "Object Date": "1896",
+    "Object Begin Date": 1896,
+    "Object End Date": 1896,
+    "Medium": "Oil on canvas",
+    "Dimensions": "18 3/4 x 26 in. (47.6 x 66 cm)",
+    "Credit Line": "The Walter H. and Leonore Annenberg Collection, Gift of Walter H. and Leonore Annenberg, 1997, Bequest of Walter H. Annenberg, 2002",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437999",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912375",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Fruit|Still Life|Teapots",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300011868|http://vocab.getty.edu/page/aat/300015638|http://vocab.getty.edu/page/aat/300043022",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q1364|https://www.wikidata.org/wiki/Q170571|https://www.wikidata.org/wiki/Q245005"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT1027.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 161924,
+        "role": "Artist",
+        "name": "Paul Gauguin",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500011421",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q37693",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 47.6,
+          "Width": 66
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Fruit",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300011868",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q1364"
+      },
+      {
+        "term": "Still Life",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015638",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q170571"
+      },
+      {
+        "term": "Teapots",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300043022",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q245005"
+      }
+    ]
+  }
+}

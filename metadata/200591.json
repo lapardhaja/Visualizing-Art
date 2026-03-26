@@ -1,0 +1,102 @@
+{
+  "object_id": 200591,
+  "excel_metadata": {
+    "Object Number": "49.7.112",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 200591,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1949,
+    "Object Name": "Triptych",
+    "Title": "Mocking of Christ; Kiss of Judas; Flagellation",
+    "Culture": "French, Paris",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 3963,
+    "Artist Role": "Artist",
+    "Artist Prefix": "Probably by",
+    "Artist Display Name": "Emile Samson",
+    "Artist Display Bio": "1837–1913",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Samson Emile",
+    "Artist Nationality": " ",
+    "Artist Begin Date": 1837,
+    "Artist End Date": 1913,
+    "Artist Gender": null,
+    "Artist ULAN URL": null,
+    "Artist Wikidata URL": null,
+    "Object Date": "late 19th–early 20th century",
+    "Object Begin Date": 1885,
+    "Object End Date": 1915,
+    "Medium": "Painted enamel on copper",
+    "Dimensions": "H. 7 1/2 in.  (19.1 cm); W. 14 in. (35.6 cm.)",
+    "Credit Line": "The Jules Bache Collection, 1949",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Enamels",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/200591",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Christ|Judas|Men",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901000087|http://vocab.getty.edu/page/ia/901000531|http://vocab.getty.edu/page/aat/300025928",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q642420|https://www.wikidata.org/wiki/Q81018|https://www.wikidata.org/wiki/Q8441"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/ES6636.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/147816.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 39632,
+        "role": "Artist",
+        "name": "Probably by Emile Samson",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 19.1,
+          "Width": 35.6
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Christ",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+      },
+      {
+        "term": "Judas",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000531",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q81018"
+      }
+    ]
+  }
+}

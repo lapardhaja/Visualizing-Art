@@ -1,0 +1,111 @@
+{
+  "object_id": 64535,
+  "excel_metadata": {
+    "Object Number": "2002.37",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 64535,
+    "Gallery Number": NaN,
+    "Department": "Asian Art",
+    "AccessionYear": 2002.0,
+    "Object Name": "Painting",
+    "Title": NaN,
+    "Culture": "North India, Punjab Hills, Kangra",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": NaN,
+    "Artist Role": NaN,
+    "Artist Prefix": NaN,
+    "Artist Display Name": NaN,
+    "Artist Display Bio": NaN,
+    "Artist Suffix": NaN,
+    "Artist Alpha Sort": NaN,
+    "Artist Nationality": NaN,
+    "Artist Begin Date": NaN,
+    "Artist End Date": NaN,
+    "Artist Gender": NaN,
+    "Artist ULAN URL": NaN,
+    "Artist Wikidata URL": NaN,
+    "Object Date": "ca. 1800",
+    "Object Begin Date": 1790,
+    "Object End Date": 1810,
+    "Medium": "Ink, opaque watercolor, gold and silver on paper",
+    "Dimensions": "Image: 9 7/8 x 14 1/8 in. (25.1 x 35.8 cm)\r\nFramed: 16 5/16 x 21 3/8 in. (41.4 x 54.3 cm)",
+    "Credit Line": "Cynthia Hazen Polsky and Leon B. Polsky Fund, 2002",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/64535",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q78718602",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Horses|Dogs|Hunting|Deer|Tigers",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300250148|http://vocab.getty.edu/page/aat/300265714|http://vocab.getty.edu/page/aat/300239666|http://vocab.getty.edu/page/aat/300250308|http://vocab.getty.edu/page/aat/300249063",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q726|https://www.wikidata.org/wiki/Q144|https://www.wikidata.org/wiki/Q36963|https://www.wikidata.org/wiki/Q685795|https://www.wikidata.org/wiki/Q19939"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/as/original/DP153186.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/as/original/LC-2002_37_001.jpg"
+    ],
+    "constituents": null,
+    "measurements": [
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 41.4,
+          "Width": 54.3
+        }
+      },
+      {
+        "elementName": "Image",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 25.1,
+          "Width": 35.8
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Hunting",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300239666",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q36963"
+      },
+      {
+        "term": "Deer",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250308",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q685795"
+      },
+      {
+        "term": "Dogs",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300265714",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q144"
+      },
+      {
+        "term": "Horses",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250148",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q726"
+      },
+      {
+        "term": "Tigers",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300249063",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q19939"
+      }
+    ]
+  }
+}

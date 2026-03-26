@@ -1,0 +1,141 @@
+{
+  "object_id": 464502,
+  "excel_metadata": {
+    "Object Number": "17.190.595a-d",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 464502,
+    "Gallery Number": 307,
+    "Department": "Medieval Art",
+    "AccessionYear": 1917,
+    "Object Name": "Plaques",
+    "Title": "Four Enamel Plaques",
+    "Culture": "French",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": null,
+    "Artist Role": null,
+    "Artist Prefix": null,
+    "Artist Display Name": null,
+    "Artist Display Bio": null,
+    "Artist Suffix": null,
+    "Artist Alpha Sort": null,
+    "Artist Nationality": null,
+    "Artist Begin Date": null,
+    "Artist End Date": null,
+    "Artist Gender": null,
+    "Artist ULAN URL": null,
+    "Artist Wikidata URL": null,
+    "Object Date": "ca. 1300",
+    "Object Begin Date": 1295,
+    "Object End Date": 1305,
+    "Medium": "Cloisonné enamel, silver-gilt, jewels",
+    "Dimensions": "Overall (a): 1 1/4 x 1 1/16 x 1/4 in. (3.1 x 2.7 x 0.7 cm)_x000D_\nOverall (b): 1 3/16 x 1 x 1/4 in. (3 x 2.6 x 0.7 cm)_x000D_\nOverall (c): 1 3/8 x 1 3/16 x 1/4 in. (3.5 x 3 x 0.7 cm)_x000D_\nOverall (d): 1 5/16 x 1 3/16 x 1/4 in. (3.4 x 3 x 0.7 cm)_x000D_\na-diameter of central enamel : 1/2 in. (1.2 cm)_x000D_\nb-diameter of central enamel : 9/16 in. (1.4 cm)_x000D_\nc-diameter of central enamel : 9/16 in. (1.4 cm)_x000D_\nd-diameter of central enamel : 9/16 in. (1.4 cm)",
+    "Credit Line": "Gift of J. Pierpont Morgan, 1917",
+    "Geography Type": "Made in",
+    "City": "Paris",
+    "State": null,
+    "County": null,
+    "Country": "France",
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Enamels-Émail de plique",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/464502",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q116256727",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": null,
+    "Tags AAT URL": null,
+    "Tags Wikidata URL": null
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/md/original/sf17-190-595a-ds1.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/md/original/sf17-190-595a-ds2.jpg",
+      "https://images.metmuseum.org/CRDImages/md/original/sf17-190-595as1.jpg",
+      "https://images.metmuseum.org/CRDImages/md/original/sf17-190-595as2.jpg",
+      "https://images.metmuseum.org/CRDImages/md/original/sf17-190-595bs1.jpg",
+      "https://images.metmuseum.org/CRDImages/md/original/sf17-190-595bs2.jpg",
+      "https://images.metmuseum.org/CRDImages/md/original/sf17-190-595cs1.jpg",
+      "https://images.metmuseum.org/CRDImages/md/original/sf17-190-595cs2.jpg",
+      "https://images.metmuseum.org/CRDImages/md/original/sf17-190-595ds1.jpg",
+      "https://images.metmuseum.org/CRDImages/md/original/sf17-190-595ds2.jpg"
+    ],
+    "constituents": null,
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": "d",
+        "elementMeasurements": {
+          "Depth": 0.7,
+          "Height": 3.4,
+          "Width": 3
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": "c",
+        "elementMeasurements": {
+          "Depth": 0.7,
+          "Height": 3.5,
+          "Width": 3
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": "b",
+        "elementMeasurements": {
+          "Depth": 0.7,
+          "Height": 3,
+          "Width": 2.6
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": "a",
+        "elementMeasurements": {
+          "Depth": 0.7,
+          "Height": 3.1,
+          "Width": 2.7
+        }
+      },
+      {
+        "elementName": "Other",
+        "elementDescription": "d-diameter of central enamel ",
+        "elementMeasurements": {
+          "Diameter": 1.4
+        }
+      },
+      {
+        "elementName": "Other",
+        "elementDescription": "c-diameter of central enamel ",
+        "elementMeasurements": {
+          "Diameter": 1.4
+        }
+      },
+      {
+        "elementName": "Other",
+        "elementDescription": "b-diameter of central enamel ",
+        "elementMeasurements": {
+          "Diameter": 1.4
+        }
+      },
+      {
+        "elementName": "Other",
+        "elementDescription": "a-diameter of central enamel ",
+        "elementMeasurements": {
+          "Diameter": 1.2
+        }
+      }
+    ],
+    "tags": null
+  }
+}

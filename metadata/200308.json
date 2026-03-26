@@ -1,0 +1,100 @@
+{
+  "object_id": 200308,
+  "excel_metadata": {
+    "Object Number": "48.187.329",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 200308,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1948,
+    "Object Name": "Dish",
+    "Title": "Dish",
+    "Culture": "French, Montpellier",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 3447,
+    "Artist Role": "Maker",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Paul-David Bazille",
+    "Artist Display Bio": "1740–1793, master 1766",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Bazille Paul-David",
+    "Artist Nationality": " ",
+    "Artist Begin Date": 1740,
+    "Artist End Date": 1793,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500057468",
+    "Artist Wikidata URL": null,
+    "Object Date": "1773–74",
+    "Object Begin Date": 1773,
+    "Object End Date": 1774,
+    "Medium": "Silver",
+    "Dimensions": "Overall: 1 × 8 7/8 × 9 in. (2.5 × 22.5 × 22.9 cm)",
+    "Credit Line": "Bequest of Catherine D. Wentworth, 1948",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Metalwork-Silver",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/200308",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Birds|Coat of Arms",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300266506|http://vocab.getty.edu/page/aat/300126352",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q5113|https://www.wikidata.org/wiki/Q14659"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/164440.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/143644.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/143646.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/143647.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 34476,
+        "role": "Maker",
+        "name": "Paul-David Bazille",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500057468",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 22.860046,
+          "Height": 2.540005,
+          "Width": 22.542545
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Birds",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300266506",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q5113"
+      },
+      {
+        "term": "Coat of Arms",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300126352",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q14659"
+      }
+    ]
+  }
+}

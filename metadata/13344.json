@@ -1,0 +1,109 @@
+{
+  "object_id": 13344,
+  "excel_metadata": {
+    "Object Number": "84.12c",
+    "Is Highlight": true,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 13344,
+    "Gallery Number": 762.0,
+    "Department": "The American Wing",
+    "AccessionYear": 1884.0,
+    "Object Name": "Painting",
+    "Title": "A Bit of War History: The Veteran",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16275.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Thomas Waterman Wood",
+    "Artist Display Bio": "American, Montpelier, Vermont 1823–1903 New York",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Wood, Thomas Waterman",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1823",
+    "Artist End Date": "1903",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500017367",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q7794913",
+    "Object Date": "1866",
+    "Object Begin Date": 1866,
+    "Object End Date": 1866,
+    "Medium": "Oil on canvas",
+    "Dimensions": "28 1/4 x 20 1/4 in. (71.8 x 51.4 cm)\r\n(framed with 84.12a and 84.12b)",
+    "Credit Line": "Gift of Charles Stewart Smith, 1884",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/13344",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20169687",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Soldiers|Men|American Civil War",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300185678|http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/ia/901000030",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q4991371|https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q8676"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DT2078.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162757,
+        "role": "Artist",
+        "name": "Thomas Waterman Wood",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500017367",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q7794913",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 71.8,
+          "Width": 51.4
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 10.8,
+          "Height": 109,
+          "Width": 182.9
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Soldiers",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300185678",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q4991371"
+      },
+      {
+        "term": "American Civil War",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000030",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8676"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      }
+    ]
+  }
+}

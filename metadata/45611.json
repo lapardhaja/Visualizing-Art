@@ -1,0 +1,86 @@
+{
+  "object_id": 45611,
+  "excel_metadata": {
+    "Object Number": "X.87a, b",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 45611,
+    "Gallery Number": NaN,
+    "Department": "Asian Art",
+    "AccessionYear": NaN,
+    "Object Name": "Paintings",
+    "Title": "十二天像|Twelve Deva Kings (Jūniten)",
+    "Culture": "Japan",
+    "Period": "Muromachi period (1392–1573)",
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": NaN,
+    "Artist Role": NaN,
+    "Artist Prefix": NaN,
+    "Artist Display Name": NaN,
+    "Artist Display Bio": NaN,
+    "Artist Suffix": NaN,
+    "Artist Alpha Sort": NaN,
+    "Artist Nationality": NaN,
+    "Artist Begin Date": NaN,
+    "Artist End Date": NaN,
+    "Artist Gender": NaN,
+    "Artist ULAN URL": NaN,
+    "Artist Wikidata URL": NaN,
+    "Object Date": "16th century",
+    "Object Begin Date": 1500,
+    "Object End Date": 1599,
+    "Medium": "Pair of framed paintings; ink, color, and gold on silk",
+    "Dimensions": "Image: 26 1/2 x 16 3/4 in. (67.3 x 42.5 cm)\r\nFramed (each): 47 3/8 × 23 1/4 in. (120.3 × 59.1 cm)",
+    "Credit Line": "Museum Accession",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/45611",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q78846479",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": NaN,
+    "Tags AAT URL": NaN,
+    "Tags Wikidata URL": NaN
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/as/original/DP215116.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/as/original/DP215117.jpg"
+    ],
+    "constituents": null,
+    "measurements": [
+      {
+        "elementName": "Image",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 67.3101,
+          "Width": 42.5451
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": "each",
+        "elementMeasurements": {
+          "Depth": 3.1750064,
+          "Height": 120.33274,
+          "Width": 59.05512
+        }
+      }
+    ],
+    "tags": null
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "object_id": 236986,
+  "excel_metadata": {
+    "Object Number": "2010.110.4",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 236986,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 2010,
+    "Object Name": "Footed beaker",
+    "Title": "Footed beaker",
+    "Culture": "Hungarian, Nagyszeben",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 4586,
+    "Artist Role": "Maker",
+    "Artist Prefix": "Attributed to",
+    "Artist Display Name": "Paulus Brölfft",
+    "Artist Display Bio": "active 1574–1602",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Brölfft, Paulus",
+    "Artist Nationality": " ",
+    "Artist Begin Date": 1525,
+    "Artist End Date": 1625,
+    "Artist Gender": null,
+    "Artist ULAN URL": null,
+    "Artist Wikidata URL": null,
+    "Object Date": "second half 16th century",
+    "Object Begin Date": 1550,
+    "Object End Date": 1599,
+    "Medium": "Silver, partially gilded",
+    "Dimensions": "Overall: 7 15/16 x 3 1/4 in. (20.2 x 8.2 cm)",
+    "Credit Line": "Gift of The Salgo Trust for Education, New York, in memory of Nicolas M. Salgo, 2010",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Metalwork-Silver",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/236986",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q96162089",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": null,
+    "Tags AAT URL": null,
+    "Tags Wikidata URL": null
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP339138.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/DP344746.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 45864,
+        "role": "Maker",
+        "name": "Attributed to Paulus Brölfft",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 20.2,
+          "Width": 8.2
+        }
+      }
+    ],
+    "tags": null
+  }
+}

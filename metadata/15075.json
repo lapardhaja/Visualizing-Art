@@ -1,0 +1,108 @@
+{
+  "object_id": 15075,
+  "excel_metadata": {
+    "Object Number": "2006.235.298",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 15075,
+    "Gallery Number": NaN,
+    "Department": "The American Wing",
+    "AccessionYear": 2006.0,
+    "Object Name": "Painting, miniature",
+    "Title": "The Magdalen",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 256616230.0,
+    "Artist Role": "Artist|Artist",
+    "Artist Prefix": " |After",
+    "Artist Display Name": "Anne Hall|Guido Reni",
+    "Artist Display Bio": "1792–1863|Italian, Bologna 1575–1642 Bologna",
+    "Artist Suffix": " | ",
+    "Artist Alpha Sort": "Hall, Anne|Reni, Guido",
+    "Artist Nationality": "American|Italian",
+    "Artist Begin Date": "1792      |1575      ",
+    "Artist End Date": "1863      |1642      ",
+    "Artist Gender": "Female|",
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500001614|http://vocab.getty.edu/page/ulan/500030334",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q17423465|https://www.wikidata.org/wiki/Q109061",
+    "Object Date": "ca. 1830",
+    "Object Begin Date": 1827,
+    "Object End Date": 1833,
+    "Medium": "Watercolor on ivory",
+    "Dimensions": "3 11/16 x 3 3/4 in. (9.4 x 9.5 cm)",
+    "Credit Line": "Gift of Gloria Manney, 2006",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/15075",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19924539",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Portraits|Women|Mary Magdalene",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/ia/901000161",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q63070"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/APS6907.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 2566,
+        "role": "Artist",
+        "name": "Anne Hall",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500001614",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q17423465",
+        "gender": "Female"
+      },
+      {
+        "constituentID": 162301,
+        "role": "Artist",
+        "name": "After Guido Reni",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500030334",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q109061",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 9.4,
+          "Width": 9.5
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Mary Magdalene",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000161",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q63070"
+      }
+    ]
+  }
+}

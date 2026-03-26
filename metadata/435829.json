@@ -1,0 +1,112 @@
+{
+  "object_id": 435829,
+  "excel_metadata": {
+    "Object Number": "65.258.1",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 435829,
+    "Gallery Number": 800.0,
+    "Department": "European Paintings",
+    "AccessionYear": 1965.0,
+    "Object Name": "Painting",
+    "Title": "Echo",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16423.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Alexandre Cabanel",
+    "Artist Display Bio": "French, Montpellier 1823–1889 Paris",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Cabanel, Alexandre",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1823",
+    "Artist End Date": "1889",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500004789",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q310437",
+    "Object Date": "1874",
+    "Object Begin Date": 1874,
+    "Object End Date": 1874,
+    "Medium": "Oil on canvas",
+    "Dimensions": "38 1/2 x 26 1/4 in. (97.8 x 66.7 cm)",
+    "Credit Line": "Gift of Mary Phelps Smith, in memory of her husband, Howard Caswell Smith, 1965",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/435829",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19913204",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Nymphs|Female Nudes",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300379159|http://vocab.getty.edu/page/aat/300189568",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q373916|https://www.wikidata.org/wiki/Q40446"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP208016.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 164238,
+        "role": "Artist",
+        "name": "Alexandre Cabanel",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500004789",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q310437",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 6.985,
+          "Height": 114.9352,
+          "Width": 83.8202
+        }
+      },
+      {
+        "elementName": "Glazing",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 99.21895,
+          "Width": 68.262634
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 97.8,
+          "Width": 66.7
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Female Nudes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300189568",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q40446"
+      },
+      {
+        "term": "Nymphs",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379159",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q373916"
+      }
+    ]
+  }
+}

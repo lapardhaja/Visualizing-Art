@@ -1,0 +1,111 @@
+{
+  "object_id": 436945,
+  "excel_metadata": {
+    "Object Number": "29.100.53",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 436945,
+    "Gallery Number": 810.0,
+    "Department": "European Paintings",
+    "AccessionYear": 1929.0,
+    "Object Name": "Painting",
+    "Title": "Mademoiselle V. . . in the Costume of an Espada",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16209.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Edouard Manet",
+    "Artist Display Bio": "French, Paris 1832–1883 Paris",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Manet, Edouard",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1832",
+    "Artist End Date": "1883",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500010363",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q40599",
+    "Object Date": "1862",
+    "Object Begin Date": 1862,
+    "Object End Date": 1862,
+    "Medium": "Oil on canvas",
+    "Dimensions": "65 x 50 1/4 in. (165.1 x 127.6 cm)",
+    "Credit Line": "H. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436945",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q72650",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Women|Bulls|Horses",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/aat/300250117|http://vocab.getty.edu/page/aat/300250148",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q693690|https://www.wikidata.org/wiki/Q726"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-25649-001.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-29_100_53-xray.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 162094,
+        "role": "Artist",
+        "name": "Edouard Manet",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500010363",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q40599",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 165.1,
+          "Width": 127.6
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 12.7,
+          "Height": 193.0404,
+          "Width": 157.4803
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Bulls",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250117",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q693690"
+      },
+      {
+        "term": "Horses",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250148",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q726"
+      }
+    ]
+  }
+}

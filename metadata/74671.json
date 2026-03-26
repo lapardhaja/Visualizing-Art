@@ -1,0 +1,91 @@
+{
+  "object_id": 74671,
+  "excel_metadata": {
+    "Object Number": "2008.359.19",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 74671,
+    "Gallery Number": NaN,
+    "Department": "Asian Art",
+    "AccessionYear": 2008.0,
+    "Object Name": "Painting",
+    "Title": NaN,
+    "Culture": "India (Pahari Hills)",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": NaN,
+    "Artist Role": NaN,
+    "Artist Prefix": NaN,
+    "Artist Display Name": NaN,
+    "Artist Display Bio": NaN,
+    "Artist Suffix": NaN,
+    "Artist Alpha Sort": NaN,
+    "Artist Nationality": NaN,
+    "Artist Begin Date": NaN,
+    "Artist End Date": NaN,
+    "Artist Gender": NaN,
+    "Artist ULAN URL": NaN,
+    "Artist Wikidata URL": NaN,
+    "Object Date": "early 19th century",
+    "Object Begin Date": 1800,
+    "Object End Date": 1833,
+    "Medium": "Ink and translucent watercolor on paper",
+    "Dimensions": "Image (sight): 4 1/4 x 4 5/8 in. (10.8 x 11.7 cm)\r\nFramed: 16 x 20 in. (40.6 x 50.8 cm)",
+    "Credit Line": "Gift of Subhash Kapoor, in memory of his parents, Smt Shashi Kanta and Shree Parshotam Ram Kapoor, 2008",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/74671",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q78709696",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Animals",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300249525",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q729"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/as/original/DP166086.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/as/original/LC-2008_359_19_002.jpg"
+    ],
+    "constituents": null,
+    "measurements": [
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 40.6401,
+          "Width": 50.8001
+        }
+      },
+      {
+        "elementName": "Image",
+        "elementDescription": "sight",
+        "elementMeasurements": {
+          "Height": 10.795,
+          "Width": 11.7475
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Animals",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300249525",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q729"
+      }
+    ]
+  }
+}

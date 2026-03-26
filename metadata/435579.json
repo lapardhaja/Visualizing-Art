@@ -1,0 +1,120 @@
+{
+  "object_id": 435579,
+  "excel_metadata": {
+    "Object Number": "24.22",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 435579,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1924.0,
+    "Object Name": "Painting",
+    "Title": "The Nativity",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16248.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Zanobi Strozzi",
+    "Artist Display Bio": "Italian, Florence 1412–1468 Florence",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Strozzi, Zanobi",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1412",
+    "Artist End Date": "1468",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500003966",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q1284002",
+    "Object Date": NaN,
+    "Object Begin Date": 1417,
+    "Object End Date": 1455,
+    "Medium": "Tempera and gold on wood",
+    "Dimensions": "Overall, with engaged frame, 15 1/4 x 11 1/2 in. (38.7 x 29.2 cm); painted surface 13 x 9 1/8 in. (33 x 23.2 cm)",
+    "Credit Line": "Rogers Fund, 1924",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/435579",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912359",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Jesus|Nativity|Cows|Donkeys|Angels|Joseph|Virgin Mary",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901000087|http://vocab.getty.edu/page/ia/901000124|http://vocab.getty.edu/page/aat/300250120|http://vocab.getty.edu/page/aat/300265959|http://vocab.getty.edu/page/aat/300379004|http://vocab.getty.edu/page/ia/901000953|http://vocab.getty.edu/page/ia/901000032",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q302|https://www.wikidata.org/wiki/Q51628|https://www.wikidata.org/wiki/Q830|https://www.wikidata.org/wiki/Q3537778|https://www.wikidata.org/wiki/Q235113|https://www.wikidata.org/wiki/Q128267|https://www.wikidata.org/wiki/Q345"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP369867.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162488,
+        "role": "Artist",
+        "name": "Zanobi Strozzi",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500003966",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1284002",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 38.7,
+          "Width": 29.2
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Cows",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250120",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q830"
+      },
+      {
+        "term": "Donkeys",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300265959",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3537778"
+      },
+      {
+        "term": "Angels",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379004",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q235113"
+      },
+      {
+        "term": "Virgin Mary",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000032",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q345"
+      },
+      {
+        "term": "Jesus",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q302"
+      },
+      {
+        "term": "Nativity",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000124",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q51628"
+      },
+      {
+        "term": "Joseph",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000953",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q128267"
+      }
+    ]
+  }
+}

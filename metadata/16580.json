@@ -1,0 +1,118 @@
+{
+  "object_id": 16580,
+  "excel_metadata": {
+    "Object Number": "1999.143",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 16580,
+    "Gallery Number": 773.0,
+    "Department": "The American Wing",
+    "AccessionYear": 1999.0,
+    "Object Name": "Painting",
+    "Title": "Women's Art Class",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 267.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Louis Lang",
+    "Artist Display Bio": "American, Bad Waldsee, Germany 1814–1893 New York",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Lang, Louis",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1814",
+    "Artist End Date": "1893",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500007910",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q6687620",
+    "Object Date": "ca. 1868",
+    "Object Begin Date": 1868,
+    "Object End Date": 1868,
+    "Medium": "Oil on canvas",
+    "Dimensions": "26 7/8 x 23 1/4 in. (68.3 x 59.1 cm)",
+    "Credit Line": "Morris K. Jesup Fund, 1999",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/16580",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19924736",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Interiors|Painting|Women|Students",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300391239|http://vocab.getty.edu/page/aat/300054216|http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/aat/300025909",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q2998430|https://www.wikidata.org/wiki/Q11629|https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q48282"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DP-19092-001.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ad/original/DP-19092-002.jpg",
+      "https://images.metmuseum.org/CRDImages/ad/original/61DCAT02R5.jpg",
+      "https://images.metmuseum.org/CRDImages/ad/original/APS2451.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 2677,
+        "role": "Artist",
+        "name": "Louis Lang",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500007910",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q6687620",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 9.2075,
+          "Height": 85.4077,
+          "Width": 76.2002
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 68.2626,
+          "Width": 59.0551
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Painting",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300054216",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q11629"
+      },
+      {
+        "term": "Interiors",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300391239",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q2998430"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Students",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025909",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q48282"
+      }
+    ]
+  }
+}

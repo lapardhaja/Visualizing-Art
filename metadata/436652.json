@@ -1,0 +1,100 @@
+{
+  "object_id": 436652,
+  "excel_metadata": {
+    "Object Number": "14.40.614",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 436652,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1914.0,
+    "Object Name": "Painting",
+    "Title": "Entrance to a Village",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10779.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Meyndert Hobbema",
+    "Artist Display Bio": "Dutch, Amsterdam 1638–1709 Amsterdam",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Hobbema, Meyndert",
+    "Artist Nationality": "Dutch",
+    "Artist Begin Date": "1638",
+    "Artist End Date": "1709",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500029015",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q336908",
+    "Object Date": "ca. 1665",
+    "Object Begin Date": 1660,
+    "Object End Date": 1670,
+    "Medium": "Oil on wood",
+    "Dimensions": "29 1/2 x 43 3/8 in. (74.9 x 110.2 cm)",
+    "Credit Line": "Bequest of Benjamin Altman, 1913",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436652",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19905167",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Houses|Villages|Landscapes",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300005433|http://vocab.getty.edu/page/aat/300008372|http://vocab.getty.edu/page/aat/300132294",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q3947|https://www.wikidata.org/wiki/Q532|https://www.wikidata.org/wiki/Q191163"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP146444.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 107790,
+        "role": "Artist",
+        "name": "Meyndert Hobbema",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500029015",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q336908",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 74.9,
+          "Width": 110.2
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Houses",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300005433",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3947"
+      },
+      {
+        "term": "Villages",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300008372",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q532"
+      },
+      {
+        "term": "Landscapes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+      }
+    ]
+  }
+}

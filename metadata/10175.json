@@ -1,0 +1,106 @@
+{
+  "object_id": 10175,
+  "excel_metadata": {
+    "Object Number": "16.68.3",
+    "Is Highlight": true,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 10175,
+    "Gallery Number": 774.0,
+    "Department": "The American Wing",
+    "AccessionYear": 1916.0,
+    "Object Name": "Painting",
+    "Title": "Mrs. David Chesebrough",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 234.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Joseph Blackburn",
+    "Artist Display Bio": "active 1752–ca. 1778",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Blackburn, Joseph",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1715",
+    "Artist End Date": "1815",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500021703",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q3184614",
+    "Object Date": "1754",
+    "Object Begin Date": 1754,
+    "Object End Date": 1754,
+    "Medium": "Oil on canvas",
+    "Dimensions": "49 7/8 x 40 1/8 in. (126.7 x 101.9 cm)",
+    "Credit Line": "Gift of Sylvester Dering, 1916",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/10175",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20170899",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Portraits|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/ap16.68.3.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ad/original/DT262021.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 2346,
+        "role": "Artist",
+        "name": "Joseph Blackburn",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500021703",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3184614",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 126.7,
+          "Width": 101.9
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 6.8,
+          "Height": 147.7,
+          "Width": 122.3
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

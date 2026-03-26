@@ -1,0 +1,94 @@
+{
+  "object_id": 237745,
+  "excel_metadata": {
+    "Object Number": 2010.71,
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 237745,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 2010,
+    "Object Name": "Statuette",
+    "Title": "Crouching Flora",
+    "Culture": "French, Paris",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 16334,
+    "Artist Role": "Maker",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Jean-Baptiste Carpeaux",
+    "Artist Display Bio": "French, Valenciennes 1827–1875 Courbevoie",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Carpeaux, Jean-Baptiste",
+    "Artist Nationality": "French",
+    "Artist Begin Date": 1827,
+    "Artist End Date": 1875,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500115348",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q182791",
+    "Object Date": "ca. 1863",
+    "Object Begin Date": 1858,
+    "Object End Date": 1868,
+    "Medium": "Terracotta",
+    "Dimensions": "Overall: 8 1/2 x 3 3/4 x 4 1/4 in. (21.6 x 9.5 x 10.8 cm)",
+    "Credit Line": "Purchase, Assunta Sommella Peluso, Ignazio Peluso, Ada Peluso and Romano I. Peluso Gift, 2010",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Sculpture",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/237745",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Female Nudes",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300189568",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q40446"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP311987.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/DP311989.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP311988.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 163344,
+        "role": "Maker",
+        "name": "Jean-Baptiste Carpeaux",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115348",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q182791",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 10.795022,
+          "Height": 21.590044,
+          "Width": 9.525019
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Female Nudes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300189568",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q40446"
+      }
+    ]
+  }
+}

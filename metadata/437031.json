@@ -1,0 +1,100 @@
+{
+  "object_id": 437031,
+  "excel_metadata": {
+    "Object Number": "32.100.87",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437031,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1932.0,
+    "Object Name": "Painting",
+    "Title": "Madonna and Child Enthroned with Saints James Minor and Lucy",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10874.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Marco di Paolo Veneziano",
+    "Artist Display Bio": "Italian, Venetian, active 1362–90",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Marco di Paolo Veneziano",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1362",
+    "Artist End Date": "1390",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500329869",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q98687170",
+    "Object Date": NaN,
+    "Object Begin Date": 1362,
+    "Object End Date": 1390,
+    "Medium": "Tempera on wood, gold ground",
+    "Dimensions": "12 1/4 x 17 1/4 in. (31.1 x 43.8 cm)",
+    "Credit Line": "The Friedsam Collection, Bequest of Michael Friedsam, 1931",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437031",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912249",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Madonna and Child|Saints|Virgin Mary",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901000052|http://vocab.getty.edu/page/aat/300150555|http://vocab.getty.edu/page/ia/901000032",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q9309699|https://www.wikidata.org/wiki/Q43115|https://www.wikidata.org/wiki/Q345"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/ep32.100.87.bw.R.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 108742,
+        "role": "Artist",
+        "name": "Marco di Paolo Veneziano",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500329869",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q98687170",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 31.1,
+          "Width": 43.8
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Madonna and Child",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000052",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q9309699"
+      },
+      {
+        "term": "Virgin Mary",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000032",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q345"
+      },
+      {
+        "term": "Saints",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300150555",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q43115"
+      }
+    ]
+  }
+}

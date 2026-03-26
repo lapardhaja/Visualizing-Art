@@ -1,0 +1,117 @@
+{
+  "object_id": 437526,
+  "excel_metadata": {
+    "Object Number": "1990.196",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 437526,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1990.0,
+    "Object Name": "Painting",
+    "Title": "A Forest at Dawn with a Deer Hunt",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16235.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Peter Paul Rubens",
+    "Artist Display Bio": "Flemish, Siegen 1577–1640 Antwerp",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Rubens, Peter Paul",
+    "Artist Nationality": "Flemish",
+    "Artist Begin Date": "1577",
+    "Artist End Date": "1640",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500002921",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q5599",
+    "Object Date": "ca. 1635",
+    "Object Begin Date": 1630,
+    "Object End Date": 1640,
+    "Medium": "Oil on wood",
+    "Dimensions": "24 1/4 x 35 1/2 in. (61.5 x 90.2 cm)",
+    "Credit Line": "Purchase, The Annenberg Foundation, Mrs. Charles Wrightsman, Michel David-Weill, The Dillon Fund, Henry J. and Drue Heinz Foundation, Lola Kramarsky, Annette de la Renta, Mr. and Mrs. Arthur Ochs Sulzberger, The Vincent Astor Foundation, and Peter J. Sharp Gifts; special funds, gifts, and other gifts and bequests, by exchange, 1990",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437526",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20167163",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Hunting|Deer|Forests|Dawn",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300239666|http://vocab.getty.edu/page/aat/300250308|http://vocab.getty.edu/page/aat/300387598|http://vocab.getty.edu/page/aat/300343621",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q36963|https://www.wikidata.org/wiki/Q685795|https://www.wikidata.org/wiki/Q4421|https://www.wikidata.org/wiki/Q11326182"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-25739-001.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-1990_196-2.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-1990_196-3.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 162350,
+        "role": "Artist",
+        "name": "Peter Paul Rubens",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500002921",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5599",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 61.6,
+          "Width": 90.2
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 7.62,
+          "Height": 78.7402,
+          "Width": 106.6802
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Hunting",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300239666",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q36963"
+      },
+      {
+        "term": "Deer",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250308",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q685795"
+      },
+      {
+        "term": "Forests",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300387598",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q4421"
+      },
+      {
+        "term": "Dawn",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300343621",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q11326182"
+      }
+    ]
+  }
+}

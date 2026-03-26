@@ -1,0 +1,100 @@
+{
+  "object_id": 467785,
+  "excel_metadata": {
+    "Object Number": "41.100.212",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 467785,
+    "Gallery Number": null,
+    "Department": "Medieval Art",
+    "AccessionYear": 1941,
+    "Object Name": "Plaque",
+    "Title": "Plaque with St. Martin and the Beggar",
+    "Culture": "French",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": null,
+    "Artist Role": null,
+    "Artist Prefix": null,
+    "Artist Display Name": null,
+    "Artist Display Bio": null,
+    "Artist Suffix": null,
+    "Artist Alpha Sort": null,
+    "Artist Nationality": null,
+    "Artist Begin Date": null,
+    "Artist End Date": null,
+    "Artist Gender": null,
+    "Artist ULAN URL": null,
+    "Artist Wikidata URL": null,
+    "Object Date": "16th century",
+    "Object Begin Date": 1500,
+    "Object End Date": 1599,
+    "Medium": "Painted enamel, copper",
+    "Dimensions": "Overall (with fame): 10 1/2 x 10 3/8 x 9/16 in. (26.7 x 26.3 x 1.5 cm)_x000D_\nwithout frame: 8 1/16 x 7 15/16 in. (20.4 x 20.2 cm)",
+    "Credit Line": "Gift of George Blumenthal, 1941",
+    "Geography Type": "Made in",
+    "City": "Limoges",
+    "State": null,
+    "County": null,
+    "Country": "France",
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Enamels-Painted",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/467785",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Swords|Men|Saints",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300037048|http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300150555",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q12791|https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q43115"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/md/original/sf41-100-212s1.jpg",
+    "additionalImages": [],
+    "constituents": null,
+    "measurements": [
+      {
+        "elementName": "Other",
+        "elementDescription": "without frame",
+        "elementMeasurements": {
+          "Height": 20.4,
+          "Width": 20.2
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": "with fame",
+        "elementMeasurements": {
+          "Depth": 1.5,
+          "Height": 26.7,
+          "Width": 26.3
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Swords",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300037048",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q12791"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Saints",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300150555",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q43115"
+      }
+    ]
+  }
+}

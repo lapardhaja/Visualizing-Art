@@ -1,0 +1,100 @@
+{
+  "object_id": 436817,
+  "excel_metadata": {
+    "Object Number": "1983.452",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 436817,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1983.0,
+    "Object Name": "Painting",
+    "Title": "A Mountainous Landscape with a Waterfall",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10785.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Kerstiaen de Keuninck",
+    "Artist Display Bio": "Flemish, Kortrijk ca. 1560–1632/33 Antwerp",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Keuninck, Kerstiaen de",
+    "Artist Nationality": "Flemish",
+    "Artist Begin Date": "1560",
+    "Artist End Date": "1633",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500021933",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q3195528",
+    "Object Date": "ca. 1600",
+    "Object Begin Date": 1595,
+    "Object End Date": 1605,
+    "Medium": "Oil on wood",
+    "Dimensions": "27 1/4 x 48 in. (69.2 x 121.9 cm)",
+    "Credit Line": "Purchase, Anonymous Gift, L. H. P. Klotz and George T. Delacorte Jr. Gifts; Rogers, Marquand, Charles B. Curtis, and The Alfred N. Punnett Endowment Funds; and Gift of Eugen Boross and Bequest of Collis P. Huntington, by exchange, 1983",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436817",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19911943",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Waterfalls|Mountains|Landscapes",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300008736|http://vocab.getty.edu/page/aat/300008795|http://vocab.getty.edu/page/aat/300132294",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q34038|https://www.wikidata.org/wiki/Q8502|https://www.wikidata.org/wiki/Q191163"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-25738-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 107857,
+        "role": "Artist",
+        "name": "Kerstiaen de Keuninck",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500021933",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3195528",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 69.2,
+          "Width": 121.9
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Waterfalls",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300008736",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q34038"
+      },
+      {
+        "term": "Mountains",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300008795",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8502"
+      },
+      {
+        "term": "Landscapes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+      }
+    ]
+  }
+}

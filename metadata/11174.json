@@ -1,0 +1,104 @@
+{
+  "object_id": 11174,
+  "excel_metadata": {
+    "Object Number": "36.99",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 11174,
+    "Gallery Number": NaN,
+    "Department": "The American Wing",
+    "AccessionYear": 1936.0,
+    "Object Name": "Painting",
+    "Title": "The Bathers",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16458.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "William Morris Hunt",
+    "Artist Display Bio": "American, Brattleboro, Vermont 1824–1879 Appledore, New Hampshire",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Hunt, William Morris",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1824",
+    "Artist End Date": "1879",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500007307",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q527599",
+    "Object Date": "1877",
+    "Object Begin Date": 1877,
+    "Object End Date": 1877,
+    "Medium": "Oil on canvas",
+    "Dimensions": "38 x 25 in. (96.5 x 63.5 cm)",
+    "Credit Line": "Morris K. Jesup Fund, 1936",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/11174",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20174642",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Male Nudes|Bathing",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300189568|http://vocab.getty.edu/page/aat/300343854",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q40446|https://www.wikidata.org/wiki/Q327651"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/ap36.99.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 164585,
+        "role": "Artist",
+        "name": "William Morris Hunt",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500007307",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q527599",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 96.5,
+          "Width": 63.5
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 17,
+          "Height": 127,
+          "Width": 96
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Male Nudes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300189568",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q40446"
+      },
+      {
+        "term": "Bathing",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300343854",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q327651"
+      }
+    ]
+  }
+}

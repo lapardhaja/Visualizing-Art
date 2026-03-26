@@ -1,0 +1,128 @@
+{
+  "object_id": 13171,
+  "excel_metadata": {
+    "Object Number": "15.30.68",
+    "Is Highlight": true,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 13171,
+    "Gallery Number": 766.0,
+    "Department": "The American Wing",
+    "AccessionYear": 1915.0,
+    "Object Name": "Painting",
+    "Title": "The Rajah Starting on a Hunt",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16511.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Edwin Lord Weeks",
+    "Artist Display Bio": "American, Boston, Massachusetts 1849–1903 Paris",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Weeks, Edwin Lord",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1849",
+    "Artist End Date": "1903",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500023842",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q3735411",
+    "Object Date": "ca. 1885",
+    "Object Begin Date": 1885,
+    "Object End Date": 1885,
+    "Medium": "Oil on canvas.",
+    "Dimensions": "39 9/16 x 32 in. (100.5 x 81.3 cm)",
+    "Credit Line": "Bequest of Maria DeWitt Jesup, from the collection of her husband, Morris K. Jesup, 1914",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/13171",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19924464",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Birds|Palaces|Men|Leopards|Horses",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300266506|http://vocab.getty.edu/page/aat/300005734|http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300310390|http://vocab.getty.edu/page/aat/300250148",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q5113|https://www.wikidata.org/wiki/Q16560|https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q34706|https://www.wikidata.org/wiki/Q726"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/ADA3826.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 165115,
+        "role": "Artist",
+        "name": "Edwin Lord Weeks",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500023842",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3735411",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 7.620015,
+          "Height": 124.142746,
+          "Width": 104.77521
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 100.5,
+          "Width": 81.3
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": "second / travel frame",
+        "elementMeasurements": {
+          "Depth": 8.89,
+          "Height": 118.4277,
+          "Width": 99.5364
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Birds",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300266506",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q5113"
+      },
+      {
+        "term": "Palaces",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300005734",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q16560"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Horses",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250148",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q726"
+      },
+      {
+        "term": "Leopards",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300310390",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q34706"
+      }
+    ]
+  }
+}

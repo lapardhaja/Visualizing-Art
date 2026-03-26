@@ -1,0 +1,101 @@
+{
+  "object_id": 51529,
+  "excel_metadata": {
+    "Object Number": "18.124.7",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": false,
+    "Object ID": 51529,
+    "Gallery Number": NaN,
+    "Department": "Asian Art",
+    "AccessionYear": 1918.0,
+    "Object Name": "Painting",
+    "Title": NaN,
+    "Culture": "China",
+    "Period": "Ming (1368–1644) or Qing (1644–1911) dynasty",
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 375021557.0,
+    "Artist Role": "Artist|Artist",
+    "Artist Prefix": " |Formerly Attributed to",
+    "Artist Display Name": "Unidentified artist|Chen Rong",
+    "Artist Display Bio": " |active 1235–62",
+    "Artist Suffix": "Chinese, 16th century| ",
+    "Artist Alpha Sort": "Unidentified artist|Chen Rong",
+    "Artist Nationality": " |Chinese",
+    "Artist Begin Date": "          |1235      ",
+    "Artist End Date": "          |1262      ",
+    "Artist Gender": "|",
+    "Artist ULAN URL": "|http://vocab.getty.edu/page/ulan/500125632",
+    "Artist Wikidata URL": "|https://www.wikidata.org/wiki/Q2739948",
+    "Object Date": NaN,
+    "Object Begin Date": 1368,
+    "Object End Date": 1911,
+    "Medium": "Framed painting; ink and color on paper",
+    "Dimensions": "35 3/8 x 70 3/8 in. (89.9 x 178.8 cm)",
+    "Credit Line": "Rogers Fund, 1918",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/51529",
+    "Object Wikidata URL": NaN,
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": NaN,
+    "Tags AAT URL": NaN,
+    "Tags Wikidata URL": NaN
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/as/original/LC-18_124_7-002.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 37502,
+        "role": "Artist",
+        "name": "Unidentified artist",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      },
+      {
+        "constituentID": 15577,
+        "role": "Artist",
+        "name": "Formerly Attributed to Chen Rong",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500125632",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q2739948",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 89.9,
+          "Width": 178.8
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 4.4450088,
+          "Height": 212.09042,
+          "Width": 112.395226
+        }
+      }
+    ],
+    "tags": null
+  }
+}

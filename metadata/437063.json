@@ -1,0 +1,107 @@
+{
+  "object_id": 437063,
+  "excel_metadata": {
+    "Object Number": "43.98.6",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 437063,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1943.0,
+    "Object Name": "Painting",
+    "Title": "Madonna and Child with Saints and Angels",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10802.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Lippo Memmi (Filippo di Memmo)",
+    "Artist Display Bio": "Italian, Sienese, active by 1317–died 1356",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Memmi, Lippo (Filippo di Memmo)",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1317",
+    "Artist End Date": "1356",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500031555",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q504963",
+    "Object Date": "ca. 1350",
+    "Object Begin Date": 1345,
+    "Object End Date": 1355,
+    "Medium": "Tempera on wood, gold ground",
+    "Dimensions": "Overall, with shaped top and engaged (partially modern) frame, 26 1/4 x 13 in. (66.7 x 33 cm); painted surface 19 3/4 x 10 1/8 in. (50.2 x 25.7 cm); predella 1 1/2 x 10 in. (3.8 x 25.4 cm)",
+    "Credit Line": "Maitland F. Griggs Collection, Bequest of Maitland F. Griggs, 1943",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437063",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19905469",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Madonna and Child|Saint Francis|Saint John the Baptist|Angels",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901000052|http://vocab.getty.edu/page/ulan/500349636|http://vocab.getty.edu/page/ia/901001056|http://vocab.getty.edu/page/aat/300379004",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q9309699|https://www.wikidata.org/wiki/Q676555|https://www.wikidata.org/wiki/Q40662|https://www.wikidata.org/wiki/Q235113"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP367960.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/DP367961.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 108029,
+        "role": "Artist",
+        "name": "Lippo Memmi (Filippo di Memmo)",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500031555",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q504963",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 66.7,
+          "Width": 33
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Angels",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379004",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q235113"
+      },
+      {
+        "term": "Madonna and Child",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000052",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q9309699"
+      },
+      {
+        "term": "Saint Francis",
+        "AAT_URL": "http://vocab.getty.edu/page/ulan/500349636",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q676555"
+      },
+      {
+        "term": "Saint John the Baptist",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901001056",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q40662"
+      }
+    ]
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "object_id": 12796,
+  "excel_metadata": {
+    "Object Number": "99.28",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 12796,
+    "Gallery Number": NaN,
+    "Department": "The American Wing",
+    "AccessionYear": 1899.0,
+    "Object Name": "Painting",
+    "Title": "Old Bruton Church, Williamsburg, Virginia, in the Time of Lord Dunmore",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 295.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Alfred Wordsworth Thompson",
+    "Artist Display Bio": "American, Baltimore, Maryland 1840–1896 Summit, New Jersey",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Thompson, Alfred Wordsworth",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1840",
+    "Artist End Date": "1896",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500003027",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q21994015",
+    "Object Date": "1893",
+    "Object Begin Date": 1893,
+    "Object End Date": 1893,
+    "Medium": "Oil on canvas",
+    "Dimensions": "18 x 27 1/8 in. (45.7 x 68.9 cm)",
+    "Credit Line": "Gift of Mrs. A. Wordsworth Thompson, 1899",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/12796",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19925377",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Churches|Carriages|Men|Women|Horses",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300007466|http://vocab.getty.edu/page/aat/300185335|http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/aat/300250148",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q16970|https://www.wikidata.org/wiki/Q235356|https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q726"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DT207462.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 2955,
+        "role": "Artist",
+        "name": "Alfred Wordsworth Thompson",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500003027",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q21994015",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 15.2,
+          "Height": 80,
+          "Width": 103.2
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 45.7,
+          "Width": 68.9
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Churches",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300007466",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q16970"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Horses",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250148",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q726"
+      },
+      {
+        "term": "Carriages",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300185335",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q235356"
+      }
+    ]
+  }
+}

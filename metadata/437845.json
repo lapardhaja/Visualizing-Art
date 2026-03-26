@@ -1,0 +1,120 @@
+{
+  "object_id": 437845,
+  "excel_metadata": {
+    "Object Number": "07.225.285",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437845,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1907.0,
+    "Object Name": "Painting, study for a tapestry cartoon",
+    "Title": "The Triumph of Mordecai",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16356.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Jean François de Troy",
+    "Artist Display Bio": "French, Paris 1679–1752 Rome",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Troy, Jean François de",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1679",
+    "Artist End Date": "1752",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500022010",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q707729",
+    "Object Date": "ca. 1736",
+    "Object Begin Date": 1731,
+    "Object End Date": 1741,
+    "Medium": "Oil on canvas",
+    "Dimensions": "33 5/8 x 59 1/4 in. (86 x 150.2 cm)\r\n",
+    "Credit Line": "Gift of J. Pierpont Morgan, 1906",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437845",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19906105",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Women|Horses",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/aat/300250148",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q726"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-14284-001.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-07_225_285-2.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-07_225_285-3.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 163563,
+        "role": "Artist",
+        "name": "Jean François de Troy",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500022010",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q707729",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Rabbet",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 59.69012,
+          "Width": 131.8
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 14.605029,
+          "Height": 85.4,
+          "Width": 150.4953
+        }
+      },
+      {
+        "elementName": "Opening",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 56.0387,
+          "Width": 128.6
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Horses",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250148",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q726"
+      }
+    ]
+  }
+}

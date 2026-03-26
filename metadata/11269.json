@@ -1,0 +1,114 @@
+{
+  "object_id": 11269,
+  "excel_metadata": {
+    "Object Number": "65.254.3",
+    "Is Highlight": true,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 11269,
+    "Gallery Number": 751.0,
+    "Department": "The American Wing",
+    "AccessionYear": 1965.0,
+    "Object Name": "Painting",
+    "Title": "Edward and Sarah Rutter",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16477.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Joshua Johnson",
+    "Artist Display Bio": "American, ca. 1763–ca. 1824",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Johnson, Joshua",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1758",
+    "Artist End Date": "1829",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500121295",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q958068",
+    "Object Date": "ca. 1805",
+    "Object Begin Date": 1802,
+    "Object End Date": 1805,
+    "Medium": "Oil on canvas",
+    "Dimensions": "36 x 32 in. (91.4 x 81.3 cm)",
+    "Credit Line": "Gift of Edgar William and Bernice Chrysler Garbisch, 1965",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/11269",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20170717",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Portraits|Birds|Strawberries|Girls",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300266506|http://vocab.getty.edu/page/aat/300375414|http://vocab.getty.edu/page/aat/300247581",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q5113|https://www.wikidata.org/wiki/Q745|https://www.wikidata.org/wiki/Q3031"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DT5512.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 164777,
+        "role": "Artist",
+        "name": "Joshua Johnson",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500121295",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q958068",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 7.6,
+          "Height": 102.9,
+          "Width": 93
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 91.4,
+          "Width": 81.3
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Birds",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300266506",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q5113"
+      },
+      {
+        "term": "Strawberries",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300375414",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q745"
+      },
+      {
+        "term": "Girls",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300247581",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3031"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

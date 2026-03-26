@@ -1,0 +1,90 @@
+{
+  "object_id": 185933,
+  "excel_metadata": {
+    "Object Number": "80.3.682",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 185933,
+    "Gallery Number": NaN,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1880.0,
+    "Object Name": "Painting",
+    "Title": "Classical design",
+    "Culture": "Italian, Umbria",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16193.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": "Attributed to",
+    "Artist Display Name": "Giovanni da Udine (Giovanni dei Ricamatori)",
+    "Artist Display Bio": "Italian, Udine 1487–1564 Rome",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Giovanni da Udine (Giovanni dei Ricamatori)",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1487",
+    "Artist End Date": "1564",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500004700",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q983350",
+    "Object Date": "15th–16th century",
+    "Object Begin Date": 1400,
+    "Object End Date": 1599,
+    "Medium": "Oil on wood, chiaroscuro",
+    "Dimensions": "Overall: 4 1/8 × 46 5/8 in. (10.5 × 118.4 cm)",
+    "Credit Line": "Gift of Cornelius Vanderbilt, 1880",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings-Decorative",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/185933",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q78655796",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Human Figures",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300404114",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q5937779"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/32096.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 161938,
+        "role": "Artist",
+        "name": "Attributed to Giovanni da Udine (Giovanni dei Ricamatori)",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500004700",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q983350",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 10.477521,
+          "Width": 118.427734
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Human Figures",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300404114",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q5937779"
+      }
+    ]
+  }
+}

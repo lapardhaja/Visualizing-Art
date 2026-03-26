@@ -1,0 +1,115 @@
+{
+  "object_id": 437180,
+  "excel_metadata": {
+    "Object Number": "1987.279",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437180,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1987.0,
+    "Object Name": "Painting",
+    "Title": "The Rebuke of Adam and Eve",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16488.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Charles Joseph Natoire",
+    "Artist Display Bio": "French, Nîmes 1700–1777 Castel Gandolfo",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Natoire, Charles Joseph",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1700",
+    "Artist End Date": "1777",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500004884",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q860154",
+    "Object Date": "1740",
+    "Object Begin Date": 1740,
+    "Object End Date": 1740,
+    "Medium": "Oil on copper",
+    "Dimensions": "26 3/4 x 19 3/4 in. (67.9 x 50.2 cm)",
+    "Credit Line": "Purchase, Mr. and Mrs. Frank E. Richardson III, George T. Delacorte Jr., and Mr. and Mrs. Henry J. Heinz II Gifts; Victor Wilbour Memorial, Marquand, and The Alfred N. Punnett Endowment Funds; and The Edward Joseph Gallagher III Memorial Collection, Edward J. Gallagher Jr. Bequest, 1987",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437180",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19905275",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Cows|Goats|Gods|Adam|Eve|Angels",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300250120|http://vocab.getty.edu/page/aat/300250122|http://vocab.getty.edu/page/aat/300343851|http://vocab.getty.edu/page/ia/901000219|http://vocab.getty.edu/page/ia/901000205|http://vocab.getty.edu/page/aat/300379004",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q830|https://www.wikidata.org/wiki/Q2934|https://www.wikidata.org/wiki/Q178885|https://www.wikidata.org/wiki/Q70899|https://www.wikidata.org/wiki/Q830183|https://www.wikidata.org/wiki/Q235113"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-19456-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 164888,
+        "role": "Artist",
+        "name": "Charles Joseph Natoire",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500004884",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q860154",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 67.9,
+          "Width": 50.2
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Cows",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250120",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q830"
+      },
+      {
+        "term": "Goats",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250122",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q2934"
+      },
+      {
+        "term": "Angels",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379004",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q235113"
+      },
+      {
+        "term": "Gods",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300343851",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q178885"
+      },
+      {
+        "term": "Adam",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000219",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q70899"
+      },
+      {
+        "term": "Eve",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000205",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q830183"
+      }
+    ]
+  }
+}

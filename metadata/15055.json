@@ -1,0 +1,95 @@
+{
+  "object_id": 15055,
+  "excel_metadata": {
+    "Object Number": "2006.235.62",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 15055,
+    "Gallery Number": NaN,
+    "Department": "The American Wing",
+    "AccessionYear": 2006.0,
+    "Object Name": "Painting, miniature",
+    "Title": "Portrait of a Gentleman",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 231.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Ezra Ames",
+    "Artist Display Bio": "American, Framingham, Massachusetts 1768–1836 Albany, New York",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Ames, Ezra",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1768",
+    "Artist End Date": "1836",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500018732",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q5423324",
+    "Object Date": "ca. 1785–90",
+    "Object Begin Date": 1785,
+    "Object End Date": 1790,
+    "Medium": "Watercolor on ivory",
+    "Dimensions": "1 1/4 x 15/16 in. (3.2 x 2.3 cm)",
+    "Credit Line": "Fletcher Fund, 2006",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/15055",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19924205",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/APS6844.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 2310,
+        "role": "Artist",
+        "name": "Ezra Ames",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500018732",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5423324",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 3.2,
+          "Width": 2.4
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

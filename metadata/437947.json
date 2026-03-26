@@ -1,0 +1,104 @@
+{
+  "object_id": 437947,
+  "excel_metadata": {
+    "Object Number": "07.225.301",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437947,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1907.0,
+    "Object Name": "Painting, sketch for a ceiling decoration",
+    "Title": "Flora and Zephyr",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16274.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Jacob de Wit",
+    "Artist Display Bio": "Dutch, Amsterdam 1695–1754 Amsterdam",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Wit, Jacob de",
+    "Artist Nationality": "Dutch",
+    "Artist Begin Date": "1695",
+    "Artist End Date": "1754",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500020708",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q3117749",
+    "Object Date": "1743",
+    "Object Begin Date": 1743,
+    "Object End Date": 1743,
+    "Medium": "Oil on canvas",
+    "Dimensions": "20 7/8 x 24 7/8 in. (53 x 63.2 cm)",
+    "Credit Line": "Gift of J. Pierpont Morgan, 1906",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437947",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912874",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Women|Putti",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/aat/300250465",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q284865"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP145896.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162748,
+        "role": "Artist",
+        "name": "Jacob de Wit",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500020708",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3117749",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 53,
+          "Width": 63.2
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 10.16002,
+          "Height": 71.12014,
+          "Width": 80.645164
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Putti",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250465",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q284865"
+      }
+    ]
+  }
+}

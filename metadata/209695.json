@@ -1,0 +1,94 @@
+{
+  "object_id": 209695,
+  "excel_metadata": {
+    "Object Number": 47.77,
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 209695,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1947,
+    "Object Name": "Fan",
+    "Title": "Fan",
+    "Culture": "French",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": null,
+    "Artist Role": null,
+    "Artist Prefix": null,
+    "Artist Display Name": null,
+    "Artist Display Bio": null,
+    "Artist Suffix": null,
+    "Artist Alpha Sort": null,
+    "Artist Nationality": null,
+    "Artist Begin Date": null,
+    "Artist End Date": null,
+    "Artist Gender": null,
+    "Artist ULAN URL": null,
+    "Artist Wikidata URL": null,
+    "Object Date": "late 19th century",
+    "Object Begin Date": 1885,
+    "Object End Date": 1899,
+    "Medium": "Mother-of-pearl, satin, metal, enamel",
+    "Dimensions": "Overall (confirmed): 13 × 23 7/8 in. (33 × 60.6 cm)",
+    "Credit Line": "Gift of Mrs. Frank S. Tolman, 1947",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Fans",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/209695",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Roses",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300266246",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q102231"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/LC-41_77-001.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/SF47_77_img1.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/SF47_77_img2.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/SF47_77_img3.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 162539,
+        "role": "Retailer",
+        "name": "Tiffany &amp; Co.",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500330306",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1066858",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": "confirmed",
+        "elementMeasurements": {
+          "Height": 33.020065,
+          "Width": 60.64262
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Roses",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300266246",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q102231"
+      }
+    ]
+  }
+}

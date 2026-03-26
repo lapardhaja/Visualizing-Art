@@ -1,0 +1,100 @@
+{
+  "object_id": 438654,
+  "excel_metadata": {
+    "Object Number": "2003.42.30",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 438654,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 2003.0,
+    "Object Name": "Painting",
+    "Title": "Dramatic Scene with Monks in a Crypt",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16557.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Alexandre Evariste Fragonard",
+    "Artist Display Bio": "French, Grasse 1780–1850 Paris",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Fragonard, Alexandre Evariste",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1780",
+    "Artist End Date": "1850",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500017406",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q704938",
+    "Object Date": NaN,
+    "Object Begin Date": 1800,
+    "Object End Date": 1850,
+    "Medium": "Oil on canvas",
+    "Dimensions": "28 5/8 x 35 7/8 in. (72.7 x 91.1 cm)",
+    "Credit Line": "The Whitney Collection, Gift of Wheelock Whitney III, and Purchase, Gift of Mr. and Mrs. Charles S. McVeigh, by exchange, 2003\r\n\r\n",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/438654",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19905301",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Crypts|Corpses|Monks",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300004618|http://vocab.getty.edu/page/aat/300410264|http://vocab.getty.edu/page/aat/300025765",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q192619|https://www.wikidata.org/wiki/Q48422|https://www.wikidata.org/wiki/Q733786"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP169456.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 165578,
+        "role": "Artist",
+        "name": "Alexandre Evariste Fragonard",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500017406",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q704938",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 72.7076,
+          "Width": 91.1227
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Crypts",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300004618",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q192619"
+      },
+      {
+        "term": "Corpses",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300410264",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q48422"
+      },
+      {
+        "term": "Monks",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025765",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q733786"
+      }
+    ]
+  }
+}

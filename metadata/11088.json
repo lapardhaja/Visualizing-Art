@@ -1,0 +1,112 @@
+{
+  "object_id": 11088,
+  "excel_metadata": {
+    "Object Number": "82.9.7",
+    "Is Highlight": true,
+    "Is Timeline Work": false,
+    "Is Public Domain": false,
+    "Object ID": 11088,
+    "Gallery Number": 761.0,
+    "Department": "The American Wing",
+    "AccessionYear": 1882.0,
+    "Object Name": "Painting",
+    "Title": "A Study of Trap Rock (Buttermilk Falls)",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16431.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "John Henry Hill",
+    "Artist Display Bio": "American, West Nyack, New York 1839–1922",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Hill, John Henry",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1839",
+    "Artist End Date": "1922",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500022043",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q20127348",
+    "Object Date": "1863",
+    "Object Begin Date": 1863,
+    "Object End Date": 1863,
+    "Medium": "Oil on canvas",
+    "Dimensions": "20 x 24 in. (50.8 x 61 cm)",
+    "Credit Line": "Gift of the artist, 1882",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/11088",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19924995",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Landscapes|Waterfalls",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300132294|http://vocab.getty.edu/page/aat/300008736",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q191163|https://www.wikidata.org/wiki/Q34038"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DP239559.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 164319,
+        "role": "Artist",
+        "name": "John Henry Hill",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500022043",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q20127348",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 50.8,
+          "Width": 61
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 7.620015,
+          "Height": 84.137665,
+          "Width": 74.1364
+        }
+      },
+      {
+        "elementName": "Glazing",
+        "elementDescription": "when needed",
+        "elementMeasurements": {
+          "Height": 62.388874,
+          "Width": 52.387604
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Waterfalls",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300008736",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q34038"
+      },
+      {
+        "term": "Landscapes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+      }
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "object_id": 35649,
+  "excel_metadata": {
+    "Object Number": "2009.9",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 35649,
+    "Gallery Number": NaN,
+    "Department": "Arms and Armor",
+    "AccessionYear": 2009.0,
+    "Object Name": "Painting",
+    "Title": "Portrait of Major-General John E. Wool",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 1105.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Stephen William Shaw",
+    "Artist Display Bio": "American, 1817–1900",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Shaw Stephen William",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1817",
+    "Artist End Date": "1900",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500016735",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q7610857",
+    "Object Date": "dated 1856 or 1858",
+    "Object Begin Date": 1856,
+    "Object End Date": 1858,
+    "Medium": "Oil on canvas",
+    "Dimensions": "42 1/4 x 351/4 in. (107.3 x 89.5 cm)",
+    "Credit Line": "Purchase, Arthur Ochs Sulzberger Gift, 2009",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Portraits",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/35649",
+    "Object Wikidata URL": NaN,
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/aa/original/LC-2009_9-008.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 11055,
+        "role": "Artist",
+        "name": "Stephen William Shaw",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500016735",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q7610857",
+        "gender": ""
+      }
+    ],
+    "measurements": null,
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

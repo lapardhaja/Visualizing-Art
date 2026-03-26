@@ -1,0 +1,107 @@
+{
+  "object_id": 204804,
+  "excel_metadata": {
+    "Object Number": 67.197,
+    "Is Highlight": true,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 204804,
+    "Gallery Number": 548,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1967,
+    "Object Name": "Group",
+    "Title": "La Crainte des Traits de l'Amour",
+    "Culture": "French, Paris",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 3412,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Jean-Louis Lemoyne",
+    "Artist Display Bio": "French, 1665–1755",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Lemoyne Jean-Louis",
+    "Artist Nationality": " ",
+    "Artist Begin Date": 1665,
+    "Artist End Date": 1755,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500018367",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q2462348",
+    "Object Date": "1739–40",
+    "Object Begin Date": 1739,
+    "Object End Date": 1740,
+    "Medium": "Marble",
+    "Dimensions": "Overall (confirmed): H. 71 3/4 x W. 26 1/4 x D. 36 7/8 in. (182.2 x 66.7 x 93.7 cm)",
+    "Credit Line": "Purchase, Josephine Bay Paul and C. Michael Paul Foundation Inc. Gift and Charles Ulrick and Josephine Bay Foundation Inc. Gift, 1967",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Sculpture",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/204804",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q29383617",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Women|Cupid",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/aat/300380105",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q5011"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP248890.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/DP248891.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP248892.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP248889.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 34127,
+        "role": "Artist",
+        "name": "Jean-Louis Lemoyne",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500018367",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q2462348",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": "historic dimensions, superceded",
+        "elementMeasurements": {
+          "Height": 182.9
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": "confirmed",
+        "elementMeasurements": {
+          "Depth": 93.66269,
+          "Height": 182.24536,
+          "Width": 66.67513
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Cupid",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300380105",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q5011"
+      }
+    ]
+  }
+}

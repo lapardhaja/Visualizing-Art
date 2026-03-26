@@ -1,0 +1,102 @@
+{
+  "object_id": 437824,
+  "excel_metadata": {
+    "Object Number": "49.7.15",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437824,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1949.0,
+    "Object Name": "Painting",
+    "Title": "Madonna and Child",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16255.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Titian (Tiziano Vecellio)",
+    "Artist Display Bio": "Italian, Pieve di Cadore ca. 1485/90?–1576 Venice",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Titian (Tiziano Vecellio)",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1485",
+    "Artist End Date": "1576",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500031075",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q47551",
+    "Object Date": "ca. 1508",
+    "Object Begin Date": 1503,
+    "Object End Date": 1513,
+    "Medium": "Oil on wood",
+    "Dimensions": "Overall 18 x 22 in. (45.7 x 55.9 cm); painted surface 17 x 21 1/2 in. (43.2 x 54.6 cm)",
+    "Credit Line": "The Jules Bache Collection, 1949",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437824",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q3842385",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Madonna and Child",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901000052",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q9309699"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-17398-001.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-49_7_15-2.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-49_7_15-3.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 162552,
+        "role": "Artist",
+        "name": "Titian (Tiziano Vecellio)",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500031075",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q47551",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 45.7,
+          "Width": 55.9
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 9.525019,
+          "Height": 65.08763,
+          "Width": 77.47015
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Madonna and Child",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000052",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q9309699"
+      }
+    ]
+  }
+}

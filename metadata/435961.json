@@ -1,0 +1,104 @@
+{
+  "object_id": 435961,
+  "excel_metadata": {
+    "Object Number": "1976.201.13",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 435961,
+    "Gallery Number": 803.0,
+    "Department": "European Paintings",
+    "AccessionYear": 1976.0,
+    "Object Name": "Painting",
+    "Title": "Toussaint Lemaistre (1807/8–1888)",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16178.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Camille Corot",
+    "Artist Display Bio": "French, Paris 1796–1875 Paris",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Corot, Camille",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1796",
+    "Artist End Date": "1875",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500115390",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q148475",
+    "Object Date": "1833",
+    "Object Begin Date": 1833,
+    "Object End Date": 1833,
+    "Medium": "Oil on canvas",
+    "Dimensions": "15 1/8 x 11 5/8 in. (38.4 x 29.5 cm)",
+    "Credit Line": "Bequest of Joan Whitney Payson, 1975",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/435961",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q18177480",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT2017.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 161787,
+        "role": "Artist",
+        "name": "Camille Corot",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115390",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q148475",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 38.4,
+          "Width": 29.5
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 7.62,
+          "Height": 56.5151,
+          "Width": 48.2601
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "object_id": 459246,
+  "excel_metadata": {
+    "Object Number": "1975.1.1232",
+    "Is Highlight": true,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 459246,
+    "Gallery Number": 958,
+    "Department": "Robert Lehman Collection",
+    "AccessionYear": 1975,
+    "Object Name": "Plate",
+    "Title": "Dish: The Destruction of the Hosts of Pharaoh",
+    "Culture": null,
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 13814813815,
+    "Artist Role": "Artist|Artist",
+    "Artist Prefix": " | ",
+    "Artist Display Name": "Master IC (probably Jean Court)|Jean Cour (or Court)",
+    "Artist Display Bio": "French, Limoges, active 1614–1627|French, Limoges, active 1598–1631",
+    "Artist Suffix": "or| ",
+    "Artist Alpha Sort": "Master IC|Cour, Jean",
+    "Artist Nationality": "French, Limoges|French, Limoges",
+    "Artist Begin Date": "1614      |1598      ",
+    "Artist End Date": "1627      |1631      ",
+    "Artist Gender": "|",
+    "Artist ULAN URL": "|",
+    "Artist Wikidata URL": "|",
+    "Object Date": "probably early 17th century",
+    "Object Begin Date": 1600,
+    "Object End Date": 1635,
+    "Medium": "Painted enamel on copper, partly gilt.",
+    "Dimensions": "20 11/16 x 15 3/4 in.  (52.5 x 40 cm)",
+    "Credit Line": "Robert Lehman Collection, 1975",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Enamels",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/459246",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20184273",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Moses|Horses",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/ia/901000167|http://vocab.getty.edu/page/aat/300250148",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q9077|https://www.wikidata.org/wiki/Q726"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/rl/original/SLP1232-1.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/rl/original/SLP1232-2.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/sf-rlc-1975-1-1232.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 138148,
+        "role": "Artist",
+        "name": "Master IC (probably Jean Court)",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      },
+      {
+        "constituentID": 138158,
+        "role": "Artist",
+        "name": "Jean Cour (or Court)",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 52.5,
+          "Width": 40
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Horses",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250148",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q726"
+      },
+      {
+        "term": "Moses",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000167",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q9077"
+      }
+    ]
+  }
+}

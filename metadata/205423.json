@@ -1,0 +1,95 @@
+{
+  "object_id": 205423,
+  "excel_metadata": {
+    "Object Number": "1971.206.18",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 205423,
+    "Gallery Number": 526,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1971,
+    "Object Name": "Kennel",
+    "Title": "Dog kennel",
+    "Culture": "French",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 3358,
+    "Artist Role": "Maker",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Claude I Sené",
+    "Artist Display Bio": "French, 1724–1792",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Sené, Claude I",
+    "Artist Nationality": "French",
+    "Artist Begin Date": 1724,
+    "Artist End Date": 1792,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500093533",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q48967538",
+    "Object Date": "ca. 1775–80",
+    "Object Begin Date": 1770,
+    "Object End Date": 1785,
+    "Medium": "Gilded beech and pine; silk and velvet",
+    "Dimensions": "H. 30-3/4 x W. 21-1/2 x D. 21-1/2 in.  (78.1 x 54.6 x 54.6 cm);_x000D_\nH. of opening:  11-3/4 in. (29.8 cm)",
+    "Credit Line": "Gift of Mr. and Mrs. Charles Wrightsman, 1971",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Woodwork-Furniture",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/205423",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q116242511",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": null,
+    "Tags AAT URL": null,
+    "Tags Wikidata URL": null
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DT241800.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/197674.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/197675.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 33581,
+        "role": "Maker",
+        "name": "Claude I Sené",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500093533",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q48967538",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Other",
+        "elementDescription": "of opening",
+        "elementMeasurements": {
+          "Height": 29.8
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 54.6,
+          "Height": 78.1,
+          "Width": 54.6
+        }
+      }
+    ],
+    "tags": null
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "object_id": 435663,
+  "excel_metadata": {
+    "Object Number": "1971.254",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 435663,
+    "Gallery Number": 964.0,
+    "Department": "European Paintings",
+    "AccessionYear": 1971.0,
+    "Object Name": "Painting",
+    "Title": "Still Life with Lobster and Fruit",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10737.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Abraham van Beyeren",
+    "Artist Display Bio": "Dutch, The Hague 1620/21–1690 Overschie",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Beyeren, Abraham van",
+    "Artist Nationality": "Dutch",
+    "Artist Begin Date": "1620",
+    "Artist End Date": "1690",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500029249",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q330848",
+    "Object Date": "probably early 1650s",
+    "Object Begin Date": 1650,
+    "Object End Date": 1653,
+    "Medium": "Oil on wood",
+    "Dimensions": "38 x 31 in. (96.5 x 78.7 cm)",
+    "Credit Line": "Gift of Edith Neuman de Végvár, in honor of her husband, Charles Neuman de Végvár, 1971",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/435663",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19905426",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Fruit|Lobsters|Still Life|Grapes|Lemons",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300011868|http://vocab.getty.edu/page/aat/300249724|http://vocab.getty.edu/page/aat/300015638|http://vocab.getty.edu/page/aat/300379338|http://vocab.getty.edu/page/aat/300266423",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q1364|https://www.wikidata.org/wiki/Q61864890|https://www.wikidata.org/wiki/Q170571|https://www.wikidata.org/wiki/Q10978|https://www.wikidata.org/wiki/Q1093742"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP143207.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 107376,
+        "role": "Artist",
+        "name": "Abraham van Beyeren",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500029249",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q330848",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 96.5,
+          "Width": 78.7
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 10.16002,
+          "Height": 127.00025,
+          "Width": 110.49022
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Fruit",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300011868",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q1364"
+      },
+      {
+        "term": "Grapes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379338",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q10978"
+      },
+      {
+        "term": "Lemons",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300266423",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q1093742"
+      },
+      {
+        "term": "Lobsters",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300249724",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q61864890"
+      },
+      {
+        "term": "Still Life",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015638",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q170571"
+      }
+    ]
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "object_id": 436430,
+  "excel_metadata": {
+    "Object Number": "10.97",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436430,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1910.0,
+    "Object Name": "Painting, altarpiece",
+    "Title": "Madonna and Child Enthroned with Saints",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10768.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Taddeo Gaddi",
+    "Artist Display Bio": "Italian, Florentine, active by 1334–died 1366",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Gaddi, Taddeo",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1334",
+    "Artist End Date": "1366",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500115669",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q315835",
+    "Object Date": "ca. 1340",
+    "Object Begin Date": 1335,
+    "Object End Date": 1345,
+    "Medium": "Tempera on wood, gold ground",
+    "Dimensions": "Overall 43 1/4 x 90 1/8 in. (109.9 x 228.9 cm); Lawrence 43 1/4 x 15 1/2 in. (109.9 x 39.4 cm); John 43 1/4 x 13 1/2 in. (109.9 x 34.3 cm); Madonna and Child 43 1/4 x 28 1/2 in. (109.9 x 72.4 cm); James 43 1/4 x 15 3/4 in. (109.9 x 40 cm); Stephen 43 1/4 x 16 3/4 in. (109.9 x 42.5 cm)",
+    "Credit Line": "Rogers Fund, 1910",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436430",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19911509",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Madonna and Child|Saints",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901000052|http://vocab.getty.edu/page/aat/300150555",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q9309699|https://www.wikidata.org/wiki/Q43115"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-31527-001.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/Taddeo Gaddi altarpiece reverse no cap.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/Taddeo Gaddi reverse detail no cap.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 107680,
+        "role": "Artist",
+        "name": "Taddeo Gaddi",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115669",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q315835",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 109.9,
+          "Width": 228.9
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Madonna and Child",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000052",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q9309699"
+      },
+      {
+        "term": "Saints",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300150555",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q43115"
+      }
+    ]
+  }
+}

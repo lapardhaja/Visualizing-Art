@@ -1,0 +1,86 @@
+{
+  "object_id": 200375,
+  "excel_metadata": {
+    "Object Number": "48.187.416",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 200375,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1948,
+    "Object Name": "Teapot",
+    "Title": "Teapot",
+    "Culture": "French, Lille",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 3348,
+    "Artist Role": "Maker",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Barthélemy Decourchelle",
+    "Artist Display Bio": "French, active Lille, master 1726, active 1761",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Decourchelle, Barthélemy",
+    "Artist Nationality": "French",
+    "Artist Begin Date": 1696,
+    "Artist End Date": 1791,
+    "Artist Gender": null,
+    "Artist ULAN URL": null,
+    "Artist Wikidata URL": null,
+    "Object Date": "probably 1752",
+    "Object Begin Date": 1752,
+    "Object End Date": 1752,
+    "Medium": "Silver; ebony",
+    "Dimensions": "Height: 8 3/16 in. (20.8 cm)",
+    "Credit Line": "Bequest of Catherine D. Wentworth, 1948",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Metalwork-Silver",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/200375",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": null,
+    "Tags AAT URL": null,
+    "Tags Wikidata URL": null
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/164318.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/142994.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/143064.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 33489,
+        "role": "Maker",
+        "name": "Barthélemy Decourchelle",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Height",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 20.796291
+        }
+      }
+    ],
+    "tags": null
+  }
+}

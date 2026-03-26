@@ -1,0 +1,123 @@
+{
+  "object_id": 464559,
+  "excel_metadata": {
+    "Object Number": "17.190.685–87, .695, .710–.711",
+    "Is Highlight": true,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 464559,
+    "Gallery Number": 304,
+    "Department": "Medieval Art",
+    "AccessionYear": 1917,
+    "Object Name": "Chasse",
+    "Title": "Chasse of Champagnat",
+    "Culture": "French",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": null,
+    "Artist Role": null,
+    "Artist Prefix": null,
+    "Artist Display Name": null,
+    "Artist Display Bio": null,
+    "Artist Suffix": null,
+    "Artist Alpha Sort": null,
+    "Artist Nationality": null,
+    "Artist Begin Date": null,
+    "Artist End Date": null,
+    "Artist Gender": null,
+    "Artist ULAN URL": null,
+    "Artist Wikidata URL": null,
+    "Object Date": "ca. 1150",
+    "Object Begin Date": 1150,
+    "Object End Date": 1150,
+    "Medium": "Copper: engraved and gilt; champlevé enamel: blue-black, medium blue, turquoise, green, red, and white",
+    "Dimensions": "Overall (Chasse): 4 7/8 x 7 7/16 x 3 3/8 in. (12.4 x 18.9 x 8.5 cm)_x000D_\nOverall (Plaque): 2 3/4 x 7 7/16 x 1/16 in. (7 x 18.9 x 0.2 cm)",
+    "Credit Line": "Gift of J. Pierpont Morgan, 1917",
+    "Geography Type": "Made in",
+    "City": "Limoges",
+    "State": null,
+    "County": null,
+    "Country": "France",
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Enamels-Champlevé",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/464559",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q29385379",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Eagles|Saint Paul|Saint Peter|Lions|Angels|Christ",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300250049|http://vocab.getty.edu/page/ia/901001058|http://vocab.getty.edu/page/ia/901000056|http://vocab.getty.edu/page/aat/300310388|http://vocab.getty.edu/page/aat/300379004|http://vocab.getty.edu/page/ia/901000087",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q2092297|https://www.wikidata.org/wiki/Q9200|https://www.wikidata.org/wiki/Q33923|https://www.wikidata.org/wiki/Q140|https://www.wikidata.org/wiki/Q235113|https://www.wikidata.org/wiki/Q642420"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/md/original/DP-16607-014.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/md/original/DP-16607-015.jpg",
+      "https://images.metmuseum.org/CRDImages/md/original/DP-16607-016.jpg",
+      "https://images.metmuseum.org/CRDImages/md/original/DP-16607-017.jpg",
+      "https://images.metmuseum.org/CRDImages/md/original/DP-16607-018.jpg",
+      "https://images.metmuseum.org/CRDImages/md/original/DP-16607-030.jpg",
+      "https://images.metmuseum.org/CRDImages/md/original/DT214807.jpg"
+    ],
+    "constituents": null,
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": "Chasse",
+        "elementMeasurements": {
+          "Depth": 8.5,
+          "Height": 12.4,
+          "Width": 18.9
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": "Plaque",
+        "elementMeasurements": {
+          "Height": 7,
+          "Thickness": 0.2,
+          "Width": 18.9
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Eagles",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250049",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q2092297"
+      },
+      {
+        "term": "Lions",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300310388",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q140"
+      },
+      {
+        "term": "Angels",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379004",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q235113"
+      },
+      {
+        "term": "Christ",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+      },
+      {
+        "term": "Saint Paul",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901001058",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q9200"
+      },
+      {
+        "term": "Saint Peter",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000056",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q33923"
+      }
+    ]
+  }
+}

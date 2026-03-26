@@ -1,0 +1,128 @@
+{
+  "object_id": 436869,
+  "excel_metadata": {
+    "Object Number": "96.28",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 436869,
+    "Gallery Number": 800.0,
+    "Department": "European Paintings",
+    "AccessionYear": 1896.0,
+    "Object Name": "Painting",
+    "Title": "Lachrymae",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10791.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Frederic, Lord Leighton",
+    "Artist Display Bio": "British, Scarborough 1830–1896 London",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Leighton, Frederic, Lord",
+    "Artist Nationality": "British",
+    "Artist Begin Date": "1830",
+    "Artist End Date": "1896",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500030022",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q160252",
+    "Object Date": "1894–95",
+    "Object Begin Date": 1894,
+    "Object End Date": 1895,
+    "Medium": "Oil on canvas",
+    "Dimensions": "62 x 24 3/4 in. (157.5 x 62.9 cm)",
+    "Credit Line": "Catharine Lorillard Wolfe Collection, Wolfe Fund, 1896",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436869",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19905166",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Sadness|Women|Cypresses|Evening|Wreaths",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300055166|http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/aat/300343641|http://vocab.getty.edu/page/aat/300343633|http://vocab.getty.edu/page/aat/300391223",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q169251|https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q146911|https://www.wikidata.org/wiki/Q7725|https://www.wikidata.org/wiki/Q1201922"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP124813.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/DP124814.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 107910,
+        "role": "Artist",
+        "name": "Frederic, Lord Leighton",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500030022",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q160252",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": "Weight",
+        "elementMeasurements": {
+          "Height": 157.5,
+          "Width": 62.9
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 15.24,
+          "Height": 195.5804,
+          "Width": 113.6652
+        }
+      },
+      {
+        "elementName": "Other",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Weight": 28.123016
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Sadness",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300055166",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q169251"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Cypresses",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300343641",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q146911"
+      },
+      {
+        "term": "Evening",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300343633",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q7725"
+      },
+      {
+        "term": "Wreaths",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300391223",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q1201922"
+      }
+    ]
+  }
+}

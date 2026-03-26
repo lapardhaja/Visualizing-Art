@@ -1,0 +1,122 @@
+{
+  "object_id": 10449,
+  "excel_metadata": {
+    "Object Number": "54.90.496",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 10449,
+    "Gallery Number": NaN,
+    "Department": "The American Wing",
+    "AccessionYear": 1954.0,
+    "Object Name": "Painting",
+    "Title": "Firemen's Washing Day",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16333.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "William P. Chappel",
+    "Artist Display Bio": "American, 1801–1878",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Chappel, William P.",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1801",
+    "Artist End Date": "1878",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500524275",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q20822488",
+    "Object Date": "1870s",
+    "Object Begin Date": 1870,
+    "Object End Date": 1870,
+    "Medium": "Oil on slate paper",
+    "Dimensions": "6 x 9 1/8 in. (15.2 x 23.2 cm)",
+    "Credit Line": "The Edward W. C. Arnold Collection of New York Prints, Maps, and Pictures, Bequest of Edward W. C. Arnold, 1954",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/10449",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19930491",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Streets|Men|Genre Scene|Washing|Working",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300008247|http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300139140|http://vocab.getty.edu/page/aat/300053042|http://vocab.getty.edu/page/aat/300412186",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q79007|https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q214127|https://www.wikidata.org/wiki/Q23841|https://www.wikidata.org/wiki/Q6958747"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DP-1427-025.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ad/original/DP-1427-026.jpg",
+      "https://images.metmuseum.org/CRDImages/ad/original/ap54.90.496.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 163338,
+        "role": "Artist",
+        "name": "William P. Chappel",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500524275",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q20822488",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 3.5,
+          "Height": 41.3,
+          "Width": 54
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 15.2,
+          "Width": 23.2
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Streets",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300008247",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q79007"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Genre Scene",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300139140",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q214127"
+      },
+      {
+        "term": "Washing",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300053042",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q23841"
+      },
+      {
+        "term": "Working",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300412186",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q6958747"
+      }
+    ]
+  }
+}

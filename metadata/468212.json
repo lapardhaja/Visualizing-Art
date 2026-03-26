@@ -1,0 +1,83 @@
+{
+  "object_id": 468212,
+  "excel_metadata": {
+    "Object Number": "47.100.5",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 468212,
+    "Gallery Number": 301,
+    "Department": "Medieval Art",
+    "AccessionYear": 1947,
+    "Object Name": "Vase",
+    "Title": "Vase",
+    "Culture": "Late Roman",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": null,
+    "Artist Role": null,
+    "Artist Prefix": null,
+    "Artist Display Name": null,
+    "Artist Display Bio": null,
+    "Artist Suffix": null,
+    "Artist Alpha Sort": null,
+    "Artist Nationality": null,
+    "Artist Begin Date": null,
+    "Artist End Date": null,
+    "Artist Gender": null,
+    "Artist ULAN URL": null,
+    "Artist Wikidata URL": null,
+    "Object Date": "250–300",
+    "Object Begin Date": 250,
+    "Object End Date": 300,
+    "Medium": "Champlevé enamel, copper alloy",
+    "Dimensions": "Overall: 4 13/16 x 4 5/8 in. (12.3 x 11.8 cm)_x000D_\nOverall (with mount): 5 x 4 5/8 in. (12.7 x 11.8 cm)",
+    "Credit Line": "Fletcher Fund, 1947",
+    "Geography Type": "Made in",
+    "City": "La Guierce, Charente",
+    "State": null,
+    "County": null,
+    "Country": "France",
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Enamels-Champlevé",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/468212",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q116276297",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": null,
+    "Tags AAT URL": null,
+    "Tags Wikidata URL": null
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/md/original/DT11891.jpg",
+    "additionalImages": [],
+    "constituents": null,
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": "with mount",
+        "elementMeasurements": {
+          "Diameter": 11.8,
+          "Height": 12.7
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Diameter": 11.8,
+          "Height": 12.3
+        }
+      }
+    ],
+    "tags": null
+  }
+}

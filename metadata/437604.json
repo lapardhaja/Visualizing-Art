@@ -1,0 +1,110 @@
+{
+  "object_id": 437604,
+  "excel_metadata": {
+    "Object Number": "1987.290.2ab",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437604,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1987.0,
+    "Object Name": "Painting, portable altarpiece",
+    "Title": "Madonna and Child with the Dead Christ, Saints Agnes and Catherine of Alexandria, and Two Angels",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16237.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Sano di Pietro (Ansano di Pietro di Mencio)",
+    "Artist Display Bio": "Italian, Siena 1405–1481 Siena",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Sano di Pietro (Ansano di Pietro di Mencio)",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1405",
+    "Artist End Date": "1481",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500115558",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q1379714",
+    "Object Date": "ca. 1470–80",
+    "Object Begin Date": 1465,
+    "Object End Date": 1475,
+    "Medium": "Tempera on wood, gold ground",
+    "Dimensions": "Main panel, overall, with engaged (modern) frame, 12 3/4 x 11 3/4 in. (32.4 x 29.8 cm), painted surface 10 7/8 x 9 7/8 in. (27.6 x 25.1 cm); predella, overall, with engaged (modern) frame, 3 5/8 x 12 5/8 in. (9.2 x 32.1 cm), painted surface 2 5/8 x 11 7/8 in. (6.7 x 30.2 cm)",
+    "Credit Line": "Anonymous Bequest, 1984",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437604",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19913442",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Madonna and Child|Saint Catherine|Saints|Angels|Christ",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901000052| |http://vocab.getty.edu/page/aat/300150555|http://vocab.getty.edu/page/aat/300379004|http://vocab.getty.edu/page/ia/901000087",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q9309699| |https://www.wikidata.org/wiki/Q43115|https://www.wikidata.org/wiki/Q235113|https://www.wikidata.org/wiki/Q642420"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP149941.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162375,
+        "role": "Artist",
+        "name": "Sano di Pietro (Ansano di Pietro di Mencio)",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115558",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1379714",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 32.4,
+          "Width": 29.8
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Angels",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379004",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q235113"
+      },
+      {
+        "term": "Christ",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+      },
+      {
+        "term": "Madonna and Child",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000052",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q9309699"
+      },
+      {
+        "term": "Saint Catherine",
+        "AAT_URL": null,
+        "Wikidata_URL": null
+      },
+      {
+        "term": "Saints",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300150555",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q43115"
+      }
+    ]
+  }
+}

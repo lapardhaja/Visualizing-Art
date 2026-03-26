@@ -1,0 +1,95 @@
+{
+  "object_id": 501254,
+  "excel_metadata": {
+    "Object Number": "89.4.638",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 501254,
+    "Gallery Number": null,
+    "Department": "Musical Instruments",
+    "AccessionYear": 1889,
+    "Object Name": "Rattle",
+    "Title": "Rattle",
+    "Culture": "Native American (Zuni)",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 15544,
+    "Artist Role": "Culture",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Zuni tribe",
+    "Artist Display Bio": " ",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Zuni tribe",
+    "Artist Nationality": " ",
+    "Artist Begin Date": "          ",
+    "Artist End Date": "          ",
+    "Artist Gender": null,
+    "Artist ULAN URL": null,
+    "Artist Wikidata URL": null,
+    "Object Date": "19th century",
+    "Object Begin Date": 1801,
+    "Object End Date": 1900,
+    "Medium": "Gourd, wood, pebbles",
+    "Dimensions": "Diam. 13.6 × L. 17.1 cm (5 3/8 in. × 6 3/4 in.)",
+    "Credit Line": "The Crosby Brown Collection of Musical Instruments, 1889",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": "New Mexico",
+    "Country": "United States",
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Idiophone-Shaken-rattle",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/501254",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": null,
+    "Tags AAT URL": null,
+    "Tags Wikidata URL": null
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/mi/original/midp89.4.638.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/mi/original/midp89.4.638 (2).jpg",
+      "https://images.metmuseum.org/CRDImages/mi/original/MUS823A8.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 155442,
+        "role": "Culture",
+        "name": "Zuni tribe",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Other",
+        "elementDescription": "L.C. Says:",
+        "elementMeasurements": {
+          "Diameter": 12.7,
+          "Length": 16.51
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Diameter": 13.6,
+          "Length": 17.1
+        }
+      }
+    ],
+    "tags": null
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "object_id": 472301,
+  "excel_metadata": {
+    "Object Number": "25.120.241",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 472301,
+    "Gallery Number": 8.0,
+    "Department": "The Cloisters",
+    "AccessionYear": 1925.0,
+    "Object Name": "Painting",
+    "Title": "Man of Sorrows",
+    "Culture": "Italian",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16486.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Niccolò di Tommaso",
+    "Artist Display Bio": "Italian, Florence, active 1343–76",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Niccolò di Tommaso",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1343",
+    "Artist End Date": "1376",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500029562",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q559655",
+    "Object Date": "ca. 1370",
+    "Object Begin Date": 1370,
+    "Object End Date": 1370,
+    "Medium": "Fresco transferred to canvas",
+    "Dimensions": "Overall: 65 x 70 in. (165.1 x 177.8 cm)",
+    "Credit Line": "The Cloisters Collection, 1925",
+    "Geography Type": "Made in",
+    "City": "Florence",
+    "State": NaN,
+    "County": "Tuscany",
+    "Country": "Italy",
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings-Canvas",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/472301",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20200885",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Christ",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901000087",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q642420"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/cl/original/DP102888.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 164864,
+        "role": "Artist",
+        "name": "Niccolò di Tommaso",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500029562",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q559655",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 165.1003,
+          "Width": 177.8004
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Christ",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+      }
+    ]
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "object_id": 464149,
+  "excel_metadata": {
+    "Object Number": "17.190.192",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 464149,
+    "Gallery Number": null,
+    "Department": "Medieval Art",
+    "AccessionYear": 1917,
+    "Object Name": "Diptych leaf",
+    "Title": "Leaf from a Diptych with the Crucifixion and Annunciation",
+    "Culture": "French",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": null,
+    "Artist Role": null,
+    "Artist Prefix": null,
+    "Artist Display Name": null,
+    "Artist Display Bio": null,
+    "Artist Suffix": null,
+    "Artist Alpha Sort": null,
+    "Artist Nationality": null,
+    "Artist Begin Date": null,
+    "Artist End Date": null,
+    "Artist Gender": null,
+    "Artist ULAN URL": null,
+    "Artist Wikidata URL": null,
+    "Object Date": "ca. 1300–1350",
+    "Object Begin Date": 1300,
+    "Object End Date": 1350,
+    "Medium": "Ivory with metal mounts",
+    "Dimensions": "Overall (Ivory only): 6 9/16 x 2 15/16 x 1/2 in. (16.6 x 7.5 x 1.2 cm)_x000D_\nOverall (with mount): 6 13/16 x 2 15/16 x 1/2 in. (17.3 x 7.5 x 1.2 cm)_x000D_\nfrom top and bottom edge to center of hinge: 1 5/8 in. (4.2 cm)",
+    "Credit Line": "Gift of J. Pierpont Morgan, 1917",
+    "Geography Type": "Made in",
+    "City": "possibly Paris",
+    "State": null,
+    "County": null,
+    "Country": "France",
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Ivories",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/464149",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Annunciation|Angels|Christ|Virgin Mary",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300412102|http://vocab.getty.edu/page/aat/300379004|http://vocab.getty.edu/page/ia/901000087|http://vocab.getty.edu/page/ia/901000032",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q154326|https://www.wikidata.org/wiki/Q235113|https://www.wikidata.org/wiki/Q642420|https://www.wikidata.org/wiki/Q345"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/md/original/sf17-190-192s1.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/md/original/sf17-190-192d1.jpg",
+      "https://images.metmuseum.org/CRDImages/md/original/sf17-190-192d2.jpg",
+      "https://images.metmuseum.org/CRDImages/md/original/sf17-190-192s2.jpg",
+      "https://images.metmuseum.org/CRDImages/md/original/sf17-190-192s3.jpg"
+    ],
+    "constituents": null,
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": "Ivory only",
+        "elementMeasurements": {
+          "Depth": 1.2,
+          "Height": 16.6,
+          "Width": 7.5
+        }
+      },
+      {
+        "elementName": "Other",
+        "elementDescription": "from top and bottom edge to center of hinge",
+        "elementMeasurements": {
+          "Length": 4.2
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": "with mount",
+        "elementMeasurements": {
+          "Height": 7.5,
+          "Length": 17.3,
+          "Width": 1.2
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Angels",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379004",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q235113"
+      },
+      {
+        "term": "Christ",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+      },
+      {
+        "term": "Virgin Mary",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000032",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q345"
+      },
+      {
+        "term": "Annunciation",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300412102",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q154326"
+      }
+    ]
+  }
+}

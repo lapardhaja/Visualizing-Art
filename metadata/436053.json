@@ -1,0 +1,113 @@
+{
+  "object_id": 436053,
+  "excel_metadata": {
+    "Object Number": "13.178",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436053,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1913.0,
+    "Object Name": "Painting",
+    "Title": "Pietà",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16179.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Carlo Crivelli",
+    "Artist Display Bio": "Italian, Venice (?), active by 1457–died 1494/95 Ascoli Piceno",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Crivelli, Carlo",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1457",
+    "Artist End Date": "1495",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500005092",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q348024",
+    "Object Date": "1476",
+    "Object Begin Date": 1476,
+    "Object End Date": 1476,
+    "Medium": "Tempera on wood, gold ground",
+    "Dimensions": "Overall 28 1/4 x 25 3/8 in. (71.8 x 64.5 cm); painted surface 28 x 25 1/8 in. (71.1 x 63.8 cm)",
+    "Credit Line": "John Stewart Kennedy Fund, 1913",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436053",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19911845",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Sadness|Women|Mary Magdalene|Christ|Virgin Mary",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300055166|http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/ia/901000161|http://vocab.getty.edu/page/ia/901000087|http://vocab.getty.edu/page/ia/901000032",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q169251|https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q63070|https://www.wikidata.org/wiki/Q642420|https://www.wikidata.org/wiki/Q345"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-19502-001.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-13_178-2.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-13_178-3.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 161797,
+        "role": "Artist",
+        "name": "Carlo Crivelli",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500005092",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q348024",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 71.8,
+          "Width": 64.5
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Sadness",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300055166",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q169251"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Christ",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+      },
+      {
+        "term": "Mary Magdalene",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000161",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q63070"
+      },
+      {
+        "term": "Virgin Mary",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000032",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q345"
+      }
+    ]
+  }
+}

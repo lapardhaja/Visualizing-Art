@@ -1,0 +1,111 @@
+{
+  "object_id": 231979,
+  "excel_metadata": {
+    "Object Number": "1977.102.10",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 231979,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1977,
+    "Object Name": "Folding stool",
+    "Title": "Folding stool (pliant) (one of a pair)",
+    "Culture": "French",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 3411240000000000000,
+    "Artist Role": "Maker|Decorator|Maker|Maker",
+    "Artist Prefix": " |Carved by|Gilded by|Rosette-shaped bosses on bolt ends gilded by",
+    "Artist Display Name": "Jean-Baptiste-Claude Sené|Nicolas François Vallois|Louis-François Chatard|Chaudron",
+    "Artist Display Bio": "1748–1803|1738–1788|ca. 1749–1819| ",
+    "Artist Suffix": " | | | ",
+    "Artist Alpha Sort": "Sené Jean-Baptiste-Claude|Vallois Nicolas François|Chatard Louis-François|CHAUDRON",
+    "Artist Nationality": " | | | ",
+    "Artist Begin Date": "1748      |1738      |1749      |1725      ",
+    "Artist End Date": "1803      |1788      |1819      |1825      ",
+    "Artist Gender": "|||",
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500017667|http://vocab.getty.edu/page/ulan/500054525||",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q3163770|https://www.wikidata.org/wiki/Q26203764||",
+    "Object Date": 1786,
+    "Object Begin Date": 1786,
+    "Object End Date": 1786,
+    "Medium": "Carved and painted beechwood, covered in pink silk",
+    "Dimensions": "18 1/4 in. × 27 in. × 20 1/4 in. (46.4 × 68.6 × 51.4 cm)",
+    "Credit Line": "Gift of Mr. and Mrs. Charles Wrightsman, 1977",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Woodwork-Furniture",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/231979",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": null,
+    "Tags AAT URL": null,
+    "Tags Wikidata URL": null
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP113122.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/DP113123.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 34112,
+        "role": "Maker",
+        "name": "Jean-Baptiste-Claude Sené",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500017667",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3163770",
+        "gender": ""
+      },
+      {
+        "constituentID": 36397,
+        "role": "Decorator",
+        "name": "Carved by Nicolas François Vallois",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500054525",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q26203764",
+        "gender": ""
+      },
+      {
+        "constituentID": 36401,
+        "role": "Maker",
+        "name": "Gilded by Louis-François Chatard",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      },
+      {
+        "constituentID": 36442,
+        "role": "Maker",
+        "name": "Rosette-shaped bosses on bolt ends gilded by Chaudron",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 51.435104,
+          "Height": 46.4,
+          "Width": 68.6
+        }
+      }
+    ],
+    "tags": null
+  }
+}

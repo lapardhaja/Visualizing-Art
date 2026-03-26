@@ -1,0 +1,95 @@
+{
+  "object_id": 437644,
+  "excel_metadata": {
+    "Object Number": "15.43.287",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437644,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1915.0,
+    "Object Name": "Painting, miniature",
+    "Title": "Portrait of a Man",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10867.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": "Attributed to",
+    "Artist Display Name": "Noah Seaman",
+    "Artist Display Bio": "British, active ca. 1724–41",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Seaman, Noah",
+    "Artist Nationality": "British",
+    "Artist Begin Date": "1724",
+    "Artist End Date": "1741",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500004138",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q30121547",
+    "Object Date": "ca. 1730",
+    "Object Begin Date": 1725,
+    "Object End Date": 1735,
+    "Medium": "Enamel",
+    "Dimensions": "Oval, 1 7/8 x 1 1/2 in. (47 x 37 mm)",
+    "Credit Line": "Bequest of Mary Anna Palmer Draper, 1914",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Miniatures",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437644",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19913872",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-18558-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 108677,
+        "role": "Artist",
+        "name": "Attributed to Noah Seaman",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500004138",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q30121547",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 4.8,
+          "Width": 3.8
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

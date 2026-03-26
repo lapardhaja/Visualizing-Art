@@ -1,0 +1,104 @@
+{
+  "object_id": 239397,
+  "excel_metadata": {
+    "Object Number": "2013.967.1",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 239397,
+    "Gallery Number": 544,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 2013,
+    "Object Name": "Plaque",
+    "Title": "Saint Matthew",
+    "Culture": "French, Limoges",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 3968,
+    "Artist Role": "Enameler",
+    "Artist Prefix": "Attributed to",
+    "Artist Display Name": "Jean III Pénicaud",
+    "Artist Display Bio": "French, died 1570",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Pénicaud Jean III",
+    "Artist Nationality": "French",
+    "Artist Begin Date": 1470,
+    "Artist End Date": 1570,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500121428",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q18508364",
+    "Object Date": "ca. 1550",
+    "Object Begin Date": 1545,
+    "Object End Date": 1555,
+    "Medium": "Enamel on copper",
+    "Dimensions": "Overall (confirmed, irregular diameter): 5 15/16 in. (15.1 cm); Framed: 7 1/16 in. (18 cm)",
+    "Credit Line": "Gift of Alain Moatti, in memory of Olga Raggio and in honor of Philippe de Montebello, 2013",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Enamels",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/239397",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q116305960",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Profiles|Saint Matthew",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300123319|http://vocab.getty.edu/page/ia/901000497",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q4382010|https://www.wikidata.org/wiki/Q43600"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP-2876-005.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/DP-2876-006.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP-2876-004.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 39687,
+        "role": "Enameler",
+        "name": "Attributed to Jean III Pénicaud",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500121428",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q18508364",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": "confirmed",
+        "elementMeasurements": {
+          "Diameter": 15.08128
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Diameter": 18
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Profiles",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300123319",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q4382010"
+      },
+      {
+        "term": "Saint Matthew",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000497",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q43600"
+      }
+    ]
+  }
+}

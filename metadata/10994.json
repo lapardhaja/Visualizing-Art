@@ -1,0 +1,114 @@
+{
+  "object_id": 10994,
+  "excel_metadata": {
+    "Object Number": "56.21",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 10994,
+    "Gallery Number": 774.0,
+    "Department": "The American Wing",
+    "AccessionYear": 1956.0,
+    "Object Name": "Painting",
+    "Title": "The Banker's Table",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 257.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "William Michael Harnett",
+    "Artist Display Bio": "1848–1892",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Harnett, William Michael",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1848",
+    "Artist End Date": "1892",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500032464",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q935186",
+    "Object Date": "1877",
+    "Object Begin Date": 1877,
+    "Object End Date": 1877,
+    "Medium": "Oil on canvas",
+    "Dimensions": "8 x 12 in. (20.3 x 30.5 cm)",
+    "Credit Line": "Purchase, Elihu Root Jr. Gift, 1956",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/10994",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20169904",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Books|Feathers|Still Life|Coins",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300028051|http://vocab.getty.edu/page/aat/300400474|http://vocab.getty.edu/page/aat/300015638|http://vocab.getty.edu/page/aat/300037222",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q571|https://www.wikidata.org/wiki/Q81025|https://www.wikidata.org/wiki/Q170571|https://www.wikidata.org/wiki/Q41207"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DT2047.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 2573,
+        "role": "Artist",
+        "name": "William Michael Harnett",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500032464",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q935186",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 20.3,
+          "Width": 30.5
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 6.8,
+          "Height": 37.3,
+          "Width": 47.6
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Books",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300028051",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q571"
+      },
+      {
+        "term": "Feathers",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300400474",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q81025"
+      },
+      {
+        "term": "Still Life",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015638",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q170571"
+      },
+      {
+        "term": "Coins",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300037222",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q41207"
+      }
+    ]
+  }
+}

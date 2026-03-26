@@ -1,0 +1,95 @@
+{
+  "object_id": 437182,
+  "excel_metadata": {
+    "Object Number": "1982.60.42",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437182,
+    "Gallery Number": 539.0,
+    "Department": "European Paintings",
+    "AccessionYear": 1982.0,
+    "Object Name": "Painting",
+    "Title": "Portrait of a Woman",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16488.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Jean Marc Nattier",
+    "Artist Display Bio": "French, Paris 1685–1766 Paris",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Nattier, Jean Marc",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1685",
+    "Artist End Date": "1766",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500120754",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q277738",
+    "Object Date": "1753",
+    "Object Begin Date": 1753,
+    "Object End Date": 1753,
+    "Medium": "Oil on canvas",
+    "Dimensions": "31 1/2 x 25 1/4 in. (80 x 64.1 cm), with later additions of 1 1/4 in. (3.2 cm) at bottom, 1 in. (2.5 cm) at left, and 1/2 in. (1.3 cm) at right",
+    "Credit Line": "The Jack and Belle Linsky Collection, 1982",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437182",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912774",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Portraits|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT8872.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 164886,
+        "role": "Artist",
+        "name": "Jean Marc Nattier",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500120754",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q277738",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 80,
+          "Width": 64.1
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

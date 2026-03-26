@@ -1,0 +1,104 @@
+{
+  "object_id": 437506,
+  "excel_metadata": {
+    "Object Number": "34.137",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 437506,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1934.0,
+    "Object Name": "Painting",
+    "Title": "Bandits on a Rocky Coast",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16233.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Salvator Rosa",
+    "Artist Display Bio": "Italian, Arenella (Naples) 1615–1673 Rome",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Rosa, Salvator",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1615",
+    "Artist End Date": "1673",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500011328",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q359421",
+    "Object Date": "1655–60",
+    "Object Begin Date": 1655,
+    "Object End Date": 1660,
+    "Medium": "Oil on canvas",
+    "Dimensions": "29 1/2 x 39 3/8 in. (74.9 x 100 cm)",
+    "Credit Line": "Charles B. Curtis Fund, 1934",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437506",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19905360",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Landscapes|Human Figures",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300132294|http://vocab.getty.edu/page/aat/300404114",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q191163|https://www.wikidata.org/wiki/Q5937779"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-16344-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162335,
+        "role": "Artist",
+        "name": "Salvator Rosa",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500011328",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q359421",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 8.89,
+          "Height": 99.0602,
+          "Width": 121.9202
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 74.9,
+          "Width": 100
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Human Figures",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300404114",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q5937779"
+      },
+      {
+        "term": "Landscapes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+      }
+    ]
+  }
+}

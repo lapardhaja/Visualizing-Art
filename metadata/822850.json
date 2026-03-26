@@ -1,0 +1,92 @@
+{
+  "object_id": 822850,
+  "excel_metadata": {
+    "Object Number": "2019.144",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 822850,
+    "Gallery Number": NaN,
+    "Department": "Asian Art",
+    "AccessionYear": 2019.0,
+    "Object Name": "Painting",
+    "Title": NaN,
+    "Culture": "India, Pahari School, Mandi",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 18526.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": "Attributed to",
+    "Artist Display Name": "Sajnu",
+    "Artist Display Bio": " ",
+    "Artist Suffix": ", or his follower",
+    "Artist Alpha Sort": "Sajnu",
+    "Artist Nationality": " ",
+    "Artist Begin Date": "          ",
+    "Artist End Date": "          ",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": NaN,
+    "Artist Wikidata URL": NaN,
+    "Object Date": "ca. 1810–20",
+    "Object Begin Date": 1810,
+    "Object End Date": 1820,
+    "Medium": "Opaque pigments and gold on paper",
+    "Dimensions": "Image: 7 1/2 × 4 1/2 in. (19.1 × 11.4 cm)\r\nSheet: 8 1/2 × 5 1/2 in. (21.6 × 14 cm)",
+    "Credit Line": "Purchase, Estate of Howard Hodgkin Gift and Cynthia Hazen Polsky and Leon B. Polsky Fund, 2019",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/822850",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q78607545",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": NaN,
+    "Tags AAT URL": NaN,
+    "Tags Wikidata URL": NaN
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/as/original/DP-18171-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 185260,
+        "role": "Artist",
+        "name": "Attributed to Sajnu",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Sheet",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 21.590044,
+          "Width": 13.970028
+        }
+      },
+      {
+        "elementName": "Image",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 19.050037,
+          "Width": 11.430023
+        }
+      }
+    ],
+    "tags": null
+  }
+}

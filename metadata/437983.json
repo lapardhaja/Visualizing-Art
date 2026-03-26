@@ -1,0 +1,100 @@
+{
+  "object_id": 437983,
+  "excel_metadata": {
+    "Object Number": "1997.157",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 437983,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1997.0,
+    "Object Name": "Painting",
+    "Title": "A Roman Landscape with Figures",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16268.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Goffredo Wals",
+    "Artist Display Bio": "German, Cologne, born ca. 1590–95, died 1638–40 Calabria",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Wals, Goffredo",
+    "Artist Nationality": "German",
+    "Artist Begin Date": "1590",
+    "Artist End Date": "1640",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500017839",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q3109847",
+    "Object Date": "probably 1630s",
+    "Object Begin Date": 1630,
+    "Object End Date": 1639,
+    "Medium": "Oil on copper",
+    "Dimensions": "Diameter 16 in. (40.6 cm)",
+    "Credit Line": "Wrightsman Fund, 1997",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437983",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19905337",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Rome|Ruins|Landscapes",
+    "Tags AAT URL": "http://vocab.getty.edu/page/tgn/7000874|http://vocab.getty.edu/page/aat/300008057|http://vocab.getty.edu/page/aat/300132294",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q220|https://www.wikidata.org/wiki/Q109607|https://www.wikidata.org/wiki/Q191163"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP293064.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162684,
+        "role": "Artist",
+        "name": "Goffredo Wals",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500017839",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3109847",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 40.6,
+          "Width": 40.6
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Ruins",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300008057",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q109607"
+      },
+      {
+        "term": "Landscapes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+      },
+      {
+        "term": "Rome",
+        "AAT_URL": "http://vocab.getty.edu/page/tgn/7000874",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q220"
+      }
+    ]
+  }
+}

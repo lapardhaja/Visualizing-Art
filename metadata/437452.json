@@ -1,0 +1,119 @@
+{
+  "object_id": 437452,
+  "excel_metadata": {
+    "Object Number": "25.110.10",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437452,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1925.0,
+    "Object Name": "Painting",
+    "Title": "Lady Smith (Charlotte Delaval) and Her Children (George Henry, Louisa, and Charlotte)",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16508.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Sir Joshua Reynolds",
+    "Artist Display Bio": "British, Plympton 1723–1792 London",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Reynolds, Joshua, Sir",
+    "Artist Nationality": "British",
+    "Artist Begin Date": "1723",
+    "Artist End Date": "1792",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500004539",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q194402",
+    "Object Date": "1787",
+    "Object Begin Date": 1787,
+    "Object End Date": 1787,
+    "Medium": "Oil on canvas",
+    "Dimensions": "55 3/8 x 44 1/8 in. (140.7 x 112.1 cm)",
+    "Credit Line": "Bequest of Collis P. Huntington, 1900",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437452",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19905357",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Boys|Girls|Mothers|Portraits|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300247598|http://vocab.getty.edu/page/aat/300247581|http://vocab.getty.edu/page/aat/300025932|http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q3010|https://www.wikidata.org/wiki/Q3031|https://www.wikidata.org/wiki/Q7560|https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP162169.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 165087,
+        "role": "Artist",
+        "name": "Sir Joshua Reynolds",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500004539",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q194402",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 140.7,
+          "Width": 112.1
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 8.8900175,
+          "Height": 162.56032,
+          "Width": 132.71527
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Boys",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300247598",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3010"
+      },
+      {
+        "term": "Girls",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300247581",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3031"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Mothers",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025932",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q7560"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

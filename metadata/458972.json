@@ -1,0 +1,105 @@
+{
+  "object_id": 458972,
+  "excel_metadata": {
+    "Object Number": "1975.1.32",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 458972,
+    "Gallery Number": 956.0,
+    "Department": "Robert Lehman Collection",
+    "AccessionYear": 1975.0,
+    "Object Name": "Painting",
+    "Title": "Madonna and Child with Saints Jerome and Agnes",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16193.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Giovanni di Paolo (Giovanni di Paolo di Grazia)",
+    "Artist Display Bio": "Italian, Siena 1398–1482 Siena",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Giovanni di Paolo (Giovanni di Paolo di Grazia)",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1398",
+    "Artist End Date": "1482",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500116438",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q946420",
+    "Object Date": "ca. 1465",
+    "Object Begin Date": 1462,
+    "Object End Date": 1468,
+    "Medium": "Tempera on wood, gold ground",
+    "Dimensions": "Overall: 12 5/8 × 9 3/4 in. (32.1 × 24.8 cm)",
+    "Credit Line": "Robert Lehman Collection, 1975",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/458972",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20188001",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Madonna and Child|Saint Jerome|Saints",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901000052|http://vocab.getty.edu/page/ulan/500060933|http://vocab.getty.edu/page/aat/300150555",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q9309699|https://www.wikidata.org/wiki/Q44248|https://www.wikidata.org/wiki/Q43115"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/rl/original/DP-19531-100.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/rl/original/DP-19531-101.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/DT3023.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/0255.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/ep1975.1.32.r.bw.R.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 161939,
+        "role": "Artist",
+        "name": "Giovanni di Paolo (Giovanni di Paolo di Grazia)",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500116438",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q946420",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": "Overall",
+        "elementMeasurements": {
+          "Height": 32.1,
+          "Width": 24.8
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Madonna and Child",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000052",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q9309699"
+      },
+      {
+        "term": "Saint Jerome",
+        "AAT_URL": "http://vocab.getty.edu/page/ulan/500060933",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q44248"
+      },
+      {
+        "term": "Saints",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300150555",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q43115"
+      }
+    ]
+  }
+}

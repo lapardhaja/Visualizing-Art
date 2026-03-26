@@ -1,0 +1,110 @@
+{
+  "object_id": 202230,
+  "excel_metadata": {
+    "Object Number": "58.75.131",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 202230,
+    "Gallery Number": 514,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1958,
+    "Object Name": "Mirror",
+    "Title": "Mirror",
+    "Culture": "British",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 360394000000000,
+    "Artist Role": "Maker|Maker|Designer",
+    "Artist Prefix": " |and|Possibly designed by",
+    "Artist Display Name": "John Mayhew|William Ince|Robert Adam",
+    "Artist Display Bio": "British, 1736–1811|British, active ca. 1758/59–1794, died 1804|British, Kirkcaldy, Scotland 1728–1792 London",
+    "Artist Suffix": " | | ",
+    "Artist Alpha Sort": "Mayhew John|Ince William|Adam, Robert",
+    "Artist Nationality": "British|British|British, Scottish",
+    "Artist Begin Date": "1736      |1704      |1728      ",
+    "Artist End Date": "1811      |1804      |1792      ",
+    "Artist Gender": "||",
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500017184|http://vocab.getty.edu/page/ulan/500010618|http://vocab.getty.edu/page/ulan/500008907",
+    "Artist Wikidata URL": "||https://www.wikidata.org/wiki/Q312635",
+    "Object Date": 1769,
+    "Object Begin Date": 1769,
+    "Object End Date": 1769,
+    "Medium": "Gilded pine, mirror glass",
+    "Dimensions": "Wt. confirmed: 8 ft. 9 in. × 66 in., 262 lb. (266.7 × 167.6 cm, 118.8 kg)",
+    "Credit Line": "Gift of Samuel H. Kress Foundation, 1958",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Woodwork-Furniture",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/202230",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q116309841",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": null,
+    "Tags AAT URL": null,
+    "Tags Wikidata URL": null
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/ES8056.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/DP341261.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP341262.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP341264.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP341266.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP341267.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP341273.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/ES6816.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/ES6817.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 166135,
+        "role": "Designer",
+        "name": "Possibly designed by Robert Adam",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500008907",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q312635",
+        "gender": ""
+      },
+      {
+        "constituentID": 36039,
+        "role": "Maker",
+        "name": "John Mayhew",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500017184",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q120692887",
+        "gender": ""
+      },
+      {
+        "constituentID": 36040,
+        "role": "Maker",
+        "name": "and William Ince",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500010618",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q121008106",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": "Wt. confirmed",
+        "elementMeasurements": {
+          "Height": 266.7,
+          "Weight": 118.84242,
+          "Width": 167.6
+        }
+      }
+    ],
+    "tags": null
+  }
+}

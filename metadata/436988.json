@@ -1,0 +1,119 @@
+{
+  "object_id": 436988,
+  "excel_metadata": {
+    "Object Number": "26.287.2",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 436988,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1926.0,
+    "Object Name": "Painting",
+    "Title": "Ameto's Discovery of the Nymphs",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10798.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Master of 1416",
+    "Artist Display Bio": "Italian, Florentine, early 15th century",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Master of 1416",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1400",
+    "Artist End Date": "1429",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "(not assigned)",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q10329047",
+    "Object Date": "ca. 1410",
+    "Object Begin Date": 1405,
+    "Object End Date": 1415,
+    "Medium": "Tempera on wood",
+    "Dimensions": "Twelve-sided, 21 1/8 x 22 1/8 in. (53.7 x 56.2 cm)",
+    "Credit Line": "Rogers Fund, 1926",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436988",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19905425",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Nymphs|Women|Hunting|Dogs",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300379159|http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/aat/300239666|http://vocab.getty.edu/page/aat/300265714",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q373916|https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q36963|https://www.wikidata.org/wiki/Q144"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP164807.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 107984,
+        "role": "Artist",
+        "name": "Master of 1416",
+        "constituentULAN_URL": "(not assigned)",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q10329047",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 53.7,
+          "Width": 56.2
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 4.1275,
+          "Height": 66.6751,
+          "Width": 68.5801
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Hunting",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300239666",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q36963"
+      },
+      {
+        "term": "Nymphs",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379159",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q373916"
+      },
+      {
+        "term": "Dogs",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300265714",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q144"
+      }
+    ]
+  }
+}

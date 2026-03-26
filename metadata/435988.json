@@ -1,0 +1,104 @@
+{
+  "object_id": 435988,
+  "excel_metadata": {
+    "Object Number": "87.15.141",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 435988,
+    "Gallery Number": 803.0,
+    "Department": "European Paintings",
+    "AccessionYear": 1887.0,
+    "Object Name": "Painting",
+    "Title": "Ville-d'Avray",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16178.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Camille Corot",
+    "Artist Display Bio": "French, Paris 1796–1875 Paris",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Corot, Camille",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1796",
+    "Artist End Date": "1875",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500115390",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q148475",
+    "Object Date": "1870",
+    "Object Begin Date": 1870,
+    "Object End Date": 1870,
+    "Medium": "Oil on canvas",
+    "Dimensions": "21 5/8 x 31 1/2 in. (54.9 x 80 cm)",
+    "Credit Line": "Catharine Lorillard Wolfe Collection, Bequest of Catharine Lorillard Wolfe, 1887",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/435988",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19905239",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Women|Forests",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/aat/300387598",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q4421"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-19283-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 161787,
+        "role": "Artist",
+        "name": "Camille Corot",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115390",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q148475",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 54.9,
+          "Width": 80
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 10.16,
+          "Height": 74.9301,
+          "Width": 99.6952
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Forests",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300387598",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q4421"
+      }
+    ]
+  }
+}

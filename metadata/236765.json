@@ -1,0 +1,88 @@
+{
+  "object_id": 236765,
+  "excel_metadata": {
+    "Object Number": "2014.713.2",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 236765,
+    "Gallery Number": 556,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 2014,
+    "Object Name": "Diadem",
+    "Title": "Diadem",
+    "Culture": "Italian, Rome",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 3308,
+    "Artist Role": "Maker",
+    "Artist Prefix": "Firm of",
+    "Artist Display Name": "Castellani",
+    "Artist Display Bio": " ",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Castellani",
+    "Artist Nationality": " ",
+    "Artist Begin Date": "          ",
+    "Artist End Date": "          ",
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500065470",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q3662238",
+    "Object Date": "ca. 1860",
+    "Object Begin Date": 1855,
+    "Object End Date": 1865,
+    "Medium": "Gold, agate, glass, pearls, enamel",
+    "Dimensions": "Overall (confirmed): 1 1/8 x 7 1/2 x 7 in. (2.9 x 19.1 x 17.8 cm)",
+    "Credit Line": "Gift of Judith H. Siegel, 2014",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Jewelry",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/236765",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q116306180",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": null,
+    "Tags AAT URL": null,
+    "Tags Wikidata URL": null
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP-12990-002.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/SF2014_713_2_img3.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/SF2014_713_2_mark.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 33083,
+        "role": "Maker",
+        "name": "Firm of Castellani",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500065470",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3662238",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": "confirmed",
+        "elementMeasurements": {
+          "Depth": 17.780035,
+          "Height": 2.8575058,
+          "Width": 19.050037
+        }
+      }
+    ],
+    "tags": null
+  }
+}

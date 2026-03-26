@@ -1,0 +1,110 @@
+{
+  "object_id": 437780,
+  "excel_metadata": {
+    "Object Number": "89.15.22",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437780,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1889.0,
+    "Object Name": "Painting",
+    "Title": "Shepherds and Sheep",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16252.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "David Teniers the Younger",
+    "Artist Display Bio": "Flemish, Antwerp 1610–1690 Brussels",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Teniers, David, the Younger",
+    "Artist Nationality": "Flemish",
+    "Artist Begin Date": "1610",
+    "Artist End Date": "1690",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500001443",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q335022",
+    "Object Date": NaN,
+    "Object Begin Date": 1630,
+    "Object End Date": 1690,
+    "Medium": "Oil on wood",
+    "Dimensions": "6 5/8 x 9 in. (16.8 x 22.9 cm)",
+    "Credit Line": "Marquand Collection, Gift of Henry G. Marquand, 1889",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437780",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912552",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Dogs|Goats|Sheep|Shepherds",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300265714|http://vocab.getty.edu/page/aat/300250122|http://vocab.getty.edu/page/aat/300250284|http://vocab.getty.edu/page/aat/300025617",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q144|https://www.wikidata.org/wiki/Q2934|https://www.wikidata.org/wiki/Q7368|https://www.wikidata.org/wiki/Q81710"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT280207.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162520,
+        "role": "Artist",
+        "name": "David Teniers the Younger",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500001443",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q335022",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 16.8,
+          "Width": 22.9
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Dogs",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300265714",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q144"
+      },
+      {
+        "term": "Goats",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250122",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q2934"
+      },
+      {
+        "term": "Sheep",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250284",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q7368"
+      },
+      {
+        "term": "Shepherds",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025617",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q81710"
+      }
+    ]
+  }
+}

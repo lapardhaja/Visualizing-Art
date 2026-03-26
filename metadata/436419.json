@@ -1,0 +1,105 @@
+{
+  "object_id": 436419,
+  "excel_metadata": {
+    "Object Number": "23.103.2",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436419,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1923.0,
+    "Object Name": "Painting",
+    "Title": "The Arab Falconer",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16190.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Eugène Fromentin",
+    "Artist Display Bio": "French, La Rochelle 1820–1876 Saint-Maurice",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Fromentin, Eugène",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1820",
+    "Artist End Date": "1876",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500027303",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q353746",
+    "Object Date": "1864",
+    "Object Begin Date": 1864,
+    "Object End Date": 1864,
+    "Medium": "Oil on canvas",
+    "Dimensions": "42 3/4 x 28 1/2 in. (108.6 x 72.4 cm)",
+    "Credit Line": "The John Hobart Warren Bequest, 1923",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436419",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19905831",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Horses|Falcons|Men|Orientalist",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300250148|http://vocab.getty.edu/page/aat/300250051|http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300055784",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q726|https://www.wikidata.org/wiki/Q43489|https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q765606"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-23345-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 161909,
+        "role": "Artist",
+        "name": "Eugène Fromentin",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500027303",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q353746",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 108.6,
+          "Width": 72.4
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Falcons",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250051",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q43489"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Horses",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250148",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q726"
+      },
+      {
+        "term": "Orientalist",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300055784",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q765606"
+      }
+    ]
+  }
+}

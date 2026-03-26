@@ -1,0 +1,104 @@
+{
+  "object_id": 10848,
+  "excel_metadata": {
+    "Object Number": "65.139",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 10848,
+    "Gallery Number": NaN,
+    "Department": "The American Wing",
+    "AccessionYear": 1965.0,
+    "Object Name": "Painting",
+    "Title": "Andrew Varick Stout",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 249.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Charles Loring Elliott",
+    "Artist Display Bio": "1812–1868",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Elliott, Charles Loring",
+    "Artist Nationality": " ",
+    "Artist Begin Date": "1812",
+    "Artist End Date": "1868",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500013029",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q5080338",
+    "Object Date": "1859",
+    "Object Begin Date": 1859,
+    "Object End Date": 1859,
+    "Medium": "Oil on canvas",
+    "Dimensions": "44 x 37 5/8 in. (111.8 x 95.6 cm)",
+    "Credit Line": "Gift of his great-grandson, Andrew Varick Stout, 1965",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/10848",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19924027",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Portraits|Men",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300025928",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q8441"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/APS6423.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 2499,
+        "role": "Artist",
+        "name": "Charles Loring Elliott",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500013029",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5080338",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 111.8,
+          "Width": 95.6
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 8,
+          "Height": 131.5,
+          "Width": 116
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

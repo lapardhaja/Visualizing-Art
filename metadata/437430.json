@@ -1,0 +1,104 @@
+{
+  "object_id": 437430,
+  "excel_metadata": {
+    "Object Number": "29.100.125",
+    "Is Highlight": true,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 437430,
+    "Gallery Number": 824.0,
+    "Department": "European Paintings",
+    "AccessionYear": 1929.0,
+    "Object Name": "Painting",
+    "Title": "By the Seashore",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16230.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Auguste Renoir",
+    "Artist Display Bio": "French, Limoges 1841–1919 Cagnes-sur-Mer",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Renoir, Auguste",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1841",
+    "Artist End Date": "1919",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500115467",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q39931",
+    "Object Date": "1883",
+    "Object Begin Date": 1883,
+    "Object End Date": 1883,
+    "Medium": "Oil on canvas",
+    "Dimensions": "36 1/4 x 28 1/2 in. (92.1 x 72.4 cm)",
+    "Credit Line": "H. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437430",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q472037",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Portraits|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-14936-039.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162302,
+        "role": "Artist",
+        "name": "Auguste Renoir",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115467",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q39931",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 92.1,
+          "Width": 72.4
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 12.7,
+          "Height": 120.6502,
+          "Width": 99.6952
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

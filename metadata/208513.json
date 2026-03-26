@@ -1,0 +1,99 @@
+{
+  "object_id": 208513,
+  "excel_metadata": {
+    "Object Number": "1995.268.344",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 208513,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1995,
+    "Object Name": "Plate",
+    "Title": "Plate",
+    "Culture": "Italian, Naples",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 3838,
+    "Artist Role": "Manufactory",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Royal Porcelain Manufactory, Naples",
+    "Artist Display Bio": "Ferdinand IV period, ca. 1771–ca. 1807",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Royal Porcelain Manufactory, Naples",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": 1759,
+    "Artist End Date": 1819,
+    "Artist Gender": null,
+    "Artist ULAN URL": null,
+    "Artist Wikidata URL": null,
+    "Object Date": "ca. 1780–82",
+    "Object Begin Date": 1775,
+    "Object End Date": 1787,
+    "Medium": "Soft-paste porcelain",
+    "Dimensions": "Diam. 10 1/2 in. (26.7 cm.)",
+    "Credit Line": "The Hans Syz Collection, Gift of Stephan B. Syz and John D. Syz, 1995",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Ceramics-Porcelain",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/208513",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Human Figures|Birds|Heads",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300404114|http://vocab.getty.edu/page/aat/300266506|http://vocab.getty.edu/page/aat/300375054",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q5937779|https://www.wikidata.org/wiki/Q5113|https://www.wikidata.org/wiki/Q3409626"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/SF1995_268_344.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 38388,
+        "role": "Manufactory",
+        "name": "Royal Porcelain Manufactory, Naples",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Other",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Diameter": 26.7
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Human Figures",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300404114",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q5937779"
+      },
+      {
+        "term": "Birds",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300266506",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q5113"
+      },
+      {
+        "term": "Heads",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300375054",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3409626"
+      }
+    ]
+  }
+}

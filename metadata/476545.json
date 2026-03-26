@@ -1,0 +1,92 @@
+{
+  "object_id": 476545,
+  "excel_metadata": {
+    "Object Number": 2005.274,
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 476545,
+    "Gallery Number": 14,
+    "Department": "The Cloisters",
+    "AccessionYear": 2005,
+    "Object Name": "Corpus",
+    "Title": "Crucified Christ",
+    "Culture": "Northern European",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": null,
+    "Artist Role": null,
+    "Artist Prefix": null,
+    "Artist Display Name": null,
+    "Artist Display Bio": null,
+    "Artist Suffix": null,
+    "Artist Alpha Sort": null,
+    "Artist Nationality": null,
+    "Artist Begin Date": null,
+    "Artist End Date": null,
+    "Artist Gender": null,
+    "Artist ULAN URL": null,
+    "Artist Wikidata URL": null,
+    "Object Date": "ca. 1300",
+    "Object Begin Date": 1300,
+    "Object End Date": 1300,
+    "Medium": "Walrus ivory with traces of paint and gilding",
+    "Dimensions": "Overall: 7 9/16 x 2 1/16 x 1 3/8 in. (19.2 x 5.3 x 3.5 cm)",
+    "Credit Line": "The Cloisters Collection, 2005",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Ivories",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/476545",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20201249",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Christ|Crucifixion",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901000087|http://vocab.getty.edu/page/aat/300404300",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q642420|https://www.wikidata.org/wiki/Q3235597"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/cl/original/DP166638.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/cl/original/DP166634.jpg",
+      "https://images.metmuseum.org/CRDImages/cl/original/DP166635.jpg",
+      "https://images.metmuseum.org/CRDImages/cl/original/DP166636.jpg",
+      "https://images.metmuseum.org/CRDImages/cl/original/DP166637.jpg"
+    ],
+    "constituents": null,
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 3.5,
+          "Height": 19.2088,
+          "Width": 5.3
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Christ",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+      },
+      {
+        "term": "Crucifixion",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300404300",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3235597"
+      }
+    ]
+  }
+}

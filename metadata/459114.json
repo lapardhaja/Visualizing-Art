@@ -1,0 +1,109 @@
+{
+  "object_id": 459114,
+  "excel_metadata": {
+    "Object Number": "1975.1.204",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 459114,
+    "Gallery Number": NaN,
+    "Department": "Robert Lehman Collection",
+    "AccessionYear": 1975.0,
+    "Object Name": "Painting",
+    "Title": "The Pool (Memory of the Forest of Chambord)",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16234.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Théodore Rousseau",
+    "Artist Display Bio": "French, Paris 1812–1867 Barbizon",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Rousseau, Théodore",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1812",
+    "Artist End Date": "1867",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500019946",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q310025",
+    "Object Date": "1839",
+    "Object Begin Date": 1839,
+    "Object End Date": 1839,
+    "Medium": "Oil on wood",
+    "Dimensions": "12 3/4 x 16 in. (32.4 x 40.6 cm)",
+    "Credit Line": "Robert Lehman Collection, 1975",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/459114",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20184376",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Forests|Landscapes",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300387598|http://vocab.getty.edu/page/aat/300132294",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q4421|https://www.wikidata.org/wiki/Q191163"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/rl/original/DP-34424-001.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/rl/original/DP-34424-002.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/0204.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/2081.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/DT3133.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/SLP0204.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 162349,
+        "role": "Artist",
+        "name": "Théodore Rousseau",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500019946",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q310025",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 44.45009,
+          "Width": 53.340107
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 32.4,
+          "Width": 40.6
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Forests",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300387598",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q4421"
+      },
+      {
+        "term": "Landscapes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+      }
+    ]
+  }
+}

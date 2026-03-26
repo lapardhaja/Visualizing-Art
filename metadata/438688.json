@@ -1,0 +1,117 @@
+{
+  "object_id": 438688,
+  "excel_metadata": {
+    "Object Number": "2003.281",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 438688,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 2003.0,
+    "Object Name": "Painting",
+    "Title": "Saint Francis",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16165.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Federico Barocci",
+    "Artist Display Bio": "Italian, Urbino ca. 1535–1612 Urbino",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Barocci, Federico",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1535",
+    "Artist End Date": "1612",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500115210",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q316731",
+    "Object Date": "ca. 1600–1604",
+    "Object Begin Date": 1600,
+    "Object End Date": 1604,
+    "Medium": "Oil on canvas",
+    "Dimensions": "35 3/8 x 30 7/8 in. (89.9 x 78.4 cm); with added strips 35 7/8 x 31 3/8 in. (91.1 x 79.7 cm)\r\n",
+    "Credit Line": "Purchase, Lila Acheson Wallace Gift and 2002 Benefit Fund, 2003",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/438688",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912061",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Books|Saint Francis|Christ",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300028051|http://vocab.getty.edu/page/ulan/500349636|http://vocab.getty.edu/page/ia/901000087",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q571|https://www.wikidata.org/wiki/Q676555|https://www.wikidata.org/wiki/Q642420"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP104367.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 161652,
+        "role": "Artist",
+        "name": "Federico Barocci",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115210",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q316731",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 91.1227,
+          "Width": 79.6927
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 6.350013,
+          "Height": 111.76022,
+          "Width": 99.060196
+        }
+      },
+      {
+        "elementName": "Glazing",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 91.12268,
+          "Width": 79.37516
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Books",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300028051",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q571"
+      },
+      {
+        "term": "Christ",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+      },
+      {
+        "term": "Saint Francis",
+        "AAT_URL": "http://vocab.getty.edu/page/ulan/500349636",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q676555"
+      }
+    ]
+  }
+}

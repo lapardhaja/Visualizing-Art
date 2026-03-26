@@ -1,0 +1,122 @@
+{
+  "object_id": 468035,
+  "excel_metadata": {
+    "Object Number": "41.190.472a, b",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 468035,
+    "Gallery Number": null,
+    "Department": "Medieval Art",
+    "AccessionYear": 1941,
+    "Object Name": "Pulpit",
+    "Title": "Pulpit",
+    "Culture": "Spanish",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": null,
+    "Artist Role": null,
+    "Artist Prefix": null,
+    "Artist Display Name": null,
+    "Artist Display Bio": null,
+    "Artist Suffix": null,
+    "Artist Alpha Sort": null,
+    "Artist Nationality": null,
+    "Artist Begin Date": null,
+    "Artist End Date": null,
+    "Artist Gender": null,
+    "Artist ULAN URL": null,
+    "Artist Wikidata URL": null,
+    "Object Date": "ca. 1500",
+    "Object Begin Date": 1500,
+    "Object End Date": 1500,
+    "Medium": "Stucco (?)",
+    "Dimensions": "Overall: 75 × 43 × 30 1/2 in., 940lb. (190.5 × 109.2 × 77.5 cm, 426.4kg)",
+    "Credit Line": "Bequest of George Blumenthal, 1941",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Sculpture-Alabaster",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/468035",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": null,
+    "Tags AAT URL": null,
+    "Tags Wikidata URL": null
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/md/original/48.jpg",
+    "additionalImages": [],
+    "constituents": null,
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": "Storage table and Pulpit",
+        "elementMeasurements": {
+          "Depth": 127.00025,
+          "Height": 198.12039,
+          "Width": 127.00025
+        }
+      },
+      {
+        "elementName": "Other",
+        "elementDescription": "Storage Table",
+        "elementMeasurements": {
+          "Depth": 127.00025,
+          "Height": 97.472694,
+          "Width": 127.00025
+        }
+      },
+      {
+        "elementName": "Other",
+        "elementDescription": "weight of upper part of pulpit and pallet",
+        "elementMeasurements": {
+          "Weight": 412.7733
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 77.4702,
+          "Height": 190.5004,
+          "Weight": 426.3812,
+          "Width": 109.2202
+        }
+      },
+      {
+        "elementName": "Other",
+        "elementDescription": "Lower finial",
+        "elementMeasurements": {
+          "Depth": 62.2301,
+          "Height": 76.2002,
+          "Weight": 63.503582,
+          "Width": 76.2002
+        }
+      },
+      {
+        "elementName": "Other",
+        "elementDescription": "Top Section with frame",
+        "elementMeasurements": {
+          "Depth": 77.4702,
+          "Height": 114.3002,
+          "Weight": 362.87762,
+          "Width": 109.2202
+        }
+      }
+    ],
+    "tags": null
+  }
+}

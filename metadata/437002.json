@@ -1,0 +1,110 @@
+{
+  "object_id": 437002,
+  "excel_metadata": {
+    "Object Number": "32.75.2a–c",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437002,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1932.0,
+    "Object Name": "Painting, cassone panels",
+    "Title": "Scenes from a Legend; Coats of Arms",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10798.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Master of Charles of Durazzo",
+    "Artist Display Bio": "Italian, Florentine, late 14th century",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Master of Charles of Durazzo",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1370",
+    "Artist End Date": "1399",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500331802",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q21850415",
+    "Object Date": NaN,
+    "Object Begin Date": 1400,
+    "Object End Date": 1429,
+    "Medium": "Tempera on wood, embossed gilt and silver ornament",
+    "Dimensions": "(a) 15 1/2 x 46 in. (39.4 x 116.8 cm); end panels, with coats of arms: (b) overall 15 5/8 x 18 3/4 in. (39.7 x 47.6 cm), painted surface 14 7/8 x 18 in. (37.8 x 45.7 cm); (c) overall 15 1/8 x 19 3/8 in. (38.4 x 49.2 cm), painted surface 14 1/2 x 18 5/8 in. (36.8 x 47.3 cm)",
+    "Credit Line": "The Collection of Giovanni P. Morosini, presented by his daughter Giulia, 1932",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437002",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912246",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Bedrooms|Infants|Men|Women|Horses",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300004364|http://vocab.getty.edu/page/aat/300189561|http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/aat/300250148",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q193837|https://www.wikidata.org/wiki/Q998|https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q726"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/ep32.75.2.bw.R.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 107987,
+        "role": "Artist",
+        "name": "Master of Charles of Durazzo",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500331802",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q21850415",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 39.4,
+          "Width": 116.8
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Bedrooms",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300004364",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q193837"
+      },
+      {
+        "term": "Infants",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300189561",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q998"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Horses",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250148",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q726"
+      }
+    ]
+  }
+}

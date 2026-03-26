@@ -1,0 +1,90 @@
+{
+  "object_id": 436705,
+  "excel_metadata": {
+    "Object Number": "1985.118",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436705,
+    "Gallery Number": 801.0,
+    "Department": "European Paintings",
+    "AccessionYear": 1985.0,
+    "Object Name": "Painting",
+    "Title": "Head of Saint John the Evangelist",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16200.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Jean Auguste Dominique Ingres",
+    "Artist Display Bio": "French, Montauban 1780–1867 Paris",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Ingres, Jean Auguste Dominique",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1780",
+    "Artist End Date": "1867",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500028037",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q23380",
+    "Object Date": NaN,
+    "Object Begin Date": 1818,
+    "Object End Date": 1856,
+    "Medium": "Oil on canvas, laid down on wood",
+    "Dimensions": "15 1/2 x 10 5/8 in. (39.4 x 27 cm)",
+    "Credit Line": "Catharine Lorillard Wolfe Collection, Purchase, Bequest of Catharine Lorillard Wolfe, by exchange, and Wolfe Fund, 1985",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436705",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19905295",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Saint John the Evangelist",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901001171",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q328804"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT1997.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162005,
+        "role": "Artist",
+        "name": "Jean Auguste Dominique Ingres",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500028037",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q23380",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 39.4,
+          "Width": 27
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Saint John the Evangelist",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901001171",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q328804"
+      }
+    ]
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "object_id": 459025,
+  "excel_metadata": {
+    "Object Number": "1975.1.83",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 459025,
+    "Gallery Number": NaN,
+    "Department": "Robert Lehman Collection",
+    "AccessionYear": 1975.0,
+    "Object Name": "Painting",
+    "Title": "Madonna and Child Enthroned",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 13806116179.0,
+    "Artist Role": "Artist|Former Attribution",
+    "Artist Prefix": " |Attributed to",
+    "Artist Display Name": "Nicola di Maestro Antonio|Carlo Crivelli",
+    "Artist Display Bio": "Italian (active Ancona), 1472–1510|Italian, Venice (?), active by 1457–died 1494/95 Ascoli Piceno",
+    "Artist Suffix": "(?)| ",
+    "Artist Alpha Sort": "di Maestro Antonio|Crivelli, Carlo",
+    "Artist Nationality": "Italian (active Ancona)|Italian",
+    "Artist Begin Date": "1472      |1457      ",
+    "Artist End Date": "1510      |1495      ",
+    "Artist Gender": "|",
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500007256|http://vocab.getty.edu/page/ulan/500005092",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q3339920|https://www.wikidata.org/wiki/Q348024",
+    "Object Date": "ca. 1475–90",
+    "Object Begin Date": 1470,
+    "Object End Date": 1480,
+    "Medium": "Tempera on wood, gold ground",
+    "Dimensions": "55 1/2 x 23 3/8 in. (141 x 59.4 cm)",
+    "Credit Line": "Robert Lehman Collection, 1975",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/459025",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20186904",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Madonna and Child",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901000052",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q9309699"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/rl/original/DT3057.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/rl/original/DT3058.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/0338.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/ep1975.1.83.bw.R.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 138061,
+        "role": "Artist",
+        "name": "Nicola di Maestro Antonio",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500007256",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3339920",
+        "gender": ""
+      },
+      {
+        "constituentID": 161797,
+        "role": "Former Attribution",
+        "name": "Attributed to Carlo Crivelli",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500005092",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q348024",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 141,
+          "Width": 59.4
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Madonna and Child",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000052",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q9309699"
+      }
+    ]
+  }
+}

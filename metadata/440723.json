@@ -1,0 +1,113 @@
+{
+  "object_id": 440723,
+  "excel_metadata": {
+    "Object Number": "2008.547.1",
+    "Is Highlight": true,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 440723,
+    "Gallery Number": 804.0,
+    "Department": "European Paintings",
+    "AccessionYear": 2008.0,
+    "Object Name": "Painting",
+    "Title": "Bashi-Bazouk",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16192.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Jean-Léon Gérôme",
+    "Artist Display Bio": "French, Vesoul 1824–1904 Paris",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Gérôme, Jean-Léon",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1824",
+    "Artist End Date": "1904",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500115563",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q212499",
+    "Object Date": "1868–69",
+    "Object Begin Date": 1868,
+    "Object End Date": 1869,
+    "Medium": "Oil on canvas",
+    "Dimensions": "31 3/4 x 26 in. (80.6 x 66 cm)",
+    "Credit Line": "Gift of Mrs. Charles Wrightsman, 2008",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/440723",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19861716",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits|Profiles|Orientalist",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300123319|http://vocab.getty.edu/page/aat/300055784",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q4382010|https://www.wikidata.org/wiki/Q765606"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP243839.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 161927,
+        "role": "Artist",
+        "name": "Jean-Léon Gérôme",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115563",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q212499",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 80.645164,
+          "Width": 66.04013
+        }
+      },
+      {
+        "elementName": "Glazing",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 80.96266,
+          "Width": 66.67513
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Profiles",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300123319",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q4382010"
+      },
+      {
+        "term": "Orientalist",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300055784",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q765606"
+      }
+    ]
+  }
+}

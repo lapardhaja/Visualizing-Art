@@ -1,0 +1,103 @@
+{
+  "object_id": 459054,
+  "excel_metadata": {
+    "Object Number": "1975.1.112",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 459054,
+    "Gallery Number": 953.0,
+    "Department": "Robert Lehman Collection",
+    "AccessionYear": 1975.0,
+    "Object Name": "Painting",
+    "Title": "Portrait of a Young Man",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16211.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Hans Memling",
+    "Artist Display Bio": "Netherlandish, Seligenstadt, active by 1465–died 1494 Bruges",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Memling, Hans",
+    "Artist Nationality": "Netherlandish",
+    "Artist Begin Date": "1465",
+    "Artist End Date": "1494",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500005611",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q106851",
+    "Object Date": "ca. 1472–75",
+    "Object Begin Date": 1467,
+    "Object End Date": 1477,
+    "Medium": "Oil on oak panel",
+    "Dimensions": "Overall 15 3/4 x 11 3/8 in. (40 x 29 cm); painted surface 15 1/8 x 10 3/4 in. (38.3 x 27.3 cm)",
+    "Credit Line": "Robert Lehman Collection, 1975",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/459054",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20182417",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/rl/original/DP-40423-001.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/rl/original/DP-14207-001.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/DP-40423-002.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/1247.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/DT3077.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/DT3077r2m_50V.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/ep1975.1.112.bw.R.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/39.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 162119,
+        "role": "Artist",
+        "name": "Hans Memling",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500005611",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q106851",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 40,
+          "Width": 28.9
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

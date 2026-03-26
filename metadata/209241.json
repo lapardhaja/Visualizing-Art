@@ -1,0 +1,97 @@
+{
+  "object_id": 209241,
+  "excel_metadata": {
+    "Object Number": "63.77",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 209241,
+    "Gallery Number": NaN,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1963.0,
+    "Object Name": "Snuffbox cover, painting",
+    "Title": "Snuffbox cover with portrait of Frederick the Great (1712–1786), King of Prussia",
+    "Culture": "German",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 12786.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "German Painter",
+    "Artist Display Bio": " ",
+    "Artist Suffix": ", ca. 1760",
+    "Artist Alpha Sort": "German Painter",
+    "Artist Nationality": "German",
+    "Artist Begin Date": "          ",
+    "Artist End Date": "          ",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": NaN,
+    "Artist Wikidata URL": NaN,
+    "Object Date": "mid-18th century",
+    "Object Begin Date": 1730,
+    "Object End Date": 1765,
+    "Medium": "Painted enamel on copper; copper gilt",
+    "Dimensions": "2 3/4 x 3 7/16 in. (7 x 8.7 cm)",
+    "Credit Line": "Gift of Eduard and Helen Naumann, 1963",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Enamels|Miniatures",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/209241",
+    "Object Wikidata URL": NaN,
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Kings|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025481|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q12097|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/ES1897.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/177562.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 127868,
+        "role": "Artist",
+        "name": "German Painter",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 7,
+          "Width": 8.7
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Kings",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025481",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q12097"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

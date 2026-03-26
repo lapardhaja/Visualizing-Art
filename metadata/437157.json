@@ -1,0 +1,131 @@
+{
+  "object_id": 437157,
+  "excel_metadata": {
+    "Object Number": "11.53",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 437157,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1911.0,
+    "Object Name": "Painting",
+    "Title": "Christ in the Wilderness",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16214.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Moretto da Brescia (Alessandro Bonvicino)",
+    "Artist Display Bio": "Italian, Brescia ca. 1498–1554 Brescia",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Moretto da Brescia (Alessandro Bonvicino)",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1498",
+    "Artist End Date": "1554",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500007609",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q954504",
+    "Object Date": "ca. 1515–20",
+    "Object Begin Date": 1515,
+    "Object End Date": 1520,
+    "Medium": "Oil on canvas",
+    "Dimensions": "18 x 21 3/4 in. (45.7 x 55.2 cm)",
+    "Credit Line": "Rogers Fund, 1911",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437157",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19911611",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Bears|Birds|Deer|Foxes|Lions|Angels|Christ",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300266516|http://vocab.getty.edu/page/aat/300266506|http://vocab.getty.edu/page/aat/300250308|http://vocab.getty.edu/page/aat/300266520|http://vocab.getty.edu/page/aat/300310388|http://vocab.getty.edu/page/aat/300379004|http://vocab.getty.edu/page/ia/901000087",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q30090244|https://www.wikidata.org/wiki/Q5113|https://www.wikidata.org/wiki/Q685795|https://www.wikidata.org/wiki/Q8331|https://www.wikidata.org/wiki/Q140|https://www.wikidata.org/wiki/Q235113|https://www.wikidata.org/wiki/Q642420"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-19630-001.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/Moretto Xray no cap.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 162141,
+        "role": "Artist",
+        "name": "Moretto da Brescia (Alessandro Bonvicino)",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500007609",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q954504",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 45.7,
+          "Width": 55.2
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 7.3025146,
+          "Height": 61.595123,
+          "Width": 71.437645
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Bears",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300266516",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q30090244"
+      },
+      {
+        "term": "Birds",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300266506",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q5113"
+      },
+      {
+        "term": "Deer",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250308",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q685795"
+      },
+      {
+        "term": "Foxes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300266520",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8331"
+      },
+      {
+        "term": "Lions",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300310388",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q140"
+      },
+      {
+        "term": "Angels",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379004",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q235113"
+      },
+      {
+        "term": "Christ",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+      }
+    ]
+  }
+}

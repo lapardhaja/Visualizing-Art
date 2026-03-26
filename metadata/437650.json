@@ -1,0 +1,110 @@
+{
+  "object_id": 437650,
+  "excel_metadata": {
+    "Object Number": "24.78a",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437650,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1924.0,
+    "Object Name": "Painting, part of a polyptych",
+    "Title": "Madonna and Child",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16240.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Segna di Buonaventura",
+    "Artist Display Bio": "Italian, active Siena by 1298–died 1326/31",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Segna di Buonaventura",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1298",
+    "Artist End Date": "1331",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500026523",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q929809",
+    "Object Date": "ca. 1320",
+    "Object Begin Date": 1315,
+    "Object End Date": 1325,
+    "Medium": "Tempera on wood, gold ground",
+    "Dimensions": "Overall, with framing elements, 60 1/8 x 26 3/8 in. (152.7 x 67 cm); Madonna and Child, painted surface 37 x 23 1/8 in. (94 x 58.7 cm); pinnacle, painted surface 12 1/8 x 23 in. (30.8 x 58.4 cm)",
+    "Credit Line": "Harris Brisbane Dick Fund, 1924",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437650",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19911691",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Madonna and Child|Saint Paul|Saint Peter|Christ|Virgin Mary",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901000052|http://vocab.getty.edu/page/ia/901001058|http://vocab.getty.edu/page/ia/901000056|http://vocab.getty.edu/page/ia/901000087|http://vocab.getty.edu/page/ia/901000032",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q9309699|https://www.wikidata.org/wiki/Q9200|https://www.wikidata.org/wiki/Q33923|https://www.wikidata.org/wiki/Q642420|https://www.wikidata.org/wiki/Q345"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP333087.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162401,
+        "role": "Artist",
+        "name": "Segna di Buonaventura",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500026523",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q929809",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 152.7178,
+          "Width": 66.99264
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Christ",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+      },
+      {
+        "term": "Madonna and Child",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000052",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q9309699"
+      },
+      {
+        "term": "Saint Paul",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901001058",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q9200"
+      },
+      {
+        "term": "Saint Peter",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000056",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q33923"
+      },
+      {
+        "term": "Virgin Mary",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000032",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q345"
+      }
+    ]
+  }
+}

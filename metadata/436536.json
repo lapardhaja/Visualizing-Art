@@ -1,0 +1,100 @@
+{
+  "object_id": 436536,
+  "excel_metadata": {
+    "Object Number": "1995.535",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436536,
+    "Gallery Number": 822.0,
+    "Department": "European Paintings",
+    "AccessionYear": 1995.0,
+    "Object Name": "Painting",
+    "Title": "Women Picking Olives",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16194.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Vincent van Gogh",
+    "Artist Display Bio": "Dutch, Zundert 1853–1890 Auvers-sur-Oise",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Gogh, Vincent van",
+    "Artist Nationality": "Dutch",
+    "Artist Begin Date": "1853",
+    "Artist End Date": "1890",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500115588",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q5582",
+    "Object Date": "1889",
+    "Object Begin Date": 1889,
+    "Object End Date": 1889,
+    "Medium": "Oil on canvas",
+    "Dimensions": "28 5/8 x 36 in. (72.7 x 91.4 cm)",
+    "Credit Line": "The Walter H. and Leonore Annenberg Collection, Gift of Walter H. and Leonore Annenberg, 1995, Bequest of Walter H. Annenberg, 2002",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436536",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19911707",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Ladders|Women|Olive Trees",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300022376|http://vocab.getty.edu/page/aat/300025943| ",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q168639|https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q35417711"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-17161-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 161947,
+        "role": "Artist",
+        "name": "Vincent van Gogh",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115588",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5582",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 72.7,
+          "Width": 91.4
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Olive Trees",
+        "AAT_URL": null,
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q35417711"
+      },
+      {
+        "term": "Ladders",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300022376",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q168639"
+      }
+    ]
+  }
+}

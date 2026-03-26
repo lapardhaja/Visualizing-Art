@@ -1,0 +1,114 @@
+{
+  "object_id": 436329,
+  "excel_metadata": {
+    "Object Number": "97.18",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436329,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1897.0,
+    "Object Name": "Painting",
+    "Title": "Gathering Olives at Tivoli",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10765.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "François-Louis Français",
+    "Artist Display Bio": "French, Plombières-les-Bains 1814–1897 Plombières-les-Bains",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Français, François-Louis",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1814",
+    "Artist End Date": "1897",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500020543",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q943826",
+    "Object Date": "1868",
+    "Object Begin Date": 1868,
+    "Object End Date": 1868,
+    "Medium": "Oil on canvas",
+    "Dimensions": "83 3/4 x 51 5/8 in. (212.7 x 131.1 cm)",
+    "Credit Line": "Gift of I. Montaignac, 1897",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436329",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19911979",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Olive Trees|Waterfalls|Harvesting",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928| |http://vocab.getty.edu/page/aat/300008736|http://vocab.getty.edu/page/aat/300417516",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q35417711|https://www.wikidata.org/wiki/Q34038|https://www.wikidata.org/wiki/Q213753"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-23204-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 107659,
+        "role": "Artist",
+        "name": "François-Louis Français",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500020543",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q943826",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 212.7,
+          "Width": 131.1
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 7.620015,
+          "Height": 238.76048,
+          "Width": 160.02032
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Waterfalls",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300008736",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q34038"
+      },
+      {
+        "term": "Olive Trees",
+        "AAT_URL": null,
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q35417711"
+      },
+      {
+        "term": "Harvesting",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300417516",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q213753"
+      }
+    ]
+  }
+}

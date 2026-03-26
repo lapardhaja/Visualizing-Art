@@ -1,0 +1,112 @@
+{
+  "object_id": 458977,
+  "excel_metadata": {
+    "Object Number": "1975.1.37",
+    "Is Highlight": true,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 458977,
+    "Gallery Number": 956.0,
+    "Department": "Robert Lehman Collection",
+    "AccessionYear": 1975.0,
+    "Object Name": "Painting",
+    "Title": "The Annunciation to Zacharias; (verso) The Angel of the Annunciation",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16193.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Giovanni di Paolo (Giovanni di Paolo di Grazia)",
+    "Artist Display Bio": "Italian, Siena 1398–1482 Siena",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Giovanni di Paolo (Giovanni di Paolo di Grazia)",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1398",
+    "Artist End Date": "1482",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500116438",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q946420",
+    "Object Date": "ca. 1455–60",
+    "Object Begin Date": 1452,
+    "Object End Date": 1463,
+    "Medium": "Tempera and gold on wood",
+    "Dimensions": "Overall: 29 7/8 in. × 17 in. (75.9 × 43.2 cm)",
+    "Credit Line": "Robert Lehman Collection, 1975",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/458977",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20185362",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Angels|Men|Saint John the Baptist|Annunciation",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300379004|http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/ia/901001056|http://vocab.getty.edu/page/aat/300412102",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q235113|https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q40662|https://www.wikidata.org/wiki/Q154326"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/rl/original/DP-19531-098.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/rl/original/DP-19531-099.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/DT1439.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/Verso0245.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/Zacharias0244.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/ep1975.1.37.bw.R.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/ep1975.1.37.v.bw.R.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 161939,
+        "role": "Artist",
+        "name": "Giovanni di Paolo (Giovanni di Paolo di Grazia)",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500116438",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q946420",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": "Overall",
+        "elementMeasurements": {
+          "Height": 75.9,
+          "Width": 43.2
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Angels",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379004",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q235113"
+      },
+      {
+        "term": "Saint John the Baptist",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901001056",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q40662"
+      },
+      {
+        "term": "Annunciation",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300412102",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q154326"
+      }
+    ]
+  }
+}

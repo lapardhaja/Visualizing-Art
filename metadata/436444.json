@@ -1,0 +1,116 @@
+{
+  "object_id": 436444,
+  "excel_metadata": {
+    "Object Number": "17.190.24",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 436444,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1917.0,
+    "Object Name": "Painting, predella panel",
+    "Title": "Saint Nicholas of Tolentino Reviving a Child",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16191.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Garofalo (Benvenuto Tisi da Garofalo)",
+    "Artist Display Bio": "Italian, Ferrara 1481–1559 Ferrara",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Garofalo (Benvenuto Tisi da Garofalo)",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1481",
+    "Artist End Date": "1559",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500011286",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q728512",
+    "Object Date": "ca. 1530",
+    "Object Begin Date": 1525,
+    "Object End Date": 1535,
+    "Medium": "Oil on canvas, transferred from wood",
+    "Dimensions": "13 x 25 3/4 in. (33 x 65.4 cm)",
+    "Credit Line": "Gift of J. Pierpont Morgan, 1917",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436444",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19905323",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Infants|Men|Women|Saints",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300189561|http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/aat/300150555",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q998|https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q43115"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-25981-001.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/Garofalo inscription.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 161919,
+        "role": "Artist",
+        "name": "Garofalo (Benvenuto Tisi da Garofalo)",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500011286",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q728512",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 33,
+          "Width": 65.4
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 4.445,
+          "Height": 44.4501,
+          "Width": 77.4702
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Infants",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300189561",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q998"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Saints",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300150555",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q43115"
+      }
+    ]
+  }
+}

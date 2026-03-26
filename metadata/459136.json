@@ -1,0 +1,102 @@
+{
+  "object_id": 459136,
+  "excel_metadata": {
+    "Object Number": "1975.1.12",
+    "Is Highlight": true,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 459136,
+    "Gallery Number": 952.0,
+    "Department": "Robert Lehman Collection",
+    "AccessionYear": 1975.0,
+    "Object Name": "Painting",
+    "Title": "Madonna and Child",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16210.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Simone Martini",
+    "Artist Display Bio": "Italian, Siena, active by 1315–died 1344 Avignon",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Martini, Simone",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1315",
+    "Artist End Date": "1344",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500399029",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q221043",
+    "Object Date": "ca. 1326",
+    "Object Begin Date": 1323,
+    "Object End Date": 1329,
+    "Medium": "Tempera on wood, gold ground",
+    "Dimensions": "Overall 23 1/8 x 15 1/2 in. (58.7 x 39.4 cm); painted surface 22 1/2 x 15 1/8 in. (57.2 x 38.4 cm)",
+    "Credit Line": "Robert Lehman Collection, 1975",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/459136",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20183716",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Madonna and Child",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901000052",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q9309699"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/rl/original/DP-29454-001.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/rl/original/RLC6.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/DT704.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 162107,
+        "role": "Artist",
+        "name": "Simone Martini",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500399029",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q221043",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 58.7,
+          "Width": 39.4
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 4.4450088,
+          "Height": 67.310135,
+          "Width": 48.260098
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Madonna and Child",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000052",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q9309699"
+      }
+    ]
+  }
+}

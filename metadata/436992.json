@@ -1,0 +1,95 @@
+{
+  "object_id": 436992,
+  "excel_metadata": {
+    "Object Number": "1982.60.12",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436992,
+    "Gallery Number": 542.0,
+    "Department": "European Paintings",
+    "AccessionYear": 1982.0,
+    "Object Name": "Painting",
+    "Title": "The Sense of Sight",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 4366.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Master of the Annunciation to the Shepherds",
+    "Artist Display Bio": "Italian, active Naples, ca. 1620–40",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Master of the Annunciation to the Shepherds",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1615",
+    "Artist End Date": "1645",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": NaN,
+    "Artist Wikidata URL": NaN,
+    "Object Date": NaN,
+    "Object Begin Date": 1625,
+    "Object End Date": 1649,
+    "Medium": "Oil on canvas",
+    "Dimensions": "Overall, with added strips, 29 7/8 x 24 7/8 in. (75.9 x 63.2 cm); without additions 27 3/4 x 21 3/4 in. (70.5 x 55.2 cm)",
+    "Credit Line": "The Jack and Belle Linsky Collection, 1982",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436992",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19913150",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Women|Mirrors",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/aat/300037682",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q35197"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT8845.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 43660,
+        "role": "Artist",
+        "name": "Master of the Annunciation to the Shepherds",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 75.9,
+          "Width": 63.2
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Mirrors",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300037682",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q35197"
+      }
+    ]
+  }
+}

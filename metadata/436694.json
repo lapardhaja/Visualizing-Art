@@ -1,0 +1,95 @@
+{
+  "object_id": 436694,
+  "excel_metadata": {
+    "Object Number": "24.80.505",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436694,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1924.0,
+    "Object Name": "Painting, miniature",
+    "Title": "Endymion Porter (1587–1649)",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10853.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "John Hoskins",
+    "Artist Display Bio": "British, active by ca. 1615–died 1665",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Hoskins, John",
+    "Artist Nationality": "British",
+    "Artist Begin Date": "1615",
+    "Artist End Date": "1665",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500032664",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q1934948",
+    "Object Date": "ca. 1630",
+    "Object Begin Date": 1625,
+    "Object End Date": 1635,
+    "Medium": "Vellum",
+    "Dimensions": "Oval, 3 1/8 x 2 5/8 in. (80 x 66 mm)",
+    "Credit Line": "Bequest of Mary Clark Thompson, 1923",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Miniatures",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436694",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19913920",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP327708.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 108531,
+        "role": "Artist",
+        "name": "John Hoskins",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500032664",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1934948",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 7.9,
+          "Width": 6.7
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

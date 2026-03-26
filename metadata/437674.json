@@ -1,0 +1,99 @@
+{
+  "object_id": 437674,
+  "excel_metadata": {
+    "Object Number": "49.7.13",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437674,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1949.0,
+    "Object Name": "Painting",
+    "Title": "Madonna and Child",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16241.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Luca Signorelli (Luca d'Egidio di Luca di Ventura)",
+    "Artist Display Bio": "Italian, Cortona, active by 1470–died 1523 Cortona",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Signorelli, Luca (Luca d'Egidio di Luca di Ventura)",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1470",
+    "Artist End Date": "1523",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500003947",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q7031",
+    "Object Date": "ca. 1505–7",
+    "Object Begin Date": 1505,
+    "Object End Date": 1507,
+    "Medium": "Oil and gold on wood",
+    "Dimensions": "20 1/4 x 18 3/4 in. (51.4 x 47.6 cm)",
+    "Credit Line": "The Jules Bache Collection, 1949",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437674",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19911566",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Madonna and Child",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901000052",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q9309699"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-25976-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162416,
+        "role": "Artist",
+        "name": "Luca Signorelli (Luca d&#39;Egidio di Luca di Ventura)",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500003947",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q7031",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 51.4,
+          "Width": 47.6
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 17.78,
+          "Height": 94.6152,
+          "Width": 82.8677
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Madonna and Child",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000052",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q9309699"
+      }
+    ]
+  }
+}

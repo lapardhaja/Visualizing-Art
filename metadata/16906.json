@@ -1,0 +1,104 @@
+{
+  "object_id": 16906,
+  "excel_metadata": {
+    "Object Number": "2001.269",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 16906,
+    "Gallery Number": NaN,
+    "Department": "The American Wing",
+    "AccessionYear": 2001.0,
+    "Object Name": "Painting",
+    "Title": "Henry G. Stebbins",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16457.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Henry Inman",
+    "Artist Display Bio": "American, Utica, New York 1801–1846 New York",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Inman, Henry",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1801",
+    "Artist End Date": "1846",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500021656",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q3132855",
+    "Object Date": "1838",
+    "Object Begin Date": 1838,
+    "Object End Date": 1838,
+    "Medium": "Oil on canvas",
+    "Dimensions": "30 x 24 in. (76.2 x 61 cm)",
+    "Credit Line": "Bequest of Josephine S. Stebbins, 2000",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/16906",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20171142",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DT4975.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 164576,
+        "role": "Artist",
+        "name": "Henry Inman",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500021656",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3132855",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 76.2,
+          "Width": 61
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 6.985,
+          "Height": 92.0752,
+          "Width": 78.7402
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

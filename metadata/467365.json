@@ -1,0 +1,89 @@
+{
+  "object_id": 467365,
+  "excel_metadata": {
+    "Object Number": "30.95.107",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 467365,
+    "Gallery Number": 307,
+    "Department": "Medieval Art",
+    "AccessionYear": 1930,
+    "Object Name": "Pendant",
+    "Title": "Pendant with St. Christopher Carrying the Christ Child",
+    "Culture": "German",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": null,
+    "Artist Role": null,
+    "Artist Prefix": null,
+    "Artist Display Name": null,
+    "Artist Display Bio": null,
+    "Artist Suffix": null,
+    "Artist Alpha Sort": null,
+    "Artist Nationality": null,
+    "Artist Begin Date": null,
+    "Artist End Date": null,
+    "Artist Gender": null,
+    "Artist ULAN URL": null,
+    "Artist Wikidata URL": null,
+    "Object Date": "late 15th century",
+    "Object Begin Date": 1450,
+    "Object End Date": 1499,
+    "Medium": "Copper-gilt",
+    "Dimensions": "Overall: 2 1/4 x 7/8 x 9/16 in. (5.7 x 2.2 x 1.5 cm)",
+    "Credit Line": "Theodore M. Davis Collection, Bequest of Theodore M. Davis, 1915",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Metalwork-Copper",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/467365",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q116281303",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Christ|Saint Christopher",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901000087|http://vocab.getty.edu/page/ia/901000586",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q642420|https://www.wikidata.org/wiki/Q193507"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/md/original/sf30-95-107s1.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/md/original/sf30-95-107s2.jpg"
+    ],
+    "constituents": null,
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 1.5,
+          "Height": 5.715,
+          "Width": 2.2225
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Christ",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+      },
+      {
+        "term": "Saint Christopher",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000586",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q193507"
+      }
+    ]
+  }
+}

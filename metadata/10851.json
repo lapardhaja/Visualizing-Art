@@ -1,0 +1,104 @@
+{
+  "object_id": 10851,
+  "excel_metadata": {
+    "Object Number": "00.17.2",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 10851,
+    "Gallery Number": NaN,
+    "Department": "The American Wing",
+    "AccessionYear": 1900.0,
+    "Object Name": "Painting",
+    "Title": "Mrs. James Clinton Griswold",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 249.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Charles Loring Elliott",
+    "Artist Display Bio": "1812–1868",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Elliott, Charles Loring",
+    "Artist Nationality": " ",
+    "Artist Begin Date": "1812",
+    "Artist End Date": "1868",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500013029",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q5080338",
+    "Object Date": "1854",
+    "Object Begin Date": 1854,
+    "Object End Date": 1854,
+    "Medium": "Oil on canvas",
+    "Dimensions": "36 1/8 x 29 1/4 in. (91.8 x 74.3 cm)",
+    "Credit Line": "Gift of Mrs. Henry G. Marquand, 1900",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/10851",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19923966",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Portraits|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/ap00.17.2.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 2499,
+        "role": "Artist",
+        "name": "Charles Loring Elliott",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500013029",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5080338",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 91.8,
+          "Width": 74.3
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 6.985,
+          "Height": 108.5852,
+          "Width": 90.8052
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "object_id": 198762,
+  "excel_metadata": {
+    "Object Number": "41.100.240",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 198762,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1941,
+    "Object Name": "Bust",
+    "Title": "Bernard Palissy",
+    "Culture": "French",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 3581,
+    "Artist Role": "Artist",
+    "Artist Prefix": "Probably by",
+    "Artist Display Name": "Giuseppe Devers",
+    "Artist Display Bio": "Italian, Turin 1823–1882 Turin",
+    "Artist Suffix": "(active in Paris from 1853 to 1871)",
+    "Artist Alpha Sort": "Devers, Giuseppe",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": 1823,
+    "Artist End Date": 1882,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500524768",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q21029067",
+    "Object Date": "ca. 1866",
+    "Object Begin Date": 1861,
+    "Object End Date": 1871,
+    "Medium": "Painted terracotta",
+    "Dimensions": "Height (with base): 38 in. (96.5 cm)",
+    "Credit Line": "Gift of George Blumenthal, 1941",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Sculpture",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/198762",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/134109.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/125039.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 35811,
+        "role": "Artist",
+        "name": "Probably by Giuseppe Devers",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500524768",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q21029067",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Height",
+        "elementDescription": "with base",
+        "elementMeasurements": {
+          "Height": 96.520195
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

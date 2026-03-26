@@ -1,0 +1,106 @@
+{
+  "object_id": 13307,
+  "excel_metadata": {
+    "Object Number": "77.5",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 13307,
+    "Gallery Number": NaN,
+    "Department": "The American Wing",
+    "AccessionYear": 1877.0,
+    "Object Name": "Painting",
+    "Title": "The Antiquary",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 302.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Edwin White",
+    "Artist Display Bio": "1817–1877",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "White, Edwin",
+    "Artist Nationality": " ",
+    "Artist Begin Date": "1817",
+    "Artist End Date": "1877",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500011995",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q5346912",
+    "Object Date": "1855",
+    "Object Begin Date": 1855,
+    "Object End Date": 1855,
+    "Medium": "Oil on canvas",
+    "Dimensions": "22 1/4 x 27 1/4 in. (56.5 x 69.2 cm)",
+    "Credit Line": "Gift of Mrs. Edwin White, 1877",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/13307",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19924194",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Interiors|Men",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300391239|http://vocab.getty.edu/page/aat/300025928",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q2998430|https://www.wikidata.org/wiki/Q8441"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/GRR White Ptg. 77.5 Ret.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ad/original/CT_1141.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 3020,
+        "role": "Artist",
+        "name": "Edwin White",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500011995",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5346912",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 9.3,
+          "Height": 61.8,
+          "Width": 51.7
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 56.5,
+          "Width": 69.2
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Interiors",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300391239",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q2998430"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      }
+    ]
+  }
+}

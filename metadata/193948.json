@@ -1,0 +1,103 @@
+{
+  "object_id": 193948,
+  "excel_metadata": {
+    "Object Number": "17.190.1300a–c",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 193948,
+    "Gallery Number": NaN,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1917.0,
+    "Object Name": "Souvenir, painting",
+    "Title": "Souvenir with portrait of a woman",
+    "Culture": "French, Paris",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16387.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": "Miniature by",
+    "Artist Display Name": "François Dumont",
+    "Artist Display Bio": "French, Lunéville 1751–1831 Paris",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Dumont, François",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1751",
+    "Artist End Date": "1831",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500061806",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q1451015",
+    "Object Date": "1776–77",
+    "Object Begin Date": 1776,
+    "Object End Date": 1777,
+    "Medium": "Gold, enamel; ivory",
+    "Dimensions": "3 3/8 × 2 in. (8.6 × 5.1 cm);\r\nminiature, oval: 1 3/8 × 1 1/8 in. (3.5 × 2.9 cm)",
+    "Credit Line": "Gift of J. Pierpont Morgan, 1917",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Metalwork-Gold and Platinum|Miniatures",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/193948",
+    "Object Wikidata URL": NaN,
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Portraits|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/39009.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 163874,
+        "role": "Artist",
+        "name": "Miniature by François Dumont",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500061806",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1451015",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": "miniature, oval",
+        "elementMeasurements": {
+          "Height": 3.492507,
+          "Width": 2.8575058
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 8.572517,
+          "Width": 5.08001
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

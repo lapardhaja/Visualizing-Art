@@ -1,0 +1,95 @@
+{
+  "object_id": 20412,
+  "excel_metadata": {
+    "Object Number": "2009.322",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 20412,
+    "Gallery Number": NaN,
+    "Department": "The American Wing",
+    "AccessionYear": 2009.0,
+    "Object Name": "Painting, miniature",
+    "Title": "Portrait of a Gentleman",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 476.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Jeremiah Paul, 1775-1820",
+    "Artist Display Bio": " ",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Paul, Jeremiah",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "          ",
+    "Artist End Date": "          ",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500025070",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q22577466",
+    "Object Date": "1800",
+    "Object Begin Date": 1800,
+    "Object End Date": 1800,
+    "Medium": "Watercolor on ivory",
+    "Dimensions": "3 1/4 x 2 11/16 in. (8.3 x 6.8 cm)",
+    "Credit Line": "Purchase, Amelia B. Lazarus Fund, by exchange, and Gift of Museum of Early Southern Decorative Arts at Old Salem, 2009",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/20412",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19924654",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DP218201.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 4763,
+        "role": "Artist",
+        "name": "Jeremiah Paul, 1775-1820",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500025070",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q22577466",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 8.255016,
+          "Width": 6.8262634
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

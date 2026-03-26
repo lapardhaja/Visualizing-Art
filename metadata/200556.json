@@ -1,0 +1,101 @@
+{
+  "object_id": 200556,
+  "excel_metadata": {
+    "Object Number": "49.7.61",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 200556,
+    "Gallery Number": 532,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1949,
+    "Object Name": "Statuette",
+    "Title": "Hercules with the Coat of Nessus",
+    "Culture": "possibly French",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 3750,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Unidentified",
+    "Artist Display Bio": " ",
+    "Artist Suffix": "sculptor",
+    "Artist Alpha Sort": "Unidentified",
+    "Artist Nationality": " ",
+    "Artist Begin Date": "          ",
+    "Artist End Date": "          ",
+    "Artist Gender": null,
+    "Artist ULAN URL": null,
+    "Artist Wikidata URL": null,
+    "Object Date": "17th century",
+    "Object Begin Date": 1600,
+    "Object End Date": 1699,
+    "Medium": "Bronze, marble",
+    "Dimensions": "H. 24 in. (61 cm.); H. of pedestal 6 in. (15.2 cm.)",
+    "Credit Line": "The Jules Bache Collection, 1949",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Sculpture-Bronze",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/200556",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q116308618",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Hercules",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901000042",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q122248"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP323420.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/DP323422.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP323423.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP323421.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/ES6044.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 37502,
+        "role": "Artist",
+        "name": "Unidentified",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Other",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 15.2
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 61
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Hercules",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000042",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q122248"
+      }
+    ]
+  }
+}

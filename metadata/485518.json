@@ -1,0 +1,88 @@
+{
+  "object_id": 485518,
+  "excel_metadata": {
+    "Object Number": "1990.38.1",
+    "Is Highlight": true,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 485518,
+    "Gallery Number": null,
+    "Department": "Modern and Contemporary Art",
+    "AccessionYear": 1990,
+    "Object Name": "Sculpture",
+    "Title": "Antigraceful",
+    "Culture": null,
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 16318,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Umberto Boccioni",
+    "Artist Display Bio": "Italian, Reggio 1882–1916 Sorte",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Boccioni, Umberto",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": 1882,
+    "Artist End Date": 1916,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500012624",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q152797",
+    "Object Date": "1913, cast 1950",
+    "Object Begin Date": 1913,
+    "Object End Date": 1950,
+    "Medium": "Bronze",
+    "Dimensions": "23 × 21 × 16 1/2 in. (58.4 × 53.3 × 41.9 cm)_x000D_\nWeight: 105 lb. (47.6 kg)",
+    "Credit Line": "Bequest of Lydia Winston Malbin, 1989",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Sculpture",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/485518",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q29385542",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ma/original/DT1322.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ma/original/DT6407.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 163186,
+        "role": "Artist",
+        "name": "Umberto Boccioni",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500012624",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q152797",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 41.910084,
+          "Height": 58.4,
+          "Weight": 48.081284,
+          "Width": 53.340107
+        }
+      }
+    ],
+    "tags": null
+  }
+}

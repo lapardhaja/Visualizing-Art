@@ -1,0 +1,91 @@
+{
+  "object_id": 200421,
+  "excel_metadata": {
+    "Object Number": "48.187.462",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 200421,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1948,
+    "Object Name": "Snuffbox",
+    "Title": "Snuffbox",
+    "Culture": "Swedish, Stockholm",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 3797,
+    "Artist Role": "Maker",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Catherine Kedjeström",
+    "Artist Display Bio": "Swedish, active 1762–73",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Kedjeström, Catherine",
+    "Artist Nationality": "Swedish",
+    "Artist Begin Date": 1762,
+    "Artist End Date": 1773,
+    "Artist Gender": "Female",
+    "Artist ULAN URL": null,
+    "Artist Wikidata URL": null,
+    "Object Date": "ca. 1770",
+    "Object Begin Date": 1765,
+    "Object End Date": 1775,
+    "Medium": "Gold",
+    "Dimensions": "Overall: 1 1/16 × 2 1/2 × 2 in. (2.7 × 6.4 × 5.1 cm)",
+    "Credit Line": "Bequest of Catherine D. Wentworth, 1948",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Metalwork-Gold and Platinum",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/200421",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Flowers",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300132399",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q506"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/SF48_187_462.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 37973,
+        "role": "Maker",
+        "name": "Catherine Kedjeström",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": "Female"
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 5.08001,
+          "Height": 2.6987555,
+          "Width": 6.350013
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Flowers",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132399",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q506"
+      }
+    ]
+  }
+}

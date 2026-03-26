@@ -1,0 +1,141 @@
+{
+  "object_id": 437342,
+  "excel_metadata": {
+    "Object Number": "1984.74",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 437342,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1984.0,
+    "Object Name": "Painting",
+    "Title": "The Lamentation",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10819.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Scipione Pulzone (Il Gaetano)",
+    "Artist Display Bio": "Italian, Gaeta, active by 1569–died 1598 Rome",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Pulzone, Scipione (Il Gaetano)",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1569",
+    "Artist End Date": "1598",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500015262",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q2632216",
+    "Object Date": "1593",
+    "Object Begin Date": 1593,
+    "Object End Date": 1593,
+    "Medium": "Oil on canvas",
+    "Dimensions": "114 x 68 in. (289.6 x 172.7 cm)",
+    "Credit Line": "Purchase, Anonymous Gift, in memory of Terence Cardinal Cooke, 1984",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437342",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19911628",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Sadness|Suffering|Mary Magdalene|Saint John the Evangelist|Lamentation|Death|Christ|Virgin Mary",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300055166|http://vocab.getty.edu/page/aat/300055184|http://vocab.getty.edu/page/ia/901000161|http://vocab.getty.edu/page/ia/901001171|http://vocab.getty.edu/page/ia/901001196|http://vocab.getty.edu/page/aat/300151836|http://vocab.getty.edu/page/ia/901000087|http://vocab.getty.edu/page/ia/901000032",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q169251|https://www.wikidata.org/wiki/Q5780945|https://www.wikidata.org/wiki/Q63070|https://www.wikidata.org/wiki/Q328804|https://www.wikidata.org/wiki/Q3155356|https://www.wikidata.org/wiki/Q4|https://www.wikidata.org/wiki/Q642420|https://www.wikidata.org/wiki/Q345"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT7692.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 108197,
+        "role": "Artist",
+        "name": "Scipione Pulzone (Il Gaetano)",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500015262",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q2632216",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 10.16,
+          "Height": 320.0406,
+          "Width": 200.6604
+        }
+      },
+      {
+        "elementName": "Other",
+        "elementDescription": "Picture + Frame (F.1984.74)",
+        "elementMeasurements": {
+          "Weight": 56.246033
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 289.6,
+          "Width": 172.7
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Sadness",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300055166",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q169251"
+      },
+      {
+        "term": "Suffering",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300055184",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q5780945"
+      },
+      {
+        "term": "Christ",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+      },
+      {
+        "term": "Mary Magdalene",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000161",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q63070"
+      },
+      {
+        "term": "Saint John the Evangelist",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901001171",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q328804"
+      },
+      {
+        "term": "Virgin Mary",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000032",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q345"
+      },
+      {
+        "term": "Lamentation",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901001196",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3155356"
+      },
+      {
+        "term": "Death",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300151836",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q4"
+      }
+    ]
+  }
+}

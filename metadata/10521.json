@@ -1,0 +1,114 @@
+{
+  "object_id": 10521,
+  "excel_metadata": {
+    "Object Number": "54.90.89",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 10521,
+    "Gallery Number": NaN,
+    "Department": "The American Wing",
+    "AccessionYear": 1954.0,
+    "Object Name": "Painting",
+    "Title": "New York from the Harbor Showing the Battery and Castle Garden",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 243.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Alfred Copestick",
+    "Artist Display Bio": "ca. 1837–1859",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Copestick, Alfred",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1837",
+    "Artist End Date": "1859",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500058257",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q21994014",
+    "Object Date": "1858",
+    "Object Begin Date": 1858,
+    "Object End Date": 1858,
+    "Medium": "Oil on canvas",
+    "Dimensions": "13 7/8 x 21 in. (35.2 x 53.3 cm)",
+    "Credit Line": "The Edward W. C. Arnold Collection of New York Prints, Maps, and Pictures, Bequest of Edward W. C. Arnold, 1954",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/10521",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19925459",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "New York City|Waves|Ships|Harbors",
+    "Tags AAT URL": "http://vocab.getty.edu/page/tgn/7007567|http://vocab.getty.edu/page/aat/300343616|http://vocab.getty.edu/page/aat/300082981|http://vocab.getty.edu/page/aat/300008678",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q60|https://www.wikidata.org/wiki/Q165848|https://www.wikidata.org/wiki/Q11446|https://www.wikidata.org/wiki/Q283202"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/ap54.90.89.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 2435,
+        "role": "Artist",
+        "name": "Alfred Copestick",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500058257",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q21994014",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 35.2,
+          "Width": 53.3
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 9.525,
+          "Height": 53.3401,
+          "Width": 71.4376
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Waves",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300343616",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q165848"
+      },
+      {
+        "term": "Ships",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300082981",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q11446"
+      },
+      {
+        "term": "Harbors",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300008678",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q283202"
+      },
+      {
+        "term": "New York City",
+        "AAT_URL": "http://vocab.getty.edu/page/tgn/7007567",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q60"
+      }
+    ]
+  }
+}

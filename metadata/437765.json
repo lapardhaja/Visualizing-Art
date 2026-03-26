@@ -1,0 +1,95 @@
+{
+  "object_id": 437765,
+  "excel_metadata": {
+    "Object Number": "62.122.44",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437765,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1962.0,
+    "Object Name": "Painting, miniature",
+    "Title": "Portrait of a Man",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10866.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Samuel John Stump",
+    "Artist Display Bio": "American, 1778–1863",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Stump, Samuel John",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1778",
+    "Artist End Date": "1863",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500003541",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q16065989",
+    "Object Date": "ca. 1825",
+    "Object Begin Date": 1820,
+    "Object End Date": 1830,
+    "Medium": "Ivory",
+    "Dimensions": "Oval, 2 5/8 x 2 1/4 in. (68 x 56 mm)",
+    "Credit Line": "Bequest of Millie Bruhl Fredrick, 1962",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Miniatures",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437765",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19913824",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/175569.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 108666,
+        "role": "Artist",
+        "name": "Samuel John Stump",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500003541",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q16065989",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 6.7,
+          "Width": 5.7
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

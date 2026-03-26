@@ -1,0 +1,127 @@
+{
+  "object_id": 437018,
+  "excel_metadata": {
+    "Object Number": "41.190.31bc",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 437018,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1941.0,
+    "Object Name": "Painting, wings of a triptych",
+    "Title": "Saints and Scenes from the Life of the Virgin",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16211.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Master of Monte Oliveto",
+    "Artist Display Bio": "Italian, active Siena ca. 1305–35",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Master of Monte Oliveto",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1305",
+    "Artist End Date": "1335",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500008161",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q18508515",
+    "Object Date": "ca. 1320",
+    "Object Begin Date": 1315,
+    "Object End Date": 1325,
+    "Medium": "Tempera on wood, gold ground",
+    "Dimensions": "Left wing, overall, with engaged frame, 25 1/4 x 9 1/4 in. (64.1 x 23.5 cm), painted surface 23 3/8 x 7 1/2 in. (59.4 x 19.1 cm); right wing, overall, with engaged frame, 25 1/8 x 9 3/8 in. (63.8 x 23.8 cm), painted surface 23 1/2 x 7 1/2 in. (59.7 x 19.1 cm)",
+    "Credit Line": "Bequest of George Blumenthal, 1941",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437018",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19905383",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Adoration of the Magi|Annunciation|Nativity|Adoration of the Shepherds|Mary Magdalene|Saint John the Baptist|Virgin Mary|Archangel Gabriel",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901000083|http://vocab.getty.edu/page/aat/300412102|http://vocab.getty.edu/page/ia/901000124|http://vocab.getty.edu/page/ia/901000229|http://vocab.getty.edu/page/ia/901000161|http://vocab.getty.edu/page/ia/901001056|http://vocab.getty.edu/page/ia/901000032|http://vocab.getty.edu/page/ia/901000493",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q488841|https://www.wikidata.org/wiki/Q154326|https://www.wikidata.org/wiki/Q51628|https://www.wikidata.org/wiki/Q1029715|https://www.wikidata.org/wiki/Q63070|https://www.wikidata.org/wiki/Q40662|https://www.wikidata.org/wiki/Q345|https://www.wikidata.org/wiki/Q81989"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP313620.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/DP313629.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 162110,
+        "role": "Artist",
+        "name": "Master of Monte Oliveto",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500008161",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q18508515",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 64.1,
+          "Width": 23.495047
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Mary Magdalene",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000161",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q63070"
+      },
+      {
+        "term": "Saint John the Baptist",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901001056",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q40662"
+      },
+      {
+        "term": "Virgin Mary",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000032",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q345"
+      },
+      {
+        "term": "Archangel Gabriel",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000493",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q81989"
+      },
+      {
+        "term": "Adoration of the Magi",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000083",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q488841"
+      },
+      {
+        "term": "Adoration of the Shepherds",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000229",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q1029715"
+      },
+      {
+        "term": "Annunciation",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300412102",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q154326"
+      },
+      {
+        "term": "Nativity",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000124",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q51628"
+      }
+    ]
+  }
+}

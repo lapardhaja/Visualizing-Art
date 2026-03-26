@@ -1,0 +1,98 @@
+{
+  "object_id": 207015,
+  "excel_metadata": {
+    "Object Number": "1982.60.110",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 207015,
+    "Gallery Number": 542,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1982,
+    "Object Name": "Bowl",
+    "Title": "Inkwell with three putti",
+    "Culture": "Italian, Padua",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 3371,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Francesco Bertos",
+    "Artist Display Bio": "Italian, 1678–1741",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Bertos Francesco",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": 1678,
+    "Artist End Date": 1741,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500000132",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q1440918",
+    "Object Date": "probably 1738",
+    "Object Begin Date": 1738,
+    "Object End Date": 1738,
+    "Medium": "Bronze, with remains of black lacquer",
+    "Dimensions": "Overall (confirmed): 15 × 9 1/4 × 6 5/8 in. (38.1 × 23.5 × 16.8 cm)",
+    "Credit Line": "The Jack and Belle Linsky Collection, 1982",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Sculpture-Bronze",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/207015",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q116307609",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Trumpets|Cupid",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300042339|http://vocab.getty.edu/page/aat/300380105",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8338|https://www.wikidata.org/wiki/Q5011"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP-917-001.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/DP-917-002.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 33715,
+        "role": "Artist",
+        "name": "Francesco Bertos",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500000132",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1440918",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 16.827534,
+          "Height": 38.100075,
+          "Width": 23.495047
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Trumpets",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300042339",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8338"
+      },
+      {
+        "term": "Cupid",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300380105",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q5011"
+      }
+    ]
+  }
+}

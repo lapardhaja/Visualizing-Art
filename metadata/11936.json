@@ -1,0 +1,104 @@
+{
+  "object_id": 11936,
+  "excel_metadata": {
+    "Object Number": "10.2",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 11936,
+    "Gallery Number": NaN,
+    "Department": "The American Wing",
+    "AccessionYear": 1910.0,
+    "Object Name": "Painting",
+    "Title": "The Old Mill (Vieux Moulin)",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 284.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Theodore Robinson",
+    "Artist Display Bio": "1852–1896",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Robinson, Theodore",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1852",
+    "Artist End Date": "1896",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500004025",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q1384543",
+    "Object Date": "ca. 1892",
+    "Object Begin Date": 1889,
+    "Object End Date": 1895,
+    "Medium": "Oil on canvas",
+    "Dimensions": "18 x 21 7/8 in. (45.7 x 55.6 cm)",
+    "Credit Line": "Gift of Mrs. Robert W. Chambers, 1910",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/11936",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19925014",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Buildings|Roads",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300004789|http://vocab.getty.edu/page/aat/300008217",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q41176|https://www.wikidata.org/wiki/Q34442"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/ap10.2.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 2844,
+        "role": "Artist",
+        "name": "Theodore Robinson",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500004025",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1384543",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 7.3025,
+          "Height": 66.3576,
+          "Width": 76.2002
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 45.7,
+          "Width": 55.6
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Buildings",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300004789",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q41176"
+      },
+      {
+        "term": "Roads",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300008217",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q34442"
+      }
+    ]
+  }
+}

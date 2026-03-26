@@ -1,0 +1,86 @@
+{
+  "object_id": 456136,
+  "excel_metadata": {
+    "Object Number": "10.175.4",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 456136,
+    "Gallery Number": null,
+    "Department": "Islamic Art",
+    "AccessionYear": 1910,
+    "Object Name": "Capital",
+    "Title": "Capital with Palm Leaves",
+    "Culture": null,
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": null,
+    "Artist Role": null,
+    "Artist Prefix": null,
+    "Artist Display Name": null,
+    "Artist Display Bio": null,
+    "Artist Suffix": null,
+    "Artist Alpha Sort": null,
+    "Artist Nationality": null,
+    "Artist Begin Date": null,
+    "Artist End Date": null,
+    "Artist Gender": null,
+    "Artist ULAN URL": null,
+    "Artist Wikidata URL": null,
+    "Object Date": "5th century",
+    "Object Begin Date": 400,
+    "Object End Date": 499,
+    "Medium": "Sandstone; carved",
+    "Dimensions": "H. 18 1/2 in. (47 cm)_x000D_\nW. (Base) 21 in. (53.3 cm)_x000D_\nD. (Base) 19 1/2 in. (49.5 cm)",
+    "Credit Line": "Rogers Fund, 1910",
+    "Geography Type": "Attributed to",
+    "City": "Aswan (Assouan)",
+    "State": null,
+    "County": null,
+    "Country": "Egypt",
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Sculpture",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/456136",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": null,
+    "Tags AAT URL": null,
+    "Tags Wikidata URL": null
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/is/original/10.175.4.JPG",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/is/original/9204.jpg"
+    ],
+    "constituents": null,
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 49.5301,
+          "Height": 46.9901,
+          "Width": 53.3401
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": "Abacus",
+        "elementMeasurements": {
+          "Height": 53.3401,
+          "Width": 49.5301
+        }
+      }
+    ],
+    "tags": null
+  }
+}

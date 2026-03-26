@@ -1,0 +1,114 @@
+{
+  "object_id": 437423,
+  "excel_metadata": {
+    "Object Number": "59.32",
+    "Is Highlight": true,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 437423,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1959.0,
+    "Object Name": "Painting",
+    "Title": "The Immaculate Conception",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16230.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Guido Reni",
+    "Artist Display Bio": "Italian, Bologna 1575–1642 Bologna",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Reni, Guido",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1575",
+    "Artist End Date": "1642",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500030334",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q109061",
+    "Object Date": "1627",
+    "Object Begin Date": 1627,
+    "Object End Date": 1627,
+    "Medium": "Oil on canvas",
+    "Dimensions": "105 1/2 x 73 in. (268 x 185.4 cm)",
+    "Credit Line": "Victor Wilbour Memorial Fund, 1959",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437423",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19911694",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Angels|Virgin Mary",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300379004|http://vocab.getty.edu/page/ia/901000032",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q235113|https://www.wikidata.org/wiki/Q345"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT1138.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-59_32-2.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-59_32-3.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 162301,
+        "role": "Artist",
+        "name": "Guido Reni",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500030334",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q109061",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 268,
+          "Width": 185.4
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 21.590044,
+          "Height": 318.77063,
+          "Width": 236.22047
+        }
+      },
+      {
+        "elementName": "Other",
+        "elementDescription": "Picture + Frame (F.59.32A)",
+        "elementMeasurements": {
+          "Weight": 108.86329
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Angels",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379004",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q235113"
+      },
+      {
+        "term": "Virgin Mary",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000032",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q345"
+      }
+    ]
+  }
+}

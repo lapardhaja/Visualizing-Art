@@ -1,0 +1,95 @@
+{
+  "object_id": 10753,
+  "excel_metadata": {
+    "Object Number": "36.73",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 10753,
+    "Gallery Number": NaN,
+    "Department": "The American Wing",
+    "AccessionYear": 1936.0,
+    "Object Name": "Painting, miniature",
+    "Title": "John Payne Todd",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 303.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": "Attributed to",
+    "Artist Display Name": "Joseph Wood",
+    "Artist Display Bio": "1778–1830",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Wood, Joseph",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1778",
+    "Artist End Date": "1830",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500005039",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q4128223",
+    "Object Date": "ca. 1817",
+    "Object Begin Date": 1817,
+    "Object End Date": 1817,
+    "Medium": "Watercolor on ivory",
+    "Dimensions": "2 5/8 x 2 1/16 in. (6.7 x 5.26 cm)",
+    "Credit Line": "Gift of Miss Mary Madison McGuire, 1936",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/10753",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19930628",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DP218809.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 3034,
+        "role": "Artist",
+        "name": "Attributed to Joseph Wood",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500005039",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q4128223",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 6.7,
+          "Width": 5.1
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

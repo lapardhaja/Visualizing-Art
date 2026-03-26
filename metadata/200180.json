@@ -1,0 +1,89 @@
+{
+  "object_id": 200180,
+  "excel_metadata": {
+    "Object Number": "48.187.150",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 200180,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1948,
+    "Object Name": "Wine taster",
+    "Title": "Wine taster",
+    "Culture": "French, possibly Orléans",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 3343,
+    "Artist Role": "Maker",
+    "Artist Prefix": "Possibly by",
+    "Artist Display Name": "Antoine-François Hanappier",
+    "Artist Display Bio": "master 1743, active 1756",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Hanappier Antoine-François",
+    "Artist Nationality": " ",
+    "Artist Begin Date": 1713,
+    "Artist End Date": 1786,
+    "Artist Gender": null,
+    "Artist ULAN URL": null,
+    "Artist Wikidata URL": null,
+    "Object Date": "mid-18th century",
+    "Object Begin Date": 1730,
+    "Object End Date": 1765,
+    "Medium": "Silver",
+    "Dimensions": "Overall: 1 1/4 × 3 1/4 in. (3.2 × 8.3 cm)",
+    "Credit Line": "Bequest of Catherine D. Wentworth, 1948",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Metalwork-Silver",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/200180",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": null,
+    "Tags AAT URL": null,
+    "Tags Wikidata URL": null
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/145637.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/145636.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/145638.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/145639.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/145640.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 33438,
+        "role": "Maker",
+        "name": "Possibly by Antoine-François Hanappier",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Diameter": 8.255016,
+          "Height": 3.1750064
+        }
+      }
+    ],
+    "tags": null
+  }
+}

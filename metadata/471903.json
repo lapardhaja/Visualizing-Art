@@ -1,0 +1,122 @@
+{
+  "object_id": 471903,
+  "excel_metadata": {
+    "Object Number": "61.199",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 471903,
+    "Gallery Number": 305.0,
+    "Department": "The Cloisters",
+    "AccessionYear": 1961.0,
+    "Object Name": "Painting",
+    "Title": "Scenes from the Life of Saint Augustine of Hippo",
+    "Culture": "South Netherlandish",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16543.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Master of Saint Augustine",
+    "Artist Display Bio": "Netherlandish, ca. 1490",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Master of Saint Augustine",
+    "Artist Nationality": "Netherlandish",
+    "Artist Begin Date": "1485",
+    "Artist End Date": "1495",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500001761",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q18516733",
+    "Object Date": "ca. 1490",
+    "Object Begin Date": 1490,
+    "Object End Date": 1490,
+    "Medium": "Oil, gold, and silver on wood",
+    "Dimensions": "Framed: 59 7/8 × 64 1/2 × 2 3/4 in., 98 lb. (152.1 × 163.8 × 7 cm, 44.5 kg)\r\n54 1/4 × 59 in. (137.8 × 149.9 cm)\r\nOther (greatest thickness): 3/8 in. (1 cm)",
+    "Credit Line": "The Cloisters Collection, 1961",
+    "Geography Type": "Made in",
+    "City": "Bruges",
+    "State": NaN,
+    "County": "Flanders",
+    "Country": "Southern Netherlands",
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings-Panels",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/471903",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20200892",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Saints|Dogs|Bishops|Monks",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300150555|http://vocab.getty.edu/page/aat/300265714|http://vocab.getty.edu/page/aat/300025756|http://vocab.getty.edu/page/aat/300025765",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q43115|https://www.wikidata.org/wiki/Q144|https://www.wikidata.org/wiki/Q29182|https://www.wikidata.org/wiki/Q733786"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/cl/original/DP-41433-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 165434,
+        "role": "Artist",
+        "name": "Master of Saint Augustine",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500001761",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q18516733",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Other",
+        "elementDescription": "greatest thickness",
+        "elementMeasurements": {
+          "Thickness": 0.9525
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 137.7953,
+          "Width": 149.8603
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 6.985014,
+          "Height": 152.08281,
+          "Weight": 44.452507,
+          "Width": 163.83032
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Dogs",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300265714",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q144"
+      },
+      {
+        "term": "Bishops",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025756",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q29182"
+      },
+      {
+        "term": "Monks",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025765",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q733786"
+      },
+      {
+        "term": "Saints",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300150555",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q43115"
+      }
+    ]
+  }
+}

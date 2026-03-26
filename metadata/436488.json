@@ -1,0 +1,105 @@
+{
+  "object_id": 436488,
+  "excel_metadata": {
+    "Object Number": "13.119.3",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436488,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1913.0,
+    "Object Name": "Painting, predella panel",
+    "Title": "Tobias and the Angel",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16453.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Davide Ghirlandaio (David Bigordi)",
+    "Artist Display Bio": "Italian, Florence 1452–1525 Florence",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Ghirlandaio, Davide (David Bigordi)",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1452",
+    "Artist End Date": "1525",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500021575",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q1145811",
+    "Object Date": "ca. 1479",
+    "Object Begin Date": 1474,
+    "Object End Date": 1484,
+    "Medium": "Tempera and gold on wood",
+    "Dimensions": "6 1/4 x 16 1/4 in. (15.9 x 41.3 cm)",
+    "Credit Line": "Francis L. Leland Fund, 1913",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436488",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912090",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Fish|Dogs|Angels",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300266085|http://vocab.getty.edu/page/aat/300265714|http://vocab.getty.edu/page/aat/300379004",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q152|https://www.wikidata.org/wiki/Q144|https://www.wikidata.org/wiki/Q235113"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT210659.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 164536,
+        "role": "Artist",
+        "name": "Davide Ghirlandaio (David Bigordi)",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500021575",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1145811",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 15.9,
+          "Width": 41.3
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Dogs",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300265714",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q144"
+      },
+      {
+        "term": "Fish",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300266085",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q152"
+      },
+      {
+        "term": "Angels",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379004",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q235113"
+      }
+    ]
+  }
+}

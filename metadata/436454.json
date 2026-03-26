@@ -1,0 +1,106 @@
+{
+  "object_id": 436454,
+  "excel_metadata": {
+    "Object Number": "41.17",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 436454,
+    "Gallery Number": 801.0,
+    "Department": "European Paintings",
+    "AccessionYear": 1941.0,
+    "Object Name": "Painting",
+    "Title": "Alfred Dedreux (1810–1860) as a Child",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16422.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Théodore Gericault",
+    "Artist Display Bio": "French, Rouen 1791–1824 Paris",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Gericault, Théodore",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1791",
+    "Artist End Date": "1824",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500115562",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q184212",
+    "Object Date": "ca. 1819–20",
+    "Object Begin Date": 1819,
+    "Object End Date": 1820,
+    "Medium": "Oil on canvas",
+    "Dimensions": "18 x 15 in. (45.7 x 38.1 cm)",
+    "Credit Line": "The Alfred N. Punnett Endowment Fund, 1941",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436454",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19905811",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Boys|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300247598|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q3010|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT2006.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/Gericault_41_17_IRR_overall2.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 164229,
+        "role": "Artist",
+        "name": "Théodore Gericault",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115562",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q184212",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 45.7,
+          "Width": 38.1
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 6.985,
+          "Height": 56.5151,
+          "Width": 48.8951
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Boys",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300247598",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3010"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

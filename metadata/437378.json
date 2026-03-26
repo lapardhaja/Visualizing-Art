@@ -1,0 +1,109 @@
+{
+  "object_id": 437378,
+  "excel_metadata": {
+    "Object Number": "64.266",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437378,
+    "Gallery Number": 813.0,
+    "Department": "European Paintings",
+    "AccessionYear": 1964.0,
+    "Object Name": "Painting",
+    "Title": "Bouquet in a Chinese Vase",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16229.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Odilon Redon",
+    "Artist Display Bio": "French, Bordeaux 1840–1916 Paris",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Redon, Odilon",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1840",
+    "Artist End Date": "1916",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500007292",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q154349",
+    "Object Date": "ca. 1912–14",
+    "Object Begin Date": 1890,
+    "Object End Date": 1916,
+    "Medium": "Oil on canvas",
+    "Dimensions": "25 1/2 x 19 5/8 in. (64.8 x 49.8 cm)",
+    "Credit Line": "The Mr. and Mrs. Henry Ittleson Jr. Purchase Fund, 1964",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437378",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912281",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Flowers|Vases|Still Life",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300132399|http://vocab.getty.edu/page/aat/300132254|http://vocab.getty.edu/page/aat/300015638",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q506|https://www.wikidata.org/wiki/Q191851|https://www.wikidata.org/wiki/Q170571"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP240599.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162295,
+        "role": "Artist",
+        "name": "Odilon Redon",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500007292",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q154349",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 64.8,
+          "Width": 49.8
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 12.065,
+          "Height": 92.0752,
+          "Width": 76.2002
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Flowers",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132399",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q506"
+      },
+      {
+        "term": "Still Life",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015638",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q170571"
+      },
+      {
+        "term": "Vases",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132254",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q191851"
+      }
+    ]
+  }
+}

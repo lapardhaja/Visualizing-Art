@@ -1,0 +1,88 @@
+{
+  "object_id": 55034,
+  "excel_metadata": {
+    "Object Number": "2000.313",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 55034,
+    "Gallery Number": NaN,
+    "Department": "Asian Art",
+    "AccessionYear": 2000.0,
+    "Object Name": "Painting",
+    "Title": NaN,
+    "Culture": "India (West Bengal, Calcutta, Khalighat)",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": NaN,
+    "Artist Role": NaN,
+    "Artist Prefix": NaN,
+    "Artist Display Name": NaN,
+    "Artist Display Bio": NaN,
+    "Artist Suffix": NaN,
+    "Artist Alpha Sort": NaN,
+    "Artist Nationality": NaN,
+    "Artist Begin Date": NaN,
+    "Artist End Date": NaN,
+    "Artist Gender": NaN,
+    "Artist ULAN URL": NaN,
+    "Artist Wikidata URL": NaN,
+    "Object Date": "ca. 1865–75",
+    "Object Begin Date": 1855,
+    "Object End Date": 1885,
+    "Medium": "Ink, opaque watercolor, and silver paint on paper",
+    "Dimensions": "18 x 11 in. (45.7 x 27.9 cm)",
+    "Credit Line": "Purchase, Rogers Fund, Evelyn Kranes Kossak Gift, and funds from various donors, 2000",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/55034",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q78742203",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Corpses|Shiva",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300410264|http://vocab.getty.edu/page/ia/901000021",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q48422|https://www.wikidata.org/wiki/Q11378"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/as/original/2000_313_recto.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/as/original/2000_313_verso.jpg"
+    ],
+    "constituents": null,
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 45.7,
+          "Width": 27.9
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Corpses",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300410264",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q48422"
+      },
+      {
+        "term": "Shiva",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000021",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q11378"
+      }
+    ]
+  }
+}

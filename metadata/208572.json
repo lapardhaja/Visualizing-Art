@@ -1,0 +1,100 @@
+{
+  "object_id": 208572,
+  "excel_metadata": {
+    "Object Number": 1997.91,
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 208572,
+    "Gallery Number": 533,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1997,
+    "Object Name": "Relief",
+    "Title": "Joseph and Potiphar's Wife",
+    "Culture": "Austrian",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 3348,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Balthasar Griessmann",
+    "Artist Display Bio": "Wasserburg 1620–1706 Salzburg",
+    "Artist Suffix": ", or his circle",
+    "Artist Alpha Sort": "GRIESSMANN BALTHASAR",
+    "Artist Nationality": " ",
+    "Artist Begin Date": 1620,
+    "Artist End Date": 1706,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500204739",
+    "Artist Wikidata URL": null,
+    "Object Date": "second half 17th century",
+    "Object Begin Date": 1650,
+    "Object End Date": 1699,
+    "Medium": "Ivory",
+    "Dimensions": "Overall: 3 11/16 × 6 7/8 in. (9.4 × 17.5 cm)",
+    "Credit Line": "Purchase, Alexis Gregory Gift, 1997",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Sculpture-Miniature",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/208572",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q116306815",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Beds|Men|Female Nudes",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300038697|http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300189568",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q42177|https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q40446"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DT4162.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 33483,
+        "role": "Artist",
+        "name": "Balthasar Griessmann",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500204739",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 9.4,
+          "Width": 17.5
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Female Nudes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300189568",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q40446"
+      },
+      {
+        "term": "Beds",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300038697",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q42177"
+      }
+    ]
+  }
+}

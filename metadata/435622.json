@@ -1,0 +1,114 @@
+{
+  "object_id": 435622,
+  "excel_metadata": {
+    "Object Number": "1982.438",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 435622,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1982.0,
+    "Object Name": "Painting",
+    "Title": "Diana and Cupid",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16165.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Pompeo Batoni",
+    "Artist Display Bio": "Italian, Lucca 1708–1787 Rome",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Batoni, Pompeo",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1708",
+    "Artist End Date": "1787",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500012720",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q505613",
+    "Object Date": "1761",
+    "Object Begin Date": 1761,
+    "Object End Date": 1761,
+    "Medium": "Oil on canvas",
+    "Dimensions": "49 x 68 in. (124.5 x 172.7 cm)",
+    "Credit Line": "Purchase, The Charles Engelhard Foundation, Robert Lehman Foundation Inc., Mrs. Haebler Frantz, April R. Axton, L. H. P. Klotz, and David Mortimer Gifts; and Gifts of Mr. and Mrs. Charles Wrightsman, George Blumenthal, and J. Pierpont Morgan, Bequests of Millie Bruhl Fredrick and Mary Clark Thompson, and Rogers Fund, by exchange, 1982",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/435622",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19911988",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Cupid|Diana|Dogs|Bow and Arrow",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300380105|http://vocab.getty.edu/page/ia/901000118|http://vocab.getty.edu/page/aat/300265714| ",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q5011|https://www.wikidata.org/wiki/Q132543|https://www.wikidata.org/wiki/Q144|https://www.wikidata.org/wiki/Q19827042"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-24221-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 161658,
+        "role": "Artist",
+        "name": "Pompeo Batoni",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500012720",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q505613",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 124.5,
+          "Width": 172.7
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 10.16,
+          "Height": 149.2253,
+          "Width": 195.5804
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Bow and Arrow",
+        "AAT_URL": null,
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q19827042"
+      },
+      {
+        "term": "Cupid",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300380105",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q5011"
+      },
+      {
+        "term": "Diana",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000118",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q132543"
+      },
+      {
+        "term": "Dogs",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300265714",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q144"
+      }
+    ]
+  }
+}

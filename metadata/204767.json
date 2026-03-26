@@ -1,0 +1,91 @@
+{
+  "object_id": 204767,
+  "excel_metadata": {
+    "Object Number": "67.155.13",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 204767,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1967,
+    "Object Name": "Bust",
+    "Title": "Mask of the Man with the Broken Nose (Masque de l'homme au nez cassé)",
+    "Culture": "French",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 16232,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Auguste Rodin",
+    "Artist Display Bio": "French, Paris 1840–1917 Meudon",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Rodin, Auguste",
+    "Artist Nationality": "French",
+    "Artist Begin Date": 1840,
+    "Artist End Date": 1917,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500016619",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q30755",
+    "Object Date": "model finished in 1864, cast date unknown",
+    "Object Begin Date": 1864,
+    "Object End Date": 1864,
+    "Medium": "Bronze",
+    "Dimensions": "Overall: 12 1/2 × 7 1/4 × 6 1/8 in. (31.8 × 18.4 × 15.6 cm)",
+    "Credit Line": "Bequest of Susan Vanderpoel Clark, 1967",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Sculpture-Bronze",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/204767",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/197273.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162325,
+        "role": "Artist",
+        "name": "Auguste Rodin",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500016619",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q30755",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 15.557531,
+          "Height": 31.750063,
+          "Width": 18.415037
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      }
+    ]
+  }
+}

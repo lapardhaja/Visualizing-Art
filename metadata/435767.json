@@ -1,0 +1,95 @@
+{
+  "object_id": 435767,
+  "excel_metadata": {
+    "Object Number": "24.80.533",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 435767,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1924.0,
+    "Object Name": "Painting, miniature",
+    "Title": "Portrait of a Man",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10855.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": "Attributed to",
+    "Artist Display Name": "Joseph Boze",
+    "Artist Display Bio": "French, 1745–1825/26",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Boze, Joseph",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1745",
+    "Artist End Date": "1826",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500016461",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q447676",
+    "Object Date": "probably ca. 1790",
+    "Object Begin Date": 1785,
+    "Object End Date": 1795,
+    "Medium": "Ivory",
+    "Dimensions": "Oval, 1 7/8 x 1 1/2 in. (47 x 38 mm)",
+    "Credit Line": "Bequest of Mary Clark Thompson, 1923",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Miniatures",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/435767",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19914002",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/57123.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 108553,
+        "role": "Artist",
+        "name": "Attributed to Joseph Boze",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500016461",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q447676",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 4.8,
+          "Width": 3.8
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

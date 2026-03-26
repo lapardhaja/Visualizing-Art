@@ -1,0 +1,91 @@
+{
+  "object_id": 37991,
+  "excel_metadata": {
+    "Object Number": "58.1.2",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 37991,
+    "Gallery Number": NaN,
+    "Department": "Asian Art",
+    "AccessionYear": 1958.0,
+    "Object Name": "Painting",
+    "Title": NaN,
+    "Culture": "India (Punjab Hills, Kangra)",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": NaN,
+    "Artist Role": NaN,
+    "Artist Prefix": NaN,
+    "Artist Display Name": NaN,
+    "Artist Display Bio": NaN,
+    "Artist Suffix": NaN,
+    "Artist Alpha Sort": NaN,
+    "Artist Nationality": NaN,
+    "Artist Begin Date": NaN,
+    "Artist End Date": NaN,
+    "Artist Gender": NaN,
+    "Artist ULAN URL": NaN,
+    "Artist Wikidata URL": NaN,
+    "Object Date": "ca. 1800",
+    "Object Begin Date": 1790,
+    "Object End Date": 1810,
+    "Medium": "Ink, opaque watercolor, and gilt on paper",
+    "Dimensions": "7 1/4 x 5 13/16 in. (18.4 x 14.8 cm)",
+    "Credit Line": "Rogers Fund, 1958",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/37991",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q78877616",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Couples|Men|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300379217|http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q219160|https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/as/original/DP152308.jpg",
+    "additionalImages": [],
+    "constituents": null,
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 18.42,
+          "Width": 14.76
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Couples",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379217",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q219160"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

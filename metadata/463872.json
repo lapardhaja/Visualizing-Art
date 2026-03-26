@@ -1,0 +1,99 @@
+{
+  "object_id": 463872,
+  "excel_metadata": {
+    "Object Number": "16.32.267",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 463872,
+    "Gallery Number": null,
+    "Department": "Medieval Art",
+    "AccessionYear": 1916,
+    "Object Name": "Statuette",
+    "Title": "Saint Anne with Virgin and Child",
+    "Culture": "South Netherlandish",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": null,
+    "Artist Role": null,
+    "Artist Prefix": null,
+    "Artist Display Name": null,
+    "Artist Display Bio": null,
+    "Artist Suffix": null,
+    "Artist Alpha Sort": null,
+    "Artist Nationality": null,
+    "Artist Begin Date": null,
+    "Artist End Date": null,
+    "Artist Gender": null,
+    "Artist ULAN URL": null,
+    "Artist Wikidata URL": null,
+    "Object Date": "1500–1510",
+    "Object Begin Date": 1500,
+    "Object End Date": 1510,
+    "Medium": "Oak",
+    "Dimensions": "Overall (with base): 19 3/4 x 6 x 4 1/8 in. (50.2 x 15.2 x 10.5 cm)_x000D_\nOverall (without base): 18 3/4 x 5 x 4 in. (47.6 x 12.7 x 10.2 cm)",
+    "Credit Line": "Gift of J. Pierpont Morgan, 1916",
+    "Geography Type": "Made in",
+    "City": "Brussels",
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Sculpture-Wood",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/463872",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Saint Anne",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901001010",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q164294"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/md/original/sf16-32-267s6.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/md/original/sf16-32-267s2.jpg",
+      "https://images.metmuseum.org/CRDImages/md/original/sf16-32-267s3.jpg",
+      "https://images.metmuseum.org/CRDImages/md/original/sf16-32-267s4.jpg",
+      "https://images.metmuseum.org/CRDImages/md/original/sf16-32-267s5.jpg",
+      "https://images.metmuseum.org/CRDImages/md/original/sf16-32-267d1.jpg",
+      "https://images.metmuseum.org/CRDImages/md/original/sf16-32-267d2.jpg",
+      "https://images.metmuseum.org/CRDImages/md/original/sf16-32-267d3.jpg"
+    ],
+    "constituents": null,
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": "without base",
+        "elementMeasurements": {
+          "Depth": 10.16002,
+          "Height": 47.625095,
+          "Width": 12.700026
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": "with base",
+        "elementMeasurements": {
+          "Depth": 10.477521,
+          "Height": 50.1651,
+          "Width": 15.24003
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Saint Anne",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901001010",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q164294"
+      }
+    ]
+  }
+}

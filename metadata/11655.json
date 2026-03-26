@@ -1,0 +1,93 @@
+{
+  "object_id": 11655,
+  "excel_metadata": {
+    "Object Number": "25.198",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 11655,
+    "Gallery Number": NaN,
+    "Department": "The American Wing",
+    "AccessionYear": 1925.0,
+    "Object Name": "Painting",
+    "Title": "Hagar and Ishmael",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 276.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Robert Loftin Newman",
+    "Artist Display Bio": "1827–1912",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Newman, Robert Loftin",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1827",
+    "Artist End Date": "1912",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500009311",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q7346973",
+    "Object Date": "by 1894",
+    "Object Begin Date": 1893,
+    "Object End Date": 1894,
+    "Medium": "Oil on canvas",
+    "Dimensions": "14 1/8 x 18 in. (35.9 x 45.7 cm)",
+    "Credit Line": "Gift of Mrs. Wallace Sawyer, 1925",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/11655",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20172607",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": NaN,
+    "Tags AAT URL": NaN,
+    "Tags Wikidata URL": NaN
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/ap25.198.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 2760,
+        "role": "Artist",
+        "name": "Robert Loftin Newman",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500009311",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q7346973",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 35.9,
+          "Width": 45.7
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 10,
+          "Height": 55,
+          "Width": 65.3
+        }
+      }
+    ],
+    "tags": null
+  }
+}

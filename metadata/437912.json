@@ -1,0 +1,112 @@
+{
+  "object_id": 437912,
+  "excel_metadata": {
+    "Object Number": "50.229.1",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437912,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1950.0,
+    "Object Name": "Painting",
+    "Title": "The Death of the Virgin",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16266.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Bartolomeo Vivarini",
+    "Artist Display Bio": "Italian, active Venice 1450–91",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Vivarini, Bartolomeo",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1450",
+    "Artist End Date": "1491",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500029396",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q456971",
+    "Object Date": "1484",
+    "Object Begin Date": 1484,
+    "Object End Date": 1484,
+    "Medium": "Tempera on wood",
+    "Dimensions": "Arched top, 74 3/4 x 59 in. (189.9 x 149.9 cm)",
+    "Credit Line": "Gift of Robert Lehman, 1950",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437912",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19904860",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Angels|Christ|Virgin Mary|Death of the Virgin",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300379004|http://vocab.getty.edu/page/ia/901000087|http://vocab.getty.edu/page/ia/901000032|http://vocab.getty.edu/page/ia/901000556",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q235113|https://www.wikidata.org/wiki/Q642420|https://www.wikidata.org/wiki/Q345|https://www.wikidata.org/wiki/Q1245512"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP231371.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162660,
+        "role": "Artist",
+        "name": "Bartolomeo Vivarini",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500029396",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q456971",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 189.9,
+          "Width": 149.9
+        }
+      },
+      {
+        "elementName": "Other",
+        "elementDescription": "Picture + Frame ",
+        "elementMeasurements": {
+          "Weight": 54.431644
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Angels",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379004",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q235113"
+      },
+      {
+        "term": "Christ",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+      },
+      {
+        "term": "Virgin Mary",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000032",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q345"
+      },
+      {
+        "term": "Death of the Virgin",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000556",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q1245512"
+      }
+    ]
+  }
+}

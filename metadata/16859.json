@@ -1,0 +1,95 @@
+{
+  "object_id": 16859,
+  "excel_metadata": {
+    "Object Number": "2000.452.1",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 16859,
+    "Gallery Number": NaN,
+    "Department": "The American Wing",
+    "AccessionYear": 2000.0,
+    "Object Name": "Painting, miniature",
+    "Title": "Self-portrait",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16388.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Thomas Seir Cummings",
+    "Artist Display Bio": "American (born England), Bath 1804–1894 Hackensack, New Jersey",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Cummings, Thomas Seir",
+    "Artist Nationality": "American, born England",
+    "Artist Begin Date": "1804",
+    "Artist End Date": "1894",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500096121",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q7793863",
+    "Object Date": "ca. 1825",
+    "Object Begin Date": 1822,
+    "Object End Date": 1828,
+    "Medium": "Watercolor on ivory",
+    "Dimensions": "3 x 2 1/2 in. (7.6 x 6.4 cm)",
+    "Credit Line": "Gift of Thomas S. C. Holberton Jr., 2000",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/16859",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20176981",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Self-portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300124534",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q192110"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DP105587.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 163888,
+        "role": "Artist",
+        "name": "Thomas Seir Cummings",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500096121",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q7793863",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 7.6,
+          "Width": 6.35
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Self-portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300124534",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q192110"
+      }
+    ]
+  }
+}

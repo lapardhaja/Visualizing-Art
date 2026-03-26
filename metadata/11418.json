@@ -1,0 +1,104 @@
+{
+  "object_id": 11418,
+  "excel_metadata": {
+    "Object Number": "03.16",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 11418,
+    "Gallery Number": NaN,
+    "Department": "The American Wing",
+    "AccessionYear": 1903.0,
+    "Object Name": "Painting",
+    "Title": "Worthington Whittredge",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16206.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Emanuel Leutze",
+    "Artist Display Bio": "American, Schwäbisch Gmünd 1816–1868 Washington, D.C.",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Leutze, Emanuel",
+    "Artist Nationality": "German American",
+    "Artist Begin Date": "1816",
+    "Artist End Date": "1868",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500005129",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q452321",
+    "Object Date": "1856",
+    "Object Begin Date": 1856,
+    "Object End Date": 1856,
+    "Medium": "Oil on canvas",
+    "Dimensions": "50 7/8 x 40 1/2 in. (129.2 x 102.9 cm)",
+    "Credit Line": "Gift of Several Gentlemen, 1903",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/11418",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20172334",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DP201959.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162060,
+        "role": "Artist",
+        "name": "Emanuel Leutze",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500005129",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q452321",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 129.2,
+          "Width": 102.9
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 17.5,
+          "Height": 181,
+          "Width": 137.2
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

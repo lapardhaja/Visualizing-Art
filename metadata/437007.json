@@ -1,0 +1,136 @@
+{
+  "object_id": 437007,
+  "excel_metadata": {
+    "Object Number": "43.98.5",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 437007,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1943.0,
+    "Object Name": "Painting",
+    "Title": "The Crucifixion",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16161.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Fra Angelico (Guido di Pietro)",
+    "Artist Display Bio": "Italian, Vicchio di Mugello ca. 1395–1455 Rome",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Angelico, Fra (Guido di Pietro)",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1395",
+    "Artist End Date": "1455",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500029319",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q5664",
+    "Object Date": "ca. 1420–23",
+    "Object Begin Date": 1420,
+    "Object End Date": 1423,
+    "Medium": "Tempera on wood, gold ground",
+    "Dimensions": "25 1/8 x 19 in. (63.8 x 48.3 cm)",
+    "Credit Line": "Maitland F. Griggs Collection, Bequest of Maitland F. Griggs, 1943",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437007",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19911473",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Horses|Soldiers|Crucifixion|Skulls|Mary Magdalene|Angels|Christ|Virgin Mary",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300250148|http://vocab.getty.edu/page/aat/300185678|http://vocab.getty.edu/page/aat/300404300|http://vocab.getty.edu/page/aat/300191856|http://vocab.getty.edu/page/ia/901000161|http://vocab.getty.edu/page/aat/300379004|http://vocab.getty.edu/page/ia/901000087|http://vocab.getty.edu/page/ia/901000032",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q726|https://www.wikidata.org/wiki/Q4991371|https://www.wikidata.org/wiki/Q3235597|https://www.wikidata.org/wiki/Q13147|https://www.wikidata.org/wiki/Q63070|https://www.wikidata.org/wiki/Q235113|https://www.wikidata.org/wiki/Q642420|https://www.wikidata.org/wiki/Q345"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-31245-001.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/43_98_5_suppl_001.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 161610,
+        "role": "Artist",
+        "name": "Fra Angelico (Guido di Pietro)",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500029319",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5664",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 5.397511,
+          "Height": 66.357635,
+          "Width": 51.7526
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 63.8,
+          "Width": 48.3
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Soldiers",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300185678",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q4991371"
+      },
+      {
+        "term": "Skulls",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300191856",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q13147"
+      },
+      {
+        "term": "Horses",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250148",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q726"
+      },
+      {
+        "term": "Angels",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379004",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q235113"
+      },
+      {
+        "term": "Christ",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+      },
+      {
+        "term": "Mary Magdalene",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000161",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q63070"
+      },
+      {
+        "term": "Virgin Mary",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000032",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q345"
+      },
+      {
+        "term": "Crucifixion",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300404300",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3235597"
+      }
+    ]
+  }
+}

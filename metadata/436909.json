@@ -1,0 +1,108 @@
+{
+  "object_id": 436909,
+  "excel_metadata": {
+    "Object Number": "09.197",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436909,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1909.0,
+    "Object Name": "Painting",
+    "Title": "Madonna Adoring the Child with the Infant Saint John the Baptist and an Angel",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16359.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Lorenzo di Credi (Lorenzo d'Andrea d'Oderigo)",
+    "Artist Display Bio": "Italian, Florence 1456/59–1536 Florence",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Lorenzo di Credi (Lorenzo d'Andrea d'Oderigo)",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1456",
+    "Artist End Date": "1536",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500115418",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q8511",
+    "Object Date": "early 1490s",
+    "Object Begin Date": 1490,
+    "Object End Date": 1490,
+    "Medium": "Tempera on wood",
+    "Dimensions": "Diameter 36 in. (91.4 cm)",
+    "Credit Line": "Rogers Fund, 1909",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436909",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19905099",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Madonna and Child|Saint John the Baptist|Angels|Christ",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901000052|http://vocab.getty.edu/page/ia/901001056|http://vocab.getty.edu/page/aat/300379004|http://vocab.getty.edu/page/ia/901000087",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q9309699|https://www.wikidata.org/wiki/Q40662|https://www.wikidata.org/wiki/Q235113|https://www.wikidata.org/wiki/Q642420"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP358280.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/DT210699.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/Lorenzo di Credi M&C.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 163590,
+        "role": "Artist",
+        "name": "Lorenzo di Credi (Lorenzo d&#39;Andrea d&#39;Oderigo)",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115418",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q8511",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 91.4,
+          "Width": 91.4
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Angels",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379004",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q235113"
+      },
+      {
+        "term": "Christ",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+      },
+      {
+        "term": "Madonna and Child",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000052",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q9309699"
+      },
+      {
+        "term": "Saint John the Baptist",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901001056",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q40662"
+      }
+    ]
+  }
+}

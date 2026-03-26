@@ -1,0 +1,107 @@
+{
+  "object_id": 206698,
+  "excel_metadata": {
+    "Object Number": 1977.339,
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 206698,
+    "Gallery Number": 536,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1977,
+    "Object Name": "Statuette",
+    "Title": "Hermaphrodite",
+    "Culture": "Italian, Florence",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 3372,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Giovanni Francesco Susini",
+    "Artist Display Bio": "Italian, Florence 1585–1653 Florence",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Susini, Giovanni Francesco",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": 1585,
+    "Artist End Date": 1653,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500022671",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q3767287",
+    "Object Date": 1639,
+    "Object Begin Date": 1639,
+    "Object End Date": 1639,
+    "Medium": "Bronze",
+    "Dimensions": "Overall Figure confirmed: 4 5/8 × 17 × 7 1/4 in. (11.7 × 43.2 × 18.4 cm)",
+    "Credit Line": "Gift of Mr. and Mrs. Claus von Bülow, 1977",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Sculpture-Bronze",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/206698",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q116309859",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Hermaphrodites",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300386060",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q303479"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DT10047.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/DT10048.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP-918-001.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP-918-002.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP-918-003.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP-918-004.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP-918-005.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 33728,
+        "role": "Artist",
+        "name": "Giovanni Francesco Susini",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500022671",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3767287",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": "Overall (base, confirmed)",
+        "elementMeasurements": {
+          "Depth": 19.050037,
+          "Height": 8.572517,
+          "Width": 40.64008
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": "Overall Figure confirmed",
+        "elementMeasurements": {
+          "Depth": 18.415037,
+          "Height": 11.747523,
+          "Width": 43.180088
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Hermaphrodites",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300386060",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q303479"
+      }
+    ]
+  }
+}

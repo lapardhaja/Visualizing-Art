@@ -1,0 +1,119 @@
+{
+  "object_id": 193855,
+  "excel_metadata": {
+    "Object Number": "17.190.1178",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 193855,
+    "Gallery Number": NaN,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1917.0,
+    "Object Name": "Snuffbox, painting",
+    "Title": "Snuffbox with four maritime scenes; Louis XIV crossing the Rhine in 1672",
+    "Culture": "French, Paris",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16259116556.0,
+    "Artist Role": "Maker|Artist",
+    "Artist Prefix": " |Miniatures attributed to",
+    "Artist Display Name": "Adrien Jean Maximilien Vachette|Henri Joseph van Blarenberghe",
+    "Artist Display Bio": "French, Cauffry 1753–1839 Paris|French, Lille 1750–1826 Lille",
+    "Artist Suffix": " | ",
+    "Artist Alpha Sort": "Vachette, Adrien Jean Maximilien|Blarenberghe, Henri Joseph van",
+    "Artist Nationality": "French|French",
+    "Artist Begin Date": "1753      |1750      ",
+    "Artist End Date": "1839      |1826      ",
+    "Artist Gender": "|",
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500524238|http://vocab.getty.edu/page/ulan/500020237",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q4685662|https://www.wikidata.org/wiki/Q16038756",
+    "Object Date": "1798–1838",
+    "Object Begin Date": 1798,
+    "Object End Date": 1838,
+    "Medium": "Gold, enamel",
+    "Dimensions": "Box: 2-3/4 x 2 in.  (7.0 x 5.1 cm); Miniatures: front and back, each:  5/8 x 2-3/8 in. (1.6 x 6 cm), left and right, each:  5/8 x 1-5/8 in. (1.6 x 4.1 cm)",
+    "Credit Line": "Gift of J. Pierpont Morgan, 1917",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Metalwork-Gold and Platinum|Miniatures",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/193855",
+    "Object Wikidata URL": NaN,
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Horses|Battles|Kings|Louis XIV",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300250148|http://vocab.getty.edu/page/aat/300185692|http://vocab.getty.edu/page/aat/300025481|http://vocab.getty.edu/page/ulan/500122256",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q726|https://www.wikidata.org/wiki/Q178561|https://www.wikidata.org/wiki/Q12097|https://www.wikidata.org/wiki/Q7742"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP328630.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/DP328626.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP328627.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP328628.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP328629.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/257483.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 162591,
+        "role": "Maker",
+        "name": "Adrien Jean Maximilien Vachette",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500524238",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q4685662",
+        "gender": ""
+      },
+      {
+        "constituentID": 165562,
+        "role": "Artist",
+        "name": "Miniatures attributed to Henri Joseph van Blarenberghe",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500020237",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q16038756",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 7,
+          "Width": 5.1
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Battles",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300185692",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q178561"
+      },
+      {
+        "term": "Kings",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025481",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q12097"
+      },
+      {
+        "term": "Louis XIV",
+        "AAT_URL": "http://vocab.getty.edu/page/ulan/500122256",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q7742"
+      },
+      {
+        "term": "Horses",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250148",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q726"
+      }
+    ]
+  }
+}

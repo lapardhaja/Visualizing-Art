@@ -1,0 +1,129 @@
+{
+  "object_id": 437310,
+  "excel_metadata": {
+    "Object Number": "60.174",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437310,
+    "Gallery Number": 820.0,
+    "Department": "European Paintings",
+    "AccessionYear": 1960.0,
+    "Object Name": "Painting",
+    "Title": "The Boulevard Montmartre on a Winter Morning",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16225.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Camille Pissarro",
+    "Artist Display Bio": "French, Charlotte Amalie, Saint Thomas 1830–1903 Paris",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Pissarro, Camille",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1830",
+    "Artist End Date": "1903",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500001924",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q134741",
+    "Object Date": "1897",
+    "Object Begin Date": 1897,
+    "Object End Date": 1897,
+    "Medium": "Oil on canvas",
+    "Dimensions": "25 1/2 x 32 in. (64.8 x 81.3 cm)",
+    "Credit Line": "Gift of Katrin S. Vietor, in loving memory of Ernest G. Vietor, 1960",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437310",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q18616822",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Buildings|Roads|Winter|Cities|Streets|Carriages|Paris",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300004789|http://vocab.getty.edu/page/aat/300008217|http://vocab.getty.edu/page/aat/300133101|http://vocab.getty.edu/page/aat/300008389|http://vocab.getty.edu/page/aat/300008247|http://vocab.getty.edu/page/aat/300185335|http://vocab.getty.edu/page/tgn/7008038",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q41176|https://www.wikidata.org/wiki/Q34442|https://www.wikidata.org/wiki/Q1311|https://www.wikidata.org/wiki/Q515|https://www.wikidata.org/wiki/Q79007|https://www.wikidata.org/wiki/Q235356|https://www.wikidata.org/wiki/Q90"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-21959-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162257,
+        "role": "Artist",
+        "name": "Camille Pissarro",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500001924",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q134741",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 64.8,
+          "Width": 81.3
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 8.255,
+          "Height": 88.9002,
+          "Width": 105.4102
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Buildings",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300004789",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q41176"
+      },
+      {
+        "term": "Cities",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300008389",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q515"
+      },
+      {
+        "term": "Roads",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300008217",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q34442"
+      },
+      {
+        "term": "Streets",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300008247",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q79007"
+      },
+      {
+        "term": "Winter",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300133101",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q1311"
+      },
+      {
+        "term": "Carriages",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300185335",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q235356"
+      },
+      {
+        "term": "Paris",
+        "AAT_URL": "http://vocab.getty.edu/page/tgn/7008038",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q90"
+      }
+    ]
+  }
+}

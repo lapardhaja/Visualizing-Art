@@ -1,0 +1,127 @@
+{
+  "object_id": 437188,
+  "excel_metadata": {
+    "Object Number": "30.58.21",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437188,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1930.0,
+    "Object Name": "Painting",
+    "Title": "Interior of a Gothic Church at Night",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10810110766.0,
+    "Artist Role": "Artist|Artist",
+    "Artist Prefix": " |and",
+    "Artist Display Name": "Pieter Neeffs the Elder|Frans Francken III",
+    "Artist Display Bio": "Flemish, active 1605–1656/61|Flemish, 1607–1667",
+    "Artist Suffix": " | ",
+    "Artist Alpha Sort": "Neeffs, Pieter, the Elder|Francken, Frans, III",
+    "Artist Nationality": "Flemish|Flemish",
+    "Artist Begin Date": "1605      |1607      ",
+    "Artist End Date": "1661      |1667      ",
+    "Artist Gender": "|",
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500010047|http://vocab.getty.edu/page/ulan/500001468",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q596352|https://www.wikidata.org/wiki/Q3752060",
+    "Object Date": "probably ca. 1635–40",
+    "Object Begin Date": 1635,
+    "Object End Date": 1640,
+    "Medium": "Oil on copper",
+    "Dimensions": "5 1/8 x 6 1/2 in. (13 x 16.5 cm)",
+    "Credit Line": "Bequest of Edward C. Post, 1915",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437188",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912901",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Interiors|Churches|Men|Women|Night",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300391239|http://vocab.getty.edu/page/aat/300007466|http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/aat/300133095",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q2998430|https://www.wikidata.org/wiki/Q16970|https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q575"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/ep30.58.21.bw.R.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 108101,
+        "role": "Artist",
+        "name": "Pieter Neeffs the Elder",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500010047",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q596352",
+        "gender": ""
+      },
+      {
+        "constituentID": 107663,
+        "role": "Artist",
+        "name": "and Frans Francken III",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500001468",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3752060",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 13,
+          "Width": 16.5
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 3.8100076,
+          "Height": 25.400051,
+          "Width": 28.892557
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Interiors",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300391239",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q2998430"
+      },
+      {
+        "term": "Churches",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300007466",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q16970"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Night",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300133095",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q575"
+      }
+    ]
+  }
+}

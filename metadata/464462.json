@@ -1,0 +1,119 @@
+{
+  "object_id": 464462,
+  "excel_metadata": {
+    "Object Number": "17.190.497",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 464462,
+    "Gallery Number": 306,
+    "Department": "Medieval Art",
+    "AccessionYear": 1917,
+    "Object Name": "Reliquary cross",
+    "Title": "Reliquary Cross",
+    "Culture": "Italian",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": null,
+    "Artist Role": null,
+    "Artist Prefix": null,
+    "Artist Display Name": null,
+    "Artist Display Bio": null,
+    "Artist Suffix": null,
+    "Artist Alpha Sort": null,
+    "Artist Nationality": null,
+    "Artist Begin Date": null,
+    "Artist End Date": null,
+    "Artist Gender": null,
+    "Artist ULAN URL": null,
+    "Artist Wikidata URL": null,
+    "Object Date": "14th century",
+    "Object Begin Date": 1300,
+    "Object End Date": 1399,
+    "Medium": "Translucent enamel, silver, silver-gilt, coral, glass, rock-crystal, gold leaf",
+    "Dimensions": "Overall (without tang): 16 15/16 x 14 1/2 x 1 1/8 in. (43 x 36.9 x 2.9 cm)_x000D_\nOverall (with tang): 22 5/8 x 14 1/2 x 1 1/8 in. (57.4 x 36.9 x 2.9 cm)",
+    "Credit Line": "Gift of J. Pierpont Morgan, 1917",
+    "Geography Type": "Made in",
+    "City": null,
+    "State": null,
+    "County": "the Marches",
+    "Country": "Italy",
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Enamels-Basse taille",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/464462",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q116256878",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Cross|Jesus",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300235443|http://vocab.getty.edu/page/ia/901000087",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q40843|https://www.wikidata.org/wiki/Q302"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/md/original/sf17-190-497s1.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/md/original/sf17-190-497s2.jpg",
+      "https://images.metmuseum.org/CRDImages/md/original/sf17-190-497s3.jpg",
+      "https://images.metmuseum.org/CRDImages/md/original/sf17-190-497d01.jpg",
+      "https://images.metmuseum.org/CRDImages/md/original/sf17-190-497d02.jpg",
+      "https://images.metmuseum.org/CRDImages/md/original/sf17-190-497d03.jpg",
+      "https://images.metmuseum.org/CRDImages/md/original/sf17-190-497d04.jpg",
+      "https://images.metmuseum.org/CRDImages/md/original/sf17-190-497d05.jpg",
+      "https://images.metmuseum.org/CRDImages/md/original/sf17-190-497d06.jpg",
+      "https://images.metmuseum.org/CRDImages/md/original/sf17-190-497d07.jpg",
+      "https://images.metmuseum.org/CRDImages/md/original/sf17-190-497d08.jpg",
+      "https://images.metmuseum.org/CRDImages/md/original/sf17-190-497d09.jpg",
+      "https://images.metmuseum.org/CRDImages/md/original/sf17-190-497d10.jpg",
+      "https://images.metmuseum.org/CRDImages/md/original/sf17-190-497d11.jpg",
+      "https://images.metmuseum.org/CRDImages/md/original/sf17-190-497d12.jpg",
+      "https://images.metmuseum.org/CRDImages/md/original/sf17-190-497d13.jpg",
+      "https://images.metmuseum.org/CRDImages/md/original/sf17-190-497d14.jpg",
+      "https://images.metmuseum.org/CRDImages/md/original/sf17-190-497d15.jpg",
+      "https://images.metmuseum.org/CRDImages/md/original/sf17-190-497d16.jpg",
+      "https://images.metmuseum.org/CRDImages/md/original/sf17-190-497d17.jpg",
+      "https://images.metmuseum.org/CRDImages/md/original/sf17-190-497d18.jpg",
+      "https://images.metmuseum.org/CRDImages/md/original/sf17-190-497d19.jpg",
+      "https://images.metmuseum.org/CRDImages/md/original/sf17-190-497d20.jpg"
+    ],
+    "constituents": null,
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": "without tang",
+        "elementMeasurements": {
+          "Depth": 2.9,
+          "Height": 43,
+          "Width": 36.9
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": "with tang",
+        "elementMeasurements": {
+          "Depth": 2.9,
+          "Height": 57.4,
+          "Width": 36.9
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Cross",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300235443",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q40843"
+      },
+      {
+        "term": "Jesus",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q302"
+      }
+    ]
+  }
+}

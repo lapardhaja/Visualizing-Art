@@ -1,0 +1,108 @@
+{
+  "object_id": 72571,
+  "excel_metadata": {
+    "Object Number": "2004.398",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 72571,
+    "Gallery Number": 251.0,
+    "Department": "Asian Art",
+    "AccessionYear": 2004.0,
+    "Object Name": "Painting",
+    "Title": NaN,
+    "Culture": "India, Western Rajasthan",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": NaN,
+    "Artist Role": NaN,
+    "Artist Prefix": NaN,
+    "Artist Display Name": NaN,
+    "Artist Display Bio": NaN,
+    "Artist Suffix": NaN,
+    "Artist Alpha Sort": NaN,
+    "Artist Nationality": NaN,
+    "Artist Begin Date": NaN,
+    "Artist End Date": NaN,
+    "Artist Gender": NaN,
+    "Artist ULAN URL": NaN,
+    "Artist Wikidata URL": NaN,
+    "Object Date": "18th century",
+    "Object Begin Date": 1700,
+    "Object End Date": 1799,
+    "Medium": "Ink and opaque watercolor on paper",
+    "Dimensions": "9 x 11 7/8 in. (22.9 x 30.2 cm)",
+    "Credit Line": "Cynthia Hazen Polsky and Leon B. Polsky Fund, 2004",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/72571",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q78714713",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Elephants|Bulls|Tigers|Durga|Ganesha|Shiva",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300250160|http://vocab.getty.edu/page/aat/300250117|http://vocab.getty.edu/page/aat/300249063|http://vocab.getty.edu/page/ia/901001417|http://vocab.getty.edu/page/ia/901000387|http://vocab.getty.edu/page/ia/901000021",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q7378|https://www.wikidata.org/wiki/Q693690|https://www.wikidata.org/wiki/Q19939|https://www.wikidata.org/wiki/Q382973|https://www.wikidata.org/wiki/Q1579|https://www.wikidata.org/wiki/Q11378"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/as/original/DP156173.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/as/original/2004_398_verso.jpg"
+    ],
+    "constituents": null,
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 22.86,
+          "Width": 30.1626
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Bulls",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250117",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q693690"
+      },
+      {
+        "term": "Elephants",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250160",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q7378"
+      },
+      {
+        "term": "Tigers",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300249063",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q19939"
+      },
+      {
+        "term": "Durga",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901001417",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q382973"
+      },
+      {
+        "term": "Ganesha",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000387",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q1579"
+      },
+      {
+        "term": "Shiva",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000021",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q11378"
+      }
+    ]
+  }
+}

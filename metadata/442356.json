@@ -1,0 +1,105 @@
+{
+  "object_id": 442356,
+  "excel_metadata": {
+    "Object Number": "2012.542",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 442356,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 2012.0,
+    "Object Name": "Painting",
+    "Title": "Still Life with Silver and Gold Plate, Shells, and a Sword",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 12974.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Meiffren Conte",
+    "Artist Display Bio": "French, Marseilles ca. 1630–1705 Marseilles",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Conte, Meiffren",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1625",
+    "Artist End Date": "1705",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500009407",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q3304596",
+    "Object Date": "fourth quarter 17th century",
+    "Object Begin Date": 1675,
+    "Object End Date": 1699,
+    "Medium": "Oil on canvas",
+    "Dimensions": "40 × 50 3/4 in. (101.6 × 128.9 cm)",
+    "Credit Line": "Gift of Mrs. Russell B. Aitken, 2012",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/442356",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20168185",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Swords|Shells|Still Life|Pitchers",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300037048|http://vocab.getty.edu/page/aat/300011829|http://vocab.getty.edu/page/aat/300015638|http://vocab.getty.edu/page/aat/300194765",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q12791|https://www.wikidata.org/wiki/Q213096|https://www.wikidata.org/wiki/Q170571|https://www.wikidata.org/wiki/Q132397"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP289172.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 129748,
+        "role": "Artist",
+        "name": "Meiffren Conte",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500009407",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3304596",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 101.600204,
+          "Width": 128.90526
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Swords",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300037048",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q12791"
+      },
+      {
+        "term": "Shells",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300011829",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q213096"
+      },
+      {
+        "term": "Still Life",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015638",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q170571"
+      },
+      {
+        "term": "Pitchers",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300194765",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q132397"
+      }
+    ]
+  }
+}

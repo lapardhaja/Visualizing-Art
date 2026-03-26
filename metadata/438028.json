@@ -1,0 +1,128 @@
+{
+  "object_id": 438028,
+  "excel_metadata": {
+    "Object Number": "1997.117.9",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 438028,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1997.0,
+    "Object Name": "Painting, triptych",
+    "Title": "The Crucifixion",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16258.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Paolo Uccello (Paolo di Dono)",
+    "Artist Display Bio": "Italian, Florence 1397–1475 Florence",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Uccello, Paolo (Paolo di Dono)",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1397",
+    "Artist End Date": "1475",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500003110",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q192488",
+    "Object Date": "probably mid-1450s",
+    "Object Begin Date": 1453,
+    "Object End Date": 1457,
+    "Medium": "Tempera on wood, gold ground",
+    "Dimensions": "Shaped top, central panel, overall, with engaged frame, 18 x 11 in. (45.7 x 27.9 cm); central panel, painted surface 16 1/2 x 9 1/2 in. (41.9 x 24.1 cm); left wing, overall, with engaged frame, 18 x 5 5/8 in. (45.7 x 14.3 cm); left wing, painted surface 16 1/2 x 4 1/4 in. (41.9 x 10.8 cm); right wing, overall, with engaged frame, 18 x 5 1/4 in. (45.7 x 13.3 cm); right wing, painted surface 16 1/2 x 3 3/4 in. (41.9 x 9.5 cm)",
+    "Credit Line": "Bequest of Lore Heinemann, in memory of her husband, Dr. Rudolf J. Heinemann, 1996",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/438028",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19904862",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Women|Crucifixion|Angels|Christ|Madonna and Child|Mary Magdalene|Saint John the Evangelist|Nuns",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/aat/300404300|http://vocab.getty.edu/page/aat/300379004|http://vocab.getty.edu/page/ia/901000087|http://vocab.getty.edu/page/ia/901000052|http://vocab.getty.edu/page/ia/901000161|http://vocab.getty.edu/page/ia/901001171|http://vocab.getty.edu/page/aat/300025770",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q3235597|https://www.wikidata.org/wiki/Q235113|https://www.wikidata.org/wiki/Q642420|https://www.wikidata.org/wiki/Q9309699|https://www.wikidata.org/wiki/Q63070|https://www.wikidata.org/wiki/Q328804|https://www.wikidata.org/wiki/Q191808"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-25222-001.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-1997_117_9-2.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-1997_117_9-3.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 162581,
+        "role": "Artist",
+        "name": "Paolo Uccello (Paolo di Dono)",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500003110",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q192488",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 45.7,
+          "Width": 27.9
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Angels",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379004",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q235113"
+      },
+      {
+        "term": "Christ",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+      },
+      {
+        "term": "Madonna and Child",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000052",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q9309699"
+      },
+      {
+        "term": "Mary Magdalene",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000161",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q63070"
+      },
+      {
+        "term": "Saint John the Evangelist",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901001171",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q328804"
+      },
+      {
+        "term": "Crucifixion",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300404300",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3235597"
+      },
+      {
+        "term": "Nuns",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025770",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q191808"
+      }
+    ]
+  }
+}

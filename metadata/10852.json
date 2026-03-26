@@ -1,0 +1,104 @@
+{
+  "object_id": 10852,
+  "excel_metadata": {
+    "Object Number": "87.19",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 10852,
+    "Gallery Number": 774.0,
+    "Department": "The American Wing",
+    "AccessionYear": 1887.0,
+    "Object Name": "Painting",
+    "Title": "Portrait of the Artist",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 249.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Charles Loring Elliott",
+    "Artist Display Bio": "1812–1868",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Elliott, Charles Loring",
+    "Artist Nationality": " ",
+    "Artist Begin Date": "1812",
+    "Artist End Date": "1868",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500013029",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q5080338",
+    "Object Date": "ca. 1850",
+    "Object Begin Date": 1847,
+    "Object End Date": 1850,
+    "Medium": "Oil on canvas",
+    "Dimensions": "30 1/8 x 24 1/2 in. (76.5 x 62.2 cm)",
+    "Credit Line": "Gift of Robert Hoe Jr., 1887",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/10852",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20176244",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/ap87.19.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 2499,
+        "role": "Artist",
+        "name": "Charles Loring Elliott",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500013029",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5080338",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 12.3825,
+          "Height": 104.7752,
+          "Width": 92.0752
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 76.5,
+          "Width": 62.2
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

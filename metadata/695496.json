@@ -1,0 +1,95 @@
+{
+  "object_id": 695496,
+  "excel_metadata": {
+    "Object Number": "2016.653",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 695496,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 2016.0,
+    "Object Name": "Painting",
+    "Title": "Bust of a Man (Saint Matthias?)",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16454.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Giovanni Battista Piazzetta",
+    "Artist Display Bio": "Italian, Venice 1682–1754 Venice",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Piazzetta, Giovanni Battista",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1682",
+    "Artist End Date": "1754",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500003532",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q282670",
+    "Object Date": "ca. 1715–20",
+    "Object Begin Date": 1715,
+    "Object End Date": 1720,
+    "Medium": "Oil on canvas",
+    "Dimensions": "17 1/2 × 14 3/4 in. (44.5 × 37.5 cm)",
+    "Credit Line": "Gift of Dianne Modestini and Eugene V. Thaw, 2016",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/695496",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q78614384",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-12393-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 164547,
+        "role": "Artist",
+        "name": "Giovanni Battista Piazzetta",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500003532",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q282670",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 44.45009,
+          "Width": 37.465076
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

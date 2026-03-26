@@ -1,0 +1,104 @@
+{
+  "object_id": 10258,
+  "excel_metadata": {
+    "Object Number": "09.72.1",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 10258,
+    "Gallery Number": 774.0,
+    "Department": "The American Wing",
+    "AccessionYear": 1909.0,
+    "Object Name": "Painting",
+    "Title": "Early Morning—Venice",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 237.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "William Gedney Bunce",
+    "Artist Display Bio": "1840–1916",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Bunce, William Gedney",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1840",
+    "Artist End Date": "1916",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500020705",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q21464971",
+    "Object Date": "ca. 1905",
+    "Object Begin Date": 1902,
+    "Object End Date": 1905,
+    "Medium": "Oil on wood",
+    "Dimensions": "12 1/2 x 16 1/4 in. (31.7 x 41.3 cm)",
+    "Credit Line": "Gift of George A. Hearn, 1909",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/10258",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19924893",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Landscapes|Venice",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300132294|http://vocab.getty.edu/page/tgn/7018159",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q191163|https://www.wikidata.org/wiki/Q641"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/ap09.72.1.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 2379,
+        "role": "Artist",
+        "name": "William Gedney Bunce",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500020705",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q21464971",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 31.8,
+          "Width": 41.3
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 8.5,
+          "Height": 55.3,
+          "Width": 67
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Landscapes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+      },
+      {
+        "term": "Venice",
+        "AAT_URL": "http://vocab.getty.edu/page/tgn/7018159",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q641"
+      }
+    ]
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "object_id": 12786,
+  "excel_metadata": {
+    "Object Number": "17.180.1",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": false,
+    "Object ID": 12786,
+    "Gallery Number": 774.0,
+    "Department": "The American Wing",
+    "AccessionYear": 1917.0,
+    "Object Name": "Painting",
+    "Title": "Winter Sunrise, Monadnock",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16252.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Abbott H. Thayer",
+    "Artist Display Bio": "American, Boston, Massachusetts 1849–1921 Dublin, New Hampshire",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Thayer, Abbott H.",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1849",
+    "Artist End Date": "1921",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500016002",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q306759",
+    "Object Date": "1917",
+    "Object Begin Date": 1917,
+    "Object End Date": 1917,
+    "Medium": "Oil on canvas",
+    "Dimensions": "54 3/8 x 63 3/8 in. (138.1 x 161 cm)",
+    "Credit Line": "George A. Hearn Fund, 1917",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/12786",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20171346",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Mountains|Landscapes",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300008795|http://vocab.getty.edu/page/aat/300132294",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8502|https://www.wikidata.org/wiki/Q191163"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/APS1318.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162525,
+        "role": "Artist",
+        "name": "Abbott H. Thayer",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500016002",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q306759",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 171.8,
+          "Width": 194.6
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 138.1,
+          "Width": 161
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Mountains",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300008795",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8502"
+      },
+      {
+        "term": "Landscapes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+      }
+    ]
+  }
+}

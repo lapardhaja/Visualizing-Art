@@ -1,0 +1,112 @@
+{
+  "object_id": 437309,
+  "excel_metadata": {
+    "Object Number": "58.133",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437309,
+    "Gallery Number": 820.0,
+    "Department": "European Paintings",
+    "AccessionYear": 1958.0,
+    "Object Name": "Painting",
+    "Title": "Steamboats in the Port of Rouen",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16225.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Camille Pissarro",
+    "Artist Display Bio": "French, Charlotte Amalie, Saint Thomas 1830–1903 Paris",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Pissarro, Camille",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1830",
+    "Artist End Date": "1903",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500001924",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q134741",
+    "Object Date": "1896",
+    "Object Begin Date": 1896,
+    "Object End Date": 1896,
+    "Medium": "Oil on canvas",
+    "Dimensions": "18 x 21 1/2 in. (45.7 x 54.6 cm)",
+    "Credit Line": "Gift of Arthur J. Neumark, 1958",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437309",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19905366",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Rivers|Boats",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300008707|http://vocab.getty.edu/page/aat/300178749",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q4022|https://www.wikidata.org/wiki/Q35872"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT1864.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162257,
+        "role": "Artist",
+        "name": "Camille Pissarro",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500001924",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q134741",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 45.7,
+          "Width": 54.6
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 11.430023,
+          "Height": 69.85014,
+          "Width": 78.74016
+        }
+      },
+      {
+        "elementName": "Glazing",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 50.800102,
+          "Width": 60.32512
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Rivers",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300008707",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q4022"
+      },
+      {
+        "term": "Boats",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300178749",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q35872"
+      }
+    ]
+  }
+}

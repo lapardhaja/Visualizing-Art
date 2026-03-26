@@ -1,0 +1,97 @@
+{
+  "object_id": 17450,
+  "excel_metadata": {
+    "Object Number": "2002.292",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 17450,
+    "Gallery Number": 754.0,
+    "Department": "The American Wing",
+    "AccessionYear": 2002.0,
+    "Object Name": "Painting, miniature",
+    "Title": "Sarah Ann Beck",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 278.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Anna Claypoole Peale",
+    "Artist Display Bio": "1791–1878",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Peale, Anna Claypoole",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1791",
+    "Artist End Date": "1878",
+    "Artist Gender": "Female",
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500010523",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q4766924",
+    "Object Date": "ca. 1818",
+    "Object Begin Date": 1818,
+    "Object End Date": 1818,
+    "Medium": "Watercolor on ivory",
+    "Dimensions": "3 x 2 1/2 in. (7.6 x 6.4 cm)",
+    "Credit Line": "Dale T. Johnson Fund, 2002",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/17450",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19923832",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Girls|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300247581|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q3031|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DP161496.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ad/original/DP161498.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 2781,
+        "role": "Artist",
+        "name": "Anna Claypoole Peale",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500010523",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q4766924",
+        "gender": "Female"
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 7.62,
+          "Width": 6.4
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Girls",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300247581",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3031"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

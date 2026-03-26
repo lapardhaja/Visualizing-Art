@@ -1,0 +1,104 @@
+{
+  "object_id": 11279,
+  "excel_metadata": {
+    "Object Number": "87.8.9",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 11279,
+    "Gallery Number": NaN,
+    "Department": "The American Wing",
+    "AccessionYear": 1887.0,
+    "Object Name": "Painting",
+    "Title": "Spring",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 264.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "H. Bolton Jones",
+    "Artist Display Bio": "1848–1927",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Jones, H. Bolton",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1848",
+    "Artist End Date": "1927",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500004141",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q17619497",
+    "Object Date": "1885–86",
+    "Object Begin Date": 1885,
+    "Object End Date": 1886,
+    "Medium": "Oil on canvas",
+    "Dimensions": "24 1/4 x 40 1/8 in. (61.6 x 101.9 cm)",
+    "Credit Line": "Gift of George I. Seney, 1887",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/11279",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19925220",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Landscapes|Trees",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300132294|http://vocab.getty.edu/page/aat/300132410",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q191163|https://www.wikidata.org/wiki/Q10884"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/ap87.8.9.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 2647,
+        "role": "Artist",
+        "name": "H. Bolton Jones",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500004141",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q17619497",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 61.6,
+          "Width": 101.9
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 14,
+          "Height": 96.3,
+          "Width": 137
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Landscapes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+      },
+      {
+        "term": "Trees",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132410",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q10884"
+      }
+    ]
+  }
+}

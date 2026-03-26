@@ -1,0 +1,95 @@
+{
+  "object_id": 437760,
+  "excel_metadata": {
+    "Object Number": "91.26.8",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437760,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1891.0,
+    "Object Name": "Painting",
+    "Title": "Landscape with Cattle",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16536.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Jacob van Strij",
+    "Artist Display Bio": "Dutch, Dordrecht 1756–1815 Dordrecht",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Strij, Jacob van",
+    "Artist Nationality": "Dutch",
+    "Artist Begin Date": "1756",
+    "Artist End Date": "1815",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500027835",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q597322",
+    "Object Date": "probably ca. 1800",
+    "Object Begin Date": 1795,
+    "Object End Date": 1805,
+    "Medium": "Oil on wood",
+    "Dimensions": "31 1/2 x 42 1/4 in. (80 x 107.3 cm)",
+    "Credit Line": "Marquand Collection, Gift of Henry G. Marquand, 1890",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437760",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19905089",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Cows|Landscapes",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300250120|http://vocab.getty.edu/page/aat/300132294",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q830|https://www.wikidata.org/wiki/Q191163"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP143202.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 165364,
+        "role": "Artist",
+        "name": "Jacob van Strij",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500027835",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q597322",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 80,
+          "Width": 107.3
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Cows",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250120",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q830"
+      },
+      {
+        "term": "Landscapes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+      }
+    ]
+  }
+}

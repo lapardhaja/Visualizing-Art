@@ -1,0 +1,104 @@
+{
+  "object_id": 211528,
+  "excel_metadata": {
+    "Object Number": "2003.420.1, .2",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 211528,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 2003,
+    "Object Name": "Candlesticks",
+    "Title": "Pair of candlesticks",
+    "Culture": "British, London",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 349823589,
+    "Artist Role": "Maker|Designer",
+    "Artist Prefix": " |After a pattern by",
+    "Artist Display Name": "Edward Wakelin|William Kent",
+    "Artist Display Bio": "British, active before 1748, died 1784|1685–1748",
+    "Artist Suffix": " | ",
+    "Artist Alpha Sort": "Wakelin, Edward|Kent, William",
+    "Artist Nationality": "British| ",
+    "Artist Begin Date": "1684      |1685      ",
+    "Artist End Date": "1784      |1748      ",
+    "Artist Gender": "|",
+    "Artist ULAN URL": "(not assigned)|http://vocab.getty.edu/page/ulan/500021873",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q55876174|https://www.wikidata.org/wiki/Q445433",
+    "Object Date": "1757/58",
+    "Object Begin Date": 1757,
+    "Object End Date": 1758,
+    "Medium": "Silver",
+    "Dimensions": "Overall (.1 confirmed): 12 3/4 x 6 3/8 x 6 1/4 in., 46 oz. 14 dwt. (32.4 x 16.2 x 15.9 cm, 1.4535kg);_x000D_\nOverall (.2 confirmed): 12 5/8 x 6 3/8 x 6 3/8 in., 46 oz. 11 dwt. (32.1 x 16.2 x 16.2 cm, 1.449kg)",
+    "Credit Line": "Wrightsman Fund, 2003",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Metalwork-Silver",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/211528",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": null,
+    "Tags AAT URL": null,
+    "Tags Wikidata URL": null
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP265653.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 34982,
+        "role": "Maker",
+        "name": "Edward Wakelin",
+        "constituentULAN_URL": "(not assigned)",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q55876174",
+        "gender": ""
+      },
+      {
+        "constituentID": 35891,
+        "role": "Designer",
+        "name": "After a pattern by William Kent",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500021873",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q445433",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": ".2 confirmed",
+        "elementMeasurements": {
+          "Depth": 16.192532,
+          "Height": 32.067566,
+          "Weight": 1.449,
+          "Width": 16.192532
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": ".1 confirmed",
+        "elementMeasurements": {
+          "Depth": 15.875031,
+          "Height": 32.385063,
+          "Weight": 1.4535,
+          "Width": 16.192532
+        }
+      }
+    ],
+    "tags": null
+  }
+}

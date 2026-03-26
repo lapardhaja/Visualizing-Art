@@ -1,0 +1,107 @@
+{
+  "object_id": 204681,
+  "excel_metadata": {
+    "Object Number": 66.111,
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 204681,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1966,
+    "Object Name": "Statuette",
+    "Title": "Venus and Cupid",
+    "Culture": "Italian, Venice",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 3467,
+    "Artist Role": "Modeler",
+    "Artist Prefix": "Model attributed to",
+    "Artist Display Name": "Tiziano Aspetti",
+    "Artist Display Bio": "Italian, 1565–1607",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Aspetti, Tiziano",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": 1565,
+    "Artist End Date": 1607,
+    "Artist Gender": null,
+    "Artist ULAN URL": "(not assigned)",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q323978",
+    "Object Date": "19th century",
+    "Object Begin Date": 1800,
+    "Object End Date": 1899,
+    "Medium": "Bronze, on marble base",
+    "Dimensions": "Overall without base confirmed: 16 1/4 × 5 1/8 × 4 5/8 in. (41.3 × 13 × 11.7 cm)",
+    "Credit Line": "Edith Perry Chapman Fund, 1966",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Sculpture-Bronze",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/204681",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Cupid|Venus",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300380105|http://vocab.getty.edu/page/ia/901001064",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q5011|https://www.wikidata.org/wiki/Q47652"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP-39-001.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/186506.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 34674,
+        "role": "Modeler",
+        "name": "Model attributed to Tiziano Aspetti",
+        "constituentULAN_URL": "(not assigned)",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q323978",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": "with base confirmed",
+        "elementMeasurements": {
+          "Depth": 11.747523,
+          "Height": 45.720093,
+          "Width": 13.335027
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": "Overall without base confirmed",
+        "elementMeasurements": {
+          "Depth": 11.747523,
+          "Height": 41.27508,
+          "Width": 13.017526
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Cupid",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300380105",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q5011"
+      },
+      {
+        "term": "Venus",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901001064",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q47652"
+      }
+    ]
+  }
+}

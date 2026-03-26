@@ -1,0 +1,98 @@
+{
+  "object_id": 437335,
+  "excel_metadata": {
+    "Object Number": "41.100.35–37",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437335,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1941.0,
+    "Object Name": "Painting, triptych",
+    "Title": "Madonna and Child with Saints",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10819.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Priamo della Quercia (Priamo del Pietro)",
+    "Artist Display Bio": "Italian, Sienese, active 1442–67",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Priamo della Quercia (Priamo del Pietro)",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1442",
+    "Artist End Date": "1467",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500021894",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q711560",
+    "Object Date": "ca. 1442",
+    "Object Begin Date": 1442,
+    "Object End Date": 1467,
+    "Medium": "Tempera on wood, gold ground",
+    "Dimensions": "Central panel 43 1/4 x 22 1/2 in. (109.9 x 57.2 cm); left wing 45 1/2 x 22 in. (115.6 x 55.9 cm); right wing 45 1/4 x 22 1/4 in. (114.9 x 56.5 cm)",
+    "Credit Line": "Gift of George Blumenthal, 1941",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437335",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19905231",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Madonna and Child|Saints",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901000052|http://vocab.getty.edu/page/aat/300150555",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q9309699|https://www.wikidata.org/wiki/Q43115"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/ep41.100.35.bw.R.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/ep41.100.37.bw.R.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/ep41.100.36.bw.R.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 108192,
+        "role": "Artist",
+        "name": "Priamo della Quercia (Priamo del Pietro)",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500021894",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q711560",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 109.9,
+          "Width": 57.2
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Madonna and Child",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000052",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q9309699"
+      },
+      {
+        "term": "Saints",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300150555",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q43115"
+      }
+    ]
+  }
+}

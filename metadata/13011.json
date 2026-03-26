@@ -1,0 +1,91 @@
+{
+  "object_id": 13011,
+  "excel_metadata": {
+    "Object Number": "1980.360.9",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 13011,
+    "Gallery Number": 774.0,
+    "Department": "The American Wing",
+    "AccessionYear": 1980.0,
+    "Object Name": "Painting",
+    "Title": "Tobacco Sign",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": NaN,
+    "Artist Role": NaN,
+    "Artist Prefix": NaN,
+    "Artist Display Name": NaN,
+    "Artist Display Bio": NaN,
+    "Artist Suffix": NaN,
+    "Artist Alpha Sort": NaN,
+    "Artist Nationality": NaN,
+    "Artist Begin Date": NaN,
+    "Artist End Date": NaN,
+    "Artist Gender": NaN,
+    "Artist ULAN URL": NaN,
+    "Artist Wikidata URL": NaN,
+    "Object Date": "ca. 1850",
+    "Object Begin Date": 1847,
+    "Object End Date": 1850,
+    "Medium": "Oil on wood, iron",
+    "Dimensions": "23 3/4 x 27 1/4 in. (60.3 x 69.2 cm)",
+    "Credit Line": "Bequest of Edgar William and Bernice Chrysler Garbisch, 1979",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/13011",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20171740",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Smoking|Ships",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300380156|http://vocab.getty.edu/page/aat/300082981",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q662860|https://www.wikidata.org/wiki/Q11446"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DT9051.jpg",
+    "additionalImages": [],
+    "constituents": null,
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 60.3,
+          "Width": 69.2
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Smoking",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300380156",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q662860"
+      },
+      {
+        "term": "Ships",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300082981",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q11446"
+      }
+    ]
+  }
+}

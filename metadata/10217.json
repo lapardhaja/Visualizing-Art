@@ -1,0 +1,95 @@
+{
+  "object_id": 10217,
+  "excel_metadata": {
+    "Object Number": "27.217",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 10217,
+    "Gallery Number": NaN,
+    "Department": "The American Wing",
+    "AccessionYear": 1927.0,
+    "Object Name": "Painting, miniature",
+    "Title": "Captain Graham",
+    "Culture": "Scottish",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16623.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Andrew Robertson",
+    "Artist Display Bio": "British, Aberdeen, Scotland 1777–1845 London",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Robertson, Andrew",
+    "Artist Nationality": "British, Scottish",
+    "Artist Begin Date": "1777",
+    "Artist End Date": "1845",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500000798",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q18783557",
+    "Object Date": "ca. 1805",
+    "Object Begin Date": 1805,
+    "Object End Date": 1805,
+    "Medium": "Watercolor on ivory",
+    "Dimensions": "Sight: 2 7/16 x 2 in. (6.2 x 5.1 cm)",
+    "Credit Line": "Rogers Fund, 1927",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/10217",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20177936",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/ap27.217.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 166232,
+        "role": "Artist",
+        "name": "Andrew Robertson",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500000798",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q18783557",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Sight",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 6.1913,
+          "Width": 5.08
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

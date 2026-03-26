@@ -1,0 +1,127 @@
+{
+  "object_id": 435887,
+  "excel_metadata": {
+    "Object Number": "59.9",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 435887,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1959.0,
+    "Object Name": "Painting",
+    "Title": "The Silver Tureen",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16554.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Jean Siméon Chardin",
+    "Artist Display Bio": "French, Paris 1699–1779 Paris",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Chardin, Jean Siméon",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1699",
+    "Artist End Date": "1779",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500115331",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q207447",
+    "Object Date": "ca. 1728–30",
+    "Object Begin Date": 1728,
+    "Object End Date": 1730,
+    "Medium": "Oil on canvas",
+    "Dimensions": "30 x 42 1/2 in. (76.2 x 108 cm)",
+    "Credit Line": "Fletcher Fund, 1959",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/435887",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19911959",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Fruit|Cats|Birds|Apples|Rabbits|Still Life",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300011868|http://vocab.getty.edu/page/aat/300265960|http://vocab.getty.edu/page/aat/300266506|http://vocab.getty.edu/page/aat/300266417|http://vocab.getty.edu/page/aat/300250218|http://vocab.getty.edu/page/aat/300015638",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q1364|https://www.wikidata.org/wiki/Q146|https://www.wikidata.org/wiki/Q5113|https://www.wikidata.org/wiki/Q89|https://www.wikidata.org/wiki/Q9394|https://www.wikidata.org/wiki/Q170571"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP356136.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-59_9-2.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-59_9-3.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 165540,
+        "role": "Artist",
+        "name": "Jean Siméon Chardin",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115331",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q207447",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 76.2,
+          "Width": 108
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 13.97,
+          "Height": 102.8702,
+          "Width": 134.6203
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Birds",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300266506",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q5113"
+      },
+      {
+        "term": "Fruit",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300011868",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q1364"
+      },
+      {
+        "term": "Apples",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300266417",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q89"
+      },
+      {
+        "term": "Cats",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300265960",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q146"
+      },
+      {
+        "term": "Rabbits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250218",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q9394"
+      },
+      {
+        "term": "Still Life",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015638",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q170571"
+      }
+    ]
+  }
+}

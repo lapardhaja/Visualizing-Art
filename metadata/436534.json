@@ -1,0 +1,103 @@
+{
+  "object_id": 436534,
+  "excel_metadata": {
+    "Object Number": "1993.400.5",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 436534,
+    "Gallery Number": 822.0,
+    "Department": "European Paintings",
+    "AccessionYear": 1993.0,
+    "Object Name": "Painting",
+    "Title": "Roses",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16194.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Vincent van Gogh",
+    "Artist Display Bio": "Dutch, Zundert 1853–1890 Auvers-sur-Oise",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Gogh, Vincent van",
+    "Artist Nationality": "Dutch",
+    "Artist Begin Date": "1853",
+    "Artist End Date": "1890",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500115588",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q5582",
+    "Object Date": "1890",
+    "Object Begin Date": 1890,
+    "Object End Date": 1890,
+    "Medium": "Oil on canvas",
+    "Dimensions": "36 5/8 x 29 1/8 in. (93 x 74 cm)",
+    "Credit Line": "The Walter H. and Leonore Annenberg Collection, Gift of Walter H. and Leonore Annenberg, 1993, Bequest of Walter H. Annenberg, 2002",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436534",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19904856",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Still Life|Roses",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300015638|http://vocab.getty.edu/page/aat/300266246",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q170571|https://www.wikidata.org/wiki/Q102231"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP346475.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 161947,
+        "role": "Artist",
+        "name": "Vincent van Gogh",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115588",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5582",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 93,
+          "Width": 74
+        }
+      },
+      {
+        "elementName": "Glazing",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 93.66269,
+          "Width": 75.24765
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Roses",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300266246",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q102231"
+      },
+      {
+        "term": "Still Life",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015638",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q170571"
+      }
+    ]
+  }
+}

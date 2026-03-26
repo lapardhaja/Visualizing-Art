@@ -1,0 +1,95 @@
+{
+  "object_id": 437963,
+  "excel_metadata": {
+    "Object Number": "62.122.114",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437963,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1962.0,
+    "Object Name": "Painting, miniature",
+    "Title": "Portrait of a Woman",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16278.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": "Attributed to",
+    "Artist Display Name": "Christian Friedrich Zincke",
+    "Artist Display Bio": "German, Dresden 1683/85–1767 London",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Zincke, Christian Friedrich",
+    "Artist Nationality": "German",
+    "Artist Begin Date": "1683",
+    "Artist End Date": "1767",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500011388",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q1028749",
+    "Object Date": NaN,
+    "Object Begin Date": 1703,
+    "Object End Date": 1767,
+    "Medium": "Enamel",
+    "Dimensions": "Oval, 1 7/8 x 1 1/2 in. (46 x 38 mm)",
+    "Credit Line": "Bequest of Millie Bruhl Fredrick, 1962",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Miniatures",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437963",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19913832",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Portraits|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/175441.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162780,
+        "role": "Artist",
+        "name": "Attributed to Christian Friedrich Zincke",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500011388",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1028749",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 4.8,
+          "Width": 3.8
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "object_id": 438012,
+  "excel_metadata": {
+    "Object Number": "2003.20.10",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 438012,
+    "Gallery Number": 821.0,
+    "Department": "European Paintings",
+    "AccessionYear": 2003.0,
+    "Object Name": "Painting",
+    "Title": "Bouquet of Chrysanthemums",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16230.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Auguste Renoir",
+    "Artist Display Bio": "French, Limoges 1841–1919 Cagnes-sur-Mer",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Renoir, Auguste",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1841",
+    "Artist End Date": "1919",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500115467",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q39931",
+    "Object Date": "1881",
+    "Object Begin Date": 1881,
+    "Object End Date": 1881,
+    "Medium": "Oil on canvas",
+    "Dimensions": "26 x 21 7/8 in. (66 x 55.6 cm)",
+    "Credit Line": "The Walter H. and Leonore Annenberg Collection, Bequest of Walter H. Annenberg, 2002",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/438012",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19905438",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Flowers|Still Life",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300132399|http://vocab.getty.edu/page/aat/300015638",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q506|https://www.wikidata.org/wiki/Q170571"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT1877.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162302,
+        "role": "Artist",
+        "name": "Auguste Renoir",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115467",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q39931",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 66,
+          "Width": 55.6
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 11.112522,
+          "Height": 92.392685,
+          "Width": 81.597664
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Flowers",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132399",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q506"
+      },
+      {
+        "term": "Still Life",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015638",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q170571"
+      }
+    ]
+  }
+}

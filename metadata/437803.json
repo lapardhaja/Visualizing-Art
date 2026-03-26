@@ -1,0 +1,119 @@
+{
+  "object_id": 437803,
+  "excel_metadata": {
+    "Object Number": "37.165.2",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 437803,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1937.0,
+    "Object Name": "Painting, sketch",
+    "Title": "Saint Thecla Praying for the Plague-Stricken",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16253.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Giovanni Battista Tiepolo",
+    "Artist Display Bio": "Italian, Venice 1696–1770 Madrid",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Tiepolo, Giovanni Battista",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1696",
+    "Artist End Date": "1770",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500018523",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q186202",
+    "Object Date": "1758–59",
+    "Object Begin Date": 1758,
+    "Object End Date": 1759,
+    "Medium": "Oil on canvas",
+    "Dimensions": "32 x 17 5/8 in. (81.3 x 44.8 cm)",
+    "Credit Line": "Rogers Fund, 1937",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437803",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19905126",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Women|Saints|Angels|God the Father",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/aat/300150555|http://vocab.getty.edu/page/aat/300379004|http://vocab.getty.edu/page/ia/901000593",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q43115|https://www.wikidata.org/wiki/Q235113|https://www.wikidata.org/wiki/Q186350"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT11803.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162537,
+        "role": "Artist",
+        "name": "Giovanni Battista Tiepolo",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500018523",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q186202",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 81.3,
+          "Width": 44.8
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 7.3025,
+          "Height": 95.2502,
+          "Width": 58.4201
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Angels",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379004",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q235113"
+      },
+      {
+        "term": "Saints",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300150555",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q43115"
+      },
+      {
+        "term": "God the Father",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000593",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q186350"
+      }
+    ]
+  }
+}

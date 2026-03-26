@@ -1,0 +1,111 @@
+{
+  "object_id": 12770,
+  "excel_metadata": {
+    "Object Number": "1979.490.6",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 12770,
+    "Gallery Number": 774.0,
+    "Department": "The American Wing",
+    "AccessionYear": 1979.0,
+    "Object Name": "Painting",
+    "Title": "On Point",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16510.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Arthur Fitzwilliam Tait",
+    "Artist Display Bio": "American (born England), Liverpool 1819–1905 Yonkers, New York",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Tait, Arthur Fitzwilliam",
+    "Artist Nationality": "American, born England",
+    "Artist Begin Date": "1819",
+    "Artist End Date": "1905",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500023688",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q8205641",
+    "Object Date": "1874",
+    "Object Begin Date": 1874,
+    "Object End Date": 1874,
+    "Medium": "Oil on wood",
+    "Dimensions": "10 x 13 3/4 in. (25.4 x 34.3 cm)",
+    "Credit Line": "Gift of Mrs. J. Augustus Barnard, 1979",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/12770",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19923943",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Birds|Dogs|Hunting",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300266506|http://vocab.getty.edu/page/aat/300265714|http://vocab.getty.edu/page/aat/300239666",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q5113|https://www.wikidata.org/wiki/Q144|https://www.wikidata.org/wiki/Q36963"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/ap1979.490.6.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ad/original/223247.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 165107,
+        "role": "Artist",
+        "name": "Arthur Fitzwilliam Tait",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500023688",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q8205641",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 25.4,
+          "Width": 34.9
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 17,
+          "Height": 36.9,
+          "Width": 46.6
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Birds",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300266506",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q5113"
+      },
+      {
+        "term": "Hunting",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300239666",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q36963"
+      },
+      {
+        "term": "Dogs",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300265714",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q144"
+      }
+    ]
+  }
+}

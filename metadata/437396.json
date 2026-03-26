@@ -1,0 +1,104 @@
+{
+  "object_id": 437396,
+  "excel_metadata": {
+    "Object Number": "26.101.9",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 437396,
+    "Gallery Number": 964.0,
+    "Department": "European Paintings",
+    "AccessionYear": 1926.0,
+    "Object Name": "Painting",
+    "Title": "Hendrickje Stoffels (1626–1663)",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16229.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Rembrandt (Rembrandt van Rijn)",
+    "Artist Display Bio": "Dutch, Leiden 1606–1669 Amsterdam",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Rembrandt (Rembrandt van Rijn)",
+    "Artist Nationality": "Dutch",
+    "Artist Begin Date": "1606",
+    "Artist End Date": "1669",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500011051",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q5598",
+    "Object Date": "mid-1650s",
+    "Object Begin Date": 1654,
+    "Object End Date": 1656,
+    "Medium": "Oil on canvas",
+    "Dimensions": "30 7/8 x 27 1/8 in. (78.4 x 68.9 cm)",
+    "Credit Line": "Gift of Archer M. Huntington, in memory of his father, Collis Potter Huntington, 1926",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437396",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19911539",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Portraits|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP145920.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162297,
+        "role": "Artist",
+        "name": "Rembrandt (Rembrandt van Rijn)",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500011051",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5598",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 8.89,
+          "Height": 101.6002,
+          "Width": 92.7102
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 78.4,
+          "Width": 68.9
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

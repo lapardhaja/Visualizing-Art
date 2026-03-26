@@ -1,0 +1,90 @@
+{
+  "object_id": 435801,
+  "excel_metadata": {
+    "Object Number": "54.128.7",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 435801,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1954.0,
+    "Object Name": "Painting, miniature",
+    "Title": "Eye Miniature",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 12668.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "British Painter",
+    "Artist Display Bio": "early 19th century",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "British Painter",
+    "Artist Nationality": "British",
+    "Artist Begin Date": "          ",
+    "Artist End Date": "          ",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": NaN,
+    "Artist Wikidata URL": NaN,
+    "Object Date": NaN,
+    "Object Begin Date": 1800,
+    "Object End Date": 1829,
+    "Medium": "Ivory",
+    "Dimensions": "Oval, 3/4 x 1/2 in. (19 x 13 mm)",
+    "Credit Line": "Gift of Mr. and Mrs. John W. Starr, 1954",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Miniatures",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/435801",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19914047",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Eyes",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300400484",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q7364"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/158046.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 126682,
+        "role": "Artist",
+        "name": "British Painter",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 1.9,
+          "Width": 1.3
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Eyes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300400484",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q7364"
+      }
+    ]
+  }
+}

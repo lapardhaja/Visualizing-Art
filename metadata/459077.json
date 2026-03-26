@@ -1,0 +1,100 @@
+{
+  "object_id": 459077,
+  "excel_metadata": {
+    "Object Number": "1975.1.135",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 459077,
+    "Gallery Number": 953.0,
+    "Department": "Robert Lehman Collection",
+    "AccessionYear": 1975.0,
+    "Object Name": "Painting",
+    "Title": "Venus with Cupid the Honey Thief",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16179.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": "Copy after",
+    "Artist Display Name": "Lucas Cranach the Elder",
+    "Artist Display Bio": "German, Kronach 1472–1553 Weimar",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Cranach, Lucas, the Elder",
+    "Artist Nationality": "German",
+    "Artist Begin Date": "1472",
+    "Artist End Date": "1553",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500115364",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q191748",
+    "Object Date": "ca. 1580–1620",
+    "Object Begin Date": 1575,
+    "Object End Date": 1625,
+    "Medium": "Oil on oak panel",
+    "Dimensions": "14 5/16 x 9 15/16 in. (36.3 x 25.2 cm)",
+    "Credit Line": "Robert Lehman Collection, 1975",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/459077",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20180801",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Cupid|Venus|Bees",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300380105|http://vocab.getty.edu/page/ia/901001064|http://vocab.getty.edu/page/aat/300310662",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q5011|https://www.wikidata.org/wiki/Q47652|https://www.wikidata.org/wiki/Q7391"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/rl/original/DP159772.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 161794,
+        "role": "Artist",
+        "name": "Copy after Lucas Cranach the Elder",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115364",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q191748",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 36.3,
+          "Width": 25.2
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Cupid",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300380105",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q5011"
+      },
+      {
+        "term": "Venus",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901001064",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q47652"
+      },
+      {
+        "term": "Bees",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300310662",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q7391"
+      }
+    ]
+  }
+}

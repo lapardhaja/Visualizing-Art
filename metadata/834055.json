@@ -1,0 +1,86 @@
+{
+  "object_id": 834055,
+  "excel_metadata": {
+    "Object Number": "1982.88.5",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 834055,
+    "Gallery Number": 516,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1982,
+    "Object Name": "Candlestick",
+    "Title": "Large candlestick (one of a pair, part of a set)",
+    "Culture": "British, London",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 16611,
+    "Artist Role": "Maker",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Asprey",
+    "Artist Display Bio": "British, founded 1781",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Asprey",
+    "Artist Nationality": "British",
+    "Artist Begin Date": 1781,
+    "Artist End Date": 9999,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500524530",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q14516046",
+    "Object Date": 1851,
+    "Object Begin Date": 1851,
+    "Object End Date": 1851,
+    "Medium": "Gilt bronze, malachite",
+    "Dimensions": "Height: 8 3/4 in. (22.2 cm)",
+    "Credit Line": "Purchase, Gift of Irwin Untermyer, Loretta Hines Howard and Charles Hines, in memory of Mr. and Mrs. Edward Hines, and J. Pierpont Morgan, by exchange, 1982",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Metalwork-Gilt Bronze",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/834055",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q116240671",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": null,
+    "Tags AAT URL": null,
+    "Tags Wikidata URL": null
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP-13486-080.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/DP-13486-017.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP-13486-018.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 166111,
+        "role": "Maker",
+        "name": "Asprey",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500524530",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q14516046",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Height",
+        "elementDescription": "each",
+        "elementMeasurements": {
+          "Height": 22.225044
+        }
+      }
+    ],
+    "tags": null
+  }
+}

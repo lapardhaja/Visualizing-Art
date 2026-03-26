@@ -1,0 +1,109 @@
+{
+  "object_id": 16591,
+  "excel_metadata": {
+    "Object Number": "1999.299.1",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 16591,
+    "Gallery Number": 774.0,
+    "Department": "The American Wing",
+    "AccessionYear": 1999.0,
+    "Object Name": "Painting",
+    "Title": "Still Life with Ewer and Fruit",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 358.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Carducius Plantagenet Ream",
+    "Artist Display Bio": "1838–1917",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Ream, Carducius Plantagenet",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1838",
+    "Artist End Date": "1917",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500031601",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q20892627",
+    "Object Date": NaN,
+    "Object Begin Date": 1838,
+    "Object End Date": 1917,
+    "Medium": "Oil on canvas",
+    "Dimensions": "12 x 10 in. (30.5 x 25.4 cm)",
+    "Credit Line": "Gift of Peck Stacpoole Foundation, 1999",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/16591",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20172114",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Grapes|Pears|Still Life",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300379338|http://vocab.getty.edu/page/aat/300375178|http://vocab.getty.edu/page/aat/300015638",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q10978|https://www.wikidata.org/wiki/Q13099586|https://www.wikidata.org/wiki/Q170571"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DT4431.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 3583,
+        "role": "Artist",
+        "name": "Carducius Plantagenet Ream",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500031601",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q20892627",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 30.5,
+          "Width": 25.4
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 10.16,
+          "Height": 55.5626,
+          "Width": 50.3239
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Grapes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379338",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q10978"
+      },
+      {
+        "term": "Pears",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300375178",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q13099586"
+      },
+      {
+        "term": "Still Life",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015638",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q170571"
+      }
+    ]
+  }
+}

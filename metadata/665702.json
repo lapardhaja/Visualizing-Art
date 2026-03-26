@@ -1,0 +1,104 @@
+{
+  "object_id": 665702,
+  "excel_metadata": {
+    "Object Number": "2015.46",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 665702,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 2015.0,
+    "Object Name": "Painting",
+    "Title": "The Sacrifice of Iphigenia",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16191.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Gaetano Gandolfi",
+    "Artist Display Bio": "Italian, San Matteo della Decima 1734–1802 Bologna",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Gandolfi, Gaetano",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1734",
+    "Artist End Date": "1802",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500005315",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q1491011",
+    "Object Date": "1789",
+    "Object Begin Date": 1789,
+    "Object End Date": 1789,
+    "Medium": "Oil on canvas",
+    "Dimensions": "26 7/8 × 18 in. (68.3 × 45.7 cm)",
+    "Credit Line": "Rogers Fund, 2015",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/665702",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19905066",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Diana|Deer|Putti",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901000118|http://vocab.getty.edu/page/aat/300250308|http://vocab.getty.edu/page/aat/300250465",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q132543|https://www.wikidata.org/wiki/Q685795|https://www.wikidata.org/wiki/Q284865"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP341857.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/DP341859.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-2015_46-2.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-2015_46-3.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 161916,
+        "role": "Artist",
+        "name": "Gaetano Gandolfi",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500005315",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1491011",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 68.262634,
+          "Width": 45.720093
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Putti",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250465",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q284865"
+      },
+      {
+        "term": "Diana",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000118",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q132543"
+      },
+      {
+        "term": "Deer",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250308",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q685795"
+      }
+    ]
+  }
+}

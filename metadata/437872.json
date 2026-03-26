@@ -1,0 +1,100 @@
+{
+  "object_id": 437872,
+  "excel_metadata": {
+    "Object Number": "89.15.18",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437872,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1889.0,
+    "Object Name": "Painting",
+    "Title": "Mariana of Austria (1634–1696), Queen of Spain",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16261.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": "Workshop of",
+    "Artist Display Name": "Velázquez",
+    "Artist Display Bio": "Spanish, Seville 1599–1660 Madrid",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Velázquez",
+    "Artist Nationality": "Spanish",
+    "Artist Begin Date": "1599",
+    "Artist End Date": "1660",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500016881",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q297",
+    "Object Date": NaN,
+    "Object Begin Date": 1619,
+    "Object End Date": 1660,
+    "Medium": "Oil on canvas",
+    "Dimensions": "32 1/4 x 39 1/2 in. (81.9 x 100.3 cm)",
+    "Credit Line": "Marquand Collection, Gift of Henry G. Marquand, 1889",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437872",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912236",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Queens|Portraits|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025483|http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q16511993|https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP276130.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162615,
+        "role": "Artist",
+        "name": "Workshop of Velázquez",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500016881",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q297",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 81.9,
+          "Width": 100.3
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Queens",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025483",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q16511993"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

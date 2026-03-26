@@ -1,0 +1,96 @@
+{
+  "object_id": 310368,
+  "excel_metadata": {
+    "Object Number": "1978.412.352",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 310368,
+    "Gallery Number": null,
+    "Department": "Arts of Africa, Oceania, and the Americas",
+    "AccessionYear": 1978,
+    "Object Name": "Head",
+    "Title": "Memorial Head (Ntiri)",
+    "Culture": "Akan peoples",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": null,
+    "Artist Role": null,
+    "Artist Prefix": null,
+    "Artist Display Name": null,
+    "Artist Display Bio": null,
+    "Artist Suffix": null,
+    "Artist Alpha Sort": null,
+    "Artist Nationality": null,
+    "Artist Begin Date": null,
+    "Artist End Date": null,
+    "Artist Gender": null,
+    "Artist ULAN URL": null,
+    "Artist Wikidata URL": null,
+    "Object Date": "17th century (?)",
+    "Object Begin Date": 1600,
+    "Object End Date": 1700,
+    "Medium": "Terracotta",
+    "Dimensions": "H. 12 in. × W. 7 1/2 in. × D. 7 in. (30.5 × 19.1 × 17.8 cm)",
+    "Credit Line": "The Michael C. Rockefeller Memorial Collection, Gift of Nelson A. Rockefeller, 1964",
+    "Geography Type": null,
+    "City": "Fomena (?)",
+    "State": null,
+    "County": null,
+    "Country": "Ghana",
+    "Region": "Adanse traditional area",
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Ceramics-Sculpture",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/310368",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Heads",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300375054",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q3409626"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ao/original/DP231464.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ao/original/DP234556.jpg",
+      "https://images.metmuseum.org/CRDImages/ao/original/DP234557.jpg",
+      "https://images.metmuseum.org/CRDImages/ao/original/DP234627.jpg",
+      "https://images.metmuseum.org/CRDImages/ao/original/DP231465.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 219152,
+        "role": "Artist",
+        "name": "Akan artist",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 17.780035,
+          "Height": 30.48006,
+          "Width": 19.050037
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Heads",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300375054",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3409626"
+      }
+    ]
+  }
+}

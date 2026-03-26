@@ -1,0 +1,103 @@
+{
+  "object_id": 466051,
+  "excel_metadata": {
+    "Object Number": 1979.4,
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 466051,
+    "Gallery Number": null,
+    "Department": "Medieval Art",
+    "AccessionYear": 1979,
+    "Object Name": "Clasp",
+    "Title": "Agraffe",
+    "Culture": "German",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": null,
+    "Artist Role": null,
+    "Artist Prefix": null,
+    "Artist Display Name": null,
+    "Artist Display Bio": null,
+    "Artist Suffix": null,
+    "Artist Alpha Sort": null,
+    "Artist Nationality": null,
+    "Artist Begin Date": null,
+    "Artist End Date": null,
+    "Artist Gender": null,
+    "Artist ULAN URL": null,
+    "Artist Wikidata URL": null,
+    "Object Date": "ca. 1860–1900",
+    "Object Begin Date": 1860,
+    "Object End Date": 1900,
+    "Medium": "Basse taille enamel, silver-gilt",
+    "Dimensions": "Overall: 2 7/16 x 5 x 3/8 in. (6.2 x 12.7 x 1 cm)_x000D_\nleft element: 2 3/8 x 2 11/16 x 3/8 in. (6.1 x 6.8 x 1 cm)_x000D_\nright element: 2 7/16 x 2 5/8 x 3/8 in. (6.2 x 6.7 x 0.9 cm)",
+    "Credit Line": "Purchase, The Cloisters Collection, Rogers Fund, Gifts of George Blumenthal, Mrs. Robert W. de Forest, J. Pierpont Morgan, and George D. Pratt, by exchange, and Mrs. Charles F. Griffith, Margaret L. Meiss, Eleanor Roach and anonymous gifts, 1979",
+    "Geography Type": "Made in",
+    "City": "Cologne",
+    "State": null,
+    "County": null,
+    "Country": "Germany",
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Enamels-Basse taille",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/466051",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Birds",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300266506",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q5113"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/md/original/sf1979-400s1.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/md/original/sf1979-400d1.jpg",
+      "https://images.metmuseum.org/CRDImages/md/original/sf1979-400d2.jpg"
+    ],
+    "constituents": null,
+    "measurements": [
+      {
+        "elementName": "Other",
+        "elementDescription": "right element",
+        "elementMeasurements": {
+          "Depth": 0.9,
+          "Height": 6.2,
+          "Width": 6.7
+        }
+      },
+      {
+        "elementName": "Other",
+        "elementDescription": "left element",
+        "elementMeasurements": {
+          "Depth": 1,
+          "Height": 6.1,
+          "Width": 6.8
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 1,
+          "Height": 6.2,
+          "Width": 12.7
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Birds",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300266506",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q5113"
+      }
+    ]
+  }
+}

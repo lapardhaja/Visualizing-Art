@@ -1,0 +1,90 @@
+{
+  "object_id": 436785,
+  "excel_metadata": {
+    "Object Number": "16.39",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436785,
+    "Gallery Number": 812.0,
+    "Department": "European Paintings",
+    "AccessionYear": 1916.0,
+    "Object Name": "Painting",
+    "Title": "Honfleur",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16477.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Johan Barthold Jongkind",
+    "Artist Display Bio": "Dutch, Latrop 1819–1891 La-Côte-Saint-André",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Jongkind, Johan Barthold",
+    "Artist Nationality": "Dutch",
+    "Artist Begin Date": "1819",
+    "Artist End Date": "1891",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500028269",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q704585",
+    "Object Date": "1865",
+    "Object Begin Date": 1865,
+    "Object End Date": 1865,
+    "Medium": "Oil on canvas",
+    "Dimensions": "20 1/2 x 32 1/8 in. (52.1 x 81.6 cm)",
+    "Credit Line": "Catharine Lorillard Wolfe Collection, Wolfe Fund, 1916",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436785",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912639",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Ships",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300082981",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q11446"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT1558.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 164779,
+        "role": "Artist",
+        "name": "Johan Barthold Jongkind",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500028269",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q704585",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 52.1,
+          "Width": 81.6
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Ships",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300082981",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q11446"
+      }
+    ]
+  }
+}

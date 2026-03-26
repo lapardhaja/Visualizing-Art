@@ -1,0 +1,120 @@
+{
+  "object_id": 203664,
+  "excel_metadata": {
+    "Object Number": "64.101.854",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 203664,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1964,
+    "Object Name": "Plaque",
+    "Title": "Sleeping Shepherdess",
+    "Culture": "British, Staffordshire",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 4738916357,
+    "Artist Role": "Artist|Artist",
+    "Artist Prefix": "After an engraving by|After a painting by",
+    "Artist Display Name": "Augustin Le Grand|Charles Dominique Joseph Eisen",
+    "Artist Display Bio": "1765–1815|French, Valenciennes 1720–1778 Brussels",
+    "Artist Suffix": " | ",
+    "Artist Alpha Sort": "Le Grand, Augustin|Eisen, Charles Dominique Joseph",
+    "Artist Nationality": " |French",
+    "Artist Begin Date": "1765      |1720      ",
+    "Artist End Date": "1815      |1778      ",
+    "Artist Gender": "|",
+    "Artist ULAN URL": "|http://vocab.getty.edu/page/ulan/500024830",
+    "Artist Wikidata URL": "|https://www.wikidata.org/wiki/Q2744998",
+    "Object Date": "1775–80",
+    "Object Begin Date": 1775,
+    "Object End Date": 1780,
+    "Medium": "Enamel on copper, transfer printed and overenameled",
+    "Dimensions": "Overall: 3 × 3 7/8 in. (7.6 × 9.8 cm)",
+    "Credit Line": "Gift of Irwin Untermyer, 1964",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Enamels-Painted",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/203664",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Sleeping|Men|Women|Sheep|Shepherds",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300375130|http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/aat/300250284|http://vocab.getty.edu/page/aat/300025617",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q35831|https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q7368|https://www.wikidata.org/wiki/Q81710"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP-16194-269.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/DP-16194-270.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 39327,
+        "role": "Engraver",
+        "name": "based on print probably by Robert Hancock",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500143867",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q17309113",
+        "gender": ""
+      },
+      {
+        "constituentID": 161703,
+        "role": "Artist",
+        "name": "after François Boucher",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500032143",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q180932",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 7.620015,
+          "Width": 9.84252
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Sleeping",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300375130",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q35831"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Sheep",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250284",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q7368"
+      },
+      {
+        "term": "Shepherds",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025617",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q81710"
+      }
+    ]
+  }
+}

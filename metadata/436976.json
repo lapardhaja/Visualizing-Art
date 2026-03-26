@@ -1,0 +1,115 @@
+{
+  "object_id": 436976,
+  "excel_metadata": {
+    "Object Number": "53.155",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436976,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1953.0,
+    "Object Name": "Painting",
+    "Title": "Still Life with Poppy, Insects, and Reptiles",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10797.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Otto Marseus van Schrieck",
+    "Artist Display Bio": "Dutch, Nijmegen 1619/20–1678 Amsterdam",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Marseus van Schrieck, Otto",
+    "Artist Nationality": "Dutch",
+    "Artist Begin Date": "1619",
+    "Artist End Date": "1678",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500005835",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q339270",
+    "Object Date": "ca. 1670",
+    "Object Begin Date": 1665,
+    "Object End Date": 1675,
+    "Medium": "Oil on canvas",
+    "Dimensions": "26 7/8 x 20 3/4 in. (68.3 x 52.7 cm)",
+    "Credit Line": "Rogers Fund, 1953",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436976",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912425",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Insects|Lizards|Snakes|Poppies|Still Life|Snails",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300310470|http://vocab.getty.edu/page/aat/300250295|http://vocab.getty.edu/page/aat/300250870|http://vocab.getty.edu/page/aat/300375678|http://vocab.getty.edu/page/aat/300015638|http://vocab.getty.edu/page/aat/300249702",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q1390|https://www.wikidata.org/wiki/Q15629245|https://www.wikidata.org/wiki/Q2102|https://www.wikidata.org/wiki/Q967457|https://www.wikidata.org/wiki/Q170571|https://www.wikidata.org/wiki/Q308841"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP145933.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 107975,
+        "role": "Artist",
+        "name": "Otto Marseus van Schrieck",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500005835",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q339270",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 68.3,
+          "Width": 52.7
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Insects",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300310470",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q1390"
+      },
+      {
+        "term": "Snails",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300249702",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q308841"
+      },
+      {
+        "term": "Lizards",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250295",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q15629245"
+      },
+      {
+        "term": "Snakes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250870",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q2102"
+      },
+      {
+        "term": "Poppies",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300375678",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q967457"
+      },
+      {
+        "term": "Still Life",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015638",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q170571"
+      }
+    ]
+  }
+}

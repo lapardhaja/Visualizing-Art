@@ -1,0 +1,102 @@
+{
+  "object_id": 200544,
+  "excel_metadata": {
+    "Object Number": "48.187.723, .724",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 200544,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1948,
+    "Object Name": "Side chairs",
+    "Title": "Pair of side chairs",
+    "Culture": "French, Paris",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 3410,
+    "Artist Role": "Maker",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Jean-Baptiste I Tilliard",
+    "Artist Display Bio": "French, 1686–1766",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Tilliard Jean-Baptiste I",
+    "Artist Nationality": "French",
+    "Artist Begin Date": 1686,
+    "Artist End Date": 1766,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500010817",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q3164166",
+    "Object Date": "mid-18th century",
+    "Object Begin Date": 1730,
+    "Object End Date": 1765,
+    "Medium": "Carved and painted wood; silk upholstery",
+    "Dimensions": "Overall (.723): 34 1/8 × 20 1/2 × 19 in. (86.7 × 52.1 × 48.3 cm); Overall (.724): 35 5/8 × 20 1/2 × 18 3/4 in. (90.5 × 52.1 × 47.6 cm)",
+    "Credit Line": "Bequest of Catherine D. Wentworth, 1948",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Woodwork-Furniture",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/200544",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Flowers",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300132399",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q506"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/147202.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/147703.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 34106,
+        "role": "Maker",
+        "name": "Jean-Baptiste I Tilliard",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500010817",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3164166",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": ".724",
+        "elementMeasurements": {
+          "Depth": 47.625095,
+          "Height": 90.48768,
+          "Width": 52.070103
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": ".723",
+        "elementMeasurements": {
+          "Depth": 48.260098,
+          "Height": 86.67767,
+          "Width": 52.070103
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Flowers",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132399",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q506"
+      }
+    ]
+  }
+}

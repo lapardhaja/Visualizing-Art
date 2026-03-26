@@ -1,0 +1,100 @@
+{
+  "object_id": 45743,
+  "excel_metadata": {
+    "Object Number": "47.56",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 45743,
+    "Gallery Number": NaN,
+    "Department": "Asian Art",
+    "AccessionYear": 1947.0,
+    "Object Name": "Painting",
+    "Title": NaN,
+    "Culture": "Japan",
+    "Period": "Edo period (1615–1868)",
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 1393.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Tosa School",
+    "Artist Display Bio": " ",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Tosa School",
+    "Artist Nationality": "Japanese",
+    "Artist Begin Date": "          ",
+    "Artist End Date": "          ",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": NaN,
+    "Artist Wikidata URL": NaN,
+    "Object Date": "17th century",
+    "Object Begin Date": 1600,
+    "Object End Date": 1699,
+    "Medium": "Matted painting; ink and color on silk",
+    "Dimensions": "8 x 8 in. (20.3 x 20.3 cm)",
+    "Credit Line": "Gift of Mrs. Morris Manges, in memory of her husband, Dr. Morris Manges, 1947",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/45743",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q78839946",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Fences|Men|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300005044|http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q148571|https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/as/original/47_56_O.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 13937,
+        "role": "Artist",
+        "name": "Tosa School",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 20.3,
+          "Width": 20.3
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Fences",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300005044",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q148571"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "object_id": 652416,
+  "excel_metadata": {
+    "Object Number": "2014.228",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 652416,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 2014.0,
+    "Object Name": "Painting",
+    "Title": "The Crucifixion",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 7115.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Pedro Orrente",
+    "Artist Display Bio": "Spanish, Murcia 1580–1645 Valencia",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Orrente, Pedro",
+    "Artist Nationality": "Spanish",
+    "Artist Begin Date": "1580",
+    "Artist End Date": "1645",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500008979",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q2605835",
+    "Object Date": "ca. 1625–30",
+    "Object Begin Date": 1625,
+    "Object End Date": 1630,
+    "Medium": "Oil on canvas",
+    "Dimensions": "48 3/4 × 40 1/2 in. (123.8 × 102.9 cm)",
+    "Credit Line": "Purchase, Charles and Jessie Price and Fern and George Wachter Gifts, 2014",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/652416",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19913247",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Dogs|Christ|Saint John the Evangelist|Virgin Mary|Ladders|Crucifixion",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300265714|http://vocab.getty.edu/page/ia/901000087|http://vocab.getty.edu/page/ia/901001171|http://vocab.getty.edu/page/ia/901000032|http://vocab.getty.edu/page/aat/300022376|http://vocab.getty.edu/page/aat/300404300",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q144|https://www.wikidata.org/wiki/Q642420|https://www.wikidata.org/wiki/Q328804|https://www.wikidata.org/wiki/Q345|https://www.wikidata.org/wiki/Q168639|https://www.wikidata.org/wiki/Q3235597"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP360943.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 71155,
+        "role": "Artist",
+        "name": "Pedro Orrente",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500008979",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q2605835",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 123.82525,
+          "Width": 102.87021
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Dogs",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300265714",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q144"
+      },
+      {
+        "term": "Christ",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+      },
+      {
+        "term": "Saint John the Evangelist",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901001171",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q328804"
+      },
+      {
+        "term": "Virgin Mary",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000032",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q345"
+      },
+      {
+        "term": "Crucifixion",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300404300",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3235597"
+      },
+      {
+        "term": "Ladders",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300022376",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q168639"
+      }
+    ]
+  }
+}

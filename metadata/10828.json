@@ -1,0 +1,114 @@
+{
+  "object_id": 10828,
+  "excel_metadata": {
+    "Object Number": "17.173",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 10828,
+    "Gallery Number": 764.0,
+    "Department": "The American Wing",
+    "AccessionYear": 1917.0,
+    "Object Name": "Painting",
+    "Title": "The Writing Master",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16185.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Thomas Eakins",
+    "Artist Display Bio": "American, Philadelphia, Pennsylvania 1844–1916 Philadelphia, Pennsylvania",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Eakins, Thomas",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1844",
+    "Artist End Date": "1916",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500115198",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q214905",
+    "Object Date": "1882",
+    "Object Begin Date": 1882,
+    "Object End Date": 1882,
+    "Medium": "Oil on canvas",
+    "Dimensions": "30 x 34 1/4 in. (76.2 x 87 cm)",
+    "Credit Line": "John Stewart Kennedy Fund, 1917",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/10828",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20176465",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Authors|Men|Portraits|Writing",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025492|http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300054698",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q482980|https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q37260"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DT2038.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 161859,
+        "role": "Artist",
+        "name": "Thomas Eakins",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115198",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q214905",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 10.4775,
+          "Height": 109.379,
+          "Width": 120.174
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 76.2,
+          "Width": 87
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Writing",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300054698",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q37260"
+      },
+      {
+        "term": "Authors",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025492",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q482980"
+      }
+    ]
+  }
+}

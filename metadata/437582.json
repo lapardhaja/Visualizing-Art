@@ -1,0 +1,95 @@
+{
+  "object_id": 437582,
+  "excel_metadata": {
+    "Object Number": "67.131",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437582,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1967.0,
+    "Object Name": "Painting, drawing",
+    "Title": "Robert Shurlock (1772–1847)",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16509.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "John Russell",
+    "Artist Display Bio": "British, Guildford 1745–1806 Hull",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Russell, John",
+    "Artist Nationality": "British",
+    "Artist Begin Date": "1745",
+    "Artist End Date": "1806",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500002979",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q6255995",
+    "Object Date": "1801",
+    "Object Begin Date": 1801,
+    "Object End Date": 1801,
+    "Medium": "Pastel on paper, laid down on canvas",
+    "Dimensions": "23 3/4 x 17 3/8 in. (60.3 x 44.1 cm)",
+    "Credit Line": "Gift of Alan R. Shurlock, 1967",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Pastels & Oil Sketches on Paper",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437582",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19913437",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP161648.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 165090,
+        "role": "Artist",
+        "name": "John Russell",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500002979",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q6255995",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 60.3,
+          "Width": 44.1
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

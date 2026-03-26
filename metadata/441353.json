@@ -1,0 +1,113 @@
+{
+  "object_id": 441353,
+  "excel_metadata": {
+    "Object Number": "2017.202.3",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 441353,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 2017.0,
+    "Object Name": "Painting",
+    "Title": "Scene in a Harem (Un Envoi de Serbie)",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10736.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Benjamin-Constant (Jean-Joseph-Benjamin Constant)",
+    "Artist Display Bio": "French, Paris 1845–1902 Paris",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Benjamin-Constant (Jean-Joseph-Benjamin Constant)",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1845",
+    "Artist End Date": "1902",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500015006",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q968357",
+    "Object Date": "1876",
+    "Object Begin Date": 1876,
+    "Object End Date": 1876,
+    "Medium": "Oil on canvas",
+    "Dimensions": "12 1/4 x 15 1/2 in. (31.1 x 39.4 cm)",
+    "Credit Line": "Gift of Kenneth Jay Lane, 2017",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/441353",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q78633797",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Women|Female Nudes|Orientalist",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/aat/300189568|http://vocab.getty.edu/page/aat/300055784",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q40446|https://www.wikidata.org/wiki/Q765606"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-16687-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 107366,
+        "role": "Artist",
+        "name": "Benjamin-Constant (Jean-Joseph-Benjamin Constant)",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500015006",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q968357",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 31.115063,
+          "Width": 39.37008
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": "approximate",
+        "elementMeasurements": {
+          "Height": 53.97511,
+          "Width": 60.96012
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Female Nudes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300189568",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q40446"
+      },
+      {
+        "term": "Orientalist",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300055784",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q765606"
+      }
+    ]
+  }
+}

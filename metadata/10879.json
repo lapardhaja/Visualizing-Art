@@ -1,0 +1,108 @@
+{
+  "object_id": 10879,
+  "excel_metadata": {
+    "Object Number": "66.242.25",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 10879,
+    "Gallery Number": 774.0,
+    "Department": "The American Wing",
+    "AccessionYear": 1966.0,
+    "Object Name": "Painting",
+    "Title": "Egyptian Scene (possibly Moses and Zipporah)",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 251.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Erastus Salisbury Field",
+    "Artist Display Bio": "1805–1900",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Field, Erastus Salisbury",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1805",
+    "Artist End Date": "1900",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500021230",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q597126",
+    "Object Date": "1865–80",
+    "Object Begin Date": 1865,
+    "Object End Date": 1880,
+    "Medium": "Oil on canvas",
+    "Dimensions": "35 x 46 in. (88.9 x 116.8 cm)",
+    "Credit Line": "Gift of Edgar William and Bernice Chrysler Garbisch, 1966",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/10879",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20174150",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Girls|Men|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300247581|http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q3031|https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/ap66.242.25.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 2512,
+        "role": "Artist",
+        "name": "Erastus Salisbury Field",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500021230",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q597126",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 105.4,
+          "Width": 134
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 88.9,
+          "Width": 116.8
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Girls",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300247581",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3031"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

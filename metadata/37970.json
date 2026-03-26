@@ -1,0 +1,109 @@
+{
+  "object_id": 37970,
+  "excel_metadata": {
+    "Object Number": "1991.152",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 37970,
+    "Gallery Number": NaN,
+    "Department": "Asian Art",
+    "AccessionYear": 1991.0,
+    "Object Name": "Painting",
+    "Title": NaN,
+    "Culture": "Tibet",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": NaN,
+    "Artist Role": NaN,
+    "Artist Prefix": NaN,
+    "Artist Display Name": NaN,
+    "Artist Display Bio": NaN,
+    "Artist Suffix": NaN,
+    "Artist Alpha Sort": NaN,
+    "Artist Nationality": NaN,
+    "Artist Begin Date": NaN,
+    "Artist End Date": NaN,
+    "Artist Gender": NaN,
+    "Artist ULAN URL": NaN,
+    "Artist Wikidata URL": NaN,
+    "Object Date": "last quarter of the 11th century",
+    "Object Begin Date": 1076,
+    "Object End Date": 1099,
+    "Medium": "Distemper on cloth",
+    "Dimensions": "Overall: 18 1/4 x 14 1/4 in. (46.4 x 36.2 cm)\r\nFramed: 31 3/4 x 21 13/16 in. (80.6 x 55.4 cm)",
+    "Credit Line": "Purchase, Friends of Asian Art Gifts, 1991",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/37970",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q78878868",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Birds|Elephants|Men|Portraits|Buddhism",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300266506|http://vocab.getty.edu/page/aat/300250160|http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300073738",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q5113|https://www.wikidata.org/wiki/Q7378|https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q748"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/as/original/DT5055.jpg",
+    "additionalImages": [],
+    "constituents": null,
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 46.4,
+          "Width": 36.2
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 80.645164,
+          "Width": 55.403862
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Birds",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300266506",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q5113"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Elephants",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250160",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q7378"
+      },
+      {
+        "term": "Buddhism",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300073738",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q748"
+      }
+    ]
+  }
+}

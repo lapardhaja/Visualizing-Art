@@ -1,0 +1,98 @@
+{
+  "object_id": 13099,
+  "excel_metadata": {
+    "Object Number": "22.217.2",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 13099,
+    "Gallery Number": 774.0,
+    "Department": "The American Wing",
+    "AccessionYear": 1922.0,
+    "Object Name": "Painting",
+    "Title": "Mrs. Samuel L. Waldo",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 299.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Samuel Lovett Waldo",
+    "Artist Display Bio": "1783–1861",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Waldo, Samuel Lovett",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1783",
+    "Artist End Date": "1861",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500026386",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q390073",
+    "Object Date": "ca. 1826",
+    "Object Begin Date": 1823,
+    "Object End Date": 1826,
+    "Medium": "Oil on wood",
+    "Dimensions": "30 1/4 x 25 5/8 in. (76.8 x 65.1 cm)",
+    "Credit Line": "Amelia B. Lazarus Fund, 1922",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/13099",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19925678",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Portraits|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/ap22.217.2.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ad/original/DP372179.jpg",
+      "https://images.metmuseum.org/CRDImages/ad/original/DP373321.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 2993,
+        "role": "Artist",
+        "name": "Samuel Lovett Waldo",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500026386",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q390073",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 76.8,
+          "Width": 65.1
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

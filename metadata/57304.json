@@ -1,0 +1,90 @@
+{
+  "object_id": 57304,
+  "excel_metadata": {
+    "Object Number": "38.106.11",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 57304,
+    "Gallery Number": NaN,
+    "Department": "Asian Art",
+    "AccessionYear": 1938.0,
+    "Object Name": "Painting",
+    "Title": NaN,
+    "Culture": "Japan",
+    "Period": "Edo period (1615–1868)",
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 1310.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Hokusai School",
+    "Artist Display Bio": " ",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Hokusai School",
+    "Artist Nationality": " ",
+    "Artist Begin Date": "          ",
+    "Artist End Date": "          ",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": NaN,
+    "Artist Wikidata URL": NaN,
+    "Object Date": "19th century",
+    "Object Begin Date": 1800,
+    "Object End Date": 1868,
+    "Medium": "Unmounted painting; ink and color on paper",
+    "Dimensions": "10 1/2 x 14 1/2 in. (26.7 x 36.8 cm)",
+    "Credit Line": "Fletcher Fund, 1938",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/57304",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q78724014",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Frogs",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300250018",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q3116510"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/as/original/38_106_11_115895.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 13109,
+        "role": "Artist",
+        "name": "Hokusai School",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 26.7,
+          "Width": 36.8
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Frogs",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250018",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3116510"
+      }
+    ]
+  }
+}

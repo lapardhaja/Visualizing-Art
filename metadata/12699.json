@@ -1,0 +1,104 @@
+{
+  "object_id": 12699,
+  "excel_metadata": {
+    "Object Number": "21.48",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 12699,
+    "Gallery Number": 733.0,
+    "Department": "The American Wing",
+    "AccessionYear": 1921.0,
+    "Object Name": "Painting",
+    "Title": "Musidora",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16249.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Thomas Sully",
+    "Artist Display Bio": "American, Horncastle, Lincolnshire 1783–1872 Philadelphia, Pennsylvania",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Sully, Thomas",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1783",
+    "Artist End Date": "1872",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500006873",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q786545",
+    "Object Date": "1813–35",
+    "Object Begin Date": 1813,
+    "Object End Date": 1835,
+    "Medium": "Oil on wood",
+    "Dimensions": "28 1/8 x 22 1/2 in. (71.4 x 57.2 cm)",
+    "Credit Line": "Gift of Louis Allston Gillet, in memory of his uncles, Sully Gillet and Lorenzo M. Gillet, 1921",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/12699",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19924758",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Female Nudes|Bathing",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300189568|http://vocab.getty.edu/page/aat/300343854",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q40446|https://www.wikidata.org/wiki/Q327651"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DT219411.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162494,
+        "role": "Artist",
+        "name": "Thomas Sully",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500006873",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q786545",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 71.4,
+          "Width": 57.2
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 9.5,
+          "Height": 99,
+          "Width": 85.5
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Female Nudes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300189568",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q40446"
+      },
+      {
+        "term": "Bathing",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300343854",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q327651"
+      }
+    ]
+  }
+}

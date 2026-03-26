@@ -1,0 +1,111 @@
+{
+  "object_id": 459075,
+  "excel_metadata": {
+    "Object Number": "1975.1.133",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 459075,
+    "Gallery Number": 953.0,
+    "Department": "Robert Lehman Collection",
+    "AccessionYear": 1975.0,
+    "Object Name": "Painting",
+    "Title": "Virgin and Child with a Donor Presented by Saint Jerome",
+    "Culture": "Bavaria, probably Munich",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 13812116998.0,
+    "Artist Role": "Artist|Artist",
+    "Artist Prefix": " |with additions by an",
+    "Artist Display Name": "Master of the Munich Bavarian Panels|Unknown",
+    "Artist Display Bio": "Bavaria, probably Munich, active mid-15th century| ",
+    "Artist Suffix": " |painter, Italian (?), active 1460s-1470s(?)",
+    "Artist Alpha Sort": "Master of the Munich Bavarian Panels|Unknown",
+    "Artist Nationality": " | ",
+    "Artist Begin Date": "          |          ",
+    "Artist End Date": "          |          ",
+    "Artist Gender": "|",
+    "Artist ULAN URL": "(not assigned)|http://vocab.getty.edu/page/ulan/500125274",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q22713648|https://www.wikidata.org/wiki/Q24238356",
+    "Object Date": "ca. 1450",
+    "Object Begin Date": 1448,
+    "Object End Date": 1453,
+    "Medium": "Oil and gold on poplar panel",
+    "Dimensions": "25 x 19 in. (63.5 x 48.3 cm)",
+    "Credit Line": "Robert Lehman Collection, 1975",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/459075",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20186416",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Madonna and Child|Saint Jerome",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/ia/901000052|http://vocab.getty.edu/page/ulan/500060933",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q9309699|https://www.wikidata.org/wiki/Q44248"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/rl/original/DP164853.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/rl/original/49.1 format_orig_arch.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/ep1975.1.133.bw.R.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 138121,
+        "role": "Artist",
+        "name": "Master of the Munich Bavarian Panels",
+        "constituentULAN_URL": "(not assigned)",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q22713648",
+        "gender": ""
+      },
+      {
+        "constituentID": 169986,
+        "role": "Artist",
+        "name": "with additions by an Unknown",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500125274",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q24238356",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 63.5,
+          "Width": 48.3
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Madonna and Child",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000052",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q9309699"
+      },
+      {
+        "term": "Saint Jerome",
+        "AAT_URL": "http://vocab.getty.edu/page/ulan/500060933",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q44248"
+      }
+    ]
+  }
+}

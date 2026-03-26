@@ -1,0 +1,104 @@
+{
+  "object_id": 199489,
+  "excel_metadata": {
+    "Object Number": "44.114.7",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 199489,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1944,
+    "Object Name": "Panel",
+    "Title": "Healing of the Paralytic at Capernaum (one of a set of 12 scenes from The Life of Christ)",
+    "Culture": "Flemish, Leuven",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 4690,
+    "Artist Role": "Maker",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Jan Rombouts",
+    "Artist Display Bio": "South Netherlandish (Duchy of Brabant), 1475–1535",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Rombouts, Jan",
+    "Artist Nationality": "South Netherlandish (Duchy of Brabant)",
+    "Artist Begin Date": 1475,
+    "Artist End Date": 1535,
+    "Artist Gender": null,
+    "Artist ULAN URL": null,
+    "Artist Wikidata URL": null,
+    "Object Date": "ca. 1525–30",
+    "Object Begin Date": 1520,
+    "Object End Date": 1535,
+    "Medium": "Stained glass",
+    "Dimensions": "Overall: 26 × 19 3/8 in. (66 × 49.2 cm);_x000D_\nFramed (confirmed): 22 7/8 × 17 3/4 × 3/8 in. (58.1 × 45.1 × 0.9 cm)",
+    "Credit Line": "Gift of Mrs. Henry Goldman, 1944",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Glass-Stained",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/199489",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Christ|Men",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901000087|http://vocab.getty.edu/page/aat/300025928",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q642420|https://www.wikidata.org/wiki/Q8441"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP-29815-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 46907,
+        "role": "Maker",
+        "name": "Jan Rombouts",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Framed",
+        "elementDescription": "confirmed",
+        "elementMeasurements": {
+          "Depth": 0.9,
+          "Height": 58.102615,
+          "Width": 45.08509
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 66.04013,
+          "Width": 49.212597
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Christ",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+      }
+    ]
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "object_id": 437614,
+  "excel_metadata": {
+    "Object Number": "25.106.6",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437614,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1925.0,
+    "Object Name": "Painting, miniature",
+    "Title": "Portrait of a Young Woman",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16489.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": "Attributed to",
+    "Artist Display Name": "Piat Joseph Sauvage",
+    "Artist Display Bio": "Flemish, Tournai 1744–1818 Tournai",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Sauvage, Piat Joseph",
+    "Artist Nationality": "Flemish",
+    "Artist Begin Date": "1744",
+    "Artist End Date": "1818",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500031952",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q3382227",
+    "Object Date": "ca. 1790–95",
+    "Object Begin Date": 1790,
+    "Object End Date": 1795,
+    "Medium": "Ivory",
+    "Dimensions": "Diameter 2 1/8 in. (54 mm)",
+    "Credit Line": "Gift of Mrs. Louis V. Bell, in memory of her husband, 1925",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Miniatures",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437614",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19913871",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Profiles|Women|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300123319|http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q4382010|https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/60102.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 164895,
+        "role": "Artist",
+        "name": "Attributed to Piat Joseph Sauvage",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500031952",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3382227",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 5.4,
+          "Width": 5.4
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Profiles",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300123319",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q4382010"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

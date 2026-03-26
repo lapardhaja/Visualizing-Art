@@ -1,0 +1,94 @@
+{
+  "object_id": 205670,
+  "excel_metadata": {
+    "Object Number": "1974.28.169",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 205670,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1974,
+    "Object Name": "Salver",
+    "Title": "Salver",
+    "Culture": "British, London",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 3494,
+    "Artist Role": "Maker",
+    "Artist Prefix": " ",
+    "Artist Display Name": "David Willaume I",
+    "Artist Display Bio": "British, 1658–1741",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Willaume David I",
+    "Artist Nationality": "British",
+    "Artist Begin Date": 1658,
+    "Artist End Date": 1741,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500087695",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q18730156",
+    "Object Date": "1710–11",
+    "Object Begin Date": 1710,
+    "Object End Date": 1711,
+    "Medium": "Silver",
+    "Dimensions": "Diameter: 24 in. (61 cm)",
+    "Credit Line": "Bequest of Irwin Untermyer, 1973",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Metalwork-Silver",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/205670",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Lions|Coat of Arms",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300310388|http://vocab.getty.edu/page/aat/300126352",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q140|https://www.wikidata.org/wiki/Q14659"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/266718.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 34949,
+        "role": "Maker",
+        "name": "David Willaume I",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500087695",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q18730156",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Diameter",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Diameter": 60.96012
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Lions",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300310388",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q140"
+      },
+      {
+        "term": "Coat of Arms",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300126352",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q14659"
+      }
+    ]
+  }
+}

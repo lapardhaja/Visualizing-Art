@@ -1,0 +1,100 @@
+{
+  "object_id": 198771,
+  "excel_metadata": {
+    "Object Number": "41.100.249",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 198771,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1941,
+    "Object Name": "Diptych",
+    "Title": "The Holy Family",
+    "Culture": "Flemish or Dutch",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": null,
+    "Artist Role": null,
+    "Artist Prefix": null,
+    "Artist Display Name": null,
+    "Artist Display Bio": null,
+    "Artist Suffix": null,
+    "Artist Alpha Sort": null,
+    "Artist Nationality": null,
+    "Artist Begin Date": null,
+    "Artist End Date": null,
+    "Artist Gender": null,
+    "Artist ULAN URL": null,
+    "Artist Wikidata URL": null,
+    "Object Date": "16th century",
+    "Object Begin Date": 1500,
+    "Object End Date": 1599,
+    "Medium": "Painted enamel on copper, partly gilt; gilt bronze",
+    "Dimensions": "Diameter (of enamels): 2 3/8 in. (6 cm)",
+    "Credit Line": "Gift of George Blumenthal, 1941",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Enamels",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/198771",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Holy Family|Saint John the Baptist|Saint Joseph|Christ|Virgin Mary",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901001175|http://vocab.getty.edu/page/ia/901001056|http://vocab.getty.edu/page/ia/901000953|http://vocab.getty.edu/page/ia/901000087|http://vocab.getty.edu/page/ia/901000032",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q618057|https://www.wikidata.org/wiki/Q40662|https://www.wikidata.org/wiki/Q128267|https://www.wikidata.org/wiki/Q642420|https://www.wikidata.org/wiki/Q345"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/124721.jpg",
+    "additionalImages": [],
+    "constituents": null,
+    "measurements": [
+      {
+        "elementName": "Diameter",
+        "elementDescription": "of enamels",
+        "elementMeasurements": {
+          "Diameter": 6.032512
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Christ",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+      },
+      {
+        "term": "Holy Family",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901001175",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q618057"
+      },
+      {
+        "term": "Saint John the Baptist",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901001056",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q40662"
+      },
+      {
+        "term": "Saint Joseph",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000953",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q128267"
+      },
+      {
+        "term": "Virgin Mary",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000032",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q345"
+      }
+    ]
+  }
+}

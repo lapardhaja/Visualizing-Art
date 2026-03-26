@@ -1,0 +1,100 @@
+{
+  "object_id": 12911,
+  "excel_metadata": {
+    "Object Number": "1973.323.2",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 12911,
+    "Gallery Number": 774.0,
+    "Department": "The American Wing",
+    "AccessionYear": 1973.0,
+    "Object Name": "Painting",
+    "Title": "Hudson House",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": NaN,
+    "Artist Role": NaN,
+    "Artist Prefix": NaN,
+    "Artist Display Name": NaN,
+    "Artist Display Bio": NaN,
+    "Artist Suffix": NaN,
+    "Artist Alpha Sort": NaN,
+    "Artist Nationality": NaN,
+    "Artist Begin Date": NaN,
+    "Artist End Date": NaN,
+    "Artist Gender": NaN,
+    "Artist ULAN URL": NaN,
+    "Artist Wikidata URL": NaN,
+    "Object Date": "1882",
+    "Object Begin Date": 1882,
+    "Object End Date": 1882,
+    "Medium": "Oil on canvas",
+    "Dimensions": "17 7/16 x 25 7/16 in. (43.6 x 63.9 cm)",
+    "Credit Line": "Gift of Edgar William and Bernice Chrysler Garbisch, 1973",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/12911",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20171520",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Horses|Houses|Carriages",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300250148|http://vocab.getty.edu/page/aat/300005433|http://vocab.getty.edu/page/aat/300185335",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q726|https://www.wikidata.org/wiki/Q3947|https://www.wikidata.org/wiki/Q235356"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/ap1973.323.2.jpg",
+    "additionalImages": [],
+    "constituents": null,
+    "measurements": [
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 6,
+          "Height": 44.5,
+          "Width": 83.2
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 44.3,
+          "Width": 64.6
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Houses",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300005433",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3947"
+      },
+      {
+        "term": "Horses",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250148",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q726"
+      },
+      {
+        "term": "Carriages",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300185335",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q235356"
+      }
+    ]
+  }
+}

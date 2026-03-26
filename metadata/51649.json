@@ -1,0 +1,113 @@
+{
+  "object_id": 51649,
+  "excel_metadata": {
+    "Object Number": "47.18.21",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 51649,
+    "Gallery Number": NaN,
+    "Department": "Asian Art",
+    "AccessionYear": 1947.0,
+    "Object Name": "Painting",
+    "Title": NaN,
+    "Culture": "China",
+    "Period": "Qing dynasty (1644–1911)",
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 3750.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Unidentified artist",
+    "Artist Display Bio": "Chinese, 17th century or later",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Unidentified artist",
+    "Artist Nationality": " ",
+    "Artist Begin Date": "          ",
+    "Artist End Date": "          ",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": NaN,
+    "Artist Wikidata URL": NaN,
+    "Object Date": NaN,
+    "Object Begin Date": 1600,
+    "Object End Date": 1699,
+    "Medium": "Ink and color on silk",
+    "Dimensions": "Image: 54 1/2 × 34 1/4 in. (138.4 × 87 cm)\r\nOverall with mounting: 9 ft. 3 7/8 in. × 42 1/4 in. (284.2 × 107.3 cm)\r\nOverall with knobs: 9 ft. 3 7/8 in. × 46 9/16 in. (284.2 × 118.3 cm)",
+    "Credit Line": "From the Collection of A. W. Bahr, Purchase, Fletcher Fund, 1947",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/51649",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q78805174",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Giraffes|Men",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300250194|http://vocab.getty.edu/page/aat/300025928",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q862089|https://www.wikidata.org/wiki/Q8441"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/as/original/DP162877.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/as/original/DP162879.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 37502,
+        "role": "Artist",
+        "name": "Unidentified artist",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall with mounting",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 284.16306,
+          "Width": 107.315216
+        }
+      },
+      {
+        "elementName": "Image",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 138.43028,
+          "Width": 86.99517
+        }
+      },
+      {
+        "elementName": "Overall with knobs",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 284.16306,
+          "Width": 118.26899
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Giraffes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250194",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q862089"
+      }
+    ]
+  }
+}

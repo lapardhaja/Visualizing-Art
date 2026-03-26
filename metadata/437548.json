@@ -1,0 +1,114 @@
+{
+  "object_id": 437548,
+  "excel_metadata": {
+    "Object Number": "25.110.18",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437548,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1925.0,
+    "Object Name": "Painting",
+    "Title": "Mountain Torrent",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16235.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Jacob van Ruisdael",
+    "Artist Display Bio": "Dutch, Haarlem 1628/29–1682 Amsterdam",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Ruisdael, Jacob van",
+    "Artist Nationality": "Dutch",
+    "Artist Begin Date": "1628",
+    "Artist End Date": "1682",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500027077",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q213612",
+    "Object Date": "1670s",
+    "Object Begin Date": 1670,
+    "Object End Date": 1679,
+    "Medium": "Oil on canvas",
+    "Dimensions": "21 1/4 x 16 1/2 in. (54 x 41.9 cm)",
+    "Credit Line": "Bequest of Collis P. Huntington, 1900",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437548",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912779",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Bridges|Waterfalls|Mountains|Landscapes",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300386855|http://vocab.getty.edu/page/aat/300008736|http://vocab.getty.edu/page/aat/300008795|http://vocab.getty.edu/page/aat/300132294",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q12280|https://www.wikidata.org/wiki/Q34038|https://www.wikidata.org/wiki/Q8502|https://www.wikidata.org/wiki/Q191163"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP123841.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162354,
+        "role": "Artist",
+        "name": "Jacob van Ruisdael",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500027077",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q213612",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 54,
+          "Width": 41.9
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 10.16002,
+          "Height": 89.53518,
+          "Width": 76.83515
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Bridges",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300386855",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q12280"
+      },
+      {
+        "term": "Waterfalls",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300008736",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q34038"
+      },
+      {
+        "term": "Mountains",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300008795",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8502"
+      },
+      {
+        "term": "Landscapes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+      }
+    ]
+  }
+}

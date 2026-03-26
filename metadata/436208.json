@@ -1,0 +1,122 @@
+{
+  "object_id": 436208,
+  "excel_metadata": {
+    "Object Number": "26.83",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 436208,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1926.0,
+    "Object Name": "Painting",
+    "Title": "The Three Ages of Humans",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16184.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Dosso Dossi (Giovanni de Lutero)",
+    "Artist Display Bio": "Italian, Tramuschio ca. 1486–1541/42 Ferrara",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Dossi, Dosso (Giovanni de Lutero)",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1486",
+    "Artist End Date": "1542",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500114963",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q356777",
+    "Object Date": NaN,
+    "Object Begin Date": 1512,
+    "Object End Date": 1542,
+    "Medium": "Oil on canvas",
+    "Dimensions": "30 1/2 x 44 in. (77.5 x 111.8 cm)",
+    "Credit Line": "Maria DeWitt Jesup Fund, 1926",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436208",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19911681",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Boys|Couples|Men|Women|Sheep",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300247598|http://vocab.getty.edu/page/aat/300379217|http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/aat/300250284",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q3010|https://www.wikidata.org/wiki/Q219160|https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q7368"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP123842.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-26_83-2.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-26_83-3.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 161843,
+        "role": "Artist",
+        "name": "Dosso Dossi (Giovanni de Lutero)",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500114963",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q356777",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 77.5,
+          "Width": 111.8
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 8.89,
+          "Height": 140.9703,
+          "Width": 109.8552
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Boys",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300247598",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3010"
+      },
+      {
+        "term": "Couples",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379217",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q219160"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Sheep",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250284",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q7368"
+      }
+    ]
+  }
+}

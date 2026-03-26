@@ -1,0 +1,104 @@
+{
+  "object_id": 13211,
+  "excel_metadata": {
+    "Object Number": "13.2",
+    "Is Highlight": true,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 13211,
+    "Gallery Number": 771.0,
+    "Department": "The American Wing",
+    "AccessionYear": 1913.0,
+    "Object Name": "Painting",
+    "Title": "Arrangement in Flesh Colour and Black: Portrait of Theodore Duret",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16272.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "James McNeill Whistler",
+    "Artist Display Bio": "American, Lowell, Massachusetts 1834–1903 London",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Whistler, James McNeill",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1834",
+    "Artist End Date": "1903",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500012432",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q203643",
+    "Object Date": "1883",
+    "Object Begin Date": 1883,
+    "Object End Date": 1883,
+    "Medium": "Oil on canvas",
+    "Dimensions": "76 1/8 x 35 3/4 in. (193.4 x 90.8 cm)",
+    "Credit Line": "Catharine Lorillard Wolfe Collection, Wolfe Fund, 1913",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/13211",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20169868",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Portraits|Men",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300025928",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q8441"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DT92.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162723,
+        "role": "Artist",
+        "name": "James McNeill Whistler",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500012432",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q203643",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 193.4,
+          "Width": 90.8
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 8.26,
+          "Height": 220,
+          "Width": 119.1
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

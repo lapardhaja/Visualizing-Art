@@ -1,0 +1,99 @@
+{
+  "object_id": 313493,
+  "excel_metadata": {
+    "Object Number": "1979.206.1332",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 313493,
+    "Gallery Number": null,
+    "Department": "Arts of Africa, Oceania, and the Americas",
+    "AccessionYear": 1979,
+    "Object Name": "Nose ornament fragment",
+    "Title": "Nose Ornament Fragment",
+    "Culture": "Moche",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": null,
+    "Artist Role": null,
+    "Artist Prefix": null,
+    "Artist Display Name": null,
+    "Artist Display Bio": null,
+    "Artist Suffix": null,
+    "Artist Alpha Sort": null,
+    "Artist Nationality": null,
+    "Artist Begin Date": null,
+    "Artist End Date": null,
+    "Artist Gender": null,
+    "Artist ULAN URL": null,
+    "Artist Wikidata URL": null,
+    "Object Date": "6th–7th century",
+    "Object Begin Date": 500,
+    "Object End Date": 700,
+    "Medium": "Gold, silver",
+    "Dimensions": "(Primary fragment): H. 4 1/4 x W. 5 5/8 x D. 1/4 in. (10.8 x 14.3 x 0.6 cm)_x000D_\n(Secondary Fragment): H. 2 x W. 1 5/8 in. (5.1 x 4.1 cm)_x000D_\nOverall (Tertiary Fragment): H. 7/8 x W. 9/16 in. (2.2 x 1.4 cm)",
+    "Credit Line": "The Michael C. Rockefeller Memorial Collection, Bequest of Nelson A. Rockefeller, 1979",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": "Peru",
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Metal-Ornaments",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/313493",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": null,
+    "Tags AAT URL": null,
+    "Tags Wikidata URL": null
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ao/original/vs1979_206_1332.jpg",
+    "additionalImages": [],
+    "constituents": null,
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": "Primary fragment",
+        "elementMeasurements": {
+          "Depth": 0.63500124,
+          "Height": 10.795,
+          "Width": 14.287529
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": "Tertiary Fragment",
+        "elementMeasurements": {
+          "Height": 2.2225044,
+          "Width": 1.4287529
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": "Secondary Fragment",
+        "elementMeasurements": {
+          "Height": 5.08001,
+          "Width": 4.127508
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": "Weight of all fragments",
+        "elementMeasurements": {
+          "Weight": 0.0177
+        }
+      }
+    ],
+    "tags": null
+  }
+}

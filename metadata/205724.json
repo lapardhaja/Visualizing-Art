@@ -1,0 +1,106 @@
+{
+  "object_id": 205724,
+  "excel_metadata": {
+    "Object Number": "1974.353.2",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 205724,
+    "Gallery Number": 522,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1974,
+    "Object Name": "Vase with cover",
+    "Title": "Vase with cover (one of a pair)",
+    "Culture": "German, Meissen with French mounts",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 16483,
+    "Artist Role": "Manufactory",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Meissen Manufactory",
+    "Artist Display Bio": "German, 1710–present",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Meissen Manufactory",
+    "Artist Nationality": "German",
+    "Artist Begin Date": 1710,
+    "Artist End Date": 9999,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500054662",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q822407",
+    "Object Date": "porcelain ca. 1740–45, mounts 1745–49",
+    "Object Begin Date": 1735,
+    "Object End Date": 1750,
+    "Medium": "Hard-paste porcelain, gilt-bronze mounts",
+    "Dimensions": "Height: 13 5/8 in. (34.6 cm)",
+    "Credit Line": "Gift of Mr. and Mrs. Charles Wrightsman, 1974",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Ceramics-Porcelain",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/205724",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q116242574",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Women|Trees|Musicians",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/aat/300132410|http://vocab.getty.edu/page/aat/300025666",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q10884|https://www.wikidata.org/wiki/Q639669"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/SF1974_353_2_img2.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/SF1974_353_2_img1.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 164832,
+        "role": "Manufactory",
+        "name": "Meissen Manufactory",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500054662",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q822407",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Height",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 34.60757
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Trees",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132410",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q10884"
+      },
+      {
+        "term": "Musicians",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025666",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q639669"
+      }
+    ]
+  }
+}

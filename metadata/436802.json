@@ -1,0 +1,111 @@
+{
+  "object_id": 436802,
+  "excel_metadata": {
+    "Object Number": "58.132",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 436802,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1958.0,
+    "Object Name": "Painting",
+    "Title": "Saints Michael and Francis",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16525.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Juan de Flandes",
+    "Artist Display Bio": "Netherlandish, active by 1496–died 1519 Palencia",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Juan de Flandes",
+    "Artist Nationality": "Netherlandish",
+    "Artist Begin Date": "1496",
+    "Artist End Date": "1519",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500029962",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q512863",
+    "Object Date": "ca. 1505–9",
+    "Object Begin Date": 1505,
+    "Object End Date": 1509,
+    "Medium": "Oil on wood, gold ground",
+    "Dimensions": "Overall, with added strips at right and bottom, 36 7/8 x 34 1/4 in. (93.7 x 87 cm); painted surface 35 3/8 x 32 3/4 in. (89.9 x 83.2 cm)",
+    "Credit Line": "Purchase, Mary Wetmore Shively Bequest, in memory of her husband, Henry L. Shively, M.D., 1958",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436802",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q9396558",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Shields|Dragons|Saint Francis|Saint Michael",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300036869|http://vocab.getty.edu/page/aat/300375726|http://vocab.getty.edu/page/ulan/500349636| ",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q131559|https://www.wikidata.org/wiki/Q7559|https://www.wikidata.org/wiki/Q676555|https://www.wikidata.org/wiki/Q45581"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-18296-027.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-58_132-3.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/DP-18296-028.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-58_132-XRAY.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-58_132-7.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-58_132-IRR.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 165252,
+        "role": "Artist",
+        "name": "Juan de Flandes",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500029962",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q512863",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 93.7,
+          "Width": 87
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Shields",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300036869",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q131559"
+      },
+      {
+        "term": "Dragons",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300375726",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q7559"
+      },
+      {
+        "term": "Saint Francis",
+        "AAT_URL": "http://vocab.getty.edu/page/ulan/500349636",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q676555"
+      },
+      {
+        "term": "Saint Michael",
+        "AAT_URL": null,
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q45581"
+      }
+    ]
+  }
+}

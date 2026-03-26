@@ -1,0 +1,95 @@
+{
+  "object_id": 459056,
+  "excel_metadata": {
+    "Object Number": "1975.1.114",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 459056,
+    "Gallery Number": NaN,
+    "Department": "Robert Lehman Collection",
+    "AccessionYear": 1975.0,
+    "Object Name": "Painting",
+    "Title": "Virgin and Child with Saint Anne Presenting Anna van Nieuwenhove",
+    "Culture": "Netherlandish",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16529.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Master of the Saint Ursula Legend",
+    "Artist Display Bio": "Netherlandish, active late 15th century",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Master of the Saint Ursula Legend",
+    "Artist Nationality": "Netherlandish",
+    "Artist Begin Date": "1400",
+    "Artist End Date": "1499",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500022289",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q1918313",
+    "Object Date": "1479–82",
+    "Object Begin Date": 1479,
+    "Object End Date": 1482,
+    "Medium": "Oil on panel",
+    "Dimensions": "Overall, with engaged frame 23 5/8 x 17 3/4 in. (59.9 x 45 cm); painted surface 19 5/8 x 13 1/2 in. (49.8 x 34.3 cm)",
+    "Credit Line": "Robert Lehman Collection, 1975",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/459056",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20187003",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Madonna and Child|Saint Anne",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901000052|http://vocab.getty.edu/page/ia/901001010",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q9309699|https://www.wikidata.org/wiki/Q164294"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/rl/original/DT3078.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 165291,
+        "role": "Artist",
+        "name": "Master of the Saint Ursula Legend",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500022289",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1918313",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 60,
+          "Width": 45.1
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Madonna and Child",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000052",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q9309699"
+      },
+      {
+        "term": "Saint Anne",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901001010",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q164294"
+      }
+    ]
+  }
+}

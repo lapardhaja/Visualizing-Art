@@ -1,0 +1,120 @@
+{
+  "object_id": 200387,
+  "excel_metadata": {
+    "Object Number": "48.187.428",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 200387,
+    "Gallery Number": NaN,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1948.0,
+    "Object Name": "Snuffbox, painting",
+    "Title": "Snuffbox with six maritime scenes",
+    "Culture": "French, Paris",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 3362916263412709.0,
+    "Artist Role": "Maker|Artist|Artist",
+    "Artist Prefix": " |After a painting by|Minaiture by",
+    "Artist Display Name": "Dominique-François Poitreau|Joseph Vernet|French Painter",
+    "Artist Display Bio": "apprenticed 1741, master 1757, retired 1781|French, Avignon 1714–1789 Paris| ",
+    "Artist Suffix": " | |, ca. 1770–71",
+    "Artist Alpha Sort": "Poitreau Dominique-François|Vernet, Joseph|French Painter",
+    "Artist Nationality": " |French|French",
+    "Artist Begin Date": "1711      |1714      |          ",
+    "Artist End Date": "1811      |1789      |          ",
+    "Artist Gender": "||",
+    "Artist ULAN URL": "|http://vocab.getty.edu/page/ulan/500029638|",
+    "Artist Wikidata URL": "|https://www.wikidata.org/wiki/Q315819|",
+    "Object Date": "1770–71",
+    "Object Begin Date": 1770,
+    "Object End Date": 1771,
+    "Medium": "Gold, paper",
+    "Dimensions": "1-1/4 x 3-1/16 x 1-7/8 in.  (3.2 x 7.8 x 4.8 cm);\r\nMiniatures: Top, chamfered corners, 1 1/2 x 2 5/8 in. (37 x 68 mm); bottom, chamfered corners, 1 1/2 x 2 5/8 in. (37 x 68 mm); front 2 1/8 x 3/4 in. (53 x 19 mm); back 2 1/8 x 3/4 in. (53 x 19 mm); left side 7/8 x 3/4 in. (22 x 19 mm); right side 7/8 x 3/4 in. (22 x 19 mm)",
+    "Credit Line": "Bequest of Catherine D. Wentworth, 1948",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Metalwork-Gold and Platinum|Miniatures",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/200387",
+    "Object Wikidata URL": NaN,
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Human Figures|Boats",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300404114|http://vocab.getty.edu/page/aat/300178749",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q5937779|https://www.wikidata.org/wiki/Q35872"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP328656.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/DP328657.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP328660.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP328659.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP328661.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP328662.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP328658.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/146695.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 33629,
+        "role": "Maker",
+        "name": "Dominique-François Poitreau",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      },
+      {
+        "constituentID": 127098,
+        "role": "Artist",
+        "name": "Minaiture by French Painter",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      },
+      {
+        "constituentID": 162634,
+        "role": "Artist",
+        "name": "After a painting by Joseph Vernet",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500029638",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q315819",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 4.8,
+          "Height": 3.2,
+          "Width": 7.8
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Human Figures",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300404114",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q5937779"
+      },
+      {
+        "term": "Boats",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300178749",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q35872"
+      }
+    ]
+  }
+}

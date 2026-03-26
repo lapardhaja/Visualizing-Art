@@ -1,0 +1,95 @@
+{
+  "object_id": 436860,
+  "excel_metadata": {
+    "Object Number": "25.106.35",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436860,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1925.0,
+    "Object Name": "Painting, miniature",
+    "Title": "Portrait of a Man",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10863.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "J. Lecourt",
+    "Artist Display Bio": "French, active ca. 1804–30",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Lecourt, J.",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1804",
+    "Artist End Date": "1830",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500359265",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q22094540",
+    "Object Date": "ca. 1810",
+    "Object Begin Date": 1805,
+    "Object End Date": 1815,
+    "Medium": "Ivory",
+    "Dimensions": "Diameter 2 in. (50 mm)",
+    "Credit Line": "Gift of Mrs. Louis V. Bell, in memory of her husband, 1925",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Miniatures",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436860",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19913818",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/258496.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 108633,
+        "role": "Artist",
+        "name": "J. Lecourt",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500359265",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q22094540",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 5.1,
+          "Width": 5.1
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

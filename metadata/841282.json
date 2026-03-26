@@ -1,0 +1,108 @@
+{
+  "object_id": 841282,
+  "excel_metadata": {
+    "Object Number": "2020.86.18",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 841282,
+    "Gallery Number": 530,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 2020,
+    "Object Name": "Platter",
+    "Title": "Large Platter with Fish",
+    "Culture": "French",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 21180121180,
+    "Artist Role": "Maker|Maker",
+    "Artist Prefix": "Probably made by|Possibly made by",
+    "Artist Display Name": "Victor Barbizet|Achille Barbizet",
+    "Artist Display Bio": "French, Burgundy, France 1805–1870 Paris|French, Paris? 1825–1890 Paris",
+    "Artist Suffix": " | ",
+    "Artist Alpha Sort": "Barbizet, Victor|Barbizet, Achille",
+    "Artist Nationality": "French|French",
+    "Artist Begin Date": "1805      |1825      ",
+    "Artist End Date": "1870      |1890      ",
+    "Artist Gender": "|",
+    "Artist ULAN URL": "|",
+    "Artist Wikidata URL": "|",
+    "Object Date": "ca. 1855–1875",
+    "Object Begin Date": 1850,
+    "Object End Date": 1875,
+    "Medium": "Glazed earthenware",
+    "Dimensions": "confirmed: 5 3/4 × 44 × 30 3/4 in., 60.2 lb. (14.6 × 111.8 × 78.1 cm, 27.3 kg)",
+    "Credit Line": "Gift of Wallis Katz, in memory of Marshall Katz, and in celebration of the Museum's 150th anniversary, 2020",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Ceramics-Pottery",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/841282",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q116445495",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Snakes|Fish",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300250870|http://vocab.getty.edu/page/aat/300266085",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q2102|https://www.wikidata.org/wiki/Q152"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP-19544-049.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/DP-19544-051.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP-19544-050.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 211801,
+        "role": "Maker",
+        "name": "Probably made by Victor Barbizet",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      },
+      {
+        "constituentID": 211802,
+        "role": "Maker",
+        "name": "Possibly made by Achille Barbizet",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": "confirmed",
+        "elementMeasurements": {
+          "Depth": 78.105156,
+          "Height": 14.605029,
+          "Weight": 27.306541,
+          "Width": 111.76022
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Fish",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300266085",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q152"
+      },
+      {
+        "term": "Snakes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250870",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q2102"
+      }
+    ]
+  }
+}

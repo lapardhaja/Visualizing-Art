@@ -1,0 +1,84 @@
+{
+  "object_id": 435793,
+  "excel_metadata": {
+    "Object Number": "15.30.50",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 435793,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1915.0,
+    "Object Name": "Painting",
+    "Title": "Tottenham Church",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 12668.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "British Painter",
+    "Artist Display Bio": "ca. 1830",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "British Painter",
+    "Artist Nationality": "British",
+    "Artist Begin Date": "          ",
+    "Artist End Date": "          ",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": NaN,
+    "Artist Wikidata URL": NaN,
+    "Object Date": NaN,
+    "Object Begin Date": 1825,
+    "Object End Date": 1835,
+    "Medium": "Oil on canvas",
+    "Dimensions": "20 1/2 x 18 1/8 in. (52.1 x 46 cm)",
+    "Credit Line": "Bequest of Maria DeWitt Jesup, from the collection of her husband, Morris K. Jesup, 1914",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/435793",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912071",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": NaN,
+    "Tags AAT URL": NaN,
+    "Tags Wikidata URL": NaN
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP167130.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 126682,
+        "role": "Artist",
+        "name": "British Painter",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 52.1,
+          "Width": 46
+        }
+      }
+    ],
+    "tags": null
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "object_id": 13040,
+  "excel_metadata": {
+    "Object Number": "37.54.2",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 13040,
+    "Gallery Number": NaN,
+    "Department": "The American Wing",
+    "AccessionYear": 1937.0,
+    "Object Name": "Painting, miniature",
+    "Title": "Mrs. Nathaniel Bowen (Margaret Blake)",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 298.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Jean Francois de la Vallee",
+    "Artist Display Bio": "active 1785–1815",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Vallee, Jean Francois de la",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1750",
+    "Artist End Date": "1850",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500004488",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q21598778",
+    "Object Date": "ca. 1805",
+    "Object Begin Date": 1802,
+    "Object End Date": 1805,
+    "Medium": "Watercolor on ivory",
+    "Dimensions": "2 17/32 x 2 1/16 in. (6.4 x 5.2 cm)",
+    "Credit Line": "Fletcher Fund, 1937",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/13040",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20171727",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Portraits|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DP168951.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ad/original/DP168950.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 2981,
+        "role": "Artist",
+        "name": "Jean Francois de la Vallee",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500004488",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q21598778",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 6.4,
+          "Width": 5.2
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

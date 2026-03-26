@@ -1,0 +1,135 @@
+{
+  "object_id": 435900,
+  "excel_metadata": {
+    "Object Number": "1991.7",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 435900,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1991.0,
+    "Object Name": "Painting",
+    "Title": "The Adoration of the Shepherds with Saint Catherine of Alexandria",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16331.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Cigoli (Ludovico Cardi)",
+    "Artist Display Bio": "Italian, Castello di Cigoli 1559–1613 Rome",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Cigoli (Ludovico Cardi)",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1559",
+    "Artist End Date": "1613",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500115264",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q928350",
+    "Object Date": "1599",
+    "Object Begin Date": 1599,
+    "Object End Date": 1599,
+    "Medium": "Oil on canvas",
+    "Dimensions": "121 3/8 x 76 1/4 in. (308.3 x 193.7 cm)",
+    "Credit Line": "Gwynne Andrews Fund, 1991",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/435900",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19911847",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Saint Catherine|Jesus|Sheep|Angels|Virgin Mary|Joseph|Adoration of the Shepherds",
+    "Tags AAT URL": " |http://vocab.getty.edu/page/ia/901000087|http://vocab.getty.edu/page/aat/300250284|http://vocab.getty.edu/page/aat/300379004|http://vocab.getty.edu/page/ia/901000032|http://vocab.getty.edu/page/ia/901000953|http://vocab.getty.edu/page/ia/901000229",
+    "Tags Wikidata URL": " |https://www.wikidata.org/wiki/Q302|https://www.wikidata.org/wiki/Q7368|https://www.wikidata.org/wiki/Q235113|https://www.wikidata.org/wiki/Q345|https://www.wikidata.org/wiki/Q128267|https://www.wikidata.org/wiki/Q1029715"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT6545.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 163311,
+        "role": "Artist",
+        "name": "Cigoli (Ludovico Cardi)",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115264",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q928350",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 308.3,
+          "Width": 193.7
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 336.2,
+          "Width": 221.61545
+        }
+      },
+      {
+        "elementName": "Other",
+        "elementDescription": "Picture + Frame ",
+        "elementMeasurements": {
+          "Weight": 50.802868
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Sheep",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250284",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q7368"
+      },
+      {
+        "term": "Angels",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379004",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q235113"
+      },
+      {
+        "term": "Saint Catherine",
+        "AAT_URL": null,
+        "Wikidata_URL": null
+      },
+      {
+        "term": "Virgin Mary",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000032",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q345"
+      },
+      {
+        "term": "Jesus",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q302"
+      },
+      {
+        "term": "Adoration of the Shepherds",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000229",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q1029715"
+      },
+      {
+        "term": "Joseph",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000953",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q128267"
+      }
+    ]
+  }
+}

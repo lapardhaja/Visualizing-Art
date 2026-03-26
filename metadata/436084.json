@@ -1,0 +1,95 @@
+{
+  "object_id": 436084,
+  "excel_metadata": {
+    "Object Number": "03.29",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436084,
+    "Gallery Number": 812.0,
+    "Department": "European Paintings",
+    "AccessionYear": 1903.0,
+    "Object Name": "Painting",
+    "Title": "Boats on the Seacoast at Étaples",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16180.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Charles-François Daubigny",
+    "Artist Display Bio": "French, Paris 1817–1878 Paris",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Daubigny, Charles-François",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1817",
+    "Artist End Date": "1878",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500115164",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q252357",
+    "Object Date": "1871",
+    "Object Begin Date": 1871,
+    "Object End Date": 1871,
+    "Medium": "Oil on wood",
+    "Dimensions": "13 1/2 x 22 7/8 in. (34.3 x 58.1 cm)",
+    "Credit Line": "Catharine Lorillard Wolfe Collection, Wolfe Fund, 1903",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436084",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912321",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Seascapes|Boats",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300117546|http://vocab.getty.edu/page/aat/300178749",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q158607|https://www.wikidata.org/wiki/Q35872"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT1981.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 161806,
+        "role": "Artist",
+        "name": "Charles-François Daubigny",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115164",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q252357",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 34.3,
+          "Width": 58.1
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Seascapes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300117546",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q158607"
+      },
+      {
+        "term": "Boats",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300178749",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q35872"
+      }
+    ]
+  }
+}

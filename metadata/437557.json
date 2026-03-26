@@ -1,0 +1,97 @@
+{
+  "object_id": 437557,
+  "excel_metadata": {
+    "Object Number": "1972.145.23",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437557,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1972.0,
+    "Object Name": "Painting, icon",
+    "Title": "Panel from a Saints' Calendar (painted on both sides)",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10726.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Russian Painter",
+    "Artist Display Bio": "possibly 16th century",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Russian Painter",
+    "Artist Nationality": "Russian",
+    "Artist Begin Date": "          ",
+    "Artist End Date": "          ",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": NaN,
+    "Artist Wikidata URL": NaN,
+    "Object Date": NaN,
+    "Object Begin Date": 1500,
+    "Object End Date": 1599,
+    "Medium": "Tempera on linen",
+    "Dimensions": "7 1/8 x 6 1/8 in. (18.1 x 15.6 cm)",
+    "Credit Line": "Gift of Humanities Fund Inc., 1972",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437557",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912781",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Saints|Men",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300150555|http://vocab.getty.edu/page/aat/300025928",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q43115|https://www.wikidata.org/wiki/Q8441"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/ep1972.145.23.r.bw.R.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/ep1972.145.23.v.bw.R.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 107260,
+        "role": "Artist",
+        "name": "Russian Painter",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 18.1,
+          "Width": 15.6
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Saints",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300150555",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q43115"
+      }
+    ]
+  }
+}

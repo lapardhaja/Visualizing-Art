@@ -1,0 +1,101 @@
+{
+  "object_id": 11543,
+  "excel_metadata": {
+    "Object Number": "13.39.2",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 11543,
+    "Gallery Number": 774.0,
+    "Department": "The American Wing",
+    "AccessionYear": 1913.0,
+    "Object Name": "Painting",
+    "Title": "Saturday Afternoon",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16431.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Jervis McEntee",
+    "Artist Display Bio": "American, Rondout, New York 1828–1891 Rondout, New York",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "McEntee, Jervis",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1828",
+    "Artist End Date": "1891",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500024287",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q2580100",
+    "Object Date": "1875",
+    "Object Begin Date": 1875,
+    "Object End Date": 1875,
+    "Medium": "Oil on canvas",
+    "Dimensions": "24 x 45 in. (61 x 114.3 cm)",
+    "Credit Line": "Amelia B. Lazarus Fund, 1913",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/11543",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20172445",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Landscapes",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300132294",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q191163"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DT348605.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ad/original/ap13.39.2.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 164311,
+        "role": "Artist",
+        "name": "Jervis McEntee",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500024287",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q2580100",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 61,
+          "Width": 114.3
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 16,
+          "Height": 95,
+          "Width": 141
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Landscapes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+      }
+    ]
+  }
+}

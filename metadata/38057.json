@@ -1,0 +1,98 @@
+{
+  "object_id": 38057,
+  "excel_metadata": {
+    "Object Number": "1996.384",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 38057,
+    "Gallery Number": NaN,
+    "Department": "Asian Art",
+    "AccessionYear": 1996.0,
+    "Object Name": "Painting",
+    "Title": NaN,
+    "Culture": "India (Punjab Hills, Kangra?)",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": NaN,
+    "Artist Role": NaN,
+    "Artist Prefix": NaN,
+    "Artist Display Name": NaN,
+    "Artist Display Bio": NaN,
+    "Artist Suffix": NaN,
+    "Artist Alpha Sort": NaN,
+    "Artist Nationality": NaN,
+    "Artist Begin Date": NaN,
+    "Artist End Date": NaN,
+    "Artist Gender": NaN,
+    "Artist ULAN URL": NaN,
+    "Artist Wikidata URL": NaN,
+    "Object Date": "ca. 1800",
+    "Object Begin Date": 1790,
+    "Object End Date": 1810,
+    "Medium": "Ink heightened with color on paper",
+    "Dimensions": "Overall: 8 1/8 x 5 1/2 in. (20.6 x 14 cm)",
+    "Credit Line": "Gift of Subhash Kapoor, 1996",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/38057",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q78873874",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Swords|Boys|Goddess|Heads",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300037048|http://vocab.getty.edu/page/aat/300247598|http://vocab.getty.edu/page/aat/300343852|http://vocab.getty.edu/page/aat/300375054",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q12791|https://www.wikidata.org/wiki/Q3010|https://www.wikidata.org/wiki/Q205985|https://www.wikidata.org/wiki/Q3409626"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/as/original/DP152314.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/as/original/LC-1996_384_002.jpg"
+    ],
+    "constituents": null,
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 20.6375,
+          "Width": 13.97
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Swords",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300037048",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q12791"
+      },
+      {
+        "term": "Heads",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300375054",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3409626"
+      },
+      {
+        "term": "Boys",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300247598",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3010"
+      },
+      {
+        "term": "Goddess",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300343852",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q205985"
+      }
+    ]
+  }
+}

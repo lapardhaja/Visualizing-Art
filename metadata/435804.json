@@ -1,0 +1,97 @@
+{
+  "object_id": 435804,
+  "excel_metadata": {
+    "Object Number": "1982.60.38",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 435804,
+    "Gallery Number": 537.0,
+    "Department": "European Paintings",
+    "AccessionYear": 1982.0,
+    "Object Name": "Painting",
+    "Title": "Katharina Merian",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16313.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": "Attributed to",
+    "Artist Display Name": "Hans Brosamer",
+    "Artist Display Bio": "German, active by 1536, probably died 1552",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Brosamer, Hans",
+    "Artist Nationality": "German",
+    "Artist Begin Date": "1536",
+    "Artist End Date": "1552",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500009611",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q532091",
+    "Object Date": NaN,
+    "Object Begin Date": 1536,
+    "Object End Date": 1552,
+    "Medium": "Oil, gold, and white metal on linden",
+    "Dimensions": "Overall 18 1/4 x 13 1/8 in. (46.4 x 33.3 cm); painted surface 17 5/8 x 13 1/8 in. (44.8 x 33.3 cm)",
+    "Credit Line": "The Jack and Belle Linsky Collection, 1982",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/435804",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19905036",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Portraits|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP164865.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/GermanCat5_Xraynocap.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 163131,
+        "role": "Artist",
+        "name": "Attributed to Hans Brosamer",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500009611",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q532091",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 46.4,
+          "Width": 33.3
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

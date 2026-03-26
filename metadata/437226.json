@@ -1,0 +1,95 @@
+{
+  "object_id": 437226,
+  "excel_metadata": {
+    "Object Number": "62.122.42",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437226,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1962.0,
+    "Object Name": "Painting, miniature",
+    "Title": "Portrait of a Woman",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16620.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "James Nixon",
+    "Artist Display Bio": "British, ca. 1741–1812",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Nixon, James",
+    "Artist Nationality": "British",
+    "Artist Begin Date": "1736",
+    "Artist End Date": "1812",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500017124",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q16858107",
+    "Object Date": "ca. 1790",
+    "Object Begin Date": 1785,
+    "Object End Date": 1795,
+    "Medium": "Ivory",
+    "Dimensions": "Oval, 2 1/4 x 1 7/8 in. (56 x 47 mm)",
+    "Credit Line": "Bequest of Millie Bruhl Fredrick, 1962",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Miniatures",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437226",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19913856",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Portraits|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/175492.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 166203,
+        "role": "Artist",
+        "name": "James Nixon",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500017124",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q16858107",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 5.7,
+          "Width": 4.8
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

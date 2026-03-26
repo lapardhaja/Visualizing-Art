@@ -1,0 +1,104 @@
+{
+  "object_id": 439327,
+  "excel_metadata": {
+    "Object Number": "2009.415",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 439327,
+    "Gallery Number": 19.0,
+    "Department": "European Paintings",
+    "AccessionYear": 2009.0,
+    "Object Name": "Painting",
+    "Title": "Christ Blessing",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16181.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Gerard David",
+    "Artist Display Bio": "Netherlandish, Oudewater ca. 1455–1523 Bruges",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "David, Gerard",
+    "Artist Nationality": "Netherlandish",
+    "Artist Begin Date": "1455",
+    "Artist End Date": "1523",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500025998",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q333380",
+    "Object Date": "ca. 1500–1505",
+    "Object Begin Date": 1500,
+    "Object End Date": 1505,
+    "Medium": "Oil on wood",
+    "Dimensions": "Overall, including engaged frame, 4 3/4 x 3 1/2 in. (12.1 x 8.9 cm); painted surface 3 5/8 x 2 3/8 in. (9.2 x 6 cm)",
+    "Credit Line": "Purchase, The Cloisters Collection, Hester Diamond and Kowitz Family Foundation Gifts, Dodge Fund, and Malcolm Hewitt Wiener Foundation Gift, 2009",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/439327",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19911527",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Christ",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901000087",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q642420"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP218061.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-2009_215-IRR.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-2009_215-XRAY.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/DP210244.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-2009_415-2.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-2009_415-3.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 161810,
+        "role": "Artist",
+        "name": "Gerard David",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500025998",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q333380",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 9.2075,
+          "Width": 6
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 12.065,
+          "Width": 8.89
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Christ",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+      }
+    ]
+  }
+}

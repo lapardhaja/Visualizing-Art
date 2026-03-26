@@ -1,0 +1,104 @@
+{
+  "object_id": 437520,
+  "excel_metadata": {
+    "Object Number": "25.110.4",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 437520,
+    "Gallery Number": 802.0,
+    "Department": "European Paintings",
+    "AccessionYear": 1925.0,
+    "Object Name": "Painting",
+    "Title": "Sunset near Arbonne",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16234.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Théodore Rousseau",
+    "Artist Display Bio": "French, Paris 1812–1867 Barbizon",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Rousseau, Théodore",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1812",
+    "Artist End Date": "1867",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500019946",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q310025",
+    "Object Date": "ca. 1860–65",
+    "Object Begin Date": 1860,
+    "Object End Date": 1865,
+    "Medium": "Oil on wood",
+    "Dimensions": "25 1/4 x 39 in. (64.1 x 99.1 cm)",
+    "Credit Line": "Bequest of Collis P. Huntington, 1900",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437520",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19906262",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Landscapes|Evening",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300132294|http://vocab.getty.edu/page/aat/300343633",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q191163|https://www.wikidata.org/wiki/Q7725"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT229696.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162349,
+        "role": "Artist",
+        "name": "Théodore Rousseau",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500019946",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q310025",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 15.24003,
+          "Height": 99.060196,
+          "Width": 137.16028
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 64.1,
+          "Width": 99.1
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Landscapes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+      },
+      {
+        "term": "Evening",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300343633",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q7725"
+      }
+    ]
+  }
+}

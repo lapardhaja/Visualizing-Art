@@ -1,0 +1,105 @@
+{
+  "object_id": 205815,
+  "excel_metadata": {
+    "Object Number": "1974.356.234",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 205815,
+    "Gallery Number": 533,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1974,
+    "Object Name": "Statuette group",
+    "Title": "Dead stag and a hound",
+    "Culture": "German, Franconia",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 3370,
+    "Artist Role": "Artist",
+    "Artist Prefix": "Attributed to",
+    "Artist Display Name": "Ferdinand Tietz",
+    "Artist Display Bio": "Austrian, 1708–1777",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Tietz, Ferdinand",
+    "Artist Nationality": "Austrian",
+    "Artist Begin Date": 1708,
+    "Artist End Date": 1777,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500011574",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q349313",
+    "Object Date": "mid-18th century",
+    "Object Begin Date": 1730,
+    "Object End Date": 1765,
+    "Medium": "Polychromed and gilded wood",
+    "Dimensions": "19 x 10 1/2 in. (48.3 x 26.7cm)",
+    "Credit Line": "The Lesley and Emma Sheafer Collection, Bequest of Emma A. Sheafer, 1973",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Sculpture",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/205815",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q116373977",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Deer|Dogs|Flowers|Trees",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300250308|http://vocab.getty.edu/page/aat/300265714|http://vocab.getty.edu/page/aat/300132399|http://vocab.getty.edu/page/aat/300132410",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q685795|https://www.wikidata.org/wiki/Q144|https://www.wikidata.org/wiki/Q506|https://www.wikidata.org/wiki/Q10884"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/ES5321.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 33706,
+        "role": "Artist",
+        "name": "Attributed to Ferdinand Tietz",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500011574",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q349313",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 48.3,
+          "Width": 26.7
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Deer",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250308",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q685795"
+      },
+      {
+        "term": "Dogs",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300265714",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q144"
+      },
+      {
+        "term": "Flowers",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132399",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q506"
+      },
+      {
+        "term": "Trees",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132410",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q10884"
+      }
+    ]
+  }
+}

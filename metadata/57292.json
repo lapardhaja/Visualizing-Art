@@ -1,0 +1,95 @@
+{
+  "object_id": 57292,
+  "excel_metadata": {
+    "Object Number": "56.121.42",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 57292,
+    "Gallery Number": NaN,
+    "Department": "Asian Art",
+    "AccessionYear": 1956.0,
+    "Object Name": "Painting",
+    "Title": NaN,
+    "Culture": "Japan",
+    "Period": "Edo period (1615–1868)",
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16456.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": "School of",
+    "Artist Display Name": "Katsushika Hokusai",
+    "Artist Display Bio": "Japanese, Tokyo (Edo) 1760–1849 Tokyo (Edo)",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Katsushika Hokusai",
+    "Artist Nationality": "Japanese",
+    "Artist Begin Date": "1760",
+    "Artist End Date": "1849",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500060426",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q5586",
+    "Object Date": "18th–19th century",
+    "Object Begin Date": 1700,
+    "Object End Date": 1899,
+    "Medium": "Ink and color on paper",
+    "Dimensions": "Mount: 8 5/16 x 9 7/8 in. (21.1 x 25.1 cm)",
+    "Credit Line": "Gift of Annette Young, in memory of her brother, Innis Young, 1956",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/57292",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q78724822",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Birds|Masks",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300266506|http://vocab.getty.edu/page/aat/300262834",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q5113|https://www.wikidata.org/wiki/Q161524"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/as/original/DP-25007-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 164560,
+        "role": "Artist",
+        "name": "School of Katsushika Hokusai",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500060426",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5586",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 21.1,
+          "Width": 25.1
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Birds",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300266506",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q5113"
+      },
+      {
+        "term": "Masks",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300262834",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q161524"
+      }
+    ]
+  }
+}

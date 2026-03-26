@@ -1,0 +1,100 @@
+{
+  "object_id": 245107,
+  "excel_metadata": {
+    "Object Number": "81.6.236",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 245107,
+    "Gallery Number": null,
+    "Department": "Greek and Roman Art",
+    "AccessionYear": 1881,
+    "Object Name": "Intaglio",
+    "Title": "Intaglio",
+    "Culture": "Post-Classical",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": null,
+    "Artist Role": null,
+    "Artist Prefix": null,
+    "Artist Display Name": null,
+    "Artist Display Bio": null,
+    "Artist Suffix": null,
+    "Artist Alpha Sort": null,
+    "Artist Nationality": null,
+    "Artist Begin Date": null,
+    "Artist End Date": null,
+    "Artist Gender": null,
+    "Artist ULAN URL": null,
+    "Artist Wikidata URL": null,
+    "Object Date": null,
+    "Object Begin Date": -7000,
+    "Object End Date": 330,
+    "Medium": "Lapis lazuli",
+    "Dimensions": "Other: 15/16 x 3/16 in. (2.3 x 0.4 cm)",
+    "Credit Line": "Gift of John Taylor Johnston, 1881",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Gems",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/245107",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Alexander The Great|Profiles|Aphrodite|Apollo",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ulan/500280655|http://vocab.getty.edu/page/aat/300123319|http://vocab.getty.edu/page/ia/901000612|http://vocab.getty.edu/page/ia/901000109",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8409|https://www.wikidata.org/wiki/Q4382010|https://www.wikidata.org/wiki/Q35500|https://www.wikidata.org/wiki/Q37340"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/gr/original/DP262311.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/gr/original/DP262312.jpg",
+      "https://images.metmuseum.org/CRDImages/gr/original/DP261443.jpg",
+      "https://images.metmuseum.org/CRDImages/gr/original/DP261463.jpg"
+    ],
+    "constituents": null,
+    "measurements": [
+      {
+        "elementName": "Other",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Diameter": 2.33,
+          "Thickness": 0.4
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Alexander The Great",
+        "AAT_URL": "http://vocab.getty.edu/page/ulan/500280655",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8409"
+      },
+      {
+        "term": "Profiles",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300123319",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q4382010"
+      },
+      {
+        "term": "Aphrodite",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000612",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q35500"
+      },
+      {
+        "term": "Apollo",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000109",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q37340"
+      }
+    ]
+  }
+}

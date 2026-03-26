@@ -1,0 +1,100 @@
+{
+  "object_id": 438624,
+  "excel_metadata": {
+    "Object Number": "2003.42.4",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 438624,
+    "Gallery Number": 805.0,
+    "Department": "European Paintings",
+    "AccessionYear": 2003.0,
+    "Object Name": "Painting",
+    "Title": "Lake Fucino and the Abruzzi Mountains",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 12001.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Joseph Bidauld",
+    "Artist Display Bio": "French, Carpentras 1758–1846 Montmorency",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Bidauld, Joseph",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1758",
+    "Artist End Date": "1846",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500024891",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q3166488",
+    "Object Date": "ca. 1789",
+    "Object Begin Date": 1785,
+    "Object End Date": 1790,
+    "Medium": "Oil on paper, laid down on canvas",
+    "Dimensions": "10 x 19 in. (25.4 x 48.3 cm)",
+    "Credit Line": "The Whitney Collection, Gift of Wheelock Whitney III, and Purchase, Gift of Mr. and Mrs. Charles S. McVeigh, by exchange, 2003\r\n",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/438624",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19911718",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Lakes|Mountains|Landscapes",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300008680|http://vocab.getty.edu/page/aat/300008795|http://vocab.getty.edu/page/aat/300132294",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q23397|https://www.wikidata.org/wiki/Q8502|https://www.wikidata.org/wiki/Q191163"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP168286.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 120012,
+        "role": "Artist",
+        "name": "Joseph Bidauld",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500024891",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3166488",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 25.4,
+          "Width": 48.3
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Lakes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300008680",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q23397"
+      },
+      {
+        "term": "Mountains",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300008795",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8502"
+      },
+      {
+        "term": "Landscapes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+      }
+    ]
+  }
+}

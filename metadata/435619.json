@@ -1,0 +1,95 @@
+{
+  "object_id": 435619,
+  "excel_metadata": {
+    "Object Number": "58.87.1",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 435619,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1958.0,
+    "Object Name": "Painting, predella panel",
+    "Title": "The Betrayal of Christ",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10734.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Bartolomeo di Tommaso",
+    "Artist Display Bio": "Italian, Umbrian, active by 1425–died 1453/54",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Bartolomeo di Tommaso",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1425",
+    "Artist End Date": "1454",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500010103",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q2886111",
+    "Object Date": "ca. 1445–50",
+    "Object Begin Date": 1440,
+    "Object End Date": 1450,
+    "Medium": "Tempera on wood",
+    "Dimensions": "Overall 8 3/4 x 17 in. (22.2 x 43.2 cm); irregular painted surface 7 3/4 x 16 1/8 in. (19.7 x 41 cm)",
+    "Credit Line": "Gwynne Andrews Fund, 1958",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/435619",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912855",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Apostles|Christ",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300343837|http://vocab.getty.edu/page/ia/901000087",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q43412|https://www.wikidata.org/wiki/Q642420"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT200598.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 107348,
+        "role": "Artist",
+        "name": "Bartolomeo di Tommaso",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500010103",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q2886111",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 22.2,
+          "Width": 43.2
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Apostles",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300343837",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q43412"
+      },
+      {
+        "term": "Christ",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+      }
+    ]
+  }
+}

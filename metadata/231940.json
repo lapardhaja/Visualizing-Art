@@ -1,0 +1,129 @@
+{
+  "object_id": 231940,
+  "excel_metadata": {
+    "Object Number": "1978.404.18a–c",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 231940,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1978,
+    "Object Name": "Armchair",
+    "Title": "Armchair",
+    "Culture": "French, Beauvais",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 16376399999999999475712,
+    "Artist Role": "Maker|Manufactory|Artist|Patron",
+    "Artist Prefix": "Workshop of|Tapestry upholstery by|After a composition by|Commissioned for",
+    "Artist Display Name": "de Menou|Beauvais|Jean Jacques François Le Barbier|Louis XVI, King of France",
+    "Artist Display Bio": "French, active 1780–93| |French, Rouen 1738–1826 Paris|French, Versailles 1754–1793 Paris",
+    "Artist Suffix": " | | | ",
+    "Artist Alpha Sort": "Menou de|Beauvais|Le Barbier, Jean Jacques François|Louis XVI, King of France",
+    "Artist Nationality": "French| |French|French",
+    "Artist Begin Date": "1780      |          |1738      |1754      ",
+    "Artist End Date": "1793      |          |1826      |1793      ",
+    "Artist Gender": "|||",
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500524323|http://vocab.getty.edu/page/ulan/500110803|http://vocab.getty.edu/page/ulan/500009373|http://vocab.getty.edu/page/ulan/500122357",
+    "Artist Wikidata URL": "|https://www.wikidata.org/wiki/Q2566130|https://www.wikidata.org/wiki/Q3166330|https://www.wikidata.org/wiki/Q7732",
+    "Object Date": "designed ca. 1786, woven 1790–91; chair frame second half 19th century",
+    "Object Begin Date": 1786,
+    "Object End Date": 1791,
+    "Medium": "Carved and gilded wood; wool, silk",
+    "Dimensions": "Overall: 37 3/4 × 27 × 24 in. (95.9 × 68.6 × 61 cm)",
+    "Credit Line": "Purchase, Mr. and Mrs. Claus von Bülow Gift, 1978",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Woodwork-Furniture|Textiles-Tapestries",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/231940",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Women|Dogs|Sheep",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/aat/300265714|http://vocab.getty.edu/page/aat/300250284",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q144|https://www.wikidata.org/wiki/Q7368"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP287577.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/DP287581.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP295751.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/215637.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 162822,
+        "role": "Manufactory",
+        "name": "Tapestry upholstery by Beauvais",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500110803",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q2566130",
+        "gender": ""
+      },
+      {
+        "constituentID": 163764,
+        "role": "Maker",
+        "name": "Workshop of de Menou",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500524323",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      },
+      {
+        "constituentID": 162826,
+        "role": "Artist",
+        "name": "After a composition by Jean Jacques François Le Barbier",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500009373",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3166330",
+        "gender": ""
+      },
+      {
+        "constituentID": 164099,
+        "role": "Patron",
+        "name": "Commissioned for Louis XVI, King of France",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500122357",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q7732",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 60.96012,
+          "Height": 95.88519,
+          "Width": 68.58014
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Dogs",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300265714",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q144"
+      },
+      {
+        "term": "Sheep",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250284",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q7368"
+      }
+    ]
+  }
+}

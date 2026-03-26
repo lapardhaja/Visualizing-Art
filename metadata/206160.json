@@ -1,0 +1,95 @@
+{
+  "object_id": 206160,
+  "excel_metadata": {
+    "Object Number": "1974.356.656",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 206160,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1974,
+    "Object Name": "Snuffbox",
+    "Title": "Snuffbox",
+    "Culture": "French, Paris",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 3453,
+    "Artist Role": "Maker",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Pierre Médard Mothet",
+    "Artist Display Bio": "master 1761, recorded 1791",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Mothet Pierre Médard",
+    "Artist Nationality": " ",
+    "Artist Begin Date": 1761,
+    "Artist End Date": 1791,
+    "Artist Gender": null,
+    "Artist ULAN URL": null,
+    "Artist Wikidata URL": null,
+    "Object Date": "1765–66",
+    "Object Begin Date": 1765,
+    "Object End Date": 1766,
+    "Medium": "Gold, enamel",
+    "Dimensions": "1 3/16 × 2 1/4 in. (3 × 5.7 cm)",
+    "Credit Line": "The Lesley and Emma Sheafer Collection, Bequest of Emma A. Sheafer, 1973",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Metalwork-Gold and Platinum",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/206160",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Children|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025945|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q7569|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/SF1974_356_656.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 34536,
+        "role": "Maker",
+        "name": "Pierre Médard Mothet",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 3.016256,
+          "Width": 5.7150116
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Children",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025945",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q7569"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

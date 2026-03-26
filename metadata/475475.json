@@ -1,0 +1,92 @@
+{
+  "object_id": 475475,
+  "excel_metadata": {
+    "Object Number": "31.8.15",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 475475,
+    "Gallery Number": null,
+    "Department": "Medieval Art",
+    "AccessionYear": 1931,
+    "Object Name": "Bottle",
+    "Title": "Bottle Fragments",
+    "Culture": "Coptic",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": null,
+    "Artist Role": null,
+    "Artist Prefix": null,
+    "Artist Display Name": null,
+    "Artist Display Bio": null,
+    "Artist Suffix": null,
+    "Artist Alpha Sort": null,
+    "Artist Nationality": null,
+    "Artist Begin Date": null,
+    "Artist End Date": null,
+    "Artist Gender": null,
+    "Artist ULAN URL": null,
+    "Artist Wikidata URL": null,
+    "Object Date": "4th century (?)",
+    "Object Begin Date": 300,
+    "Object End Date": 399,
+    "Medium": "Glass",
+    "Dimensions": "Storage (tray): 10 3/4 x 8 in. (27.3 x 20.3 cm)_x000D_\nOverall: 6 11/16 x 4 5/16 in. (17 x 11 cm)_x000D_\ndiameter of mouth: 1 15/16 in. (5 cm)",
+    "Credit Line": "Rogers Fund, 1931",
+    "Geography Type": "Made in",
+    "City": null,
+    "State": null,
+    "County": "Kharga Oasis",
+    "Country": "Byzantine Egypt",
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Glass-Vessels",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/475475",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Bottles",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300045627",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q80228"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/md/original/sf31-8-15s1.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/md/original/sf31-8-15.jpg"
+    ],
+    "constituents": null,
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Diameter": 11,
+          "Height": 17
+        }
+      },
+      {
+        "elementName": "Other",
+        "elementDescription": "diameter of mouth",
+        "elementMeasurements": {
+          "Diameter": 5
+        }
+      },
+      {
+        "elementName": "Storage",
+        "elementDescription": "tray",
+        "elementMeasurements": {
+          "Length": 27.305054,
+          "Width": 20.32004
+        }
+      }
+    ],
+    "tags": null
+  }
+}

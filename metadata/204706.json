@@ -1,0 +1,117 @@
+{
+  "object_id": 204706,
+  "excel_metadata": {
+    "Object Number": "66.210a–c",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 204706,
+    "Gallery Number": 549,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1966,
+    "Object Name": "Bust",
+    "Title": "Samuel Bernard (1651–1739)",
+    "Culture": "French, Paris",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 16355,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Guillaume Coustou the Elder",
+    "Artist Display Bio": "French, Lyons 1677–1746 Paris",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Coustou, Guillaume, the Elder",
+    "Artist Nationality": "French",
+    "Artist Begin Date": 1677,
+    "Artist End Date": 1746,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500115402",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q1358924",
+    "Object Date": "ca. 1727",
+    "Object Begin Date": 1722,
+    "Object End Date": 1732,
+    "Medium": "Marble",
+    "Dimensions": "Overall without base (confirmed): 36 1/8 x 27 7/8 x 14 5/8 in. (91.8 x 70.8 x 37.1 cm);_x000D_\nHeight with base (confirmed): 37 3/4 in. (95.9 cm)",
+    "Credit Line": "Purchase, Josephine Bay Paul and C. Michael Paul Foundation Inc. Gift and Charles Ulrick and Josephine Bay Foundation Inc. Gift, 1966",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Sculpture",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/204706",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q55622989",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP234067.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/DP239024.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP239026.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP239027.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP239028.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP239030.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP239029.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 163554,
+        "role": "Artist",
+        "name": "Guillaume Coustou the Elder",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115402",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1358924",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": "confirmed",
+        "elementMeasurements": {
+          "Depth": 37.147575,
+          "Height": 91.75768,
+          "Width": 70.80264
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": "historic dimensions, superceded",
+        "elementMeasurements": {
+          "Height": 95.3
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": "confirmed",
+        "elementMeasurements": {
+          "Height": 95.88519
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

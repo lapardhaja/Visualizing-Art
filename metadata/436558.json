@@ -1,0 +1,104 @@
+{
+  "object_id": 436558,
+  "excel_metadata": {
+    "Object Number": "71.62",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 436558,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1871.0,
+    "Object Name": "Painting",
+    "Title": "View of Haarlem and the Haarlemmer Meer",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16521.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Jan van Goyen",
+    "Artist Display Bio": "Dutch, Leiden 1596–1656 The Hague",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Goyen, Jan van",
+    "Artist Nationality": "Dutch",
+    "Artist Begin Date": "1596",
+    "Artist End Date": "1656",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500115612",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q315996",
+    "Object Date": "1646",
+    "Object Begin Date": 1646,
+    "Object End Date": 1646,
+    "Medium": "Oil on wood",
+    "Dimensions": "13 5/8 x 19 7/8 in. (34.6 x 50.5 cm)",
+    "Credit Line": "Purchase, 1871",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436558",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19911834",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Windmills|Landscapes",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300006273|http://vocab.getty.edu/page/aat/300132294",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q38720|https://www.wikidata.org/wiki/Q191163"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP146495.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 165218,
+        "role": "Artist",
+        "name": "Jan van Goyen",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115612",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q315996",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 6.35,
+          "Height": 57.1501,
+          "Width": 73.0251
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 34.6,
+          "Width": 50.5
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Windmills",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300006273",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q38720"
+      },
+      {
+        "term": "Landscapes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+      }
+    ]
+  }
+}

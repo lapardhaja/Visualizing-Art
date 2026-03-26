@@ -1,0 +1,107 @@
+{
+  "object_id": 202899,
+  "excel_metadata": {
+    "Object Number": "63.53.229a–d",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 202899,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1963,
+    "Object Name": "Nutmeg grater",
+    "Title": "Miniature nutmeg grater",
+    "Culture": "British, London",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 397973304,
+    "Artist Role": "Maker|Maker",
+    "Artist Prefix": " |Possibly by",
+    "Artist Display Name": "H.V., London|Alexander Hudson",
+    "Artist Display Bio": "ca. 1698–1699| ",
+    "Artist Suffix": " | ",
+    "Artist Alpha Sort": "H.V.|Hudson Alexander",
+    "Artist Nationality": " | ",
+    "Artist Begin Date": "1698      |1650      ",
+    "Artist End Date": "1699      |1750      ",
+    "Artist Gender": "|",
+    "Artist ULAN URL": "|",
+    "Artist Wikidata URL": "|",
+    "Object Date": "1698–99",
+    "Object Begin Date": 1698,
+    "Object End Date": 1699,
+    "Medium": "Silver",
+    "Dimensions": "Height (cover): 2 3/4 in. (7 cm);_x000D_\nHeight (grater): 2 5/16 in. (5.9 cm);_x000D_\nDiameter (grater): 7/8 in. (2.2 cm)",
+    "Credit Line": "The Joseph M. and Aimee Loeb May Collection, 1963",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Metalwork-Silver-Miniature",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/202899",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": null,
+    "Tags AAT URL": null,
+    "Tags Wikidata URL": null
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP-1717-063.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/DP-1717-064.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 39797,
+        "role": "Maker",
+        "name": "H.V., London",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      },
+      {
+        "constituentID": 33048,
+        "role": "Maker",
+        "name": "Possibly by Alexander Hudson",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Diameter",
+        "elementDescription": "grater",
+        "elementMeasurements": {
+          "Diameter": 2.2225044
+        }
+      },
+      {
+        "elementName": "Height",
+        "elementDescription": "grater",
+        "elementMeasurements": {
+          "Height": 5.8737617
+        }
+      },
+      {
+        "elementName": "Height",
+        "elementDescription": "cover",
+        "elementMeasurements": {
+          "Height": 6.985014
+        }
+      }
+    ],
+    "tags": null
+  }
+}

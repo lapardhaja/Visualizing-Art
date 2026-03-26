@@ -1,0 +1,110 @@
+{
+  "object_id": 459098,
+  "excel_metadata": {
+    "Object Number": "1975.1.167",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 459098,
+    "Gallery Number": 957.0,
+    "Department": "Robert Lehman Collection",
+    "AccessionYear": 1975.0,
+    "Object Name": "Painting",
+    "Title": "View of Saint-Valéry-sur-Somme",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16182.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Edgar Degas",
+    "Artist Display Bio": "French, Paris 1834–1917 Paris",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Degas, Edgar",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1834",
+    "Artist End Date": "1917",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500115194",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q46373",
+    "Object Date": "1896–98",
+    "Object Begin Date": 1896,
+    "Object End Date": 1898,
+    "Medium": "Oil on canvas",
+    "Dimensions": "20 x 24 in. (50.8 x 61 cm)",
+    "Credit Line": "Robert Lehman Collection, 1975",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/459098",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20183440",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Towns|Landscapes",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300008375|http://vocab.getty.edu/page/aat/300132294",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q3957|https://www.wikidata.org/wiki/Q191163"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/rl/original/DP-34473-001.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/rl/original/DP-34473-002.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/2305.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/DT3113.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/ep1975.1.167.bw.R.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/0167.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/SLP0167.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 161821,
+        "role": "Artist",
+        "name": "Edgar Degas",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115194",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q46373",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 50.8,
+          "Width": 61
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 73.34264,
+          "Width": 83.82017
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Towns",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300008375",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3957"
+      },
+      {
+        "term": "Landscapes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+      }
+    ]
+  }
+}

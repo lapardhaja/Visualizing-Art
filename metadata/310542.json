@@ -1,0 +1,110 @@
+{
+  "object_id": 310542,
+  "excel_metadata": {
+    "Object Number": "1978.412.90a, b",
+    "Is Highlight": true,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 310542,
+    "Gallery Number": null,
+    "Department": "Arts of Africa, Oceania, and the Americas",
+    "AccessionYear": 1978,
+    "Object Name": "Vessel with lid",
+    "Title": "Whistling vessel",
+    "Culture": "Maya",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 22313,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Maya artist",
+    "Artist Display Bio": " ",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Maya artist",
+    "Artist Nationality": " ",
+    "Artist Begin Date": "          ",
+    "Artist End Date": "          ",
+    "Artist Gender": null,
+    "Artist ULAN URL": null,
+    "Artist Wikidata URL": null,
+    "Object Date": "400–500 CE",
+    "Object Begin Date": 400,
+    "Object End Date": 500,
+    "Medium": "Ceramic",
+    "Dimensions": "H. 11 7/8 x W. 7 3/4 x D. 5 1/4 in. (30.2 x 19.7 x 13.3 cm)",
+    "Credit Line": "The Michael C. Rockefeller Memorial Collection, Gift of Nelson A. Rockefeller, 1963",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": "Guatemala or Mexico",
+    "Region": "Mesoamerica",
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Ceramics-Containers",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/310542",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q29384243",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Birds|Men|Mythical Creatures",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300266506|http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300375725",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q5113|https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q2239243"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ao/original/DP-23468-001.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ao/original/DP-23468-002.jpg",
+      "https://images.metmuseum.org/CRDImages/ao/original/DP-23468-003.jpg",
+      "https://images.metmuseum.org/CRDImages/ao/original/DP-23468-004.jpg",
+      "https://images.metmuseum.org/CRDImages/ao/original/DP-23468-005.jpg",
+      "https://images.metmuseum.org/CRDImages/ao/original/DP-23468-006.jpg",
+      "https://images.metmuseum.org/CRDImages/ao/original/DP-23468-007.jpg",
+      "https://images.metmuseum.org/CRDImages/ao/original/IA-1978_412_90ab_2021XR_20211118_162154_Industrex_PP_Chau.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 223139,
+        "role": "Artist",
+        "name": "Maya artist(s)",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 13.335027,
+          "Height": 30.16256,
+          "Weight": 0.9071941,
+          "Width": 19.68504
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Birds",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300266506",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q5113"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Mythical Creatures",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300375725",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q2239243"
+      }
+    ]
+  }
+}

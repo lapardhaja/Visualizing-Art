@@ -1,0 +1,95 @@
+{
+  "object_id": 436501,
+  "excel_metadata": {
+    "Object Number": "26.168.33",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436501,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1926.0,
+    "Object Name": "Painting, miniature",
+    "Title": "Francesca Ghirardi Lechi (1773–1806)",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10864.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Giovanni Battista Gigola",
+    "Artist Display Bio": "Italian, Brescian, 1767–1841",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Gigola, Giovanni Battista",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1767",
+    "Artist End Date": "1841",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500013912",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q18508242",
+    "Object Date": NaN,
+    "Object Begin Date": 1789,
+    "Object End Date": 1841,
+    "Medium": "Ivory",
+    "Dimensions": "Diameter 2 5/8 in. (66 mm)",
+    "Credit Line": "Bequest of Collis P. Huntington, 1900",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Miniatures",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436501",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19913821",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Female Nudes|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300189568|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q40446|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/ep26.168.33.R.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 108642,
+        "role": "Artist",
+        "name": "Giovanni Battista Gigola",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500013912",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q18508242",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 6.7,
+          "Width": 6.7
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Female Nudes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300189568",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q40446"
+      }
+    ]
+  }
+}

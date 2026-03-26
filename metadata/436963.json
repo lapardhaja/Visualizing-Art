@@ -1,0 +1,112 @@
+{
+  "object_id": 436963,
+  "excel_metadata": {
+    "Object Number": "56.230.1",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436963,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1956.0,
+    "Object Name": "Painting",
+    "Title": "Strawberries",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16209.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Edouard Manet",
+    "Artist Display Bio": "French, Paris 1832–1883 Paris",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Manet, Edouard",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1832",
+    "Artist End Date": "1883",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500010363",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q40599",
+    "Object Date": "ca. 1882",
+    "Object Begin Date": 1882,
+    "Object End Date": 1882,
+    "Medium": "Oil on canvas",
+    "Dimensions": "8 3/8 x 10 1/2 in. (21.3 x 26.7 cm)",
+    "Credit Line": "Gift of Mr. and Mrs. Nate B. Spingold, 1956",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436963",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19913149",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Strawberries|Still Life",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300375414|http://vocab.getty.edu/page/aat/300015638",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q745|https://www.wikidata.org/wiki/Q170571"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/ep56.230.1.R.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162094,
+        "role": "Artist",
+        "name": "Edouard Manet",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500010363",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q40599",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 21.3,
+          "Width": 26.7
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 8.255016,
+          "Height": 45.08509,
+          "Width": 50.800102
+        }
+      },
+      {
+        "elementName": "Glazing",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 22.542545,
+          "Width": 27.622555
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Strawberries",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300375414",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q745"
+      },
+      {
+        "term": "Still Life",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015638",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q170571"
+      }
+    ]
+  }
+}

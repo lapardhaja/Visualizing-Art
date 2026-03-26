@@ -1,0 +1,114 @@
+{
+  "object_id": 437852,
+  "excel_metadata": {
+    "Object Number": "89.15.9",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 437852,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1889.0,
+    "Object Name": "Painting",
+    "Title": "Saltash with the Water Ferry, Cornwall",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16257.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Joseph Mallord William Turner",
+    "Artist Display Bio": "British, London 1775–1851 London",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Turner, Joseph Mallord William",
+    "Artist Nationality": "British",
+    "Artist Begin Date": "1775",
+    "Artist End Date": "1851",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500026846",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q159758",
+    "Object Date": "1811",
+    "Object Begin Date": 1811,
+    "Object End Date": 1811,
+    "Medium": "Oil on canvas",
+    "Dimensions": "35 3/8 x 47 1/2 in. (89.9 x 120.7 cm)",
+    "Credit Line": "Marquand Collection, Gift of Henry G. Marquand, 1889",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437852",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19904861",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Buildings|Men|Women|Boats",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300004789|http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/aat/300178749",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q41176|https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q35872"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP169566.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162573,
+        "role": "Artist",
+        "name": "Joseph Mallord William Turner",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500026846",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q159758",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 89.9,
+          "Width": 120.7
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 17.78,
+          "Height": 134.6203,
+          "Width": 164.4653
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Buildings",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300004789",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q41176"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Boats",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300178749",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q35872"
+      }
+    ]
+  }
+}

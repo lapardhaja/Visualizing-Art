@@ -1,0 +1,104 @@
+{
+  "object_id": 438644,
+  "excel_metadata": {
+    "Object Number": "2003.42.20",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 438644,
+    "Gallery Number": 805.0,
+    "Department": "European Paintings",
+    "AccessionYear": 2003.0,
+    "Object Name": "Painting",
+    "Title": "View on the Quirinal Hill, Rome",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 12002.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Simon Denis",
+    "Artist Display Bio": "Flemish, Antwerp 1755–1813 Naples",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Denis, Simon",
+    "Artist Nationality": "Flemish",
+    "Artist Begin Date": "1755",
+    "Artist End Date": "1813",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500007133",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q3484255",
+    "Object Date": "1800",
+    "Object Begin Date": 1800,
+    "Object End Date": 1800,
+    "Medium": "Oil on paper, laid down on canvas",
+    "Dimensions": "11 5/8 x 16 1/8 in. (29.5 x 41 cm)",
+    "Credit Line": "The Whitney Collection, Gift of Wheelock Whitney III, and Purchase, Gift of Mr. and Mrs. Charles S. McVeigh, by exchange, 2003",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/438644",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19905175",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Rome|Cities",
+    "Tags AAT URL": "http://vocab.getty.edu/page/tgn/7000874|http://vocab.getty.edu/page/aat/300008389",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q220|https://www.wikidata.org/wiki/Q515"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP150997.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 120020,
+        "role": "Artist",
+        "name": "Simon Denis",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500007133",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3484255",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 29.5,
+          "Width": 41
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 6.0325,
+          "Height": 48.8951,
+          "Width": 60.0076
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Cities",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300008389",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q515"
+      },
+      {
+        "term": "Rome",
+        "AAT_URL": "http://vocab.getty.edu/page/tgn/7000874",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q220"
+      }
+    ]
+  }
+}

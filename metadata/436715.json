@@ -1,0 +1,100 @@
+{
+  "object_id": 436715,
+  "excel_metadata": {
+    "Object Number": "42.53.5",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436715,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1942.0,
+    "Object Name": "Painting, miniature",
+    "Title": "Napoléon I (1769–1821)",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16456.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Jean-Baptiste Isabey",
+    "Artist Display Bio": "French, Nancy 1767–1855 Paris",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Isabey, Jean-Baptiste",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1767",
+    "Artist End Date": "1855",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500031174",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q551132",
+    "Object Date": "1812",
+    "Object Begin Date": 1812,
+    "Object End Date": 1812,
+    "Medium": "Ivory",
+    "Dimensions": "Oval, 2 1/4 x 1 3/8 in. (56 x 36 mm)",
+    "Credit Line": "Gift of Helen O. Brice, 1942",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Miniatures",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436715",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19913950",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Napoleon I|Men|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ulan/500122388|http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q517|https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP327729.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 164562,
+        "role": "Artist",
+        "name": "Jean-Baptiste Isabey",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500031174",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q551132",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 5.7,
+          "Width": 3.5
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Napoleon I",
+        "AAT_URL": "http://vocab.getty.edu/page/ulan/500122388",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q517"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

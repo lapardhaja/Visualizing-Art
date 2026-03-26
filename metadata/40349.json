@@ -1,0 +1,111 @@
+{
+  "object_id": 40349,
+  "excel_metadata": {
+    "Object Number": "29.100.454",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 40349,
+    "Gallery Number": NaN,
+    "Department": "Asian Art",
+    "AccessionYear": 1929.0,
+    "Object Name": "Painting",
+    "Title": NaN,
+    "Culture": "Japan",
+    "Period": "Edo period (1615–1868)",
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 1138.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Hishikawa Moronobu 菱川師宣",
+    "Artist Display Bio": "Japanese, 1618–1694",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Hishikawa Moronobu",
+    "Artist Nationality": "Japanese",
+    "Artist Begin Date": "1618",
+    "Artist End Date": "1694",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500118854",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q11620184",
+    "Object Date": NaN,
+    "Object Begin Date": 1618,
+    "Object End Date": 1694,
+    "Medium": "Matted painting; ink and color on paper",
+    "Dimensions": "Overall: 25 5/8 x 12 13/16 in. (65.1 x 32.5 cm)\r\nImage: 23 7/16 x 11 3/8 in. (59.5 x 28.9 cm)\r\nMat: 29 3/8 x 17 1/4 in. (74.6 x 43.8 cm)",
+    "Credit Line": "H. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/40349",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q78859472",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Women|Dragons",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/aat/300375726",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q7559"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/as/original/29_100_454_76261.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 11389,
+        "role": "Artist",
+        "name": "Hishikawa Moronobu 菱川師宣",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500118854",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q11620184",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Other",
+        "elementDescription": "Mat",
+        "elementMeasurements": {
+          "Height": 74.6126,
+          "Width": 43.8151
+        }
+      },
+      {
+        "elementName": "Image",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 59.5314,
+          "Width": 28.8926
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 65.0876,
+          "Width": 32.5438
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Dragons",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300375726",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q7559"
+      }
+    ]
+  }
+}

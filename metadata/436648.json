@@ -1,0 +1,104 @@
+{
+  "object_id": 436648,
+  "excel_metadata": {
+    "Object Number": "64.65.3",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436648,
+    "Gallery Number": 965.0,
+    "Department": "European Paintings",
+    "AccessionYear": 1964.0,
+    "Object Name": "Painting",
+    "Title": "The Huis ten Bosch at The Hague and Its Formal Garden (View from the East)",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16199.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Jan van der Heyden",
+    "Artist Display Bio": "Dutch, Gorinchem 1637–1712 Amsterdam",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Heyden, Jan van der",
+    "Artist Nationality": "Dutch",
+    "Artist Begin Date": "1637",
+    "Artist End Date": "1712",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500010213",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q370567",
+    "Object Date": "ca. 1668–70",
+    "Object Begin Date": 1668,
+    "Object End Date": 1670,
+    "Medium": "Oil on wood",
+    "Dimensions": "15 3/8 x 21 5/8 in. (39.1 x 54.9 cm)\r\n",
+    "Credit Line": "Gift of Edith Neuman de Végvár, in honor of her husband, Charles Neuman de Végvár, 1964",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436648",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20167205",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Gardens|Houses",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300008090|http://vocab.getty.edu/page/aat/300005433",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q1107656|https://www.wikidata.org/wiki/Q3947"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP145409.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 161991,
+        "role": "Artist",
+        "name": "Jan van der Heyden",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500010213",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q370567",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 39.1,
+          "Width": 54.92761
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 9.8425,
+          "Height": 62.8651,
+          "Width": 79.3752
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Houses",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300005433",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3947"
+      },
+      {
+        "term": "Gardens",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300008090",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q1107656"
+      }
+    ]
+  }
+}

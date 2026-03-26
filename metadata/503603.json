@@ -1,0 +1,84 @@
+{
+  "object_id": 503603,
+  "excel_metadata": {
+    "Object Number": "89.4.2931",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 503603,
+    "Gallery Number": null,
+    "Department": "Musical Instruments",
+    "AccessionYear": 1889,
+    "Object Name": "Rock Harmonicon",
+    "Title": "Rock Harmonicon",
+    "Culture": "British",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 15536,
+    "Artist Role": "Maker",
+    "Artist Prefix": " ",
+    "Artist Display Name": "William Till",
+    "Artist Display Bio": " ",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Till William",
+    "Artist Nationality": "British",
+    "Artist Begin Date": "          ",
+    "Artist End Date": "          ",
+    "Artist Gender": null,
+    "Artist ULAN URL": null,
+    "Artist Wikidata URL": null,
+    "Object Date": "ca. 1880",
+    "Object Begin Date": 1880,
+    "Object End Date": 1880,
+    "Medium": "gneiss and hornblende schist",
+    "Dimensions": "Overall: H. 106.7 x L. 247.7cm (42 x 97 1/2in.); Longest stone: 77 cm (26 in.); Shortest: 22.9 cm (9 in.)",
+    "Credit Line": "The Crosby Brown Collection of Musical Instruments, 1889",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": "United Kingdom",
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Idiophone-Struck-bar-stone",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/503603",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": null,
+    "Tags AAT URL": null,
+    "Tags Wikidata URL": null
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/mi/original/MUS968B.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 155367,
+        "role": "Maker",
+        "name": "William Till",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 106.6802,
+          "Length": 247.6505
+        }
+      }
+    ],
+    "tags": null
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "object_id": 458996,
+  "excel_metadata": {
+    "Object Number": "1975.1.56",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 458996,
+    "Gallery Number": 956.0,
+    "Department": "Robert Lehman Collection",
+    "AccessionYear": 1975.0,
+    "Object Name": "Painting",
+    "Title": "The Blessed Ambrogio Sansedoni (1220–1286)",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16193.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Giovanni di Paolo (Giovanni di Paolo di Grazia)",
+    "Artist Display Bio": "Italian, Siena 1398–1482 Siena",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Giovanni di Paolo (Giovanni di Paolo di Grazia)",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1398",
+    "Artist End Date": "1482",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500116438",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q946420",
+    "Object Date": "1447–65",
+    "Object Begin Date": 1447,
+    "Object End Date": 1465,
+    "Medium": "Tempera on wood, gold ground",
+    "Dimensions": "Overall, with engaged frame: 20 5/8 in. × 7 in. (52.4 × 17.8 cm)\r\nPainted surface: 19 1/4 × 4 7/8 in. (48.9 × 12.4 cm)",
+    "Credit Line": "Robert Lehman Collection, 1975",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/458996",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20183811",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/rl/original/DP366058.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/rl/original/DP366059.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 161939,
+        "role": "Artist",
+        "name": "Giovanni di Paolo (Giovanni di Paolo di Grazia)",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500116438",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q946420",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": "Painted surface",
+        "elementMeasurements": {
+          "Height": 48.9,
+          "Width": 12.4
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": "Overall, with engaged frame",
+        "elementMeasurements": {
+          "Height": 52.4,
+          "Width": 17.8
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      }
+    ]
+  }
+}

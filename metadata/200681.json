@@ -1,0 +1,95 @@
+{
+  "object_id": 200681,
+  "excel_metadata": {
+    "Object Number": "50.187.5",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 200681,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1950,
+    "Object Name": "Medallion",
+    "Title": "Andrew Coventry (1764–1832)",
+    "Culture": "British, London",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 16537,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "James Tassie",
+    "Artist Display Bio": "British, Glasgow, Scotland 1735–1799 London",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Tassie, James",
+    "Artist Nationality": "British, Scottish",
+    "Artist Begin Date": 1735,
+    "Artist End Date": 1799,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500020360",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q6144027",
+    "Object Date": 1794,
+    "Object Begin Date": 1794,
+    "Object End Date": 1794,
+    "Medium": "Glass paste",
+    "Dimensions": "5 7/8 × 4 7/8 in. (14.9 × 12.4 cm)",
+    "Credit Line": "The Glenn Tilley Morse Collection, Bequest of Glenn Tilley Morse, 1950",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Glass",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/200681",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Profiles",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300123319",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q4382010"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP-15822-170.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 165370,
+        "role": "Artist",
+        "name": "James Tassie",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500020360",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q6144027",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 14.92253,
+          "Width": 12.3825245
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Profiles",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300123319",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q4382010"
+      }
+    ]
+  }
+}

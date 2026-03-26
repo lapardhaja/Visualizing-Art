@@ -1,0 +1,94 @@
+{
+  "object_id": 199133,
+  "excel_metadata": {
+    "Object Number": "42.205.24a, b",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 199133,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1942,
+    "Object Name": "Coffeepot",
+    "Title": "Coffeepot",
+    "Culture": "German, Meissen",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 16483,
+    "Artist Role": "Manufactory",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Meissen Manufactory",
+    "Artist Display Bio": "German, 1710–present",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Meissen Manufactory",
+    "Artist Nationality": "German",
+    "Artist Begin Date": 1710,
+    "Artist End Date": 9999,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500054662",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q822407",
+    "Object Date": "ca. 1713–20",
+    "Object Begin Date": 1708,
+    "Object End Date": 1725,
+    "Medium": "Hard-paste porcelain",
+    "Dimensions": "Height: 7 7/8 in. (20 cm)",
+    "Credit Line": "The George B. McClellan Collection, Gift of Mrs. George B. McClellan, 1941",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Ceramics-Porcelain",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/199133",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Birds|Grapes",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300266506|http://vocab.getty.edu/page/aat/300379338",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q5113|https://www.wikidata.org/wiki/Q10978"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/133544.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 164832,
+        "role": "Manufactory",
+        "name": "Meissen Manufactory",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500054662",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q822407",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Height",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 20.00254
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Birds",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300266506",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q5113"
+      },
+      {
+        "term": "Grapes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379338",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q10978"
+      }
+    ]
+  }
+}

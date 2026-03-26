@@ -1,0 +1,122 @@
+{
+  "object_id": 13452,
+  "excel_metadata": {
+    "Object Number": "1990.197.1",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 13452,
+    "Gallery Number": NaN,
+    "Department": "The American Wing",
+    "AccessionYear": 1990.0,
+    "Object Name": "Painting",
+    "Title": "An Incident of Whaling",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16315.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "William Bradford",
+    "Artist Display Bio": "American, 1823–1892",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Bradford, William",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1823",
+    "Artist End Date": "1892",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500003752",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q8005829",
+    "Object Date": NaN,
+    "Object Begin Date": 1823,
+    "Object End Date": 1892,
+    "Medium": "Oil on canvas",
+    "Dimensions": "22 x 36 in. (55.9 x 91.4 cm)",
+    "Credit Line": "Bequest of DeLancey Thorn Grant, in memory of her mother, Louise Floyd-Jones Thorn, 1990",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/13452",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20172078",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Snow|Ships|Ice|Boats",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300055381|http://vocab.getty.edu/page/aat/300082981|http://vocab.getty.edu/page/aat/300011781|http://vocab.getty.edu/page/aat/300178749",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q7561|https://www.wikidata.org/wiki/Q11446|https://www.wikidata.org/wiki/Q23392|https://www.wikidata.org/wiki/Q35872"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DT6474.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 163158,
+        "role": "Artist",
+        "name": "William Bradford",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500003752",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q8005829",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 55.9,
+          "Width": 91.4
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 15.875031,
+          "Height": 92.392685,
+          "Width": 127.95276
+        }
+      },
+      {
+        "elementName": "Other",
+        "elementDescription": "glazing, when needed",
+        "elementMeasurements": {
+          "Height": 56.832615,
+          "Width": 92.392685
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Ice",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300011781",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q23392"
+      },
+      {
+        "term": "Snow",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300055381",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q7561"
+      },
+      {
+        "term": "Boats",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300178749",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q35872"
+      },
+      {
+        "term": "Ships",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300082981",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q11446"
+      }
+    ]
+  }
+}

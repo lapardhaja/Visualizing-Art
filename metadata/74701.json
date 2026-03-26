@@ -1,0 +1,116 @@
+{
+  "object_id": 74701,
+  "excel_metadata": {
+    "Object Number": "2008.359.38",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 74701,
+    "Gallery Number": NaN,
+    "Department": "Asian Art",
+    "AccessionYear": 2008.0,
+    "Object Name": "Painting",
+    "Title": NaN,
+    "Culture": "India (Pahari Hills, Kangra)",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": NaN,
+    "Artist Role": NaN,
+    "Artist Prefix": NaN,
+    "Artist Display Name": NaN,
+    "Artist Display Bio": NaN,
+    "Artist Suffix": NaN,
+    "Artist Alpha Sort": NaN,
+    "Artist Nationality": NaN,
+    "Artist Begin Date": NaN,
+    "Artist End Date": NaN,
+    "Artist Gender": NaN,
+    "Artist ULAN URL": NaN,
+    "Artist Wikidata URL": NaN,
+    "Object Date": "early 19th century",
+    "Object Begin Date": 1800,
+    "Object End Date": 1833,
+    "Medium": "Ink on paper",
+    "Dimensions": "Image (sight): 23 1/2 x 20 3/8 in. (59.7 x 51.8 cm)\r\nFramed: 32 x 28 in. (81.3 x 71.1 cm)",
+    "Credit Line": "Gift of Subhash Kapoor, in memory of his parents, Smt Shashi Kanta and Shree Parshotam Ram Kapoor, 2008",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/74701",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q78708417",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Women|Ganesha|Krishna|Hinduism|Chariots",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/ia/901000387|http://vocab.getty.edu/page/ia/901000876|http://vocab.getty.edu/page/aat/300073727|http://vocab.getty.edu/page/aat/300212699",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q1579|https://www.wikidata.org/wiki/Q42891|https://www.wikidata.org/wiki/Q9089|https://www.wikidata.org/wiki/Q203788"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/as/original/DP166105.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/as/original/LC-2008_359_38_002.jpg"
+    ],
+    "constituents": null,
+    "measurements": [
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 81.2802,
+          "Width": 71.1201
+        }
+      },
+      {
+        "elementName": "Image",
+        "elementDescription": "sight",
+        "elementMeasurements": {
+          "Height": 59.6901,
+          "Width": 51.7526
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Ganesha",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000387",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q1579"
+      },
+      {
+        "term": "Krishna",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000876",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q42891"
+      },
+      {
+        "term": "Hinduism",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300073727",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q9089"
+      },
+      {
+        "term": "Chariots",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300212699",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q203788"
+      }
+    ]
+  }
+}

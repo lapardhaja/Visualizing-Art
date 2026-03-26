@@ -1,0 +1,100 @@
+{
+  "object_id": 438022,
+  "excel_metadata": {
+    "Object Number": "1997.117.3",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 438022,
+    "Gallery Number": 956.0,
+    "Department": "European Paintings",
+    "AccessionYear": 1997.0,
+    "Object Name": "Painting, predella panel",
+    "Title": "Saint Catherine of Siena Exchanging Her Heart with Christ",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16193.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Giovanni di Paolo (Giovanni di Paolo di Grazia)",
+    "Artist Display Bio": "Italian, Siena 1398–1482 Siena",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Giovanni di Paolo (Giovanni di Paolo di Grazia)",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1398",
+    "Artist End Date": "1482",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500116438",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q946420",
+    "Object Date": NaN,
+    "Object Begin Date": 1417,
+    "Object End Date": 1482,
+    "Medium": "Tempera and gold on wood",
+    "Dimensions": "Overall, with added strips, 11 3/4 x 9 1/2 in. (29.8 x 24.1 cm); painted surface 11 3/8 x 8 7/8 in. (28.9 x 22.5 cm)",
+    "Credit Line": "Bequest of Lore Heinemann, in memory of her husband, Dr. Rudolf J. Heinemann, 1996",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/438022",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19911688",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Churches|Saint Catherine|Christ",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300007466| |http://vocab.getty.edu/page/ia/901000087",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q16970| |https://www.wikidata.org/wiki/Q642420"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-16827-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 161939,
+        "role": "Artist",
+        "name": "Giovanni di Paolo (Giovanni di Paolo di Grazia)",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500116438",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q946420",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 29.8,
+          "Width": 24.1
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Churches",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300007466",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q16970"
+      },
+      {
+        "term": "Christ",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+      },
+      {
+        "term": "Saint Catherine",
+        "AAT_URL": null,
+        "Wikidata_URL": null
+      }
+    ]
+  }
+}

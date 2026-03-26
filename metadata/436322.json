@@ -1,0 +1,104 @@
+{
+  "object_id": 436322,
+  "excel_metadata": {
+    "Object Number": "49.7.49",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 436322,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1949.0,
+    "Object Name": "Painting",
+    "Title": "The Love Letter",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16555.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Jean Honoré Fragonard",
+    "Artist Display Bio": "French, Grasse 1732–1806 Paris",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Fragonard, Jean Honoré",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1732",
+    "Artist End Date": "1806",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500115329",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q127171",
+    "Object Date": "early 1770s",
+    "Object Begin Date": 1770,
+    "Object End Date": 1773,
+    "Medium": "Oil on canvas",
+    "Dimensions": "32 3/4 x 26 3/8 in. (83.2 x 67 cm)\r\n",
+    "Credit Line": "The Jules Bache Collection, 1949",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436322",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19911811",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Women|Dogs",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/aat/300265714",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q144"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-1014-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 165555,
+        "role": "Artist",
+        "name": "Jean Honoré Fragonard",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115329",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q127171",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 83.2,
+          "Width": 67
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 13.335,
+          "Height": 109.2202,
+          "Width": 93.3452
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Dogs",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300265714",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q144"
+      }
+    ]
+  }
+}

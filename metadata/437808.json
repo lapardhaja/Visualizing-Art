@@ -1,0 +1,97 @@
+{
+  "object_id": 437808,
+  "excel_metadata": {
+    "Object Number": "43.85.22",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437808,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1943.0,
+    "Object Name": "Painting, grisaille",
+    "Title": "Allegorical Figure Representing a Virtue, Possibly Patriotism",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16253.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": "Workshop of",
+    "Artist Display Name": "Giovanni Battista Tiepolo",
+    "Artist Display Bio": "Italian, Venice 1696–1770 Madrid",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Tiepolo, Giovanni Battista",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1696",
+    "Artist End Date": "1770",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500018523",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q186202",
+    "Object Date": "1760",
+    "Object Begin Date": 1760,
+    "Object End Date": 1760,
+    "Medium": "Fresco, transferred to canvas",
+    "Dimensions": "Oval, 49 3/8 x 36 1/4 in. (125.4 x 92.1 cm)",
+    "Credit Line": "Bequest of Grace Rainey Rogers, 1943",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437808",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19911767",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Women|Allegory",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/aat/300055866",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q18535"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP357801.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/fort&pat.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 162537,
+        "role": "Artist",
+        "name": "Workshop of Giovanni Battista Tiepolo",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500018523",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q186202",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 125.4,
+          "Width": 92.1
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Allegory",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300055866",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q18535"
+      }
+    ]
+  }
+}

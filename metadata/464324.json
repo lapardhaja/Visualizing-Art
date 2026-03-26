@@ -1,0 +1,119 @@
+{
+  "object_id": 464324,
+  "excel_metadata": {
+    "Object Number": "17.190.344",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 464324,
+    "Gallery Number": 304,
+    "Department": "Medieval Art",
+    "AccessionYear": 1917,
+    "Object Name": "Dove",
+    "Title": "Eucharistic Dove",
+    "Culture": "French",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": null,
+    "Artist Role": null,
+    "Artist Prefix": null,
+    "Artist Display Name": null,
+    "Artist Display Bio": null,
+    "Artist Suffix": null,
+    "Artist Alpha Sort": null,
+    "Artist Nationality": null,
+    "Artist Begin Date": null,
+    "Artist End Date": null,
+    "Artist Gender": null,
+    "Artist ULAN URL": null,
+    "Artist Wikidata URL": null,
+    "Object Date": "ca. 1215–35",
+    "Object Begin Date": 1215,
+    "Object End Date": 1235,
+    "Medium": "Gilded copper with champlevé enamel",
+    "Dimensions": "Overall: 7 1/2 x 7 13/16 x 2 13/16 in. (19 x 19.8 x 7.2 cm)_x000D_\nwith modern mount: 7 9/16 x 9 3/8 x 6 15/16 in. (19.2 x 23.8 x 17.7 cm)_x000D_\ndiameter of enameled inner circular base: 3 3/8 in. (8.5 cm)",
+    "Credit Line": "Gift of J. Pierpont Morgan, 1917",
+    "Geography Type": "Made in",
+    "City": "Limoges",
+    "State": null,
+    "County": null,
+    "Country": "France",
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Enamels-Champlevé",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/464324",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q116273218",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Doves",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300250045",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q2984138"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/md/original/DT243351.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/md/original/sf17-190-344s2.jpg",
+      "https://images.metmuseum.org/CRDImages/md/original/DT4851.jpg",
+      "https://images.metmuseum.org/CRDImages/md/original/DT243352.jpg",
+      "https://images.metmuseum.org/CRDImages/md/original/sf17-190-344d1.jpg",
+      "https://images.metmuseum.org/CRDImages/md/original/sf17-190-344d4.jpg",
+      "https://images.metmuseum.org/CRDImages/md/original/sf17-190-344d2.jpg"
+    ],
+    "constituents": null,
+    "measurements": [
+      {
+        "elementName": "Other",
+        "elementDescription": "diameter on intermediate circular base",
+        "elementMeasurements": {
+          "Diameter": 9.7
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 7.2,
+          "Height": 19,
+          "Width": 19.8
+        }
+      },
+      {
+        "elementName": "Other",
+        "elementDescription": "with modern mount",
+        "elementMeasurements": {
+          "Depth": 17.7,
+          "Height": 19.2,
+          "Width": 23.8
+        }
+      },
+      {
+        "elementName": "Other",
+        "elementDescription": "diameter of enameled inner circular base",
+        "elementMeasurements": {
+          "Diameter": 8.5
+        }
+      },
+      {
+        "elementName": "Other",
+        "elementDescription": "diameter of outer circular base with four projecting arms",
+        "elementMeasurements": {
+          "Diameter": 10.7
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Doves",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250045",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q2984138"
+      }
+    ]
+  }
+}

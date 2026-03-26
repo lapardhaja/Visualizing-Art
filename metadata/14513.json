@@ -1,0 +1,103 @@
+{
+  "object_id": 14513,
+  "excel_metadata": {
+    "Object Number": "95.22.6a",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 14513,
+    "Gallery Number": NaN,
+    "Department": "The American Wing",
+    "AccessionYear": 1895.0,
+    "Object Name": "Painting",
+    "Title": "Benjamin West",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16622816271.0,
+    "Artist Role": "Artist|Former Attribution",
+    "Artist Prefix": " |Formerly attributed to",
+    "Artist Display Name": "James Green|Benjamin West",
+    "Artist Display Bio": "British, Leytonstone 1771–1834 Bath|American, Swarthmore, Pennsylvania 1738–1820 London",
+    "Artist Suffix": " | ",
+    "Artist Alpha Sort": "Green, James|West, Benjamin",
+    "Artist Nationality": "British|American",
+    "Artist Begin Date": "1771      |1738      ",
+    "Artist End Date": "1834      |1820      ",
+    "Artist Gender": "|",
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500006946|http://vocab.getty.edu/page/ulan/500026989",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q6134904|https://www.wikidata.org/wiki/Q313498",
+    "Object Date": "1818",
+    "Object Begin Date": 1818,
+    "Object End Date": 1818,
+    "Medium": "Oil on canvas",
+    "Dimensions": "44 1/4 x 18 5/8 in. (112.4 x 47 cm)",
+    "Credit Line": "Maria DeWitt Jesup Fund, 1895",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/14513",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19925267",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/63428.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 166228,
+        "role": "Artist",
+        "name": "James Green",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500006946",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q6134904",
+        "gender": ""
+      },
+      {
+        "constituentID": 162717,
+        "role": "Former Attribution",
+        "name": "Formerly attributed to Benjamin West",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500026989",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q313498",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 112.4,
+          "Width": 47.3
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

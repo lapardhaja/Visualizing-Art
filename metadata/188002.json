@@ -1,0 +1,101 @@
+{
+  "object_id": 188002,
+  "excel_metadata": {
+    "Object Number": "95.14.14",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 188002,
+    "Gallery Number": NaN,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1895.0,
+    "Object Name": "Snuffbox, painting",
+    "Title": "Snuffbox with miniature representing battle scene",
+    "Culture": "French",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": NaN,
+    "Artist Role": NaN,
+    "Artist Prefix": NaN,
+    "Artist Display Name": NaN,
+    "Artist Display Bio": NaN,
+    "Artist Suffix": NaN,
+    "Artist Alpha Sort": NaN,
+    "Artist Nationality": NaN,
+    "Artist Begin Date": NaN,
+    "Artist End Date": NaN,
+    "Artist Gender": NaN,
+    "Artist ULAN URL": NaN,
+    "Artist Wikidata URL": NaN,
+    "Object Date": "late 18th century (?)",
+    "Object Begin Date": 1785,
+    "Object End Date": 1799,
+    "Medium": "Silver, gold",
+    "Dimensions": "Overall: 1 × 2 1/8 × 1 3/4 in. (2.5 × 5.4 × 4.4 cm)",
+    "Credit Line": "The Moses Lazarus Collection, Gift of Josephine and Sarah Lazarus, in memory of their father, 1888-95",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Metalwork-Silver|Miniatures",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/188002",
+    "Object Wikidata URL": NaN,
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Horses|Battles|Flowers",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300250148|http://vocab.getty.edu/page/aat/300185692|http://vocab.getty.edu/page/aat/300132399",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q726|https://www.wikidata.org/wiki/Q178561|https://www.wikidata.org/wiki/Q506"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/43174.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 165547,
+        "role": "Artist",
+        "name": "Miniature in the style of Louis Nicolas van Blarenberghe",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500030954",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q15967927",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 4.4450088,
+          "Height": 2.540005,
+          "Width": 5.397511
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Battles",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300185692",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q178561"
+      },
+      {
+        "term": "Horses",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250148",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q726"
+      },
+      {
+        "term": "Flowers",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132399",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q506"
+      }
+    ]
+  }
+}

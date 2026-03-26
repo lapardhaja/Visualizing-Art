@@ -1,0 +1,95 @@
+{
+  "object_id": 436315,
+  "excel_metadata": {
+    "Object Number": "44.36.5",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436315,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1944.0,
+    "Object Name": "Painting, miniature",
+    "Title": "Portrait of a Woman",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10853.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Thomas Forster",
+    "Artist Display Bio": "British, active ca. 1690–1713",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Forster, Thomas",
+    "Artist Nationality": "British",
+    "Artist Begin Date": "1690",
+    "Artist End Date": "1713",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500002743",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q18593505",
+    "Object Date": "1700",
+    "Object Begin Date": 1700,
+    "Object End Date": 1700,
+    "Medium": "Plumbago on vellum",
+    "Dimensions": "Oval, 4 3/8 x 3 1/2 in. (112 x 90 mm)",
+    "Credit Line": "Rogers Fund, 1944",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Miniatures",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436315",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19914055",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Portraits|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/ep44.36.5.R.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 108539,
+        "role": "Artist",
+        "name": "Thomas Forster",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500002743",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q18593505",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 11.1,
+          "Width": 8.9
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

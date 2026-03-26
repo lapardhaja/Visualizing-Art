@@ -1,0 +1,95 @@
+{
+  "object_id": 11597,
+  "excel_metadata": {
+    "Object Number": "64.198.6",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 11597,
+    "Gallery Number": 774.0,
+    "Department": "The American Wing",
+    "AccessionYear": 1964.0,
+    "Object Name": "Painting",
+    "Title": "Marine",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 274.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Edward Moran",
+    "Artist Display Bio": "American (born England), Bolton, Lancashire 1829–1901 New York",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Moran, Edward",
+    "Artist Nationality": "American, born England",
+    "Artist Begin Date": "1829",
+    "Artist End Date": "1901",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500018805",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q966864",
+    "Object Date": "ca. 1871",
+    "Object Begin Date": 1868,
+    "Object End Date": 1871,
+    "Medium": "Oil on canvas",
+    "Dimensions": "30 x 25 in. (76.2 x 63.5 cm)",
+    "Credit Line": "Bequest of Emily Buch, 1963",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/11597",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19923780",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Boats",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300178749",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q35872"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/ap64.198.6.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 2742,
+        "role": "Artist",
+        "name": "Edward Moran",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500018805",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q966864",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 76.2,
+          "Width": 63.5
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Boats",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300178749",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q35872"
+      }
+    ]
+  }
+}

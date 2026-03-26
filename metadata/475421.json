@@ -1,0 +1,89 @@
+{
+  "object_id": 475421,
+  "excel_metadata": {
+    "Object Number": "25.10.17",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 475421,
+    "Gallery Number": null,
+    "Department": "Medieval Art",
+    "AccessionYear": 1925,
+    "Object Name": "Ornament",
+    "Title": "Grapes and Grape Leaf",
+    "Culture": "Coptic",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": null,
+    "Artist Role": null,
+    "Artist Prefix": null,
+    "Artist Display Name": null,
+    "Artist Display Bio": null,
+    "Artist Suffix": null,
+    "Artist Alpha Sort": null,
+    "Artist Nationality": null,
+    "Artist Begin Date": null,
+    "Artist End Date": null,
+    "Artist Gender": null,
+    "Artist ULAN URL": null,
+    "Artist Wikidata URL": null,
+    "Object Date": "3rd century",
+    "Object Begin Date": 200,
+    "Object End Date": 299,
+    "Medium": "Copper Alloy",
+    "Dimensions": "Overall: 2 5/16 x 1 15/16 x 3/4 in. (5.9 x 4.9 x 1.9 cm)",
+    "Credit Line": "Rogers Fund, 1910",
+    "Geography Type": "Made in",
+    "City": null,
+    "State": null,
+    "County": "Kharga Oasis",
+    "Country": "Byzantine Egypt",
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Metalwork-Copper alloy",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/475421",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Grapes|Leaves",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300379338|http://vocab.getty.edu/page/aat/300011892",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q10978|https://www.wikidata.org/wiki/Q33971"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/md/original/sf25-10-17s1.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/md/original/sf25-10-17s2.jpg"
+    ],
+    "constituents": null,
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 1.9,
+          "Height": 5.9,
+          "Width": 4.9
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Grapes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379338",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q10978"
+      },
+      {
+        "term": "Leaves",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300011892",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q33971"
+      }
+    ]
+  }
+}

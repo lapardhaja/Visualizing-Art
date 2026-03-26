@@ -1,0 +1,110 @@
+{
+  "object_id": 436072,
+  "excel_metadata": {
+    "Object Number": "41.190.12",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436072,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1941.0,
+    "Object Name": "Painting, central panel of a portable altarpiece",
+    "Title": "The Crucifixion",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16180.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": "Workshop of",
+    "Artist Display Name": "Bernardo Daddi",
+    "Artist Display Bio": "Italian, Florence (?) ca. 1290–1348 Florence",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Daddi, Bernardo",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1290",
+    "Artist End Date": "1348",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500004953",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q366562",
+    "Object Date": NaN,
+    "Object Begin Date": 1327,
+    "Object End Date": 1348,
+    "Medium": "Tempera on wood, gold ground",
+    "Dimensions": "Arched top, 18 3/4 x 10 1/4 in. (47.6 x 26 cm)",
+    "Credit Line": "Bequest of George Blumenthal, 1941",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436072",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19905180",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Crucifixion|Mary Magdalene|Saint John the Evangelist|Virgin Mary|Christ",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300404300|http://vocab.getty.edu/page/ia/901000161|http://vocab.getty.edu/page/ia/901001171|http://vocab.getty.edu/page/ia/901000032|http://vocab.getty.edu/page/ia/901000087",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q3235597|https://www.wikidata.org/wiki/Q63070|https://www.wikidata.org/wiki/Q328804|https://www.wikidata.org/wiki/Q345|https://www.wikidata.org/wiki/Q642420"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/ep41.190.12.bw.R.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 161801,
+        "role": "Artist",
+        "name": "Workshop of Bernardo Daddi",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500004953",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q366562",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 47.6,
+          "Width": 26
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Christ",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+      },
+      {
+        "term": "Mary Magdalene",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000161",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q63070"
+      },
+      {
+        "term": "Saint John the Evangelist",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901001171",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q328804"
+      },
+      {
+        "term": "Virgin Mary",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000032",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q345"
+      },
+      {
+        "term": "Crucifixion",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300404300",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3235597"
+      }
+    ]
+  }
+}

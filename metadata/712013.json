@@ -1,0 +1,113 @@
+{
+  "object_id": 712013,
+  "excel_metadata": {
+    "Object Number": "2016.306",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 712013,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 2016.0,
+    "Object Name": "Painting",
+    "Title": "Grape Vines and Fruit, with Three Wagtails",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 19116.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Bartolomeo Cavarozzi",
+    "Artist Display Bio": "Italian, Viterbo 1587–1625 Rome",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Cavarozzi, Bartolomeo",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1587",
+    "Artist End Date": "1625",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500006553",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q519379",
+    "Object Date": "ca. 1615–18",
+    "Object Begin Date": 1615,
+    "Object End Date": 1618,
+    "Medium": "Oil on canvas",
+    "Dimensions": "40 × 61 3/4 in. (101.6 × 156.8 cm)\r\n",
+    "Credit Line": "Gift of Claire and Giovanni Sarti, in honor of Keith Christiansen, 2016",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/712013",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q78613809",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Birds|Grapes|Vines|Still Life",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300266506|http://vocab.getty.edu/page/aat/300379338|http://vocab.getty.edu/page/aat/300132406|http://vocab.getty.edu/page/aat/300015638",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q5113|https://www.wikidata.org/wiki/Q10978|https://www.wikidata.org/wiki/Q917284|https://www.wikidata.org/wiki/Q170571"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-17150-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 191164,
+        "role": "Artist",
+        "name": "Bartolomeo Cavarozzi",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500006553",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q519379",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 101.600204,
+          "Width": 156.8453
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 120.96774,
+          "Width": 175.89536
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Birds",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300266506",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q5113"
+      },
+      {
+        "term": "Grapes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379338",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q10978"
+      },
+      {
+        "term": "Vines",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132406",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q917284"
+      },
+      {
+        "term": "Still Life",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015638",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q170571"
+      }
+    ]
+  }
+}

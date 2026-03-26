@@ -1,0 +1,128 @@
+{
+  "object_id": 437536,
+  "excel_metadata": {
+    "Object Number": "10.73",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 437536,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1910.0,
+    "Object Name": "Painting",
+    "Title": "Wolf and Fox Hunt",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16235.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Peter Paul Rubens",
+    "Artist Display Bio": "Flemish, Siegen 1577–1640 Antwerp",
+    "Artist Suffix": "and Workshop",
+    "Artist Alpha Sort": "Rubens, Peter Paul",
+    "Artist Nationality": "Flemish",
+    "Artist Begin Date": "1577",
+    "Artist End Date": "1640",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500002921",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q5599",
+    "Object Date": "ca. 1616",
+    "Object Begin Date": 1611,
+    "Object End Date": 1621,
+    "Medium": "Oil on canvas",
+    "Dimensions": "96 5/8 x 148 1/8 in. (245.4 x 376.2 cm)",
+    "Credit Line": "John Stewart Kennedy Fund, 1910",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437536",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q18437007",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Horses|Men|Hunting|Foxes|Women|Wolves",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300250148|http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300239666|http://vocab.getty.edu/page/aat/300266520|http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/aat/300250132",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q726|https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q36963|https://www.wikidata.org/wiki/Q8331|https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q18498"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-27136-001.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-10_73-2.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-10_73-3.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 162350,
+        "role": "Artist",
+        "name": "Peter Paul Rubens",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500002921",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5599",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 245.4,
+          "Weight": 256.28232,
+          "Width": 376.2
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 20.32004,
+          "Height": 304.8006,
+          "Width": 436.88086
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Hunting",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300239666",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q36963"
+      },
+      {
+        "term": "Foxes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300266520",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8331"
+      },
+      {
+        "term": "Horses",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250148",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q726"
+      },
+      {
+        "term": "Wolves",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250132",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q18498"
+      }
+    ]
+  }
+}

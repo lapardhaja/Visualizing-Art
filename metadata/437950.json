@@ -1,0 +1,105 @@
+{
+  "object_id": 437950,
+  "excel_metadata": {
+    "Object Number": "95.14.95",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437950,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1895.0,
+    "Object Name": "Painting, miniature",
+    "Title": "An Interesting Story (Miss Ray)",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10861.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "William Wood",
+    "Artist Display Bio": "British, 1769–1810",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Wood, William",
+    "Artist Nationality": "British",
+    "Artist Begin Date": "1769",
+    "Artist End Date": "1810",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500007704",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q20116880",
+    "Object Date": "1806",
+    "Object Begin Date": 1806,
+    "Object End Date": 1806,
+    "Medium": "Ivory",
+    "Dimensions": "4 3/4 x 3 7/8 in. (119 x 97 mm)",
+    "Credit Line": "The Moses Lazarus Collection, Gift of Josephine and Sarah Lazarus, in memory of their father, 1888–95",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Miniatures",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437950",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19913829",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Books|Profiles|Women|Reading",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300028051|http://vocab.getty.edu/page/aat/300123319|http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/aat/300248178",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q571|https://www.wikidata.org/wiki/Q4382010|https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q199657"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/ep95.14.95.R.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 108614,
+        "role": "Artist",
+        "name": "William Wood",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500007704",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q20116880",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 12.1,
+          "Width": 9.8
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Books",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300028051",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q571"
+      },
+      {
+        "term": "Profiles",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300123319",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q4382010"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Reading",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300248178",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q199657"
+      }
+    ]
+  }
+}

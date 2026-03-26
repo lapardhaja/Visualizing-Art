@@ -1,0 +1,90 @@
+{
+  "object_id": 436894,
+  "excel_metadata": {
+    "Object Number": "1982.73",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436894,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1982.0,
+    "Object Name": "Painting fragment",
+    "Title": "The Virgin of the Nativity",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16207.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": "Workshop of",
+    "Artist Display Name": "Filippino Lippi",
+    "Artist Display Bio": "Italian, Prato ca. 1457–1504 Florence",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Lippi, Filippino",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1457",
+    "Artist End Date": "1504",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500018029",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q296265",
+    "Object Date": "probably ca. 1500",
+    "Object Begin Date": 1495,
+    "Object End Date": 1505,
+    "Medium": "Tempera and gold on wood",
+    "Dimensions": "12 3/4 x 9 3/4 in. (32.4 x 24.8 cm)",
+    "Credit Line": "Gift of Donald S. Klopfer, 1982",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436894",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19913301",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Virgin Mary",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901000032",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q345"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT7272.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162076,
+        "role": "Artist",
+        "name": "Workshop of Filippino Lippi",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500018029",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q296265",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 32.4,
+          "Width": 24.8
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Virgin Mary",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000032",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q345"
+      }
+    ]
+  }
+}

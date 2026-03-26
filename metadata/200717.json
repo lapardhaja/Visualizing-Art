@@ -1,0 +1,95 @@
+{
+  "object_id": 200717,
+  "excel_metadata": {
+    "Object Number": "50.187.42",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 200717,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1950,
+    "Object Name": "Medallion",
+    "Title": "Portrait of a lady",
+    "Culture": "Italian",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 16156,
+    "Artist Role": "Maker",
+    "Artist Prefix": "Possibly by",
+    "Artist Display Name": "Antonio Abondio",
+    "Artist Display Bio": "Italian, Trento 1538–1591 Vienna",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Abondio, Antonio",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": 1538,
+    "Artist End Date": 1591,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500103318",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q599474",
+    "Object Date": "possibly 16th century",
+    "Object Begin Date": 1500,
+    "Object End Date": 1599,
+    "Medium": "Wax",
+    "Dimensions": "Framed: 5 1/8 × 4 1/2 in. (13 × 11.4 cm)",
+    "Credit Line": "The Glenn Tilley Morse Collection, Bequest of Glenn Tilley Morse, 1950",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Sculpture-Miniature",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/200717",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Profiles|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300123319|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q4382010|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/149031.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 161564,
+        "role": "Maker",
+        "name": "Possibly by Antonio Abondio",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500103318",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q599474",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 13.017526,
+          "Width": 11.430023
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Profiles",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300123319",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q4382010"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

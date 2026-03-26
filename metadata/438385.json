@@ -1,0 +1,122 @@
+{
+  "object_id": 438385,
+  "excel_metadata": {
+    "Object Number": "32.100.40bc",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 438385,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1932.0,
+    "Object Name": "Painting, wings of a triptych",
+    "Title": "Saint John the Baptist; Saint Francis Receiving the Stigmata",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16181.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Gerard David",
+    "Artist Display Bio": "Netherlandish, Oudewater ca. 1455–1523 Bruges",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "David, Gerard",
+    "Artist Nationality": "Netherlandish",
+    "Artist Begin Date": "1455",
+    "Artist End Date": "1523",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500025998",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q333380",
+    "Object Date": "ca. 1485–90",
+    "Object Begin Date": 1485,
+    "Object End Date": 1490,
+    "Medium": "Oil on wood",
+    "Dimensions": "Left wing, overall 18 x 6 5/8 in. (45.7 x 16.8 cm), original painted surface 17 5/8 x 5 7/8 in. (44.8 x 14.9 cm); right wing, overall 17 7/8 x 6 1/2 in. (45.4 x 16.5 cm), original painted surface 17 5/8 x 5 3/4 in. (44.8 x 14.6 cm)",
+    "Credit Line": "The Friedsam Collection, Bequest of Michael Friedsam, 1931",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/438385",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19911921",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Saint Francis|Saint John the Baptist|Crucifixion",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ulan/500349636|http://vocab.getty.edu/page/ia/901001056|http://vocab.getty.edu/page/aat/300404300",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q676555|https://www.wikidata.org/wiki/Q40662|https://www.wikidata.org/wiki/Q3235597"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-18296-019.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-32_100_40bc-IRR_2.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-32_100_40bc-IRR_1.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-32_100_40bc-XRAY.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 161810,
+        "role": "Artist",
+        "name": "Gerard David",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500025998",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q333380",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Framed",
+        "elementDescription": "right wing",
+        "elementMeasurements": {
+          "Depth": 3.81,
+          "Height": 52.0701,
+          "Width": 22.225
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 45.7,
+          "Width": 16.8
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": "left wing",
+        "elementMeasurements": {
+          "Depth": 3.81,
+          "Height": 51.4351,
+          "Width": 20.955
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Saint Francis",
+        "AAT_URL": "http://vocab.getty.edu/page/ulan/500349636",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q676555"
+      },
+      {
+        "term": "Saint John the Baptist",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901001056",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q40662"
+      },
+      {
+        "term": "Crucifixion",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300404300",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3235597"
+      }
+    ]
+  }
+}

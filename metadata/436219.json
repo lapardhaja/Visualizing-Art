@@ -1,0 +1,95 @@
+{
+  "object_id": 436219,
+  "excel_metadata": {
+    "Object Number": "62.122.66",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436219,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1962.0,
+    "Object Name": "Painting, miniature",
+    "Title": "Portrait of a Woman",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10856.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Frédéric Dubois",
+    "Artist Display Bio": "French, active ca. 1780–1819",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Dubois, Frédéric",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1780",
+    "Artist End Date": "1819",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500001723",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q21288920",
+    "Object Date": NaN,
+    "Object Begin Date": 1793,
+    "Object End Date": 1794,
+    "Medium": "Ivory",
+    "Dimensions": "Diameter 2 5/8 in. (66 mm)",
+    "Credit Line": "Bequest of Millie Bruhl Fredrick, 1962",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Miniatures",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436219",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19914089",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Portraits|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP327720.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 108563,
+        "role": "Artist",
+        "name": "Frédéric Dubois",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500001723",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q21288920",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 6.7,
+          "Width": 6.7
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

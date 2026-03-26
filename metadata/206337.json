@@ -1,0 +1,103 @@
+{
+  "object_id": 206337,
+  "excel_metadata": {
+    "Object Number": "1975.312.4",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 206337,
+    "Gallery Number": 552,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1975,
+    "Object Name": "Bust",
+    "Title": "Bust of a Man",
+    "Culture": "French, Paris",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 16372,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Jean-Baptiste Lemoyne the Younger",
+    "Artist Display Bio": "French, Paris 1704–1778 Paris",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Lemoyne, Jean-Baptiste, the Younger",
+    "Artist Nationality": "French",
+    "Artist Begin Date": 1704,
+    "Artist End Date": 1778,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500015004",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q507800",
+    "Object Date": "ca. 1745–50",
+    "Object Begin Date": 1740,
+    "Object End Date": 1755,
+    "Medium": "Bust: pale gray terracotta, covered with a buff colored wash; socle: breccia violetta marble",
+    "Dimensions": "Height (bust): 14 1/2 in. (36.8 cm); Height (socle): 4 in. (10.2 cm)",
+    "Credit Line": "Purchase, Charles Ulrick and Josephine Bay Foundation Inc. Gift, 1975",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Sculpture",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/206337",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q116373969",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/ES4856.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/ES4845.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 163727,
+        "role": "Artist",
+        "name": "Jean-Baptiste Lemoyne the Younger",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500015004",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q507800",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Height",
+        "elementDescription": "socle",
+        "elementMeasurements": {
+          "Height": 10.16002
+        }
+      },
+      {
+        "elementName": "Height",
+        "elementDescription": "bust",
+        "elementMeasurements": {
+          "Height": 36.830074
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

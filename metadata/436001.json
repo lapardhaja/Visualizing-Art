@@ -1,0 +1,117 @@
+{
+  "object_id": 436001,
+  "excel_metadata": {
+    "Object Number": "29.100.63",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 436001,
+    "Gallery Number": 811.0,
+    "Department": "European Paintings",
+    "AccessionYear": 1929.0,
+    "Object Name": "Painting",
+    "Title": "Jo, La Belle Irlandaise",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16179.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Gustave Courbet",
+    "Artist Display Bio": "French, Ornans 1819–1877 La Tour-de-Peilz",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Courbet, Gustave",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1819",
+    "Artist End Date": "1877",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500010927",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q34618",
+    "Object Date": "1865–66",
+    "Object Begin Date": 1865,
+    "Object End Date": 1866,
+    "Medium": "Oil on canvas",
+    "Dimensions": "22 x 26 in. (55.9 x 66 cm)",
+    "Credit Line": "H. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436001",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19904849",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Women|Mirrors|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/aat/300037682|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q35197|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-23236-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 161790,
+        "role": "Artist",
+        "name": "Gustave Courbet",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500010927",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q34618",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 55.9,
+          "Width": 66
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 8.255,
+          "Height": 77.4702,
+          "Width": 88.9002
+        }
+      },
+      {
+        "elementName": "Glazing",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 56.515114,
+          "Width": 67.310135
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Mirrors",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300037682",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q35197"
+      }
+    ]
+  }
+}

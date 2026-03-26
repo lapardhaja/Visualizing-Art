@@ -1,0 +1,104 @@
+{
+  "object_id": 198921,
+  "excel_metadata": {
+    "Object Number": "41.190.43",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 198921,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1941,
+    "Object Name": "Armorial tondo",
+    "Title": "Armorial tondo",
+    "Culture": "Italian, Florence",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 16519,
+    "Artist Role": "Maker",
+    "Artist Prefix": "School of",
+    "Artist Display Name": "Giovanni della Robbia",
+    "Artist Display Bio": "Italian, Florence 1469–1529/30 Florence",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "della Robbia, Giovanni",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": 1469,
+    "Artist End Date": 1530,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500006945",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q1010700",
+    "Object Date": "15th–16th century",
+    "Object Begin Date": 1400,
+    "Object End Date": 1599,
+    "Medium": "Painted and glazed terracotta",
+    "Dimensions": "Diameter: 27 in. (68.6 cm)",
+    "Credit Line": "Bequest of George Blumenthal, 1941",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Sculpture",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/198921",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Fruit|Bulls|Flowers|Leaves",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300011868|http://vocab.getty.edu/page/aat/300250117|http://vocab.getty.edu/page/aat/300132399|http://vocab.getty.edu/page/aat/300011892",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q1364|https://www.wikidata.org/wiki/Q693690|https://www.wikidata.org/wiki/Q506|https://www.wikidata.org/wiki/Q33971"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/126943.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 165192,
+        "role": "Maker",
+        "name": "School of Giovanni della Robbia",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500006945",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1010700",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Diameter",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Diameter": 68.58014
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Fruit",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300011868",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q1364"
+      },
+      {
+        "term": "Bulls",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250117",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q693690"
+      },
+      {
+        "term": "Flowers",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132399",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q506"
+      },
+      {
+        "term": "Leaves",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300011892",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q33971"
+      }
+    ]
+  }
+}

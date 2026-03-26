@@ -1,0 +1,95 @@
+{
+  "object_id": 437945,
+  "excel_metadata": {
+    "Object Number": "39.65.7",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437945,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1939.0,
+    "Object Name": "Painting",
+    "Title": "Portrait of a Woman",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16274.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Willem Wissing",
+    "Artist Display Bio": "Dutch, Amsterdam or The Hague 1656–1687 Stamford",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Wissing, Willem",
+    "Artist Nationality": "Dutch",
+    "Artist Begin Date": "1656",
+    "Artist End Date": "1687",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500011381",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q2126155",
+    "Object Date": "ca. 1687",
+    "Object Begin Date": 1682,
+    "Object End Date": 1687,
+    "Medium": "Oil on canvas",
+    "Dimensions": "49 3/4 x 40 1/4 in. (126.4 x 102.2 cm)",
+    "Credit Line": "Bequest of Jacob Ruppert, 1939",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437945",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912119",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Portraits|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP169636.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162747,
+        "role": "Artist",
+        "name": "Willem Wissing",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500011381",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q2126155",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 126.4,
+          "Width": 102.2
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

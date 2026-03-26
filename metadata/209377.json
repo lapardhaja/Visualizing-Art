@@ -1,0 +1,102 @@
+{
+  "object_id": 209377,
+  "excel_metadata": {
+    "Object Number": "1974.356.445",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 209377,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1974,
+    "Object Name": "Saucer",
+    "Title": "Saucer (part of a service)",
+    "Culture": "German, Meissen",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 1648323551,
+    "Artist Role": "Manufactory|Factory director",
+    "Artist Prefix": " | ",
+    "Artist Display Name": "Meissen Manufactory|Marcolini Period",
+    "Artist Display Bio": "German, 1710–present|1774–1814",
+    "Artist Suffix": " | ",
+    "Artist Alpha Sort": "Meissen Manufactory|MARCOLINI CAMILLO",
+    "Artist Nationality": "German| ",
+    "Artist Begin Date": "1710      |1736      ",
+    "Artist End Date": "9999      |1836      ",
+    "Artist Gender": "|",
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500054662|",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q822407|",
+    "Object Date": "ca. 1780–85",
+    "Object Begin Date": 1775,
+    "Object End Date": 1790,
+    "Medium": "Hard-paste porcelain",
+    "Dimensions": "Diameter: 5 1/4 in. (13.3 cm)",
+    "Credit Line": "The Lesley and Emma Sheafer Collection, Bequest of Emma A. Sheafer, 1973",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Ceramics-Porcelain",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/209377",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Birds|Plants",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300266506|http://vocab.getty.edu/page/aat/300132360",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q5113|https://www.wikidata.org/wiki/Q756"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/205155.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 164832,
+        "role": "Manufactory",
+        "name": "Meissen Manufactory",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500054662",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q822407",
+        "gender": ""
+      },
+      {
+        "constituentID": 35513,
+        "role": "Factory director",
+        "name": "Marcolini Period",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Diameter",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Diameter": 13.335027
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Birds",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300266506",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q5113"
+      },
+      {
+        "term": "Plants",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132360",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q756"
+      }
+    ]
+  }
+}

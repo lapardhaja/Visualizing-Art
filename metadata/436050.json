@@ -1,0 +1,119 @@
+{
+  "object_id": 436050,
+  "excel_metadata": {
+    "Object Number": "12.41.1–4",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 436050,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1912.0,
+    "Object Name": "Painting, part of an altarpiece",
+    "Title": "Saint Lucy and Her Mother at the Shrine of Saint Agatha; Saint Lucy Giving Alms; Saint Lucy before Paschasius; Saint Lucy Resisting Efforts to Move Her",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16359.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Giovanni di Bartolommeo Cristiani",
+    "Artist Display Bio": "Italian, Florence, active 1367–98",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Cristiani, Giovanni di Bartolommeo",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1367",
+    "Artist End Date": "1398",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500007398",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q3768475",
+    "Object Date": NaN,
+    "Object Begin Date": 1367,
+    "Object End Date": 1398,
+    "Medium": "Tempera on wood, gold ground",
+    "Dimensions": "(.4 and .3) 9 3/4 x 15 1/8 in. (24.8 x 38.4 cm); (.1) 9 1/2 x 15 1/4 in. (24.1 x 38.7 cm); (.2) 10 x 15 in. (25.4 x 38.1 cm)",
+    "Credit Line": "Rogers Fund, 1912",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436050",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912182",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Cows|Soldiers|Men|Women|Saints|Angels",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300250120|http://vocab.getty.edu/page/aat/300185678|http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/aat/300150555|http://vocab.getty.edu/page/aat/300379004",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q830|https://www.wikidata.org/wiki/Q4991371|https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q43115|https://www.wikidata.org/wiki/Q235113"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-24194-001.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/DP-24194-003.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/DP-24194-005.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/DP-24194-007.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 163592,
+        "role": "Artist",
+        "name": "Giovanni di Bartolommeo Cristiani",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500007398",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3768475",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 24.8,
+          "Width": 38.4
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Soldiers",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300185678",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q4991371"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Cows",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250120",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q830"
+      },
+      {
+        "term": "Angels",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379004",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q235113"
+      },
+      {
+        "term": "Saints",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300150555",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q43115"
+      }
+    ]
+  }
+}

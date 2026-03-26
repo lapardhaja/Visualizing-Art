@@ -1,0 +1,105 @@
+{
+  "object_id": 438848,
+  "excel_metadata": {
+    "Object Number": "2006.258",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 438848,
+    "Gallery Number": 807.0,
+    "Department": "European Paintings",
+    "AccessionYear": 2006.0,
+    "Object Name": "Painting",
+    "Title": "Parochialstrasse in Berlin",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16457.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Eduard Gaertner",
+    "Artist Display Bio": "German, Berlin 1801–1877 Zechlin",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Gaertner, Eduard",
+    "Artist Nationality": "German",
+    "Artist Begin Date": "1801",
+    "Artist End Date": "1877",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500115624",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q880509",
+    "Object Date": "1831",
+    "Object Begin Date": 1831,
+    "Object End Date": 1831,
+    "Medium": "Oil on canvas",
+    "Dimensions": "16 x 11 in. (40.6 x 27.9 cm)",
+    "Credit Line": "Catharine Lorillard Wolfe Collection, Wolfe Fund, and funds from various donors, by exchange, 2006\r\n",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/438848",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19913475",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Buildings|Men|Streets|Dogs",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300004789|http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300008247|http://vocab.getty.edu/page/aat/300265714",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q41176|https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q79007|https://www.wikidata.org/wiki/Q144"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP157664.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 164574,
+        "role": "Artist",
+        "name": "Eduard Gaertner",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115624",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q880509",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 40.6401,
+          "Width": 27.9401
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Buildings",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300004789",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q41176"
+      },
+      {
+        "term": "Streets",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300008247",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q79007"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Dogs",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300265714",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q144"
+      }
+    ]
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "object_id": 437095,
+  "excel_metadata": {
+    "Object Number": "50.151",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437095,
+    "Gallery Number": 802.0,
+    "Department": "European Paintings",
+    "AccessionYear": 1950.0,
+    "Object Name": "Painting",
+    "Title": "Calling the Cows Home",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16490.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Jean-François Millet",
+    "Artist Display Bio": "French, Gruchy 1814–1875 Barbizon",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Millet, Jean-François",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1814",
+    "Artist End Date": "1875",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500012529",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q148458",
+    "Object Date": "ca. 1872",
+    "Object Begin Date": 1872,
+    "Object End Date": 1872,
+    "Medium": "Oil on wood",
+    "Dimensions": "37 1/4 x 25 1/2 in. (94.6 x 64.8 cm)",
+    "Credit Line": "Gift of Mrs. Arthur Whitney, 1950",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437095",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19905209",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Cows",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300250120",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q830"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP345570.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 164909,
+        "role": "Artist",
+        "name": "Jean-François Millet",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500012529",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q148458",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 94.6,
+          "Width": 64.8
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Cows",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250120",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q830"
+      }
+    ]
+  }
+}

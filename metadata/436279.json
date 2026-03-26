@@ -1,0 +1,95 @@
+{
+  "object_id": 436279,
+  "excel_metadata": {
+    "Object Number": "05.31",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436279,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1905.0,
+    "Object Name": "Painting, sketch",
+    "Title": "The Three Graces",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16623.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "William Etty",
+    "Artist Display Bio": "British, York 1787–1849 York",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Etty, William",
+    "Artist Nationality": "British",
+    "Artist Begin Date": "1787",
+    "Artist End Date": "1849",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500115284",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q766362",
+    "Object Date": NaN,
+    "Object Begin Date": 1807,
+    "Object End Date": 1849,
+    "Medium": "Oil on millboard",
+    "Dimensions": "22 1/2 x 18 3/4 in. (57.2 x 47.6 cm)",
+    "Credit Line": "Rogers Fund, 1905",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436279",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19911809",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Female Nudes|Greek Mythology",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300189568|http://vocab.getty.edu/page/ia/901000969",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q40446|https://www.wikidata.org/wiki/Q34726"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP169626.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 166238,
+        "role": "Artist",
+        "name": "William Etty",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115284",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q766362",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 57.2,
+          "Width": 47.6
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Female Nudes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300189568",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q40446"
+      },
+      {
+        "term": "Greek Mythology",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000969",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q34726"
+      }
+    ]
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "object_id": 437023,
+  "excel_metadata": {
+    "Object Number": "49.39",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437023,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1949.0,
+    "Object Name": "Painting",
+    "Title": "Madonna and Child Enthroned with Angels",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 11863.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Master of Varlungo",
+    "Artist Display Bio": "Italian, Florentine, active ca. 1285–ca. 1310",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Master of Varlungo",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1285",
+    "Artist End Date": "1310",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500000570",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q21289491",
+    "Object Date": NaN,
+    "Object Begin Date": 1275,
+    "Object End Date": 1299,
+    "Medium": "Tempera on wood, silver ground",
+    "Dimensions": "Overall 51 1/4 x 32 5/8 in. (130.2 x 82.9 cm); painted surface 50 1/4 x 28 in. (127.6 x 71.1 cm)",
+    "Credit Line": "Gift of Robert Lehman, 1949",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437023",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912052",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Madonna and Child|Angels",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901000052|http://vocab.getty.edu/page/aat/300379004",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q9309699|https://www.wikidata.org/wiki/Q235113"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT242200.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 118633,
+        "role": "Artist",
+        "name": "Master of Varlungo",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500000570",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q21289491",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 130.2,
+          "Width": 82.9
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Angels",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379004",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q235113"
+      },
+      {
+        "term": "Madonna and Child",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000052",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q9309699"
+      }
+    ]
+  }
+}

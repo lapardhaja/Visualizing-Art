@@ -1,0 +1,110 @@
+{
+  "object_id": 209924,
+  "excel_metadata": {
+    "Object Number": "65.80.13",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 209924,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1965,
+    "Object Name": "Fan",
+    "Title": "Brisé fan, with representations of classical figures flanking Venus and Cupid",
+    "Culture": "Chinese, for British market",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 16202,
+    "Artist Role": "Artist",
+    "Artist Prefix": "Based on a composition by",
+    "Artist Display Name": "Angelica Kauffmann",
+    "Artist Display Bio": "Swiss, Chur 1741–1807 Rome",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Kauffmann, Angelica",
+    "Artist Nationality": "Swiss",
+    "Artist Begin Date": 1741,
+    "Artist End Date": 1807,
+    "Artist Gender": "Female",
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500115055",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q123098",
+    "Object Date": "ca. 1795 - 1800",
+    "Object Begin Date": 1790,
+    "Object End Date": 1800,
+    "Medium": "PIerced, carved, gilded and painted ivory; painted paper; metal",
+    "Dimensions": "confirmed: 9 3/4 in. × 17 in. × 1 1/2 in. (24.8 × 43.2 × 3.8 cm)",
+    "Credit Line": "Gift of Mrs. William Randolph Hearst, 1965",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Fans",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/209924",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Women|Female Nudes|Cupid|Venus",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/aat/300189568|http://vocab.getty.edu/page/aat/300380105|http://vocab.getty.edu/page/ia/901001064",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q40446|https://www.wikidata.org/wiki/Q5011|https://www.wikidata.org/wiki/Q47652"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP-12912-160.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/DP-12912-161.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/LC-65_80_13-001.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/LC-65_80_13-002.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 162023,
+        "role": "Artist",
+        "name": "Based on a composition by Angelica Kauffmann",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115055",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q123098",
+        "gender": "Female"
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": "confirmed",
+        "elementMeasurements": {
+          "Depth": 3.8100076,
+          "Height": 24.8,
+          "Width": 43.2
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Female Nudes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300189568",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q40446"
+      },
+      {
+        "term": "Cupid",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300380105",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q5011"
+      },
+      {
+        "term": "Venus",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901001064",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q47652"
+      }
+    ]
+  }
+}

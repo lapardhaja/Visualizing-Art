@@ -1,0 +1,100 @@
+{
+  "object_id": 436187,
+  "excel_metadata": {
+    "Object Number": "08.136.5",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436187,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1908.0,
+    "Object Name": "Painting",
+    "Title": "A Dragoon on Horseback",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16391.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Edouard Detaille",
+    "Artist Display Bio": "French, Paris 1848–1912 Paris",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Detaille, Edouard",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1848",
+    "Artist End Date": "1912",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500014480",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q724148",
+    "Object Date": "1876",
+    "Object Begin Date": 1876,
+    "Object End Date": 1876,
+    "Medium": "Oil on wood",
+    "Dimensions": "9 1/2 x 5 3/8 in. (24.1 x 13.7 cm)",
+    "Credit Line": "Bequest of Martha T. Fiske Collord, in memory of her first husband, Josiah M. Fiske, 1908",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436187",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19913376",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Soldiers|Horses",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300185678|http://vocab.getty.edu/page/aat/300250148",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q4991371|https://www.wikidata.org/wiki/Q726"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/ep08.136.5.bw.R.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 163910,
+        "role": "Artist",
+        "name": "Edouard Detaille",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500014480",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q724148",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 24.1,
+          "Width": 13.7
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Soldiers",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300185678",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q4991371"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Horses",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250148",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q726"
+      }
+    ]
+  }
+}

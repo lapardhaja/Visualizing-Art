@@ -1,0 +1,97 @@
+{
+  "object_id": 205709,
+  "excel_metadata": {
+    "Object Number": 1974.209,
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 205709,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1974,
+    "Object Name": "Bust",
+    "Title": "William Pitt the Younger (1759–1806)",
+    "Culture": "British",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 16378,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Joseph Nollekens",
+    "Artist Display Bio": "British, London 1737–1823 London",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Nollekens, Joseph",
+    "Artist Nationality": "British",
+    "Artist Begin Date": 1737,
+    "Artist End Date": 1823,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500115852",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q2402687",
+    "Object Date": 1807,
+    "Object Begin Date": 1807,
+    "Object End Date": 1807,
+    "Medium": "Marble_x000D_\n",
+    "Dimensions": "Height: 23 1/2 in. (59.7 cm)",
+    "Credit Line": "Gift of Mrs. Francis Henry Lenygon, 1974",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Sculpture",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/205709",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP-18413-005.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/DP-18413-006.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP-18413-034.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 163783,
+        "role": "Artist",
+        "name": "Joseph Nollekens",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115852",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q2402687",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Height",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 59.69012
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

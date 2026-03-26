@@ -1,0 +1,97 @@
+{
+  "object_id": 199356,
+  "excel_metadata": {
+    "Object Number": "43.100.46",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 199356,
+    "Gallery Number": 533,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1943,
+    "Object Name": "Figure",
+    "Title": "Cynthio",
+    "Culture": "German, Höchst",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 3707616554,
+    "Artist Role": "Manufactory|Modeler",
+    "Artist Prefix": " |Attributed to",
+    "Artist Display Name": "Höchst Manufactory|Johann Christoph Ludwig von Lücke",
+    "Artist Display Bio": "German, 1746–1796|German, Dresden 1703–1780 Gdansk (Danzig)",
+    "Artist Suffix": " | ",
+    "Artist Alpha Sort": "Höchst Manufactory|Lücke, Johann Christoph Ludwig von",
+    "Artist Nationality": "German|German",
+    "Artist Begin Date": "1746      |1703      ",
+    "Artist End Date": "1796      |1780      ",
+    "Artist Gender": "|",
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500331057|http://vocab.getty.edu/page/ulan/500084895",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q97105166|https://www.wikidata.org/wiki/Q15031269",
+    "Object Date": "ca. 1750–55",
+    "Object Begin Date": 1745,
+    "Object End Date": 1760,
+    "Medium": "Hard-paste porcelain",
+    "Dimensions": "H. 8-5/8 in. (21.9 cm.)",
+    "Credit Line": "Gift of R. Thornton Wilson, in memory of Florence Ellsworth Wilson, 1943",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Ceramics-Porcelain",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/199356",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q116310786",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/ES7930.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 37076,
+        "role": "Manufactory",
+        "name": "Höchst Manufactory",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500331057",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q97105166",
+        "gender": ""
+      },
+      {
+        "constituentID": 165541,
+        "role": "Modeler",
+        "name": "Attributed to Johann Christoph Ludwig von Lücke",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500084895",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q15031269",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 21.9
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      }
+    ]
+  }
+}

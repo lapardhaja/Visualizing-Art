@@ -1,0 +1,109 @@
+{
+  "object_id": 437873,
+  "excel_metadata": {
+    "Object Number": "14.40.639",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 437873,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1914.0,
+    "Object Name": "Painting",
+    "Title": "Philip IV (1605–1665), King of Spain",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16261.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Velázquez (Diego Rodríguez de Silva y Velázquez)",
+    "Artist Display Bio": "Spanish, Seville 1599–1660 Madrid",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Velázquez (Diego Rodríguez de Silva y Velázquez)",
+    "Artist Nationality": "Spanish",
+    "Artist Begin Date": "1599",
+    "Artist End Date": "1660",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500016881",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q297",
+    "Object Date": "probably 1624",
+    "Object Begin Date": 1624,
+    "Object End Date": 1624,
+    "Medium": "Oil on canvas",
+    "Dimensions": "78 3/4 x 40 1/2 in. (200 x 102.9 cm)",
+    "Credit Line": "Bequest of Benjamin Altman, 1913",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437873",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19911409",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Kings|Philip IV|Men|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025481|http://vocab.getty.edu/page/ulan/500282775|http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q12097|https://www.wikidata.org/wiki/Q691402|https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP239023.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/vreceiptfront1211.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/vreceiptback1211.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-14_40_639-2.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 162615,
+        "role": "Artist",
+        "name": "Velázquez (Diego Rodríguez de Silva y Velázquez)",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500016881",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q297",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 200,
+          "Width": 102.9
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Kings",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025481",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q12097"
+      },
+      {
+        "term": "Philip IV",
+        "AAT_URL": "http://vocab.getty.edu/page/ulan/500282775",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q691402"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

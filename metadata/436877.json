@@ -1,0 +1,100 @@
+{
+  "object_id": 436877,
+  "excel_metadata": {
+    "Object Number": "39.65.4",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436877,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1939.0,
+    "Object Name": "Painting",
+    "Title": "Prince Regent Luitpold of Bavaria (1821–1912)",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16458.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Franz von Lenbach",
+    "Artist Display Bio": "German, Schrobenhausen 1836–1904 Munich",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Lenbach, Franz von",
+    "Artist Nationality": "German",
+    "Artist Begin Date": "1836",
+    "Artist End Date": "1904",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500009477",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q585323",
+    "Object Date": "1902",
+    "Object Begin Date": 1902,
+    "Object End Date": 1902,
+    "Medium": "Oil on board",
+    "Dimensions": "30 x 24 1/4 in. (76.2 x 61.5 cm)",
+    "Credit Line": "Bequest of Jacob Ruppert, 1939",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436877",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19914242",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Princes|Men|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025482|http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q2747456|https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-20644-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 164587,
+        "role": "Artist",
+        "name": "Franz von Lenbach",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500009477",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q585323",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 76.2,
+          "Width": 61.6
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Princes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025482",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q2747456"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

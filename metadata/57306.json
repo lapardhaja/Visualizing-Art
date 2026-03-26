@@ -1,0 +1,95 @@
+{
+  "object_id": 57306,
+  "excel_metadata": {
+    "Object Number": "38.106.13",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 57306,
+    "Gallery Number": NaN,
+    "Department": "Asian Art",
+    "AccessionYear": 1938.0,
+    "Object Name": "Painting",
+    "Title": NaN,
+    "Culture": "Japan",
+    "Period": "Edo period (1615–1868)",
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 1310.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Hokusai School",
+    "Artist Display Bio": " ",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Hokusai School",
+    "Artist Nationality": " ",
+    "Artist Begin Date": "          ",
+    "Artist End Date": "          ",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": NaN,
+    "Artist Wikidata URL": NaN,
+    "Object Date": "19th century",
+    "Object Begin Date": 1800,
+    "Object End Date": 1868,
+    "Medium": "Unmounted painting; ink and watercolor on paper",
+    "Dimensions": "8 3/8 x 11 3/8 in. (21.3 x 28.9 cm)",
+    "Credit Line": "Fletcher Fund, 1938",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/57306",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q78723888",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Bees|Monkeys",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300310662|http://vocab.getty.edu/page/aat/300250028",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q7391|https://www.wikidata.org/wiki/Q1367"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/as/original/38_106_13_115897.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 13109,
+        "role": "Artist",
+        "name": "Hokusai School",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 21.3,
+          "Width": 28.9
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Bees",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300310662",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q7391"
+      },
+      {
+        "term": "Monkeys",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250028",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q1367"
+      }
+    ]
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "object_id": 12696,
+  "excel_metadata": {
+    "Object Number": "24.115.2",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 12696,
+    "Gallery Number": 724.0,
+    "Department": "The American Wing",
+    "AccessionYear": 1924.0,
+    "Object Name": "Painting",
+    "Title": "Mrs. John Biddle (Eliza Falconer Bradish)",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16249.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Thomas Sully",
+    "Artist Display Bio": "American, Horncastle, Lincolnshire 1783–1872 Philadelphia, Pennsylvania",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Sully, Thomas",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1783",
+    "Artist End Date": "1872",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500006873",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q786545",
+    "Object Date": "1818",
+    "Object Begin Date": 1818,
+    "Object End Date": 1818,
+    "Medium": "Oil on canvas",
+    "Dimensions": "30 x 24 7/8 in. (76.2 x 63.2 cm)",
+    "Credit Line": "Gift of General John Biddle, 1924",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/12696",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20173636",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Women|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DT236872.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162494,
+        "role": "Artist",
+        "name": "Thomas Sully",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500006873",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q786545",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 76.2,
+          "Width": 63.2
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 12.2,
+          "Height": 96.5,
+          "Width": 83.8
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

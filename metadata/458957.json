@@ -1,0 +1,95 @@
+{
+  "object_id": 458957,
+  "excel_metadata": {
+    "Object Number": "1975.1.17",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 458957,
+    "Gallery Number": NaN,
+    "Department": "Robert Lehman Collection",
+    "AccessionYear": 1975.0,
+    "Object Name": "Painting fragment",
+    "Title": "Head of an Angel in Full Face",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16250.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Taddeo di Bartolo",
+    "Artist Display Bio": "Italian, Siena ca. 1362–1422 Siena",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Taddeo di Bartolo",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1362",
+    "Artist End Date": "1422",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500029513",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q740231",
+    "Object Date": "ca. 1397",
+    "Object Begin Date": 1394,
+    "Object End Date": 1400,
+    "Medium": "Tempera on wood (paint around head scraped away and vacant area gessoed)",
+    "Dimensions": "Overall: 6 1/4 × 4 3/4 in. (15.9 × 12.1 cm)",
+    "Credit Line": "Robert Lehman Collection, 1975",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/458957",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20186825",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Angels",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300379004",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q235113"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/rl/original/DP293274.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/rl/original/DP317337.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/DT3008.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/Angel0222.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/ep1975.1.17.bw.R.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 162505,
+        "role": "Artist",
+        "name": "Taddeo di Bartolo",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500029513",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q740231",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": "Overall",
+        "elementMeasurements": {
+          "Height": 15.9,
+          "Width": 12.1
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Angels",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379004",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q235113"
+      }
+    ]
+  }
+}

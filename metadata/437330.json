@@ -1,0 +1,112 @@
+{
+  "object_id": 437330,
+  "excel_metadata": {
+    "Object Number": "24.45.2",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 437330,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1924.0,
+    "Object Name": "Painting",
+    "Title": "Saints Peter and John Healing the Lame Man",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16227.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Nicolas Poussin",
+    "Artist Display Bio": "French, Les Andelys 1594–1665 Rome",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Poussin, Nicolas",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1594",
+    "Artist End Date": "1665",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500005036",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q41554",
+    "Object Date": "1655",
+    "Object Begin Date": 1655,
+    "Object End Date": 1655,
+    "Medium": "Oil on canvas",
+    "Dimensions": "49 1/2 x 65 in. (125.7 x 165.1 cm)",
+    "Credit Line": "Marquand Fund, 1924",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437330",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19911493",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Saint Peter|Saint John the Evangelist",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/ia/901000056|http://vocab.getty.edu/page/ia/901001171",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q33923|https://www.wikidata.org/wiki/Q328804"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP340180.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-24_45_2-2.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-24_45_2-3.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 162270,
+        "role": "Artist",
+        "name": "Nicolas Poussin",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500005036",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q41554",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 125.7,
+          "Width": 165.1
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 13.335027,
+          "Height": 160.02032,
+          "Width": 201.29541
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Saint John the Evangelist",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901001171",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q328804"
+      },
+      {
+        "term": "Saint Peter",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000056",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q33923"
+      }
+    ]
+  }
+}

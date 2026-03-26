@@ -1,0 +1,101 @@
+{
+  "object_id": 200366,
+  "excel_metadata": {
+    "Object Number": "48.187.404a, b",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 200366,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1948,
+    "Object Name": "Bowl with cover",
+    "Title": "Bowl with cover (écuelle)",
+    "Culture": "French, Paris",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 3693,
+    "Artist Role": "Maker",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Nicolas-Antoine de Saint-Nicolas",
+    "Artist Display Bio": "master 1714, recorded 1755, not recorded 1756",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "de Saint-Nicolas Nicolas-Antoine",
+    "Artist Nationality": " ",
+    "Artist Begin Date": 1684,
+    "Artist End Date": 1755,
+    "Artist Gender": null,
+    "Artist ULAN URL": null,
+    "Artist Wikidata URL": null,
+    "Object Date": "1725–27",
+    "Object Begin Date": 1725,
+    "Object End Date": 1727,
+    "Medium": "Silver",
+    "Dimensions": "Overall: 4 1/8 × 6 7/8 × 11 13/16 in. (10.5 × 17.5 × 30 cm)",
+    "Credit Line": "Bequest of Catherine D. Wentworth, 1948",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Metalwork-Silver",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/200366",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Coat of Arms",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300126352",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q14659"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/155411.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/142993.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/143046.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/143047.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/163945.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/163946.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/163947.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/143044.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/143045.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/143088.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 36932,
+        "role": "Maker",
+        "name": "Nicolas-Antoine de Saint-Nicolas",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 10.5,
+          "Length": 30.00381,
+          "Width": 17.5
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Coat of Arms",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300126352",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q14659"
+      }
+    ]
+  }
+}

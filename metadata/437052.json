@@ -1,0 +1,126 @@
+{
+  "object_id": 437052,
+  "excel_metadata": {
+    "Object Number": "87.20.1",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437052,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1887.0,
+    "Object Name": "Painting",
+    "Title": "1807, Friedland",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16483.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Ernest Meissonier",
+    "Artist Display Bio": "French, Lyons 1815–1891 Paris",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Meissonier, Ernest",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1815",
+    "Artist End Date": "1891",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500001155",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q354786",
+    "Object Date": "ca. 1861–75",
+    "Object Begin Date": 1860,
+    "Object End Date": 1875,
+    "Medium": "Oil on canvas",
+    "Dimensions": "53 1/2 x 95 1/2 in. (135.9 x 242.6 cm)",
+    "Credit Line": "Gift of Henry Hilton, 1887",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437052",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q9546923",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Wars|Army|Soldiers|Napoleon I|Horses",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300055314|http://vocab.getty.edu/page/aat/300137542|http://vocab.getty.edu/page/aat/300185678|http://vocab.getty.edu/page/ulan/500122388|http://vocab.getty.edu/page/aat/300250148",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q198|https://www.wikidata.org/wiki/Q37726|https://www.wikidata.org/wiki/Q4991371|https://www.wikidata.org/wiki/Q517|https://www.wikidata.org/wiki/Q726"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT2144.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 164833,
+        "role": "Artist",
+        "name": "Ernest Meissonier",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500001155",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q354786",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Other",
+        "elementDescription": "Picture + frame",
+        "elementMeasurements": {
+          "Weight": 95.25538
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 135.9,
+          "Width": 242.6
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 19.05,
+          "Height": 179.0704,
+          "Width": 289.5606
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Wars",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300055314",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q198"
+      },
+      {
+        "term": "Army",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300137542",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q37726"
+      },
+      {
+        "term": "Soldiers",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300185678",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q4991371"
+      },
+      {
+        "term": "Napoleon I",
+        "AAT_URL": "http://vocab.getty.edu/page/ulan/500122388",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q517"
+      },
+      {
+        "term": "Horses",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250148",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q726"
+      }
+    ]
+  }
+}

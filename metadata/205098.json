@@ -1,0 +1,96 @@
+{
+  "object_id": 205098,
+  "excel_metadata": {
+    "Object Number": "69.45.1",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 205098,
+    "Gallery Number": 532,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1969,
+    "Object Name": "Statuette",
+    "Title": "Venus Anadyomene",
+    "Culture": "French, Paris",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 16227,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Barthélemy Prieur",
+    "Artist Display Bio": "French, Berzieux ca. 1536–1611 Paris",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Prieur, Barthélemy",
+    "Artist Nationality": "French",
+    "Artist Begin Date": 1536,
+    "Artist End Date": 1611,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500022881",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q2885997",
+    "Object Date": "early 17th century",
+    "Object Begin Date": 1600,
+    "Object End Date": 1615,
+    "Medium": "Bronze",
+    "Dimensions": "H. 9-7/8 in. (25.1 cm.)",
+    "Credit Line": "Bequest of Georgette G. V. Fahnestock, 1969",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Sculpture-Bronze",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/205098",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q116306921",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Female Nudes|Venus",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300189568|http://vocab.getty.edu/page/ia/901001064",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q40446|https://www.wikidata.org/wiki/Q47652"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/SF69_45_1_img1.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/SF69_45_1_img2.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 162274,
+        "role": "Artist",
+        "name": "Barthélemy Prieur",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500022881",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q2885997",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 25.1
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Female Nudes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300189568",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q40446"
+      },
+      {
+        "term": "Venus",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901001064",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q47652"
+      }
+    ]
+  }
+}

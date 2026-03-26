@@ -1,0 +1,105 @@
+{
+  "object_id": 441363,
+  "excel_metadata": {
+    "Object Number": "2017.202.10",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 441363,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 2017.0,
+    "Object Name": "Painting",
+    "Title": "The Arab Sage",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 12786.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "German Painter",
+    "Artist Display Bio": "19th century",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "German Painter",
+    "Artist Nationality": "German",
+    "Artist Begin Date": "          ",
+    "Artist End Date": "          ",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": NaN,
+    "Artist Wikidata URL": NaN,
+    "Object Date": NaN,
+    "Object Begin Date": 1800,
+    "Object End Date": 1899,
+    "Medium": "Oil on canvas",
+    "Dimensions": "13 3/4 x 10 1/2 in. (34.9 x 26.7 cm)",
+    "Credit Line": "Gift of Kenneth Jay Lane, 2017",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/441363",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q78633159",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits|Writing|Orientalist",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300054698|http://vocab.getty.edu/page/aat/300055784",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q37260|https://www.wikidata.org/wiki/Q765606"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-14274-013.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 127868,
+        "role": "Artist",
+        "name": "German Painter",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 34.92507,
+          "Width": 26.670053
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Writing",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300054698",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q37260"
+      },
+      {
+        "term": "Orientalist",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300055784",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q765606"
+      }
+    ]
+  }
+}

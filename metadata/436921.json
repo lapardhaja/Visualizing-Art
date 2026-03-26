@@ -1,0 +1,100 @@
+{
+  "object_id": 436921,
+  "excel_metadata": {
+    "Object Number": "25.79",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436921,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1925.0,
+    "Object Name": "Painting",
+    "Title": "The Crucifixion",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10794.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": "Copy after",
+    "Artist Display Name": "Luca di Tommè di Nuto",
+    "Artist Display Bio": "Italian, shortly before 1925",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Luca di Tommè di Nuto",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1356",
+    "Artist End Date": "1389",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500003597",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q21851359",
+    "Object Date": NaN,
+    "Object Begin Date": 1920,
+    "Object End Date": 1925,
+    "Medium": "Oil on wood, gold ground",
+    "Dimensions": "13 7/8 x 8 3/8 in. (35.2 x 21.3 cm)",
+    "Credit Line": "Administration Fund, 1925",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436921",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19914247",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Crucifixion|Christ|Virgin Mary",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300404300|http://vocab.getty.edu/page/ia/901000087|http://vocab.getty.edu/page/ia/901000032",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q3235597|https://www.wikidata.org/wiki/Q642420|https://www.wikidata.org/wiki/Q345"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/ep25.79.bw.R.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 107949,
+        "role": "Artist",
+        "name": "Copy after Luca di Tommè di Nuto",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500003597",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q21851359",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 35.2,
+          "Width": 21.3
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Christ",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+      },
+      {
+        "term": "Virgin Mary",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000032",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q345"
+      },
+      {
+        "term": "Crucifixion",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300404300",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3235597"
+      }
+    ]
+  }
+}

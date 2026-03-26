@@ -1,0 +1,115 @@
+{
+  "object_id": 436936,
+  "excel_metadata": {
+    "Object Number": "1982.60.13",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436936,
+    "Gallery Number": 539.0,
+    "Department": "European Paintings",
+    "AccessionYear": 1982.0,
+    "Object Name": "Painting",
+    "Title": "Nuns at Work",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16208.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": "Follower of",
+    "Artist Display Name": "Alessandro Magnasco",
+    "Artist Display Bio": "Italian, Milanese, first half 18th century",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Magnasco, Alessandro",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1667",
+    "Artist End Date": "1749",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500015104",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q516941",
+    "Object Date": NaN,
+    "Object Begin Date": 1700,
+    "Object End Date": 1749,
+    "Medium": "Oil on canvas",
+    "Dimensions": "20 1/8 x 28 3/8 in. (51.1 x 72.1 cm)",
+    "Credit Line": "The Jack and Belle Linsky Collection, 1982",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436936",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19913303",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Women|Working|Interiors|Needlework|Nuns|Spinning Wheel",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/aat/300412186|http://vocab.getty.edu/page/aat/300391239|http://vocab.getty.edu/page/aat/300053652|http://vocab.getty.edu/page/aat/300025770|http://vocab.getty.edu/page/aat/300263278",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q6958747|https://www.wikidata.org/wiki/Q2998430|https://www.wikidata.org/wiki/Q28966125|https://www.wikidata.org/wiki/Q191808|https://www.wikidata.org/wiki/Q58966"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT8846.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162089,
+        "role": "Artist",
+        "name": "Follower of Alessandro Magnasco",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500015104",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q516941",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 51.1,
+          "Width": 72.1
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Interiors",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300391239",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q2998430"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Working",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300412186",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q6958747"
+      },
+      {
+        "term": "Needlework",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300053652",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q28966125"
+      },
+      {
+        "term": "Nuns",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025770",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q191808"
+      },
+      {
+        "term": "Spinning Wheel",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300263278",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q58966"
+      }
+    ]
+  }
+}

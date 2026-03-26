@@ -1,0 +1,129 @@
+{
+  "object_id": 436782,
+  "excel_metadata": {
+    "Object Number": "1970.212.2",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436782,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1970.0,
+    "Object Name": "Painting",
+    "Title": "Capriccio with St. Paul's and Old London Bridge",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10782.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Antonio Joli",
+    "Artist Display Bio": "Italian, Modena 1700–1777 Naples",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Joli, Antonio",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1700",
+    "Artist End Date": "1777",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500031488",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q2404265",
+    "Object Date": "ca. 1745",
+    "Object Begin Date": 1740,
+    "Object End Date": 1750,
+    "Medium": "Oil on canvas",
+    "Dimensions": "42 x 47 in. (106.7 x 119.4 cm)",
+    "Credit Line": "Bequest of Alice Bradford Woolsey, 1970",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436782",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912637",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Balconies|Men|Women|Dogs|Rivers|London|Boats",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300002588|http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/aat/300265714|http://vocab.getty.edu/page/aat/300008707|http://vocab.getty.edu/page/tgn/7011781|http://vocab.getty.edu/page/aat/300178749",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q170552|https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q144|https://www.wikidata.org/wiki/Q4022|https://www.wikidata.org/wiki/Q84|https://www.wikidata.org/wiki/Q35872"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP123834.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 107829,
+        "role": "Artist",
+        "name": "Antonio Joli",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500031488",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q2404265",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 106.7,
+          "Width": 119.4
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 6.35,
+          "Height": 142.2403,
+          "Width": 131.1278
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Balconies",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300002588",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q170552"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Dogs",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300265714",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q144"
+      },
+      {
+        "term": "Rivers",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300008707",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q4022"
+      },
+      {
+        "term": "Boats",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300178749",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q35872"
+      },
+      {
+        "term": "London",
+        "AAT_URL": "http://vocab.getty.edu/page/tgn/7011781",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q84"
+      }
+    ]
+  }
+}

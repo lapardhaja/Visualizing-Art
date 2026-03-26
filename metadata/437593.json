@@ -1,0 +1,123 @@
+{
+  "object_id": 437593,
+  "excel_metadata": {
+    "Object Number": "1981.317",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 437593,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1981.0,
+    "Object Name": "Painting",
+    "Title": "Marcantonio Pasqualini (1614–1691) Crowned by Apollo",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16236.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Andrea Sacchi",
+    "Artist Display Bio": "Italian, Rome (?) ca. 1599–1661 Rome",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Sacchi, Andrea",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1599",
+    "Artist End Date": "1661",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500022759",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q495008",
+    "Object Date": "1641",
+    "Object Begin Date": 1641,
+    "Object End Date": 1641,
+    "Medium": "Oil on canvas",
+    "Dimensions": "96 x 76 1/2 in. (243.8 x 194.3 cm)",
+    "Credit Line": "Purchase, Enid A. Haupt Gift and Gwynne Andrews Fund, 1981",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437593",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19911833",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Harpsichords|Apollo|Satyrs",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300041678|http://vocab.getty.edu/page/ia/901000109|http://vocab.getty.edu/page/aat/300379732",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q81982|https://www.wikidata.org/wiki/Q37340|https://www.wikidata.org/wiki/Q163709"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-25648-001.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-1981_317-2.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-1981_317-3.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 162364,
+        "role": "Artist",
+        "name": "Andrea Sacchi",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500022759",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q495008",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 243.8,
+          "Width": 194.3
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 284.48056,
+          "Width": 234.95047
+        }
+      },
+      {
+        "elementName": "Other",
+        "elementDescription": "Picture + Frame ",
+        "elementMeasurements": {
+          "Weight": 91.173004
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Harpsichords",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300041678",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q81982"
+      },
+      {
+        "term": "Apollo",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000109",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q37340"
+      },
+      {
+        "term": "Satyrs",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379732",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q163709"
+      }
+    ]
+  }
+}

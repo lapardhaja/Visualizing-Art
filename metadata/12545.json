@@ -1,0 +1,104 @@
+{
+  "object_id": 12545,
+  "excel_metadata": {
+    "Object Number": "1977.135",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 12545,
+    "Gallery Number": NaN,
+    "Department": "The American Wing",
+    "AccessionYear": 1977.0,
+    "Object Name": "Painting",
+    "Title": "Portrait of a Lady (possibly Tryntje Otten Veeder)",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 288.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": "Attributed to",
+    "Artist Display Name": "Schuyler Limner",
+    "Artist Display Bio": "active ca. 1715–25",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Schuyler, Limner ",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1670",
+    "Artist End Date": "1770",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": NaN,
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q22670612",
+    "Object Date": "1720–25",
+    "Object Begin Date": 1720,
+    "Object End Date": 1725,
+    "Medium": "Oil on canvas",
+    "Dimensions": "28 x 24 1/2 in. (71.1 x 62.2 cm)",
+    "Credit Line": "Gift of Mrs. Eddie Thornton Baylis, 1976",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/12545",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19924839",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Portraits|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DP227641.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 2886,
+        "role": "Artist",
+        "name": "Attributed to Schuyler Limner",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q22670612",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 6,
+          "Height": 88.2,
+          "Width": 79
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 71.1,
+          "Width": 62.2
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

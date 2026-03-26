@@ -1,0 +1,96 @@
+{
+  "object_id": 205342,
+  "excel_metadata": {
+    "Object Number": 1971.113,
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 205342,
+    "Gallery Number": 553,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1971,
+    "Object Name": "Bust",
+    "Title": "Jérôme Bonaparte (1784–1860)",
+    "Culture": "French",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 3374,
+    "Artist Role": "Artist",
+    "Artist Prefix": "After an original by",
+    "Artist Display Name": "Baron François Joseph Bosio",
+    "Artist Display Bio": "French, 1768–1845",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Bosio, François Joseph, Baron",
+    "Artist Nationality": " ",
+    "Artist Begin Date": 1768,
+    "Artist End Date": 1845,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500007321",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q659429",
+    "Object Date": "1810–13",
+    "Object Begin Date": 1810,
+    "Object End Date": 1813,
+    "Medium": "Carrara marble",
+    "Dimensions": "Height: 21 1/2 in. (54.6 cm)",
+    "Credit Line": "Bequest of Julie Braun-Vogelstein, in memory of her brother, Ludwig Vogelstein, 1971",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Sculpture",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/205342",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q116373982",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP267135.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/DP267416.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 33749,
+        "role": "Artist",
+        "name": "After an original by Baron François Joseph Bosio",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500007321",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q659429",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Height",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 54.610107
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "object_id": 12630,
+  "excel_metadata": {
+    "Object Number": "1976.154",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 12630,
+    "Gallery Number": NaN,
+    "Department": "The American Wing",
+    "AccessionYear": 1976.0,
+    "Object Name": "Painting",
+    "Title": "Landscape with Waterfall and Figures",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 205.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "William Louis Sonntag",
+    "Artist Display Bio": "1822–1900",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Sonntag, William Louis",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1822",
+    "Artist End Date": "1900",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500010750",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q8014712",
+    "Object Date": "ca. 1865",
+    "Object Begin Date": 1862,
+    "Object End Date": 1865,
+    "Medium": "Oil on canvas",
+    "Dimensions": "36 x 51 in. (91.4 x 129.5 cm)",
+    "Credit Line": "Gift of Erving Wolf Foundation, in memory of Diane R. Wolf, 1976",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/12630",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19930653",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Waterfalls|Mountains|Landscapes",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300008736|http://vocab.getty.edu/page/aat/300008795|http://vocab.getty.edu/page/aat/300132294",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q34038|https://www.wikidata.org/wiki/Q8502|https://www.wikidata.org/wiki/Q191163"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/ap1976.154.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 2059,
+        "role": "Artist",
+        "name": "William Louis Sonntag",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500010750",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q8014712",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 91.4,
+          "Width": 129.5
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 12.7,
+          "Height": 129.2228,
+          "Width": 180.0229
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Waterfalls",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300008736",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q34038"
+      },
+      {
+        "term": "Mountains",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300008795",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8502"
+      },
+      {
+        "term": "Landscapes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+      }
+    ]
+  }
+}

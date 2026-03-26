@@ -1,0 +1,109 @@
+{
+  "object_id": 13349,
+  "excel_metadata": {
+    "Object Number": "41.152.1",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 13349,
+    "Gallery Number": 724.0,
+    "Department": "The American Wing",
+    "AccessionYear": 1941.0,
+    "Object Name": "Painting",
+    "Title": "Still Life: Peaches and Grapes",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 303.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "John  A. Woodside",
+    "Artist Display Bio": "1781–1852",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Woodside, John A.",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1781",
+    "Artist End Date": "1852",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500015290",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q22667538",
+    "Object Date": "Ca. 1825",
+    "Object Begin Date": 1820,
+    "Object End Date": 1830,
+    "Medium": "Oil on wood",
+    "Dimensions": "9 3/4 x 12 1/4 in. (24.8 x 31.1 cm)",
+    "Credit Line": "Rogers Fund, 1941",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/13349",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20172005",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Grapes|Peaches|Still Life",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300379338|http://vocab.getty.edu/page/aat/300266272|http://vocab.getty.edu/page/aat/300015638",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q10978|https://www.wikidata.org/wiki/Q13202263|https://www.wikidata.org/wiki/Q170571"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DT1553.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 3037,
+        "role": "Artist",
+        "name": "John  A. Woodside",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500015290",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q22667538",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 24.8,
+          "Width": 31.1
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 5.8,
+          "Height": 36.9,
+          "Width": 43.5
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Grapes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379338",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q10978"
+      },
+      {
+        "term": "Peaches",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300266272",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q13202263"
+      },
+      {
+        "term": "Still Life",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015638",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q170571"
+      }
+    ]
+  }
+}

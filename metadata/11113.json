@@ -1,0 +1,104 @@
+{
+  "object_id": 11113,
+  "excel_metadata": {
+    "Object Number": "06.1281",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 11113,
+    "Gallery Number": 769.0,
+    "Department": "The American Wing",
+    "AccessionYear": 1906.0,
+    "Object Name": "Painting",
+    "Title": "Cannon Rock",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16199.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Winslow Homer",
+    "Artist Display Bio": "American, Boston, Massachusetts 1836–1910 Prouts Neck, Maine",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Homer, Winslow",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1836",
+    "Artist End Date": "1910",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500019202",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q344838",
+    "Object Date": "1895",
+    "Object Begin Date": 1895,
+    "Object End Date": 1895,
+    "Medium": "Oil on canvas",
+    "Dimensions": "40 x 40 in. (101.6 x 101.6 cm)",
+    "Credit Line": "Gift of George A. Hearn, 1906",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/11113",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19924434",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Waves|Seascapes",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300343616|http://vocab.getty.edu/page/aat/300117546",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q165848|https://www.wikidata.org/wiki/Q158607"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/ap06.1281.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 161996,
+        "role": "Artist",
+        "name": "Winslow Homer",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500019202",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q344838",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 101.6,
+          "Width": 101.6
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 11.430023,
+          "Height": 137.16028,
+          "Width": 137.16028
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Seascapes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300117546",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q158607"
+      },
+      {
+        "term": "Waves",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300343616",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q165848"
+      }
+    ]
+  }
+}

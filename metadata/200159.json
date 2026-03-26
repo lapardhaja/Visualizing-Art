@@ -1,0 +1,88 @@
+{
+  "object_id": 200159,
+  "excel_metadata": {
+    "Object Number": "48.187.128",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 200159,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1948,
+    "Object Name": "Milk pot",
+    "Title": "Milk pot",
+    "Culture": "French, Paris",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 3484,
+    "Artist Role": "Maker",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Jean-Joseph Beaudet (or Baudet)",
+    "Artist Display Bio": "master 1782, active 1806",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Beaudet (or Baudet) Jean-Joseph",
+    "Artist Nationality": " ",
+    "Artist Begin Date": 1752,
+    "Artist End Date": 1836,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500104987",
+    "Artist Wikidata URL": null,
+    "Object Date": "1786–87",
+    "Object Begin Date": 1786,
+    "Object End Date": 1787,
+    "Medium": "Silver",
+    "Dimensions": "Height: 5 1/2 in. (14 cm)",
+    "Credit Line": "Bequest of Catherine D. Wentworth, 1948",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Metalwork-Silver",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/200159",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": null,
+    "Tags AAT URL": null,
+    "Tags Wikidata URL": null
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/145540.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/145539.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/145545.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/145545b.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/145545c.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 34847,
+        "role": "Maker",
+        "name": "Jean-Joseph Beaudet (or Baudet)",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500104987",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Height",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 13.970028
+        }
+      }
+    ],
+    "tags": null
+  }
+}

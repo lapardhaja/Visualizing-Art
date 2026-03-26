@@ -1,0 +1,106 @@
+{
+  "object_id": 435664,
+  "excel_metadata": {
+    "Object Number": "32.100.68",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 435664,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1932.0,
+    "Object Name": "Painting",
+    "Title": "Portrait of a Young Man",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10737.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Biagio d'Antonio",
+    "Artist Display Bio": "Italian, Florentine, active by 1472–died 1516",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Biagio d'Antonio",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1472",
+    "Artist End Date": "1516",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500030102",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q2311437",
+    "Object Date": "probably ca. 1470",
+    "Object Begin Date": 1476,
+    "Object End Date": 1504,
+    "Medium": "Tempera on wood",
+    "Dimensions": "Overall 21 3/8 x 15 1/2 in. (54.3 x 39.4 cm); painted surface 20 1/4 x 14 1/4 in. (51.4 x 36.2 cm)",
+    "Credit Line": "The Friedsam Collection, Bequest of Michael Friedsam, 1931",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/435664",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19911500",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP161258.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/biagio if.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 107377,
+        "role": "Artist",
+        "name": "Biagio d&#39;Antonio",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500030102",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q2311437",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 6.985014,
+          "Height": 71.437645,
+          "Width": 56.515114
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 54.29261,
+          "Width": 39.37008
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

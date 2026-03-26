@@ -1,0 +1,95 @@
+{
+  "object_id": 437599,
+  "excel_metadata": {
+    "Object Number": "62.122.80",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437599,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1962.0,
+    "Object Name": "Painting, miniature",
+    "Title": "Portrait of a Man",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10856.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": "Attributed to",
+    "Artist Display Name": "Jean-Baptiste Sambat",
+    "Artist Display Bio": "French, ca. 1760–1827",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Sambat, Jean-Baptiste",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1760",
+    "Artist End Date": "1827",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500071679",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q3164429",
+    "Object Date": NaN,
+    "Object Begin Date": 1780,
+    "Object End Date": 1827,
+    "Medium": "Ivory",
+    "Dimensions": "Diameter 2 5/8 in. (70 mm)",
+    "Credit Line": "Bequest of Millie Bruhl Fredrick, 1962",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Miniatures",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437599",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19913868",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP327721.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 108564,
+        "role": "Artist",
+        "name": "Attributed to Jean-Baptiste Sambat",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500071679",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3164429",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 6.7,
+          "Width": 6.7
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

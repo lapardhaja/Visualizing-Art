@@ -1,0 +1,105 @@
+{
+  "object_id": 816629,
+  "excel_metadata": {
+    "Object Number": "2020.263.8",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 816629,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 2020.0,
+    "Object Name": "Painting",
+    "Title": "The Flight into Egypt",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16209.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Carlo Maratti",
+    "Artist Display Bio": "Italian, Camerano 1625–1713 Rome",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Maratti, Carlo",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1625",
+    "Artist End Date": "1713",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500118927",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q538998",
+    "Object Date": "ca. 1664",
+    "Object Begin Date": 1659,
+    "Object End Date": 1669,
+    "Medium": "Oil on copper",
+    "Dimensions": "23 3/4 × 19 1/8 in. (60.3 × 48.6 cm)",
+    "Credit Line": "Bequest of Errol M. Rudman, 2020",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/816629",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q111272641",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Virgin Mary|Joseph|Angels|Jesus",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901000032|http://vocab.getty.edu/page/ia/901000953|http://vocab.getty.edu/page/aat/300379004|http://vocab.getty.edu/page/ia/901000087",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q345|https://www.wikidata.org/wiki/Q128267|https://www.wikidata.org/wiki/Q235113|https://www.wikidata.org/wiki/Q302"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-19712-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162098,
+        "role": "Artist",
+        "name": "Carlo Maratti",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500118927",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q538998",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 60.3,
+          "Width": 48.6
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Angels",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379004",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q235113"
+      },
+      {
+        "term": "Virgin Mary",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000032",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q345"
+      },
+      {
+        "term": "Jesus",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q302"
+      },
+      {
+        "term": "Joseph",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000953",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q128267"
+      }
+    ]
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "object_id": 436011,
+  "excel_metadata": {
+    "Object Number": "29.160.34",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436011,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1929.0,
+    "Object Name": "Painting",
+    "Title": "The Deer",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16179.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Gustave Courbet",
+    "Artist Display Bio": "French, Ornans 1819–1877 La Tour-de-Peilz",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Courbet, Gustave",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1819",
+    "Artist End Date": "1877",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500010927",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q34618",
+    "Object Date": "ca. 1865",
+    "Object Begin Date": 1860,
+    "Object End Date": 1870,
+    "Medium": "Oil on canvas",
+    "Dimensions": "29 3/8 x 36 3/8 in. (74.6 x 92.4 cm)",
+    "Credit Line": "H. O. Havemeyer Collection, Gift of Horace Havemeyer, 1929",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436011",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912068",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Deer|Landscapes|Winter|Snow",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300250308|http://vocab.getty.edu/page/aat/300132294|http://vocab.getty.edu/page/aat/300133101|http://vocab.getty.edu/page/aat/300055381",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q685795|https://www.wikidata.org/wiki/Q191163|https://www.wikidata.org/wiki/Q1311|https://www.wikidata.org/wiki/Q7561"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/EP1059.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 161790,
+        "role": "Artist",
+        "name": "Gustave Courbet",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500010927",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q34618",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 74.6,
+          "Width": 92.4
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Deer",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250308",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q685795"
+      },
+      {
+        "term": "Landscapes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+      },
+      {
+        "term": "Winter",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300133101",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q1311"
+      },
+      {
+        "term": "Snow",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300055381",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q7561"
+      }
+    ]
+  }
+}

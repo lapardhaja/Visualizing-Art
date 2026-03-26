@@ -1,0 +1,90 @@
+{
+  "object_id": 435833,
+  "excel_metadata": {
+    "Object Number": "1973.165",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 435833,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1973.0,
+    "Object Name": "Painting",
+    "Title": "Herodias",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10746.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Francesco Cairo",
+    "Artist Display Bio": "Italian, Milan 1607–1665 Milan",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Cairo, Francesco",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1607",
+    "Artist End Date": "1665",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500000397",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q2253244",
+    "Object Date": "before 1635",
+    "Object Begin Date": 1627,
+    "Object End Date": 1635,
+    "Medium": "Oil on canvas",
+    "Dimensions": "29 5/8 x 24 5/8 in. (75.2 x 62.5 cm)",
+    "Credit Line": "Gift of Paul Ganz, in memory of Rudolf Wittkower, 1973",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/435833",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19913050",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-22711-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 107467,
+        "role": "Artist",
+        "name": "Francesco Cairo",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500000397",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q2253244",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 75.2,
+          "Width": 62.5
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

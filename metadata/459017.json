@@ -1,0 +1,104 @@
+{
+  "object_id": 459017,
+  "excel_metadata": {
+    "Object Number": "1975.1.75",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 459017,
+    "Gallery Number": NaN,
+    "Department": "Robert Lehman Collection",
+    "AccessionYear": 1975.0,
+    "Object Name": "Painting",
+    "Title": "The Rape of Lucretia",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16543.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Master of Marradi",
+    "Artist Display Bio": "Italian, Florence, active late 15th/early 16th century",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Master of Marradi",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1475",
+    "Artist End Date": "1525",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500120306",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q1689515",
+    "Object Date": "late 15th–early 16th century",
+    "Object Begin Date": 1471,
+    "Object End Date": 1535,
+    "Medium": "Tempera and gold on wood",
+    "Dimensions": "Overall 15 3/4 x 27 3/4 in. (40 x 70.5 cm); painted surface 15 1/8 x 27 1/2 in. (38.4 x 69.9 cm)",
+    "Credit Line": "Robert Lehman Collection, 1975",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/459017",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20188032",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Women|Horses",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/aat/300250148",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q726"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/rl/original/DP328374.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/rl/original/DP335157.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/ep1975.1.75.bw.R.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/Lucretia0154.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 165435,
+        "role": "Artist",
+        "name": "Master of Marradi",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500120306",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1689515",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 40,
+          "Width": 70.5
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Horses",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250148",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q726"
+      }
+    ]
+  }
+}

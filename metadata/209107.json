@@ -1,0 +1,89 @@
+{
+  "object_id": 209107,
+  "excel_metadata": {
+    "Object Number": 1998.208,
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 209107,
+    "Gallery Number": 552,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1998,
+    "Object Name": "Statuette group",
+    "Title": "Virgin and Child with St. John the Baptist",
+    "Culture": "French",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 16334,
+    "Artist Role": "Maker",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Jean-Baptiste Carpeaux",
+    "Artist Display Bio": "French, Valenciennes 1827–1875 Courbevoie",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Carpeaux, Jean-Baptiste",
+    "Artist Nationality": "French",
+    "Artist Begin Date": 1827,
+    "Artist End Date": 1875,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500115348",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q182791",
+    "Object Date": "19th century",
+    "Object Begin Date": 1800,
+    "Object End Date": 1899,
+    "Medium": "Plaster",
+    "Dimensions": "Height: 14 3/4 in. (37.5 cm)",
+    "Credit Line": "Gift of Eugene V. Thaw, 1998",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Sculpture",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/209107",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q116373905",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Madonna and Child",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901000052",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q9309699"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/ES5917.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 163344,
+        "role": "Maker",
+        "name": "Jean-Baptiste Carpeaux",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115348",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q182791",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Height",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 37.465076
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Madonna and Child",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000052",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q9309699"
+      }
+    ]
+  }
+}

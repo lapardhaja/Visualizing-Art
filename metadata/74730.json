@@ -1,0 +1,108 @@
+{
+  "object_id": 74730,
+  "excel_metadata": {
+    "Object Number": "2008.359.50",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 74730,
+    "Gallery Number": NaN,
+    "Department": "Asian Art",
+    "AccessionYear": 2008.0,
+    "Object Name": "Painting",
+    "Title": NaN,
+    "Culture": "Western India, Rajasthan, Kota",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": NaN,
+    "Artist Role": NaN,
+    "Artist Prefix": NaN,
+    "Artist Display Name": NaN,
+    "Artist Display Bio": NaN,
+    "Artist Suffix": NaN,
+    "Artist Alpha Sort": NaN,
+    "Artist Nationality": NaN,
+    "Artist Begin Date": NaN,
+    "Artist End Date": NaN,
+    "Artist Gender": NaN,
+    "Artist ULAN URL": NaN,
+    "Artist Wikidata URL": NaN,
+    "Object Date": "ca. 1830",
+    "Object Begin Date": 1820,
+    "Object End Date": 1840,
+    "Medium": "Ink on paper",
+    "Dimensions": "Image (sight): 16 x 64 3/8 in. (40.6 x 163.5 cm)",
+    "Credit Line": "Gift of Subhash Kapoor, in memory of his parents, Smt Shashi Kanta and Shree Parshotam Ram Kapoor, 2008",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/74730",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q78707515",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Hunting|Boars|Deer|Tigers",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300239666|http://vocab.getty.edu/page/aat/300250112|http://vocab.getty.edu/page/aat/300250308|http://vocab.getty.edu/page/aat/300249063",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q36963|https://www.wikidata.org/wiki/Q58697|https://www.wikidata.org/wiki/Q685795|https://www.wikidata.org/wiki/Q19939"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/as/original/DP166117.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/as/original/DP166126.jpg",
+      "https://images.metmuseum.org/CRDImages/as/original/DP166127.jpg"
+    ],
+    "constituents": null,
+    "measurements": [
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 2.8575058,
+          "Height": 58.420116,
+          "Width": 182.88037
+        }
+      },
+      {
+        "elementName": "Image",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 40.64008,
+          "Width": 163.51283
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Hunting",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300239666",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q36963"
+      },
+      {
+        "term": "Boars",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250112",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q58697"
+      },
+      {
+        "term": "Deer",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250308",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q685795"
+      },
+      {
+        "term": "Tigers",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300249063",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q19939"
+      }
+    ]
+  }
+}

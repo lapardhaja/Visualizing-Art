@@ -1,0 +1,129 @@
+{
+  "object_id": 193806,
+  "excel_metadata": {
+    "Object Number": "17.190.1114",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 193806,
+    "Gallery Number": NaN,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1917.0,
+    "Object Name": "Snuffbox, painting",
+    "Title": "Snuffbox with miniature of the Empress Marie-Louise, the King of Rome, and Napoléon I",
+    "Culture": "French, Paris",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 337842000000000.0,
+    "Artist Role": "Maker|Artist|Artist",
+    "Artist Prefix": " |Miniatures by School of|and possibly by",
+    "Artist Display Name": "Gabriel-Raoul Morel|Jean-Baptiste Isabey|Madame Lizinka Aimée Zoé de Mirbel",
+    "Artist Display Bio": "French, 1764–1832|French, Nancy 1767–1855 Paris|1796–1849",
+    "Artist Suffix": " | | ",
+    "Artist Alpha Sort": "Morel, Gabriel-Raoul|Isabey, Jean-Baptiste|Lizinka Aimée Zoé de Mirbel",
+    "Artist Nationality": "French|French| ",
+    "Artist Begin Date": "1764      |1767      |1796      ",
+    "Artist End Date": "1832      |1855      |1849      ",
+    "Artist Gender": "||Female",
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500044307|http://vocab.getty.edu/page/ulan/500031174|http://vocab.getty.edu/page/ulan/500023095",
+    "Artist Wikidata URL": "|https://www.wikidata.org/wiki/Q551132|https://www.wikidata.org/wiki/Q405768",
+    "Object Date": "ca. 1815",
+    "Object Begin Date": 1810,
+    "Object End Date": 1820,
+    "Medium": "Gold, ivory",
+    "Dimensions": "3-1/8 x 2-1/2 in.  (7.9 x 6.4 cm);\r\nEmpress Marie-Louise, oval, 2 1/4 x 1 5/8 in. (58 x 41 mm); King of Rome, oval, 2 1/4 x 1 5/8 in. (56 x 40 mm); Napoléon I, oval, 2 x 1 1/2 in. (49 x 38 mm)",
+    "Credit Line": "Gift of J. Pierpont Morgan, 1917",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Metalwork-Gold and Platinum|Miniatures",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/193806",
+    "Object Wikidata URL": NaN,
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Portraits|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/M182.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/ES5794.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 33784,
+        "role": "Maker",
+        "name": "Gabriel-Raoul Morel",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500044307",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      },
+      {
+        "constituentID": 164562,
+        "role": "Artist",
+        "name": "Miniatures by School of Jean-Baptiste Isabey",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500031174",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q551132",
+        "gender": ""
+      },
+      {
+        "constituentID": 37368,
+        "role": "Artist",
+        "name": "and possibly by Madame Lizinka Aimée Zoé de Mirbel",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500023095",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q405768",
+        "gender": "Female"
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Image",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 5.08001,
+          "Width": 3.8100076
+        }
+      },
+      {
+        "elementName": "Image",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 5.7150116,
+          "Width": 4.127508
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 7.9375157,
+          "Width": 6.350013
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

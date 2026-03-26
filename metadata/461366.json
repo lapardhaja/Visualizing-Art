@@ -1,0 +1,97 @@
+{
+  "object_id": 461366,
+  "excel_metadata": {
+    "Object Number": "1975.1.244",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 461366,
+    "Gallery Number": NaN,
+    "Department": "Robert Lehman Collection",
+    "AccessionYear": 1975.0,
+    "Object Name": "Painting",
+    "Title": "The Hudson River Valley near Hudson, New York",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 13693312647.0,
+    "Artist Role": "Artist|Artist",
+    "Artist Prefix": "possibly| ",
+    "Artist Display Name": "Henry Ary|American Painter",
+    "Artist Display Bio": "1807–1859| ",
+    "Artist Suffix": " | ",
+    "Artist Alpha Sort": "Ary Henry|American Painter",
+    "Artist Nationality": " |American",
+    "Artist Begin Date": "1807      |          ",
+    "Artist End Date": "1859      |          ",
+    "Artist Gender": "|",
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500007617|",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q38265542|",
+    "Object Date": "ca. 1850",
+    "Object Begin Date": 1845,
+    "Object End Date": 1855,
+    "Medium": "Oil on canvas",
+    "Dimensions": "19 x 22 1/8 in. (48.3 x 56.2 cm)",
+    "Credit Line": "Robert Lehman Collection, 1975",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/461366",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20185756",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Rivers|Landscapes",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300008707|http://vocab.getty.edu/page/aat/300132294",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q4022|https://www.wikidata.org/wiki/Q191163"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/rl/original/0244-1.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/rl/original/SF-1975-1-244.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/SLP0244.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 126472,
+        "role": "Artist",
+        "name": "American Painter",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      },
+      {
+        "constituentID": 136933,
+        "role": "Artist",
+        "name": "possibly Henry Ary",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500007617",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q38265542",
+        "gender": ""
+      }
+    ],
+    "measurements": null,
+    "tags": [
+      {
+        "term": "Rivers",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300008707",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q4022"
+      },
+      {
+        "term": "Landscapes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+      }
+    ]
+  }
+}

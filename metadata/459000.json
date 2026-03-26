@@ -1,0 +1,128 @@
+{
+  "object_id": 459000,
+  "excel_metadata": {
+    "Object Number": "1975.1.60",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 459000,
+    "Gallery Number": NaN,
+    "Department": "Robert Lehman Collection",
+    "AccessionYear": 1975.0,
+    "Object Name": "Painting",
+    "Title": "The Nativity",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16360416180.0,
+    "Artist Role": "Artist|Former Attribution",
+    "Artist Prefix": " |Follower of",
+    "Artist Display Name": "Maestro Daddesco|Bernardo Daddi",
+    "Artist Display Bio": "Italian, Florence, active ca. 1320–40|Italian, Florence (?) ca. 1290–1348 Florence",
+    "Artist Suffix": " | ",
+    "Artist Alpha Sort": "Daddesco, Maestro|Daddi, Bernardo",
+    "Artist Nationality": "Italian|Italian",
+    "Artist Begin Date": "1320      |1290      ",
+    "Artist End Date": "1340      |1348      ",
+    "Artist Gender": "|",
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500105442|http://vocab.getty.edu/page/ulan/500004953",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q21978973|https://www.wikidata.org/wiki/Q366562",
+    "Object Date": "ca. 1320–40",
+    "Object Begin Date": 1317,
+    "Object End Date": 1343,
+    "Medium": "Tempera on wood, gold ground",
+    "Dimensions": "Overall, with engaged frame: 11 5/8 × 8 3/8 in. (29.5 × 21.3 cm)\r\nPainted surface: 8 1/2 × 6 7/8 in. (21.6 × 17.5 cm)",
+    "Credit Line": "Robert Lehman Collection, 1975",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/459000",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20188005",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Angels|Sheep|Madonna and Child|Nativity",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300379004|http://vocab.getty.edu/page/aat/300250284|http://vocab.getty.edu/page/ia/901000052|http://vocab.getty.edu/page/ia/901000124",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q235113|https://www.wikidata.org/wiki/Q7368|https://www.wikidata.org/wiki/Q9309699|https://www.wikidata.org/wiki/Q51628"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/rl/original/DP318245.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/rl/original/DP318250.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/DT3042.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/0027.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/ep1975.1.60.r.bw.R.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/ep1975.1.60.v.bw.R.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/0028.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 163604,
+        "role": "Artist",
+        "name": "Maestro Daddesco",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500105442",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q21978973",
+        "gender": ""
+      },
+      {
+        "constituentID": 161801,
+        "role": "Former Attribution",
+        "name": "Follower of Bernardo Daddi",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500004953",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q366562",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": "Painted surface",
+        "elementMeasurements": {
+          "Height": 21.6,
+          "Width": 17.5
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": "Overall, with engaged frame",
+        "elementMeasurements": {
+          "Height": 29.5,
+          "Width": 21.3
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Sheep",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250284",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q7368"
+      },
+      {
+        "term": "Angels",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379004",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q235113"
+      },
+      {
+        "term": "Madonna and Child",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000052",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q9309699"
+      },
+      {
+        "term": "Nativity",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000124",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q51628"
+      }
+    ]
+  }
+}

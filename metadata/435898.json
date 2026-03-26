@@ -1,0 +1,139 @@
+{
+  "object_id": 435898,
+  "excel_metadata": {
+    "Object Number": "91.26.12",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 435898,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1891.0,
+    "Object Name": "Painting",
+    "Title": "The Lamentation",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16177.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Petrus Christus",
+    "Artist Display Bio": "Netherlandish, Baarle-Hertog (Baerle-Duc), active by 1444–died 1475/76 Bruges",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Christus, Petrus",
+    "Artist Nationality": "Netherlandish",
+    "Artist Begin Date": "1444",
+    "Artist End Date": "1476",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500032549",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q312616",
+    "Object Date": "ca. 1450",
+    "Object Begin Date": 1445,
+    "Object End Date": 1455,
+    "Medium": "Oil on wood",
+    "Dimensions": "Overall 10 1/8 x 14 in. (25.7 x 35.6 cm); painted surface 10 x 13 3/4 in. (25.4 x 34.9 cm)",
+    "Credit Line": "Marquand Collection, Gift of Henry G. Marquand, 1890",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/435898",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19911634",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Sadness|Suffering|Mary Magdalene|Saint John the Evangelist|Lamentation|Death|Christ|Virgin Mary",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300055166|http://vocab.getty.edu/page/aat/300055184|http://vocab.getty.edu/page/ia/901000161|http://vocab.getty.edu/page/ia/901001171|http://vocab.getty.edu/page/ia/901001196|http://vocab.getty.edu/page/aat/300151836|http://vocab.getty.edu/page/ia/901000087|http://vocab.getty.edu/page/ia/901000032",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q169251|https://www.wikidata.org/wiki/Q5780945|https://www.wikidata.org/wiki/Q63070|https://www.wikidata.org/wiki/Q328804|https://www.wikidata.org/wiki/Q3155356|https://www.wikidata.org/wiki/Q4|https://www.wikidata.org/wiki/Q642420|https://www.wikidata.org/wiki/Q345"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-20594-001.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-91_26_12_IRR.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-91_26_12_XRAY.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-91_26_12_ Suppl_2.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-91_26_12_ Suppl_3.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 161771,
+        "role": "Artist",
+        "name": "Petrus Christus",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500032549",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q312616",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 4.4450088,
+          "Height": 35.24257,
+          "Width": 44.76759
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 25.7,
+          "Width": 35.6
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Sadness",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300055166",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q169251"
+      },
+      {
+        "term": "Suffering",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300055184",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q5780945"
+      },
+      {
+        "term": "Christ",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+      },
+      {
+        "term": "Mary Magdalene",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000161",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q63070"
+      },
+      {
+        "term": "Saint John the Evangelist",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901001171",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q328804"
+      },
+      {
+        "term": "Virgin Mary",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000032",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q345"
+      },
+      {
+        "term": "Lamentation",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901001196",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3155356"
+      },
+      {
+        "term": "Death",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300151836",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q4"
+      }
+    ]
+  }
+}

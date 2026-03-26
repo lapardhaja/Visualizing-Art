@@ -1,0 +1,104 @@
+{
+  "object_id": 239204,
+  "excel_metadata": {
+    "Object Number": 2012.507,
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 239204,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 2012,
+    "Object Name": "Group",
+    "Title": "Asia and Africa",
+    "Culture": "French, Vincennes",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 3628,
+    "Artist Role": "Manufactory",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Vincennes Manufactory",
+    "Artist Display Bio": "French, ca. 1740–1756",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Vincennes Manufactory",
+    "Artist Nationality": "French",
+    "Artist Begin Date": 1740,
+    "Artist End Date": 1756,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500055302",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q3287039",
+    "Object Date": "ca. 1752",
+    "Object Begin Date": 1747,
+    "Object End Date": 1757,
+    "Medium": "Soft-paste porcelain",
+    "Dimensions": "Overall (confirmed): 11 3/16 × 10 3/8 × 7 1/8 in. (28.4 × 26.4 × 18.1 cm)",
+    "Credit Line": "Purchase, Friends of European Sculpture and Decorative Arts Gifts and Marilyn and Lawrence Friedland Gift, 2012",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Ceramics-Porcelain",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/239204",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Women|Female Nudes|Flowers|Leaves|Lions",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/aat/300189568|http://vocab.getty.edu/page/aat/300132399|http://vocab.getty.edu/page/aat/300011892|http://vocab.getty.edu/page/aat/300310388",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q40446|https://www.wikidata.org/wiki/Q506|https://www.wikidata.org/wiki/Q33971|https://www.wikidata.org/wiki/Q140"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP281879.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/DP281880.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP281881.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 36285,
+        "role": "Manufactory",
+        "name": "Vincennes Manufactory",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500055302",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3287039",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": "confirmed",
+        "elementMeasurements": {
+          "Depth": 18.097536,
+          "Height": 28.416307,
+          "Width": 26.352552
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Female Nudes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300189568",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q40446"
+      },
+      {
+        "term": "Lions",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300310388",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q140"
+      }
+    ]
+  }
+}

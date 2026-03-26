@@ -1,0 +1,100 @@
+{
+  "object_id": 13169,
+  "excel_metadata": {
+    "Object Number": "65.84",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 13169,
+    "Gallery Number": NaN,
+    "Department": "The American Wing",
+    "AccessionYear": 1965.0,
+    "Object Name": "Painting, miniature",
+    "Title": "Mary House",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 300.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Mary Way",
+    "Artist Display Bio": "American, New London, Connecticut 1769–1833 New London, Connecticut",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Way, Mary",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1769",
+    "Artist End Date": "1833",
+    "Artist Gender": "Female",
+    "Artist ULAN URL": NaN,
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q21995241",
+    "Object Date": "ca. 1795",
+    "Object Begin Date": 1792,
+    "Object End Date": 1795,
+    "Medium": "Watercolor on paper with linen additions",
+    "Dimensions": "Sight: 2 7/8 x 2 3/8 in. (7.3 x 6 cm)",
+    "Credit Line": "Gift of Catherine G. Griffin, 1965",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/13169",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20177842",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Portraits|Girls|Profiles",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300247581|http://vocab.getty.edu/page/aat/300123319",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q3031|https://www.wikidata.org/wiki/Q4382010"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/ap65.84.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 3009,
+        "role": "Artist",
+        "name": "Mary Way",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q21995241",
+        "gender": "Female"
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Sight",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 7.3025,
+          "Width": 6.0325
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Girls",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300247581",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3031"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Profiles",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300123319",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q4382010"
+      }
+    ]
+  }
+}

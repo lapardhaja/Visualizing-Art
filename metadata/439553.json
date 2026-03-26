@@ -1,0 +1,117 @@
+{
+  "object_id": 439553,
+  "excel_metadata": {
+    "Object Number": "2008.72",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 439553,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 2008.0,
+    "Object Name": "Painting",
+    "Title": "The Lamentation",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16385.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Domenichino (Domenico Zampieri)",
+    "Artist Display Bio": "Italian, Bologna 1581–1641 Naples",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Domenichino (Domenico Zampieri)",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1581",
+    "Artist End Date": "1641",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500018832",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q320118",
+    "Object Date": "1603",
+    "Object Begin Date": 1603,
+    "Object End Date": 1603,
+    "Medium": "Oil on copper",
+    "Dimensions": "20 7/8 x 14 3/4 in. (53 x 37.5 cm)",
+    "Credit Line": "Purchase, Walter and Leonore Annenberg Acquisitions Endowment Fund, European Paintings Funds and funds from various donors; Mr. and Mrs. Mark Fisch and The Reed Foundation Gifts; Gwynne Andrews Fund; Elaine Rosenberg Gift; The Edward Joseph Gallagher III Memorial Collection, Edward J. Gallagher Jr. Bequest; Marquand Fund; Museum Purchase Fund; Peter Tcherepnine Gift; The Camille M. Lownds Fund; Stephenson Family Foundation Gift; Ruth and Victoria Blumka Fund; Earl Kiely Bequest; and The Morse G. Dial Foundation, 2005 CINOA Prize and Diane Carol Brandt Gifts, 2008\r\n",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/439553",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19905177",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Sadness|Mary Magdalene|Lamentation|Angels|Christ|Virgin Mary",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300055166|http://vocab.getty.edu/page/ia/901000161|http://vocab.getty.edu/page/ia/901001196|http://vocab.getty.edu/page/aat/300379004|http://vocab.getty.edu/page/ia/901000087|http://vocab.getty.edu/page/ia/901000032",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q169251|https://www.wikidata.org/wiki/Q63070|https://www.wikidata.org/wiki/Q3155356|https://www.wikidata.org/wiki/Q235113|https://www.wikidata.org/wiki/Q642420|https://www.wikidata.org/wiki/Q345"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP159526.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/DP159528.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 163855,
+        "role": "Artist",
+        "name": "Domenichino (Domenico Zampieri)",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500018832",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q320118",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 53,
+          "Width": 37.5
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Sadness",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300055166",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q169251"
+      },
+      {
+        "term": "Angels",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379004",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q235113"
+      },
+      {
+        "term": "Christ",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+      },
+      {
+        "term": "Mary Magdalene",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000161",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q63070"
+      },
+      {
+        "term": "Virgin Mary",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000032",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q345"
+      },
+      {
+        "term": "Lamentation",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901001196",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3155356"
+      }
+    ]
+  }
+}

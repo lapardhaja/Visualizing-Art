@@ -1,0 +1,104 @@
+{
+  "object_id": 11253,
+  "excel_metadata": {
+    "Object Number": "15.30.65",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 11253,
+    "Gallery Number": 761.0,
+    "Department": "The American Wing",
+    "AccessionYear": 1915.0,
+    "Object Name": "Painting",
+    "Title": "Bayside, New Rochelle, New York",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 264.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "David Johnson",
+    "Artist Display Bio": "American, New York 1827–1908 Walden, New York",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Johnson, David",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1827",
+    "Artist End Date": "1908",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500005613",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q3695975",
+    "Object Date": "1886",
+    "Object Begin Date": 1886,
+    "Object End Date": 1886,
+    "Medium": "Oil on canvas",
+    "Dimensions": "19 1/2 x 24 in. (49.5 x 61 cm)",
+    "Credit Line": "Bequest of Maria DeWitt Jesup, from the collection of her husband, Morris K. Jesup, 1914",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/11253",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20174819",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Landscapes|Boats",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300132294|http://vocab.getty.edu/page/aat/300178749",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q191163|https://www.wikidata.org/wiki/Q35872"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/ap15.30.65.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 2640,
+        "role": "Artist",
+        "name": "David Johnson",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500005613",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3695975",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 49.5,
+          "Width": 61
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 9.3,
+          "Height": 67.7,
+          "Width": 78.8
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Landscapes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+      },
+      {
+        "term": "Boats",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300178749",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q35872"
+      }
+    ]
+  }
+}

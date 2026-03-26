@@ -1,0 +1,104 @@
+{
+  "object_id": 459019,
+  "excel_metadata": {
+    "Object Number": "1975.1.77",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 459019,
+    "Gallery Number": NaN,
+    "Department": "Robert Lehman Collection",
+    "AccessionYear": 1975.0,
+    "Object Name": "Painting",
+    "Title": "The Annunciation",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 13567.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Alesso di Benozzo",
+    "Artist Display Bio": "Italian, Florence, 1473–1528",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Alesso di Benozzo",
+    "Artist Nationality": " ",
+    "Artist Begin Date": "1473",
+    "Artist End Date": "1528",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500183449",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q16240425",
+    "Object Date": "ca. 1480–1500",
+    "Object Begin Date": 1475,
+    "Object End Date": 1505,
+    "Medium": "Tempera and gold on wood",
+    "Dimensions": "Overall 16 1/4 x 14 5/8 in. (41.3 x 37.1 cm); painted surface 16 x 14 1/8 in. (40.6 x 36 cm)",
+    "Credit Line": "Robert Lehman Collection, 1975",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/459019",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20188038",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Angels|Virgin Mary|Annunciation",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300379004|http://vocab.getty.edu/page/ia/901000032|http://vocab.getty.edu/page/aat/300412102",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q235113|https://www.wikidata.org/wiki/Q345|https://www.wikidata.org/wiki/Q154326"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/rl/original/DP267398.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/rl/original/DT3051.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/0138.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/ep1975.1.77.bw.R.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 135677,
+        "role": "Artist",
+        "name": "Alesso di Benozzo",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500183449",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q16240425",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 41.3,
+          "Width": 37.1
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Angels",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379004",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q235113"
+      },
+      {
+        "term": "Virgin Mary",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000032",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q345"
+      },
+      {
+        "term": "Annunciation",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300412102",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q154326"
+      }
+    ]
+  }
+}

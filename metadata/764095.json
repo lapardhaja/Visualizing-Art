@@ -1,0 +1,103 @@
+{
+  "object_id": 764095,
+  "excel_metadata": {
+    "Object Number": "2018.652.5",
+    "Is Highlight": true,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 764095,
+    "Gallery Number": 757.0,
+    "Department": "The American Wing",
+    "AccessionYear": 2018.0,
+    "Object Name": "Painting",
+    "Title": "Christ Carrying the Cross, called \"The Lord of the Fall\"",
+    "Culture": "Peru (Cuzco)",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16998.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Unknown",
+    "Artist Display Bio": " ",
+    "Artist Suffix": "Cuzco Artist (Peru, second half 18th century)",
+    "Artist Alpha Sort": "Unknown",
+    "Artist Nationality": " ",
+    "Artist Begin Date": "          ",
+    "Artist End Date": "          ",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500125274",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q24238356",
+    "Object Date": "ca. 1770–75",
+    "Object Begin Date": 1770,
+    "Object End Date": 1775,
+    "Medium": "Oil and gold on canvas",
+    "Dimensions": "65 × 48 in. (165.1 × 121.9 cm)",
+    "Credit Line": "Gift of James Kung Wei Li, in memory of Ambassador and Mme Ti-Tsun Li, Republic of China, 2018",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/764095",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q104413133",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Angels|Christ",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300379004|http://vocab.getty.edu/page/ia/901000087",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q235113|https://www.wikidata.org/wiki/Q642420"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DP-18755-007.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 169986,
+        "role": "Artist",
+        "name": "Unknown",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500125274",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q24238356",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 174.5,
+          "Width": 131
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 165.10033,
+          "Width": 121.92024
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Angels",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379004",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q235113"
+      },
+      {
+        "term": "Christ",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+      }
+    ]
+  }
+}

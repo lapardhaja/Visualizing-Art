@@ -51,7 +51,7 @@
 <!-- Menu at the top of the website -->
 <header class="site-header">
     <nav class="nav">
-        <a href="index.html" aria-current="page">Home</a>
+        <a href="./index.html" aria-current="page">Home</a>
         <a href="web/pages/about.html">About</a>
         <a href="web/pages/connections.html">Art Connections</a>
         <a href="web/pages/filters.html">Art Filters</a>
@@ -86,8 +86,8 @@
 
         // Grabbing our thumbnails directory and CSV file
         const THUMBS_DIR = ON_GCS ? `${GCS_BASE}/thumbnails` : "thumbnails";
-        const CSV_PATH   = ON_GCS ? `${GCS_BASE}/embeddings/summary_combined.csv`
-            : "embeddings/summary_combined.csv";
+        const CSV_PATH   = ON_GCS ? `${GCS_BASE}/data/summary_combined.csv`
+            : "data/summary_combined.csv";
 
         // Pulling MET object id from each CSV row
         const getId = row => row.query_object_id;

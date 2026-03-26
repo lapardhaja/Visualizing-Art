@@ -1,0 +1,114 @@
+{
+  "object_id": 437069,
+  "excel_metadata": {
+    "Object Number": "87.15.107",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437069,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1887.0,
+    "Object Name": "Painting",
+    "Title": "Falling Leaves, Allegory of Autumn",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16491.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Hugues Merle",
+    "Artist Display Bio": "French, Saint-Marcellin 1823–1881 Paris",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Merle, Hugues",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1823",
+    "Artist End Date": "1881",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500026439",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q5934744",
+    "Object Date": "1872",
+    "Object Begin Date": 1872,
+    "Object End Date": 1872,
+    "Medium": "Oil on canvas",
+    "Dimensions": "68 7/8 x 43 1/4 in. (174.9 x 109.9 cm)",
+    "Credit Line": "Catharine Lorillard Wolfe Collection, Bequest of Catharine Lorillard Wolfe, 1887",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437069",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912164",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Children|Female Nudes|Autumn|Allegory",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025945|http://vocab.getty.edu/page/aat/300189568|http://vocab.getty.edu/page/aat/300133093|http://vocab.getty.edu/page/aat/300055866",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q7569|https://www.wikidata.org/wiki/Q40446|https://www.wikidata.org/wiki/Q1314|https://www.wikidata.org/wiki/Q18535"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/ep87.15.107.bw.R.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 164912,
+        "role": "Artist",
+        "name": "Hugues Merle",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500026439",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5934744",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 174.9,
+          "Width": 109.9
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 17.462536,
+          "Height": 220.66295,
+          "Width": 150.8128
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Children",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025945",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q7569"
+      },
+      {
+        "term": "Female Nudes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300189568",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q40446"
+      },
+      {
+        "term": "Autumn",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300133093",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q1314"
+      },
+      {
+        "term": "Allegory",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300055866",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q18535"
+      }
+    ]
+  }
+}

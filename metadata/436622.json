@@ -1,0 +1,132 @@
+{
+  "object_id": 436622,
+  "excel_metadata": {
+    "Object Number": "14.40.605",
+    "Is Highlight": true,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 436622,
+    "Gallery Number": 964.0,
+    "Department": "European Paintings",
+    "AccessionYear": 1914.0,
+    "Object Name": "Painting",
+    "Title": "Merrymakers at Shrovetide",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16197.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Frans Hals",
+    "Artist Display Bio": "Dutch, Antwerp 1582/83–1666 Haarlem",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Hals, Frans",
+    "Artist Nationality": "Dutch",
+    "Artist Begin Date": "1582",
+    "Artist End Date": "1666",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500027794",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q167654",
+    "Object Date": "ca. 1616–17",
+    "Object Begin Date": 1616,
+    "Object End Date": 1617,
+    "Medium": "Oil on canvas",
+    "Dimensions": "51 3/4 x 39 1/4 in. (131.4 x 99.7 cm)",
+    "Credit Line": "Bequest of Benjamin Altman, 1913",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436622",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q12088934",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Bread|Happiness|Men|Women|Party|Bagpipes|Eggs|Food",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300262820|http://vocab.getty.edu/page/aat/300410323|http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/aat/300069614|http://vocab.getty.edu/page/aat/300042405|http://vocab.getty.edu/page/aat/300395680|http://vocab.getty.edu/page/aat/300254496",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q7802|https://www.wikidata.org/wiki/Q8|https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q200538|https://www.wikidata.org/wiki/Q8347|https://www.wikidata.org/wiki/Q93189|https://www.wikidata.org/wiki/Q2095"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP145901.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 161974,
+        "role": "Artist",
+        "name": "Frans Hals",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500027794",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q167654",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Other",
+        "elementDescription": "Picture + Frame (F.14.40.605A)",
+        "elementMeasurements": {
+          "Weight": 27.669418
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 131.4,
+          "Width": 99.7
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Food",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300254496",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q2095"
+      },
+      {
+        "term": "Bread",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300262820",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q7802"
+      },
+      {
+        "term": "Happiness",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300410323",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Party",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300069614",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q200538"
+      },
+      {
+        "term": "Bagpipes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300042405",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8347"
+      },
+      {
+        "term": "Eggs",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300395680",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q93189"
+      }
+    ]
+  }
+}

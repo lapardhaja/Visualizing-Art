@@ -1,0 +1,104 @@
+{
+  "object_id": 487558,
+  "excel_metadata": {
+    "Object Number": "27.18",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 487558,
+    "Gallery Number": NaN,
+    "Department": "Modern and Contemporary Art",
+    "AccessionYear": 1927.0,
+    "Object Name": "Painting",
+    "Title": "Landscape with Figures",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 14572.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Kenneth Hayes Miller",
+    "Artist Display Bio": "American, Oneida, New York 1876–1952 New York, New York",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Miller, Kenneth Hayes",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1876",
+    "Artist End Date": "1952",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500025218",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q3195174",
+    "Object Date": "1914",
+    "Object Begin Date": 1914,
+    "Object End Date": 1914,
+    "Medium": "Oil on canvas",
+    "Dimensions": "20 × 17 in. (50.8 × 43.2 cm)",
+    "Credit Line": "Gift of students and admirers of the artist, 1927",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/487558",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19923408",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Female Nudes|Landscapes",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300189568|http://vocab.getty.edu/page/aat/300132294",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q40446|https://www.wikidata.org/wiki/Q191163"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ma/original/sf27.180.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 145720,
+        "role": "Artist",
+        "name": "Kenneth Hayes Miller",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500025218",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3195174",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 50.8,
+          "Width": 43.2
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 4.7625093,
+          "Height": 73.977646,
+          "Width": 66.67513
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Female Nudes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300189568",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q40446"
+      },
+      {
+        "term": "Landscapes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+      }
+    ]
+  }
+}

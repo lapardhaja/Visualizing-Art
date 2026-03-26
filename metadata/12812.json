@@ -1,0 +1,97 @@
+{
+  "object_id": 12812,
+  "excel_metadata": {
+    "Object Number": "50.145.36",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 12812,
+    "Gallery Number": NaN,
+    "Department": "The American Wing",
+    "AccessionYear": 1950.0,
+    "Object Name": "Painting, miniature",
+    "Title": "Portrait of a Gentleman",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 296.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Benjamin Trott",
+    "Artist Display Bio": "ca. 1770–1843",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Trott, Benjamin",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1767",
+    "Artist End Date": "1843",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500001905",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q20852879",
+    "Object Date": "ca. 1812",
+    "Object Begin Date": 1809,
+    "Object End Date": 1812,
+    "Medium": "Watercolor on ivory",
+    "Dimensions": "3 9/16 x 2 31/32 in. (9 x 7.5 cm)",
+    "Credit Line": "Bequest of Mary Stillman Harkness, 1950",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/12812",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19924594",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DP276995.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ad/original/ap50.145.36.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 2965,
+        "role": "Artist",
+        "name": "Benjamin Trott",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500001905",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q20852879",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 9,
+          "Width": 7.5
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

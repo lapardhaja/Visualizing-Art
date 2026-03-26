@@ -1,0 +1,93 @@
+{
+  "object_id": 202142,
+  "excel_metadata": {
+    "Object Number": "58.75.26",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 202142,
+    "Gallery Number": 524,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1958,
+    "Object Name": "Armchair",
+    "Title": "Armchair (Fauteuil à la reine) (one of a pair) (part of a set)",
+    "Culture": "French, Paris",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 463163381,
+    "Artist Role": "Maker|Maker",
+    "Artist Prefix": "Possibly embroidered by| ",
+    "Artist Display Name": "Joseph-François-Xavier Baudoin|Georges Jacob",
+    "Artist Display Bio": "French, 1739–ca. 1786|French, Cheny 1739–1814 Paris",
+    "Artist Suffix": " | ",
+    "Artist Alpha Sort": "Baudoin, Joseph-François-Xavier|Jacob, Georges",
+    "Artist Nationality": "French|French",
+    "Artist Begin Date": "1739      |1739      ",
+    "Artist End Date": "1786      |1814      ",
+    "Artist Gender": "|",
+    "Artist ULAN URL": "|http://vocab.getty.edu/page/ulan/500115031",
+    "Artist Wikidata URL": "|https://www.wikidata.org/wiki/Q503567",
+    "Object Date": "ca. 1780–85",
+    "Object Begin Date": 1775,
+    "Object End Date": 1790,
+    "Medium": "Carved and gilded walnut; embroidered silk satin",
+    "Dimensions": "Overall: 40 1/4 × 29 1/2 × 30 5/8 in. (102.2 × 74.9 × 77.8 cm)",
+    "Credit Line": "Gift of Samuel H. Kress Foundation, 1958",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Woodwork-Furniture",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/202142",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q116310453",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": null,
+    "Tags AAT URL": null,
+    "Tags Wikidata URL": null
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/ES5029.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 33813,
+        "role": "Maker",
+        "name": "Georges Jacob",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115031",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q503567",
+        "gender": ""
+      },
+      {
+        "constituentID": 46316,
+        "role": "Maker",
+        "name": "Possibly embroidered by Joseph-François-Xavier Baudoin",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 77.78766,
+          "Height": 102.2,
+          "Width": 74.9
+        }
+      }
+    ],
+    "tags": null
+  }
+}

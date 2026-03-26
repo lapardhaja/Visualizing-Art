@@ -1,0 +1,108 @@
+{
+  "object_id": 436580,
+  "excel_metadata": {
+    "Object Number": "1970.295",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 436580,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1970.0,
+    "Object Name": "Painting",
+    "Title": "Aegina Visited by Jupiter",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16555.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Jean-Baptiste Greuze",
+    "Artist Display Bio": "French, Tournus 1725–1805 Paris",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Greuze, Jean-Baptiste",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1725",
+    "Artist End Date": "1805",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500000119",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q347139",
+    "Object Date": "ca. 1767–69",
+    "Object Begin Date": 1767,
+    "Object End Date": 1769,
+    "Medium": "Oil on canvas",
+    "Dimensions": "57 7/8 x 77 1/8 in. (147 x 195.9 cm)",
+    "Credit Line": "Gift of Harry N. Abrams and Purchase, Joseph Pulitzer Bequest, Pfeiffer, Fletcher, and Rogers Funds, 1970",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436580",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19905222",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Jupiter|Eagles|Female Nudes|Beds",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901000166|http://vocab.getty.edu/page/aat/300250049|http://vocab.getty.edu/page/aat/300189568|http://vocab.getty.edu/page/aat/300038697",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q4649|https://www.wikidata.org/wiki/Q2092297|https://www.wikidata.org/wiki/Q40446|https://www.wikidata.org/wiki/Q42177"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-12954-001.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-1970_295-2.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-1970_295-3.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 165551,
+        "role": "Artist",
+        "name": "Jean-Baptiste Greuze",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500000119",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q347139",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 147,
+          "Width": 195.9
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Eagles",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250049",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q2092297"
+      },
+      {
+        "term": "Female Nudes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300189568",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q40446"
+      },
+      {
+        "term": "Jupiter",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000166",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q4649"
+      },
+      {
+        "term": "Beds",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300038697",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q42177"
+      }
+    ]
+  }
+}

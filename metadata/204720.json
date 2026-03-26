@@ -1,0 +1,124 @@
+{
+  "object_id": 204720,
+  "excel_metadata": {
+    "Object Number": 67.34,
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 204720,
+    "Gallery Number": 548,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1967,
+    "Object Name": "Group",
+    "Title": "Andromeda and the Sea Monster",
+    "Culture": "Italian, Rome",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 336269297,
+    "Artist Role": "Artist|Patron",
+    "Artist Prefix": " |Commissioned by",
+    "Artist Display Name": "Domenico Guidi|Francesco II, Duke of Mantua and Reggio",
+    "Artist Display Bio": "Italian, 1625–1701|Italian, 1660–1694",
+    "Artist Suffix": " |, who died before the sculpture's completion",
+    "Artist Alpha Sort": "Guidi Domenico|Francesco II, Duke of Mantua and Reggio",
+    "Artist Nationality": "Italian|Italian",
+    "Artist Begin Date": "1625      |1660      ",
+    "Artist End Date": "1701      |1694      ",
+    "Artist Gender": "|",
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500021998|",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q937081|",
+    "Object Date": 1694,
+    "Object Begin Date": 1694,
+    "Object End Date": 1694,
+    "Medium": "Marble",
+    "Dimensions": "Overall (confirmed): 64 3/8 x 46 3/8 x 34 5/8 in. (163.5 x 117.8 x 87.9 cm)",
+    "Credit Line": "Purchase, Josephine Bay Paul and C. Michael Paul Foundation Inc. Gift and Charles Ulrick and Josephine Bay Foundation Inc. Gift, 1967",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Sculpture",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/204720",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q61582849",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Female Nudes|Andromeda|Monsters",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300189568| |http://vocab.getty.edu/page/aat/300412118",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q40446|https://www.wikidata.org/wiki/Q161582|https://www.wikidata.org/wiki/Q276453"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP248137.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/DP248138.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP248139.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP246609.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP248135.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP248136.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 33626,
+        "role": "Artist",
+        "name": "Domenico Guidi",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500021998",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q937081",
+        "gender": ""
+      },
+      {
+        "constituentID": 92972,
+        "role": "Patron",
+        "name": "Commissioned by Francesco II, Duke of Mantua and Reggio",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": "historic dimensions, superceded",
+        "elementMeasurements": {
+          "Depth": 85.1,
+          "Height": 162.2,
+          "Width": 114.3
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": "confirmed",
+        "elementMeasurements": {
+          "Depth": 87.94768,
+          "Height": 163.51283,
+          "Width": 117.79273
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Female Nudes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300189568",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q40446"
+      },
+      {
+        "term": "Andromeda",
+        "AAT_URL": null,
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q161582"
+      },
+      {
+        "term": "Monsters",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300412118",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q276453"
+      }
+    ]
+  }
+}

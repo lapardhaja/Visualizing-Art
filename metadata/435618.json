@@ -1,0 +1,112 @@
+{
+  "object_id": 435618,
+  "excel_metadata": {
+    "Object Number": "1989.132",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 435618,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1989.0,
+    "Object Name": "Painting, lunette",
+    "Title": "The Trinity",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16602.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Bartolomeo di Giovanni",
+    "Artist Display Bio": "Italian, Florence, active by 1488–died 1501",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Bartolomeo di Giovanni",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1488",
+    "Artist End Date": "1501",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500028670",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q2013867",
+    "Object Date": NaN,
+    "Object Begin Date": 1488,
+    "Object End Date": 1501,
+    "Medium": "Tempera on wood",
+    "Dimensions": "Painted surface 5 1/8 x 10 1/4 in. (13 x 26 cm)",
+    "Credit Line": "Gift of Daniel Wildenstein, 1989",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings|Frames",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/435618",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912100",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Crucifixion|Doves|God the Father|Angels|Christ",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300404300|http://vocab.getty.edu/page/aat/300250045|http://vocab.getty.edu/page/ia/901000593|http://vocab.getty.edu/page/aat/300379004|http://vocab.getty.edu/page/ia/901000087",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q3235597|https://www.wikidata.org/wiki/Q2984138|https://www.wikidata.org/wiki/Q186350|https://www.wikidata.org/wiki/Q235113|https://www.wikidata.org/wiki/Q642420"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-24090-001.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/DP-24090-003.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 166021,
+        "role": "Artist",
+        "name": "Bartolomeo di Giovanni",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500028670",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q2013867",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 13,
+          "Width": 26
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Doves",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250045",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q2984138"
+      },
+      {
+        "term": "Angels",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379004",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q235113"
+      },
+      {
+        "term": "Christ",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+      },
+      {
+        "term": "Crucifixion",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300404300",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3235597"
+      },
+      {
+        "term": "God the Father",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000593",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q186350"
+      }
+    ]
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "object_id": 13051,
+  "excel_metadata": {
+    "Object Number": "17.87.2",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 13051,
+    "Gallery Number": 774.0,
+    "Department": "The American Wing",
+    "AccessionYear": 1917.0,
+    "Object Name": "Painting",
+    "Title": "Mrs. Marinus Willett and Her Son Marinus, Jr.",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16260.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "John Vanderlyn",
+    "Artist Display Bio": "American, Kingston, New York 1775–1852 Kingston, New York",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Vanderlyn, John",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1775",
+    "Artist End Date": "1852",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500002618",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q1661665",
+    "Object Date": "ca. 1802",
+    "Object Begin Date": 1799,
+    "Object End Date": 1802,
+    "Medium": "Oil on canvas",
+    "Dimensions": "36 7/8 x 28 1/8 in. (93.7 x 71.4 cm)",
+    "Credit Line": "Bequest of George Willett Van Nest, 1916",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/13051",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20169661",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Boys|Portraits|Mothers|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300247598|http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300025932|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q3010|https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q7560|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/ap17.87.2.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162604,
+        "role": "Artist",
+        "name": "John Vanderlyn",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500002618",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1661665",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 9.525,
+          "Height": 115.5702,
+          "Width": 93.3452
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 93.7,
+          "Width": 71.4
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Boys",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300247598",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3010"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Mothers",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025932",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q7560"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

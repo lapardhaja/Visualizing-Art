@@ -1,0 +1,118 @@
+{
+  "object_id": 200572,
+  "excel_metadata": {
+    "Object Number": "49.7.78a–c, .79a–c",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 200572,
+    "Gallery Number": 529,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1949,
+    "Object Name": "Vases",
+    "Title": "Pair of vases (vases cuir)",
+    "Culture": "French, Sèvres",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 1648563368,
+    "Artist Role": "Manufactory|Artist",
+    "Artist Prefix": " |Figural decoration based on sculptures by",
+    "Artist Display Name": "Sèvres Manufactory|Etienne-Maurice Falconet",
+    "Artist Display Bio": "French, 1740–present|French, Paris 1716–1791 Paris",
+    "Artist Suffix": " | ",
+    "Artist Alpha Sort": "Sèvres Manufactory|Falconet, Etienne-Maurice",
+    "Artist Nationality": "French|French",
+    "Artist Begin Date": "1740      |1716      ",
+    "Artist End Date": "9999      |1791      ",
+    "Artist Gender": "|",
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500054661|http://vocab.getty.edu/page/ulan/500115285",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q653307|https://www.wikidata.org/wiki/Q289246",
+    "Object Date": "ca. 1765–70",
+    "Object Begin Date": 1760,
+    "Object End Date": 1775,
+    "Medium": "Soft-paste porcelain, gilt bronze",
+    "Dimensions": "vases only: 16 3/8 × 8 3/4 in. (41.6 × 22.2 cm);_x000D_\nvases on gilt-bronze base (removed): 18 7/8 in. (47.9 cm)",
+    "Credit Line": "The Jules Bache Collection, 1949",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Ceramics-Porcelain",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/200572",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q116309543",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Birds|Cupid|Psyche",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300266506|http://vocab.getty.edu/page/aat/300380105|http://vocab.getty.edu/page/ia/901002042",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q5113|https://www.wikidata.org/wiki/Q5011|https://www.wikidata.org/wiki/Q843382"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP363209.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/DP363210.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP363215.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 164856,
+        "role": "Manufactory",
+        "name": "Sèvres Manufactory",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500054661",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q653307",
+        "gender": ""
+      },
+      {
+        "constituentID": 33680,
+        "role": "Artist",
+        "name": "Figural decoration based on sculptures by Etienne-Maurice Falconet",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115285",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q289246",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": "vase on gilt bronze base",
+        "elementMeasurements": {
+          "Height": 47.9
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": "vase only",
+        "elementMeasurements": {
+          "Height": 41.592583,
+          "Width": 22.225044
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Birds",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300266506",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q5113"
+      },
+      {
+        "term": "Cupid",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300380105",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q5011"
+      },
+      {
+        "term": "Psyche",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901002042",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q843382"
+      }
+    ]
+  }
+}

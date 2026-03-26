@@ -1,0 +1,87 @@
+{
+  "object_id": 206603,
+  "excel_metadata": {
+    "Object Number": "1977.102.7",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 206603,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1977,
+    "Object Name": "Work and writing table",
+    "Title": "Work and writing table",
+    "Culture": "French, Paris",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 3350,
+    "Artist Role": "Maker",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Bernard II van Risenburgh",
+    "Artist Display Bio": "ca. 1696–ca. 1767",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Risenburgh, Bernard II van",
+    "Artist Nationality": " ",
+    "Artist Begin Date": 1696,
+    "Artist End Date": 1767,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500003055",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q9169348",
+    "Object Date": "ca. 1755–60",
+    "Object Begin Date": 1750,
+    "Object End Date": 1765,
+    "Medium": "Oak, tulipwood, root-cut kingwood, gilt bronze and silvered metal",
+    "Dimensions": "27 1/8 × 17 1/4 × 11 3/4 in. (68.9 × 43.8 × 29.8 cm)",
+    "Credit Line": "Gift of Mr. and Mrs. Charles Wrightsman, 1977",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Woodwork-Furniture",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/206603",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": null,
+    "Tags AAT URL": null,
+    "Tags Wikidata URL": null
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/210603.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/210604.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 33507,
+        "role": "Maker",
+        "name": "Bernard II van Risenburgh",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500003055",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q9169348",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 29.84506,
+          "Height": 68.9,
+          "Width": 43.8
+        }
+      }
+    ],
+    "tags": null
+  }
+}

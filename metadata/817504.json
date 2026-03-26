@@ -1,0 +1,112 @@
+{
+  "object_id": 817504,
+  "excel_metadata": {
+    "Object Number": "2019.21",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 817504,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 2019.0,
+    "Object Name": "Painting",
+    "Title": "Portrait of a Boy",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16314.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Louis Léopold Boilly",
+    "Artist Display Bio": "French, La Bassée 1761–1845 Paris",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Boilly, Louis Léopold",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1761",
+    "Artist End Date": "1845",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500023946",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q715909",
+    "Object Date": "ca. 1805",
+    "Object Begin Date": 1800,
+    "Object End Date": 1810,
+    "Medium": "Oil on canvas",
+    "Dimensions": "28 7/16 × 23 3/8 in. (72.3 × 59.4 cm)",
+    "Credit Line": "Gift of the Eugene V. and Clare E. Thaw Charitable Trust, 2019",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/817504",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q78607777",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Apples|Boys|Dolls|Stools|Cakes",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300266417|http://vocab.getty.edu/page/aat/300247598|http://vocab.getty.edu/page/aat/300211087|http://vocab.getty.edu/page/aat/300038418|http://vocab.getty.edu/page/aat/300255019",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q89|https://www.wikidata.org/wiki/Q3010|https://www.wikidata.org/wiki/Q168658|https://www.wikidata.org/wiki/Q33163|https://www.wikidata.org/wiki/Q13276"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-16594-001.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-2019_21-fig_1.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 163149,
+        "role": "Artist",
+        "name": "Louis Léopold Boilly",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500023946",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q715909",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 72.3,
+          "Width": 59.4
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Apples",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300266417",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q89"
+      },
+      {
+        "term": "Boys",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300247598",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3010"
+      },
+      {
+        "term": "Dolls",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300211087",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q168658"
+      },
+      {
+        "term": "Stools",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300038418",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q33163"
+      },
+      {
+        "term": "Cakes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300255019",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q13276"
+      }
+    ]
+  }
+}

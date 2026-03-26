@@ -1,0 +1,98 @@
+{
+  "object_id": 201865,
+  "excel_metadata": {
+    "Object Number": 55.113,
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 201865,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1955,
+    "Object Name": "Statuette group",
+    "Title": "Nessus and Dejanira",
+    "Culture": "Italian, Florence",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 16360,
+    "Artist Role": "Artist",
+    "Artist Prefix": "After a model by",
+    "Artist Display Name": "Giambologna",
+    "Artist Display Bio": "Netherlandish, Douai 1529–1608 Florence",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Giambologna",
+    "Artist Nationality": "Netherlandish",
+    "Artist Begin Date": 1529,
+    "Artist End Date": 1608,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500016387",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q220136",
+    "Object Date": "modeled: early 17th century, cast: probably late 19th century",
+    "Object Begin Date": 1600,
+    "Object End Date": 1899,
+    "Medium": "Bronze",
+    "Dimensions": "Overall: 16 1/4 × 14 5/8 × 7 3/8 in. (41.3 × 37.1 × 18.7 cm)",
+    "Credit Line": "Gift of Robert F. Hogue, 1955",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Sculpture-Bronze",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/201865",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Centaurs|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300379740|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q83203|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP-921-001.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/DP-921-002.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 163601,
+        "role": "Artist",
+        "name": "After a model by Giambologna",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500016387",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q220136",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 18.732538,
+          "Height": 41.27508,
+          "Width": 37.147575
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Centaurs",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379740",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q83203"
+      }
+    ]
+  }
+}

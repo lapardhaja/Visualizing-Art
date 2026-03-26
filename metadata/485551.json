@@ -1,0 +1,107 @@
+{
+  "object_id": 485551,
+  "excel_metadata": {
+    "Object Number": "1990.38.4",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 485551,
+    "Gallery Number": NaN,
+    "Department": "Modern and Contemporary Art",
+    "AccessionYear": 1990.0,
+    "Object Name": "Painting",
+    "Title": "Self-Portrait",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16318.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Umberto Boccioni",
+    "Artist Display Bio": "Italian, Reggio 1882–1916 Sorte",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Boccioni, Umberto",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1882",
+    "Artist End Date": "1916",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500012624",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q152797",
+    "Object Date": "1905",
+    "Object Begin Date": 1905,
+    "Object End Date": 1905,
+    "Medium": "Oil on canvas",
+    "Dimensions": "20 1/4 x 27 in. (51.4 x 68.6 cm)",
+    "Credit Line": "Bequest of Lydia Winston Malbin, 1989",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/485551",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19919289",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Self-portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300124534",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q192110"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ma/original/LC-1990_38_4-overall-20240701-01.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ma/original/DT6414.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 163186,
+        "role": "Artist",
+        "name": "Umberto Boccioni",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500012624",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q152797",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 2.8575058,
+          "Height": 54.610107,
+          "Width": 70.16764
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": "F.1990.38.4 Green and gold wood frame-AR plexi",
+        "elementMeasurements": {
+          "Depth": 5.7150116,
+          "Height": 67.94514,
+          "Width": 84.45517
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Self-portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300124534",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q192110"
+      }
+    ]
+  }
+}

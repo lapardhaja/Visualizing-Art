@@ -1,0 +1,99 @@
+{
+  "object_id": 437350,
+  "excel_metadata": {
+    "Object Number": "30.2",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437350,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1930.0,
+    "Object Name": "Painting",
+    "Title": "Tamaris",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16228.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Pierre Puvis de Chavannes",
+    "Artist Display Bio": "French, Lyons 1824–1898 Paris",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Puvis de Chavannes, Pierre",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1824",
+    "Artist End Date": "1898",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500008870",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q216873",
+    "Object Date": "ca. 1886–87",
+    "Object Begin Date": 1886,
+    "Object End Date": 1887,
+    "Medium": "Oil on canvas",
+    "Dimensions": "10 x 15 1/2 in. (25.4 x 39.4 cm)",
+    "Credit Line": "H. O. Havemeyer Collection, Gift of Mrs. J. Watson Webb, 1930",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437350",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19913000",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Female Nudes",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300189568",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q40446"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-14201-009.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162280,
+        "role": "Artist",
+        "name": "Pierre Puvis de Chavannes",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500008870",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q216873",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 25.4,
+          "Width": 39.4
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 7.620015,
+          "Height": 41.910084,
+          "Width": 55.88011
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Female Nudes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300189568",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q40446"
+      }
+    ]
+  }
+}

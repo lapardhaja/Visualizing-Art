@@ -1,0 +1,115 @@
+{
+  "object_id": 437336,
+  "excel_metadata": {
+    "Object Number": "1979.209",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 437336,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1979.0,
+    "Object Name": "Painting",
+    "Title": "Madonna and Child with Saints Francis and Dominic and Angels",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16227.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Giulio Cesare Procaccini",
+    "Artist Display Bio": "Italian, Bologna 1574–1625 Milan",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Procaccini, Giulio Cesare",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1574",
+    "Artist End Date": "1625",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500017888",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q1119589",
+    "Object Date": NaN,
+    "Object Begin Date": 1594,
+    "Object End Date": 1625,
+    "Medium": "Oil on canvas",
+    "Dimensions": "101 1/8 x 56 3/8 in. (256.9 x 143.2 cm)",
+    "Credit Line": "Purchase, Enid A. Haupt Gift, 1979",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437336",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19905371",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Madonna and Child|Saints|Angels",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901000052|http://vocab.getty.edu/page/aat/300150555|http://vocab.getty.edu/page/aat/300379004",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q9309699|https://www.wikidata.org/wiki/Q43115|https://www.wikidata.org/wiki/Q235113"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT9442.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162277,
+        "role": "Artist",
+        "name": "Giulio Cesare Procaccini",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500017888",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1119589",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 256.9,
+          "Width": 143.2
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 284.48056,
+          "Width": 175.89536
+        }
+      },
+      {
+        "elementName": "Other",
+        "elementDescription": "Picture + Frame (F.1979.209)",
+        "elementMeasurements": {
+          "Weight": 45.8133
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Angels",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379004",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q235113"
+      },
+      {
+        "term": "Madonna and Child",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000052",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q9309699"
+      },
+      {
+        "term": "Saints",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300150555",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q43115"
+      }
+    ]
+  }
+}

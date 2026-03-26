@@ -1,0 +1,102 @@
+{
+  "object_id": 441769,
+  "excel_metadata": {
+    "Object Number": "2013.155",
+    "Is Highlight": true,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 441769,
+    "Gallery Number": 806.0,
+    "Department": "European Paintings",
+    "AccessionYear": 2013.0,
+    "Object Name": "Painting",
+    "Title": "Virgil's Tomb by Moonlight, with Silius Italicus Declaiming",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16619.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Joseph Wright (Wright of Derby)",
+    "Artist Display Bio": "British, Derby 1734–1797 Derby",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Wright, Joseph (Wright of Derby)",
+    "Artist Nationality": "British",
+    "Artist Begin Date": "1734",
+    "Artist End Date": "1797",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500029777",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q214062",
+    "Object Date": "1779",
+    "Object Begin Date": 1779,
+    "Object End Date": 1779,
+    "Medium": "Oil on canvas",
+    "Dimensions": "40 x 50 in. (101.6 x 127 cm)",
+    "Credit Line": "Purchase, Lila Acheson Wallace Gift, Gifts of Mrs. William M. Haupt, Josephine Bay Paul, and Estate of George Quackenbush, in his memory, by exchange, The Morris and Alma Schapiro Fund Gift, and funds from various donors, 2013",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/441769",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912176",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Tombs|Men|Moon",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300005926|http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300386951",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q381885|https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q405"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP322015.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/Wright of Derby.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 166199,
+        "role": "Artist",
+        "name": "Joseph Wright (Wright of Derby)",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500029777",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q214062",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 101.600204,
+          "Width": 127.00025
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Tombs",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300005926",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q381885"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Moon",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300386951",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q405"
+      }
+    ]
+  }
+}

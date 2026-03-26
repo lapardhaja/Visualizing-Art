@@ -1,0 +1,100 @@
+{
+  "object_id": 435734,
+  "excel_metadata": {
+    "Object Number": "48.78",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 435734,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1948.0,
+    "Object Name": "Painting",
+    "Title": "Saint Sebastian",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10742.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Francesco Botticini (Francesco di Giovanni)",
+    "Artist Display Bio": "Italian, Florentine, ca. 1446–1497",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Botticini, Francesco (Francesco di Giovanni)",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1446",
+    "Artist End Date": "1497",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500010663",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q983275",
+    "Object Date": NaN,
+    "Object Begin Date": 1466,
+    "Object End Date": 1497,
+    "Medium": "Tempera and oil on wood",
+    "Dimensions": "Overall, with arched top and engaged frame, 56 3/4 x 26 1/4 in. (144.1 x 66.7 cm); painted surface 53 3/4 x 23 in. (136.5 x 58.4 cm)",
+    "Credit Line": "Gwynne Andrews, Rogers, and Harris Brisbane Dick Funds, 1948",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/435734",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q3947943",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Saint Sebastian|Angels",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/ia/901000344|http://vocab.getty.edu/page/aat/300379004",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q183332|https://www.wikidata.org/wiki/Q235113"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/ep48.78.bw.R.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 107425,
+        "role": "Artist",
+        "name": "Francesco Botticini (Francesco di Giovanni)",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500010663",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q983275",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 144.1,
+          "Width": 66.7
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Angels",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379004",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q235113"
+      },
+      {
+        "term": "Saint Sebastian",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000344",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q183332"
+      }
+    ]
+  }
+}

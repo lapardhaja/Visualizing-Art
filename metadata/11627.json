@@ -1,0 +1,104 @@
+{
+  "object_id": 11627,
+  "excel_metadata": {
+    "Object Number": "97.36",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 11627,
+    "Gallery Number": 758.0,
+    "Department": "The American Wing",
+    "AccessionYear": 1897.0,
+    "Object Name": "Painting",
+    "Title": "The Raffle (Raffling for the Goose)",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16214.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "William Sidney Mount",
+    "Artist Display Bio": "American, Setauket, New York 1807–1868 Setauket, New York",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Mount, William Sidney",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1807",
+    "Artist End Date": "1868",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500017404",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q45431",
+    "Object Date": "1837",
+    "Object Begin Date": 1837,
+    "Object End Date": 1837,
+    "Medium": "Oil on mahogany",
+    "Dimensions": "17 x 23 1/8 in. (43.2 x 58.7 cm)",
+    "Credit Line": "Gift of John D. Crimmins, 1897",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/11627",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19924751",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Food|Men",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300254496|http://vocab.getty.edu/page/aat/300025928",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q2095|https://www.wikidata.org/wiki/Q8441"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DT1511.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162149,
+        "role": "Artist",
+        "name": "William Sidney Mount",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500017404",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q45431",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 43.2,
+          "Width": 58.7
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 8.2,
+          "Height": 59.4,
+          "Width": 74.8
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Food",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300254496",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q2095"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      }
+    ]
+  }
+}

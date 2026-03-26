@@ -1,0 +1,115 @@
+{
+  "object_id": 207699,
+  "excel_metadata": {
+    "Object Number": 1987.28,
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 207699,
+    "Gallery Number": 503,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1987,
+    "Object Name": "Bust",
+    "Title": "Cosimo I de' Medici (1519–1574), Duke of Florence",
+    "Culture": "Italian, Florence",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 16164,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Baccio Bandinelli",
+    "Artist Display Bio": "Italian, Gaiole in Chianti 1493–1560 Florence",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Bandinelli, Baccio",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": 1493,
+    "Artist End Date": 1560,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500008366",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q358348",
+    "Object Date": "1539–40",
+    "Object Begin Date": 1539,
+    "Object End Date": 1540,
+    "Medium": "Marble",
+    "Dimensions": "Overall (confirmed): H. 31 1/2 x W. 30 7/8 x D. 12 in. (80 x 78.4 x 30.5 cm);_x000D_\nOverall (height with socle): 37 3/4 in. (95.9 cm)",
+    "Credit Line": "Wrightsman Fund, 1987",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Sculpture-Marble",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/207699",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP242104.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/DP242105.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP242106.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP236925.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DT5748.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 161647,
+        "role": "Artist",
+        "name": "Baccio Bandinelli",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500008366",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q358348",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": "historic dimensions, superceded",
+        "elementMeasurements": {
+          "Height": 81.9
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": "height with socle",
+        "elementMeasurements": {
+          "Height": 95.88519
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": "confirmed",
+        "elementMeasurements": {
+          "Depth": 30.48006,
+          "Height": 80.01016,
+          "Width": 78.42265
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

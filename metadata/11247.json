@@ -1,0 +1,95 @@
+{
+  "object_id": 11247,
+  "excel_metadata": {
+    "Object Number": "62.183.1",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 11247,
+    "Gallery Number": NaN,
+    "Department": "The American Wing",
+    "AccessionYear": 1962.0,
+    "Object Name": "Painting",
+    "Title": "Mrs. William Thomas",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16428.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "John Wesley Jarvis",
+    "Artist Display Bio": "American (born England), South Shields 1780–1840 New York",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Jarvis, John Wesley",
+    "Artist Nationality": "American, born England",
+    "Artist Begin Date": "1780",
+    "Artist End Date": "1840",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500008614",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q3182713",
+    "Object Date": "ca. 1813",
+    "Object Begin Date": 1810,
+    "Object End Date": 1813,
+    "Medium": "Oil on canvas",
+    "Dimensions": "34 1/8 x 27 1/8 in. (86.5 x 68.7 cm)",
+    "Credit Line": "Bequest of Kate d'A. Bonner, 1962",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/11247",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20174990",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Portraits|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/ap62.183.1.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 164289,
+        "role": "Artist",
+        "name": "John Wesley Jarvis",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500008614",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3182713",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 86.7,
+          "Width": 68.9
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

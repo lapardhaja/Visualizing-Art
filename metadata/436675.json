@@ -1,0 +1,110 @@
+{
+  "object_id": 436675,
+  "excel_metadata": {
+    "Object Number": "14.40.613",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 436675,
+    "Gallery Number": 964.0,
+    "Department": "European Paintings",
+    "AccessionYear": 1914.0,
+    "Object Name": "Painting",
+    "Title": "Interior with a Young Couple",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16199.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Pieter de Hooch",
+    "Artist Display Bio": "Dutch, Rotterdam 1629–1684 Amsterdam",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Hooch, Pieter de",
+    "Artist Nationality": "Dutch",
+    "Artist Begin Date": "1629",
+    "Artist End Date": "1684",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500020229",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q314889",
+    "Object Date": "probably ca. 1662–65",
+    "Object Begin Date": 1662,
+    "Object End Date": 1665,
+    "Medium": "Oil on canvas",
+    "Dimensions": "21 5/8 x 24 3/4 in. (54.9 x 62.9 cm)",
+    "Credit Line": "Bequest of Benjamin Altman, 1913",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436675",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912411",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Interiors|Couples|Men|Women|Dogs",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300391239|http://vocab.getty.edu/page/aat/300379217|http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/aat/300265714",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q2998430|https://www.wikidata.org/wiki/Q219160|https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q144"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP145906.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 161997,
+        "role": "Artist",
+        "name": "Pieter de Hooch",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500020229",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q314889",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 54.9,
+          "Width": 62.9
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Interiors",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300391239",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q2998430"
+      },
+      {
+        "term": "Couples",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379217",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q219160"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Dogs",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300265714",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q144"
+      }
+    ]
+  }
+}

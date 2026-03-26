@@ -1,0 +1,119 @@
+{
+  "object_id": 437853,
+  "excel_metadata": {
+    "Object Number": "99.31",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 437853,
+    "Gallery Number": 808.0,
+    "Department": "European Paintings",
+    "AccessionYear": 1899.0,
+    "Object Name": "Painting",
+    "Title": "Venice, from the Porch of Madonna della Salute",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16257.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Joseph Mallord William Turner",
+    "Artist Display Bio": "British, London 1775–1851 London",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Turner, Joseph Mallord William",
+    "Artist Nationality": "British",
+    "Artist Begin Date": "1775",
+    "Artist End Date": "1851",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500026846",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q159758",
+    "Object Date": "ca. 1835",
+    "Object Begin Date": 1830,
+    "Object End Date": 1835,
+    "Medium": "Oil on canvas",
+    "Dimensions": "36 x 48 1/8 in. (91.4 x 122.2 cm)",
+    "Credit Line": "Bequest of Cornelius Vanderbilt, 1899",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437853",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20018653",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Buildings|Cities|Canals|Boats|Venice",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300004789|http://vocab.getty.edu/page/aat/300008389|http://vocab.getty.edu/page/aat/300006075|http://vocab.getty.edu/page/aat/300178749|http://vocab.getty.edu/page/tgn/7018159",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q41176|https://www.wikidata.org/wiki/Q515|https://www.wikidata.org/wiki/Q12284|https://www.wikidata.org/wiki/Q35872|https://www.wikidata.org/wiki/Q641"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP169568.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162573,
+        "role": "Artist",
+        "name": "Joseph Mallord William Turner",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500026846",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q159758",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 91.4,
+          "Width": 122.2
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 8.89,
+          "Height": 119.3802,
+          "Width": 148.5903
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Buildings",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300004789",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q41176"
+      },
+      {
+        "term": "Cities",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300008389",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q515"
+      },
+      {
+        "term": "Canals",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300006075",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q12284"
+      },
+      {
+        "term": "Boats",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300178749",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q35872"
+      },
+      {
+        "term": "Venice",
+        "AAT_URL": "http://vocab.getty.edu/page/tgn/7018159",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q641"
+      }
+    ]
+  }
+}

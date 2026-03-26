@@ -1,0 +1,108 @@
+{
+  "object_id": 439117,
+  "excel_metadata": {
+    "Object Number": "2007.28",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 439117,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 2007.0,
+    "Object Name": "Painting, grisaille",
+    "Title": "The Glorification of the Royal Hungarian Saints",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16421.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Franz Anton Maulbertsch",
+    "Artist Display Bio": "Austrian, Langenargen am Bodensee 1724–1796 Vienna",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Maulbertsch, Franz Anton",
+    "Artist Nationality": "Austrian",
+    "Artist Begin Date": "1724",
+    "Artist End Date": "1796",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500017598",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q689388",
+    "Object Date": "ca. 1772–73",
+    "Object Begin Date": 1772,
+    "Object End Date": 1773,
+    "Medium": "Oil on canvas",
+    "Dimensions": "27 1/2 x 19 7/8 in. (70 x 50.5 cm)",
+    "Credit Line": "Purchase, Friends of European Paintings Gifts, 2007",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/439117",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19905573",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Clouds|Saints",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300343840|http://vocab.getty.edu/page/aat/300150555",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8074|https://www.wikidata.org/wiki/Q43115"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP164874.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/Maulbertsch1.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-2007_28-2.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-2007_28-3.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 164217,
+        "role": "Artist",
+        "name": "Franz Anton Maulbertsch",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500017598",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q689388",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 5.08,
+          "Height": 78.7402,
+          "Width": 58.4201
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 69.8501,
+          "Width": 50.4826
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Clouds",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300343840",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8074"
+      },
+      {
+        "term": "Saints",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300150555",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q43115"
+      }
+    ]
+  }
+}

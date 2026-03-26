@@ -1,0 +1,100 @@
+{
+  "object_id": 436429,
+  "excel_metadata": {
+    "Object Number": "41.190.23",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436429,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1941.0,
+    "Object Name": "Painting fragment",
+    "Title": "Saint Margaret and the Dragon",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10767.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": "Workshop of",
+    "Artist Display Name": "Agnolo Gaddi",
+    "Artist Display Bio": "Italian, Florentine, active by 1369–died 1396",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Gaddi, Agnolo",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1369",
+    "Artist End Date": "1396",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500021601",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q363296",
+    "Object Date": "ca. 1390",
+    "Object Begin Date": 1385,
+    "Object End Date": 1395,
+    "Medium": "Tempera on wood, gold ground",
+    "Dimensions": "9 1/8 x 8 in. (23.2 x 20.3 cm)",
+    "Credit Line": "Bequest of George Blumenthal, 1941",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436429",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912703",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Women|Dragons|Saints",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/aat/300375726|http://vocab.getty.edu/page/aat/300150555",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q7559|https://www.wikidata.org/wiki/Q43115"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/SF Gaddi.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 107679,
+        "role": "Artist",
+        "name": "Workshop of Agnolo Gaddi",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500021601",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q363296",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 23.2,
+          "Width": 20.3
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Dragons",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300375726",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q7559"
+      },
+      {
+        "term": "Saints",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300150555",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q43115"
+      }
+    ]
+  }
+}

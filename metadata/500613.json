@@ -1,0 +1,88 @@
+{
+  "object_id": 500613,
+  "excel_metadata": {
+    "Object Number": "89.4.36a, b",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 500613,
+    "Gallery Number": null,
+    "Department": "Musical Instruments",
+    "AccessionYear": 1889,
+    "Object Name": "Nanbanzi (wood block)",
+    "Title": "Nanbanzi (???)",
+    "Culture": "Chinese",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 15508,
+    "Artist Role": "Maker",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Golden Tone Workshop",
+    "Artist Display Bio": " ",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Golden Tone Workshop",
+    "Artist Nationality": "Chinese",
+    "Artist Begin Date": 1800,
+    "Artist End Date": 1900,
+    "Artist Gender": null,
+    "Artist ULAN URL": null,
+    "Artist Wikidata URL": null,
+    "Object Date": "19th century",
+    "Object Begin Date": 1801,
+    "Object End Date": 1900,
+    "Medium": "Wood",
+    "Dimensions": "6 7/8 × 2 7/16 × 1 9/16 in. (17.5 × 6.2 × 4 cm)",
+    "Credit Line": "The Crosby Brown Collection of Musical Instruments, 1889",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": "China",
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Idiophone-Struck-slit drum",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/500613",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": null,
+    "Tags AAT URL": null,
+    "Tags Wikidata URL": null
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/mi/original/DP-13948-001.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/mi/original/DP-13678-009.tif",
+      "https://images.metmuseum.org/CRDImages/mi/original/DP-13948-002.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 155082,
+        "role": "Maker",
+        "name": "Golden Tone Workshop",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 4,
+          "Height": 17.5,
+          "Width": 6.2
+        }
+      }
+    ],
+    "tags": null
+  }
+}

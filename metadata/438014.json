@@ -1,0 +1,110 @@
+{
+  "object_id": 438014,
+  "excel_metadata": {
+    "Object Number": "1998.325.3",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 438014,
+    "Gallery Number": 821.0,
+    "Department": "European Paintings",
+    "AccessionYear": 1998.0,
+    "Object Name": "Painting",
+    "Title": "The Daughters of Catulle Mendès, Huguette (1871–1964), Claudine (1876–1937), and Helyonne (1879–1955)",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16230.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Auguste Renoir",
+    "Artist Display Bio": "French, Limoges 1841–1919 Cagnes-sur-Mer",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Renoir, Auguste",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1841",
+    "Artist End Date": "1919",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500115467",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q39931",
+    "Object Date": "1888",
+    "Object Begin Date": 1888,
+    "Object End Date": 1888,
+    "Medium": "Oil on canvas",
+    "Dimensions": "63 3/4 x 51 1/8 in. (161.9 x 129.9 cm)",
+    "Credit Line": "The Walter H. and Leonore Annenberg Collection, Gift of Walter H. and Leonore Annenberg, 1998, Bequest of Walter H. Annenberg, 2002",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/438014",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q728373",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Girls|Pianos|Violins|Music|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300247581|http://vocab.getty.edu/page/aat/300042909|http://vocab.getty.edu/page/aat/300042215|http://vocab.getty.edu/page/aat/300435214|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q3031|https://www.wikidata.org/wiki/Q5994|https://www.wikidata.org/wiki/Q8355|https://www.wikidata.org/wiki/Q638|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT1879.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162302,
+        "role": "Artist",
+        "name": "Auguste Renoir",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115467",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q39931",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 161.9,
+          "Width": 129.9
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Girls",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300247581",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3031"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Music",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300435214",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q638"
+      },
+      {
+        "term": "Pianos",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300042909",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q5994"
+      },
+      {
+        "term": "Violins",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300042215",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8355"
+      }
+    ]
+  }
+}

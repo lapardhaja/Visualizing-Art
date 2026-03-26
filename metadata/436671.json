@@ -1,0 +1,115 @@
+{
+  "object_id": 436671,
+  "excel_metadata": {
+    "Object Number": "27.250.1",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 436671,
+    "Gallery Number": 965.0,
+    "Department": "European Paintings",
+    "AccessionYear": 1927.0,
+    "Object Name": "Painting",
+    "Title": "Peacocks",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10779.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Melchior d' Hondecoeter",
+    "Artist Display Bio": "Dutch, Utrecht 1636–1695 Amsterdam",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Hondecoeter, Melchior d'",
+    "Artist Nationality": "Dutch",
+    "Artist Begin Date": "1636",
+    "Artist End Date": "1695",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500026698",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q304411",
+    "Object Date": "1683",
+    "Object Begin Date": 1683,
+    "Object End Date": 1683,
+    "Medium": "Oil on canvas",
+    "Dimensions": "74 7/8 x 53 in. (190.2 x 134.6 cm)",
+    "Credit Line": "Gift of Samuel H. Kress, 1927",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436671",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19904871",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Peacocks|Monkeys|Squirrels|Fruit|Turkeys|Still Life",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300250082|http://vocab.getty.edu/page/aat/300250028|http://vocab.getty.edu/page/aat/300250601|http://vocab.getty.edu/page/aat/300011868|http://vocab.getty.edu/page/aat/300266497|http://vocab.getty.edu/page/aat/300015638",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q201251|https://www.wikidata.org/wiki/Q1367|https://www.wikidata.org/wiki/Q1302028|https://www.wikidata.org/wiki/Q1364|https://www.wikidata.org/wiki/Q848706|https://www.wikidata.org/wiki/Q170571"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP146481.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 107796,
+        "role": "Artist",
+        "name": "Melchior d&#39; Hondecoeter",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500026698",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q304411",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 190.2,
+          "Width": 134.6
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Fruit",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300011868",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q1364"
+      },
+      {
+        "term": "Peacocks",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250082",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q201251"
+      },
+      {
+        "term": "Turkeys",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300266497",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q848706"
+      },
+      {
+        "term": "Monkeys",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250028",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q1367"
+      },
+      {
+        "term": "Squirrels",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250601",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q1302028"
+      },
+      {
+        "term": "Still Life",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015638",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q170571"
+      }
+    ]
+  }
+}

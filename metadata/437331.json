@@ -1,0 +1,105 @@
+{
+  "object_id": 437331,
+  "excel_metadata": {
+    "Object Number": "29.100.20",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437331,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1929.0,
+    "Object Name": "Painting",
+    "Title": "Orpheus and Eurydice",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16227.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": "Style of",
+    "Artist Display Name": "Nicolas Poussin",
+    "Artist Display Bio": "French, third quarter 17th century",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Poussin, Nicolas",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1594",
+    "Artist End Date": "1665",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500005036",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q41554",
+    "Object Date": NaN,
+    "Object Begin Date": 1650,
+    "Object End Date": 1674,
+    "Medium": "Oil on canvas",
+    "Dimensions": "47 1/2 x 70 3/4 in. (120.7 x 179.7 cm)",
+    "Credit Line": "H. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437331",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20167172",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Orpheus|Forests|Eurydice|Lyres",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901000392|http://vocab.getty.edu/page/aat/300387598|http://vocab.getty.edu/page/ia/901001945|http://vocab.getty.edu/page/aat/300042114",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q174353|https://www.wikidata.org/wiki/Q4421|https://www.wikidata.org/wiki/Q208588|https://www.wikidata.org/wiki/Q201129"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-22881-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162270,
+        "role": "Artist",
+        "name": "Style of Nicolas Poussin",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500005036",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q41554",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 120.7,
+          "Width": 179.7
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Orpheus",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000392",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q174353"
+      },
+      {
+        "term": "Forests",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300387598",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q4421"
+      },
+      {
+        "term": "Lyres",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300042114",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q201129"
+      },
+      {
+        "term": "Eurydice",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901001945",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q208588"
+      }
+    ]
+  }
+}

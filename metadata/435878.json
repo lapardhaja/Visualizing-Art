@@ -1,0 +1,95 @@
+{
+  "object_id": 435878,
+  "excel_metadata": {
+    "Object Number": "1994.42",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 435878,
+    "Gallery Number": 823.0,
+    "Department": "European Paintings",
+    "AccessionYear": 1994.0,
+    "Object Name": "Painting",
+    "Title": "Mont Sainte-Victoire",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16176.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Paul Cézanne",
+    "Artist Display Bio": "French, Aix-en-Provence 1839–1906 Aix-en-Provence",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Cézanne, Paul",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1839",
+    "Artist End Date": "1906",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500004793",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q35548",
+    "Object Date": "ca. 1902–6",
+    "Object Begin Date": 1902,
+    "Object End Date": 1906,
+    "Medium": "Oil on canvas",
+    "Dimensions": "22 1/2 x 38 1/4 in. (57.2 x 97.2 cm)",
+    "Credit Line": "The Walter H. and Leonore Annenberg Collection, Gift of Walter H. and Leonore Annenberg, 1994, Bequest of Walter H. Annenberg, 2002",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/435878",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19911958",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Mountains|Landscapes",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300008795|http://vocab.getty.edu/page/aat/300132294",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8502|https://www.wikidata.org/wiki/Q191163"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/77J_045R2M.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 161761,
+        "role": "Artist",
+        "name": "Paul Cézanne",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500004793",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q35548",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 57.2,
+          "Width": 97.2
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Mountains",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300008795",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8502"
+      },
+      {
+        "term": "Landscapes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+      }
+    ]
+  }
+}

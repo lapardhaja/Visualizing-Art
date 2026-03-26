@@ -1,0 +1,102 @@
+{
+  "object_id": 438105,
+  "excel_metadata": {
+    "Object Number": "2019.141.6",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 438105,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 2019.0,
+    "Object Name": "Painting",
+    "Title": "A Lock, a Column, and a Church beside a Lagoon",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16174.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Canaletto (Giovanni Antonio Canal)",
+    "Artist Display Bio": "Italian, Venice 1697–1768 Venice",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Canaletto (Giovanni Antonio Canal)",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1697",
+    "Artist End Date": "1768",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500115269",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q182664",
+    "Object Date": NaN,
+    "Object Begin Date": 1717,
+    "Object End Date": 1768,
+    "Medium": "Oil on canvas",
+    "Dimensions": "20 × 26 5/8 in. (50.8 × 67.6 cm)",
+    "Credit Line": "Bequest of Mrs. Charles Wrightsman, 2019",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/438105",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q78639914",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Venice|Columns|Churches",
+    "Tags AAT URL": "http://vocab.getty.edu/page/tgn/7018159|http://vocab.getty.edu/page/aat/300001571|http://vocab.getty.edu/page/aat/300007466",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q641|https://www.wikidata.org/wiki/Q4817|https://www.wikidata.org/wiki/Q16970"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/Wrightsman20.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-wrightsman20_suppl_001.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 161741,
+        "role": "Artist",
+        "name": "Canaletto (Giovanni Antonio Canal)",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115269",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q182664",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 50.8,
+          "Width": 67.62763
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Columns",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300001571",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q4817"
+      },
+      {
+        "term": "Churches",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300007466",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q16970"
+      },
+      {
+        "term": "Venice",
+        "AAT_URL": "http://vocab.getty.edu/page/tgn/7018159",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q641"
+      }
+    ]
+  }
+}

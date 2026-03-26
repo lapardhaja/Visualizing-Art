@@ -1,0 +1,104 @@
+{
+  "object_id": 11654,
+  "excel_metadata": {
+    "Object Number": "21.159.1",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 11654,
+    "Gallery Number": 774.0,
+    "Department": "The American Wing",
+    "AccessionYear": 1921.0,
+    "Object Name": "Painting",
+    "Title": "The Fortune Teller",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 276.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Robert Loftin Newman",
+    "Artist Display Bio": "1827–1912",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Newman, Robert Loftin",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1827",
+    "Artist End Date": "1912",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500009311",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q7346973",
+    "Object Date": "by 1894",
+    "Object Begin Date": 1893,
+    "Object End Date": 1894,
+    "Medium": "Oil on canvas",
+    "Dimensions": "10 x 14 in. (25.4 x 35.6 cm)",
+    "Credit Line": "Gift of Mrs. Wallace Sawyer, 1921",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/11654",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20172582",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Children|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025945|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q7569|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/ap21.159.1.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 2760,
+        "role": "Artist",
+        "name": "Robert Loftin Newman",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500009311",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q7346973",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 25.4,
+          "Width": 35.6
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 7,
+          "Height": 40.5,
+          "Width": 50.6
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Children",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025945",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q7569"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "object_id": 438947,
+  "excel_metadata": {
+    "Object Number": "2007.164.1",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 438947,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 2007.0,
+    "Object Name": "Painting",
+    "Title": "An Overgrown Mineshaft",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16175.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Carl Gustav Carus",
+    "Artist Display Bio": "German, Leipzig 1789–1869 Dresden",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Carus, Carl Gustav",
+    "Artist Nationality": "German",
+    "Artist Begin Date": "1789",
+    "Artist End Date": "1869",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500004882",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q61987",
+    "Object Date": "ca. 1824",
+    "Object Begin Date": 1819,
+    "Object End Date": 1829,
+    "Medium": "Oil on paper, laid down on cardboard",
+    "Dimensions": "11 1/4 x 8 1/4 in. (28.6 x 21 cm)",
+    "Credit Line": "Gift of Eugene V. Thaw, 2007",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/438947",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19913034",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Doorways|Ruins",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300002767|http://vocab.getty.edu/page/aat/300008057",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q21263223|https://www.wikidata.org/wiki/Q109607"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-34303-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 161755,
+        "role": "Artist",
+        "name": "Carl Gustav Carus",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500004882",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q61987",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 28.5751,
+          "Width": 20.955
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 4.4450088,
+          "Height": 35.56007,
+          "Width": 28.257557
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Doorways",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300002767",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q21263223"
+      }
+    ]
+  }
+}

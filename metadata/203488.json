@@ -1,0 +1,92 @@
+{
+  "object_id": 203488,
+  "excel_metadata": {
+    "Object Number": "64.101.645",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 203488,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1964,
+    "Object Name": "Toy",
+    "Title": "Lady",
+    "Culture": "British, Chelsea-Derby",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 3473,
+    "Artist Role": "Factory",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Derby Porcelain Manufactory",
+    "Artist Display Bio": "British, 1751–1785",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Derby Porcelain Manufactory",
+    "Artist Nationality": "British",
+    "Artist Begin Date": 1751,
+    "Artist End Date": 1785,
+    "Artist Gender": null,
+    "Artist ULAN URL": null,
+    "Artist Wikidata URL": null,
+    "Object Date": "ca. 1765–68",
+    "Object Begin Date": 1760,
+    "Object End Date": 1770,
+    "Medium": "Soft-paste porcelain",
+    "Dimensions": "2 1/2 × 1 in. (6.4 × 2.5 cm)",
+    "Credit Line": "Gift of Irwin Untermyer, 1964",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Ceramics-Porcelain",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/203488",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP-300-059.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/DP-300-060.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 34738,
+        "role": "Factory",
+        "name": "Derby Porcelain Manufactory",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 6.350013,
+          "Width": 2.540005
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "object_id": 436532,
+  "excel_metadata": {
+    "Object Number": "67.187.70a",
+    "Is Highlight": true,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 436532,
+    "Gallery Number": 825.0,
+    "Department": "European Paintings",
+    "AccessionYear": 1967.0,
+    "Object Name": "Painting",
+    "Title": "Self-Portrait with a Straw Hat (obverse: The Potato Peeler)",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16194.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Vincent van Gogh",
+    "Artist Display Bio": "Dutch, Zundert 1853–1890 Auvers-sur-Oise",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Gogh, Vincent van",
+    "Artist Nationality": "Dutch",
+    "Artist Begin Date": "1853",
+    "Artist End Date": "1890",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500115588",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q5582",
+    "Object Date": "1887",
+    "Object Begin Date": 1887,
+    "Object End Date": 1887,
+    "Medium": "Oil on canvas",
+    "Dimensions": "16 x 12 1/2 in. (40.6 x 31.8 cm)",
+    "Credit Line": "Bequest of Miss Adelaide Milton de Groot (1876-1967), 1967",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436532",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19911684",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Self-portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300124534",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q192110"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT1502_cropped2.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 161947,
+        "role": "Artist",
+        "name": "Vincent van Gogh",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115588",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5582",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 40.6,
+          "Width": 31.8
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 6.0325,
+          "Height": 52.7051,
+          "Width": 43.1801
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Self-portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300124534",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q192110"
+      }
+    ]
+  }
+}

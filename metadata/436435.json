@@ -1,0 +1,104 @@
+{
+  "object_id": 436435,
+  "excel_metadata": {
+    "Object Number": "20.155.1",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 436435,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1920.0,
+    "Object Name": "Painting",
+    "Title": "Mrs. Grace Dalrymple Elliott (1754?–1823)",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16619.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Thomas Gainsborough",
+    "Artist Display Bio": "British, Sudbury 1727–1788 London",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Gainsborough, Thomas",
+    "Artist Nationality": "British",
+    "Artist Begin Date": "1727",
+    "Artist End Date": "1788",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500115200",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q192720",
+    "Object Date": "1778",
+    "Object Begin Date": 1778,
+    "Object End Date": 1778,
+    "Medium": "Oil on canvas",
+    "Dimensions": "92 1/4 x 60 1/2in. (234.3 x 153.7cm)\r\n",
+    "Credit Line": "Bequest of William K. Vanderbilt, 1920",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436435",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19905192",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Portraits|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP169214.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 166194,
+        "role": "Artist",
+        "name": "Thomas Gainsborough",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115200",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q192720",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 234.3,
+          "Width": 153.7
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 10.795022,
+          "Height": 263.20804,
+          "Width": 181.61037
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

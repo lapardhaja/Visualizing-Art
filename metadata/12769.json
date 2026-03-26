@@ -1,0 +1,99 @@
+{
+  "object_id": 12769,
+  "excel_metadata": {
+    "Object Number": "63.200.7",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 12769,
+    "Gallery Number": 774.0,
+    "Department": "The American Wing",
+    "AccessionYear": 1963.0,
+    "Object Name": "Painting",
+    "Title": "Doe and Two Fawns",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16510.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Arthur Fitzwilliam Tait",
+    "Artist Display Bio": "American (born England), Liverpool 1819–1905 Yonkers, New York",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Tait, Arthur Fitzwilliam",
+    "Artist Nationality": "American, born England",
+    "Artist Begin Date": "1819",
+    "Artist End Date": "1905",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500023688",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q8205641",
+    "Object Date": "1882",
+    "Object Begin Date": 1882,
+    "Object End Date": 1882,
+    "Medium": "Oil on academy board",
+    "Dimensions": "10 x 14 in. (25.4 x 35.6 cm)",
+    "Credit Line": "Gift of Mrs. Darwin S. Morse, 1963",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/12769",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20171310",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Deer",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300250308",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q685795"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DP144804.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 165107,
+        "role": "Artist",
+        "name": "Arthur Fitzwilliam Tait",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500023688",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q8205641",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 25.4,
+          "Width": 35.6
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 10,
+          "Height": 50,
+          "Width": 59.5
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Deer",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250308",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q685795"
+      }
+    ]
+  }
+}

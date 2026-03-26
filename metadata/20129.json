@@ -1,0 +1,124 @@
+{
+  "object_id": 20129,
+  "excel_metadata": {
+    "Object Number": "2013.604",
+    "Is Highlight": true,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 20129,
+    "Gallery Number": 763.0,
+    "Department": "The American Wing",
+    "AccessionYear": 2013.0,
+    "Object Name": "Painting",
+    "Title": "Story of Golden Locks",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 256.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Seymour Joseph Guy",
+    "Artist Display Bio": "American (born England), London 1824–1910 New York",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Guy, Seymour Joseph",
+    "Artist Nationality": "American, born England",
+    "Artist Begin Date": "1824",
+    "Artist End Date": "1910",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500023177",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q16648954",
+    "Object Date": "ca. 1870",
+    "Object Begin Date": 1867,
+    "Object End Date": 1873,
+    "Medium": "Oil on canvas",
+    "Dimensions": "34 x 28 in. (86.4 x 71.1 cm)",
+    "Credit Line": "Gift of Daniel Wolf and Mathew Wolf, in memory of their sister, the Honorable Diane R. Wolf, 2013",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/20129",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19924783",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Bedrooms|Boys|Girls|Reading",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300004364|http://vocab.getty.edu/page/aat/300247598|http://vocab.getty.edu/page/aat/300247581|http://vocab.getty.edu/page/aat/300248178",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q193837|https://www.wikidata.org/wiki/Q3010|https://www.wikidata.org/wiki/Q3031|https://www.wikidata.org/wiki/Q199657"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DP219245.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ad/original/mc23r2_20J.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 2561,
+        "role": "Artist",
+        "name": "Seymour Joseph Guy",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500023177",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q16648954",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 12.700026,
+          "Height": 125.09525,
+          "Width": 109.53772
+        }
+      },
+      {
+        "elementName": "Other",
+        "elementDescription": "glazing (when needed)",
+        "elementMeasurements": {
+          "Height": 86.67767,
+          "Width": 71.59639
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 86.3602,
+          "Width": 71.1201
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Bedrooms",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300004364",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q193837"
+      },
+      {
+        "term": "Boys",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300247598",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3010"
+      },
+      {
+        "term": "Girls",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300247581",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3031"
+      },
+      {
+        "term": "Reading",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300248178",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q199657"
+      }
+    ]
+  }
+}

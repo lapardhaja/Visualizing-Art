@@ -1,0 +1,135 @@
+{
+  "object_id": 875634,
+  "excel_metadata": {
+    "Object Number": "2023.91",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 875634,
+    "Gallery Number": 965.0,
+    "Department": "European Paintings",
+    "AccessionYear": 2023.0,
+    "Object Name": "Painting",
+    "Title": "Rachel Ruysch (1664–1750)",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 9031112663.0,
+    "Artist Role": "Artist|Artist",
+    "Artist Prefix": "and| ",
+    "Artist Display Name": "Michiel van Musscher|Rachel Ruysch",
+    "Artist Display Bio": "Dutch, Rotterdam 1645–1705 Amsterdam|Dutch, The Hague 1664–1750 Amsterdam",
+    "Artist Suffix": " | ",
+    "Artist Alpha Sort": "Musscher, Michiel van|Ruysch, Rachel",
+    "Artist Nationality": "Dutch|Dutch",
+    "Artist Begin Date": "1645      |1664      ",
+    "Artist End Date": "1705      |1750      ",
+    "Artist Gender": "|Female",
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500000139|http://vocab.getty.edu/page/ulan/500115798",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q185495|https://www.wikidata.org/wiki/Q234385",
+    "Object Date": "1692",
+    "Object Begin Date": 1692,
+    "Object End Date": 1692,
+    "Medium": "Oil on canvas",
+    "Dimensions": "30 × 25 in. (76.2 × 63.5 cm)",
+    "Credit Line": "Purchase, Adele Veronica Satkus Bequest, Walter and Leonore Annenberg Acquisitions Endowment Fund, Lila Acheson Wallace, Women and the Critical Eye, Charles and Jessie Price, and Henry and Lucy Moses Fund Inc. Gifts, Victor Wilbour Memorial Fund, Hester Diamond Gift, and funds from various donors, 2023",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/875634",
+    "Object Wikidata URL": NaN,
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": NaN,
+    "Tags AAT URL": NaN,
+    "Tags Wikidata URL": NaN
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-32674-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 126637,
+        "role": "Artist",
+        "name": "Rachel Ruysch",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115798",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q234385",
+        "gender": "Female"
+      },
+      {
+        "constituentID": 90311,
+        "role": "Artist",
+        "name": "and Michiel van Musscher",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500000139",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q185495",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 76.20015,
+          "Width": 63.500126
+        }
+      },
+      {
+        "elementName": "Glazing",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 76.83515,
+          "Width": 64.45263
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 6.985014,
+          "Height": 95.25019,
+          "Width": 83.185165
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Butterflies",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300417320",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q11946202"
+      },
+      {
+        "term": "Flowers",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132399",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q506"
+      },
+      {
+        "term": "Artists",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025103",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q483501"
+      },
+      {
+        "term": "Palettes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300022625",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q425548"
+      }
+    ]
+  }
+}

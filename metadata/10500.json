@@ -1,0 +1,117 @@
+{
+  "object_id": 10500,
+  "excel_metadata": {
+    "Object Number": "03.27",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 10500,
+    "Gallery Number": 759.0,
+    "Department": "The American Wing",
+    "AccessionYear": 1903.0,
+    "Object Name": "Painting",
+    "Title": "A View near Tivoli (Morning)",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16178.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Thomas Cole",
+    "Artist Display Bio": "American, Lancashire 1801–1848 Catskill, New York",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Cole, Thomas",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1801",
+    "Artist End Date": "1848",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500028323",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q334001",
+    "Object Date": "1832",
+    "Object Begin Date": 1832,
+    "Object End Date": 1832,
+    "Medium": "Oil on canvas",
+    "Dimensions": "14 3/4 x 23 1/8in. (37.5 x 58.7cm)",
+    "Credit Line": "Rogers Fund, 1903",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/10500",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19900652",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Landscapes|Ruins|Mountains",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300132294|http://vocab.getty.edu/page/aat/300008057|http://vocab.getty.edu/page/aat/300008795",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q191163|https://www.wikidata.org/wiki/Q109607|https://www.wikidata.org/wiki/Q8502"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DT208249.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 161780,
+        "role": "Artist",
+        "name": "Thomas Cole",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500028323",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q334001",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 37.5,
+          "Width": 58.7
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 13.2,
+          "Height": 63.7,
+          "Width": 83.8
+        }
+      },
+      {
+        "elementName": "Other",
+        "elementDescription": "glazing when needed",
+        "elementMeasurements": {
+          "Height": 39.052578,
+          "Width": 59.37262
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Ruins",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300008057",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q109607"
+      },
+      {
+        "term": "Mountains",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300008795",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8502"
+      },
+      {
+        "term": "Landscapes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+      }
+    ]
+  }
+}

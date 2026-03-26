@@ -1,0 +1,120 @@
+{
+  "object_id": 437703,
+  "excel_metadata": {
+    "Object Number": "89.15.7",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 437703,
+    "Gallery Number": 964.0,
+    "Department": "European Paintings",
+    "AccessionYear": 1889.0,
+    "Object Name": "Painting",
+    "Title": "A Kitchen",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16244.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Hendrick Sorgh",
+    "Artist Display Bio": "Dutch, Rotterdam 1609/11–1670 Rotterdam",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Sorgh, Hendrick",
+    "Artist Nationality": "Dutch",
+    "Artist Begin Date": "1609",
+    "Artist End Date": "1670",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500019955",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q1237823",
+    "Object Date": "ca. 1643",
+    "Object Begin Date": 1638,
+    "Object End Date": 1648,
+    "Medium": "Oil on wood",
+    "Dimensions": "20 1/2 x 17 3/8 in. (52.1 x 44.1 cm)",
+    "Credit Line": "Marquand Collection, Gift of Henry G. Marquand, 1889",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437703",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912397",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Cats|Fish|Cooking|Food|Kitchens|Women|Servants",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300265960|http://vocab.getty.edu/page/aat/300266085| |http://vocab.getty.edu/page/aat/300254496|http://vocab.getty.edu/page/aat/300004514|http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/aat/300025874",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q146|https://www.wikidata.org/wiki/Q152|https://www.wikidata.org/wiki/Q38695|https://www.wikidata.org/wiki/Q2095|https://www.wikidata.org/wiki/Q43164|https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q54128"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP145945.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162448,
+        "role": "Artist",
+        "name": "Hendrick Sorgh",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500019955",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1237823",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 52.1,
+          "Width": 44.1
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Food",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300254496",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q2095"
+      },
+      {
+        "term": "Kitchens",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300004514",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q43164"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Cats",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300265960",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q146"
+      },
+      {
+        "term": "Fish",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300266085",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q152"
+      },
+      {
+        "term": "Servants",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025874",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q54128"
+      },
+      {
+        "term": "Cooking",
+        "AAT_URL": null,
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q38695"
+      }
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "object_id": 471037,
+  "excel_metadata": {
+    "Object Number": "26.63.22",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 471037,
+    "Gallery Number": null,
+    "Department": "The Cloisters",
+    "AccessionYear": 1926,
+    "Object Name": "Tombstone",
+    "Title": "Tombstone of Thomas de Germegni",
+    "Culture": "French",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": null,
+    "Artist Role": null,
+    "Artist Prefix": null,
+    "Artist Display Name": null,
+    "Artist Display Bio": null,
+    "Artist Suffix": null,
+    "Artist Alpha Sort": null,
+    "Artist Nationality": null,
+    "Artist Begin Date": null,
+    "Artist End Date": null,
+    "Artist Gender": null,
+    "Artist ULAN URL": null,
+    "Artist Wikidata URL": null,
+    "Object Date": "14th century",
+    "Object Begin Date": 1300,
+    "Object End Date": 1399,
+    "Medium": "Stone",
+    "Dimensions": "87 1/4 x 40 5/8 x 4 3/4 in. (221.6 x 103.2 x 12.1 cm)",
+    "Credit Line": "The Cloisters Collection, 1926",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Sculpture",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/471037",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Angels|Men",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300379004|http://vocab.getty.edu/page/aat/300025928",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q235113|https://www.wikidata.org/wiki/Q8441"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/cl/original/sf63361.jpg",
+    "additionalImages": [],
+    "constituents": null,
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Length": 221.61545,
+          "Thickness": 12.065024,
+          "Width": 103.187706
+        }
+      },
+      {
+        "elementName": "Storage",
+        "elementDescription": "Crate",
+        "elementMeasurements": {
+          "Depth": 17.780035,
+          "Height": 119.38024,
+          "Width": 230.50546
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Angels",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379004",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q235113"
+      }
+    ]
+  }
+}

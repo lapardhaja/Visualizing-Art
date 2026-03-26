@@ -1,0 +1,87 @@
+{
+  "object_id": 199780,
+  "excel_metadata": {
+    "Object Number": "46.193.7a–f",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 199780,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1946,
+    "Object Name": "Table",
+    "Title": "Table (poudreuse)",
+    "Culture": "French, Paris",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 3482,
+    "Artist Role": "Maker",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Germain Landrin",
+    "Artist Display Bio": "ca. 1710–ca. 1785",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "LANDRIN GERMAIN",
+    "Artist Nationality": " ",
+    "Artist Begin Date": 1710,
+    "Artist End Date": 1785,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500102914",
+    "Artist Wikidata URL": null,
+    "Object Date": "18th century",
+    "Object Begin Date": 1700,
+    "Object End Date": 1799,
+    "Medium": "Kingwood veneer, gilt bronze",
+    "Dimensions": "Overall: 29 × 18 1/2 × 17 3/4 in. (73.7 × 47 × 45.1 cm)",
+    "Credit Line": "Gift of Susan Dwight Bliss, 1946",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Woodwork-Furniture",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/199780",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": null,
+    "Tags AAT URL": null,
+    "Tags Wikidata URL": null
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/138008.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/138007.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 34822,
+        "role": "Maker",
+        "name": "Germain Landrin",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500102914",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 45.08509,
+          "Height": 73.66015,
+          "Width": 46.990093
+        }
+      }
+    ],
+    "tags": null
+  }
+}

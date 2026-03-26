@@ -1,0 +1,112 @@
+{
+  "object_id": 847024,
+  "excel_metadata": {
+    "Object Number": "2021.10.2",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 847024,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 2021.0,
+    "Object Name": "Painting",
+    "Title": "Study for the Ceiling of the Marquand Music Room",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10791.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Frederic, Lord Leighton",
+    "Artist Display Bio": "British, Scarborough 1830–1896 London",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Leighton, Frederic, Lord",
+    "Artist Nationality": "British",
+    "Artist Begin Date": "1830",
+    "Artist End Date": "1896",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500030022",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q160252",
+    "Object Date": "ca. 1886",
+    "Object Begin Date": 1881,
+    "Object End Date": 1891,
+    "Medium": "Oil and gold on canvas",
+    "Dimensions": "Central canvas 12 x 17 in. (30.5 x 43.2 cm); side canvases each, 12 x 7 in. (30.5 x 17.8 cm)\r\n\r\n",
+    "Credit Line": "Bequest of James David Draper, from the Robert Isaacson Collection, 2019",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/847024",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q111729960",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Allegory|Muses|Goddess",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300055866|http://vocab.getty.edu/page/aat/300306786|http://vocab.getty.edu/page/aat/300343852",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q18535|https://www.wikidata.org/wiki/Q66016|https://www.wikidata.org/wiki/Q205985"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-21914-007.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/DP-21914-003.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/DP-21914-001.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/DP-21914-005.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 107910,
+        "role": "Artist",
+        "name": "Frederic, Lord Leighton",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500030022",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q160252",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 30.48006,
+          "Width": 43.180088
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": "Overall",
+        "elementMeasurements": {
+          "Height": 39.37008,
+          "Width": 93.345184
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Muses",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300306786",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q66016"
+      },
+      {
+        "term": "Goddess",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300343852",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q205985"
+      },
+      {
+        "term": "Allegory",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300055866",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q18535"
+      }
+    ]
+  }
+}

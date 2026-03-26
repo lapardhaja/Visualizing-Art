@@ -1,0 +1,107 @@
+{
+  "object_id": 10259,
+  "excel_metadata": {
+    "Object Number": "93.2",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 10259,
+    "Gallery Number": 773.0,
+    "Department": "The American Wing",
+    "AccessionYear": 1893.0,
+    "Object Name": "Painting",
+    "Title": "Eleanor Hardy Bunker",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 238.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Dennis Miller Bunker",
+    "Artist Display Bio": "1861–1890",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Bunker, Dennis Miller",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1861",
+    "Artist End Date": "1890",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500009855",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q325568",
+    "Object Date": "1890",
+    "Object Begin Date": 1890,
+    "Object End Date": 1890,
+    "Medium": "Oil on canvas",
+    "Dimensions": "24 x 20 7/8 in. (61 x 53 cm)",
+    "Credit Line": "Gift of Several Gentlemen, 1893",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/10259",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19925763",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Portraits|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/ap93.20.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ad/original/APS1765.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 2380,
+        "role": "Artist",
+        "name": "Dennis Miller Bunker",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500009855",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q325568",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 61,
+          "Width": 53
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 10,
+          "Height": 108.5,
+          "Weight": 12.700717,
+          "Width": 97.3
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

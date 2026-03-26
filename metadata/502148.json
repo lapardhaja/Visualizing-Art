@@ -1,0 +1,98 @@
+{
+  "object_id": 502148,
+  "excel_metadata": {
+    "Object Number": "89.4.1584",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 502148,
+    "Gallery Number": null,
+    "Department": "Musical Instruments",
+    "AccessionYear": 1889,
+    "Object Name": "Handbell",
+    "Title": "Handbell",
+    "Culture": "Dutch",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 15513,
+    "Artist Role": "Maker",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Johannes Harlees",
+    "Artist Display Bio": "Dutch, Leiden active 1770–95 Leiden",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Harlees, Johannes",
+    "Artist Nationality": "Dutch",
+    "Artist Begin Date": 1770,
+    "Artist End Date": 1795,
+    "Artist Gender": null,
+    "Artist ULAN URL": null,
+    "Artist Wikidata URL": null,
+    "Object Date": "ca. 1770",
+    "Object Begin Date": 1750,
+    "Object End Date": 1790,
+    "Medium": "Ceramic, wood",
+    "Dimensions": "H. 1311 cm (5 3/16 in.) x Diam. 7 cm (2 3/4 in.), Wt. 100 g",
+    "Credit Line": "The Crosby Brown Collection of Musical Instruments, 1889",
+    "Geography Type": null,
+    "City": "Delft",
+    "State": null,
+    "County": null,
+    "Country": "Netherlands",
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Idiophone-Struck-bell-clapper",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/502148",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/mi/original/DP161928.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 155134,
+        "role": "Maker",
+        "name": "Johannes Harlees",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      },
+      {
+        "constituentID": 35492,
+        "role": "Factory",
+        "name": "Johannes and Dirck Harlees",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Diameter": 7,
+          "Height": 13.1
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

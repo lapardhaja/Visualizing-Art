@@ -1,0 +1,108 @@
+{
+  "object_id": 459045,
+  "excel_metadata": {
+    "Object Number": "1975.1.103",
+    "Is Highlight": true,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 459045,
+    "Gallery Number": 952.0,
+    "Department": "Robert Lehman Collection",
+    "AccessionYear": 1975.0,
+    "Object Name": "Painting",
+    "Title": "The Feast of Herod and the Beheading of the Baptist",
+    "Culture": "Italian, Rimini",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10734.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Giovanni Baronzio",
+    "Artist Display Bio": "Italian, active in Romagna and the Marches, second quarter 14th century",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Baronzio, Giovanni",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1325",
+    "Artist End Date": "1349",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500006940",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q535607",
+    "Object Date": "ca. 1330–35",
+    "Object Begin Date": 1325,
+    "Object End Date": 1335,
+    "Medium": "Tempera on wood, gold ground, and silver",
+    "Dimensions": "17 3/8 x 19 5/8 in. (44.1 x 49.8 cm)",
+    "Credit Line": "Robert Lehman Collection, 1975",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/459045",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20183879",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Heads|Men|Women|Saint John the Baptist",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300375054|http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/ia/901001056",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q3409626|https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q40662"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/rl/original/DT3073.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/rl/original/ep1975.1.103.bw.R.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/0544.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 107343,
+        "role": "Artist",
+        "name": "Giovanni Baronzio",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500006940",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q535607",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 44.1,
+          "Width": 49.8
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Heads",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300375054",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3409626"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Saint John the Baptist",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901001056",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q40662"
+      }
+    ]
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "object_id": 467621,
+  "excel_metadata": {
+    "Object Number": 36.134,
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 467621,
+    "Gallery Number": null,
+    "Department": "Medieval Art",
+    "AccessionYear": 1936,
+    "Object Name": "Cross",
+    "Title": "Processional Cross",
+    "Culture": "Spanish",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": null,
+    "Artist Role": null,
+    "Artist Prefix": null,
+    "Artist Display Name": null,
+    "Artist Display Bio": null,
+    "Artist Suffix": null,
+    "Artist Alpha Sort": null,
+    "Artist Nationality": null,
+    "Artist Begin Date": null,
+    "Artist End Date": null,
+    "Artist Gender": null,
+    "Artist ULAN URL": null,
+    "Artist Wikidata URL": null,
+    "Object Date": "late 14th century",
+    "Object Begin Date": 1350,
+    "Object End Date": 1400,
+    "Medium": "Champlevé enamel, copper-gilt",
+    "Dimensions": "Overall: 24 1/8 x 18 1/8 in. (61.3 x 46 cm)",
+    "Credit Line": "Rogers Fund, 1936",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Enamels-Champlevé",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/467621",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Christ|Crucifixion",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901000087|http://vocab.getty.edu/page/aat/300404300",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q642420|https://www.wikidata.org/wiki/Q3235597"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/md/original/LC_36_134_s01.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/md/original/LC_36_134_s02.jpg",
+      "https://images.metmuseum.org/CRDImages/md/original/109427.jpg",
+      "https://images.metmuseum.org/CRDImages/md/original/49954.jpg"
+    ],
+    "constituents": null,
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 61.2776,
+          "Width": 46.0376
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Christ",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+      },
+      {
+        "term": "Crucifixion",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300404300",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3235597"
+      }
+    ]
+  }
+}

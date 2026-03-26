@@ -1,0 +1,111 @@
+{
+  "object_id": 204692,
+  "excel_metadata": {
+    "Object Number": 66.177,
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 204692,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1966,
+    "Object Name": "Statuette",
+    "Title": "Seated male figure",
+    "Culture": "Central Italian",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": null,
+    "Artist Role": null,
+    "Artist Prefix": null,
+    "Artist Display Name": null,
+    "Artist Display Bio": null,
+    "Artist Suffix": null,
+    "Artist Alpha Sort": null,
+    "Artist Nationality": null,
+    "Artist Begin Date": null,
+    "Artist End Date": null,
+    "Artist Gender": null,
+    "Artist ULAN URL": null,
+    "Artist Wikidata URL": null,
+    "Object Date": "mid-16th century",
+    "Object Begin Date": 1530,
+    "Object End Date": 1565,
+    "Medium": "Bronze",
+    "Dimensions": "Overall figure confirmed: 15 3/4 × 12 3/4 × 19 1/4 in. (40 × 32.4 × 48.9 cm)",
+    "Credit Line": "Edith Perry Chapman Fund, 1966",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Sculpture-Bronze",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/204692",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Male Nudes",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300189568",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q40446"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP-12316-001.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/DP-12316-002.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP-12316-003.jpg"
+    ],
+    "constituents": null,
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": "max dims as mounted on base, confirmed",
+        "elementMeasurements": {
+          "Depth": 54.610107,
+          "Height": 56.515114,
+          "Weight": 14.605824,
+          "Width": 31.750063
+        }
+      },
+      {
+        "elementName": "Height",
+        "elementDescription": "figure",
+        "elementMeasurements": {
+          "Height": 31.115063
+        }
+      },
+      {
+        "elementName": "Base",
+        "elementDescription": "confirmed",
+        "elementMeasurements": {
+          "Depth": 25.400051,
+          "Height": 25.717552,
+          "Width": 31.750063
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": "Overall figure confirmed",
+        "elementMeasurements": {
+          "Depth": 48.8951,
+          "Height": 40.00508,
+          "Width": 32.385063
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Male Nudes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300189568",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q40446"
+      }
+    ]
+  }
+}

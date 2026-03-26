@@ -1,0 +1,95 @@
+{
+  "object_id": 13269,
+  "excel_metadata": {
+    "Object Number": "06.286",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 13269,
+    "Gallery Number": NaN,
+    "Department": "The American Wing",
+    "AccessionYear": 1906.0,
+    "Object Name": "Painting",
+    "Title": "Nocturne in Green and Gold",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16272.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "James McNeill Whistler",
+    "Artist Display Bio": "American, Lowell, Massachusetts 1834–1903 London",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Whistler, James McNeill",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1834",
+    "Artist End Date": "1903",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500012432",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q203643",
+    "Object Date": "by 1877 (?)",
+    "Object Begin Date": 1876,
+    "Object End Date": 1877,
+    "Medium": "Oil on canvas",
+    "Dimensions": "25 1/8 x 30 3/8 in. (63.8 x 77.2 cm)",
+    "Credit Line": "Gift of Harris C. Fahnestock, 1906",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/13269",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19923821",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": NaN,
+    "Tags AAT URL": NaN,
+    "Tags Wikidata URL": NaN
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/ap06.286.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ad/original/DT257408.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 162723,
+        "role": "Artist",
+        "name": "James McNeill Whistler",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500012432",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q203643",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 63.8,
+          "Width": 77.2
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 10,
+          "Height": 96.5,
+          "Width": 109.4
+        }
+      }
+    ],
+    "tags": null
+  }
+}

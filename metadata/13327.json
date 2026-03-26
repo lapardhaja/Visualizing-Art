@@ -1,0 +1,95 @@
+{
+  "object_id": 13327,
+  "excel_metadata": {
+    "Object Number": "1985.141.10",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 13327,
+    "Gallery Number": NaN,
+    "Department": "The American Wing",
+    "AccessionYear": 1985.0,
+    "Object Name": "Painting, miniature",
+    "Title": "John Cox",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16538.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Henry Williams",
+    "Artist Display Bio": "American, Boston, Massachusetts 1787–1830 Boston, Massachusetts",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Williams, Henry",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1787",
+    "Artist End Date": "1830",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500019959",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q20127277",
+    "Object Date": "ca. 1810",
+    "Object Begin Date": 1807,
+    "Object End Date": 1810,
+    "Medium": "Watercolor on ivory",
+    "Dimensions": "2 17/32 x 2 1/16 in. (6.4 x 5.2 cm)",
+    "Credit Line": "Maria DeWitt Jesup Fund, 1985",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/13327",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19925699",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/236517.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 165382,
+        "role": "Artist",
+        "name": "Henry Williams",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500019959",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q20127277",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 6.4,
+          "Width": 5.2
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

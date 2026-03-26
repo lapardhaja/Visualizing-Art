@@ -1,0 +1,95 @@
+{
+  "object_id": 18830,
+  "excel_metadata": {
+    "Object Number": "2005.90a, b",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 18830,
+    "Gallery Number": NaN,
+    "Department": "The American Wing",
+    "AccessionYear": 2004.0,
+    "Object Name": "Painting, miniature",
+    "Title": "Portrait of a Lady",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 340.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Daniel F. Ames",
+    "Artist Display Bio": "1803–1886",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Ames, Daniel F.",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1803",
+    "Artist End Date": "1886",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500026473",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q21752065",
+    "Object Date": "ca. 1845",
+    "Object Begin Date": 1845,
+    "Object End Date": 1845,
+    "Medium": "Watercolor on ivory",
+    "Dimensions": "Framed: 3 x 2 1/4 in. (7.6 x 5.7 cm)",
+    "Credit Line": "Gift of Jacqueline Loewe Fowler, 2005",
+    "Geography Type": "Made in",
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": "United States",
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/18830",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19925787",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Portraits|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DP118423.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 3400,
+        "role": "Artist",
+        "name": "Daniel F. Ames",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500026473",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q21752065",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 7.62,
+          "Width": 5.715
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

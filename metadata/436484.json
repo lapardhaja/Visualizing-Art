@@ -1,0 +1,99 @@
+{
+  "object_id": 436484,
+  "excel_metadata": {
+    "Object Number": "36.162.4",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436484,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1936.0,
+    "Object Name": "Painting",
+    "Title": "Tiger and Cubs",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16192.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Jean-Léon Gérôme",
+    "Artist Display Bio": "French, Vesoul 1824–1904 Paris",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Gérôme, Jean-Léon",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1824",
+    "Artist End Date": "1904",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500115563",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q212499",
+    "Object Date": "ca. 1884",
+    "Object Begin Date": 1879,
+    "Object End Date": 1889,
+    "Medium": "Oil on canvas",
+    "Dimensions": "29 x 36 in. (73.7 x 91.4 cm)",
+    "Credit Line": "Bequest of Susan P. Colgate, in memory of her husband, Romulus R. Colgate, 1936",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436484",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912087",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Tigers",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300249063",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q19939"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT1972.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 161927,
+        "role": "Artist",
+        "name": "Jean-Léon Gérôme",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115563",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q212499",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 9.525,
+          "Height": 97.7902,
+          "Width": 115.5702
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 73.7,
+          "Width": 91.4
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Tigers",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300249063",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q19939"
+      }
+    ]
+  }
+}

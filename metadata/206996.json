@@ -1,0 +1,94 @@
+{
+  "object_id": 206996,
+  "excel_metadata": {
+    "Object Number": "1982.60.91",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 206996,
+    "Gallery Number": 537,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1982,
+    "Object Name": "Statuette",
+    "Title": "Satyr",
+    "Culture": "Italian, Mantua",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 3317,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Antico (Pier Jacopo Alari Bonacolsi)",
+    "Artist Display Bio": "Italian, Mantua ca. 1460–1528 Gazzuolo",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Antico (Alari Bonacolsi, Pier Jacopo)",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": 1460,
+    "Artist End Date": 1528,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500006970",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q1464234",
+    "Object Date": "ca. 1510–ca. 1520",
+    "Object Begin Date": 1505,
+    "Object End Date": 1525,
+    "Medium": "Bronze, with remains of dark brown lacquer",
+    "Dimensions": "Height: 12 in. (30.5 cm)",
+    "Credit Line": "The Jack and Belle Linsky Collection, 1982",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Sculpture-Bronze",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/206996",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q116307733",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Satyrs",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300379732",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q163709"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP-612-001.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/DP-612-002.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP-612-003.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP-612-005.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP-612-006.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 33172,
+        "role": "Artist",
+        "name": "Antico (Pier Jacopo Alari Bonacolsi)",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500006970",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1464234",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Height",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 30.48006
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Satyrs",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379732",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q163709"
+      }
+    ]
+  }
+}

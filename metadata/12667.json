@@ -1,0 +1,114 @@
+{
+  "object_id": 12667,
+  "excel_metadata": {
+    "Object Number": "1977.243",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 12667,
+    "Gallery Number": 753.0,
+    "Department": "The American Wing",
+    "AccessionYear": 1977.0,
+    "Object Name": "Painting",
+    "Title": "Horatio Gates",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16249.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Gilbert Stuart",
+    "Artist Display Bio": "American, North Kingston, Rhode Island 1755–1828 Boston, Massachusetts",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Stuart, Gilbert",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1755",
+    "Artist End Date": "1828",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500010392",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q41402",
+    "Object Date": "ca. 1793–94",
+    "Object Begin Date": 1790,
+    "Object End Date": 1794,
+    "Medium": "Oil on canvas",
+    "Dimensions": "44 1/4 x 35 7/8 in. (112.4 x 91.1 cm)",
+    "Credit Line": "Gift of Lucille S. Pfeffer, 1977",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/12667",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19924332",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "American Revolution|Men|Portraits|Generals",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901000252|http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300236762",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q192769|https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q83460"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DT2041.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162490,
+        "role": "Artist",
+        "name": "Gilbert Stuart",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500010392",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q41402",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 112.4,
+          "Width": 91.1
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 6.985,
+          "Height": 146.0503,
+          "Width": 125.7303
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "American Revolution",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000252",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q192769"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Generals",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300236762",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q83460"
+      }
+    ]
+  }
+}

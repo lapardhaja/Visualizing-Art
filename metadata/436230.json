@@ -1,0 +1,129 @@
+{
+  "object_id": 436230,
+  "excel_metadata": {
+    "Object Number": "1976.100.8",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436230,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1976.0,
+    "Object Name": "Painting",
+    "Title": "Card Players in a Drawing Room",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16519.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Pierre Louis Dumesnil the Younger",
+    "Artist Display Bio": "French, Paris 1698–1781 Paris",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Dumesnil, Pierre Louis, the Younger",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1698",
+    "Artist End Date": "1781",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500024945",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q75560",
+    "Object Date": NaN,
+    "Object Begin Date": 1718,
+    "Object End Date": 1781,
+    "Medium": "Oil on canvas",
+    "Dimensions": "31 1/8 x 38 3/4 in. (79.1 x 98.4 cm)",
+    "Credit Line": "Bequest of Harry G. Sperling, 1971",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436230",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912341",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Women|Playing Cards|Interiors|Dogs|Servants|Games",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/aat/300211294|http://vocab.getty.edu/page/aat/300391239|http://vocab.getty.edu/page/aat/300265714|http://vocab.getty.edu/page/aat/300025874|http://vocab.getty.edu/page/aat/300069657",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q47883|https://www.wikidata.org/wiki/Q2998430|https://www.wikidata.org/wiki/Q144|https://www.wikidata.org/wiki/Q54128|https://www.wikidata.org/wiki/Q11410"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP356146.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 165196,
+        "role": "Artist",
+        "name": "Pierre Louis Dumesnil the Younger",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500024945",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q75560",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 79.1,
+          "Width": 98.4
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 10.16002,
+          "Height": 97.7902,
+          "Width": 117.475235
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Interiors",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300391239",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q2998430"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Playing Cards",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300211294",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q47883"
+      },
+      {
+        "term": "Dogs",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300265714",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q144"
+      },
+      {
+        "term": "Servants",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025874",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q54128"
+      },
+      {
+        "term": "Games",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300069657",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q11410"
+      }
+    ]
+  }
+}

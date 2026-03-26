@@ -1,0 +1,93 @@
+{
+  "object_id": 470612,
+  "excel_metadata": {
+    "Object Number": "25.120.1020a, b",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 470612,
+    "Gallery Number": 3,
+    "Department": "The Cloisters",
+    "AccessionYear": 1925,
+    "Object Name": "Shaft",
+    "Title": "Column Shaft",
+    "Culture": "French",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": null,
+    "Artist Role": null,
+    "Artist Prefix": null,
+    "Artist Display Name": null,
+    "Artist Display Bio": null,
+    "Artist Suffix": null,
+    "Artist Alpha Sort": null,
+    "Artist Nationality": null,
+    "Artist Begin Date": null,
+    "Artist End Date": null,
+    "Artist Gender": null,
+    "Artist ULAN URL": null,
+    "Artist Wikidata URL": null,
+    "Object Date": "late 12th century",
+    "Object Begin Date": 1150,
+    "Object End Date": 1199,
+    "Medium": "Stone",
+    "Dimensions": "Overall: 40 3/4 x 6 1/4 in. (103.5 x 15.9 cm)_x000D_\na only: 18 1/4 x 6 1/4 in. (46.4 x 15.9 cm)_x000D_\nb only: 23 x 6 1/4 in. (58.4 x 15.9 cm)",
+    "Credit Line": "The Cloisters Collection, 1925",
+    "Geography Type": "Made in",
+    "City": null,
+    "State": null,
+    "County": "Languedoc",
+    "Country": "France",
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Sculpture-Architectural",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/470612",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q116256252",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": null,
+    "Tags AAT URL": null,
+    "Tags Wikidata URL": null
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/cl/original/cdi-st-g21.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/cl/original/cl25.120.1-.134.R.jpg"
+    ],
+    "constituents": null,
+    "measurements": [
+      {
+        "elementName": "Other",
+        "elementDescription": "b only",
+        "elementMeasurements": {
+          "Height": 58.4201,
+          "Width": 15.875
+        }
+      },
+      {
+        "elementName": "Other",
+        "elementDescription": "a only",
+        "elementMeasurements": {
+          "Diameter": 15.875,
+          "Height": 46.3551
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Diameter": 15.875,
+          "Height": 103.5052
+        }
+      }
+    ],
+    "tags": null
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "object_id": 200341,
+  "excel_metadata": {
+    "Object Number": "48.187.371",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 200341,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1948,
+    "Object Name": "Plate",
+    "Title": "Plate",
+    "Culture": "French, Paris",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 3488,
+    "Artist Role": "Maker",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Paul Soulaine",
+    "Artist Display Bio": "master 1720, died 1759",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Soulaine Paul",
+    "Artist Nationality": " ",
+    "Artist Begin Date": 1659,
+    "Artist End Date": 1759,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500091843",
+    "Artist Wikidata URL": null,
+    "Object Date": "1755–56",
+    "Object Begin Date": 1755,
+    "Object End Date": 1756,
+    "Medium": "Silver",
+    "Dimensions": "Diameter: 10 in. (25.4 cm)",
+    "Credit Line": "Bequest of Catherine D. Wentworth, 1948",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Metalwork-Silver",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/200341",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Coat of Arms",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300126352",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q14659"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/143756.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/143757.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/143758.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/143759.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/143760.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/143761.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 34883,
+        "role": "Maker",
+        "name": "Paul Soulaine",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500091843",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Diameter",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Diameter": 25.400051
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Coat of Arms",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300126352",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q14659"
+      }
+    ]
+  }
+}

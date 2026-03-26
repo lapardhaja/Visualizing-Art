@@ -1,0 +1,107 @@
+{
+  "object_id": 439122,
+  "excel_metadata": {
+    "Object Number": "2007.192",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 439122,
+    "Gallery Number": 807.0,
+    "Department": "European Paintings",
+    "AccessionYear": 2007.0,
+    "Object Name": "Painting",
+    "Title": "Gothic Windows in the Ruins of the Monastery at Oybin",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16175.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Carl Gustav Carus",
+    "Artist Display Bio": "German, Leipzig 1789–1869 Dresden",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Carus, Carl Gustav",
+    "Artist Nationality": "German",
+    "Artist Begin Date": "1789",
+    "Artist End Date": "1869",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500004882",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q61987",
+    "Object Date": "ca. 1828",
+    "Object Begin Date": 1823,
+    "Object End Date": 1833,
+    "Medium": "Oil on canvas",
+    "Dimensions": "17 in. × 13 1/4 in. (43.2 × 33.7 cm)",
+    "Credit Line": "Purchase, 2005 Benefit Fund, and Anna-Maria and Stephen Kellen Foundation and Eugene V. Thaw Gifts, 2007",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/439122",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19914292",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Windows",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300002944",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q35473"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-34306-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 161755,
+        "role": "Artist",
+        "name": "Carl Gustav Carus",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500004882",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q61987",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Diameter": 55.2,
+          "Height": 45.4,
+          "Width": 5.7
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 43.1801,
+          "Width": 33.6551
+        }
+      },
+      {
+        "elementName": "Glazing",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 44.76759,
+          "Width": 35.24257
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Windows",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300002944",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q35473"
+      }
+    ]
+  }
+}

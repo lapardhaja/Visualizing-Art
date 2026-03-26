@@ -1,0 +1,95 @@
+{
+  "object_id": 15131,
+  "excel_metadata": {
+    "Object Number": "2006.235.315",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 15131,
+    "Gallery Number": NaN,
+    "Department": "The American Wing",
+    "AccessionYear": 2006.0,
+    "Object Name": "Painting, miniature",
+    "Title": "Mrs. John Cox (Esther Bowes)",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16221.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Charles Willson Peale",
+    "Artist Display Bio": "American, Chester, Maryland 1741–1827 Philadelphia, Pennsylvania",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Peale, Charles Willson",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1741",
+    "Artist End Date": "1827",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500017914",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q454945",
+    "Object Date": "ca. 1778",
+    "Object Begin Date": 1775,
+    "Object End Date": 1781,
+    "Medium": "Watercolor on ivory",
+    "Dimensions": "1 3/4 x 1 3/8 in. (4.4 x 3.5 cm)",
+    "Credit Line": "Gift of Gloria Manney, 2006",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/15131",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20177539",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Portraits|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/APS6897.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162210,
+        "role": "Artist",
+        "name": "Charles Willson Peale",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500017914",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q454945",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 4.4,
+          "Width": 3.5
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

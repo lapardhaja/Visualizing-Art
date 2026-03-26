@@ -1,0 +1,102 @@
+{
+  "object_id": 193849,
+  "excel_metadata": {
+    "Object Number": "17.190.1171",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 193849,
+    "Gallery Number": NaN,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1917.0,
+    "Object Name": "Snuffbox, painting",
+    "Title": "Snuffbox with grisaille miniature of scene from Don Quixote",
+    "Culture": "French, Paris",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16556.0,
+    "Artist Role": "Maker",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Joseph Etienne Blerzy",
+    "Artist Display Bio": "French, active 1750–1806",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Blerzy, Joseph Etienne",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1750",
+    "Artist End Date": "1806",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500524496",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q22661422",
+    "Object Date": "1774–75",
+    "Object Begin Date": 1774,
+    "Object End Date": 1775,
+    "Medium": "Gold, enamel",
+    "Dimensions": "3 5/16 × 2 3/8 in. (8.4 × 6 cm)",
+    "Credit Line": "Gift of J. Pierpont Morgan, 1917",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Metalwork-Gold and Platinum|Miniatures",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/193849",
+    "Object Wikidata URL": NaN,
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Don Quixote|Men|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901001016|http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q480|https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/39551.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/ES540.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 165560,
+        "role": "Maker",
+        "name": "Joseph Etienne Blerzy",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500524496",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q22661422",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 8.413767,
+          "Width": 6.032512
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Don Quixote",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901001016",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q480"
+      }
+    ]
+  }
+}

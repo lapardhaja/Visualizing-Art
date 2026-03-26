@@ -1,0 +1,104 @@
+{
+  "object_id": 206420,
+  "excel_metadata": {
+    "Object Number": "1976.155.20",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 206420,
+    "Gallery Number": 545.0,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1976.0,
+    "Object Name": "Snuffbox, painting",
+    "Title": "Snuffbox",
+    "Culture": "French, Paris",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 3354.0,
+    "Artist Role": "Maker",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Charles Le Bastier",
+    "Artist Display Bio": "French, apprenticed 1738, master 1754, active 1783",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Le Bastier Charles",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1724",
+    "Artist End Date": "1783",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": NaN,
+    "Artist Wikidata URL": NaN,
+    "Object Date": "1771–72",
+    "Object Begin Date": 1771,
+    "Object End Date": 1772,
+    "Medium": "Gold, enamel",
+    "Dimensions": "Overall: 1 9/16 × 3 5/16 × 2 3/8 in. (4 × 8.4 × 6 cm)",
+    "Credit Line": "Gift of Mr. and Mrs. Charles Wrightsman, 1976",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Metalwork-Gold and Platinum|Miniatures",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/206420",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q116240682",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits|Flowers",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300132399",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q506"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/LC-1976_155_20-001.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/LC-1976_155_20-002.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/LC-1976_155_20-003.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 33548,
+        "role": "Maker",
+        "name": "Charles Le Bastier",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 6.032512,
+          "Height": 3.9687579,
+          "Width": 8.413767
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Flowers",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132399",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q506"
+      }
+    ]
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "object_id": 12678,
+  "excel_metadata": {
+    "Object Number": "26.16",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 12678,
+    "Gallery Number": 774.0,
+    "Department": "The American Wing",
+    "AccessionYear": 1926.0,
+    "Object Name": "Painting",
+    "Title": "Portrait of the Artist",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16249.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Gilbert Stuart",
+    "Artist Display Bio": "American, North Kingston, Rhode Island 1755–1828 Boston, Massachusetts",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Stuart, Gilbert",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1755",
+    "Artist End Date": "1828",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500010392",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q41402",
+    "Object Date": "ca. 1786",
+    "Object Begin Date": 1783,
+    "Object End Date": 1786,
+    "Medium": "Oil on canvas",
+    "Dimensions": "10 5/8 x 8 7/8 in. (27 x 22.5 cm)",
+    "Credit Line": "Fletcher Fund, 1926",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/12678",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20173702",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Self-portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300124534",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q192110"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DT11749.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162490,
+        "role": "Artist",
+        "name": "Gilbert Stuart",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500010392",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q41402",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 27,
+          "Width": 22.5
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 7.9375,
+          "Height": 43.8151,
+          "Width": 38.7351
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Self-portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300124534",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q192110"
+      }
+    ]
+  }
+}

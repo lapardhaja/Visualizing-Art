@@ -1,0 +1,85 @@
+{
+  "object_id": 198085,
+  "excel_metadata": {
+    "Object Number": "38.50.48a, b",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 198085,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1938,
+    "Object Name": "Étui",
+    "Title": "Sealing wax case (étui)",
+    "Culture": "French, Paris",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 16556,
+    "Artist Role": "Maker",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Joseph Etienne Blerzy",
+    "Artist Display Bio": "French, active 1750–1806",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Blerzy, Joseph Etienne",
+    "Artist Nationality": "French",
+    "Artist Begin Date": 1750,
+    "Artist End Date": 1806,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500524496",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q22661422",
+    "Object Date": "1783–84",
+    "Object Begin Date": 1783,
+    "Object End Date": 1784,
+    "Medium": "Gold and enamel",
+    "Dimensions": "Length: 4 5/8 in. (11.7 cm)",
+    "Credit Line": "Bequest of Kate Read Blacque, in memory of her husband, Valentine Alexander Blacque, 1937",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Metalwork-Gold and Platinum",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/198085",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": null,
+    "Tags AAT URL": null,
+    "Tags Wikidata URL": null
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/SF38_50_48_img1.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/SF38_50_48_img2.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 165560,
+        "role": "Maker",
+        "name": "Joseph Etienne Blerzy",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500524496",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q22661422",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Length",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Length": 11.747523
+        }
+      }
+    ],
+    "tags": null
+  }
+}

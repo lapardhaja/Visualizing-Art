@@ -1,0 +1,102 @@
+{
+  "object_id": 204766,
+  "excel_metadata": {
+    "Object Number": "67.155.12",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 204766,
+    "Gallery Number": 800,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1967,
+    "Object Name": "Statuette",
+    "Title": "Pierre de Wiessant",
+    "Culture": "French",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 1623253971,
+    "Artist Role": "Artist|Founder",
+    "Artist Prefix": " |Cast by",
+    "Artist Display Name": "Auguste Rodin|Alexis Rudier",
+    "Artist Display Bio": "French, Paris 1840–1917 Meudon|French",
+    "Artist Suffix": " | ",
+    "Artist Alpha Sort": "Rodin, Auguste|Rudier Alexis",
+    "Artist Nationality": "French|French",
+    "Artist Begin Date": "1840      |          ",
+    "Artist End Date": "1917      |          ",
+    "Artist Gender": "|",
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500016619|http://vocab.getty.edu/page/ulan/500331542",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q30755|https://www.wikidata.org/wiki/Q56246396",
+    "Object Date": "modeled 1885, cast ca. 1900–1907",
+    "Object Begin Date": 1880,
+    "Object End Date": 1912,
+    "Medium": "Bronze, brown patina",
+    "Dimensions": "wt. confirmed: 17 3/4 × 8 7/8 × 8 1/2 in., 20.3 lb. (45.1 × 22.5 × 21.6 cm, 9.2 kg)",
+    "Credit Line": "Bequest of Susan Vanderpoel Clark, 1967",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Sculpture-Bronze",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/204766",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q116240696",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP-13617-029.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/DP-13617-030.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 162325,
+        "role": "Artist",
+        "name": "Auguste Rodin",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500016619",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q30755",
+        "gender": ""
+      },
+      {
+        "constituentID": 39712,
+        "role": "Founder",
+        "name": "Cast by Alexis Rudier",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500331542",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q56246396",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": "wt. confirmed",
+        "elementMeasurements": {
+          "Depth": 21.590044,
+          "Height": 45.08509,
+          "Weight": 9.2,
+          "Width": 22.542545
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      }
+    ]
+  }
+}

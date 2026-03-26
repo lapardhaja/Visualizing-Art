@@ -1,0 +1,100 @@
+{
+  "object_id": 437861,
+  "excel_metadata": {
+    "Object Number": "57.104",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437861,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1957.0,
+    "Object Name": "Painting",
+    "Title": "Portrait of a Boy with a Falcon",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10840.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Wallerant Vaillant",
+    "Artist Display Bio": "Flemish, Lille 1623–1677 Amsterdam",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Vaillant, Wallerant",
+    "Artist Nationality": "Flemish",
+    "Artist Begin Date": "1623",
+    "Artist End Date": "1677",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500025331",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q513815",
+    "Object Date": NaN,
+    "Object Begin Date": 1643,
+    "Object End Date": 1677,
+    "Medium": "Oil on canvas",
+    "Dimensions": "29 3/4 x 25 in. (75.6 x 63.5 cm)",
+    "Credit Line": "Purchase, George T. Delacorte Jr. Gift, 1957",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437861",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19913097",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Falcons|Boys|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300250051|http://vocab.getty.edu/page/aat/300247598|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q43489|https://www.wikidata.org/wiki/Q3010|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-22709-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 108402,
+        "role": "Artist",
+        "name": "Wallerant Vaillant",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500025331",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q513815",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 75.6,
+          "Width": 63.5
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Falcons",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250051",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q43489"
+      },
+      {
+        "term": "Boys",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300247598",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3010"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

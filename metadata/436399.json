@@ -1,0 +1,95 @@
+{
+  "object_id": 436399,
+  "excel_metadata": {
+    "Object Number": "1975.39",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436399,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1975.0,
+    "Object Name": "Painting",
+    "Title": "Cartoon for the Back of a Tapestry Settee",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 12709.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "French Painter",
+    "Artist Display Bio": "fourth quarter 18th century",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "French Painter",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "          ",
+    "Artist End Date": "          ",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": NaN,
+    "Artist Wikidata URL": NaN,
+    "Object Date": NaN,
+    "Object Begin Date": 1775,
+    "Object End Date": 1799,
+    "Medium": "Oil on canvas",
+    "Dimensions": "26 3/4 x 68 1/2 in. (67.9 x 174 cm)",
+    "Credit Line": "Gift of Mrs. Francis Henry Lenygon, 1975",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436399",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19913235",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Garlands|Flowers",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300167386|http://vocab.getty.edu/page/aat/300132399",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q756600|https://www.wikidata.org/wiki/Q506"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-23424-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 127098,
+        "role": "Artist",
+        "name": "French Painter",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 67.9,
+          "Width": 174
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Garlands",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300167386",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q756600"
+      },
+      {
+        "term": "Flowers",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132399",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q506"
+      }
+    ]
+  }
+}

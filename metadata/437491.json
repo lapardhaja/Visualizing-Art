@@ -1,0 +1,120 @@
+{
+  "object_id": 437491,
+  "excel_metadata": {
+    "Object Number": "21.134.3a–c",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437491,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1921.0,
+    "Object Name": "Painting, parts of a polyptych",
+    "Title": "Saint Michael; The Mass of Saint Gregory; Saint Jerome",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 12224.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Master of the Saint Catherine Legend",
+    "Artist Display Bio": "Netherlandish, active ca. 1470–1500",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Master of the Saint Catherine Legend",
+    "Artist Nationality": "Netherlandish",
+    "Artist Begin Date": "1470",
+    "Artist End Date": "1500",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500015421",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q17006553",
+    "Object Date": NaN,
+    "Object Begin Date": 1450,
+    "Object End Date": 1499,
+    "Medium": "Oil on wood",
+    "Dimensions": "Central panel 6 1/8 x 3 3/4 in. (15.6 x 9.5 cm); left panel 6 1/4 x 3 7/8 in. (15.9 x 9.8 cm); right panel 6 1/4 x 3 3/4 in. (15.9 x 9.5 cm)",
+    "Credit Line": "Bequest of William H. Herriman, 1920",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437491",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912267",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Women|Saint Jerome|Saint Michael|Demons|Lions|Christ",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/ulan/500060933| |http://vocab.getty.edu/page/aat/300379730|http://vocab.getty.edu/page/aat/300310388|http://vocab.getty.edu/page/ia/901000087",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q44248|https://www.wikidata.org/wiki/Q45581|https://www.wikidata.org/wiki/Q177413|https://www.wikidata.org/wiki/Q140|https://www.wikidata.org/wiki/Q642420"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP264733.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 122248,
+        "role": "Artist",
+        "name": "Master of the Saint Catherine Legend",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500015421",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q17006553",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 15.6,
+          "Width": 9.5
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Lions",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300310388",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q140"
+      },
+      {
+        "term": "Christ",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+      },
+      {
+        "term": "Saint Jerome",
+        "AAT_URL": "http://vocab.getty.edu/page/ulan/500060933",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q44248"
+      },
+      {
+        "term": "Saint Michael",
+        "AAT_URL": null,
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q45581"
+      },
+      {
+        "term": "Demons",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379730",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q177413"
+      }
+    ]
+  }
+}

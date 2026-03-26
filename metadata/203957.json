@@ -1,0 +1,112 @@
+{
+  "object_id": 203957,
+  "excel_metadata": {
+    "Object Number": "64.101.1485",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 203957,
+    "Gallery Number": 522,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1964,
+    "Object Name": "Statuette group",
+    "Title": "Hercules Skinning the Nemean Lion",
+    "Culture": "French, probably Paris",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 3374,
+    "Artist Role": "Artist",
+    "Artist Prefix": "Attributed to",
+    "Artist Display Name": "François Lespingola",
+    "Artist Display Bio": "French, 1644–1705",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Lespingola François",
+    "Artist Nationality": " ",
+    "Artist Begin Date": 1644,
+    "Artist End Date": 1705,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500025125",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q3085181",
+    "Object Date": "ca. 1675–1700",
+    "Object Begin Date": 1670,
+    "Object End Date": 1705,
+    "Medium": "Bronze",
+    "Dimensions": "Overall: [curve of tail to Hercules extended toe], wt. confirmed: 18 × 17 × 8 7/8 in., 26.7 lb. (45.7 × 43.2 × 22.5 cm, 12.1 kg)_x000D_\nBase: 11 1/2 × 7 1/2 in. (29.2 × 19.1 cm)",
+    "Credit Line": "Gift of Irwin Untermyer, 1964",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Sculpture-Bronze",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/203957",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q116308670",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Lions|Hercules|Nymphs",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300310388|http://vocab.getty.edu/page/ia/901000042|http://vocab.getty.edu/page/aat/300379159",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q140|https://www.wikidata.org/wiki/Q122248|https://www.wikidata.org/wiki/Q373916"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP158207.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/DP158208.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 33741,
+        "role": "Artist",
+        "name": "Attributed to François Lespingola",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500025125",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3085181",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": "curve of tail to Hercules extended toe, wt. confirmed",
+        "elementMeasurements": {
+          "Depth": 22.542545,
+          "Height": 45.720093,
+          "Weight": 12.11104,
+          "Width": 43.180088
+        }
+      },
+      {
+        "elementName": "Base",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 19.050037,
+          "Width": 29.210058
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Hercules",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000042",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q122248"
+      },
+      {
+        "term": "Nymphs",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379159",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q373916"
+      },
+      {
+        "term": "Lions",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300310388",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q140"
+      }
+    ]
+  }
+}

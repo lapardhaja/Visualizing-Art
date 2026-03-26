@@ -1,0 +1,110 @@
+{
+  "object_id": 764086,
+  "excel_metadata": {
+    "Object Number": "2018.652.1",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 764086,
+    "Gallery Number": 757.0,
+    "Department": "The American Wing",
+    "AccessionYear": 2018.0,
+    "Object Name": "Painting",
+    "Title": "Saint Bonaventure and Saint Anthony of Padua",
+    "Culture": "Peru (Cuzco)",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 20394.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": "Follower of",
+    "Artist Display Name": "Basilio Santa Cruz Pumacallao",
+    "Artist Display Bio": " ",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Pumacallao, Basilio Santa Cruz",
+    "Artist Nationality": "Peruvian",
+    "Artist Begin Date": "1635",
+    "Artist End Date": "1710",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": NaN,
+    "Artist Wikidata URL": NaN,
+    "Object Date": "ca. 1670–90",
+    "Object Begin Date": 1670,
+    "Object End Date": 1690,
+    "Medium": "Oil on canvas",
+    "Dimensions": "11 13/16 × 11 13/16 in. (30 × 30 cm)",
+    "Credit Line": "Gift of James Kung Wei Li, in memory of Ambassador and Mme Ti-Tsun Li, Republic of China, 2018",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/764086",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q116444995",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Musical Instruments|Men|Saints",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300041620|http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300150555",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q34379|https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q43115"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DP-18755-001.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ad/original/DP-18755-002.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 203942,
+        "role": "Artist",
+        "name": "Follower of Basilio Santa Cruz Pumacallao",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 30.00381,
+          "Width": 30.00381
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 49.5,
+          "Width": 51.8
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Musical Instruments",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300041620",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q34379"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Saints",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300150555",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q43115"
+      }
+    ]
+  }
+}

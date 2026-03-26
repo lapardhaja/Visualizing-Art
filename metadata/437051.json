@@ -1,0 +1,105 @@
+{
+  "object_id": 437051,
+  "excel_metadata": {
+    "Object Number": "87.15.37",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437051,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1887.0,
+    "Object Name": "Painting",
+    "Title": "A General and His Aide-de-camp",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16483.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Ernest Meissonier",
+    "Artist Display Bio": "French, Lyons 1815–1891 Paris",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Meissonier, Ernest",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1815",
+    "Artist End Date": "1891",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500001155",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q354786",
+    "Object Date": "1869",
+    "Object Begin Date": 1869,
+    "Object End Date": 1869,
+    "Medium": "Oil on wood",
+    "Dimensions": "7 3/4 x 10 7/8 in. (19.7 x 27.6 cm)",
+    "Credit Line": "Catharine Lorillard Wolfe Collection, Bequest of Catharine Lorillard Wolfe, 1887",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437051",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19906242",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Soldiers|Men|Generals|Horses",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300185678|http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300236762|http://vocab.getty.edu/page/aat/300250148",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q4991371|https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q83460|https://www.wikidata.org/wiki/Q726"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/ep87.15.37.R.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 164833,
+        "role": "Artist",
+        "name": "Ernest Meissonier",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500001155",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q354786",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 19.7,
+          "Width": 27.6
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Soldiers",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300185678",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q4991371"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Horses",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250148",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q726"
+      },
+      {
+        "term": "Generals",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300236762",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q83460"
+      }
+    ]
+  }
+}

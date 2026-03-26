@@ -1,0 +1,115 @@
+{
+  "object_id": 74660,
+  "excel_metadata": {
+    "Object Number": "2008.359.13",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 74660,
+    "Gallery Number": NaN,
+    "Department": "Asian Art",
+    "AccessionYear": 2008.0,
+    "Object Name": "Painting",
+    "Title": NaN,
+    "Culture": "India (Himachal Pradesh, Guler)",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 1135.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": "Attributed to a first-generation master after",
+    "Artist Display Name": "Nainsukh",
+    "Artist Display Bio": "active ca. 1735–78",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Nainsukh",
+    "Artist Nationality": "Indian",
+    "Artist Begin Date": "1725",
+    "Artist End Date": "1778",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500122652",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q1252229",
+    "Object Date": "ca. 1780",
+    "Object Begin Date": 1770,
+    "Object End Date": 1790,
+    "Medium": "Charcoal and opaque watercolor on paper",
+    "Dimensions": "Image (sight): 5 3/8 x 7 5/8 in. (13.7 x 19.4 cm)",
+    "Credit Line": "Gift of Subhash Kapoor, in memory of his parents, Smt Shashi Kanta and Shree Parshotam Ram Kapoor, 2008",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/74660",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q78710139",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Lions|Buffalos|Demons|Durga",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300310388|http://vocab.getty.edu/page/aat/300250108|http://vocab.getty.edu/page/aat/300379730|http://vocab.getty.edu/page/ia/901001417",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q140|https://www.wikidata.org/wiki/Q82728|https://www.wikidata.org/wiki/Q177413|https://www.wikidata.org/wiki/Q382973"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/as/original/DP166080.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/as/original/LC-2008_359_13_002.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 11354,
+        "role": "Artist",
+        "name": "Attributed to a first-generation master after Nainsukh",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500122652",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1252229",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 40.6401,
+          "Width": 50.8001
+        }
+      },
+      {
+        "elementName": "Image",
+        "elementDescription": "sight",
+        "elementMeasurements": {
+          "Height": 13.652527,
+          "Width": 19.367538
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Buffalos",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250108",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q82728"
+      },
+      {
+        "term": "Lions",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300310388",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q140"
+      },
+      {
+        "term": "Demons",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379730",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q177413"
+      },
+      {
+        "term": "Durga",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901001417",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q382973"
+      }
+    ]
+  }
+}

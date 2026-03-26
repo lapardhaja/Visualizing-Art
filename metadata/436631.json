@@ -1,0 +1,104 @@
+{
+  "object_id": 436631,
+  "excel_metadata": {
+    "Object Number": "95.27.2",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436631,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1895.0,
+    "Object Name": "Painting",
+    "Title": "Self-Portrait",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16623.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "George Henry Harlow",
+    "Artist Display Bio": "British, London 1787–1819 London",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Harlow, George Henry",
+    "Artist Nationality": "British",
+    "Artist Begin Date": "1787",
+    "Artist End Date": "1819",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500001061",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q2733223",
+    "Object Date": NaN,
+    "Object Begin Date": 1807,
+    "Object End Date": 1819,
+    "Medium": "Oil on canvas",
+    "Dimensions": "30 x 25 in. (76.2 x 63.5 cm)",
+    "Credit Line": "Gift of George A. Hearn, 1895",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436631",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912622",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Self-portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300124534",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q192110"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP170288.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 166239,
+        "role": "Artist",
+        "name": "George Henry Harlow",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500001061",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q2733223",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 76.2,
+          "Width": 63.5
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 10.795022,
+          "Height": 93.98019,
+          "Width": 81.28016
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Self-portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300124534",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q192110"
+      }
+    ]
+  }
+}

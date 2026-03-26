@@ -1,0 +1,108 @@
+{
+  "object_id": 436499,
+  "excel_metadata": {
+    "Object Number": "1989.21",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 436499,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1989.0,
+    "Object Name": "Painting",
+    "Title": "Diana the Huntress",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10770.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Giampietrino (Giovanni Pietro Rizzoli)",
+    "Artist Display Bio": "Italian, Milanese, active by ca. 1495–died 1553",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Giampietrino (Giovanni Pietro Rizzoli)",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1495",
+    "Artist End Date": "1553",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500020944",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q940454",
+    "Object Date": NaN,
+    "Object Begin Date": 1526,
+    "Object End Date": 1549,
+    "Medium": "Oil on wood",
+    "Dimensions": "44 7/8 x 23 1/4 in. (114 x 59.1 cm)",
+    "Credit Line": "Purchase, Mr. and Mrs. Frank E. Richardson Gift, 1989",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436499",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912736",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Bow and Arrow|Diana|Deer|Female Nudes",
+    "Tags AAT URL": " |http://vocab.getty.edu/page/ia/901000118|http://vocab.getty.edu/page/aat/300250308|http://vocab.getty.edu/page/aat/300189568",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q19827042|https://www.wikidata.org/wiki/Q132543|https://www.wikidata.org/wiki/Q685795|https://www.wikidata.org/wiki/Q40446"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-18296-033.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-1989_21-2.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-1989_21-3.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 107701,
+        "role": "Artist",
+        "name": "Giampietrino (Giovanni Pietro Rizzoli)",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500020944",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q940454",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 114,
+          "Width": 59.1
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Bow and Arrow",
+        "AAT_URL": null,
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q19827042"
+      },
+      {
+        "term": "Female Nudes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300189568",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q40446"
+      },
+      {
+        "term": "Diana",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000118",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q132543"
+      },
+      {
+        "term": "Deer",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250308",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q685795"
+      }
+    ]
+  }
+}

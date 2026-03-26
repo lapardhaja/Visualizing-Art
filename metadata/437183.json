@@ -1,0 +1,100 @@
+{
+  "object_id": 437183,
+  "excel_metadata": {
+    "Object Number": "03.37.3",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437183,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1903.0,
+    "Object Name": "Painting",
+    "Title": "Madame Bergeret de Frouville as Diana",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16488.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Jean Marc Nattier",
+    "Artist Display Bio": "French, Paris 1685–1766 Paris",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Nattier, Jean Marc",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1685",
+    "Artist End Date": "1766",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500120754",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q277738",
+    "Object Date": "1756",
+    "Object Begin Date": 1756,
+    "Object End Date": 1756,
+    "Medium": "Oil on canvas",
+    "Dimensions": "53 3/4 x 41 3/8 in. (136.5 x 105.1 cm)",
+    "Credit Line": "Rogers Fund, 1903",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437183",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912257",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Bow and Arrow|Portraits|Diana",
+    "Tags AAT URL": " |http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/ia/901000118",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q19827042|https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q132543"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP169499.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 164886,
+        "role": "Artist",
+        "name": "Jean Marc Nattier",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500120754",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q277738",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 136.5,
+          "Width": 105.1
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Bow and Arrow",
+        "AAT_URL": null,
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q19827042"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Diana",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000118",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q132543"
+      }
+    ]
+  }
+}

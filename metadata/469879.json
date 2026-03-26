@@ -1,0 +1,104 @@
+{
+  "object_id": 469879,
+  "excel_metadata": {
+    "Object Number": 1983.434,
+    "Is Highlight": true,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 469879,
+    "Gallery Number": null,
+    "Department": "The Cloisters",
+    "AccessionYear": 1983,
+    "Object Name": "Saltcellar",
+    "Title": "Saltcellar",
+    "Culture": "French",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": null,
+    "Artist Role": null,
+    "Artist Prefix": null,
+    "Artist Display Name": null,
+    "Artist Display Bio": null,
+    "Artist Suffix": null,
+    "Artist Alpha Sort": null,
+    "Artist Nationality": null,
+    "Artist Begin Date": null,
+    "Artist End Date": null,
+    "Artist Gender": null,
+    "Artist ULAN URL": null,
+    "Artist Wikidata URL": null,
+    "Object Date": "mid-13th century",
+    "Object Begin Date": 1225,
+    "Object End Date": 1275,
+    "Medium": "Gold, rock crystal, emeralds, pearls, spinel or balas rubies",
+    "Dimensions": "5 7/8 × 3 7/16 in. (15 × 8.8 cm)_x000D_\nRock Crystal: 1 5/16 × 2 1/8 × 3 3/8 in. (3.3 × 5.4 × 8.5 cm)_x000D_\nDiam. of foot: 3 1/8 in. (8 cm)",
+    "Credit Line": "The Cloisters Collection, 1983",
+    "Geography Type": "Made in",
+    "City": "Paris",
+    "State": null,
+    "County": null,
+    "Country": "France",
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Metalwork-Gold",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/469879",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q29385486",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Serpents|Boats",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300417734|http://vocab.getty.edu/page/aat/300178749",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q2102|https://www.wikidata.org/wiki/Q35872"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/cl/original/DT215113.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/cl/original/DP223229.jpg"
+    ],
+    "constituents": null,
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 15,
+          "Width": 8.75
+        }
+      },
+      {
+        "elementName": "Diam. of foot",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Diameter": 8
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": "Rock Crystal",
+        "elementMeasurements": {
+          "Height": 3.3,
+          "Length": 8.5,
+          "Width": 5.4
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Serpents",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300417734",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q2102"
+      },
+      {
+        "term": "Boats",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300178749",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q35872"
+      }
+    ]
+  }
+}

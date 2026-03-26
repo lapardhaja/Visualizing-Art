@@ -1,0 +1,129 @@
+{
+  "object_id": 440985,
+  "excel_metadata": {
+    "Object Number": "41.190.31a",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 440985,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1941.0,
+    "Object Name": "Painting",
+    "Title": "The Crucifixion",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16258.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": "Attributed to",
+    "Artist Display Name": "Ugolino da Siena",
+    "Artist Display Bio": "Italian, Siena, active by 1317–died ?1339/49",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Ugolino da Siena",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1317",
+    "Artist End Date": "1349",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500008502",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q1357686",
+    "Object Date": "ca. 1315–20",
+    "Object Begin Date": 1310,
+    "Object End Date": 1320,
+    "Medium": "Tempera on wood, gold ground",
+    "Dimensions": "Overall, with engaged frame, 25 1/4 x 18 5/8 in. (64.1 x 47.3 cm), painted surface 22 1/4 x 15 3/4 in. (56.5 x 40 cm)",
+    "Credit Line": "Bequest of George Blumenthal, 1941",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/440985",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19905302",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Women|Crucifixion|Christ|Saint Francis|Saint John the Evangelist|Virgin Mary",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/aat/300404300|http://vocab.getty.edu/page/ia/901000087|http://vocab.getty.edu/page/ulan/500349636|http://vocab.getty.edu/page/ia/901001171|http://vocab.getty.edu/page/ia/901000032",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q3235597|https://www.wikidata.org/wiki/Q642420|https://www.wikidata.org/wiki/Q676555|https://www.wikidata.org/wiki/Q328804|https://www.wikidata.org/wiki/Q345"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP296426.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162582,
+        "role": "Artist",
+        "name": "Attributed to Ugolino da Siena",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500008502",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1357686",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 64.1,
+          "Width": 47.3
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 6.350013,
+          "Height": 64.13513,
+          "Width": 47.625095
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Christ",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+      },
+      {
+        "term": "Saint Francis",
+        "AAT_URL": "http://vocab.getty.edu/page/ulan/500349636",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q676555"
+      },
+      {
+        "term": "Saint John the Evangelist",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901001171",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q328804"
+      },
+      {
+        "term": "Virgin Mary",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000032",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q345"
+      },
+      {
+        "term": "Crucifixion",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300404300",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3235597"
+      }
+    ]
+  }
+}

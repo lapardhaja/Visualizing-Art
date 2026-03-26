@@ -1,0 +1,104 @@
+{
+  "object_id": 435948,
+  "excel_metadata": {
+    "Object Number": "1978.301.6",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 435948,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1978.0,
+    "Object Name": "Painting",
+    "Title": "Portrait of a Bearded Man in Black",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16178.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": "Attributed to",
+    "Artist Display Name": "Corneille de Lyon",
+    "Artist Display Bio": "Netherlandish, The Hague, active by 1533–died 1575 Lyons",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Corneille de Lyon",
+    "Artist Nationality": "Netherlandish",
+    "Artist Begin Date": "1533",
+    "Artist End Date": "1575",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500115387",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q720941",
+    "Object Date": NaN,
+    "Object Begin Date": 1533,
+    "Object End Date": 1575,
+    "Medium": "Oil on wood",
+    "Dimensions": "6 3/4 x 6 1/4 in. (17.1 x 15.9 cm)",
+    "Credit Line": "Bequest of George D. Pratt, 1935",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/435948",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19913191",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-13587-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 161785,
+        "role": "Artist",
+        "name": "Attributed to Corneille de Lyon",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115387",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q720941",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 17.1,
+          "Width": 15.9
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 2.54,
+          "Height": 21.59,
+          "Width": 18.415
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

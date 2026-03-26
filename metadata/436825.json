@@ -1,0 +1,104 @@
+{
+  "object_id": 436825,
+  "excel_metadata": {
+    "Object Number": "1990.233",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 436825,
+    "Gallery Number": 807.0,
+    "Department": "European Paintings",
+    "AccessionYear": 1990.0,
+    "Object Name": "Painting",
+    "Title": "Valdemar Hjartvar Købke (1813–1893), the Artist's Brother",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16203.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Christen Købke",
+    "Artist Display Bio": "Danish, Copenhagen 1810–1848 Copenhagen",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Købke, Christen",
+    "Artist Nationality": "Danish",
+    "Artist Begin Date": "1810",
+    "Artist End Date": "1848",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500013388",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q381458",
+    "Object Date": "ca. 1838",
+    "Object Begin Date": 1833,
+    "Object End Date": 1843,
+    "Medium": "Oil on canvas",
+    "Dimensions": "21 1/8 x 18 1/4 in. (53.7 x 46.4 cm)",
+    "Credit Line": "Catharine Lorillard Wolfe Collection, Wolfe Fund, 1990",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436825",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912045",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT6486.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162039,
+        "role": "Artist",
+        "name": "Christen Købke",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500013388",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q381458",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 53.7,
+          "Width": 46.4
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 7.3025146,
+          "Height": 65.72263,
+          "Width": 58.737617
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

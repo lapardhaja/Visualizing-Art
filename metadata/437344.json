@@ -1,0 +1,114 @@
+{
+  "object_id": 437344,
+  "excel_metadata": {
+    "Object Number": "06.177",
+    "Is Highlight": true,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 437344,
+    "Gallery Number": 800.0,
+    "Department": "European Paintings",
+    "AccessionYear": 1906.0,
+    "Object Name": "Painting",
+    "Title": "The Shepherd's Song",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16228.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Pierre Puvis de Chavannes",
+    "Artist Display Bio": "French, Lyons 1824–1898 Paris",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Puvis de Chavannes, Pierre",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1824",
+    "Artist End Date": "1898",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500008870",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q216873",
+    "Object Date": "1891",
+    "Object Begin Date": 1891,
+    "Object End Date": 1891,
+    "Medium": "Oil on canvas",
+    "Dimensions": "41 1/8 x 43 1/4 in. (104.5 x 109.9 cm)",
+    "Credit Line": "Rogers Fund, 1906",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437344",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19905165",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Sheep|Shepherds|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300250284|http://vocab.getty.edu/page/aat/300025617|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q7368|https://www.wikidata.org/wiki/Q81710|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-14201-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162280,
+        "role": "Artist",
+        "name": "Pierre Puvis de Chavannes",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500008870",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q216873",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 104.5,
+          "Width": 109.9
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 13.97,
+          "Height": 142.8753,
+          "Width": 146.0503
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Sheep",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250284",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q7368"
+      },
+      {
+        "term": "Shepherds",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025617",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q81710"
+      }
+    ]
+  }
+}

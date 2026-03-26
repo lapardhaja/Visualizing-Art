@@ -1,0 +1,112 @@
+{
+  "object_id": 14826,
+  "excel_metadata": {
+    "Object Number": "2021.14",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 14826,
+    "Gallery Number": 756.0,
+    "Department": "The American Wing",
+    "AccessionYear": 2021.0,
+    "Object Name": "Painting",
+    "Title": "Queen Victoria",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16249.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Thomas Sully",
+    "Artist Display Bio": "American, Horncastle, Lincolnshire 1783–1872 Philadelphia, Pennsylvania",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Sully, Thomas",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1783",
+    "Artist End Date": "1872",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500006873",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q786545",
+    "Object Date": "1838",
+    "Object Begin Date": 1838,
+    "Object End Date": 1838,
+    "Medium": "Oil on canvas",
+    "Dimensions": "94 x 58 in. (238.8 x 147.3 cm)",
+    "Credit Line": "Purchase, Brooke Russell Astor Bequest, Louis V. Bell Fund, Mr. and Mrs. Richard L. Chilton Jr. and Anthony W. and Lulu C. Wang Gifts, and funds from various donors, in honor of Morrison H. Heckscher, 2021",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/14826",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20173952",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Portraits|Queen Victoria|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/ulan/500022428|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q9439|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/QV full length.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ad/original/DT247633.jpg",
+      "https://images.metmuseum.org/CRDImages/ad/original/DP-24527-001.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 162494,
+        "role": "Artist",
+        "name": "Thomas Sully",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500006873",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q786545",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 238.8,
+          "Width": 147.3203
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 11.7,
+          "Height": 303.5,
+          "Width": 179.1
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Queen Victoria",
+        "AAT_URL": "http://vocab.getty.edu/page/ulan/500022428",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q9439"
+      }
+    ]
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "object_id": 202865,
+  "excel_metadata": {
+    "Object Number": "63.53.172",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 202865,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1963,
+    "Object Name": "Trivet",
+    "Title": "Miniature trivet",
+    "Culture": "British, London",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 3360,
+    "Artist Role": "Maker",
+    "Artist Prefix": " ",
+    "Artist Display Name": "David Clayton",
+    "Artist Display Bio": "British, active 1689",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Clayton, David",
+    "Artist Nationality": "British",
+    "Artist Begin Date": 1659,
+    "Artist End Date": 1719,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500332796",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q5232407",
+    "Object Date": "ca. 1720–30",
+    "Object Begin Date": 1715,
+    "Object End Date": 1735,
+    "Medium": "Silver",
+    "Dimensions": "3 1/2 × 3/4 in. (8.9 × 1.9 cm)",
+    "Credit Line": "The Joseph M. and Aimee Loeb May Collection, 1963",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Metalwork-Silver-Miniature",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/202865",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": null,
+    "Tags AAT URL": null,
+    "Tags Wikidata URL": null
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP-1717-016.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 33609,
+        "role": "Maker",
+        "name": "David Clayton",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500332796",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5232407",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 8.8900175,
+          "Width": 1.9050038
+        }
+      }
+    ],
+    "tags": null
+  }
+}

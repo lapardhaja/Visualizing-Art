@@ -1,0 +1,103 @@
+{
+  "object_id": 209404,
+  "excel_metadata": {
+    "Object Number": "50.192.3",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 209404,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1950,
+    "Object Name": "Cup",
+    "Title": "Cup (part of a set)",
+    "Culture": "German, Meissen",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 16483,
+    "Artist Role": "Manufactory",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Meissen Manufactory",
+    "Artist Display Bio": "German, 1710–present",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Meissen Manufactory",
+    "Artist Nationality": "German",
+    "Artist Begin Date": 1710,
+    "Artist End Date": 9999,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500054662",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q822407",
+    "Object Date": "ca. 1740",
+    "Object Begin Date": 1735,
+    "Object End Date": 1745,
+    "Medium": "Hard-paste porcelain",
+    "Dimensions": "Overall (confirmed): 1 3/8 × 3 1/16 × 2 1/16 in. (3.5 × 7.8 × 5.2 cm)",
+    "Credit Line": "Gift of Alastair Bradley Martin, 1950",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Ceramics-Porcelain",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/209404",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Boys|Flowers|Plants",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300247598|http://vocab.getty.edu/page/aat/300132399|http://vocab.getty.edu/page/aat/300132360",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q3010|https://www.wikidata.org/wiki/Q506|https://www.wikidata.org/wiki/Q756"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP223846.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/148679.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 164832,
+        "role": "Manufactory",
+        "name": "Meissen Manufactory",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500054662",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q822407",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": "confirmed",
+        "elementMeasurements": {
+          "Depth": 5.2387605,
+          "Height": 3.492507,
+          "Width": 7.7787657
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Boys",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300247598",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3010"
+      },
+      {
+        "term": "Flowers",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132399",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q506"
+      },
+      {
+        "term": "Plants",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132360",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q756"
+      }
+    ]
+  }
+}

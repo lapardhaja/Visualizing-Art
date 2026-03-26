@@ -1,0 +1,104 @@
+{
+  "object_id": 436708,
+  "excel_metadata": {
+    "Object Number": "38.65",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 436708,
+    "Gallery Number": 811.0,
+    "Department": "European Paintings",
+    "AccessionYear": 1938.0,
+    "Object Name": "Painting",
+    "Title": "Odalisque in Grisaille",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16200.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Jean Auguste Dominique Ingres",
+    "Artist Display Bio": "French, Montauban 1780–1867 Paris",
+    "Artist Suffix": "and Workshop",
+    "Artist Alpha Sort": "Ingres, Jean Auguste Dominique",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1780",
+    "Artist End Date": "1867",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500028037",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q23380",
+    "Object Date": "ca. 1824–34",
+    "Object Begin Date": 1824,
+    "Object End Date": 1834,
+    "Medium": "Oil on canvas",
+    "Dimensions": "32 3/4 x 43 in. (83.2 x 109.2 cm)",
+    "Credit Line": "Catharine Lorillard Wolfe Collection, Wolfe Fund, 1938",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436708",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19911717",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Female Nudes|Orientalist",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300189568|http://vocab.getty.edu/page/aat/300055784",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q40446|https://www.wikidata.org/wiki/Q765606"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-13728-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162005,
+        "role": "Artist",
+        "name": "Jean Auguste Dominique Ingres",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500028037",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q23380",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 83.2,
+          "Width": 109.2
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 14.605,
+          "Height": 110.4902,
+          "Width": 137.4778
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Female Nudes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300189568",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q40446"
+      },
+      {
+        "term": "Orientalist",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300055784",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q765606"
+      }
+    ]
+  }
+}

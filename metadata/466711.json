@@ -1,0 +1,106 @@
+{
+  "object_id": 466711,
+  "excel_metadata": {
+    "Object Number": "28.217.1",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 466711,
+    "Gallery Number": null,
+    "Department": "Medieval Art",
+    "AccessionYear": 1928,
+    "Object Name": "Triptych",
+    "Title": "Triptych with Christ, Virgin, St. John The Baptist",
+    "Culture": "Russian",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": null,
+    "Artist Role": null,
+    "Artist Prefix": null,
+    "Artist Display Name": null,
+    "Artist Display Bio": null,
+    "Artist Suffix": null,
+    "Artist Alpha Sort": null,
+    "Artist Nationality": null,
+    "Artist Begin Date": null,
+    "Artist End Date": null,
+    "Artist Gender": null,
+    "Artist ULAN URL": null,
+    "Artist Wikidata URL": null,
+    "Object Date": "18th century",
+    "Object Begin Date": 1700,
+    "Object End Date": 1799,
+    "Medium": "Brass, surrey enamel",
+    "Dimensions": "Overall (opened): 7 7/16 x 18 1/2 x 9/16 in. (18.9 x 47 x 1.5 cm)_x000D_\nOverall (closed): 7 7/16 x 6 7/16 x 5/16 in. (18.9 x 16.3 x 0.8 cm)",
+    "Credit Line": "Gift of V. Everitt Macy, 1928",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Enamels-Translucent",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/466711",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Christ|Virgin Mary|Saint John the Baptist",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901000087|http://vocab.getty.edu/page/ia/901000032|http://vocab.getty.edu/page/ia/901001056",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q642420|https://www.wikidata.org/wiki/Q345|https://www.wikidata.org/wiki/Q40662"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/md/original/sf28-217-1s4.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/md/original/sf28-217-1d1.jpg",
+      "https://images.metmuseum.org/CRDImages/md/original/sf28-217-1d2.jpg",
+      "https://images.metmuseum.org/CRDImages/md/original/sf28-217-1d3.jpg",
+      "https://images.metmuseum.org/CRDImages/md/original/sf28-217-1s2.jpg"
+    ],
+    "constituents": null,
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": "opened",
+        "elementMeasurements": {
+          "Depth": 1.5,
+          "Height": 18.9,
+          "Width": 47
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": "closed",
+        "elementMeasurements": {
+          "Depth": 0.8,
+          "Height": 18.9,
+          "Width": 16.3
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Christ",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+      },
+      {
+        "term": "Saint John the Baptist",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901001056",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q40662"
+      },
+      {
+        "term": "Virgin Mary",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000032",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q345"
+      }
+    ]
+  }
+}

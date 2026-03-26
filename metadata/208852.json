@@ -1,0 +1,105 @@
+{
+  "object_id": 208852,
+  "excel_metadata": {
+    "Object Number": 1997.392,
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 208852,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1997,
+    "Object Name": "Relief",
+    "Title": "The Flight Into Egypt",
+    "Culture": "Italian, Venice",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 3532,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Giovanni Maria Morlaiter",
+    "Artist Display Bio": "Italian, Niederdorf, Tyrol 1699–1781 Venice",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Morlaiter, Giovanni Maria",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": 1699,
+    "Artist End Date": 1781,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500029061",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q339474",
+    "Object Date": "mid-18th century",
+    "Object Begin Date": 1730,
+    "Object End Date": 1765,
+    "Medium": "Terracotta",
+    "Dimensions": "22 × 18 1/2 in. (55.9 × 47 cm)",
+    "Credit Line": "Gift of Michael Hall, Esq., 1997",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Sculpture",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/208852",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Angels|Children|Men|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300379004|http://vocab.getty.edu/page/aat/300025945|http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q235113|https://www.wikidata.org/wiki/Q7569|https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/268591.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 35329,
+        "role": "Artist",
+        "name": "Giovanni Maria Morlaiter",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500029061",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q339474",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 55.88011,
+          "Width": 46.990093
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Children",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025945",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q7569"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Angels",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379004",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q235113"
+      }
+    ]
+  }
+}

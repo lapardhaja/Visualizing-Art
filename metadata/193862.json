@@ -1,0 +1,114 @@
+{
+  "object_id": 193862,
+  "excel_metadata": {
+    "Object Number": "17.190.1185",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 193862,
+    "Gallery Number": NaN,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1917.0,
+    "Object Name": "Snuffbox, painting",
+    "Title": "Snuffbox with miniature of Alexander I of Russia",
+    "Culture": "French, Paris",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 3404416489.0,
+    "Artist Role": "Maker|Artist",
+    "Artist Prefix": "Box by|Miniature by",
+    "Artist Display Name": "Jean Georges (or George)|Edward Miles",
+    "Artist Display Bio": "master 1752, died 1765|British, Yarmouth 1752–1828 Philadelphia, Pennsylvania",
+    "Artist Suffix": " | ",
+    "Artist Alpha Sort": "GEORGES JEAN|Miles, Edward",
+    "Artist Nationality": " |British",
+    "Artist Begin Date": "1665      |1752      ",
+    "Artist End Date": "1765      |1828      ",
+    "Artist Gender": "|",
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500337214|http://vocab.getty.edu/page/ulan/500012458",
+    "Artist Wikidata URL": "|https://www.wikidata.org/wiki/Q18730215",
+    "Object Date": "1763–64",
+    "Object Begin Date": 1763,
+    "Object End Date": 1764,
+    "Medium": "Two-color gold, enamel, diamonds; ivory",
+    "Dimensions": "Box (wt. confirmed): 3 3/8 × 2 5/8 in., 8.2oz. (8.6 × 6.7 cm, 233g); Miniature: 1 5/8 × 1 1/4 in. (4.1 × 3.2 cm)",
+    "Credit Line": "Gift of J. Pierpont Morgan, 1917",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Metalwork-Gold and Platinum|Miniatures",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/193862",
+    "Object Wikidata URL": NaN,
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Profiles",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300123319",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q4382010"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/38950.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/258395.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 34044,
+        "role": "Maker",
+        "name": "Box by Jean Georges (or George)",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500337214",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      },
+      {
+        "constituentID": 164896,
+        "role": "Artist",
+        "name": "Miniature by Edward Miles",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500012458",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q18730215",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": "wt. confirmed",
+        "elementMeasurements": {
+          "Height": 8.6,
+          "Weight": 0.233,
+          "Width": 6.7
+        }
+      },
+      {
+        "elementName": "Other",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 4.127508,
+          "Width": 3.1750064
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Profiles",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300123319",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q4382010"
+      }
+    ]
+  }
+}

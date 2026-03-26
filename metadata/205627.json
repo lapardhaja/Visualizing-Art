@@ -1,0 +1,94 @@
+{
+  "object_id": 205627,
+  "excel_metadata": {
+    "Object Number": "1974.28.121",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 205627,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1974,
+    "Object Name": "Group",
+    "Title": "Youth and girl",
+    "Culture": "German, Ansbach",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 3799,
+    "Artist Role": "Manufactory",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Ansbach Pottery and Porcelain Manufactory",
+    "Artist Display Bio": "German, 1758–1860",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Ansbach Pottery and Porcelain Manufactory",
+    "Artist Nationality": "German",
+    "Artist Begin Date": 1758,
+    "Artist End Date": 1860,
+    "Artist Gender": null,
+    "Artist ULAN URL": "(not assigned)",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q2105534",
+    "Object Date": "ca. 1760–80",
+    "Object Begin Date": 1755,
+    "Object End Date": 1785,
+    "Medium": "Hard-paste porcelain",
+    "Dimensions": "Height: 6 1/4 in. (15.9 cm)",
+    "Credit Line": "Bequest of Irwin Untermyer, 1973",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Ceramics-Porcelain",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/205627",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Boys|Girls",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300247598|http://vocab.getty.edu/page/aat/300247581",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q3010|https://www.wikidata.org/wiki/Q3031"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/202205.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 37999,
+        "role": "Manufactory",
+        "name": "Ansbach Pottery and Porcelain Manufactory",
+        "constituentULAN_URL": "(not assigned)",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q2105534",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Height",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 15.875031
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Boys",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300247598",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3010"
+      },
+      {
+        "term": "Girls",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300247581",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3031"
+      }
+    ]
+  }
+}

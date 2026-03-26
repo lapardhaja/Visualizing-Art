@@ -1,0 +1,95 @@
+{
+  "object_id": 437222,
+  "excel_metadata": {
+    "Object Number": "23.64",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437222,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1923.0,
+    "Object Name": "Painting",
+    "Title": "Saint Ursula and Her Maidens",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10811.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Niccolò di Pietro",
+    "Artist Display Bio": "Italian, Venetian, active 1394–1427/30",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Niccolò di Pietro",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1394",
+    "Artist End Date": "1430",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500017982",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q4320785",
+    "Object Date": "ca. 1410",
+    "Object Begin Date": 1405,
+    "Object End Date": 1415,
+    "Medium": "Tempera and gold on wood",
+    "Dimensions": "37 x 31 in. (94 x 78.7 cm)",
+    "Credit Line": "Rogers Fund, 1923",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437222",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19905214",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Women|Saint Ursula",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/ia/901000051",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q369691"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-24150-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 108113,
+        "role": "Artist",
+        "name": "Niccolò di Pietro",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500017982",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q4320785",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 94,
+          "Width": 78.7
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Saint Ursula",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000051",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q369691"
+      }
+    ]
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "object_id": 437301,
+  "excel_metadata": {
+    "Object Number": "64.156",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437301,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1964.0,
+    "Object Name": "Painting",
+    "Title": "The Public Garden at Pontoise",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16225.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Camille Pissarro",
+    "Artist Display Bio": "French, Charlotte Amalie, Saint Thomas 1830–1903 Paris",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Pissarro, Camille",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1830",
+    "Artist End Date": "1903",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500001924",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q134741",
+    "Object Date": "1874",
+    "Object Begin Date": 1874,
+    "Object End Date": 1874,
+    "Medium": "Oil on canvas",
+    "Dimensions": "23 5/8 x 28 3/4 in. (60 x 73 cm)",
+    "Credit Line": "Gift of Mr. and Mrs. Arthur Murray, 1964",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437301",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19911914",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Gardens|Human Figures",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300008090|http://vocab.getty.edu/page/aat/300404114",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q1107656|https://www.wikidata.org/wiki/Q5937779"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT1868.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162257,
+        "role": "Artist",
+        "name": "Camille Pissarro",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500001924",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q134741",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 60,
+          "Width": 73
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 8.255,
+          "Height": 81.9152,
+          "Width": 94.2977
+        }
+      },
+      {
+        "elementName": "Glazing",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 60.96012,
+          "Width": 73.977646
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Human Figures",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300404114",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q5937779"
+      },
+      {
+        "term": "Gardens",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300008090",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q1107656"
+      }
+    ]
+  }
+}

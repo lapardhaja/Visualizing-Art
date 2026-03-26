@@ -1,0 +1,95 @@
+{
+  "object_id": 437513,
+  "excel_metadata": {
+    "Object Number": "1982.32",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437513,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1982.0,
+    "Object Name": "Painting",
+    "Title": "Still Life with Ham",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10825.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Philippe Rousseau",
+    "Artist Display Bio": "French, Paris 1816–1887 Acquigny",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Rousseau, Philippe",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1816",
+    "Artist End Date": "1887",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500011114",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q321484",
+    "Object Date": "1870s",
+    "Object Begin Date": 1870,
+    "Object End Date": 1879,
+    "Medium": "Oil on canvas",
+    "Dimensions": "28 3/4 x 36 1/4 in. (73 x 92.1 cm)",
+    "Credit Line": "Catharine Lorillard Wolfe Collection, Wolfe Fund, 1982",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437513",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912911",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Food|Still Life",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300254496|http://vocab.getty.edu/page/aat/300015638",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q2095|https://www.wikidata.org/wiki/Q170571"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT2130.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 108254,
+        "role": "Artist",
+        "name": "Philippe Rousseau",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500011114",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q321484",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 73,
+          "Width": 92.1
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Food",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300254496",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q2095"
+      },
+      {
+        "term": "Still Life",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015638",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q170571"
+      }
+    ]
+  }
+}

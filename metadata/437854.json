@@ -1,0 +1,109 @@
+{
+  "object_id": 437854,
+  "excel_metadata": {
+    "Object Number": "96.29",
+    "Is Highlight": true,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 437854,
+    "Gallery Number": 808.0,
+    "Department": "European Paintings",
+    "AccessionYear": 1896.0,
+    "Object Name": "Painting",
+    "Title": "Whalers",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16257.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Joseph Mallord William Turner",
+    "Artist Display Bio": "British, London 1775–1851 London",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Turner, Joseph Mallord William",
+    "Artist Nationality": "British",
+    "Artist Begin Date": "1775",
+    "Artist End Date": "1851",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500026846",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q159758",
+    "Object Date": "ca. 1845",
+    "Object Begin Date": 1840,
+    "Object End Date": 1850,
+    "Medium": "Oil on canvas",
+    "Dimensions": "36 1/8 x 48 1/4 in. (91.8 x 122.6 cm)",
+    "Credit Line": "Catharine Lorillard Wolfe Collection, Wolfe Fund, 1896",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437854",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19904831",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Whales|Seascapes|Boats",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300250157|http://vocab.getty.edu/page/aat/300117546|http://vocab.getty.edu/page/aat/300178749",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q1865281|https://www.wikidata.org/wiki/Q158607|https://www.wikidata.org/wiki/Q35872"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-13360-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162573,
+        "role": "Artist",
+        "name": "Joseph Mallord William Turner",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500026846",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q159758",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 10.795,
+          "Height": 127.0003,
+          "Width": 157.4803
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 91.8,
+          "Width": 122.6
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Whales",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250157",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q1865281"
+      },
+      {
+        "term": "Seascapes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300117546",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q158607"
+      },
+      {
+        "term": "Boats",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300178749",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q35872"
+      }
+    ]
+  }
+}

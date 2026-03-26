@@ -1,0 +1,112 @@
+{
+  "object_id": 437173,
+  "excel_metadata": {
+    "Object Number": "27.219",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437173,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1927.0,
+    "Object Name": "Painting",
+    "Title": "Don Andrés de Andrade y la Cal",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16215.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Bartolomé Estebán Murillo",
+    "Artist Display Bio": "Spanish, Seville 1617–1682 Seville",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Murillo, Bartolomé Estebán",
+    "Artist Nationality": "Spanish",
+    "Artist Begin Date": "1617",
+    "Artist End Date": "1682",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500007425",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q192062",
+    "Object Date": "ca. 1665–72",
+    "Object Begin Date": 1665,
+    "Object End Date": 1672,
+    "Medium": "Oil on canvas",
+    "Dimensions": "79 × 47 in. (200.7 × 119.4 cm)\r\n",
+    "Credit Line": "Bequest of Collis P. Huntington, by exchange, 1927",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437173",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19911826",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits|Dogs",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300265714",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q144"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-16333-001.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-27_219-2.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-27_219-3.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 162152,
+        "role": "Artist",
+        "name": "Bartolomé Estebán Murillo",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500007425",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q192062",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 200.7,
+          "Width": 119.4
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": "F.27.219 A",
+        "elementMeasurements": {
+          "Depth": 8.8900175,
+          "Height": 237.49048,
+          "Width": 155.8928
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Dogs",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300265714",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q144"
+      }
+    ]
+  }
+}

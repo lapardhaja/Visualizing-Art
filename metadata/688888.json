@@ -1,0 +1,89 @@
+{
+  "object_id": 688888,
+  "excel_metadata": {
+    "Object Number": "2015.485.2",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 688888,
+    "Gallery Number": null,
+    "Department": "Arts of Africa, Oceania, and the Americas",
+    "AccessionYear": 2015,
+    "Object Name": "Heddle pulley",
+    "Title": "Janus Heddle Pulley",
+    "Culture": "Baule peoples",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": null,
+    "Artist Role": null,
+    "Artist Prefix": null,
+    "Artist Display Name": null,
+    "Artist Display Bio": null,
+    "Artist Suffix": null,
+    "Artist Alpha Sort": null,
+    "Artist Nationality": null,
+    "Artist Begin Date": null,
+    "Artist End Date": null,
+    "Artist Gender": null,
+    "Artist ULAN URL": null,
+    "Artist Wikidata URL": null,
+    "Object Date": "ca. 1900",
+    "Object Begin Date": 1890,
+    "Object End Date": 1915,
+    "Medium": "Wood",
+    "Dimensions": "H. 10 3/4 × W. 3 1/4 × D. 4 1/2 in. (27.3 × 8.3 × 11.4 cm)",
+    "Credit Line": "Anonymous Gift, 2015",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": "Côte d'Ivoire",
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Wood-Sculpture",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/688888",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": null,
+    "Tags AAT URL": null,
+    "Tags Wikidata URL": null
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ao/original/DP-13314-033.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ao/original/DP-13314-034.jpg",
+      "https://images.metmuseum.org/CRDImages/ao/original/DP-13314-072.jpg",
+      "https://images.metmuseum.org/CRDImages/ao/original/DP-13314-073.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 155514,
+        "role": "Artist",
+        "name": "Baule artist",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 11.430023,
+          "Height": 27.305054,
+          "Width": 8.255016
+        }
+      }
+    ],
+    "tags": null
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "object_id": 15143,
+  "excel_metadata": {
+    "Object Number": "2006.235.134",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 15143,
+    "Gallery Number": NaN,
+    "Department": "The American Wing",
+    "AccessionYear": 2006.0,
+    "Object Name": "Painting, miniature",
+    "Title": "Pryor Smallwood",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16221.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "James Peale",
+    "Artist Display Bio": "American, Chestertown, Maryland 1749–1831 Philadelphia, Pennsylvania",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Peale, James",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1749",
+    "Artist End Date": "1831",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500029852",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q3161332",
+    "Object Date": "ca. 1798",
+    "Object Begin Date": 1795,
+    "Object End Date": 1801,
+    "Medium": "Watercolor on ivory",
+    "Dimensions": "2 5/8 x 2 1/4 in. (7.1 x 5.2 cm)",
+    "Credit Line": "Gift of Gloria Manney, 2006",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/15143",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19925443",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Boys|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300247598|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q3010|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/APS6537.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162211,
+        "role": "Artist",
+        "name": "James Peale",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500029852",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3161332",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 7.1,
+          "Width": 5.2
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Boys",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300247598",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3010"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

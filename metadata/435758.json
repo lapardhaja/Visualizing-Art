@@ -1,0 +1,105 @@
+{
+  "object_id": 435758,
+  "excel_metadata": {
+    "Object Number": "25.106.17",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 435758,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1925.0,
+    "Object Name": "Painting, miniature",
+    "Title": "A Woman Playing a Harp",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10856.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Joseph Marie Bouton",
+    "Artist Display Bio": "French (?), 1768–1823",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Bouton, Joseph Marie",
+    "Artist Nationality": "French(?)",
+    "Artist Begin Date": "1768",
+    "Artist End Date": "1823",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": NaN,
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q22001988",
+    "Object Date": NaN,
+    "Object Begin Date": 1788,
+    "Object End Date": 1823,
+    "Medium": "Ivory",
+    "Dimensions": "Diameter 3 1/2 in. (90 mm)",
+    "Credit Line": "Gift of Mrs. Louis V. Bell, in memory of her husband, 1925",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Miniatures",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/435758",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19914030",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Portraits|Women|Harps|Musicians",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/aat/300042047|http://vocab.getty.edu/page/aat/300025666",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q47369|https://www.wikidata.org/wiki/Q639669"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP327724.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 108566,
+        "role": "Artist",
+        "name": "Joseph Marie Bouton",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q22001988",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 8.9,
+          "Width": 8.9
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Harps",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300042047",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q47369"
+      },
+      {
+        "term": "Musicians",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025666",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q639669"
+      }
+    ]
+  }
+}

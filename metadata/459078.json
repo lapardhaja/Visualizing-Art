@@ -1,0 +1,105 @@
+{
+  "object_id": 459078,
+  "excel_metadata": {
+    "Object Number": "1975.1.136",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 459078,
+    "Gallery Number": 953.0,
+    "Department": "Robert Lehman Collection",
+    "AccessionYear": 1975.0,
+    "Object Name": "Painting",
+    "Title": "Nymph of the Spring",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16358.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Lucas Cranach the Younger",
+    "Artist Display Bio": "German, Wittenberg 1515–1586 Wittenberg",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Cranach, Lucas, the Younger",
+    "Artist Nationality": "German",
+    "Artist Begin Date": "1515",
+    "Artist End Date": "1586",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500017755",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q170339",
+    "Object Date": "ca. 1545–50",
+    "Object Begin Date": 1540,
+    "Object End Date": 1555,
+    "Medium": "Oil on beech panel",
+    "Dimensions": "6 x 8 in. (15.2 x 20.3 cm)",
+    "Credit Line": "Robert Lehman Collection, 1975",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/459078",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20187223",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Nymphs|Birds|Female Nudes",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300379159|http://vocab.getty.edu/page/aat/300266506|http://vocab.getty.edu/page/aat/300189568",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q373916|https://www.wikidata.org/wiki/Q5113|https://www.wikidata.org/wiki/Q40446"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/rl/original/DP159773.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/rl/original/ep1975.1.136.bw.R.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/Cranach_1975.1.136_IRP_830nm_full.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/1111.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/DT3097.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 163582,
+        "role": "Artist",
+        "name": "Lucas Cranach the Younger",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500017755",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q170339",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 15.2,
+          "Width": 20.3
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Birds",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300266506",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q5113"
+      },
+      {
+        "term": "Female Nudes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300189568",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q40446"
+      },
+      {
+        "term": "Nymphs",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379159",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q373916"
+      }
+    ]
+  }
+}

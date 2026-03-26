@@ -1,0 +1,87 @@
+{
+  "object_id": 202727,
+  "excel_metadata": {
+    "Object Number": "63.53.4a, b",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 202727,
+    "Gallery Number": 512,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1963,
+    "Object Name": "Tea caddy",
+    "Title": "Miniature tea caddy",
+    "Culture": "British, London",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 3419,
+    "Artist Role": "Maker",
+    "Artist Prefix": " ",
+    "Artist Display Name": "John Le Sage",
+    "Artist Display Bio": "British, active 1718–43",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Le Sage John",
+    "Artist Nationality": "British",
+    "Artist Begin Date": 1718,
+    "Artist End Date": 1743,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500033564",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q6265690",
+    "Object Date": "ca. 1725",
+    "Object Begin Date": 1720,
+    "Object End Date": 1730,
+    "Medium": "Silver",
+    "Dimensions": "Overall: 1 1/2 × 3/4 × 3/4 in. (3.8 × 1.9 × 1.9 cm)",
+    "Credit Line": "The Joseph M. and Aimee Loeb May Collection, 1963",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Metalwork-Silver-Miniature",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/202727",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q116310414",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": null,
+    "Tags AAT URL": null,
+    "Tags Wikidata URL": null
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP-13159-037.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/DP269656.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 34195,
+        "role": "Maker",
+        "name": "John Le Sage",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500033564",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q6265690",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 1.9050038,
+          "Height": 3.8100076,
+          "Width": 1.9050038
+        }
+      }
+    ],
+    "tags": null
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "object_id": 13045,
+  "excel_metadata": {
+    "Object Number": "33.120.619",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 13045,
+    "Gallery Number": 774.0,
+    "Department": "The American Wing",
+    "AccessionYear": 1933.0,
+    "Object Name": "Painting",
+    "Title": "Egbert Benson",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16260416249.0,
+    "Artist Role": "Artist|Artist",
+    "Artist Prefix": " |After",
+    "Artist Display Name": "John Vanderlyn|Gilbert Stuart",
+    "Artist Display Bio": "American, Kingston, New York 1775–1852 Kingston, New York|American, North Kingston, Rhode Island 1755–1828 Boston, Massachusetts",
+    "Artist Suffix": " | ",
+    "Artist Alpha Sort": "Vanderlyn, John|Stuart, Gilbert",
+    "Artist Nationality": "American|American",
+    "Artist Begin Date": "1775      |1755      ",
+    "Artist End Date": "1852      |1828      ",
+    "Artist Gender": "|",
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500002618|http://vocab.getty.edu/page/ulan/500010392",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q1661665|https://www.wikidata.org/wiki/Q41402",
+    "Object Date": "ca. 1794",
+    "Object Begin Date": 1791,
+    "Object End Date": 1794,
+    "Medium": "Oil on canvas",
+    "Dimensions": "29 3/4 x 23 7/8 in. (75.6 x 60.6 cm)",
+    "Credit Line": "Bequest of Alphonso T. Clearwater, 1933",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/13045",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19924653",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/ap33.120.619.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162604,
+        "role": "Artist",
+        "name": "John Vanderlyn",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500002618",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1661665",
+        "gender": ""
+      },
+      {
+        "constituentID": 162490,
+        "role": "Artist",
+        "name": "After Gilbert Stuart",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500010392",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q41402",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 75.6,
+          "Width": 60.6
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

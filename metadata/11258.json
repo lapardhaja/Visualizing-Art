@@ -1,0 +1,136 @@
+{
+  "object_id": 11258,
+  "excel_metadata": {
+    "Object Number": "1983.486",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 11258,
+    "Gallery Number": 763.0,
+    "Department": "The American Wing",
+    "AccessionYear": 1983.0,
+    "Object Name": "Painting",
+    "Title": "Christmas-Time, The Blodgett Family",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16201.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Eastman Johnson",
+    "Artist Display Bio": "American, Lovell, Maine 1824–1906 New York",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Johnson, Eastman",
+    "Artist Nationality": "American ",
+    "Artist Begin Date": "1824",
+    "Artist End Date": "1906",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500008685",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q1278282",
+    "Object Date": "1864",
+    "Object Begin Date": 1864,
+    "Object End Date": 1864,
+    "Medium": "Oil on canvas",
+    "Dimensions": "30 x 25in. (76.2 x 63.5cm)",
+    "Credit Line": "Gift of Mr. and Mrs. Stephen Whitney Blodgett, 1983",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/11258",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20170685",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Interiors|Children|Men|Women|Genre Scene|Family",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300391239|http://vocab.getty.edu/page/aat/300025945|http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/aat/300139140|http://vocab.getty.edu/page/aat/300435378",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q2998430|https://www.wikidata.org/wiki/Q7569|https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q214127|https://www.wikidata.org/wiki/Q8436"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DP-18073-001.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ad/original/DP-18073-002.jpg",
+      "https://images.metmuseum.org/CRDImages/ad/original/DT7582.jpg",
+      "https://images.metmuseum.org/CRDImages/ad/original/Johnson_ChristmasTimeBlodgettFamily.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 162014,
+        "role": "Artist",
+        "name": "Eastman Johnson",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500008685",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1278282",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 12.700026,
+          "Height": 105.727715,
+          "Width": 93.345184
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 76.2,
+          "Width": 63.5
+        }
+      },
+      {
+        "elementName": "Glazing",
+        "elementDescription": "when needed",
+        "elementMeasurements": {
+          "Height": 77.15266,
+          "Width": 64.45263
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Interiors",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300391239",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q2998430"
+      },
+      {
+        "term": "Children",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025945",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q7569"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Genre Scene",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300139140",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q214127"
+      },
+      {
+        "term": "Family",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300435378",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8436"
+      }
+    ]
+  }
+}

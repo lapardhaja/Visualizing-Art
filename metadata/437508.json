@@ -1,0 +1,117 @@
+{
+  "object_id": 437508,
+  "excel_metadata": {
+    "Object Number": "21.105",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 437508,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1921.0,
+    "Object Name": "Painting",
+    "Title": "Self-Portrait",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16233.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Salvator Rosa",
+    "Artist Display Bio": "Italian, Arenella (Naples) 1615–1673 Rome",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Rosa, Salvator",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1615",
+    "Artist End Date": "1673",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500011328",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q359421",
+    "Object Date": "ca. 1647",
+    "Object Begin Date": 1642,
+    "Object End Date": 1652,
+    "Medium": "Oil on canvas",
+    "Dimensions": "39 x 31 1/4 in. (99.1 x 79.4 cm)",
+    "Credit Line": "Bequest of Mary L. Harrison, 1921",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437508",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19911556",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Self-portraits|Skulls|Writing",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300124534|http://vocab.getty.edu/page/aat/300191856|http://vocab.getty.edu/page/aat/300054698",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q192110|https://www.wikidata.org/wiki/Q13147|https://www.wikidata.org/wiki/Q37260"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP323414.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-21_105-2.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-21_105-3.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 162335,
+        "role": "Artist",
+        "name": "Salvator Rosa",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500011328",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q359421",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 7.62,
+          "Height": 116.8402,
+          "Width": 97.7902
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 99.1,
+          "Width": 79.4
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Skulls",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300191856",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q13147"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Self-portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300124534",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q192110"
+      },
+      {
+        "term": "Writing",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300054698",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q37260"
+      }
+    ]
+  }
+}

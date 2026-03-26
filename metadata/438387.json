@@ -1,0 +1,132 @@
+{
+  "object_id": 438387,
+  "excel_metadata": {
+    "Object Number": "2001.417",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 438387,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 2001.0,
+    "Object Name": "Painting",
+    "Title": "The Virgin Adored by Saints",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10973.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Scarsellino (Ippolito Scarsella)",
+    "Artist Display Bio": "Italian, Ferrarese, ca. 1550–1620",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Scarsellino (Ippolito Scarsella)",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1545",
+    "Artist End Date": "1620",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500003756",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q2295535",
+    "Object Date": "ca. 1609",
+    "Object Begin Date": 1604,
+    "Object End Date": 1614,
+    "Medium": "Oil on copper",
+    "Dimensions": "19 1/4 x 29 1/4 in. (48.9 x 74.3 cm)",
+    "Credit Line": "Gift of Mary Jane Harris, in memory of Morton B. Harris and in honor of Keith Christiansen, 2001",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/438387",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19913352",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Saint Anthony|Saints|Angels|Virgin Mary|Dogs|Saint Catherine|Saint Francis",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901001255|http://vocab.getty.edu/page/aat/300150555|http://vocab.getty.edu/page/aat/300379004|http://vocab.getty.edu/page/ia/901000032|http://vocab.getty.edu/page/aat/300265714| |http://vocab.getty.edu/page/ulan/500349636",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q170547|https://www.wikidata.org/wiki/Q43115|https://www.wikidata.org/wiki/Q235113|https://www.wikidata.org/wiki/Q345|https://www.wikidata.org/wiki/Q144| |https://www.wikidata.org/wiki/Q676555"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-24114-001.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-2001_417-2.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-2001_417-3.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 109736,
+        "role": "Artist",
+        "name": "Scarsellino (Ippolito Scarsella)",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500003756",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q2295535",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 48.9,
+          "Width": 74.3
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 6.35,
+          "Height": 66.6751,
+          "Width": 90.1702
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Dogs",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300265714",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q144"
+      },
+      {
+        "term": "Angels",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379004",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q235113"
+      },
+      {
+        "term": "Saint Anthony",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901001255",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q170547"
+      },
+      {
+        "term": "Saint Catherine",
+        "AAT_URL": null,
+        "Wikidata_URL": null
+      },
+      {
+        "term": "Saint Francis",
+        "AAT_URL": "http://vocab.getty.edu/page/ulan/500349636",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q676555"
+      },
+      {
+        "term": "Virgin Mary",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000032",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q345"
+      },
+      {
+        "term": "Saints",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300150555",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q43115"
+      }
+    ]
+  }
+}

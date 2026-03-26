@@ -1,0 +1,119 @@
+{
+  "object_id": 770595,
+  "excel_metadata": {
+    "Object Number": "2018.87",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 770595,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 2018.0,
+    "Object Name": "Painting",
+    "Title": "The Crucifixion",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16263.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Stefano da Verona (Stefano di Giovanni d'Arbosio di Francia)",
+    "Artist Display Bio": "Italian, Paris or Pavia ca. 1374/75–after 1438 Verona",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Verona, Stefano da",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1374",
+    "Artist End Date": "1438",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500001660",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q724508",
+    "Object Date": "ca. 1400",
+    "Object Begin Date": 1395,
+    "Object End Date": 1405,
+    "Medium": "Tempera on wood, gold ground",
+    "Dimensions": "33 7/8 × 20 5/8 in. (86 × 52.4 cm)",
+    "Credit Line": "Purchase, Gwynne Andrews Fund; Charles and Jessie Price and Álvaro Saieh Bendeck Gifts; Philippe de Montebello Fund; Gift of Mrs. William M. Haupt, from the collection of Mrs. James B. Haggin, Bequest of Lillian S. Timken, and Gift of Forsyth Wickes, by exchange; Marquand and Victor Wilbour Memorial Funds; funds from various donors and Gifts of the Marquis de La Bégassière and Cornelius Vanderbilt, by exchange; and The Alfred N. Punnett Endowment Fund, 2018",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/770595",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q78611539",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Angels|Christ|Mary Magdalene|Virgin Mary|Crucifixion",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300379004|http://vocab.getty.edu/page/ia/901000087|http://vocab.getty.edu/page/ia/901000161|http://vocab.getty.edu/page/ia/901000032|http://vocab.getty.edu/page/aat/300404300",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q235113|https://www.wikidata.org/wiki/Q642420|https://www.wikidata.org/wiki/Q63070|https://www.wikidata.org/wiki/Q345|https://www.wikidata.org/wiki/Q3235597"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-15505-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162635,
+        "role": "Artist",
+        "name": "Stefano da Verona (Stefano di Giovanni d&#39;Arbosio di Francia)",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500001660",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q724508",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 86.04267,
+          "Width": 52.387604
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 5.7150116,
+          "Height": 89.53518,
+          "Width": 55.88011
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Angels",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379004",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q235113"
+      },
+      {
+        "term": "Christ",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+      },
+      {
+        "term": "Mary Magdalene",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000161",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q63070"
+      },
+      {
+        "term": "Virgin Mary",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000032",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q345"
+      },
+      {
+        "term": "Crucifixion",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300404300",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3235597"
+      }
+    ]
+  }
+}

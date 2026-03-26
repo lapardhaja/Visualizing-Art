@@ -1,0 +1,119 @@
+{
+  "object_id": 436546,
+  "excel_metadata": {
+    "Object Number": "61.259",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 436546,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1961.0,
+    "Object Name": "Painting",
+    "Title": "José Costa y Bonells (died l870), Called Pepito",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16195.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Goya (Francisco de Goya y Lucientes)",
+    "Artist Display Bio": "Spanish, Fuendetodos 1746–1828 Bordeaux",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Goya (Francisco de Goya y Lucientes)",
+    "Artist Nationality": "Spanish",
+    "Artist Begin Date": "1746",
+    "Artist End Date": "1828",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500118936",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q5432",
+    "Object Date": "ca. 1810",
+    "Object Begin Date": 1805,
+    "Object End Date": 1815,
+    "Medium": "Oil on canvas",
+    "Dimensions": "41 3/8  x 33 1/4 in. (105.1 x 84.5 cm)",
+    "Credit Line": "Gift of Countess Bismarck, 1961",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436546",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19911764",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Toys|Boys|Portraits|Drums|Horses",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300211037|http://vocab.getty.edu/page/aat/300247598|http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300041729|http://vocab.getty.edu/page/aat/300250148",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q11422|https://www.wikidata.org/wiki/Q3010|https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q11404|https://www.wikidata.org/wiki/Q726"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP123853.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 161953,
+        "role": "Artist",
+        "name": "Goya (Francisco de Goya y Lucientes)",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500118936",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5432",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 105.1,
+          "Width": 84.5
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 9.2075,
+          "Height": 133.9853,
+          "Width": 114.3002
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Boys",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300247598",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3010"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Drums",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300041729",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q11404"
+      },
+      {
+        "term": "Horses",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250148",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q726"
+      },
+      {
+        "term": "Toys",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300211037",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q11422"
+      }
+    ]
+  }
+}

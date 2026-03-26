@@ -1,0 +1,116 @@
+{
+  "object_id": 437229,
+  "excel_metadata": {
+    "Object Number": "14.40.632",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437229,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1914.0,
+    "Object Name": "Painting",
+    "Title": "Virgin and Child with Angels",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16217.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Bernard van Orley",
+    "Artist Display Bio": "Netherlandish, Brussels ca. 1492–1541/42 Brussels",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Orley, Bernard van",
+    "Artist Nationality": "Netherlandish",
+    "Artist Begin Date": "1492",
+    "Artist End Date": "1542",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500023119",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q454678",
+    "Object Date": "ca. 1518",
+    "Object Begin Date": 1513,
+    "Object End Date": 1523,
+    "Medium": "Oil on wood",
+    "Dimensions": "33 5/8 x 27 1/2 in. (85.4 x 69.9 cm)",
+    "Credit Line": "Bequest of Benjamin Altman, 1913",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437229",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19906249",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Madonna and Child|Angels|Fountains|Music|Peacocks",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901000052|http://vocab.getty.edu/page/aat/300379004|http://vocab.getty.edu/page/aat/300006179|http://vocab.getty.edu/page/aat/300435214|http://vocab.getty.edu/page/aat/300250082",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q9309699|https://www.wikidata.org/wiki/Q235113|https://www.wikidata.org/wiki/Q483453|https://www.wikidata.org/wiki/Q638|https://www.wikidata.org/wiki/Q201251"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-14962-001.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-14_40_632_Suppl_1.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-14_40_632_diagram.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-14_40_632_XRay.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-14_40_632_IRR_FullRes.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-14_40_632_IRR_Detail_FullRes.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 162179,
+        "role": "Artist",
+        "name": "Bernard van Orley",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500023119",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q454678",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 85.4,
+          "Width": 69.9
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Fountains",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300006179",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q483453"
+      },
+      {
+        "term": "Music",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300435214",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q638"
+      },
+      {
+        "term": "Peacocks",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250082",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q201251"
+      },
+      {
+        "term": "Angels",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379004",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q235113"
+      },
+      {
+        "term": "Madonna and Child",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000052",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q9309699"
+      }
+    ]
+  }
+}

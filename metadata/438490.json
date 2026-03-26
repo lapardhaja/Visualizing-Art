@@ -1,0 +1,119 @@
+{
+  "object_id": 438490,
+  "excel_metadata": {
+    "Object Number": "2001.403",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 438490,
+    "Gallery Number": 964.0,
+    "Department": "European Paintings",
+    "AccessionYear": 2001.0,
+    "Object Name": "Painting",
+    "Title": "Interior of the Oude Kerk, Delft",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 11717.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Emanuel de Witte",
+    "Artist Display Bio": "Dutch, Alkmaar ca. 1616–1692 Amsterdam",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Witte, Emanuel de",
+    "Artist Nationality": "Dutch",
+    "Artist Begin Date": "1616",
+    "Artist End Date": "1692",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500025645",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q711203",
+    "Object Date": "probably 1650",
+    "Object Begin Date": 1650,
+    "Object End Date": 1650,
+    "Medium": "Oil on wood",
+    "Dimensions": "19 x 13 5/8 in. (48.3 x 34.6 cm)",
+    "Credit Line": "Purchase, Lila Acheson Wallace, Virgilia and Walter C. Klein, The Walter C. Klein Foundation, Edwin Weisl Jr., and Frank E. Richardson Gifts, and Bequest of Theodore Rousseau and Gift of Lincoln Kirstein, by exchange, 2001\r\n",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/438490",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19911792",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Columns|Interiors|Churches|Dogs|Human Figures",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300001571|http://vocab.getty.edu/page/aat/300391239|http://vocab.getty.edu/page/aat/300007466|http://vocab.getty.edu/page/aat/300265714|http://vocab.getty.edu/page/aat/300404114",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q4817|https://www.wikidata.org/wiki/Q2998430|https://www.wikidata.org/wiki/Q16970|https://www.wikidata.org/wiki/Q144|https://www.wikidata.org/wiki/Q5937779"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP145954.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 117179,
+        "role": "Artist",
+        "name": "Emanuel de Witte",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500025645",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q711203",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 48.3,
+          "Width": 34.6
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 6.032512,
+          "Height": 65.40513,
+          "Width": 51.435104
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Human Figures",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300404114",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q5937779"
+      },
+      {
+        "term": "Columns",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300001571",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q4817"
+      },
+      {
+        "term": "Interiors",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300391239",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q2998430"
+      },
+      {
+        "term": "Churches",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300007466",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q16970"
+      },
+      {
+        "term": "Dogs",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300265714",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q144"
+      }
+    ]
+  }
+}

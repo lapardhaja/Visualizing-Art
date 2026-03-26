@@ -1,0 +1,103 @@
+{
+  "object_id": 437255,
+  "excel_metadata": {
+    "Object Number": "41.100.5",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437255,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1941.0,
+    "Object Name": "Painting",
+    "Title": "Portrait of a Knight of Malta, Probably Fra Jacopo Salviati",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 12939.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": "Attributed to",
+    "Artist Display Name": "Mirabello Cavalori",
+    "Artist Display Bio": "Italian, Salincorno 1535–1572 Florence",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Cavalori, Mirabello",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1535",
+    "Artist End Date": "1572",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500026191",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q2730919",
+    "Object Date": "1566",
+    "Object Begin Date": 1566,
+    "Object End Date": 1566,
+    "Medium": "Oil on canvas",
+    "Dimensions": "35 x 26 1/4 in. (88.9 x 66.7 cm)",
+    "Credit Line": "Gift of George Blumenthal, 1941",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437255",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912055",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits|Knights",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300230874",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q102083"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-17608-001.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-41_100_5-2.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-41_100_5-3.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 129399,
+        "role": "Artist",
+        "name": "Attributed to Mirabello Cavalori",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500026191",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q2730919",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 88.9,
+          "Width": 66.7
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Knights",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300230874",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q102083"
+      }
+    ]
+  }
+}

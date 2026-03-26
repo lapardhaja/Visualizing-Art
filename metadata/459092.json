@@ -1,0 +1,110 @@
+{
+  "object_id": 459092,
+  "excel_metadata": {
+    "Object Number": "1975.1.160",
+    "Is Highlight": true,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 459092,
+    "Gallery Number": NaN,
+    "Department": "Robert Lehman Collection",
+    "AccessionYear": 1975.0,
+    "Object Name": "Painting",
+    "Title": "Trees and Houses Near the Jas de Bouffan",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16176.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Paul Cézanne",
+    "Artist Display Bio": "French, Aix-en-Provence 1839–1906 Aix-en-Provence",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Cézanne, Paul",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1839",
+    "Artist End Date": "1906",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500004793",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q35548",
+    "Object Date": "1885–86",
+    "Object Begin Date": 1885,
+    "Object End Date": 1886,
+    "Medium": "Oil on canvas",
+    "Dimensions": "26 3/4 x 36 1/4 in. (67.9 x 92.1 cm)",
+    "Credit Line": "Robert Lehman Collection, 1975",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/459092",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20183245",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Houses|Landscapes|Trees",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300005433|http://vocab.getty.edu/page/aat/300132294|http://vocab.getty.edu/page/aat/300132410",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q3947|https://www.wikidata.org/wiki/Q191163|https://www.wikidata.org/wiki/Q10884"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/rl/original/DP-34470-001.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/rl/original/DP-34470-002.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 161761,
+        "role": "Artist",
+        "name": "Paul Cézanne",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500004793",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q35548",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 67.9,
+          "Width": 92.1
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 98.7427,
+          "Width": 121.28524
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Houses",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300005433",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3947"
+      },
+      {
+        "term": "Landscapes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+      },
+      {
+        "term": "Trees",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132410",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q10884"
+      }
+    ]
+  }
+}

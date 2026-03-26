@@ -1,0 +1,129 @@
+{
+  "object_id": 437280,
+  "excel_metadata": {
+    "Object Number": "44.159",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437280,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1944.0,
+    "Object Name": "Painting",
+    "Title": "The Strong Family",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10816.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Charles Philips",
+    "Artist Display Bio": "British, London 1703–1747 London",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Philips, Charles",
+    "Artist Nationality": "British",
+    "Artist Begin Date": "1703",
+    "Artist End Date": "1747",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500015199",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q18600457",
+    "Object Date": "1732",
+    "Object Begin Date": 1732,
+    "Object End Date": 1732,
+    "Medium": "Oil on canvas",
+    "Dimensions": "29 5/8 x 37 in. (75.2 x 94 cm)",
+    "Credit Line": "Gift of Robert Lehman, 1944",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437280",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912626",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Interiors|Girls|Men|Women|Family|Portraits|Playing Cards",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300391239|http://vocab.getty.edu/page/aat/300247581|http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/aat/300435378|http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300211294",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q2998430|https://www.wikidata.org/wiki/Q3031|https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q8436|https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q47883"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP164826.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 108160,
+        "role": "Artist",
+        "name": "Charles Philips",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500015199",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q18600457",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 75.2,
+          "Width": 94
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 8.8900175,
+          "Height": 95.56769,
+          "Width": 113.66523
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Interiors",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300391239",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q2998430"
+      },
+      {
+        "term": "Girls",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300247581",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3031"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Playing Cards",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300211294",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q47883"
+      },
+      {
+        "term": "Family",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300435378",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8436"
+      }
+    ]
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "object_id": 208978,
+  "excel_metadata": {
+    "Object Number": 1998.64,
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 208978,
+    "Gallery Number": 527,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1998,
+    "Object Name": "Bust",
+    "Title": "Self Portrait",
+    "Culture": "French, Paris",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 3449,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Philippe Laurent Roland",
+    "Artist Display Bio": "French, Pont-à-Marc 1746–1816 Paris",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Roland, Philippe Laurent",
+    "Artist Nationality": " ",
+    "Artist Begin Date": 1746,
+    "Artist End Date": 1816,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500022752",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q3379186",
+    "Object Date": "ca. 1785",
+    "Object Begin Date": 1780,
+    "Object End Date": 1790,
+    "Medium": "Marble",
+    "Dimensions": "H. (including socle) 20-3/4 in. (52.7 cm.)",
+    "Credit Line": "Purchase, The Annenberg Foundation Gift, in honor of Mrs. Charles Wrightsman, 1998",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Sculpture",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/208978",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q116378749",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Self-portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300124534",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q192110"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DT209330.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/264410.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/264411.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/264412.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/264413.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 34497,
+        "role": "Artist",
+        "name": "Philippe Laurent Roland",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500022752",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3379186",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 52.7
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": "Base height",
+        "elementMeasurements": {
+          "Height": 12.065024
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": "Bust height",
+        "elementMeasurements": {
+          "Height": 40.64008
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Self-portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300124534",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q192110"
+      }
+    ]
+  }
+}

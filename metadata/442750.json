@@ -1,0 +1,105 @@
+{
+  "object_id": 442750,
+  "excel_metadata": {
+    "Object Number": "24.78c",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 442750,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1924.0,
+    "Object Name": "Painting, part of a polyptych",
+    "Title": "Saint Benedict",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16240.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Segna di Buonaventura",
+    "Artist Display Bio": "Italian, active Siena by 1298–died 1326/31",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Segna di Buonaventura",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1298",
+    "Artist End Date": "1331",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500026523",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q929809",
+    "Object Date": "1320s",
+    "Object Begin Date": 1320,
+    "Object End Date": 1329,
+    "Medium": "Tempera on wood, gold ground",
+    "Dimensions": "Overall, with framing elements, 49 x 20 7/8 in. (124.5 x 53 cm); Saint Benedict, painted surface 27 7/8 x 16 in. (70.8 x 40.6 cm); pinnacle, painted surface 10 1/4 x 15 3/8 in. (26 x 39.1 cm)",
+    "Credit Line": "Harris Brisbane Dick Fund, 1924",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/442750",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19904893",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Saints|Books|Angels",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300150555|http://vocab.getty.edu/page/aat/300028051|http://vocab.getty.edu/page/aat/300379004",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q43115|https://www.wikidata.org/wiki/Q571|https://www.wikidata.org/wiki/Q235113"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP333091.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162401,
+        "role": "Artist",
+        "name": "Segna di Buonaventura",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500026523",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q929809",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 124.46025,
+          "Width": 53.022606
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Books",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300028051",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q571"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Angels",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379004",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q235113"
+      },
+      {
+        "term": "Saints",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300150555",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q43115"
+      }
+    ]
+  }
+}

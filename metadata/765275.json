@@ -1,0 +1,116 @@
+{
+  "object_id": 765275,
+  "excel_metadata": {
+    "Object Number": "2017.447",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 765275,
+    "Gallery Number": NaN,
+    "Department": "Asian Art",
+    "AccessionYear": 2017.0,
+    "Object Name": "Painting",
+    "Title": NaN,
+    "Culture": "India (Jaipur, Rajasthan)",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 20192.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": "Attributed to",
+    "Artist Display Name": "Ramji",
+    "Artist Display Bio": " ",
+    "Artist Suffix": "working in the workshop of Sahib Ram",
+    "Artist Alpha Sort": "Ramji",
+    "Artist Nationality": "Indian",
+    "Artist Begin Date": "          ",
+    "Artist End Date": "          ",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": NaN,
+    "Artist Wikidata URL": NaN,
+    "Object Date": "late 18th century",
+    "Object Begin Date": 1760,
+    "Object End Date": 1800,
+    "Medium": "Opaque watercolor, gold and silver on paper",
+    "Dimensions": "Image: 19 13/16 × 13 9/16 in. (50.3 × 34.4 cm)\r\nMount (historic): 27 13/16 in. × 21 7/16 in. (70.6 × 54.5 cm)",
+    "Credit Line": "Gift of Evelyn Kranes Kossak, The Kronos Collections, 2017",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/765275",
+    "Object Wikidata URL": NaN,
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Dresses|Profiles|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300046159|http://vocab.getty.edu/page/aat/300123319|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q200539|https://www.wikidata.org/wiki/Q4382010|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/as/original/LC-TR_310_2017_sr1-002.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 201924,
+        "role": "Artist",
+        "name": "Attributed to Ramji",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Image",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 50.323853,
+          "Width": 34.44882
+        }
+      },
+      {
+        "elementName": "Mat",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 76.20015,
+          "Width": 60.96012
+        }
+      },
+      {
+        "elementName": "Mount",
+        "elementDescription": "historic",
+        "elementMeasurements": {
+          "Height": 70.64389,
+          "Width": 54.45136
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Dresses",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300046159",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q200539"
+      },
+      {
+        "term": "Profiles",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300123319",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q4382010"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

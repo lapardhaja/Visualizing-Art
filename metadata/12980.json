@@ -1,0 +1,106 @@
+{
+  "object_id": 12980,
+  "excel_metadata": {
+    "Object Number": "25.108",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 12980,
+    "Gallery Number": NaN,
+    "Department": "The American Wing",
+    "AccessionYear": 1925.0,
+    "Object Name": "Painting",
+    "Title": "Portrait of a Woman, Called Maria Taylor Byrd",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16618.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": "School of",
+    "Artist Display Name": "Sir Godfrey Kneller",
+    "Artist Display Bio": "German, Lübeck 1646–1723 London",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Kneller, Godfrey, Sir",
+    "Artist Nationality": "German",
+    "Artist Begin Date": "1646",
+    "Artist End Date": "1723",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500015875",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q65317",
+    "Object Date": "1700–1725",
+    "Object Begin Date": 1700,
+    "Object End Date": 1725,
+    "Medium": "Oil on canvas",
+    "Dimensions": "49 1/2 x 40 in. (125.7 x 101.6 cm)",
+    "Credit Line": "Fletcher Fund, 1925",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/12980",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19924237",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Portraits|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DT357259.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ad/original/ap25.108.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 166181,
+        "role": "Artist",
+        "name": "School of Sir Godfrey Kneller",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500015875",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q65317",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 125.7,
+          "Width": 101.6
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 8.5,
+          "Height": 145,
+          "Width": 121
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

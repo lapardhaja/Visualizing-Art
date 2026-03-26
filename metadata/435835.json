@@ -1,0 +1,100 @@
+{
+  "object_id": 435835,
+  "excel_metadata": {
+    "Object Number": "63.43.1",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 435835,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1963.0,
+    "Object Name": "Painting",
+    "Title": "Portrait of a Woman",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16417.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Bernardino Campi",
+    "Artist Display Bio": "Italian, Cremona 1522–1591 Reggio Emilia",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Campi, Bernardino",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1522",
+    "Artist End Date": "1591",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500000160",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q822891",
+    "Object Date": "late 1560s",
+    "Object Begin Date": 1567,
+    "Object End Date": 1569,
+    "Medium": "Oil on canvas",
+    "Dimensions": "55 5/8 x 38 1/4 in. (141.3 x 97.2 cm)",
+    "Credit Line": "Gift of Edith Neuman de Végvár, in honor of her husband, Charles Neuman de Végvár, 1963",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/435835",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912461",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Portraits|Women|Dogs",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/aat/300265714",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q144"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-20209-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 164170,
+        "role": "Artist",
+        "name": "Bernardino Campi",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500000160",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q822891",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 141.3,
+          "Width": 97.2
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Dogs",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300265714",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q144"
+      }
+    ]
+  }
+}

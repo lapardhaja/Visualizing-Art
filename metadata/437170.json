@@ -1,0 +1,119 @@
+{
+  "object_id": 437170,
+  "excel_metadata": {
+    "Object Number": "08.136.11",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437170,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1908.0,
+    "Object Name": "Painting",
+    "Title": "The Music Room",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16424.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Mihály Munkácsy",
+    "Artist Display Bio": "Hungarian, Mukachevo (Munkács) 1844–1900 Endenich",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Munkácsy, Mihály",
+    "Artist Nationality": "Hungarian",
+    "Artist Begin Date": "1844",
+    "Artist End Date": "1900",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500008905",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q551652",
+    "Object Date": "1878",
+    "Object Begin Date": 1878,
+    "Object End Date": 1878,
+    "Medium": "Oil on wood",
+    "Dimensions": "35 x 46 in. (88.9 x 116.8 cm)",
+    "Credit Line": "Bequest of Martha T. Fiske Collord, in memory of her first husband, Josiah M. Fiske, 1908",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437170",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912770",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Interiors|Men|Women|Pianos|Dogs",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300391239|http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/aat/300042909|http://vocab.getty.edu/page/aat/300265714",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q2998430|https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q5994|https://www.wikidata.org/wiki/Q144"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT224403.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 164245,
+        "role": "Artist",
+        "name": "Mihály Munkácsy",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500008905",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q551652",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 6.35,
+          "Height": 99.0602,
+          "Width": 127.6353
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 88.9,
+          "Width": 116.8
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Interiors",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300391239",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q2998430"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Pianos",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300042909",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q5994"
+      },
+      {
+        "term": "Dogs",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300265714",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q144"
+      }
+    ]
+  }
+}

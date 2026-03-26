@@ -1,0 +1,103 @@
+{
+  "object_id": 458994,
+  "excel_metadata": {
+    "Object Number": "1975.1.54",
+    "Is Highlight": true,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 458994,
+    "Gallery Number": 956.0,
+    "Department": "Robert Lehman Collection",
+    "AccessionYear": 1975.0,
+    "Object Name": "Painting",
+    "Title": "Madonna and Child",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16167.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Benvenuto di Giovanni",
+    "Artist Display Bio": "Italian, Siena 1436–after 1518 Siena",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Benvenuto di Giovanni",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1436",
+    "Artist End Date": "1518",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500031885",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q818396",
+    "Object Date": "ca. 1470",
+    "Object Begin Date": 1467,
+    "Object End Date": 1473,
+    "Medium": "Tempera on wood, gold ground",
+    "Dimensions": "Overall: 27 3/4 × 18 1/8 in. (70.5 × 46 cm)\r\nPainted surface: 24 1/4 × 14 3/4 in. (61.6 × 37.5 cm)",
+    "Credit Line": "Robert Lehman Collection, 1975",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/458994",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20185303",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Madonna and Child",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901000052",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q9309699"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/rl/original/DP-23539-001.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/rl/original/DP-23539-002.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/0284.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/DT3040.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/ep1975.1.54.bw.R.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 161678,
+        "role": "Artist",
+        "name": "Benvenuto di Giovanni",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500031885",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q818396",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": "Overall",
+        "elementMeasurements": {
+          "Height": 70.5,
+          "Width": 46
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": "Painted surface",
+        "elementMeasurements": {
+          "Height": 61.6,
+          "Width": 37.5
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Madonna and Child",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000052",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q9309699"
+      }
+    ]
+  }
+}

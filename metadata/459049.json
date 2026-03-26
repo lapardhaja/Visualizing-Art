@@ -1,0 +1,104 @@
+{
+  "object_id": 459049,
+  "excel_metadata": {
+    "Object Number": "1975.1.107",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 459049,
+    "Gallery Number": 954.0,
+    "Department": "Robert Lehman Collection",
+    "AccessionYear": 1975.0,
+    "Object Name": "Painting",
+    "Title": "Saint Anne and the Virgin and Child Enthroned with Angels",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16486.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Niccolò Alunno (Niccolò di Liberatore)",
+    "Artist Display Bio": "Italian, Umbria, active by ca. 1456–died 1502",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Niccolò Alunno (Niccolò di Liberatore)",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1561",
+    "Artist End Date": "1502",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500004204",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q970559",
+    "Object Date": "ca. 1458–61",
+    "Object Begin Date": 1455,
+    "Object End Date": 1464,
+    "Medium": "Tempera and gold on wood",
+    "Dimensions": "47 3/8 x 27 1/8 in. (120.3 x 68.9 cm)",
+    "Credit Line": "Robert Lehman Collection, 1975",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/459049",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20188054",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Angels|Madonna and Child|Saint Anne",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300379004|http://vocab.getty.edu/page/ia/901000052|http://vocab.getty.edu/page/ia/901001010",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q235113|https://www.wikidata.org/wiki/Q9309699|https://www.wikidata.org/wiki/Q164294"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/rl/original/LC-1975_1_107-001.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/rl/original/LC-1975_1_107-002.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/0601.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/ep1975.1.107.bw.R.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 164867,
+        "role": "Artist",
+        "name": "Niccolò Alunno (Niccolò di Liberatore)",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500004204",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q970559",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 120.3,
+          "Width": 68.9
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Angels",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379004",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q235113"
+      },
+      {
+        "term": "Madonna and Child",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000052",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q9309699"
+      },
+      {
+        "term": "Saint Anne",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901001010",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q164294"
+      }
+    ]
+  }
+}

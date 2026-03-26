@@ -1,0 +1,90 @@
+{
+  "object_id": 437750,
+  "excel_metadata": {
+    "Object Number": "45.94.2",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437750,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1945.0,
+    "Object Name": "Painting",
+    "Title": "A Renaissance Portico with Elegant Figures",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16603.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Hendrick van Steenwijck II",
+    "Artist Display Bio": "Flemish, Antwerp (?) ca. 1580–1649 Leiden",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Steenwijck, Hendrick van, II",
+    "Artist Nationality": "Flemish",
+    "Artist Begin Date": "1475",
+    "Artist End Date": "1649",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500017394",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q709393",
+    "Object Date": "ca. 1615",
+    "Object Begin Date": 1610,
+    "Object End Date": 1620,
+    "Medium": "Oil on copper",
+    "Dimensions": "Diameter 4 3/8 in. (11.1 cm)",
+    "Credit Line": "Gift of Mrs. James Eads Switzer, in memory of her aunt, Yrene Ceballos de Sanz, 1945",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437750",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912739",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Buildings",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300004789",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q41176"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/ep45.94.2.bw.R.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 166034,
+        "role": "Artist",
+        "name": "Hendrick van Steenwijck II",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500017394",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q709393",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 11.1,
+          "Width": 11.1
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Buildings",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300004789",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q41176"
+      }
+    ]
+  }
+}

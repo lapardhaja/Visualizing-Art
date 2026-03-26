@@ -1,0 +1,121 @@
+{
+  "object_id": 436792,
+  "excel_metadata": {
+    "Object Number": "41.190.20a–c",
+    "Is Highlight": true,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 436792,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1941.0,
+    "Object Name": "Painting, triptych",
+    "Title": "The Crucifixion with Saints and a Donor",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16201.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Joos van Cleve",
+    "Artist Display Bio": "Netherlandish, Cleve ca. 1485–1540/41 Antwerp",
+    "Artist Suffix": "and a collaborator",
+    "Artist Alpha Sort": "Joos van Cleve",
+    "Artist Nationality": "Netherlandish",
+    "Artist Begin Date": "1485",
+    "Artist End Date": "1541",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500007799",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q153472",
+    "Object Date": "ca. 1520",
+    "Object Begin Date": 1515,
+    "Object End Date": 1525,
+    "Medium": "Oil on wood",
+    "Dimensions": "Shaped top: central panel, painted surface 38 3/4 x 29 1/4 in. (98.4 x 74.3 cm); each wing, painted surface 39 3/4 x 12 7/8 in. (101 x 32.7 cm)",
+    "Credit Line": "Bequest of George Blumenthal, 1941",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436792",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19911601",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Crucifixion|Saints|Skulls|Men|Christ|Virgin Mary",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300404300|http://vocab.getty.edu/page/aat/300150555|http://vocab.getty.edu/page/aat/300191856|http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/ia/901000087|http://vocab.getty.edu/page/ia/901000032",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q3235597|https://www.wikidata.org/wiki/Q43115|https://www.wikidata.org/wiki/Q13147|https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q642420|https://www.wikidata.org/wiki/Q345"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT1467.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-41_190_20abc-6.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-41_190_20abc-IRR.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-41_190_20abc-Xray.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-41_190_20-2.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-41_190_20-3.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 162015,
+        "role": "Artist",
+        "name": "Joos van Cleve",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500007799",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q153472",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 98.4,
+          "Width": 74.3
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Skulls",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300191856",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q13147"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Christ",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+      },
+      {
+        "term": "Virgin Mary",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000032",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q345"
+      },
+      {
+        "term": "Crucifixion",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300404300",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3235597"
+      },
+      {
+        "term": "Saints",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300150555",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q43115"
+      }
+    ]
+  }
+}

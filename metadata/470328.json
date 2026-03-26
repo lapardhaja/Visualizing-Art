@@ -1,0 +1,109 @@
+{
+  "object_id": 470328,
+  "excel_metadata": {
+    "Object Number": "53.37",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 470328,
+    "Gallery Number": 305.0,
+    "Department": "The Cloisters",
+    "AccessionYear": 1953.0,
+    "Object Name": "Painting",
+    "Title": "The Intercession of Christ and the Virgin",
+    "Culture": "Italian",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16208.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": "Attributed to",
+    "Artist Display Name": "Lorenzo Monaco (Piero di Giovanni)",
+    "Artist Display Bio": "Italian, Florence (?) ca. 1370–1425 Florence (?)",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Lorenzo Monaco (Piero di Giovanni)",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1370",
+    "Artist End Date": "1425",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500026261",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q155376",
+    "Object Date": "before 1402",
+    "Object Begin Date": 1402,
+    "Object End Date": 1402,
+    "Medium": "Tempera on canvas",
+    "Dimensions": "Overall: 94 1/4 x 60 1/4 x 1 in. (239.4 x 153 x 2.5 cm)",
+    "Credit Line": "The Cloisters Collection, 1953",
+    "Geography Type": "Made in",
+    "City": "Florence",
+    "State": NaN,
+    "County": "Tuscany",
+    "Country": "Italy",
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings-Canvas",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/470328",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20200874",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Christ|Virgin Mary|Doves|God the Father",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901000087|http://vocab.getty.edu/page/ia/901000032|http://vocab.getty.edu/page/aat/300250045|http://vocab.getty.edu/page/ia/901000593",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q642420|https://www.wikidata.org/wiki/Q345|https://www.wikidata.org/wiki/Q2984138|https://www.wikidata.org/wiki/Q186350"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/cl/original/DP359505.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/cl/original/DP359506.jpg",
+      "https://images.metmuseum.org/CRDImages/cl/original/DP359507.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 162080,
+        "role": "Artist",
+        "name": "Attributed to Lorenzo Monaco (Piero di Giovanni)",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500026261",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q155376",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 239.4,
+          "Thickness": 2.54,
+          "Width": 153
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Doves",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250045",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q2984138"
+      },
+      {
+        "term": "Christ",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+      },
+      {
+        "term": "Virgin Mary",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000032",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q345"
+      },
+      {
+        "term": "God the Father",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000593",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q186350"
+      }
+    ]
+  }
+}

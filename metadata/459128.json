@@ -1,0 +1,108 @@
+{
+  "object_id": 459128,
+  "excel_metadata": {
+    "Object Number": "1975.1.242",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 459128,
+    "Gallery Number": 957.0,
+    "Department": "Robert Lehman Collection",
+    "AccessionYear": 1975.0,
+    "Object Name": "Painting",
+    "Title": "Figures and a Dog in a Landscape",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16183.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Narcisse-Virgile Diaz de la Peña",
+    "Artist Display Bio": "French, Bordeaux 1808–1876 Menton",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Diaz de la Peña, Narcisse-Virgile",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1808",
+    "Artist End Date": "1876",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500008285",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q724140",
+    "Object Date": "1852",
+    "Object Begin Date": 1852,
+    "Object End Date": 1852,
+    "Medium": "Oil on wood",
+    "Dimensions": "17 1/4 x 11 3/4 in. (43.8 x 29.8 cm)",
+    "Credit Line": "Robert Lehman Collection, 1975",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/459128",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20183328",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Women|Dogs|Children",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/aat/300265714|http://vocab.getty.edu/page/aat/300025945",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q144|https://www.wikidata.org/wiki/Q7569"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/rl/original/0242-1.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/rl/original/SLP0242.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/2060.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 161832,
+        "role": "Artist",
+        "name": "Narcisse-Virgile Diaz de la Peña",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500008285",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q724140",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 43.8,
+          "Width": 29.8
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Children",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025945",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q7569"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Dogs",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300265714",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q144"
+      }
+    ]
+  }
+}

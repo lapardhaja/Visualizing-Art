@@ -1,0 +1,105 @@
+{
+  "object_id": 436826,
+  "excel_metadata": {
+    "Object Number": "87.15.30",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436826,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1887.0,
+    "Object Name": "Painting",
+    "Title": "Winter Landscape, Holland",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16479.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Barend Cornelis Koekkoek",
+    "Artist Display Bio": "Dutch, Middelburg 1803–1862 Cleve",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Koekkoek, Barend Cornelis",
+    "Artist Nationality": "Dutch",
+    "Artist Begin Date": "1803",
+    "Artist End Date": "1862",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500007947",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q808081",
+    "Object Date": "1833",
+    "Object Begin Date": 1833,
+    "Object End Date": 1833,
+    "Medium": "Oil on wood",
+    "Dimensions": "14 x 17 in. (35.6 x 43.2 cm)",
+    "Credit Line": "Catharine Lorillard Wolfe Collection, Bequest of Catharine Lorillard Wolfe, 1887",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436826",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19913310",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Landscapes|Winter|Snow|Skating",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300132294|http://vocab.getty.edu/page/aat/300133101|http://vocab.getty.edu/page/aat/300055381|http://vocab.getty.edu/page/aat/300222802",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q191163|https://www.wikidata.org/wiki/Q1311|https://www.wikidata.org/wiki/Q7561|https://www.wikidata.org/wiki/Q779272"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP143197.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 164792,
+        "role": "Artist",
+        "name": "Barend Cornelis Koekkoek",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500007947",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q808081",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 35.6,
+          "Width": 43.2
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Skating",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300222802",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q779272"
+      },
+      {
+        "term": "Landscapes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+      },
+      {
+        "term": "Winter",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300133101",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q1311"
+      },
+      {
+        "term": "Snow",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300055381",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q7561"
+      }
+    ]
+  }
+}

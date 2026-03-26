@@ -1,0 +1,107 @@
+{
+  "object_id": 435755,
+  "excel_metadata": {
+    "Object Number": "1974.2",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 435755,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1974.0,
+    "Object Name": "Painting",
+    "Title": "The Baptism of Christ",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16170.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Sébastien Bourdon",
+    "Artist Display Bio": "French, Montpellier 1616–1671 Paris",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Bourdon, Sébastien",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1616",
+    "Artist End Date": "1671",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500006900",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q553795",
+    "Object Date": "ca. 1650",
+    "Object Begin Date": 1645,
+    "Object End Date": 1655,
+    "Medium": "Oil on canvas",
+    "Dimensions": "Overall 59 3/4 x 46 1/2 in. (151.8 x 118.1 cm); painted surface (oval) 59 1/8 x 45 1/2 in. (150.2 x 115.6 cm)",
+    "Credit Line": "Purchase, George T. Delacorte Jr. Gift, 1974",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/435755",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912695",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Baptism of Christ|Angels|Saint John the Baptist",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901001066|http://vocab.getty.edu/page/aat/300379004|http://vocab.getty.edu/page/ia/901001056",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q217048|https://www.wikidata.org/wiki/Q235113|https://www.wikidata.org/wiki/Q40662"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT10696.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 161707,
+        "role": "Artist",
+        "name": "Sébastien Bourdon",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500006900",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q553795",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Other",
+        "elementDescription": "Picture + Frame ",
+        "elementMeasurements": {
+          "Weight": 51.71006
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 151.8,
+          "Width": 118.1
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Angels",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379004",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q235113"
+      },
+      {
+        "term": "Saint John the Baptist",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901001056",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q40662"
+      },
+      {
+        "term": "Baptism of Christ",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901001066",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q217048"
+      }
+    ]
+  }
+}

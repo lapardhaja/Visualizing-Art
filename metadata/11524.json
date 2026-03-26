@@ -1,0 +1,100 @@
+{
+  "object_id": 11524,
+  "excel_metadata": {
+    "Object Number": "39.175",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 11524,
+    "Gallery Number": NaN,
+    "Department": "The American Wing",
+    "AccessionYear": 1939.0,
+    "Object Name": "Painting",
+    "Title": "Old Annapolis, Francis Street",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16482.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Francis Blackwell Mayer",
+    "Artist Display Bio": "American, Baltimore, Maryland 1827–1899 Annapolis, Maryland",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Mayer, Francis Blackwell",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1827",
+    "Artist End Date": "1899",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500017304",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q5480254",
+    "Object Date": "1876",
+    "Object Begin Date": 1876,
+    "Object End Date": 1876,
+    "Medium": "Oil on canvas",
+    "Dimensions": "15 3/4 x 20 1/2 in. (40.1 x 52.1 cm)",
+    "Credit Line": "Rogers Fund, 1939",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/11524",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20172425",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Buildings|Carts|Streets",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300004789|http://vocab.getty.edu/page/aat/300212695|http://vocab.getty.edu/page/aat/300008247",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q41176|https://www.wikidata.org/wiki/Q234668|https://www.wikidata.org/wiki/Q79007"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DT218025.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 164825,
+        "role": "Artist",
+        "name": "Francis Blackwell Mayer",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500017304",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5480254",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 40,
+          "Width": 52.1
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Buildings",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300004789",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q41176"
+      },
+      {
+        "term": "Streets",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300008247",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q79007"
+      },
+      {
+        "term": "Carts",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300212695",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q234668"
+      }
+    ]
+  }
+}

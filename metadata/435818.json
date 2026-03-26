@@ -1,0 +1,97 @@
+{
+  "object_id": 435818,
+  "excel_metadata": {
+    "Object Number": "62.267.1",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 435818,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1962.0,
+    "Object Name": "Painting",
+    "Title": "Portrait of a Man",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10745.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Barthel Bruyn the Elder",
+    "Artist Display Bio": "German, 1493–1555",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Bruyn, Barthel, the Elder",
+    "Artist Nationality": "German",
+    "Artist Begin Date": "1493",
+    "Artist End Date": "1555",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500028449",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q698115",
+    "Object Date": "1533",
+    "Object Begin Date": 1533,
+    "Object End Date": 1533,
+    "Medium": "Oil on oak",
+    "Dimensions": "Overall, with arched top, 12 x 8 7/8 in. (30.5 x 22.5 cm); painted surface 11 3/4 x 8 1/8 in. (29.8 x 20.6 cm)",
+    "Credit Line": "Gift of James A. Moffett 2nd, 1962",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/435818",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19905241",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP280346.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/GermanCat6a_Xraynocap.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 107456,
+        "role": "Artist",
+        "name": "Barthel Bruyn the Elder",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500028449",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q698115",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 30.5,
+          "Width": 22.5
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

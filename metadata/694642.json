@@ -1,0 +1,92 @@
+{
+  "object_id": 694642,
+  "excel_metadata": {
+    "Object Number": "2015.587",
+    "Is Highlight": true,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 694642,
+    "Gallery Number": 770.0,
+    "Department": "The American Wing",
+    "AccessionYear": 2015.0,
+    "Object Name": "Painting",
+    "Title": "The Trees, Early Afternoon, France",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 18641.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "William A. Harper",
+    "Artist Display Bio": "American (born Canada), Cayuga 1873–1910 Mexico City",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Harper, William A.",
+    "Artist Nationality": "American, born Canada",
+    "Artist Begin Date": "1873",
+    "Artist End Date": "1910",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": NaN,
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q29961432",
+    "Object Date": "ca. 1905",
+    "Object Begin Date": 1900,
+    "Object End Date": 1910,
+    "Medium": "Oil on canvas",
+    "Dimensions": "20 × 26 in. (50.8 × 66 cm)",
+    "Credit Line": "Marguerite and Frank A. Cosgrove Jr. Fund, 2015",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/694642",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q29961418",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Landscapes",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300132294",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q191163"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DP701344.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ad/original/DP701345.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 186411,
+        "role": "Artist",
+        "name": "William A. Harper",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q29961432",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 50.800102,
+          "Width": 66.04013
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Landscapes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+      }
+    ]
+  }
+}

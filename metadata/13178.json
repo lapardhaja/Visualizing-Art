@@ -1,0 +1,115 @@
+{
+  "object_id": 13178,
+  "excel_metadata": {
+    "Object Number": "67.187.143",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 13178,
+    "Gallery Number": 774.0,
+    "Department": "The American Wing",
+    "AccessionYear": 1967.0,
+    "Object Name": "Painting",
+    "Title": "Connecticut Village (Going to School)",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16270.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Julian Alden Weir",
+    "Artist Display Bio": "American, West Point, New York 1852–1919 New York",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Weir, Julian Alden",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1852",
+    "Artist End Date": "1919",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500020809",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q1284220",
+    "Object Date": "after 1891",
+    "Object Begin Date": 1892,
+    "Object End Date": 1901,
+    "Medium": "Oil on canvas",
+    "Dimensions": "24 1/8 x 20 1/8 in. (61.3 x 51.1 cm)",
+    "Credit Line": "Bequest of Miss Adelaide Milton de Groot (1876-1967), 1967",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/13178",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19924276",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Villages|Trees",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300008372|http://vocab.getty.edu/page/aat/300132410",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q532|https://www.wikidata.org/wiki/Q10884"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/APS2284.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ad/original/DP314846.jpg",
+      "https://images.metmuseum.org/CRDImages/ad/original/DP312489.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 162707,
+        "role": "Artist",
+        "name": "Julian Alden Weir",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500020809",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1284220",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 8.9,
+          "Height": 73.7,
+          "Width": 63.5
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 61.3,
+          "Width": 51.1
+        }
+      },
+      {
+        "elementName": "Other",
+        "elementDescription": "glazing (when needed)",
+        "elementMeasurements": {
+          "Height": 61.436375,
+          "Width": 51.276352
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Villages",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300008372",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q532"
+      },
+      {
+        "term": "Trees",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132410",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q10884"
+      }
+    ]
+  }
+}

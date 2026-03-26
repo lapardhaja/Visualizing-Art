@@ -1,0 +1,118 @@
+{
+  "object_id": 10827,
+  "excel_metadata": {
+    "Object Number": "17.172",
+    "Is Highlight": true,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 10827,
+    "Gallery Number": 771.0,
+    "Department": "The American Wing",
+    "AccessionYear": 1917.0,
+    "Object Name": "Painting",
+    "Title": "The Thinker: Portrait of Louis N. Kenton",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16185.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Thomas Eakins",
+    "Artist Display Bio": "American, Philadelphia, Pennsylvania 1844–1916 Philadelphia, Pennsylvania",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Eakins, Thomas",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1844",
+    "Artist End Date": "1916",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500115198",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q214905",
+    "Object Date": "1900",
+    "Object Begin Date": 1900,
+    "Object End Date": 1900,
+    "Medium": "Oil on canvas",
+    "Dimensions": "82 x 42 in. (208.3 x 106.7 cm)",
+    "Credit Line": "John Stewart Kennedy Fund, 1917",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/10827",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q7768767",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Contemplation|Men|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300264547|http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q1123855|https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DT102.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 161859,
+        "role": "Artist",
+        "name": "Thomas Eakins",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115198",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q214905",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 5.7,
+          "Height": 235,
+          "Width": 132.4
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 208.3,
+          "Width": 106.7
+        }
+      },
+      {
+        "elementName": "Other",
+        "elementDescription": "travel frame",
+        "elementMeasurements": {
+          "Depth": 10.795,
+          "Height": 223.8379,
+          "Width": 121.9202
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Contemplation",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300264547",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q1123855"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

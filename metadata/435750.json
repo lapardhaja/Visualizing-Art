@@ -1,0 +1,112 @@
+{
+  "object_id": 435750,
+  "excel_metadata": {
+    "Object Number": "39.65.2",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 435750,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1939.0,
+    "Object Name": "Painting",
+    "Title": "Beaulieu: The Bay of Fourmis",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16170.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Eugène Boudin",
+    "Artist Display Bio": "French, Honfleur 1824–1898 Deauville",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Boudin, Eugène",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1824",
+    "Artist End Date": "1898",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500004513",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q212600",
+    "Object Date": "1892",
+    "Object Begin Date": 1892,
+    "Object End Date": 1892,
+    "Medium": "Oil on canvas",
+    "Dimensions": "21 5/8 x 35 1/2 in. (54.9 x 90.2 cm)",
+    "Credit Line": "Bequest of Jacob Ruppert, 1939",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/435750",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912070",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Seas|Landscapes",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300008694|http://vocab.getty.edu/page/aat/300132294",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q165|https://www.wikidata.org/wiki/Q191163"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-17451-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 161704,
+        "role": "Artist",
+        "name": "Eugène Boudin",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500004513",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q212600",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 13.97,
+          "Height": 90.8052,
+          "Width": 127.0003
+        }
+      },
+      {
+        "elementName": "Rabbet",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 55.88011,
+          "Width": 90.80518
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 54.9,
+          "Width": 90.2
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Seas",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300008694",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q165"
+      },
+      {
+        "term": "Landscapes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+      }
+    ]
+  }
+}

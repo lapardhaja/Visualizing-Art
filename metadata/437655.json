@@ -1,0 +1,104 @@
+{
+  "object_id": 437655,
+  "excel_metadata": {
+    "Object Number": "1985.237",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437655,
+    "Gallery Number": 825.0,
+    "Department": "European Paintings",
+    "AccessionYear": 1985.0,
+    "Object Name": "Painting",
+    "Title": "The Forest at Pontaubert",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16240.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Georges Seurat",
+    "Artist Display Bio": "French, Paris 1859–1891 Paris",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Seurat, Georges",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1859",
+    "Artist End Date": "1891",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500008873",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q34013",
+    "Object Date": "1881",
+    "Object Begin Date": 1881,
+    "Object End Date": 1881,
+    "Medium": "Oil on canvas",
+    "Dimensions": "31 1/8 x 24 5/8 in. (79.1 x 62.5 cm)",
+    "Credit Line": "Purchase, Gift of Raymonde Paul, in memory of her brother, C. Michael Paul, by exchange, 1985",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437655",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q3965263",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Forests|Trees",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300387598|http://vocab.getty.edu/page/aat/300132410",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q4421|https://www.wikidata.org/wiki/Q10884"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT2165.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162405,
+        "role": "Artist",
+        "name": "Georges Seurat",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500008873",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q34013",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 79.1,
+          "Width": 62.5
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 7.62,
+          "Height": 94.6152,
+          "Width": 78.7402
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Forests",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300387598",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q4421"
+      },
+      {
+        "term": "Trees",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132410",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q10884"
+      }
+    ]
+  }
+}

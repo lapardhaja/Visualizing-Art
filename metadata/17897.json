@@ -1,0 +1,104 @@
+{
+  "object_id": 17897,
+  "excel_metadata": {
+    "Object Number": "1974.359",
+    "Is Highlight": true,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 17897,
+    "Gallery Number": 759.0,
+    "Department": "The American Wing",
+    "AccessionYear": 1974.0,
+    "Object Name": "Painting",
+    "Title": "Landscape with Cows Watering in a Stream",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 247.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Robert S. Duncanson",
+    "Artist Display Bio": "1821–1872",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Duncanson, Robert S.",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1821",
+    "Artist End Date": "1872",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500019769",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q2699889",
+    "Object Date": "1871",
+    "Object Begin Date": 1871,
+    "Object End Date": 1871,
+    "Medium": "Oil on canvas",
+    "Dimensions": "21 1/8 x 34 1/2 in. (53.7 x 87.6 cm)",
+    "Credit Line": "Gift of Mr. and Mrs. Lawrence A. Fleischman, 1974",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/17897",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19924575",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Cows|Landscapes",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300250120|http://vocab.getty.edu/page/aat/300132294",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q830|https://www.wikidata.org/wiki/Q191163"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DT10837.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 2479,
+        "role": "Artist",
+        "name": "Robert S. Duncanson",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500019769",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q2699889",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 53.657608,
+          "Width": 87.63017
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 11.112522,
+          "Height": 83.50267,
+          "Width": 116.84023
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Cows",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250120",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q830"
+      },
+      {
+        "term": "Landscapes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+      }
+    ]
+  }
+}

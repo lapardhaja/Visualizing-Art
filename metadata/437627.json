@@ -1,0 +1,105 @@
+{
+  "object_id": 437627,
+  "excel_metadata": {
+    "Object Number": "24.80.525",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437627,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1924.0,
+    "Object Name": "Painting, miniature",
+    "Title": "A River Landscape",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10855.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Edmé Charles de Lioux de Savignac",
+    "Artist Display Bio": "French, active ca. 1766–72",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Savignac, Edmé Charles de Lioux de",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1766",
+    "Artist End Date": "1772",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500065965",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q21857368",
+    "Object Date": "ca. 1766–72",
+    "Object Begin Date": 1766,
+    "Object End Date": 1772,
+    "Medium": "Paper",
+    "Dimensions": "Diameter 3 in. (77 mm)",
+    "Credit Line": "Bequest of Mary Clark Thompson, 1923",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Miniatures",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437627",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19913875",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Women|Rivers|Landscapes",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/aat/300008707|http://vocab.getty.edu/page/aat/300132294",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q4022|https://www.wikidata.org/wiki/Q191163"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/57116.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 108558,
+        "role": "Artist",
+        "name": "Edmé Charles de Lioux de Savignac",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500065965",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q21857368",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 7.6,
+          "Width": 7.6
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Rivers",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300008707",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q4022"
+      },
+      {
+        "term": "Landscapes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+      }
+    ]
+  }
+}

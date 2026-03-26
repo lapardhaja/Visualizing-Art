@@ -1,0 +1,107 @@
+{
+  "object_id": 10526,
+  "excel_metadata": {
+    "Object Number": "23.143",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 10526,
+    "Gallery Number": 747.0,
+    "Department": "The American Wing",
+    "AccessionYear": 1923.0,
+    "Object Name": "Painting",
+    "Title": "Joseph Sherburne",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16178.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "John Singleton Copley",
+    "Artist Display Bio": "American, Boston, Massachusetts 1738–1815 London",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Copley, John Singleton",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1738",
+    "Artist End Date": "1815",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500009177",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q316016",
+    "Object Date": "ca. 1767–70",
+    "Object Begin Date": 1764,
+    "Object End Date": 1770,
+    "Medium": "Oil on canvas",
+    "Dimensions": "50 x 40 in. (127 x 101.6 cm)",
+    "Credit Line": "Amelia B. Lazarus Fund, 1923",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/10526",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19924107",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DT214418.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ad/original/DP257806.jpg",
+      "https://images.metmuseum.org/CRDImages/ad/original/DP256028.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 161784,
+        "role": "Artist",
+        "name": "John Singleton Copley",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500009177",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q316016",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 9,
+          "Height": 153,
+          "Width": 129
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 127,
+          "Width": 101.6
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "object_id": 438545,
+  "excel_metadata": {
+    "Object Number": "2019.141.1",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 438545,
+    "Gallery Number": 806.0,
+    "Department": "European Paintings",
+    "AccessionYear": 2019.0,
+    "Object Name": "Painting",
+    "Title": "Léon Pallière (1787–1820) in His Room at the Villa Medici, Rome",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16157.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Jean Alaux",
+    "Artist Display Bio": "French, Bordeaux 1786–1864 Paris",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Alaux, Jean",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1786",
+    "Artist End Date": "1864",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500018163",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q1232255",
+    "Object Date": "1817",
+    "Object Begin Date": 1817,
+    "Object End Date": 1817,
+    "Medium": "Oil on canvas",
+    "Dimensions": "22 7/8 × 17 7/8 in. (58.1 × 45.4 cm)",
+    "Credit Line": "Bequest of Mrs. Charles Wrightsman, 2019",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/438545",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q78637846",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Interiors|Bedrooms|Men|Guitars",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300391239|http://vocab.getty.edu/page/aat/300004364|http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300042025",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q2998430|https://www.wikidata.org/wiki/Q193837|https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q6607"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT235903.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 161574,
+        "role": "Artist",
+        "name": "Jean Alaux",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500018163",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1232255",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 58.102615,
+          "Width": 45.40259
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Interiors",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300391239",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q2998430"
+      },
+      {
+        "term": "Bedrooms",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300004364",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q193837"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Guitars",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300042025",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q6607"
+      }
+    ]
+  }
+}

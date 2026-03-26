@@ -1,0 +1,104 @@
+{
+  "object_id": 441115,
+  "excel_metadata": {
+    "Object Number": "2010.445",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 441115,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 2010.0,
+    "Object Name": "Painting",
+    "Title": "Self-Portrait",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16212.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Anton Raphael Mengs",
+    "Artist Display Bio": "German, Ústi nad Labem (Aussig) 1728–1779 Rome",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Mengs, Anton Raphael",
+    "Artist Nationality": "German",
+    "Artist Begin Date": "1728",
+    "Artist End Date": "1779",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500009824",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q76718",
+    "Object Date": "1776",
+    "Object Begin Date": 1776,
+    "Object End Date": 1776,
+    "Medium": "Oil on canvas",
+    "Dimensions": "35 1/2 x 25 7/8 in. (90 x 65.5 cm)",
+    "Credit Line": "Harris Brisbane Dick Fund, 2010",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/441115",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19911505",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Self-portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300124534",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q192110"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP240926.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162120,
+        "role": "Artist",
+        "name": "Anton Raphael Mengs",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500009824",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q76718",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 90,
+          "Width": 65.5
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 6.985014,
+          "Height": 109.53772,
+          "Width": 86.04267
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Self-portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300124534",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q192110"
+      }
+    ]
+  }
+}

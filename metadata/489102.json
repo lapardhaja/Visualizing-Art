@@ -1,0 +1,112 @@
+{
+  "object_id": 489102,
+  "excel_metadata": {
+    "Object Number": "60.118",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 489102,
+    "Gallery Number": NaN,
+    "Department": "Modern and Contemporary Art",
+    "AccessionYear": 1960.0,
+    "Object Name": "Painting",
+    "Title": "Girl in a Sailor's Blouse",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16213.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Amedeo Modigliani",
+    "Artist Display Bio": "Italian, Livorno 1884–1920 Paris",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Modigliani, Amedeo",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1884",
+    "Artist End Date": "1920",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500026509",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q120993",
+    "Object Date": "1918",
+    "Object Begin Date": 1918,
+    "Object End Date": 1918,
+    "Medium": "Oil on canvas",
+    "Dimensions": "25 3/4 × 18 1/4 in. (65.4 × 46.4 cm)",
+    "Credit Line": "Gift of Charles F. Iklé, 1960",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/489102",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19920789",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Portraits|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ma/original/CT_2860.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162130,
+        "role": "Artist",
+        "name": "Amedeo Modigliani",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500026509",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q120993",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 5.7150116,
+          "Height": 85.40767,
+          "Width": 66.04013
+        }
+      },
+      {
+        "elementName": "Other",
+        "elementDescription": "AR plexi",
+        "elementMeasurements": {
+          "Height": 69.21514,
+          "Width": 50.1651
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 65.40513,
+          "Width": 46.4
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

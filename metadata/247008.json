@@ -1,0 +1,111 @@
+{
+  "object_id": 247008,
+  "excel_metadata": {
+    "Object Number": "03.14.4",
+    "Is Highlight": true,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 247008,
+    "Gallery Number": 164.0,
+    "Department": "Greek and Roman Art",
+    "AccessionYear": 1903.0,
+    "Object Name": "Wall painting",
+    "Title": "Wall painting from the west wall of Room L of the Villa of P. Fannius Synistor at Boscoreale",
+    "Culture": "Roman",
+    "Period": "Late Republican",
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": NaN,
+    "Artist Role": NaN,
+    "Artist Prefix": NaN,
+    "Artist Display Name": NaN,
+    "Artist Display Bio": NaN,
+    "Artist Suffix": NaN,
+    "Artist Alpha Sort": NaN,
+    "Artist Nationality": NaN,
+    "Artist Begin Date": NaN,
+    "Artist End Date": NaN,
+    "Artist Gender": NaN,
+    "Artist ULAN URL": NaN,
+    "Artist Wikidata URL": NaN,
+    "Object Date": "ca. 50–40 BCE",
+    "Object Begin Date": -50,
+    "Object End Date": -40,
+    "Medium": "Fresco",
+    "Dimensions": "Overall: 77 x 107in. (195.6 x 271.8cm)",
+    "Credit Line": "Rogers Fund, 1903",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Miscellaneous-Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/247008",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q29383725",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Masks|Garlands|Bulls|Snakes|Fruit",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300262834|http://vocab.getty.edu/page/aat/300167386|http://vocab.getty.edu/page/aat/300250117|http://vocab.getty.edu/page/aat/300250870|http://vocab.getty.edu/page/aat/300011868",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q161524|https://www.wikidata.org/wiki/Q756600|https://www.wikidata.org/wiki/Q693690|https://www.wikidata.org/wiki/Q2102|https://www.wikidata.org/wiki/Q1364"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/gr/original/DP141474.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/gr/original/DP141475.jpg",
+      "https://images.metmuseum.org/CRDImages/gr/original/DP141476.jpg",
+      "https://images.metmuseum.org/CRDImages/gr/original/DP141477.jpg",
+      "https://images.metmuseum.org/CRDImages/gr/original/DP107052.jpg",
+      "https://images.metmuseum.org/CRDImages/gr/original/DP107053.jpg",
+      "https://images.metmuseum.org/CRDImages/gr/original/DP107054.jpg",
+      "https://images.metmuseum.org/CRDImages/gr/original/DP107055.jpg",
+      "https://images.metmuseum.org/CRDImages/gr/original/DP107056.jpg",
+      "https://images.metmuseum.org/CRDImages/gr/original/DP107057.jpg"
+    ],
+    "constituents": null,
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 195.58,
+          "Width": 271.78
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Masks",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300262834",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q161524"
+      },
+      {
+        "term": "Garlands",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300167386",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q756600"
+      },
+      {
+        "term": "Fruit",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300011868",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q1364"
+      },
+      {
+        "term": "Bulls",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250117",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q693690"
+      },
+      {
+        "term": "Snakes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250870",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q2102"
+      }
+    ]
+  }
+}

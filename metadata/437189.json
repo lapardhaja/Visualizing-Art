@@ -1,0 +1,108 @@
+{
+  "object_id": 437189,
+  "excel_metadata": {
+    "Object Number": "71.5",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437189,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1871.0,
+    "Object Name": "Painting",
+    "Title": "Interior of a Gothic Church at Night",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10810210766.0,
+    "Artist Role": "Artist|Artist",
+    "Artist Prefix": " |and",
+    "Artist Display Name": "Pieter Neeffs the Younger|Frans Francken III",
+    "Artist Display Bio": "Flemish, 1620–after 1675|Flemish, 1607–1667",
+    "Artist Suffix": " | ",
+    "Artist Alpha Sort": "Neeffs, Pieter, the Younger|Francken, Frans, III",
+    "Artist Nationality": "Flemish|Flemish",
+    "Artist Begin Date": "1620      |1607      ",
+    "Artist End Date": "1675      |1667      ",
+    "Artist Gender": "|",
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500015771|http://vocab.getty.edu/page/ulan/500001468",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q3304139|https://www.wikidata.org/wiki/Q3752060",
+    "Object Date": "ca. 1660",
+    "Object Begin Date": 1655,
+    "Object End Date": 1665,
+    "Medium": "Oil on wood",
+    "Dimensions": "10 x 7 3/4 in. (25.4 x 19.7 cm)",
+    "Credit Line": "Purchase, 1871",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437189",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912902",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Arches|Interiors|Churches",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300001062|http://vocab.getty.edu/page/aat/300391239|http://vocab.getty.edu/page/aat/300007466",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q12277|https://www.wikidata.org/wiki/Q2998430|https://www.wikidata.org/wiki/Q16970"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-23544-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 108102,
+        "role": "Artist",
+        "name": "Pieter Neeffs the Younger",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500015771",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3304139",
+        "gender": ""
+      },
+      {
+        "constituentID": 107663,
+        "role": "Artist",
+        "name": "and Frans Francken III",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500001468",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3752060",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 25.4,
+          "Width": 19.7
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Arches",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300001062",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q12277"
+      },
+      {
+        "term": "Interiors",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300391239",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q2998430"
+      },
+      {
+        "term": "Churches",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300007466",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q16970"
+      }
+    ]
+  }
+}

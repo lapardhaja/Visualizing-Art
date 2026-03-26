@@ -1,0 +1,104 @@
+{
+  "object_id": 436831,
+  "excel_metadata": {
+    "Object Number": "1980.4",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 436831,
+    "Gallery Number": 965.0,
+    "Department": "European Paintings",
+    "AccessionYear": 1980.0,
+    "Object Name": "Painting",
+    "Title": "An Extensive Wooded Landscape",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16479.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Philips Koninck",
+    "Artist Display Bio": "Dutch, Amsterdam 1619–1688 Amsterdam",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Koninck, Philips",
+    "Artist Nationality": "Dutch",
+    "Artist Begin Date": "1619",
+    "Artist End Date": "1688",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500000351",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q166379",
+    "Object Date": "1670s",
+    "Object Begin Date": 1670,
+    "Object End Date": 1679,
+    "Medium": "Oil on canvas",
+    "Dimensions": "32 3/4 x 44 5/8 in. (83.2 x 113.3 cm)",
+    "Credit Line": "Purchase, Mr. and Mrs. David T. Schiff and George T. Delacorte Jr. Gifts, special funds, and Bequest of Mary Cushing Fosburgh and other gifts and bequests, by exchange, 1980",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436831",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19905228",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Landscapes|Clouds",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300132294|http://vocab.getty.edu/page/aat/300343840",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q191163|https://www.wikidata.org/wiki/Q8074"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP146508.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 164798,
+        "role": "Artist",
+        "name": "Philips Koninck",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500000351",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q166379",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 83.2,
+          "Width": 113.3
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 6.985014,
+          "Height": 113.66523,
+          "Width": 143.51028
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Landscapes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+      },
+      {
+        "term": "Clouds",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300343840",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8074"
+      }
+    ]
+  }
+}

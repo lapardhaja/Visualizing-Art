@@ -1,0 +1,96 @@
+{
+  "object_id": 200414,
+  "excel_metadata": {
+    "Object Number": "48.187.455",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 200414,
+    "Gallery Number": NaN,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1948.0,
+    "Object Name": "Snuffbox, painting",
+    "Title": "Snuffbox with miniature of Hercules, Omphale and Cupid",
+    "Culture": "French, Paris",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16556.0,
+    "Artist Role": "Maker",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Joseph Etienne Blerzy",
+    "Artist Display Bio": "French, active 1750–1806",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Blerzy, Joseph Etienne",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1750",
+    "Artist End Date": "1806",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500524496",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q22661422",
+    "Object Date": "1789–90",
+    "Object Begin Date": 1789,
+    "Object End Date": 1790,
+    "Medium": "Gold, enamel",
+    "Dimensions": "Overall: 1 1/8 × 3 1/4 × 2 1/2 in. (2.9 × 8.3 × 6.4 cm)",
+    "Credit Line": "Bequest of Catherine D. Wentworth, 1948",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Metalwork-Gold and Platinum|Miniatures",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/200414",
+    "Object Wikidata URL": NaN,
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Cupid|Hercules",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300380105|http://vocab.getty.edu/page/ia/901000042",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q5011|https://www.wikidata.org/wiki/Q122248"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/143906.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 165560,
+        "role": "Maker",
+        "name": "Joseph Etienne Blerzy",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500524496",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q22661422",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 6.350013,
+          "Height": 2.8575058,
+          "Width": 8.255016
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Cupid",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300380105",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q5011"
+      },
+      {
+        "term": "Hercules",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000042",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q122248"
+      }
+    ]
+  }
+}

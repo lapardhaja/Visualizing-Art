@@ -1,0 +1,116 @@
+{
+  "object_id": 467783,
+  "excel_metadata": {
+    "Object Number": "41.100.211a",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 467783,
+    "Gallery Number": 544,
+    "Department": "Medieval Art",
+    "AccessionYear": 1941,
+    "Object Name": "Plaque",
+    "Title": "Plaque with the Crucifixion",
+    "Culture": "French",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 16630,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Master of the Orléans Triptych",
+    "Artist Display Bio": "French, active late 15th–early 16th century",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Master of the Orléans Triptych",
+    "Artist Nationality": "French",
+    "Artist Begin Date": 1485,
+    "Artist End Date": 1615,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500005454",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q21995246",
+    "Object Date": "16th century",
+    "Object Begin Date": 1500,
+    "Object End Date": 1599,
+    "Medium": "Painted enamel, copper",
+    "Dimensions": "Overall: 8 3/16 x 7 11/16 x 1/16 in. (20.8 x 19.5 x 0.2 cm)_x000D_\nInset: 4 13/16 x 4 1/8 in. (12.3 x 10.4 cm)",
+    "Credit Line": "Gift of George Blumenthal, 1941",
+    "Geography Type": "Made in",
+    "City": "Limoges",
+    "State": null,
+    "County": null,
+    "Country": "France",
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Enamels-Painted",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/467783",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q116276826",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Angels|Christ|Women|David",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300379004|http://vocab.getty.edu/page/ia/901000087|http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/ia/901001014",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q235113|https://www.wikidata.org/wiki/Q642420|https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q41370"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/md/original/DP267902.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/md/original/sf41-100-211as2.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 166300,
+        "role": "Artist",
+        "name": "Master of the Orléans Triptych",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500005454",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q21995246",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Other",
+        "elementDescription": "Inset",
+        "elementMeasurements": {
+          "Height": 12.3,
+          "Width": 10.4
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 20.8,
+          "Thickness": 0.2,
+          "Width": 19.5
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Angels",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379004",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q235113"
+      },
+      {
+        "term": "Christ",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+      },
+      {
+        "term": "David",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901001014",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q41370"
+      }
+    ]
+  }
+}

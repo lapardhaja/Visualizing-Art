@@ -1,0 +1,95 @@
+{
+  "object_id": 438643,
+  "excel_metadata": {
+    "Object Number": "2003.42.19",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 438643,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 2003.0,
+    "Object Name": "Painting",
+    "Title": "Cloud Study (Distant Storm)",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 12002.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Simon Denis",
+    "Artist Display Bio": "Flemish, Antwerp 1755–1813 Naples",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Denis, Simon",
+    "Artist Nationality": "Flemish",
+    "Artist Begin Date": "1755",
+    "Artist End Date": "1813",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500007133",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q3484255",
+    "Object Date": "ca. 1786–1806",
+    "Object Begin Date": 1786,
+    "Object End Date": 1806,
+    "Medium": "Oil on paper",
+    "Dimensions": "7 1/2 x 9 7/8 in. (19.1 x 25.1 cm)",
+    "Credit Line": "The Whitney Collection, Gift of Wheelock Whitney III, and Purchase, Gift of Mr. and Mrs. Charles S. McVeigh, by exchange, 2003\r\n\r\n",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/438643",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19911840",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Clouds|Sky",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300343840|http://vocab.getty.edu/page/aat/300263064",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8074|https://www.wikidata.org/wiki/Q527"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP169448.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 120020,
+        "role": "Artist",
+        "name": "Simon Denis",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500007133",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3484255",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 19.05,
+          "Width": 25.0826
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Sky",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300263064",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q527"
+      },
+      {
+        "term": "Clouds",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300343840",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8074"
+      }
+    ]
+  }
+}

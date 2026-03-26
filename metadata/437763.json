@@ -1,0 +1,117 @@
+{
+  "object_id": 437763,
+  "excel_metadata": {
+    "Object Number": "57.23",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437763,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1957.0,
+    "Object Name": "Painting",
+    "Title": "Tobias Curing His Father's Blindness",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16248.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Bernardo Strozzi",
+    "Artist Display Bio": "Italian, Genoa 1581–1644 Venice",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Strozzi, Bernardo",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1581",
+    "Artist End Date": "1644",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500115732",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q437724",
+    "Object Date": "1630–35",
+    "Object Begin Date": 1630,
+    "Object End Date": 1635,
+    "Medium": "Oil on canvas",
+    "Dimensions": "57 1/2 x 88 in. (146.1 x 223.5 cm)",
+    "Credit Line": "Purchase, Mary Wetmore Shively Bequest, in memory of her husband, Henry L. Shively, M.D., 1957",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437763",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19906080",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Women|Dogs|Angels|Fish",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/aat/300265714|http://vocab.getty.edu/page/aat/300379004|http://vocab.getty.edu/page/aat/300266085",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q144|https://www.wikidata.org/wiki/Q235113|https://www.wikidata.org/wiki/Q152"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP277247.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162487,
+        "role": "Artist",
+        "name": "Bernardo Strozzi",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115732",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q437724",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 146.1,
+          "Width": 223.5
+        }
+      },
+      {
+        "elementName": "Other",
+        "elementDescription": "Picture + Frame ",
+        "elementMeasurements": {
+          "Weight": 45.359703
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Dogs",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300265714",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q144"
+      },
+      {
+        "term": "Fish",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300266085",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q152"
+      },
+      {
+        "term": "Angels",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379004",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q235113"
+      }
+    ]
+  }
+}

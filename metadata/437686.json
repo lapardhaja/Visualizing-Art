@@ -1,0 +1,109 @@
+{
+  "object_id": 437686,
+  "excel_metadata": {
+    "Object Number": "1992.366",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437686,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1992.0,
+    "Object Name": "Painting",
+    "Title": "Rue Eugène Moussoir at Moret: Winter",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16511.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Alfred Sisley",
+    "Artist Display Bio": "British, Paris 1839–1899 Moret-sur-Loing",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Sisley, Alfred",
+    "Artist Nationality": "British",
+    "Artist Begin Date": "1839",
+    "Artist End Date": "1899",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500027485",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q175130",
+    "Object Date": "1891",
+    "Object Begin Date": 1891,
+    "Object End Date": 1891,
+    "Medium": "Oil on canvas",
+    "Dimensions": "18 3/8 x 22 1/4 in. (46.7 x 56.5 cm)",
+    "Credit Line": "Bequest of Ralph Friedman, 1992",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437686",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912604",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Streets|Winter|Snow",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300008247|http://vocab.getty.edu/page/aat/300133101|http://vocab.getty.edu/page/aat/300055381",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q79007|https://www.wikidata.org/wiki/Q1311|https://www.wikidata.org/wiki/Q7561"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-33708-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 165111,
+        "role": "Artist",
+        "name": "Alfred Sisley",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500027485",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q175130",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 46.7,
+          "Width": 56.5
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 8.255,
+          "Height": 70.4851,
+          "Width": 80.6452
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Streets",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300008247",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q79007"
+      },
+      {
+        "term": "Winter",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300133101",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q1311"
+      },
+      {
+        "term": "Snow",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300055381",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q7561"
+      }
+    ]
+  }
+}

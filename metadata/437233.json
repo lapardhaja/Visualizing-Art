@@ -1,0 +1,95 @@
+{
+  "object_id": 437233,
+  "excel_metadata": {
+    "Object Number": "29.100.198",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437233,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1929.0,
+    "Object Name": "Painting",
+    "Title": "Man with a Tankard",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16218.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": "Style of",
+    "Artist Display Name": "Adriaen van Ostade",
+    "Artist Display Bio": "Dutch, second half 17th century",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Ostade, Adriaen van",
+    "Artist Nationality": "Dutch",
+    "Artist Begin Date": "1610",
+    "Artist End Date": "1685",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500021654",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q352438",
+    "Object Date": NaN,
+    "Object Begin Date": 1650,
+    "Object End Date": 1699,
+    "Medium": "Oil on wood",
+    "Dimensions": "10 1/8 x 8 1/2 in. (25.7 x 21.6 cm)",
+    "Credit Line": "H. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437233",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19913009",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP143167.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162185,
+        "role": "Artist",
+        "name": "Style of Adriaen van Ostade",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500021654",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q352438",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 25.7,
+          "Width": 21.6
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

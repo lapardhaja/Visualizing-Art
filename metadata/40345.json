@@ -1,0 +1,95 @@
+{
+  "object_id": 40345,
+  "excel_metadata": {
+    "Object Number": "29.76",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 40345,
+    "Gallery Number": NaN,
+    "Department": "Asian Art",
+    "AccessionYear": 1929.0,
+    "Object Name": "Wall painting",
+    "Title": NaN,
+    "Culture": "China",
+    "Period": "Song dynasty (960–1279)",
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": NaN,
+    "Artist Role": NaN,
+    "Artist Prefix": NaN,
+    "Artist Display Name": NaN,
+    "Artist Display Bio": NaN,
+    "Artist Suffix": NaN,
+    "Artist Alpha Sort": NaN,
+    "Artist Nationality": NaN,
+    "Artist Begin Date": NaN,
+    "Artist End Date": NaN,
+    "Artist Gender": NaN,
+    "Artist ULAN URL": NaN,
+    "Artist Wikidata URL": NaN,
+    "Object Date": NaN,
+    "Object Begin Date": 960,
+    "Object End Date": 1279,
+    "Medium": "Fresco",
+    "Dimensions": "23 x 23 3/4 in. (58.4 x 60.3 cm)\r\n",
+    "Credit Line": "Gift of Otto Burchard, 1929",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/40345",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q78859836",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Buddhism|Bodhisattvas",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300073738|http://vocab.getty.edu/page/aat/300264360",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q748|https://www.wikidata.org/wiki/Q178149"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/as/original/29_76.JPG",
+    "additionalImages": [],
+    "constituents": null,
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 58.4,
+          "Width": 60.3
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 4.127508,
+          "Height": 68.89764,
+          "Width": 66.99264
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Buddhism",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300073738",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q748"
+      },
+      {
+        "term": "Bodhisattvas",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300264360",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q178149"
+      }
+    ]
+  }
+}

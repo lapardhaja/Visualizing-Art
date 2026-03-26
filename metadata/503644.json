@@ -1,0 +1,85 @@
+{
+  "object_id": 503644,
+  "excel_metadata": {
+    "Object Number": "89.4.745",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 503644,
+    "Gallery Number": null,
+    "Department": "Musical Instruments",
+    "AccessionYear": 1889,
+    "Object Name": "Jew's Harp",
+    "Title": "Jew's Harp",
+    "Culture": "New Zealander",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": null,
+    "Artist Role": null,
+    "Artist Prefix": null,
+    "Artist Display Name": null,
+    "Artist Display Bio": null,
+    "Artist Suffix": null,
+    "Artist Alpha Sort": null,
+    "Artist Nationality": null,
+    "Artist Begin Date": null,
+    "Artist End Date": null,
+    "Artist Gender": null,
+    "Artist ULAN URL": null,
+    "Artist Wikidata URL": null,
+    "Object Date": "19th century",
+    "Object Begin Date": 1800,
+    "Object End Date": 1899,
+    "Medium": "Bamboo, fiber.",
+    "Dimensions": "Other (Frame): 3.5 x 1 x 27.9cm (1 3/8 x 3/8 x 11in.)_x000D_\nOverall (Tongue): .9 x .2 x 22.7cm (5/16 x 1/16 x 8 15/16in.)",
+    "Credit Line": "The Crosby Brown Collection of Musical Instruments, 1889",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": "New Zealand",
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Idiophone-Plucked / Depressed",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/503644",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": null,
+    "Tags AAT URL": null,
+    "Tags Wikidata URL": null
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/mi/original/midp89.4.745.jpg",
+    "additionalImages": [],
+    "constituents": null,
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": "Tongue",
+        "elementMeasurements": {
+          "Depth": 0.2,
+          "Length": 22.7,
+          "Width": 0.85
+        }
+      },
+      {
+        "elementName": "Other",
+        "elementDescription": "Frame",
+        "elementMeasurements": {
+          "Depth": 1,
+          "Length": 27.9,
+          "Width": 3.5
+        }
+      }
+    ],
+    "tags": null
+  }
+}

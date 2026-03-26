@@ -1,0 +1,90 @@
+{
+  "object_id": 436347,
+  "excel_metadata": {
+    "Object Number": "1976.100.13",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436347,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1976.0,
+    "Object Name": "Painting",
+    "Title": "Trompe l'oeil with Palettes and Miniature",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 19150.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": "Attributed to",
+    "Artist Display Name": "Jean François de Le Motte",
+    "Artist Display Bio": "French, born before 1635–died in or after 1685",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Le Motte, Jean François de",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1635",
+    "Artist End Date": "1685",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500033945",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q30100705",
+    "Object Date": NaN,
+    "Object Begin Date": 1670,
+    "Object End Date": 1699,
+    "Medium": "Oil on canvas",
+    "Dimensions": "46 7/8 x 36 1/8 in. (119.1 x 91.8 cm)",
+    "Credit Line": "Bequest of Harry G. Sperling, 1971",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436347",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19913242",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Painting",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300054216",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q11629"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-17630-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 191503,
+        "role": "Artist",
+        "name": "Attributed to Jean François de Le Motte",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500033945",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q30100705",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 119.1,
+          "Width": 91.8
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Painting",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300054216",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q11629"
+      }
+    ]
+  }
+}

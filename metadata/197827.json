@@ -1,0 +1,100 @@
+{
+  "object_id": 197827,
+  "excel_metadata": {
+    "Object Number": "37.19.1",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 197827,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1937,
+    "Object Name": "Group",
+    "Title": "Bullbaiting",
+    "Culture": "British, Burslem, Staffordshire",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 16509,
+    "Artist Role": "Maker",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Ralph Wood the Younger",
+    "Artist Display Bio": "British, Burslem 1748–1795 Burslem",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Wood, Ralph, the Younger",
+    "Artist Nationality": "British",
+    "Artist Begin Date": 1748,
+    "Artist End Date": 1795,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500355508",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q21498211",
+    "Object Date": "ca. 1770–80",
+    "Object Begin Date": 1765,
+    "Object End Date": 1785,
+    "Medium": "Lead-glazed earthenware",
+    "Dimensions": "5 1/4 × 6 3/4 in. (13.3 × 17.1 cm)",
+    "Credit Line": "Gift of R. Thornton Wilson, 1937",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Ceramics-Pottery",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/197827",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Leaves|Bulls|Dogs",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300011892|http://vocab.getty.edu/page/aat/300250117|http://vocab.getty.edu/page/aat/300265714",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q33971|https://www.wikidata.org/wiki/Q693690|https://www.wikidata.org/wiki/Q144"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP-15624-029.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 165092,
+        "role": "Maker",
+        "name": "Ralph Wood the Younger",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500355508",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q21498211",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 13.335027,
+          "Width": 17.145035
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Bulls",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250117",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q693690"
+      },
+      {
+        "term": "Dogs",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300265714",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q144"
+      },
+      {
+        "term": "Leaves",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300011892",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q33971"
+      }
+    ]
+  }
+}

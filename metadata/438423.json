@@ -1,0 +1,105 @@
+{
+  "object_id": 438423,
+  "excel_metadata": {
+    "Object Number": "1999.532",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 438423,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1999.0,
+    "Object Name": "Painting",
+    "Title": "The Crucifixion",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16180.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Bernardo Daddi",
+    "Artist Display Bio": "Italian, Florence (?) ca. 1290–1348 Florence",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Daddi, Bernardo",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1290",
+    "Artist End Date": "1348",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500004953",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q366562",
+    "Object Date": "ca. 1325–30",
+    "Object Begin Date": 1325,
+    "Object End Date": 1330,
+    "Medium": "Tempera on wood, gold ground",
+    "Dimensions": "Overall 18 1/4 x 11 3/8 in. (46.4 x 28.9 cm); painted surface 17 1/2 x 11 3/8 in. (44.5 x 28.9 cm)",
+    "Credit Line": "Gift of Asbjorn R. Lunde, 1999",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/438423",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19913021",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Crucifixion|Christ|Saint John the Evangelist|Virgin Mary",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300404300|http://vocab.getty.edu/page/ia/901000087|http://vocab.getty.edu/page/ia/901001171|http://vocab.getty.edu/page/ia/901000032",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q3235597|https://www.wikidata.org/wiki/Q642420|https://www.wikidata.org/wiki/Q328804|https://www.wikidata.org/wiki/Q345"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT4527.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 161801,
+        "role": "Artist",
+        "name": "Bernardo Daddi",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500004953",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q366562",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 46.4,
+          "Width": 28.9
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Christ",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+      },
+      {
+        "term": "Saint John the Evangelist",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901001171",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q328804"
+      },
+      {
+        "term": "Virgin Mary",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000032",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q345"
+      },
+      {
+        "term": "Crucifixion",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300404300",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3235597"
+      }
+    ]
+  }
+}

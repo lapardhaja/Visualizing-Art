@@ -1,0 +1,104 @@
+{
+  "object_id": 488125,
+  "excel_metadata": {
+    "Object Number": "43.47.1",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 488125,
+    "Gallery Number": NaN,
+    "Department": "Modern and Contemporary Art",
+    "AccessionYear": 1943.0,
+    "Object Name": "Painting",
+    "Title": "Basin Street",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 14389.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Remo Farruggio",
+    "Artist Display Bio": "American, Palermo 1906–1981 Provincetown, Massachusetts",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Farruggio, Remo",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1906",
+    "Artist End Date": "1981",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": NaN,
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q21071061",
+    "Object Date": "1938",
+    "Object Begin Date": 1938,
+    "Object End Date": 1938,
+    "Medium": "Oil on canvas",
+    "Dimensions": "24 × 30 in. (61 × 76.2 cm)",
+    "Credit Line": "Gift of New York City W. P. A., 1943",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/488125",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19920919",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Buildings|Streets",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300004789|http://vocab.getty.edu/page/aat/300008247",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q41176|https://www.wikidata.org/wiki/Q79007"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ma/original/SF43.47.1.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 143890,
+        "role": "Artist",
+        "name": "Remo Farruggio",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q21071061",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 61,
+          "Width": 76.2
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 3.8100076,
+          "Height": 80.01016,
+          "Width": 95.25019
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Buildings",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300004789",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q41176"
+      },
+      {
+        "term": "Streets",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300008247",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q79007"
+      }
+    ]
+  }
+}

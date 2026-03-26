@@ -1,0 +1,104 @@
+{
+  "object_id": 436152,
+  "excel_metadata": {
+    "Object Number": "57.171",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436152,
+    "Gallery Number": 815.0,
+    "Department": "European Paintings",
+    "AccessionYear": 1957.0,
+    "Object Name": "Painting",
+    "Title": "Portrait of a Woman in Gray",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16182.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Edgar Degas",
+    "Artist Display Bio": "French, Paris 1834–1917 Paris",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Degas, Edgar",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1834",
+    "Artist End Date": "1917",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500115194",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q46373",
+    "Object Date": "ca. 1865",
+    "Object Begin Date": 1860,
+    "Object End Date": 1870,
+    "Medium": "Oil on canvas",
+    "Dimensions": "36 x 28 1/2 in. (91.4 x 72.4 cm)",
+    "Credit Line": "Gift of Mr. and Mrs. Edwin C. Vogel, 1957",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436152",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19911967",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Portraits|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT1912.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 161821,
+        "role": "Artist",
+        "name": "Edgar Degas",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115194",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q46373",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 13.97,
+          "Height": 117.4752,
+          "Width": 99.0602
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 91.4,
+          "Width": 72.4
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

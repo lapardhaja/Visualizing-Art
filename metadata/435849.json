@@ -1,0 +1,111 @@
+{
+  "object_id": 435849,
+  "excel_metadata": {
+    "Object Number": "49.4",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 435849,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1949.0,
+    "Object Name": "Painting",
+    "Title": "Mrs. William Astor (Caroline Webster Schermerhorn, 1831–1908)",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16334.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Carolus-Duran (Charles-Auguste-Emile Durant)",
+    "Artist Display Bio": "French, Lille 1837–1917 Paris",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Carolus-Duran, Charles-Auguste-Emile Durant",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1837",
+    "Artist End Date": "1917",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500115346",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q274901",
+    "Object Date": "1890",
+    "Object Begin Date": 1890,
+    "Object End Date": 1890,
+    "Medium": "Oil on canvas",
+    "Dimensions": "83 1/2 x 42 1/4 in. (212.1 x 107.3 cm)",
+    "Credit Line": "Gift of R. Thornton Wilson and Orme Wilson, 1949",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/435849",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912825",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Portraits|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT204990.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 163346,
+        "role": "Artist",
+        "name": "Carolus-Duran (Charles-Auguste-Emile Durant)",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115346",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q274901",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Framed",
+        "elementDescription": "Travel Frame",
+        "elementMeasurements": {
+          "Depth": 15.875031,
+          "Height": 235.90297,
+          "Width": 131.12776
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 212.09042,
+          "Width": 107.315216
+        }
+      },
+      {
+        "elementName": "Other",
+        "elementDescription": "Weight: Travel Frame with canvas and glazing",
+        "elementMeasurements": {
+          "Weight": 69.85394
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

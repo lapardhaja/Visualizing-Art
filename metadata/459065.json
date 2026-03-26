@@ -1,0 +1,90 @@
+{
+  "object_id": 459065,
+  "excel_metadata": {
+    "Object Number": "1975.1.123",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 459065,
+    "Gallery Number": 953.0,
+    "Department": "Robert Lehman Collection",
+    "AccessionYear": 1975.0,
+    "Object Name": "Painting",
+    "Title": "Virgin and Child",
+    "Culture": "Netherlandish",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16528.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Master of the Female Half-Lengths",
+    "Artist Display Bio": "Netherlandish, active ca. 1525–50",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Master of the Female Half-Lengths",
+    "Artist Nationality": "Netherlandish",
+    "Artist Begin Date": "1520",
+    "Artist End Date": "1550",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500025490",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q448285",
+    "Object Date": "ca. 1525–50",
+    "Object Begin Date": 1525,
+    "Object End Date": 1550,
+    "Medium": "Oil on wood",
+    "Dimensions": "Overall: 4 x 3 1/16 in. (10.2 x 7.8 cm); Painted Surface: 3 1/2 x 2 5/8 in. (8.9 x 6.8 cm)",
+    "Credit Line": "Robert Lehman Collection, 1975",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/459065",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20187068",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Madonna and Child",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901000052",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q9309699"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/rl/original/DT3087.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 165288,
+        "role": "Artist",
+        "name": "Master of the Female Half-Lengths",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500025490",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q448285",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 10.2,
+          "Width": 7.8
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Madonna and Child",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000052",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q9309699"
+      }
+    ]
+  }
+}

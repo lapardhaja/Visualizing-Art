@@ -1,0 +1,94 @@
+{
+  "object_id": 200870,
+  "excel_metadata": {
+    "Object Number": "50.211.180",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 200870,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1950,
+    "Object Name": "Wine glass cooler",
+    "Title": "Wine glass cooler (seau à verre)",
+    "Culture": "French, Vincennes",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 3628,
+    "Artist Role": "Manufactory",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Vincennes Manufactory",
+    "Artist Display Bio": "French, ca. 1740–1756",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Vincennes Manufactory",
+    "Artist Nationality": "French",
+    "Artist Begin Date": 1740,
+    "Artist End Date": 1756,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500055302",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q3287039",
+    "Object Date": 1754,
+    "Object Begin Date": 1754,
+    "Object End Date": 1754,
+    "Medium": "Soft-paste porcelain",
+    "Dimensions": "Height: 4 5/8 in. (11.7 cm)",
+    "Credit Line": "Gift of R. Thornton Wilson, in memory of Florence Ellsworth Wilson, 1950",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Ceramics-Porcelain",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/200870",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Birds|Flowers",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300266506|http://vocab.getty.edu/page/aat/300132399",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q5113|https://www.wikidata.org/wiki/Q506"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/148662.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 36285,
+        "role": "Manufactory",
+        "name": "Vincennes Manufactory",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500055302",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3287039",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Height",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 11.747523
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Birds",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300266506",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q5113"
+      },
+      {
+        "term": "Flowers",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132399",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q506"
+      }
+    ]
+  }
+}

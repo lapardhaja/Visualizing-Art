@@ -1,0 +1,125 @@
+{
+  "object_id": 436512,
+  "excel_metadata": {
+    "Object Number": "06.1046",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 436512,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1906.0,
+    "Object Name": "Painting, predella panel",
+    "Title": "Paradise",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16193.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Giovanni di Paolo (Giovanni di Paolo di Grazia)",
+    "Artist Display Bio": "Italian, Siena 1398–1482 Siena",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Giovanni di Paolo (Giovanni di Paolo di Grazia)",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1398",
+    "Artist End Date": "1482",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500116438",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q946420",
+    "Object Date": "1445",
+    "Object Begin Date": 1445,
+    "Object End Date": 1445,
+    "Medium": "Tempera and gold on canvas, transferred from wood",
+    "Dimensions": "18 7/16 × 16 1/16 in. (46.8 × 40.8 cm); painted surface 17 1/2 x 15 1/8 in. (44.5 x 38.4 cm)\r\n",
+    "Credit Line": "Rogers Fund, 1906",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436512",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19911510",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Saints|Gardens|Men|Women|Rabbits|Angels",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300150555|http://vocab.getty.edu/page/aat/300008090|http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/aat/300250218|http://vocab.getty.edu/page/aat/300379004",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q43115|https://www.wikidata.org/wiki/Q1107656|https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q9394|https://www.wikidata.org/wiki/Q235113"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-19297-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 161939,
+        "role": "Artist",
+        "name": "Giovanni di Paolo (Giovanni di Paolo di Grazia)",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500116438",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q946420",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 46.831345,
+          "Thickness": 1.9050038,
+          "Width": 40.798832
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 8.89,
+          "Height": 62.5476,
+          "Width": 56.5151
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Gardens",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300008090",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q1107656"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Rabbits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250218",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q9394"
+      },
+      {
+        "term": "Angels",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379004",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q235113"
+      },
+      {
+        "term": "Saints",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300150555",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q43115"
+      }
+    ]
+  }
+}

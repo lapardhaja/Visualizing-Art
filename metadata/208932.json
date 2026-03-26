@@ -1,0 +1,94 @@
+{
+  "object_id": 208932,
+  "excel_metadata": {
+    "Object Number": "79.2.587",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 208932,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1879,
+    "Object Name": "Saucer",
+    "Title": "Saucer",
+    "Culture": "Chinese, for Dutch market",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 16227,
+    "Artist Role": "Designer",
+    "Artist Prefix": "After a design by",
+    "Artist Display Name": "Cornelis Pronk",
+    "Artist Display Bio": "Dutch, Amsterdam 1691–1759 Amsterdam",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Pronk, Cornelis",
+    "Artist Nationality": "Dutch",
+    "Artist Begin Date": 1691,
+    "Artist End Date": 1759,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500010052",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q2726659",
+    "Object Date": "ca. 1736–38",
+    "Object Begin Date": 1731,
+    "Object End Date": 1743,
+    "Medium": "Hard-paste porcelain",
+    "Dimensions": "Diameter: 4 5/8 in. (11.7 cm)",
+    "Credit Line": "Purchase by subscription, 1879",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Ceramics-Porcelain-Export",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/208932",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Birds|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300266506|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q5113|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/28254.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162279,
+        "role": "Designer",
+        "name": "After a design by Cornelis Pronk",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500010052",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q2726659",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Diameter",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Diameter": 11.747523
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Birds",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300266506",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q5113"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

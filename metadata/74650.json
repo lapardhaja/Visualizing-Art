@@ -1,0 +1,108 @@
+{
+  "object_id": 74650,
+  "excel_metadata": {
+    "Object Number": "2008.359.5",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 74650,
+    "Gallery Number": NaN,
+    "Department": "Asian Art",
+    "AccessionYear": 2008.0,
+    "Object Name": "Painting",
+    "Title": NaN,
+    "Culture": "India (Pahari Hills, Guler)",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 182831135.0,
+    "Artist Role": "Artist|Artist",
+    "Artist Prefix": "Attributed to the|possibly",
+    "Artist Display Name": "Seu Family|Manaku",
+    "Artist Display Bio": " |Indian, active ca. 1725–60",
+    "Artist Suffix": " | ",
+    "Artist Alpha Sort": "Seu Family|Manaku",
+    "Artist Nationality": " |Indian",
+    "Artist Begin Date": "          |1715      ",
+    "Artist End Date": "          |1770      ",
+    "Artist Gender": "|",
+    "Artist ULAN URL": "|http://vocab.getty.edu/page/ulan/500321989",
+    "Artist Wikidata URL": "|https://www.wikidata.org/wiki/Q16611568",
+    "Object Date": "mid-18th century",
+    "Object Begin Date": 1736,
+    "Object End Date": 1770,
+    "Medium": "Ink and wash on paper",
+    "Dimensions": "Image (sight): 8 1/2 x 12 1/8 in. (21.6 x 30.8 cm)",
+    "Credit Line": "Gift of Subhash Kapoor, in memory of his parents, Smt Shashi Kanta and Shree Parshotam Ram Kapoor, 2008",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/74650",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q78710699",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Demons",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300379730",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q177413"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/as/original/DP166072.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/as/original/LC-2008_359_5_001.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 18283,
+        "role": "Artist",
+        "name": "Attributed to the Seu Family",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      },
+      {
+        "constituentID": 11350,
+        "role": "Artist",
+        "name": "possibly Manaku",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500321989",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q16611568",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 40.64008,
+          "Width": 50.800102
+        }
+      },
+      {
+        "elementName": "Image",
+        "elementDescription": "sight",
+        "elementMeasurements": {
+          "Height": 21.590044,
+          "Width": 30.797562
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Demons",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379730",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q177413"
+      }
+    ]
+  }
+}

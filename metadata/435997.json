@@ -1,0 +1,104 @@
+{
+  "object_id": 435997,
+  "excel_metadata": {
+    "Object Number": "87.15.134",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 435997,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1887.0,
+    "Object Name": "Painting",
+    "Title": "The Storm",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16354.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Pierre-Auguste Cot",
+    "Artist Display Bio": "French, Bédarieux 1837–1883 Paris",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Cot, Pierre-Auguste",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1837",
+    "Artist End Date": "1883",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500011293",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q265665",
+    "Object Date": "1880",
+    "Object Begin Date": 1880,
+    "Object End Date": 1880,
+    "Medium": "Oil on canvas",
+    "Dimensions": "92 1/4 x 61 3/4 in. (234.3 x 156.8 cm)",
+    "Credit Line": "Catharine Lorillard Wolfe Collection, Bequest of Catharine Lorillard Wolfe, 1887",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/435997",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q7766694",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT11964.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 163549,
+        "role": "Artist",
+        "name": "Pierre-Auguste Cot",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500011293",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q265665",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 234.3,
+          "Width": 156.8
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 20.955,
+          "Height": 284.4806,
+          "Width": 191.7704
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

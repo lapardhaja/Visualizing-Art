@@ -1,0 +1,106 @@
+{
+  "object_id": 11392,
+  "excel_metadata": {
+    "Object Number": "18.116",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 11392,
+    "Gallery Number": 774.0,
+    "Department": "The American Wing",
+    "AccessionYear": 1918.0,
+    "Object Name": "Painting",
+    "Title": "Roses",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16480.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "George Cochran Lambdin",
+    "Artist Display Bio": "American, Pittsburg, Pennsylvania 1830–1896 Germantown, Pennsylvania",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Lambdin, George Cochran",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1830",
+    "Artist End Date": "1896",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500026958",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q5538011",
+    "Object Date": "1878",
+    "Object Begin Date": 1878,
+    "Object End Date": 1878,
+    "Medium": "Oil on wood",
+    "Dimensions": "24 x 11 7/8 in. (61 x 30.2 cm)",
+    "Credit Line": "Gift of Mrs. Manfred P. Welcher, 1918",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/11392",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19924535",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Roses|Still Life",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300266246|http://vocab.getty.edu/page/aat/300015638",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q102231|https://www.wikidata.org/wiki/Q170571"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/ap18.116.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ad/original/APS1322.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 164807,
+        "role": "Artist",
+        "name": "George Cochran Lambdin",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500026958",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5538011",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 61,
+          "Width": 30.2
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 3.2,
+          "Height": 72.1,
+          "Width": 41.7
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Roses",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300266246",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q102231"
+      },
+      {
+        "term": "Still Life",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015638",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q170571"
+      }
+    ]
+  }
+}

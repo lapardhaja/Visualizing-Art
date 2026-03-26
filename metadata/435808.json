@@ -1,0 +1,95 @@
+{
+  "object_id": 435808,
+  "excel_metadata": {
+    "Object Number": "32.100.2",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 435808,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1932.0,
+    "Object Name": "Painting",
+    "Title": "The Brawl",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16172.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": "Copy after",
+    "Artist Display Name": "Adriaen Brouwer",
+    "Artist Display Bio": "Flemish, 17th century",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Brouwer, Adriaen",
+    "Artist Nationality": "Flemish",
+    "Artist Begin Date": "1605",
+    "Artist End Date": "1638",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500012394",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q364139",
+    "Object Date": NaN,
+    "Object Begin Date": 1600,
+    "Object End Date": 1699,
+    "Medium": "Oil on wood",
+    "Dimensions": "9 5/8 x 7 1/2 in. (24.4 x 19.1 cm)",
+    "Credit Line": "The Friedsam Collection, Bequest of Michael Friedsam, 1931",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/435808",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19913219",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Anger|Men",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300055151|http://vocab.getty.edu/page/aat/300025928",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q79871|https://www.wikidata.org/wiki/Q8441"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/ep32.100.2.bw.R.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 161725,
+        "role": "Artist",
+        "name": "Copy after Adriaen Brouwer",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500012394",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q364139",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 24.4,
+          "Width": 19.1
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Anger",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300055151",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q79871"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      }
+    ]
+  }
+}

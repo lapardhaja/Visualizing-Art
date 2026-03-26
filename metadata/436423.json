@@ -1,0 +1,114 @@
+{
+  "object_id": 436423,
+  "excel_metadata": {
+    "Object Number": "1980.411",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 436423,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1980.0,
+    "Object Name": "Painting",
+    "Title": "The Night-Hag Visiting Lapland Witches",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16544.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Henry Fuseli",
+    "Artist Display Bio": "Swiss, Zürich 1741–1825 London",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Fuseli, Henry",
+    "Artist Nationality": "Swiss",
+    "Artist Begin Date": "1741",
+    "Artist End Date": "1825",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500115235",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q122382",
+    "Object Date": "1796",
+    "Object Begin Date": 1796,
+    "Object End Date": 1796,
+    "Medium": "Oil on canvas",
+    "Dimensions": "40 x 49 3/4 in. (101.6 x 126.4 cm)",
+    "Credit Line": "Purchase, Bequest of Lillian S. Timken, by exchange, and Victor Wilbour Memorial, The Alfred N. Punnett Endowment, Marquand and Charles B. Curtis Funds, 1980",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436423",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19905322",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Children|Female Nudes|Witches|Knives",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025945|http://vocab.getty.edu/page/aat/300189568|http://vocab.getty.edu/page/aat/300252827|http://vocab.getty.edu/page/aat/300024668",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q7569|https://www.wikidata.org/wiki/Q40446|https://www.wikidata.org/wiki/Q1616828|https://www.wikidata.org/wiki/Q32489"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-26884-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 165448,
+        "role": "Artist",
+        "name": "Henry Fuseli",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115235",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q122382",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 101.6,
+          "Width": 126.4
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 10.16,
+          "Height": 120.6502,
+          "Width": 147.3203
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Knives",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300024668",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q32489"
+      },
+      {
+        "term": "Children",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025945",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q7569"
+      },
+      {
+        "term": "Female Nudes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300189568",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q40446"
+      },
+      {
+        "term": "Witches",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300252827",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q1616828"
+      }
+    ]
+  }
+}

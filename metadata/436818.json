@@ -1,0 +1,127 @@
+{
+  "object_id": 436818,
+  "excel_metadata": {
+    "Object Number": "64.65.4",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 436818,
+    "Gallery Number": 964.0,
+    "Department": "European Paintings",
+    "AccessionYear": 1964.0,
+    "Object Name": "Painting",
+    "Title": "A Musician and His Daughter",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16203.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Thomas de Keyser",
+    "Artist Display Bio": "Dutch, Amsterdam (?) 1596/97–1667 Amsterdam",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Keyser, Thomas de",
+    "Artist Nationality": "Dutch",
+    "Artist Begin Date": "1596",
+    "Artist End Date": "1667",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500009014",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q932263",
+    "Object Date": "1629",
+    "Object Begin Date": 1629,
+    "Object End Date": 1629,
+    "Medium": "Oil on wood",
+    "Dimensions": "29 1/2 x 20 3/4 in. (74.9 x 52.7 cm)",
+    "Credit Line": "Gift of Edith Neuman de Végvár, in honor of her husband, Charles Neuman de Végvár, 1964",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436818",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19905258",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Girls|Men|Musicians|Music|Portraits|Lutes",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300247581|http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300025666|http://vocab.getty.edu/page/aat/300435214|http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300042101",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q3031|https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q639669|https://www.wikidata.org/wiki/Q638|https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q180733"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP145937.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-64_65_4-2.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-64_65_4-3.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 162032,
+        "role": "Artist",
+        "name": "Thomas de Keyser",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500009014",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q932263",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 74.9,
+          "Width": 52.7
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 7.620015,
+          "Height": 111.12522,
+          "Width": 90.80518
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Girls",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300247581",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3031"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Music",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300435214",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q638"
+      },
+      {
+        "term": "Lutes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300042101",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q180733"
+      },
+      {
+        "term": "Musicians",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025666",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q639669"
+      }
+    ]
+  }
+}

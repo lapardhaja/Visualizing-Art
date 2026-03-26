@@ -1,0 +1,104 @@
+{
+  "object_id": 436835,
+  "excel_metadata": {
+    "Object Number": "21.84",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436835,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1921.0,
+    "Object Name": "Painting",
+    "Title": "The Ascension of Christ",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16480.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Hans Süss von Kulmbach",
+    "Artist Display Bio": "German, Kulmbach ca. 1480–1522 Nuremberg",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Kulmbach, Hans Süss von",
+    "Artist Nationality": "German",
+    "Artist Begin Date": "1480",
+    "Artist End Date": "1522",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500014860",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q48797",
+    "Object Date": "1513",
+    "Object Begin Date": 1513,
+    "Object End Date": 1513,
+    "Medium": "Oil on fir",
+    "Dimensions": "Overall 24 1/4 x 15 in. (61.5 x 38.1 cm); painted surface 24 1/4 x 14 1/8 in. (61.5 x 35.9 cm)",
+    "Credit Line": "Rogers Fund, 1921",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436835",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19911478",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Apostles|Christ|Virgin Mary",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300343837|http://vocab.getty.edu/page/ia/901000087|http://vocab.getty.edu/page/ia/901000032",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q43412|https://www.wikidata.org/wiki/Q642420|https://www.wikidata.org/wiki/Q345"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-17612-001.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/GermanCat41_Xray.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-21_84-2.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-21_84-3.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 164801,
+        "role": "Artist",
+        "name": "Hans Süss von Kulmbach",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500014860",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q48797",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 61.6,
+          "Width": 38.1
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Apostles",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300343837",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q43412"
+      },
+      {
+        "term": "Christ",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+      },
+      {
+        "term": "Virgin Mary",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000032",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q345"
+      }
+    ]
+  }
+}

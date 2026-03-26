@@ -1,0 +1,90 @@
+{
+  "object_id": 438415,
+  "excel_metadata": {
+    "Object Number": "41.190.40b",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 438415,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1941.0,
+    "Object Name": "Painting, lunette",
+    "Title": "God the Father",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16312.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Ambrogio Bevilacqua",
+    "Artist Display Bio": "Italian, Milan, active by 1481–at least 1512",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Bevilacqua, Ambrogio",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1481",
+    "Artist End Date": "1512",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500027178",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q1525705",
+    "Object Date": NaN,
+    "Object Begin Date": 1481,
+    "Object End Date": 1512,
+    "Medium": "Oil on wood",
+    "Dimensions": "Overall, including frame, 20 1/2 x 38 1/2 in. (52.1 x 97.8 cm)",
+    "Credit Line": "Bequest of George Blumenthal, 1941",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/438415",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19913588",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "God the Father",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901000593",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q186350"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/EP1444.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 163128,
+        "role": "Artist",
+        "name": "Ambrogio Bevilacqua",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500027178",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1525705",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 52.1,
+          "Width": 97.8
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "God the Father",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000593",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q186350"
+      }
+    ]
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "object_id": 436017,
+  "excel_metadata": {
+    "Object Number": "29.100.120",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436017,
+    "Gallery Number": 809.0,
+    "Department": "European Paintings",
+    "AccessionYear": 1929.0,
+    "Object Name": "Painting",
+    "Title": "Monsieur Suisse",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16179.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Gustave Courbet",
+    "Artist Display Bio": "French, Ornans 1819–1877 La Tour-de-Peilz",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Courbet, Gustave",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1819",
+    "Artist End Date": "1877",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500010927",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q34618",
+    "Object Date": "1861",
+    "Object Begin Date": 1861,
+    "Object End Date": 1861,
+    "Medium": "Oil on canvas",
+    "Dimensions": "23 1/4 x 19 3/8 in. (59.1 x 49.2 cm)",
+    "Credit Line": "H. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436017",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912671",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT1962.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 161790,
+        "role": "Artist",
+        "name": "Gustave Courbet",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500010927",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q34618",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 59.1,
+          "Width": 49.2
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 10.16002,
+          "Height": 88.265175,
+          "Width": 77.47015
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

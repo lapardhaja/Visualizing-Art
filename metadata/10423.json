@@ -1,0 +1,124 @@
+{
+  "object_id": 10423,
+  "excel_metadata": {
+    "Object Number": "2006.457",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 10423,
+    "Gallery Number": 758.0,
+    "Department": "The American Wing",
+    "AccessionYear": 2006.0,
+    "Object Name": "Painting",
+    "Title": "Taking the Census",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16186.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Francis William Edmonds",
+    "Artist Display Bio": "American, Hudson, New York 1806–1863 Bronxville, New York",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Edmonds, Francis William",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1806",
+    "Artist End Date": "1863",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500026117",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q3680885",
+    "Object Date": "1854",
+    "Object Begin Date": 1854,
+    "Object End Date": 1854,
+    "Medium": "Oil on canvas",
+    "Dimensions": "28 x 38 in. (71.1 x 96.5 cm)",
+    "Credit Line": "Gift of Diane, Daniel, and Mathew Wolf, in honor of John K. Howat and Lewis I. Sharp, 2006",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/10423",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20175630",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Interiors|Children|Infants|Men|Women|Writing",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300391239|http://vocab.getty.edu/page/aat/300025945|http://vocab.getty.edu/page/aat/300189561|http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/aat/300054698",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q2998430|https://www.wikidata.org/wiki/Q7569|https://www.wikidata.org/wiki/Q998|https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q37260"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DP146263.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 161860,
+        "role": "Artist",
+        "name": "Francis William Edmonds",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500026117",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3680885",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 71.1,
+          "Width": 96.5202
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 10.7,
+          "Height": 96.5,
+          "Width": 122.8
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Interiors",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300391239",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q2998430"
+      },
+      {
+        "term": "Children",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025945",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q7569"
+      },
+      {
+        "term": "Infants",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300189561",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q998"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Writing",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300054698",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q37260"
+      }
+    ]
+  }
+}

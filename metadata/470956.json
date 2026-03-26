@@ -1,0 +1,87 @@
+{
+  "object_id": 470956,
+  "excel_metadata": {
+    "Object Number": "25.120.998a, b",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 470956,
+    "Gallery Number": null,
+    "Department": "The Cloisters",
+    "AccessionYear": 1925,
+    "Object Name": "Block",
+    "Title": "Block",
+    "Culture": "Catalan",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": null,
+    "Artist Role": null,
+    "Artist Prefix": null,
+    "Artist Display Name": null,
+    "Artist Display Bio": null,
+    "Artist Suffix": null,
+    "Artist Alpha Sort": null,
+    "Artist Nationality": null,
+    "Artist Begin Date": null,
+    "Artist End Date": null,
+    "Artist Gender": null,
+    "Artist ULAN URL": null,
+    "Artist Wikidata URL": null,
+    "Object Date": "ca. 1130–40",
+    "Object Begin Date": 1123,
+    "Object End Date": 1147,
+    "Medium": "Marble",
+    "Dimensions": "a) Overall: 6 3/4 x 7 x 7 1/4 in. (17.1 x 17.8 x 18.4 cm)_x000D_\nb) Overall: 18 x 7 x 7 1/2 in. (45.7 x 17.8 x 19.1 cm)",
+    "Credit Line": "The Cloisters Collection, 1925",
+    "Geography Type": "Made in",
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": "present-day France",
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Sculpture-Architectural",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/470956",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Architecture",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300263552",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q12271"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/cl/original/LC-25_120_998b.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/cl/original/LC-25_120_998a.jpg"
+    ],
+    "constituents": null,
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 18.415037,
+          "Height": 17.145035,
+          "Width": 17.780035
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 19.050037,
+          "Height": 45.720093,
+          "Width": 17.780035
+        }
+      }
+    ],
+    "tags": null
+  }
+}

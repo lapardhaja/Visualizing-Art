@@ -1,0 +1,89 @@
+{
+  "object_id": 232200,
+  "excel_metadata": {
+    "Object Number": "2009.414.2a, b",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 232200,
+    "Gallery Number": 533,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 2009,
+    "Object Name": "Box with cover",
+    "Title": "Box with cover",
+    "Culture": "Austrian, Vienna",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 4480,
+    "Artist Role": "Maker",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Ignatz Krautauer",
+    "Artist Display Bio": "master in 1771, died 1787",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Krautauer Ignatz",
+    "Artist Nationality": " ",
+    "Artist Begin Date": 1687,
+    "Artist End Date": 1787,
+    "Artist Gender": null,
+    "Artist ULAN URL": null,
+    "Artist Wikidata URL": null,
+    "Object Date": 1777,
+    "Object Begin Date": 1777,
+    "Object End Date": 1777,
+    "Medium": "Silver",
+    "Dimensions": "Overall: 7 13/16 x 6 5/8 in. (19.8 x 16.8 cm, Weight 1790g )",
+    "Credit Line": "Gift of Alexis and Nicolas Kugel, 2009",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Metalwork-Silver",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/232200",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q116305611",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": null,
+    "Tags AAT URL": null,
+    "Tags Wikidata URL": null
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP224816.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/SF2009_414_2ab_mark1.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/SF2009_414_2ab_mark2.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/2_11r2_34J.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 44800,
+        "role": "Maker",
+        "name": "Ignatz Krautauer",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Diameter": 16.8275,
+          "Height": 19.8438,
+          "Weight": 1.79
+        }
+      }
+    ],
+    "tags": null
+  }
+}

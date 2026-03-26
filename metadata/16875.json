@@ -1,0 +1,104 @@
+{
+  "object_id": 16875,
+  "excel_metadata": {
+    "Object Number": "2003.435",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 16875,
+    "Gallery Number": 774.0,
+    "Department": "The American Wing",
+    "AccessionYear": 2003.0,
+    "Object Name": "Painting",
+    "Title": "The Brook in the Woods",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 302.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Worthington Whittredge",
+    "Artist Display Bio": "Springfield, Ohio 1820–1910 Summit, New Jersey",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Whittredge, Worthington",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1820",
+    "Artist End Date": "1910",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500017639",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q1370512",
+    "Object Date": "ca. 1885–86",
+    "Object Begin Date": 1882,
+    "Object End Date": 1886,
+    "Medium": "Oil on canvas",
+    "Dimensions": "28 x 36 in. (71.1 x 91.4 cm)",
+    "Credit Line": "Gift of Maurice J. Cotter, in memory of his mother, Muriel Josephine Cotter (1902–2003), 2003",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/16875",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20170171",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Landscapes|Forests",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300132294|http://vocab.getty.edu/page/aat/300387598",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q191163|https://www.wikidata.org/wiki/Q4421"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DT5642.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 3024,
+        "role": "Artist",
+        "name": "Worthington Whittredge",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500017639",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1370512",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 71.1,
+          "Width": 91.4
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 8.89,
+          "Height": 103.9815,
+          "Width": 126.0478
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Forests",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300387598",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q4421"
+      },
+      {
+        "term": "Landscapes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+      }
+    ]
+  }
+}

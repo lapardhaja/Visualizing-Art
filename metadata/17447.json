@@ -1,0 +1,111 @@
+{
+  "object_id": 17447,
+  "excel_metadata": {
+    "Object Number": "2002.259",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 17447,
+    "Gallery Number": 719.0,
+    "Department": "The American Wing",
+    "AccessionYear": 2002.0,
+    "Object Name": "Painting",
+    "Title": "Portrait of a Lady",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 414.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Lawrence Kilburn (or Kilbrunn)",
+    "Artist Display Bio": "1720–1775",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Kilburn, (or Kilbrunn) Lawrence",
+    "Artist Nationality": "British",
+    "Artist Begin Date": "1720",
+    "Artist End Date": "1775",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500001561",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q19874871",
+    "Object Date": "1764",
+    "Object Begin Date": 1764,
+    "Object End Date": 1764,
+    "Medium": "Oil on canvas",
+    "Dimensions": "30 x 25 in. (76.2 x 63.5 cm)",
+    "Credit Line": "Maria DeWitt Jesup Fund, 2002",
+    "Geography Type": "Made in",
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": "United States",
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/17447",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19924681",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Portraits|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DT5410.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ad/original/LC-2022_259-Label_Verso-20230731-02.jpg",
+      "https://images.metmuseum.org/CRDImages/ad/original/LC-2022_259-Label_Verso-20230731-01.jpg",
+      "https://images.metmuseum.org/CRDImages/ad/original/LC-2022_259-Overall_Verso-20240216-01.jpg",
+      "https://images.metmuseum.org/CRDImages/ad/original/LC-2022_259-Overall_Verso-20230731-02.jpg",
+      "https://images.metmuseum.org/CRDImages/ad/original/LC-2022_259-Overall_Recto-20230725-02.jpg",
+      "https://images.metmuseum.org/CRDImages/ad/original/LC-2022_259-Overall_Recto-20230725-01.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 4140,
+        "role": "Artist",
+        "name": "Lawrence Kilburn (or Kilbrunn)",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500001561",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q19874871",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 76.2002,
+          "Width": 63.5001
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 8.5725,
+          "Height": 92.3927,
+          "Width": 79.3752
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

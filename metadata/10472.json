@@ -1,0 +1,104 @@
+{
+  "object_id": 10472,
+  "excel_metadata": {
+    "Object Number": "55.118",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 10472,
+    "Gallery Number": 774.0,
+    "Department": "The American Wing",
+    "AccessionYear": 1955.0,
+    "Object Name": "Painting",
+    "Title": "Bessie Potter",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16176.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "William Merritt Chase",
+    "Artist Display Bio": "American, Williamsburg, Indiana 1849–1916 New York",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Chase, William Merritt",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1849",
+    "Artist End Date": "1916",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500115356",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q265820",
+    "Object Date": "ca. 1895",
+    "Object Begin Date": 1892,
+    "Object End Date": 1895,
+    "Medium": "Oil on canvas",
+    "Dimensions": "32 x 25 5/8 in. (81.3 x 65.1 cm)",
+    "Credit Line": "Bequest of Bessie Potter Vonnoh Keyes, 1954",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/10472",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19925457",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Portraits|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/ap55.118.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 161767,
+        "role": "Artist",
+        "name": "William Merritt Chase",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115356",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q265820",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 8.6,
+          "Height": 94.6,
+          "Width": 75.6
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 81.3,
+          "Width": 65.1
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

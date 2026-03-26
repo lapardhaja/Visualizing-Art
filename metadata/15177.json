@@ -1,0 +1,100 @@
+{
+  "object_id": 15177,
+  "excel_metadata": {
+    "Object Number": "2006.235.295",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 15177,
+    "Gallery Number": NaN,
+    "Department": "The American Wing",
+    "AccessionYear": 2006.0,
+    "Object Name": "Painting, miniature",
+    "Title": "Portrait of a Lady",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 286.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Moses B. Russell",
+    "Artist Display Bio": "ca. 1810–1884",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Russell, Moses B.",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1810",
+    "Artist End Date": "1884",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500011492",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q20981242",
+    "Object Date": NaN,
+    "Object Begin Date": 1810,
+    "Object End Date": 1884,
+    "Medium": "Watercolor on ivory",
+    "Dimensions": "4 13/16 x 3 3/4 (12.2 x 9.4 cm)",
+    "Credit Line": "Gift of Gloria Manney, 2006",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/15177",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19925159",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Portraits|Books|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300028051|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q571|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/APS6904.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 2860,
+        "role": "Artist",
+        "name": "Moses B. Russell",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500011492",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q20981242",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 12.2,
+          "Width": 9.5
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Books",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300028051",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q571"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

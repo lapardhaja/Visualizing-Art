@@ -1,0 +1,95 @@
+{
+  "object_id": 437752,
+  "excel_metadata": {
+    "Object Number": "62.122.154",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437752,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1962.0,
+    "Object Name": "Painting, miniature",
+    "Title": "Portrait of a Man",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10857.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": "Attributed to",
+    "Artist Display Name": "Theodor Friedrich Stein",
+    "Artist Display Bio": "German, active ca. 1750–88",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Stein, Theodor Friedrich",
+    "Artist Nationality": "German",
+    "Artist Begin Date": "1750",
+    "Artist End Date": "1788",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500048511",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q15432913",
+    "Object Date": NaN,
+    "Object Begin Date": 1750,
+    "Object End Date": 1788,
+    "Medium": "Ivory",
+    "Dimensions": "1 5/8 x 2 1/4 in. (41 x 62 mm)",
+    "Credit Line": "Bequest of Millie Bruhl Fredrick, 1962",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Miniatures",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437752",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19913822",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/175522.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 108576,
+        "role": "Artist",
+        "name": "Attributed to Theodor Friedrich Stein",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500048511",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q15432913",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 4.1,
+          "Width": 5.7
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

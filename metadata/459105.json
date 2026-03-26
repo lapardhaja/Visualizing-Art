@@ -1,0 +1,109 @@
+{
+  "object_id": 459105,
+  "excel_metadata": {
+    "Object Number": "1975.1.185",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 459105,
+    "Gallery Number": 957.0,
+    "Department": "Robert Lehman Collection",
+    "AccessionYear": 1975.0,
+    "Object Name": "Painting",
+    "Title": "Aretino in the Studio of Tintoretto",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16200.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Jean Auguste Dominique Ingres",
+    "Artist Display Bio": "French, Montauban 1780–1867 Paris",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Ingres, Jean Auguste Dominique",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1780",
+    "Artist End Date": "1867",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500028037",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q23380",
+    "Object Date": "1848",
+    "Object Begin Date": 1848,
+    "Object End Date": 1848,
+    "Medium": "Oil on canvas",
+    "Dimensions": "17 3/8 x 14 1/8 in",
+    "Credit Line": "Robert Lehman Collection, 1975",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/459105",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20182161",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Painting|Interiors|Artists",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300054216|http://vocab.getty.edu/page/aat/300391239|http://vocab.getty.edu/page/aat/300025103",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q11629|https://www.wikidata.org/wiki/Q2998430|https://www.wikidata.org/wiki/Q483501"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/rl/original/0185-1.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/rl/original/SLP0185.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/2003.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/ep1975.1.185.bw.R.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 162005,
+        "role": "Artist",
+        "name": "Jean Auguste Dominique Ingres",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500028037",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q23380",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 44.5,
+          "Width": 35.6
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Painting",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300054216",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q11629"
+      },
+      {
+        "term": "Interiors",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300391239",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q2998430"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Artists",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025103",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q483501"
+      }
+    ]
+  }
+}

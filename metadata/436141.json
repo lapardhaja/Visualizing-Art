@@ -1,0 +1,139 @@
+{
+  "object_id": 436141,
+  "excel_metadata": {
+    "Object Number": "29.100.184",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 436141,
+    "Gallery Number": 815.0,
+    "Department": "European Paintings",
+    "AccessionYear": 1929.0,
+    "Object Name": "Painting",
+    "Title": "The Dancing Class",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16182.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Edgar Degas",
+    "Artist Display Bio": "French, Paris 1834–1917 Paris",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Degas, Edgar",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1834",
+    "Artist End Date": "1917",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500115194",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q46373",
+    "Object Date": "ca. 1870",
+    "Object Begin Date": 1870,
+    "Object End Date": 1870,
+    "Medium": "Oil on wood",
+    "Dimensions": "7 3/4 x 10 5/8 in. (19.7 x 27 cm)",
+    "Credit Line": "H. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436141",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q7476471",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Women|Dancing|Mirrors|Dancers|Musicians|Ballet|Violins|Pianos",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/aat/300389779|http://vocab.getty.edu/page/aat/300037682|http://vocab.getty.edu/page/aat/300025653|http://vocab.getty.edu/page/aat/300025666|http://vocab.getty.edu/page/aat/300054145|http://vocab.getty.edu/page/aat/300042215|http://vocab.getty.edu/page/aat/300042909",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q43393537|https://www.wikidata.org/wiki/Q35197|https://www.wikidata.org/wiki/Q5716684|https://www.wikidata.org/wiki/Q639669|https://www.wikidata.org/wiki/Q41425|https://www.wikidata.org/wiki/Q8355|https://www.wikidata.org/wiki/Q5994"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-25445-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 161821,
+        "role": "Artist",
+        "name": "Edgar Degas",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115194",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q46373",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 19.7,
+          "Width": 27
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 5.08,
+          "Height": 33.0201,
+          "Width": 40.6401
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Dancing",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300389779",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q43393537"
+      },
+      {
+        "term": "Pianos",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300042909",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q5994"
+      },
+      {
+        "term": "Violins",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300042215",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8355"
+      },
+      {
+        "term": "Dancers",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025653",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q5716684"
+      },
+      {
+        "term": "Musicians",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025666",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q639669"
+      },
+      {
+        "term": "Mirrors",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300037682",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q35197"
+      },
+      {
+        "term": "Ballet",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300054145",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q41425"
+      }
+    ]
+  }
+}

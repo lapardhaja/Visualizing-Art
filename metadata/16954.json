@@ -1,0 +1,100 @@
+{
+  "object_id": 16954,
+  "excel_metadata": {
+    "Object Number": "2001.4",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 16954,
+    "Gallery Number": NaN,
+    "Department": "The American Wing",
+    "AccessionYear": 2001.0,
+    "Object Name": "Painting, miniature",
+    "Title": "Henry Larcom Abbot",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 390.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Washington Blanchard",
+    "Artist Display Bio": "1808–after 1849",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Blanchard, Washington",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1808",
+    "Artist End Date": "1849",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500024881",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q21647793",
+    "Object Date": "1835",
+    "Object Begin Date": 1835,
+    "Object End Date": 1835,
+    "Medium": "Watercolor on ivory",
+    "Dimensions": "3 5/8 x 2 3/4 in. (9.2 x 7 cm)",
+    "Credit Line": "Purchase, Lois and Arthur Stainman Philanthropic Fund Gift, 2001",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/16954",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19924873",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Birds|Boys|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300266506|http://vocab.getty.edu/page/aat/300247598|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q5113|https://www.wikidata.org/wiki/Q3010|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DP105590.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 3906,
+        "role": "Artist",
+        "name": "Washington Blanchard",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500024881",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q21647793",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 9.2075,
+          "Width": 6.985
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Birds",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300266506",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q5113"
+      },
+      {
+        "term": "Boys",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300247598",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3010"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

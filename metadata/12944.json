@@ -1,0 +1,98 @@
+{
+  "object_id": 12944,
+  "excel_metadata": {
+    "Object Number": "32.134.2",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 12944,
+    "Gallery Number": NaN,
+    "Department": "The American Wing",
+    "AccessionYear": 1932.0,
+    "Object Name": "Painting, miniature",
+    "Title": "Memorial Brooch",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 725.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": "Attributed to",
+    "Artist Display Name": "Anstiss Stone",
+    "Artist Display Bio": "1778–1807",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Stone, Anstiss",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1778",
+    "Artist End Date": "1807",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": NaN,
+    "Artist Wikidata URL": NaN,
+    "Object Date": "ca. 1795",
+    "Object Begin Date": 1792,
+    "Object End Date": 1795,
+    "Medium": "Watercolor and hair pigment on ivory in gold brightwork locket converted to a brooch",
+    "Dimensions": "1 5/8 x 1 1/8 in. (4.1 x 2.7 cm)",
+    "Credit Line": "Gift of Mrs. Morgan Grinnell, 1932",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/12944",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19924814",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Birds|Girls",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300266506|http://vocab.getty.edu/page/aat/300247581",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q5113|https://www.wikidata.org/wiki/Q3031"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DP-42535-001.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ad/original/ap32.134.2.jpg",
+      "https://images.metmuseum.org/CRDImages/ad/original/DP-42535-002.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 7255,
+        "role": "Artist",
+        "name": "Attributed to Anstiss Stone",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 4.1,
+          "Width": 2.9
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Birds",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300266506",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q5113"
+      },
+      {
+        "term": "Girls",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300247581",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3031"
+      }
+    ]
+  }
+}

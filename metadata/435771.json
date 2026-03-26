@@ -1,0 +1,105 @@
+{
+  "object_id": 435771,
+  "excel_metadata": {
+    "Object Number": "71.11",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 435771,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1871.0,
+    "Object Name": "Painting",
+    "Title": "The Spinner",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10744.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Quirijn van Brekelenkam",
+    "Artist Display Bio": "Dutch, Zwammerdam (?), after 1622–ca. 1669 Leiden",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Brekelenkam, Quirijn van",
+    "Artist Nationality": "Dutch",
+    "Artist Begin Date": "1622",
+    "Artist End Date": "1669",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500004118",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q2123501",
+    "Object Date": "1653",
+    "Object Begin Date": 1653,
+    "Object End Date": 1653,
+    "Medium": "Oil on wood",
+    "Dimensions": "19 x 25 1/4 in. (48.3 x 64.1 cm)",
+    "Credit Line": "Purchase, 1871",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/435771",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912470",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Interiors|Men|Women|Working",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300391239|http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/aat/300412186",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q2998430|https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q6958747"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP143193.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 107440,
+        "role": "Artist",
+        "name": "Quirijn van Brekelenkam",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500004118",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q2123501",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 48.3,
+          "Width": 64.1
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Interiors",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300391239",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q2998430"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Working",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300412186",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q6958747"
+      }
+    ]
+  }
+}

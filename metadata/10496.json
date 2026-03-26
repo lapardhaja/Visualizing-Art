@@ -1,0 +1,114 @@
+{
+  "object_id": 10496,
+  "excel_metadata": {
+    "Object Number": "15.30.63",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 10496,
+    "Gallery Number": 759.0,
+    "Department": "The American Wing",
+    "AccessionYear": 1915.0,
+    "Object Name": "Painting",
+    "Title": "The Mountain Ford",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16178.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Thomas Cole",
+    "Artist Display Bio": "American, Lancashire 1801–1848 Catskill, New York",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Cole, Thomas",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1801",
+    "Artist End Date": "1848",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500028323",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q334001",
+    "Object Date": "1846",
+    "Object Begin Date": 1846,
+    "Object End Date": 1846,
+    "Medium": "Oil on canvas",
+    "Dimensions": "28 1/4 x 40 1/16 in. (71.8 x 101.8 cm)",
+    "Credit Line": "Bequest of Maria DeWitt Jesup, from the collection of her husband, Morris K. Jesup, 1914",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/10496",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20170988",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Rivers|Mountains|Trees|Horses",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300008707|http://vocab.getty.edu/page/aat/300008795|http://vocab.getty.edu/page/aat/300132410|http://vocab.getty.edu/page/aat/300250148",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q4022|https://www.wikidata.org/wiki/Q8502|https://www.wikidata.org/wiki/Q10884|https://www.wikidata.org/wiki/Q726"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DT216681.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 161780,
+        "role": "Artist",
+        "name": "Thomas Cole",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500028323",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q334001",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 71.8,
+          "Width": 101.8
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 11,
+          "Height": 101.3,
+          "Width": 130.5
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Horses",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250148",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q726"
+      },
+      {
+        "term": "Rivers",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300008707",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q4022"
+      },
+      {
+        "term": "Mountains",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300008795",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8502"
+      },
+      {
+        "term": "Trees",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132410",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q10884"
+      }
+    ]
+  }
+}

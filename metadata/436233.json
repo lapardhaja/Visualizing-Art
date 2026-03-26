@@ -1,0 +1,95 @@
+{
+  "object_id": 436233,
+  "excel_metadata": {
+    "Object Number": "26.168.17",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436233,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1926.0,
+    "Object Name": "Painting, miniature",
+    "Title": "Portrait of a Woman, Said to Be Madame Récamier (1777–1849)",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10861.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Nicolas François Dun",
+    "Artist Display Bio": "French, Lunéville 1764–1832 Naples",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Dun, Nicolas François",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1764",
+    "Artist End Date": "1832",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500053824",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q21995260",
+    "Object Date": "ca. 1812–14",
+    "Object Begin Date": 1812,
+    "Object End Date": 1814,
+    "Medium": "Ivory",
+    "Dimensions": "Oval, 2 3/8 x 1 7/8 in. (60 x 48 mm)",
+    "Credit Line": "Bequest of Collis P. Huntington, 1900",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Miniatures",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436233",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19914092",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Portraits|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/64047.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 108619,
+        "role": "Artist",
+        "name": "Nicolas François Dun",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500053824",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q21995260",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 6,
+          "Width": 4.8
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

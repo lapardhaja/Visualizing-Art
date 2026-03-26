@@ -1,0 +1,94 @@
+{
+  "object_id": 458999,
+  "excel_metadata": {
+    "Object Number": "1975.1.59",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 458999,
+    "Gallery Number": NaN,
+    "Department": "Robert Lehman Collection",
+    "AccessionYear": 1975.0,
+    "Object Name": "Painting",
+    "Title": "Madonna and Child Enthroned",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16180.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": "Workshop of",
+    "Artist Display Name": "Bernardo Daddi",
+    "Artist Display Bio": "Italian, Florence (?) ca. 1290–1348 Florence",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Daddi, Bernardo",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1290",
+    "Artist End Date": "1348",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500004953",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q366562",
+    "Object Date": "ca. 1335–39",
+    "Object Begin Date": 1333,
+    "Object End Date": 1341,
+    "Medium": "Tempera on wood, transferred to canvas and laid down on wood, gold ground",
+    "Dimensions": "Overall: 10 1/8 × 3 3/4 in. (25.7 × 9.5 cm)",
+    "Credit Line": "Robert Lehman Collection, 1975",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/458999",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20188003",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Madonna and Child",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901000052",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q9309699"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/rl/original/DP318249.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/rl/original/DP318244.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/0023.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/ep1975.1.59.bw.R.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 161801,
+        "role": "Artist",
+        "name": "Workshop of Bernardo Daddi",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500004953",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q366562",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": "Overall",
+        "elementMeasurements": {
+          "Height": 25.7,
+          "Width": 9.5
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Madonna and Child",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000052",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q9309699"
+      }
+    ]
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "object_id": 10781,
+  "excel_metadata": {
+    "Object Number": "12.22",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 10781,
+    "Gallery Number": NaN,
+    "Department": "The American Wing",
+    "AccessionYear": 1912.0,
+    "Object Name": "Painting, miniature",
+    "Title": "Stephen Salisbury",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 257.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": "Attributed to",
+    "Artist Display Name": "Nathaniel Hancock",
+    "Artist Display Bio": "active 1785–1809",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Hancock, Nathaniel",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1785",
+    "Artist End Date": "1809",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500018930",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q21995153",
+    "Object Date": "ca. 1795",
+    "Object Begin Date": 1790,
+    "Object End Date": 1800,
+    "Medium": "Watercolor on ivory",
+    "Dimensions": "1 3/4 x 1 5/16 in. (4.4 x 3.3 cm)",
+    "Credit Line": "Rogers Fund, 1912",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/10781",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20178011",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/14618.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 2570,
+        "role": "Artist",
+        "name": "Attributed to Nathaniel Hancock",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500018930",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q21995153",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 4.4,
+          "Width": 3.3
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

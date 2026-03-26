@@ -1,0 +1,105 @@
+{
+  "object_id": 437866,
+  "excel_metadata": {
+    "Object Number": "32.100.100",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437866,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1932.0,
+    "Object Name": "Painting",
+    "Title": "Madonna and Child Enthroned with Saints Peter and Paul and Angels",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10840.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Lippo Vanni (Lippo Vanni di Giovanni)",
+    "Artist Display Bio": "Italian, Sienese, active 1341–75",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Vanni, Lippo (Lippo Vanni di Giovanni)",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1341",
+    "Artist End Date": "1375",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500031271",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q966135",
+    "Object Date": NaN,
+    "Object Begin Date": 1341,
+    "Object End Date": 1375,
+    "Medium": "Tempera on wood, gold ground",
+    "Dimensions": "Overall, with engaged frame, 13 1/8 x 8 5/8 in. (33.3 x 21.9 cm); painted surface 11 3/4 x 7 3/8 in. (29.8 x 18.7 cm)",
+    "Credit Line": "The Friedsam Collection, Bequest of Michael Friedsam, 1931",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437866",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19905343",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Madonna and Child|Saint Paul|Saint Peter|Angels",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901000052|http://vocab.getty.edu/page/ia/901001058|http://vocab.getty.edu/page/ia/901000056|http://vocab.getty.edu/page/aat/300379004",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q9309699|https://www.wikidata.org/wiki/Q9200|https://www.wikidata.org/wiki/Q33923|https://www.wikidata.org/wiki/Q235113"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/ep32.100.100.bw.R.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 108409,
+        "role": "Artist",
+        "name": "Lippo Vanni (Lippo Vanni di Giovanni)",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500031271",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q966135",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 33.3,
+          "Width": 21.9
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Angels",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379004",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q235113"
+      },
+      {
+        "term": "Madonna and Child",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000052",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q9309699"
+      },
+      {
+        "term": "Saint Paul",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901001058",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q9200"
+      },
+      {
+        "term": "Saint Peter",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000056",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q33923"
+      }
+    ]
+  }
+}

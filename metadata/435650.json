@@ -1,0 +1,113 @@
+{
+  "object_id": 435650,
+  "excel_metadata": {
+    "Object Number": "53.61.4",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 435650,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1953.0,
+    "Object Name": "Painting",
+    "Title": "Madame Philippe Panon Desbassayns de Richemont (Jeanne Eglé Mourgue, 1778–1855) and Her Son, Eugène (1800–1859)",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16283.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Marie Guillelmine Benoist",
+    "Artist Display Bio": "French, Paris 1768–1826 Paris",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Benoist, Marie Guillelmine",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1768",
+    "Artist End Date": "1826",
+    "Artist Gender": "Female",
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500017979",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q118810",
+    "Object Date": "1802",
+    "Object Begin Date": 1802,
+    "Object End Date": 1802,
+    "Medium": "Oil on canvas",
+    "Dimensions": "46 x 35 1/4 in. (116.8 x 89.5 cm)",
+    "Credit Line": "Gift of Julia A. Berwind, 1953",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/435650",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19911992",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Boys|Portraits|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300247598|http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q3010|https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-13442-001.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-53_61_4-1.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-53_61_4-2.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-53_61_4-3.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 162831,
+        "role": "Artist",
+        "name": "Marie Guillemine Benoist",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500017979",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q118810",
+        "gender": "Female"
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 116.8,
+          "Width": 89.5
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 11.43,
+          "Height": 152.4003,
+          "Width": 123.8252
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Boys",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300247598",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3010"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

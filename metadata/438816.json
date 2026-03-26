@@ -1,0 +1,112 @@
+{
+  "object_id": 438816,
+  "excel_metadata": {
+    "Object Number": "11.4",
+    "Is Highlight": true,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 438816,
+    "Gallery Number": 802.0,
+    "Department": "European Paintings",
+    "AccessionYear": 1911.0,
+    "Object Name": "Painting",
+    "Title": "The Forest in Winter at Sunset",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16234.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Théodore Rousseau",
+    "Artist Display Bio": "French, Paris 1812–1867 Barbizon",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Rousseau, Théodore",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1812",
+    "Artist End Date": "1867",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500019946",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q310025",
+    "Object Date": "ca. 1846–67",
+    "Object Begin Date": 1846,
+    "Object End Date": 1867,
+    "Medium": "Oil on canvas",
+    "Dimensions": "64 x 102 3/8 in. (162.6 x 260 cm)",
+    "Credit Line": "Gift of P. A. B. Widener, 1911",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/438816",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912312",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Forests|Winter|Evening",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300387598|http://vocab.getty.edu/page/aat/300133101|http://vocab.getty.edu/page/aat/300343633",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q4421|https://www.wikidata.org/wiki/Q1311|https://www.wikidata.org/wiki/Q7725"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-31520-001.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-11_4-fig11.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/DP247630.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 162349,
+        "role": "Artist",
+        "name": "Théodore Rousseau",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500019946",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q310025",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 20.32004,
+          "Height": 212.09042,
+          "Width": 308.61063
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 162.56032,
+          "Width": 260.03302
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Forests",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300387598",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q4421"
+      },
+      {
+        "term": "Winter",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300133101",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q1311"
+      },
+      {
+        "term": "Evening",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300343633",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q7725"
+      }
+    ]
+  }
+}

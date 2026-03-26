@@ -1,0 +1,119 @@
+{
+  "object_id": 462990,
+  "excel_metadata": {
+    "Object Number": "06.321a",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 462990,
+    "Gallery Number": 509,
+    "Department": "Medieval Art",
+    "AccessionYear": 1906,
+    "Object Name": "Panel",
+    "Title": "The Entombment",
+    "Culture": "British",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 14180,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "School of Nottingham",
+    "Artist Display Bio": "British",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "School of Nottingham",
+    "Artist Nationality": "British",
+    "Artist Begin Date": "          ",
+    "Artist End Date": "          ",
+    "Artist Gender": null,
+    "Artist ULAN URL": null,
+    "Artist Wikidata URL": null,
+    "Object Date": "15th century",
+    "Object Begin Date": 1400,
+    "Object End Date": 1499,
+    "Medium": "Alabaster",
+    "Dimensions": "Overall: 13 1/2 x 9 3/8 in. (34.3 x 23.8 cm); 12.5 lbs (5.7 kg)",
+    "Credit Line": "Rogers Fund, 1906",
+    "Geography Type": "Made in",
+    "City": "Nottingham",
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Sculpture-Stone|Sculpture-Alabaster",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/462990",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q116410278",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Entombment|Christ|Virgin Mary",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901001053|http://vocab.getty.edu/page/ia/901000087|http://vocab.getty.edu/page/ia/901000032",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q51637|https://www.wikidata.org/wiki/Q642420|https://www.wikidata.org/wiki/Q345"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/md/original/DP-18976-001.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/md/original/DP-18976-002.jpg",
+      "https://images.metmuseum.org/CRDImages/md/original/cdi06-321as1.jpg",
+      "https://images.metmuseum.org/CRDImages/md/original/cdi06-321as2.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 141806,
+        "role": "Artist",
+        "name": "School of Nottingham",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 34.2901,
+          "Weight": 5.65,
+          "Width": 23.8125
+        }
+      },
+      {
+        "elementName": "Other",
+        "elementDescription": "Object and mount weight",
+        "elementMeasurements": {
+          "Weight": 7.3
+        }
+      },
+      {
+        "elementName": "Mount",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Weight": 1.65
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Christ",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+      },
+      {
+        "term": "Virgin Mary",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000032",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q345"
+      },
+      {
+        "term": "Entombment",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901001053",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q51637"
+      }
+    ]
+  }
+}

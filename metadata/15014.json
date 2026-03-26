@@ -1,0 +1,95 @@
+{
+  "object_id": 15014,
+  "excel_metadata": {
+    "Object Number": "2006.235.283",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 15014,
+    "Gallery Number": NaN,
+    "Department": "The American Wing",
+    "AccessionYear": 2006.0,
+    "Object Name": "Painting, miniature",
+    "Title": "Portrait of a Gentleman",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 340.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Ebenezer F. Brundage",
+    "Artist Display Bio": "active 1843–1867",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Brundage, Ebenezer F.",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1805",
+    "Artist End Date": "1905",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "(not assigned)",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q22691329",
+    "Object Date": "ca. 1845",
+    "Object Begin Date": 1840,
+    "Object End Date": 1850,
+    "Medium": "Watercolor on ivory",
+    "Dimensions": "2 3/8 x 1 15/16 in. (6 x 5 cm)",
+    "Credit Line": "Fletcher Fund, 2006",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/15014",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20177250",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/APS6916.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 3407,
+        "role": "Artist",
+        "name": "Ebenezer F. Brundage",
+        "constituentULAN_URL": "(not assigned)",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q22691329",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 6,
+          "Width": 4.9
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

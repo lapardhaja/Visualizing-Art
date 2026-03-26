@@ -1,0 +1,95 @@
+{
+  "object_id": 436309,
+  "excel_metadata": {
+    "Object Number": "25.110.27",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436309,
+    "Gallery Number": 964.0,
+    "Department": "European Paintings",
+    "AccessionYear": 1925.0,
+    "Object Name": "Painting",
+    "Title": "Bearded Man with a Velvet Cap",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16188.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Govert Flinck",
+    "Artist Display Bio": "Dutch, Cleve 1615–1660 Amsterdam",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Flinck, Govert",
+    "Artist Nationality": "Dutch",
+    "Artist Begin Date": "1615",
+    "Artist End Date": "1660",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500026249",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q550401",
+    "Object Date": "1645",
+    "Object Begin Date": 1645,
+    "Object End Date": 1645,
+    "Medium": "Oil on wood",
+    "Dimensions": "23 3/4 x 20 5/8 in. (60.3 x 52.4 cm)",
+    "Credit Line": "Bequest of Collis P. Huntington, 1900",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436309",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19905325",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP136267.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 161885,
+        "role": "Artist",
+        "name": "Govert Flinck",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500026249",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q550401",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 60.3,
+          "Width": 52.4
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

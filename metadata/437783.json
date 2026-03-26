@@ -1,0 +1,95 @@
+{
+  "object_id": 437783,
+  "excel_metadata": {
+    "Object Number": "1972.145.10",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437783,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1972.0,
+    "Object Name": "Painting, miniature",
+    "Title": "Portrait of a Woman",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10865.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Mikail Ivanovich Terebenev",
+    "Artist Display Bio": "Russian, 1795–1866",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Terebenev, Mikail Ivanovich",
+    "Artist Nationality": "Russian",
+    "Artist Begin Date": "1795",
+    "Artist End Date": "1866",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500174259",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q21083963",
+    "Object Date": "ca. 1830",
+    "Object Begin Date": 1825,
+    "Object End Date": 1835,
+    "Medium": "Ivory",
+    "Dimensions": "Oval, 2 7/8 x 2 1/4 in. (72 x 57 mm)",
+    "Credit Line": "Gift of Humanities Fund Inc., 1972",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Miniatures",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437783",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19913837",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Portraits|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/209776.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 108653,
+        "role": "Artist",
+        "name": "Mikail Ivanovich Terebenev",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500174259",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q21083963",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 7.3,
+          "Width": 5.7
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "object_id": 436431,
+  "excel_metadata": {
+    "Object Number": "50.145.16",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436431,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1950.0,
+    "Object Name": "Painting",
+    "Title": "Charles Rousseau Burney (1747–1819)",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16619.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Thomas Gainsborough",
+    "Artist Display Bio": "British, Sudbury 1727–1788 London",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Gainsborough, Thomas",
+    "Artist Nationality": "British",
+    "Artist Begin Date": "1727",
+    "Artist End Date": "1788",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500115200",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q192720",
+    "Object Date": "ca. 1780",
+    "Object Begin Date": 1775,
+    "Object End Date": 1785,
+    "Medium": "Oil on canvas",
+    "Dimensions": "30 1/4 x 25 1/8 in. (76.8 x 63.8 cm)",
+    "Credit Line": "Bequest of Mary Stillman Harkness, 1950",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436431",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19913236",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP162157.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 166194,
+        "role": "Artist",
+        "name": "Thomas Gainsborough",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115200",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q192720",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 76.8,
+          "Width": 63.8
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

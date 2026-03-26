@@ -1,0 +1,115 @@
+{
+  "object_id": 437643,
+  "excel_metadata": {
+    "Object Number": "44.56",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437643,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1944.0,
+    "Object Name": "Painting",
+    "Title": "The Building of Westminster Bridge",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16618.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Samuel Scott",
+    "Artist Display Bio": "British, London ca. 1702–1772 Bath",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Scott, Samuel",
+    "Artist Nationality": "British",
+    "Artist Begin Date": "1697",
+    "Artist End Date": "1772",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500026724",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q2542057",
+    "Object Date": NaN,
+    "Object Begin Date": 1722,
+    "Object End Date": 1772,
+    "Medium": "Oil on canvas",
+    "Dimensions": "24 x 44 3/8 in. (61 x 112.7 cm)",
+    "Credit Line": "Purchase, Charles B. Curtis Fund and Joseph Pulitzer Bequest, 1944",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437643",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19906251",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Buildings|Bridges|Boats|Cathedrals|Rivers|London",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300004789|http://vocab.getty.edu/page/aat/300386855|http://vocab.getty.edu/page/aat/300178749|http://vocab.getty.edu/page/aat/300007501|http://vocab.getty.edu/page/aat/300008707|http://vocab.getty.edu/page/tgn/7011781",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q41176|https://www.wikidata.org/wiki/Q12280|https://www.wikidata.org/wiki/Q35872|https://www.wikidata.org/wiki/Q2977|https://www.wikidata.org/wiki/Q4022|https://www.wikidata.org/wiki/Q84"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP169565.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 166185,
+        "role": "Artist",
+        "name": "Samuel Scott",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500026724",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q2542057",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 61,
+          "Width": 112.7
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Buildings",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300004789",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q41176"
+      },
+      {
+        "term": "Bridges",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300386855",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q12280"
+      },
+      {
+        "term": "Cathedrals",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300007501",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q2977"
+      },
+      {
+        "term": "Rivers",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300008707",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q4022"
+      },
+      {
+        "term": "Boats",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300178749",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q35872"
+      },
+      {
+        "term": "London",
+        "AAT_URL": "http://vocab.getty.edu/page/tgn/7011781",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q84"
+      }
+    ]
+  }
+}

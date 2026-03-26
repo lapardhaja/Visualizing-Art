@@ -1,0 +1,115 @@
+{
+  "object_id": 436305,
+  "excel_metadata": {
+    "Object Number": "21.152.1",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 436305,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1921.0,
+    "Object Name": "Painting",
+    "Title": "Still Life",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16188.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Georg Flegel",
+    "Artist Display Bio": "German, Olomouc (Olmütz) 1566–1638 Frankfurt",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Flegel, Georg",
+    "Artist Nationality": "German",
+    "Artist Begin Date": "1566",
+    "Artist End Date": "1638",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500006018",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q472394",
+    "Object Date": "probably ca. 1625–30",
+    "Object Begin Date": 1625,
+    "Object End Date": 1630,
+    "Medium": "Oil on wood",
+    "Dimensions": "10 5/8 x 13 3/8 in. (27 x 34 cm)",
+    "Credit Line": "Gift of Dr. W. Bopp, 1921",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436305",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19905190",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Lemons|Still Life|Birds|Bread|Pitchers|Food",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300266423|http://vocab.getty.edu/page/aat/300015638|http://vocab.getty.edu/page/aat/300266506|http://vocab.getty.edu/page/aat/300262820|http://vocab.getty.edu/page/aat/300194765|http://vocab.getty.edu/page/aat/300254496",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q1093742|https://www.wikidata.org/wiki/Q170571|https://www.wikidata.org/wiki/Q5113|https://www.wikidata.org/wiki/Q7802|https://www.wikidata.org/wiki/Q132397|https://www.wikidata.org/wiki/Q2095"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-25893-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 161883,
+        "role": "Artist",
+        "name": "Georg Flegel",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500006018",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q472394",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 27,
+          "Width": 34
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Food",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300254496",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q2095"
+      },
+      {
+        "term": "Birds",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300266506",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q5113"
+      },
+      {
+        "term": "Bread",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300262820",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q7802"
+      },
+      {
+        "term": "Lemons",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300266423",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q1093742"
+      },
+      {
+        "term": "Still Life",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015638",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q170571"
+      },
+      {
+        "term": "Pitchers",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300194765",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q132397"
+      }
+    ]
+  }
+}

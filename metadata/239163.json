@@ -1,0 +1,104 @@
+{
+  "object_id": 239163,
+  "excel_metadata": {
+    "Object Number": "48.187.712",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 239163,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1948,
+    "Object Name": "Armchair",
+    "Title": "Armchair (part of a set of nine)",
+    "Culture": "French",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 16163,
+    "Artist Role": "Factory",
+    "Artist Prefix": "Tapestry woven at",
+    "Artist Display Name": "Aubusson",
+    "Artist Display Bio": "Manufacture Royale, est. 1665: Manufacture, ca. 1812–present day",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Aubusson",
+    "Artist Nationality": " ",
+    "Artist Begin Date": 1665,
+    "Artist End Date": 9999,
+    "Artist Gender": null,
+    "Artist ULAN URL": null,
+    "Artist Wikidata URL": null,
+    "Object Date": "mid-18th century",
+    "Object Begin Date": 1730,
+    "Object End Date": 1765,
+    "Medium": "Carved and painted walnut; Aubusson tapestry upholstery",
+    "Dimensions": "Overall: 37 7/8 × 29 1/4 × 22 in. (96.2 × 74.3 × 55.9 cm)",
+    "Credit Line": "Bequest of Catherine D. Wentworth, 1948",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Woodwork-Furniture",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/239163",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Roosters|Cats|Flowers",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300380127|http://vocab.getty.edu/page/aat/300265960|http://vocab.getty.edu/page/aat/300132399",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q2216236|https://www.wikidata.org/wiki/Q146|https://www.wikidata.org/wiki/Q506"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/ES6000.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/189261.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/147952.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 161632,
+        "role": "Factory",
+        "name": "Tapestry woven at Aubusson",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 55.88011,
+          "Height": 96.20269,
+          "Width": 74.29515
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Roosters",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300380127",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q2216236"
+      },
+      {
+        "term": "Cats",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300265960",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q146"
+      },
+      {
+        "term": "Flowers",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132399",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q506"
+      }
+    ]
+  }
+}

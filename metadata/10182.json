@@ -1,0 +1,102 @@
+{
+  "object_id": 10182,
+  "excel_metadata": {
+    "Object Number": "09.25.1",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 10182,
+    "Gallery Number": NaN,
+    "Department": "The American Wing",
+    "AccessionYear": 1909.0,
+    "Object Name": "Painting",
+    "Title": "The Pipe Dance",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 234.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Ralph Albert Blakelock",
+    "Artist Display Bio": "1847–1919",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Blakelock, Ralph Albert",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1847",
+    "Artist End Date": "1919",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500023101",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q1353482",
+    "Object Date": "ca. 1880–1900",
+    "Object Begin Date": 1877,
+    "Object End Date": 1900,
+    "Medium": "Oil on canvas",
+    "Dimensions": "48 1/2 x 72 in. (123.2 x 182.9 cm)",
+    "Credit Line": "Gift of George A. Hearn, 1909",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/10182",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19924046",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Dancing",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300389779",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q43393537"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DP-28033-001.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ad/original/ap09.25.1.jpg",
+      "https://images.metmuseum.org/CRDImages/ad/original/DP-28033-002.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 2347,
+        "role": "Artist",
+        "name": "Ralph Albert Blakelock",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500023101",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1353482",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 123.2,
+          "Width": 182.9
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 14,
+          "Height": 166.6,
+          "Width": 230.2
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Dancing",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300389779",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q43393537"
+      }
+    ]
+  }
+}

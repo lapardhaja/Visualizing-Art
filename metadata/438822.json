@@ -1,0 +1,104 @@
+{
+  "object_id": 438822,
+  "excel_metadata": {
+    "Object Number": "51.112.5",
+    "Is Highlight": true,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 438822,
+    "Gallery Number": 825.0,
+    "Department": "European Paintings",
+    "AccessionYear": 1951.0,
+    "Object Name": "Painting",
+    "Title": "The Repast of the Lion",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16511.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Henri Rousseau (le Douanier)",
+    "Artist Display Bio": "French, Laval 1844–1910 Paris",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Rousseau, Henri (le Douanier)",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1844",
+    "Artist End Date": "1910",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500115462",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q156386",
+    "Object Date": "ca. 1907",
+    "Object Begin Date": 1902,
+    "Object End Date": 1912,
+    "Medium": "Oil on canvas",
+    "Dimensions": "44 3/4 x 63 in. (113.7 x 160 cm)",
+    "Credit Line": "Bequest of Sam A. Lewisohn, 1951",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/438822",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912313",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Forests|Lions",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300387598|http://vocab.getty.edu/page/aat/300310388",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q4421|https://www.wikidata.org/wiki/Q140"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT50.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 165114,
+        "role": "Artist",
+        "name": "Henri Rousseau (le Douanier)",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115462",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q156386",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 113.6652,
+          "Width": 160.0203
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 10.16,
+          "Height": 129.5403,
+          "Width": 177.8004
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Lions",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300310388",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q140"
+      },
+      {
+        "term": "Forests",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300387598",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q4421"
+      }
+    ]
+  }
+}

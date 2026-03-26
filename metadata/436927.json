@@ -1,0 +1,124 @@
+{
+  "object_id": 436927,
+  "excel_metadata": {
+    "Object Number": "37.20.3",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": false,
+    "Object ID": 436927,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1937.0,
+    "Object Name": "Painting",
+    "Title": "Masquerade Ball at the Ritz Hotel, Paris",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16492.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Raimundo de Madrazo y Garreta",
+    "Artist Display Bio": "Spanish, Rome 1841–1920 Versailles",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Madrazo y Garreta, Raimundo de",
+    "Artist Nationality": "Spanish",
+    "Artist Begin Date": "1841",
+    "Artist End Date": "1920",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500001278",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q2506493",
+    "Object Date": "1909",
+    "Object Begin Date": 1909,
+    "Object End Date": 1909,
+    "Medium": "Oil on canvas",
+    "Dimensions": "35 x 47 in. (88.9 x 119.4 cm)",
+    "Credit Line": "Bequest of Emma T. Gary, 1934",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436927",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19913144",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Fountains|Men|Women|Dancing|Paris|Interiors",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300006179|http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/aat/300389779|http://vocab.getty.edu/page/tgn/7008038|http://vocab.getty.edu/page/aat/300391239",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q483453|https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q43393537|https://www.wikidata.org/wiki/Q90|https://www.wikidata.org/wiki/Q2998430"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-31957-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 164920,
+        "role": "Artist",
+        "name": "Raimundo de Madrazo y Garreta",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500001278",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q2506493",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 88.9,
+          "Width": 119.4
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 5.7150116,
+          "Height": 99.6952,
+          "Width": 134.62027
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Fountains",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300006179",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q483453"
+      },
+      {
+        "term": "Interiors",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300391239",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q2998430"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Dancing",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300389779",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q43393537"
+      },
+      {
+        "term": "Paris",
+        "AAT_URL": "http://vocab.getty.edu/page/tgn/7008038",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q90"
+      }
+    ]
+  }
+}

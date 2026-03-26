@@ -1,0 +1,138 @@
+{
+  "object_id": 437525,
+  "excel_metadata": {
+    "Object Number": "45.141",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 437525,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1945.0,
+    "Object Name": "Painting",
+    "Title": "The Feast of Acheloüs",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 1623507011.0,
+    "Artist Role": "Artist|Artist",
+    "Artist Prefix": " |and",
+    "Artist Display Name": "Peter Paul Rubens|Jan Brueghel the Elder",
+    "Artist Display Bio": "Flemish, Siegen 1577–1640 Antwerp|Netherlandish, Brussels 1568–1625 Antwerp",
+    "Artist Suffix": " | ",
+    "Artist Alpha Sort": "Rubens, Peter Paul|Brueghel, Jan, the Elder",
+    "Artist Nationality": "Flemish|Netherlandish",
+    "Artist Begin Date": "1577      |1568      ",
+    "Artist End Date": "1640      |1625      ",
+    "Artist Gender": "|",
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500002921|http://vocab.getty.edu/page/ulan/500007095",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q5599|https://www.wikidata.org/wiki/Q209050",
+    "Object Date": "ca. 1615",
+    "Object Begin Date": 1610,
+    "Object End Date": 1620,
+    "Medium": "Oil on wood",
+    "Dimensions": "42 1/2 x 64 1/2 in. (108 x 163.8 cm)",
+    "Credit Line": "Gift of Alvin and Irwin Untermyer, in memory of their parents, 1945",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437525",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19911692",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Banquets|Male Nudes|Female Nudes|Theseus|Dining|Food",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300247614|http://vocab.getty.edu/page/aat/300189568|http://vocab.getty.edu/page/aat/300189568|http://vocab.getty.edu/page/ia/901001063|http://vocab.getty.edu/page/aat/300379052|http://vocab.getty.edu/page/aat/300254496",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q626066|https://www.wikidata.org/wiki/Q40446|https://www.wikidata.org/wiki/Q40446|https://www.wikidata.org/wiki/Q1320718|https://www.wikidata.org/wiki/Q661199|https://www.wikidata.org/wiki/Q2095"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT1581.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162350,
+        "role": "Artist",
+        "name": "Peter Paul Rubens",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500002921",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5599",
+        "gender": ""
+      },
+      {
+        "constituentID": 70110,
+        "role": "Artist",
+        "name": "and Jan Brueghel the Elder",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500007095",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q209050",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 108,
+          "Width": 163.8
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 140.9703,
+          "Width": 198.1204
+        }
+      },
+      {
+        "elementName": "Other",
+        "elementDescription": "Picture + Frame (F.45.141)",
+        "elementMeasurements": {
+          "Weight": 58.967613
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Food",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300254496",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q2095"
+      },
+      {
+        "term": "Male Nudes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300189568",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q40446"
+      },
+      {
+        "term": "Female Nudes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300189568",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q40446"
+      },
+      {
+        "term": "Theseus",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901001063",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q1320718"
+      },
+      {
+        "term": "Dining",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379052",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q661199"
+      },
+      {
+        "term": "Banquets",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300247614",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q626066"
+      }
+    ]
+  }
+}

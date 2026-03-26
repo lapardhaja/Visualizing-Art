@@ -1,0 +1,87 @@
+{
+  "object_id": 204632,
+  "excel_metadata": {
+    "Object Number": "66.43.5",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 204632,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1966,
+    "Object Name": "Toy watch",
+    "Title": "Toy watch",
+    "Culture": "probably British, South Staffordshire, Wednesbury",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 3984,
+    "Artist Role": "Maker",
+    "Artist Prefix": " ",
+    "Artist Display Name": "John Yardley",
+    "Artist Display Bio": "British, 1770–1854",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Yardley, John",
+    "Artist Nationality": "British",
+    "Artist Begin Date": 1770,
+    "Artist End Date": 1854,
+    "Artist Gender": null,
+    "Artist ULAN URL": null,
+    "Artist Wikidata URL": null,
+    "Object Date": "early 19th century",
+    "Object Begin Date": 1800,
+    "Object End Date": 1815,
+    "Medium": "Enamel on copper",
+    "Dimensions": "Overall (with bail, confirmed): 1 7/8 × 1 7/16 × 5/8 in. (4.7 × 3.7 × 1.5 cm)",
+    "Credit Line": "Gift of Louise Knobloch, 1966",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Enamels-Painted",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/204632",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Watches|Toys",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300041615|http://vocab.getty.edu/page/aat/300211037",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q6537379|https://www.wikidata.org/wiki/Q11422"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP-14759-057.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/DP-14759-058.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 39844,
+        "role": "Maker",
+        "name": "John Yardley",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": "with bail, confirmed",
+        "elementMeasurements": {
+          "Depth": 1.524003,
+          "Height": 4.6990094,
+          "Width": 3.7084074
+        }
+      }
+    ],
+    "tags": null
+  }
+}

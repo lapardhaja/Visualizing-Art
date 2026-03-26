@@ -1,0 +1,120 @@
+{
+  "object_id": 437606,
+  "excel_metadata": {
+    "Object Number": "58.189.1",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437606,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1958.0,
+    "Object Name": "Painting, predella panel",
+    "Title": "The Massacre of the Innocents",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16237.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Sano di Pietro (Ansano di Pietro di Mencio)",
+    "Artist Display Bio": "Italian, Siena 1405–1481 Siena",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Sano di Pietro (Ansano di Pietro di Mencio)",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1405",
+    "Artist End Date": "1481",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500115558",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q1379714",
+    "Object Date": "ca. 1470",
+    "Object Begin Date": 1465,
+    "Object End Date": 1475,
+    "Medium": "Tempera on wood",
+    "Dimensions": "11 7/8 x 17 3/8 in. (30.2 x 44.1 cm)",
+    "Credit Line": "Gift of Irma N. Straus, 1958",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437606",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19913283",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Massacres|Swords|Infants|Men|Women|Soldiers|Herod",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300379188|http://vocab.getty.edu/page/aat/300037048|http://vocab.getty.edu/page/aat/300189561|http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/aat/300185678|http://vocab.getty.edu/page/ulan/500350196",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q3199915|https://www.wikidata.org/wiki/Q12791|https://www.wikidata.org/wiki/Q998|https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q4991371|https://www.wikidata.org/wiki/Q51672"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/SF 58.189.1.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162375,
+        "role": "Artist",
+        "name": "Sano di Pietro (Ansano di Pietro di Mencio)",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115558",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1379714",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 30.2,
+          "Width": 44.1
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Soldiers",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300185678",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q4991371"
+      },
+      {
+        "term": "Massacres",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379188",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3199915"
+      },
+      {
+        "term": "Swords",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300037048",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q12791"
+      },
+      {
+        "term": "Infants",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300189561",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q998"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Herod",
+        "AAT_URL": "http://vocab.getty.edu/page/ulan/500350196",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q51672"
+      }
+    ]
+  }
+}

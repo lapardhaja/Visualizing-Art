@@ -1,0 +1,95 @@
+{
+  "object_id": 436605,
+  "excel_metadata": {
+    "Object Number": "61.77",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436605,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1961.0,
+    "Object Name": "Painting, miniature",
+    "Title": "Alexandre Théodore Victor (1760–1829), Comte de Lameth",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10861.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Jean Urbain Guérin",
+    "Artist Display Bio": "French, 1761–1836",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Guérin, Jean Urbain",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1761",
+    "Artist End Date": "1836",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500031651",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q3170062",
+    "Object Date": "ca. 1789–90",
+    "Object Begin Date": 1789,
+    "Object End Date": 1790,
+    "Medium": "Ivory laid on card",
+    "Dimensions": "Diameter 3 in. (75 mm)",
+    "Credit Line": "Rogers Fund, 1961",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Miniatures",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436605",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19913938",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP327726.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 108617,
+        "role": "Artist",
+        "name": "Jean Urbain Guérin",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500031651",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3170062",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 7.6,
+          "Width": 7.6
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

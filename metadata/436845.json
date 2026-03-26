@@ -1,0 +1,110 @@
+{
+  "object_id": 436845,
+  "excel_metadata": {
+    "Object Number": "1990.75",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436845,
+    "Gallery Number": 808.0,
+    "Department": "European Paintings",
+    "AccessionYear": 1990.0,
+    "Object Name": "Painting",
+    "Title": "Copy after Rubens's \"Wolf and Fox Hunt\"",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 7152.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Sir Edwin Henry Landseer",
+    "Artist Display Bio": "British, London 1802–1873 London",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Landseer, Edwin Henry, Sir",
+    "Artist Nationality": "British",
+    "Artist Begin Date": "1802",
+    "Artist End Date": "1873",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500004856",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q328369",
+    "Object Date": "ca. 1824–26",
+    "Object Begin Date": 1824,
+    "Object End Date": 1826,
+    "Medium": "Oil on wood",
+    "Dimensions": "16 x 23 7/8 in. (40.6 x 60.6 cm)",
+    "Credit Line": "Catharine Lorillard Wolfe Collection, Wolfe Fund, 1990",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436845",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912105",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Horses|Men|Foxes|Hunting|Wolves",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300250148|http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300266520|http://vocab.getty.edu/page/aat/300239666|http://vocab.getty.edu/page/aat/300250132",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q726|https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q8331|https://www.wikidata.org/wiki/Q36963|https://www.wikidata.org/wiki/Q18498"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP164869.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 71529,
+        "role": "Artist",
+        "name": "Sir Edwin Henry Landseer",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500004856",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q328369",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 40.6,
+          "Width": 60.6
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Hunting",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300239666",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q36963"
+      },
+      {
+        "term": "Foxes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300266520",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8331"
+      },
+      {
+        "term": "Horses",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250148",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q726"
+      },
+      {
+        "term": "Wolves",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250132",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q18498"
+      }
+    ]
+  }
+}

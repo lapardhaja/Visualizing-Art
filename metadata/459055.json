@@ -1,0 +1,116 @@
+{
+  "object_id": 459055,
+  "excel_metadata": {
+    "Object Number": "1975.1.113",
+    "Is Highlight": true,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 459055,
+    "Gallery Number": 953.0,
+    "Department": "Robert Lehman Collection",
+    "AccessionYear": 1975.0,
+    "Object Name": "Painting",
+    "Title": "The Annunciation",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16211.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Hans Memling",
+    "Artist Display Bio": "Netherlandish, Seligenstadt, active by 1465–died 1494 Bruges",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Memling, Hans",
+    "Artist Nationality": "Netherlandish",
+    "Artist Begin Date": "1465",
+    "Artist End Date": "1494",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500005611",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q106851",
+    "Object Date": "1480–89",
+    "Object Begin Date": 1480,
+    "Object End Date": 1489,
+    "Medium": "Oil on panel, transferred to canvas",
+    "Dimensions": "30 1/8 x 21 1/2 in. (76.5 x 54.6 cm)",
+    "Credit Line": "Robert Lehman Collection, 1975",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/459055",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q9392232",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Angels|Virgin Mary|Bedrooms|Archangel Gabriel|Annunciation",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300379004|http://vocab.getty.edu/page/ia/901000032|http://vocab.getty.edu/page/aat/300004364|http://vocab.getty.edu/page/ia/901000493|http://vocab.getty.edu/page/aat/300412102",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q235113|https://www.wikidata.org/wiki/Q345|https://www.wikidata.org/wiki/Q193837|https://www.wikidata.org/wiki/Q81989|https://www.wikidata.org/wiki/Q154326"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/rl/original/DP-40424-001.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/rl/original/DP-40424-002.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/rl1975.1.113.R.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/DT712.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/LC-1975_1_113_Xray.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/LC-1975_1_113_IRR.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 162119,
+        "role": "Artist",
+        "name": "Hans Memling",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500005611",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q106851",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 76.5,
+          "Width": 54.6
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Bedrooms",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300004364",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q193837"
+      },
+      {
+        "term": "Angels",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379004",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q235113"
+      },
+      {
+        "term": "Virgin Mary",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000032",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q345"
+      },
+      {
+        "term": "Archangel Gabriel",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000493",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q81989"
+      },
+      {
+        "term": "Annunciation",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300412102",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q154326"
+      }
+    ]
+  }
+}

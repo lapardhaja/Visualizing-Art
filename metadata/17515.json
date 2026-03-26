@@ -1,0 +1,96 @@
+{
+  "object_id": 17515,
+  "excel_metadata": {
+    "Object Number": "2002.476.2",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 17515,
+    "Gallery Number": NaN,
+    "Department": "The American Wing",
+    "AccessionYear": 2002.0,
+    "Object Name": "Painting, miniature",
+    "Title": "Mrs. James Bleecker (Elizabeth Garland Bache)",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 282.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "John Ramage",
+    "Artist Display Bio": "Ireland ca. 1748–1802 Montreal",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Ramage, John",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1748",
+    "Artist End Date": "1802",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500116378",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q6254141",
+    "Object Date": "ca. 1788",
+    "Object Begin Date": 1783,
+    "Object End Date": 1793,
+    "Medium": "Watercolor on ivory",
+    "Dimensions": "1 7/8 x 1 5/8 in. (4.8 x 4.1 cm)",
+    "Credit Line": "Gift of James and Genevieve Bleecker, 2002",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/17515",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20176921",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Portraits|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DP217065.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ad/original/DP217064.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 2825,
+        "role": "Artist",
+        "name": "John Ramage",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500116378",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q6254141",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 4.7625
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

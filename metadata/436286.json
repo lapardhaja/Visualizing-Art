@@ -1,0 +1,102 @@
+{
+  "object_id": 436286,
+  "excel_metadata": {
+    "Object Number": "12.75",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436286,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1912.0,
+    "Object Name": "Painting",
+    "Title": "Portrait of a Man with a Moor's Head on His Signet Ring",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16358.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Conrad Faber von Creuznach",
+    "Artist Display Bio": "German, Kreuznach, active by 1524–died 1552/53 Frankfurt",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Faber von Creuznach, Conrad",
+    "Artist Nationality": "German",
+    "Artist Begin Date": "1524",
+    "Artist End Date": "1553",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500007968",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q1126773",
+    "Object Date": NaN,
+    "Object Begin Date": 1524,
+    "Object End Date": 1553,
+    "Medium": "Oil, gold, and white metal on linden",
+    "Dimensions": "20 7/8 x 14 1/8 in. (53 x 35.9 cm)",
+    "Credit Line": "John Stewart Kennedy Fund, 1912",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436286",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19911704",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Rings|Men|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300046012|http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q46847|https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP280792.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/GermanCat26_Xraynocap1.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 163580,
+        "role": "Artist",
+        "name": "Conrad Faber von Creuznach",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500007968",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1126773",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 53,
+          "Width": 35.9
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Rings",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300046012",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q46847"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

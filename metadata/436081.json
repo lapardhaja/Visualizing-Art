@@ -1,0 +1,109 @@
+{
+  "object_id": 436081,
+  "excel_metadata": {
+    "Object Number": "64.149.7",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436081,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1964.0,
+    "Object Name": "Painting",
+    "Title": "Landscape on a River",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16180.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Charles-François Daubigny",
+    "Artist Display Bio": "French, Paris 1817–1878 Paris",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Daubigny, Charles-François",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1817",
+    "Artist End Date": "1878",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500115164",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q252357",
+    "Object Date": "1863",
+    "Object Begin Date": 1863,
+    "Object End Date": 1863,
+    "Medium": "Oil on wood",
+    "Dimensions": "8 1/4 x 15 in. (21 x 38.1 cm)",
+    "Credit Line": "Gift of Mary V. T. Eberstadt, 1964",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436081",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19913208",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Villages|Rivers|Landscapes",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300008372|http://vocab.getty.edu/page/aat/300008707|http://vocab.getty.edu/page/aat/300132294",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q532|https://www.wikidata.org/wiki/Q4022|https://www.wikidata.org/wiki/Q191163"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-19584-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 161806,
+        "role": "Artist",
+        "name": "Charles-François Daubigny",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115164",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q252357",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 21,
+          "Width": 38.1
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 5.08,
+          "Height": 31.1151,
+          "Width": 48.2601
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Villages",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300008372",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q532"
+      },
+      {
+        "term": "Rivers",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300008707",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q4022"
+      },
+      {
+        "term": "Landscapes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+      }
+    ]
+  }
+}

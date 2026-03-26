@@ -1,0 +1,107 @@
+{
+  "object_id": 11587,
+  "excel_metadata": {
+    "Object Number": "09.24",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 11587,
+    "Gallery Number": NaN,
+    "Department": "The American Wing",
+    "AccessionYear": 1909.0,
+    "Object Name": "Painting",
+    "Title": "Henry Clay",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 274.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Theodore Sidney Moise",
+    "Artist Display Bio": "1808–1885",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Moise, Theodore Sidney",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1808",
+    "Artist End Date": "1885",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500020408",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q22575818",
+    "Object Date": "1843",
+    "Object Begin Date": 1843,
+    "Object End Date": 1843,
+    "Medium": "Oil on canvas",
+    "Dimensions": "51 1/16 x 39 1/2 in. (129.7 x 100.3 cm)",
+    "Credit Line": "Gift of Grace H. Dodge, 1909",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/11587",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19924527",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DP364319.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ad/original/ap09.24.jpg",
+      "https://images.metmuseum.org/CRDImages/ad/original/DP361943.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 2740,
+        "role": "Artist",
+        "name": "Theodore Sidney Moise",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500020408",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q22575818",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 129.7,
+          "Width": 100.3
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 9.8,
+          "Height": 156.8,
+          "Width": 130.8
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

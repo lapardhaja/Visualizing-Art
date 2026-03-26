@@ -1,0 +1,119 @@
+{
+  "object_id": 193844,
+  "excel_metadata": {
+    "Object Number": "17.190.1162",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 193844,
+    "Gallery Number": NaN,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1917.0,
+    "Object Name": "Snuffbox, painting",
+    "Title": "Snuffbox with scene of peasants picnicking on a riverbank near a village",
+    "Culture": "Swiss",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 3797410855.0,
+    "Artist Role": "Maker|Artist",
+    "Artist Prefix": " |Miniature attributed to",
+    "Artist Display Name": "F. J., Switzerland|Edmé Charles de Lioux de Savignac",
+    "Artist Display Bio": " |French, active ca. 1766–72",
+    "Artist Suffix": " | ",
+    "Artist Alpha Sort": "J. F.|Savignac, Edmé Charles de Lioux de",
+    "Artist Nationality": " |French",
+    "Artist Begin Date": "          |1766      ",
+    "Artist End Date": "          |1772      ",
+    "Artist Gender": "|",
+    "Artist ULAN URL": "|http://vocab.getty.edu/page/ulan/500065965",
+    "Artist Wikidata URL": "|https://www.wikidata.org/wiki/Q21857368",
+    "Object Date": "late 18th century",
+    "Object Begin Date": 1785,
+    "Object End Date": 1799,
+    "Medium": "Gold, enamel; paper",
+    "Dimensions": "Overall (box): 3 5/16 × 2 7/16 in. (8.4 × 6.2 cm);\r\nminiature, oval: 2 × 2 3/4 in. (5.1 × 7 cm)",
+    "Credit Line": "Gift of J. Pierpont Morgan, 1917",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Metalwork-Gold and Platinum|Miniatures",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/193844",
+    "Object Wikidata URL": NaN,
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Buildings|Trees|Farmers",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300004789|http://vocab.getty.edu/page/aat/300132410|http://vocab.getty.edu/page/aat/300025607",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q41176|https://www.wikidata.org/wiki/Q10884|https://www.wikidata.org/wiki/Q131512"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/39549.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/ES7313.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/212123.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 37974,
+        "role": "Maker",
+        "name": "F. J., Switzerland",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      },
+      {
+        "constituentID": 108558,
+        "role": "Artist",
+        "name": "Miniature attributed to Edmé Charles de Lioux de Savignac",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500065965",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q21857368",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": "miniature, oval",
+        "elementMeasurements": {
+          "Height": 5.08001,
+          "Width": 6.985014
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": "box",
+        "elementMeasurements": {
+          "Height": 8.413767,
+          "Width": 6.1912622
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Buildings",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300004789",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q41176"
+      },
+      {
+        "term": "Trees",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132410",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q10884"
+      },
+      {
+        "term": "Farmers",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025607",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q131512"
+      }
+    ]
+  }
+}

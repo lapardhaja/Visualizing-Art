@@ -1,0 +1,100 @@
+{
+  "object_id": 436983,
+  "excel_metadata": {
+    "Object Number": "57.54",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436983,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1957.0,
+    "Object Name": "Painting, miniature",
+    "Title": "Pierre Louis Dubus (1721–1799), Called Préville, of the Comédie-Française",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16420.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": "Attributed to",
+    "Artist Display Name": "Jean-Baptiste Massé",
+    "Artist Display Bio": "French, Paris 1687–1767 Paris",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Massé, Jean-Baptiste",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1687",
+    "Artist End Date": "1767",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500000231",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q3164270",
+    "Object Date": NaN,
+    "Object Begin Date": 1707,
+    "Object End Date": 1767,
+    "Medium": "Ivory laid on card",
+    "Dimensions": "Diameter 1 5/8 in. (42 mm)",
+    "Credit Line": "Rogers Fund, 1957",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Miniatures",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436983",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19913962",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits|Actors",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300025658",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q33999"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP292026.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 164207,
+        "role": "Artist",
+        "name": "Attributed to Jean-Baptiste Massé",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500000231",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3164270",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 4.1,
+          "Width": 4.1
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Actors",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025658",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q33999"
+      }
+    ]
+  }
+}

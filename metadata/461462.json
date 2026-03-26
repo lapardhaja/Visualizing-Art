@@ -1,0 +1,89 @@
+{
+  "object_id": 461462,
+  "excel_metadata": {
+    "Object Number": "1975.1.1395",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 461462,
+    "Gallery Number": 958,
+    "Department": "Robert Lehman Collection",
+    "AccessionYear": 1975,
+    "Object Name": "Sculpture",
+    "Title": "Satyr",
+    "Culture": null,
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 16518416517,
+    "Artist Role": "Artist|Artist",
+    "Artist Prefix": "Workshop of|Workshop of",
+    "Artist Display Name": "Desiderio da Firenze|Severo Calzetta da Ravenna",
+    "Artist Display Bio": "Italian, born Florence, active Padua, 1532–45|Italian, active by 1496, died before 1543",
+    "Artist Suffix": " |(base)",
+    "Artist Alpha Sort": "Firenze, Desiderio da|Ravenna, Severo Calzetta da",
+    "Artist Nationality": "Italian|Italian",
+    "Artist Begin Date": "1532      |1496      ",
+    "Artist End Date": "1545      |1543      ",
+    "Artist Gender": "|",
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500055007|http://vocab.getty.edu/page/ulan/500006878",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q53244339|https://www.wikidata.org/wiki/Q3958521",
+    "Object Date": "ca. 1530",
+    "Object Begin Date": 1527,
+    "Object End Date": 1533,
+    "Medium": "Copper alloy with a reddish brown patina; the base and shell with a dark brown patina.",
+    "Dimensions": "H. 25 cm.",
+    "Credit Line": "Robert Lehman Collection, 1975",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Metalwork-Bronze",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/461462",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q116280915",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Satyrs",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300379732",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q163709"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/rl/original/SF-1975-1-1395.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 165184,
+        "role": "Artist",
+        "name": "Workshop of Desiderio da Firenze",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500055007",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q53244339",
+        "gender": ""
+      },
+      {
+        "constituentID": 165173,
+        "role": "Artist",
+        "name": "Workshop of Severo Calzetta da Ravenna",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500006878",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3958521",
+        "gender": ""
+      }
+    ],
+    "measurements": null,
+    "tags": [
+      {
+        "term": "Satyrs",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379732",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q163709"
+      }
+    ]
+  }
+}

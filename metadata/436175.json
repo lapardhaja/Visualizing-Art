@@ -1,0 +1,104 @@
+{
+  "object_id": 436175,
+  "excel_metadata": {
+    "Object Number": "67.187.60",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436175,
+    "Gallery Number": 801.0,
+    "Department": "European Paintings",
+    "AccessionYear": 1967.0,
+    "Object Name": "Painting",
+    "Title": "Basket of Flowers",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16182.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Eugène Delacroix",
+    "Artist Display Bio": "French, Charenton-Saint-Maurice 1798–1863 Paris",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Delacroix, Eugène",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1798",
+    "Artist End Date": "1863",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500115509",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q33477",
+    "Object Date": "1848–49",
+    "Object Begin Date": 1848,
+    "Object End Date": 1849,
+    "Medium": "Oil on canvas",
+    "Dimensions": "42 1/4 x 56 in. (107.3 x 142.2 cm)",
+    "Credit Line": "Bequest of Miss Adelaide Milton de Groot (1876-1967), 1967",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436175",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19904813",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Still Life|Flowers",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300015638|http://vocab.getty.edu/page/aat/300132399",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q170571|https://www.wikidata.org/wiki/Q506"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-14347-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 161823,
+        "role": "Artist",
+        "name": "Eugène Delacroix",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115509",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q33477",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 107.3,
+          "Width": 142.2
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 13.335,
+          "Height": 136.2078,
+          "Width": 170.8153
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Flowers",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132399",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q506"
+      },
+      {
+        "term": "Still Life",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015638",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q170571"
+      }
+    ]
+  }
+}

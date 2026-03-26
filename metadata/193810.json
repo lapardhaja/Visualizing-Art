@@ -1,0 +1,105 @@
+{
+  "object_id": 193810,
+  "excel_metadata": {
+    "Object Number": "17.190.1120a, b",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 193810,
+    "Gallery Number": NaN,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1917.0,
+    "Object Name": "Box, painting",
+    "Title": "Box with portrait of a woman",
+    "Culture": "French, Paris",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16556.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": "Miniature by",
+    "Artist Display Name": "Jean-Baptiste Jacques Augustin",
+    "Artist Display Bio": "French, Saint-Dié 1759–1832 Paris",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Augustin, Jean-Baptiste Jacques",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1759",
+    "Artist End Date": "1832",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500023256",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q1472208",
+    "Object Date": "1775–81",
+    "Object Begin Date": 1775,
+    "Object End Date": 1781,
+    "Medium": "Tortoiseshell, gold; ivory",
+    "Dimensions": "box: 1 1/16 × 3 in. (2.7 × 7.6 cm);\r\nminiature (oval): 2 1/4 × 2 1/8 in. (5.7 × 5.4 cm)",
+    "Credit Line": "Gift of J. Pierpont Morgan, 1917",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Metalwork-Gold and Platinum|Miniatures",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/193810",
+    "Object Wikidata URL": NaN,
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Portraits|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/39707.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/212098.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 165569,
+        "role": "Artist",
+        "name": "Miniature by Jean-Baptiste Jacques Augustin",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500023256",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1472208",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": "miniature (oval)",
+        "elementMeasurements": {
+          "Height": 5.7150116,
+          "Width": 5.397511
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": "box",
+        "elementMeasurements": {
+          "Height": 2.6987555,
+          "Width": 7.620015
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

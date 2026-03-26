@@ -1,0 +1,112 @@
+{
+  "object_id": 10469,
+  "excel_metadata": {
+    "Object Number": "18.22.2",
+    "Is Highlight": true,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 10469,
+    "Gallery Number": 771.0,
+    "Department": "The American Wing",
+    "AccessionYear": 1918.0,
+    "Object Name": "Painting",
+    "Title": "James Abbott McNeill Whistler",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16176.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "William Merritt Chase",
+    "Artist Display Bio": "American, Williamsburg, Indiana 1849–1916 New York",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Chase, William Merritt",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1849",
+    "Artist End Date": "1916",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500115356",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q265820",
+    "Object Date": "1885",
+    "Object Begin Date": 1885,
+    "Object End Date": 1885,
+    "Medium": "Oil on canvas",
+    "Dimensions": "74 1/8 x 36 1/4 in. (188.3 x 92.1 cm)",
+    "Credit Line": "Bequest of William H. Walker, 1918",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/10469",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20170982",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Portraits|Men",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300025928",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q8441"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DT12058.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 161767,
+        "role": "Artist",
+        "name": "William Merritt Chase",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115356",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q265820",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Other",
+        "elementDescription": "glazing (when needed)",
+        "elementMeasurements": {
+          "Height": 188.91287,
+          "Width": 92.392685
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 9.2,
+          "Height": 204.5,
+          "Width": 108.3
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 188.3,
+          "Width": 92.1
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "object_id": 441227,
+  "excel_metadata": {
+    "Object Number": "2011.26",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 441227,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 2011.0,
+    "Object Name": "Painting",
+    "Title": "The Holy Family with the Infant Saint John the Baptist",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16222.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Perino del Vaga (Pietro Buonaccorsi)",
+    "Artist Display Bio": "Italian, Florence 1501–1547 Rome",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Perino del Vaga (Pietro Buonaccorsi)",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1501",
+    "Artist End Date": "1547",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500000030",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q918778",
+    "Object Date": "ca. 1524–26",
+    "Object Begin Date": 1524,
+    "Object End Date": 1526,
+    "Medium": "Oil on wood",
+    "Dimensions": "34 3/4 x 25 5/8 in. (88.3 x 65.1 cm)\r\n",
+    "Credit Line": "Purchase, Acquisitions Fund, Mr. and Mrs. Mark Fisch, Denise and Andrew Saul, and Friends of European Paintings Gifts, Gwynne Andrews Fund, Mr. and Mrs. J. Tomilson Hill, Jon and Barbara Landau, Charles and Jessie Price, Hester Diamond, and Fern and George Wachter Gifts, 2011\r\n\r\n",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/441227",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19911652",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Holy Family|Saint John the Baptist|Birds|Virgin Mary|Jesus|Joseph",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901001175|http://vocab.getty.edu/page/ia/901001056|http://vocab.getty.edu/page/aat/300266506|http://vocab.getty.edu/page/ia/901000032|http://vocab.getty.edu/page/ia/901000087|http://vocab.getty.edu/page/ia/901000953",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q618057|https://www.wikidata.org/wiki/Q40662|https://www.wikidata.org/wiki/Q5113|https://www.wikidata.org/wiki/Q345|https://www.wikidata.org/wiki/Q302|https://www.wikidata.org/wiki/Q128267"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP255071.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/DP245246.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/Perino X-ray.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/Perino During Cleaning.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/Perino Evidence.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 162228,
+        "role": "Artist",
+        "name": "Perino del Vaga (Pietro Buonaccorsi)",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500000030",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q918778",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 88.265175,
+          "Width": 65.08763
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 10.16002,
+          "Height": 114.93523,
+          "Width": 89.53518
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Birds",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300266506",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q5113"
+      },
+      {
+        "term": "Holy Family",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901001175",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q618057"
+      },
+      {
+        "term": "Saint John the Baptist",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901001056",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q40662"
+      },
+      {
+        "term": "Virgin Mary",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000032",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q345"
+      },
+      {
+        "term": "Jesus",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q302"
+      },
+      {
+        "term": "Joseph",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000953",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q128267"
+      }
+    ]
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "object_id": 10084,
+  "excel_metadata": {
+    "Object Number": "83.2.337",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 10084,
+    "Gallery Number": NaN,
+    "Department": "The American Wing",
+    "AccessionYear": 1883.0,
+    "Object Name": "Painting",
+    "Title": "Portrait of the Marquis de Lafayette",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 164516000000000.0,
+    "Artist Role": "Artist|Artist|Artist",
+    "Artist Prefix": " |After|After",
+    "Artist Display Name": "William P. Babcock|Jules Guerin|Louis Philibert Debucourt",
+    "Artist Display Bio": "1826–1899|American, St. Louis, Missouri 1866–1946 Neptune City, New Jersey|French, Paris 1755–1832 Paris",
+    "Artist Suffix": " | | ",
+    "Artist Alpha Sort": "Babcock, William P.|Guerin, Jules|Debucourt, Louis Philibert",
+    "Artist Nationality": "American|American|French",
+    "Artist Begin Date": "1826      |1866      |1755      ",
+    "Artist End Date": "1899      |1946      |1832      ",
+    "Artist Gender": "||",
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500006871|http://vocab.getty.edu/page/ulan/500018717|http://vocab.getty.edu/page/ulan/500015565",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q18508740|https://www.wikidata.org/wiki/Q6305870|https://www.wikidata.org/wiki/Q2091674",
+    "Object Date": "1850–80",
+    "Object Begin Date": 1850,
+    "Object End Date": 1880,
+    "Medium": "Oil on wood",
+    "Dimensions": "5 x 5 3/4 in. (12.7 x 14.6 cm)",
+    "Credit Line": "Gift of William H. Huntington, 1883",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/10084",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q79020556",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Portraits|Marquis de Lafayette|Men|Profiles",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/ulan/500354248|http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300123319",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q186652|https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q4382010"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/25684.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 1645,
+        "role": "Artist",
+        "name": "William P. Babcock",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500006871",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q18508740",
+        "gender": ""
+      },
+      {
+        "constituentID": 164341,
+        "role": "Artist",
+        "name": "After Jules Guerin",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500018717",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q6305870",
+        "gender": ""
+      },
+      {
+        "constituentID": 163875,
+        "role": "Artist",
+        "name": "After Louis Philibert Debucourt",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500015565",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q2091674",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 12.7,
+          "Width": 14.605
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Profiles",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300123319",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q4382010"
+      },
+      {
+        "term": "Marquis de Lafayette",
+        "AAT_URL": "http://vocab.getty.edu/page/ulan/500354248",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q186652"
+      }
+    ]
+  }
+}

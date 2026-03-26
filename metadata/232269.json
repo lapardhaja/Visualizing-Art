@@ -1,0 +1,87 @@
+{
+  "object_id": 232269,
+  "excel_metadata": {
+    "Object Number": "2007.196.1a–c",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 232269,
+    "Gallery Number": 511,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 2007,
+    "Object Name": "Side table",
+    "Title": "Side table (one of a pair)",
+    "Culture": "British",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 16611,
+    "Artist Role": "Designer",
+    "Artist Prefix": "After a design by",
+    "Artist Display Name": "Matthias Lock",
+    "Artist Display Bio": "British, London ca. 1710–ca. 1765 London",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Lock, Matthias",
+    "Artist Nationality": "British",
+    "Artist Begin Date": 1705,
+    "Artist End Date": 1760,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500011481",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q6791570",
+    "Object Date": "ca. 1740",
+    "Object Begin Date": 1735,
+    "Object End Date": 1745,
+    "Medium": "Carved gilded pine with modern scagliola top",
+    "Dimensions": "Overall: 33 1/2 × 73 1/2 × 35 1/4 in. (85.1 × 186.7 × 89.5 cm)",
+    "Credit Line": "Purchase, Irene Roosevelt Aitken Gift, in memory of Russell B. Aitken; several members of The Chairman's Council Gifts; Gift of J. Pierpont Morgan, Francis F. Randolph and Marion E. Cohn Foundation Gifts, and Bequest of Irwin Untermyer, by exchange; and Oscar de la Renta Ltd. Gift, 2007",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Woodwork-Furniture",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/232269",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q116306758",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": null,
+    "Tags AAT URL": null,
+    "Tags Wikidata URL": null
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP153224.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/DP157091.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 166117,
+        "role": "Designer",
+        "name": "After a design by Matthias Lock",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500011481",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q6791570",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 89.53518,
+          "Height": 85.09017,
+          "Width": 186.69037
+        }
+      }
+    ],
+    "tags": null
+  }
+}

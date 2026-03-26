@@ -1,0 +1,122 @@
+{
+  "object_id": 438952,
+  "excel_metadata": {
+    "Object Number": "2007.164.7",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 438952,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 2007.0,
+    "Object Name": "Painting",
+    "Title": "View from the Citadel Ramparts in Copenhagen by Moonlight",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16233.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Martinus Rørbye",
+    "Artist Display Bio": "Danish, Drammen 1803–1848 Copenhagen",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Rørbye, Martinus",
+    "Artist Nationality": "Danish",
+    "Artist Begin Date": "1803",
+    "Artist End Date": "1848",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500010331",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q979541",
+    "Object Date": "1839",
+    "Object Begin Date": 1839,
+    "Object End Date": 1839,
+    "Medium": "Oil on canvas",
+    "Dimensions": "11 3/8 x 9 5/8 in. (28.9 x 24.4 cm)",
+    "Credit Line": "Gift of Eugene V. Thaw, 2007",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/438952",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20168233",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Soldiers|Men|Night|Ships",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300185678|http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300133095|http://vocab.getty.edu/page/aat/300082981",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q4991371|https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q575|https://www.wikidata.org/wiki/Q11446"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-34305-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162334,
+        "role": "Artist",
+        "name": "Martinus Rørbye",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500010331",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q979541",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 28.8926,
+          "Width": 24.4475
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 4.4450088,
+          "Height": 41.910084,
+          "Width": 37.147575
+        }
+      },
+      {
+        "elementName": "Glazing",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 30.16256,
+          "Width": 25.08255
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Soldiers",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300185678",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q4991371"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Night",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300133095",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q575"
+      },
+      {
+        "term": "Ships",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300082981",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q11446"
+      }
+    ]
+  }
+}

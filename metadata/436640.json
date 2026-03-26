@@ -1,0 +1,95 @@
+{
+  "object_id": 436640,
+  "excel_metadata": {
+    "Object Number": "42.53.3",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436640,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1942.0,
+    "Object Name": "Painting, miniature",
+    "Title": "Lola Montez (1818–1861)",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 12673.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": "Attributed to",
+    "Artist Display Name": "Josef Heigel",
+    "Artist Display Bio": "German, 1780–1837",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Heigel, Josef",
+    "Artist Nationality": "German",
+    "Artist Begin Date": "1780",
+    "Artist End Date": "1837",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500025603",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q1389116",
+    "Object Date": NaN,
+    "Object Begin Date": 1800,
+    "Object End Date": 1837,
+    "Medium": "Ivory",
+    "Dimensions": "Oval, 2 1/2 x 2 1/8 in. (65 x 54 mm)",
+    "Credit Line": "Gift of Helen O. Brice, 1942",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Miniatures",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436640",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19913455",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Portraits|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/ep42.53.3.R.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 126731,
+        "role": "Artist",
+        "name": "Attributed to Josef Heigel",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500025603",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1389116",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 6.3,
+          "Width": 5.4
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "object_id": 437894,
+  "excel_metadata": {
+    "Object Number": "1983.405",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437894,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1983.0,
+    "Object Name": "Painting",
+    "Title": "Eugène Joseph Stanislas Foullon d'Ecotier (1753–1821)",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16264.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Antoine Vestier",
+    "Artist Display Bio": "French, Avallon 1740–1824 Paris",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Vestier, Antoine",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1740",
+    "Artist End Date": "1824",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500016254",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q2389104",
+    "Object Date": "1785",
+    "Object Begin Date": 1785,
+    "Object End Date": 1785,
+    "Medium": "Oil on canvas",
+    "Dimensions": "Oval, 31 5/8 x 25 1/8 in. (80.3 x 63.8 cm)",
+    "Credit Line": "Gift of Mr. and Mrs. Charles Wrightsman, 1983",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437894",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912544",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-13041-001.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/DT7543.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-1983_405-2.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-1983_405-3.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 162640,
+        "role": "Artist",
+        "name": "Antoine Vestier",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500016254",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q2389104",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 80.3,
+          "Width": 63.8
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

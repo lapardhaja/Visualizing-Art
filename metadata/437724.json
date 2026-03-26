@@ -1,0 +1,102 @@
+{
+  "object_id": 437724,
+  "excel_metadata": {
+    "Object Number": "32.100.105",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437724,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1932.0,
+    "Object Name": "Painting",
+    "Title": "Virgin and Child Enthroned with Saints Catherine and Jerome",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10991.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Spanish Painter",
+    "Artist Display Bio": "mid-15th century",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Spanish Painter",
+    "Artist Nationality": "Spanish",
+    "Artist Begin Date": "          ",
+    "Artist End Date": "          ",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": NaN,
+    "Artist Wikidata URL": NaN,
+    "Object Date": NaN,
+    "Object Begin Date": 1430,
+    "Object End Date": 1469,
+    "Medium": "Tempera, oil, and gold on wood",
+    "Dimensions": "20 3/8 x 13 3/4 in. (51.8 x 34.9 cm)",
+    "Credit Line": "The Friedsam Collection, Bequest of Michael Friedsam, 1931",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437724",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912265",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Madonna and Child|Saint Catherine|Saint Jerome",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901000052| |http://vocab.getty.edu/page/ulan/500060933",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q9309699| |https://www.wikidata.org/wiki/Q44248"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-24005-001.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/EP31.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 109914,
+        "role": "Artist",
+        "name": "Spanish Painter",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 51.8,
+          "Width": 34.9
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Madonna and Child",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000052",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q9309699"
+      },
+      {
+        "term": "Saint Catherine",
+        "AAT_URL": null,
+        "Wikidata_URL": null
+      },
+      {
+        "term": "Saint Jerome",
+        "AAT_URL": "http://vocab.getty.edu/page/ulan/500060933",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q44248"
+      }
+    ]
+  }
+}

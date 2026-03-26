@@ -1,0 +1,95 @@
+{
+  "object_id": 436612,
+  "excel_metadata": {
+    "Object Number": "26.168.45",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436612,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1926.0,
+    "Object Name": "Painting, miniature",
+    "Title": "Portrait of a Young Woman",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10854.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Peter Adolf Hall",
+    "Artist Display Bio": "Swedish, 1739–1793",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Hall, Peter Adolf",
+    "Artist Nationality": "Swedish",
+    "Artist Begin Date": "1739",
+    "Artist End Date": "1793",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500004652",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q2747886",
+    "Object Date": "ca. 1790",
+    "Object Begin Date": 1785,
+    "Object End Date": 1795,
+    "Medium": "Ivory",
+    "Dimensions": "Oval, 2 3/4 x 2 1/8 in. (70 x 55 mm)",
+    "Credit Line": "Bequest of Collis P. Huntington, 1900",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Miniatures",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436612",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19913915",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Portraits|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/64075.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 108546,
+        "role": "Artist",
+        "name": "Peter Adolf Hall",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500004652",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q2747886",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 7,
+          "Width": 5.4
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

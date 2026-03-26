@@ -1,0 +1,102 @@
+{
+  "object_id": 436967,
+  "excel_metadata": {
+    "Object Number": "14.40.643",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436967,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1914.0,
+    "Object Name": "Painting",
+    "Title": "The Holy Family with Saint Mary Magdalen",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16209.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Andrea Mantegna",
+    "Artist Display Bio": "Italian, Isola di Carturo 1430/31–1506 Mantua",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Mantegna, Andrea",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1430",
+    "Artist End Date": "1506",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500004218",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q5681",
+    "Object Date": "ca. 1495–1500",
+    "Object Begin Date": 1495,
+    "Object End Date": 1500,
+    "Medium": "Distemper on canvas",
+    "Dimensions": "22 1/2 x 18 in. (57.2 x 45.7 cm)",
+    "Credit Line": "Bequest of Benjamin Altman, 1913",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436967",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q3842383",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Holy Family|Mary Magdalene|Jesus",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901001175|http://vocab.getty.edu/page/ia/901000161|http://vocab.getty.edu/page/ia/901000087",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q618057|https://www.wikidata.org/wiki/Q63070|https://www.wikidata.org/wiki/Q302"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP213852.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-14_40_643-3.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 162096,
+        "role": "Artist",
+        "name": "Andrea Mantegna",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500004218",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5681",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 57.2,
+          "Width": 45.7
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Holy Family",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901001175",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q618057"
+      },
+      {
+        "term": "Mary Magdalene",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000161",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q63070"
+      },
+      {
+        "term": "Jesus",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q302"
+      }
+    ]
+  }
+}

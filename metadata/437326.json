@@ -1,0 +1,112 @@
+{
+  "object_id": 437326,
+  "excel_metadata": {
+    "Object Number": "24.45.1",
+    "Is Highlight": true,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 437326,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1924.0,
+    "Object Name": "Painting",
+    "Title": "Blind Orion Searching for the Rising Sun",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16227.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Nicolas Poussin",
+    "Artist Display Bio": "French, Les Andelys 1594–1665 Rome",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Poussin, Nicolas",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1594",
+    "Artist End Date": "1665",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500005036",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q41554",
+    "Object Date": "1658",
+    "Object Begin Date": 1658,
+    "Object End Date": 1658,
+    "Medium": "Oil on canvas",
+    "Dimensions": "46 7/8 x 72 in. (119.1 x 182.9 cm)",
+    "Credit Line": "Fletcher Fund, 1924",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437326",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19911450",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Orion|Diana|Landscapes",
+    "Tags AAT URL": " |http://vocab.getty.edu/page/ia/901000118|http://vocab.getty.edu/page/aat/300132294",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q201261|https://www.wikidata.org/wiki/Q132543|https://www.wikidata.org/wiki/Q191163"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP148490.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-24_45_1-2.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-24_45_1-3.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 162270,
+        "role": "Artist",
+        "name": "Nicolas Poussin",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500005036",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q41554",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 119.1,
+          "Width": 182.9
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 13.97,
+          "Height": 148.5903,
+          "Width": 210.8204
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Orion",
+        "AAT_URL": null,
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q201261"
+      },
+      {
+        "term": "Diana",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000118",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q132543"
+      },
+      {
+        "term": "Landscapes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+      }
+    ]
+  }
+}

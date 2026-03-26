@@ -1,0 +1,92 @@
+{
+  "object_id": 202255,
+  "excel_metadata": {
+    "Object Number": 59.6,
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 202255,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1959,
+    "Object Name": "Statue",
+    "Title": "Magus",
+    "Culture": "Spanish, Castilian",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 3660,
+    "Artist Role": "Artist",
+    "Artist Prefix": "Master Close to",
+    "Artist Display Name": "Francisco Giralte",
+    "Artist Display Bio": "ca. 1500–1576",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "GIRALTE FRANCISCO",
+    "Artist Nationality": " ",
+    "Artist Begin Date": 1500,
+    "Artist End Date": 1576,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500036414",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q1441978",
+    "Object Date": "mid-16th century",
+    "Object Begin Date": 1530,
+    "Object End Date": 1565,
+    "Medium": "Wood, carved, painted and gilded",
+    "Dimensions": "Height: 38 3/4 in. (98.4 cm)",
+    "Credit Line": "Rogers Fund, 1959",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Sculpture",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/202255",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/167819.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/167820.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/167821.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 36609,
+        "role": "Artist",
+        "name": "Master Close to Francisco Giralte",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500036414",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1441978",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Height",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 98.42519
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      }
+    ]
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "object_id": 208804,
+  "excel_metadata": {
+    "Object Number": "X.234",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 208804,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": null,
+    "Object Name": "Intaglio",
+    "Title": "Intaglio",
+    "Culture": "British, Etruria, Staffordshire",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 16605,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Josiah Wedgwood",
+    "Artist Display Bio": "British, Burslem, Stoke-on-Trent 1730–1795 Burslem, Stoke-on-Trent",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Wedgwood, Josiah",
+    "Artist Nationality": "British",
+    "Artist Begin Date": 1730,
+    "Artist End Date": 1795,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500062605",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q319331",
+    "Object Date": "18th century",
+    "Object Begin Date": 1700,
+    "Object End Date": 1799,
+    "Medium": "Black basalt ware",
+    "Dimensions": "Height: 1 in. (2.5 cm)",
+    "Credit Line": "Museum Accession",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Ceramics-Pottery",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/208804",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": null,
+    "Tags AAT URL": null,
+    "Tags Wikidata URL": null
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP-15822-191.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 166051,
+        "role": "Artist",
+        "name": "Josiah Wedgwood",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500062605",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q319331",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Height",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 2.540005
+        }
+      }
+    ],
+    "tags": null
+  }
+}

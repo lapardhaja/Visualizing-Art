@@ -1,0 +1,100 @@
+{
+  "object_id": 208176,
+  "excel_metadata": {
+    "Object Number": 1994.73,
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 208176,
+    "Gallery Number": 544,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1994,
+    "Object Name": "Plaque",
+    "Title": "Henri II, King of France",
+    "Culture": "French, Limoges",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 3429,
+    "Artist Role": "Enameler",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Léonard Limosin",
+    "Artist Display Bio": "ca. 1505–1575/1577",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "LIMOSIN LÉONARD",
+    "Artist Nationality": " ",
+    "Artist Begin Date": 1505,
+    "Artist End Date": 1577,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500019824",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q1879480",
+    "Object Date": "probably ca. 1555–60",
+    "Object Begin Date": 1550,
+    "Object End Date": 1565,
+    "Medium": "Enamel on copper, partly gilt",
+    "Dimensions": "3 1/2 x 2 11/16 in. (8.9 x 6.8 cm)",
+    "Credit Line": "Purchase, Rogers Fund, and Ruth Blumka Gift, in honor of Kimberly Nasatir, 1994",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Enamels",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/208176",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q116308169",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Kings|Men|Profiles",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025481|http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300123319",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q12097|https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q4382010"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DT3677.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 34297,
+        "role": "Enameler",
+        "name": "Léonard Limosin",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500019824",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1879480",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 8.9,
+          "Width": 6.8
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Kings",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025481",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q12097"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Profiles",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300123319",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q4382010"
+      }
+    ]
+  }
+}

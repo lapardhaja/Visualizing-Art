@@ -1,0 +1,128 @@
+{
+  "object_id": 446044,
+  "excel_metadata": {
+    "Object Number": "10.130.1138a–d",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 446044,
+    "Gallery Number": null,
+    "Department": "Islamic Art",
+    "AccessionYear": 1910,
+    "Object Name": "Amulet",
+    "Title": "Amulet",
+    "Culture": null,
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": null,
+    "Artist Role": null,
+    "Artist Prefix": null,
+    "Artist Display Name": null,
+    "Artist Display Bio": null,
+    "Artist Suffix": null,
+    "Artist Alpha Sort": null,
+    "Artist Nationality": null,
+    "Artist Begin Date": null,
+    "Artist End Date": null,
+    "Artist Gender": null,
+    "Artist ULAN URL": null,
+    "Artist Wikidata URL": null,
+    "Object Date": "possibly 19th century",
+    "Object Begin Date": 1800,
+    "Object End Date": 1899,
+    "Medium": "Mother of pearl",
+    "Dimensions": "A:_x000D_\n  H. 11/16 in. (1.7 cm)_x000D_\n  W. 7/8 in. (2.2 cm)_x000D_\n  D. 1/16 in. (0.2 cm)_x000D_\n  Wt. 0.06 oz. (1.7 g)_x000D_\nB: _x000D_\n  H. 1 3/16 in. (3 cm)_x000D_\n  W. 7/8 in. (2.2 cm)_x000D_\n  D. 1/8 in. (0.3 cm)_x000D_\n  Wt. 0.12 oz. (3.4 g)_x000D_\nC: _x000D_\n  H. 1 3/16 in. (3 cm)_x000D_\n  W. 13/16 in. (2.1 cm)_x000D_\n  D. 1/16 in. (0.2 cm)_x000D_\n  Wt. 0.07 oz. (2 g)_x000D_\nD: _x000D_\n  H. 1 1/4 in. (3.2 cm)_x000D_\n  W. 13/16 in. (2.1 cm)_x000D_\n  D. 1/8 in. (0.3 cm)_x000D_\n  Wt. 0.12 oz. (3.4 g)",
+    "Credit Line": "Gift of Helen Miller Gould, 1910",
+    "Geography Type": "Attributed to",
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": "Egypt",
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Jewelry",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/446044",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Amulets|Christ|Virgin Mary",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300266585|http://vocab.getty.edu/page/ia/901000087|http://vocab.getty.edu/page/ia/901000032",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q131557|https://www.wikidata.org/wiki/Q642420|https://www.wikidata.org/wiki/Q345"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/is/original/sf10-130-1138.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/is/original/sf10-130-1138a.jpg",
+      "https://images.metmuseum.org/CRDImages/is/original/sf10-130-1138b.jpg",
+      "https://images.metmuseum.org/CRDImages/is/original/sf10-130-1138c.jpg",
+      "https://images.metmuseum.org/CRDImages/is/original/sf10-130-1138d.jpg"
+    ],
+    "constituents": null,
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": "C",
+        "elementMeasurements": {
+          "Depth": 0.15875031,
+          "Height": 3.016256,
+          "Weight": 0.0019846894,
+          "Width": 2.063754
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": "A",
+        "elementMeasurements": {
+          "Depth": 0.15875031,
+          "Height": 1.7462535,
+          "Weight": 0.0017011625,
+          "Width": 2.2225044
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": "B",
+        "elementMeasurements": {
+          "Depth": 0.31750062,
+          "Height": 3.016256,
+          "Weight": 0.0034023249,
+          "Width": 2.2225044
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": "D",
+        "elementMeasurements": {
+          "Depth": 0.31750062,
+          "Height": 3.1750064,
+          "Weight": 0.0034023249,
+          "Width": 2.063754
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Amulets",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300266585",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q131557"
+      },
+      {
+        "term": "Christ",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+      },
+      {
+        "term": "Virgin Mary",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000032",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q345"
+      }
+    ]
+  }
+}

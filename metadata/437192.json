@@ -1,0 +1,110 @@
+{
+  "object_id": 437192,
+  "excel_metadata": {
+    "Object Number": "32.100.11",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 437192,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1932.0,
+    "Object Name": "Painting",
+    "Title": "Sports on a Frozen River",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10810.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Aert van der Neer",
+    "Artist Display Bio": "Dutch, Gorinchem 1603/4–1677 Amsterdam",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Neer, Aert van der",
+    "Artist Nationality": "Dutch",
+    "Artist Begin Date": "1603",
+    "Artist End Date": "1677",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500001738",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q381801",
+    "Object Date": "probably ca. 1660",
+    "Object Begin Date": 1655,
+    "Object End Date": 1665,
+    "Medium": "Oil on wood",
+    "Dimensions": "9 1/8 x 13 3/4 in. (23.2 x 34.9 cm)",
+    "Credit Line": "The Friedsam Collection, Bequest of Michael Friedsam, 1931",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437192",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19913279",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Rivers|Winter|Evening|Ice|Skating",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300008707|http://vocab.getty.edu/page/aat/300133101|http://vocab.getty.edu/page/aat/300343633|http://vocab.getty.edu/page/aat/300011781|http://vocab.getty.edu/page/aat/300222802",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q4022|https://www.wikidata.org/wiki/Q1311|https://www.wikidata.org/wiki/Q7725|https://www.wikidata.org/wiki/Q23392|https://www.wikidata.org/wiki/Q779272"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP146485.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 108103,
+        "role": "Artist",
+        "name": "Aert van der Neer",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500001738",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q381801",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 23.2,
+          "Width": 34.9
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Skating",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300222802",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q779272"
+      },
+      {
+        "term": "Rivers",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300008707",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q4022"
+      },
+      {
+        "term": "Winter",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300133101",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q1311"
+      },
+      {
+        "term": "Evening",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300343633",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q7725"
+      },
+      {
+        "term": "Ice",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300011781",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q23392"
+      }
+    ]
+  }
+}

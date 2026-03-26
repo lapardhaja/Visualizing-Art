@@ -1,0 +1,114 @@
+{
+  "object_id": 193822,
+  "excel_metadata": {
+    "Object Number": "17.190.1138",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 193822,
+    "Gallery Number": 545.0,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1917.0,
+    "Object Name": "Snuffbox, painting",
+    "Title": "Snuffbox with portrait of a woman",
+    "Culture": "French, Paris",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16556016387.0,
+    "Artist Role": "Maker|Artist",
+    "Artist Prefix": " |Miniature attributed to",
+    "Artist Display Name": "Joseph Etienne Blerzy|François Dumont",
+    "Artist Display Bio": "French, active 1750–1806|French, Lunéville 1751–1831 Paris",
+    "Artist Suffix": " | ",
+    "Artist Alpha Sort": "Blerzy, Joseph Etienne|Dumont, François",
+    "Artist Nationality": "French|French",
+    "Artist Begin Date": "1750      |1751      ",
+    "Artist End Date": "1806      |1831      ",
+    "Artist Gender": "|",
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500524496|http://vocab.getty.edu/page/ulan/500061806",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q22661422|https://www.wikidata.org/wiki/Q1451015",
+    "Object Date": "1773–74, miniature ca. 1778–80",
+    "Object Begin Date": 1773,
+    "Object End Date": 1780,
+    "Medium": "Gold, enamel, ivory, glass",
+    "Dimensions": "Box: 3 1/4 × 2 7/16 in. (8.3 × 6.2 cm); Miniature, sight: 1 5/8 × 1 5/16 in. (4.1 × 3.3 cm)",
+    "Credit Line": "Gift of J. Pierpont Morgan, 1917",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Metalwork-Gold and Platinum|Miniatures",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/193822",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q116240811",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Portraits|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/LC-17_190_1138.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/ES5834.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/258497.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 165560,
+        "role": "Maker",
+        "name": "Joseph Etienne Blerzy",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500524496",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q22661422",
+        "gender": ""
+      },
+      {
+        "constituentID": 163874,
+        "role": "Artist",
+        "name": "Miniature attributed to François Dumont",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500061806",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1451015",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": "Box",
+        "elementMeasurements": {
+          "Height": 8.3,
+          "Width": 6.2
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": "Miniature, sight",
+        "elementMeasurements": {
+          "Height": 4.127508,
+          "Width": 3.3337567
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

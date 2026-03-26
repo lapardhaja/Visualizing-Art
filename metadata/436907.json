@@ -1,0 +1,90 @@
+{
+  "object_id": 436907,
+  "excel_metadata": {
+    "Object Number": "41.190.26",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436907,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1941.0,
+    "Object Name": "Painting",
+    "Title": "Madonna and Child",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16552.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Ambrogio Lorenzetti",
+    "Artist Display Bio": "Italian, Siena, active 1319–47",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Lorenzetti, Ambrogio",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1319",
+    "Artist End Date": "1347",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500012547",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q211562",
+    "Object Date": NaN,
+    "Object Begin Date": 1319,
+    "Object End Date": 1347,
+    "Medium": "Tempera on wood, gold ground",
+    "Dimensions": "Arched top, 37 x 22 1/8 in. (94 x 56.2 cm)",
+    "Credit Line": "Bequest of George Blumenthal, 1941",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436907",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912149",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Madonna and Child",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901000052",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q9309699"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/ep41.190.26.bw.R.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 165523,
+        "role": "Artist",
+        "name": "Ambrogio Lorenzetti",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500012547",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q211562",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 94,
+          "Width": 56.2
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Madonna and Child",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000052",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q9309699"
+      }
+    ]
+  }
+}

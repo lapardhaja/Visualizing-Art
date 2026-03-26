@@ -1,0 +1,109 @@
+{
+  "object_id": 435752,
+  "excel_metadata": {
+    "Object Number": "1993.402",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 435752,
+    "Gallery Number": 827.0,
+    "Department": "European Paintings",
+    "AccessionYear": 1993.0,
+    "Object Name": "Painting",
+    "Title": "Young Mother Gazing at Her Child",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16170.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "William Bouguereau",
+    "Artist Display Bio": "French, La Rochelle 1825–1905 La Rochelle",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Bouguereau, William",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1825",
+    "Artist End Date": "1905",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500011205",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q483992",
+    "Object Date": "1871",
+    "Object Begin Date": 1871,
+    "Object End Date": 1871,
+    "Medium": "Oil on canvas",
+    "Dimensions": "56 x 40 1/2 in. (142.2 x 102.9 cm)",
+    "Credit Line": "Bequest of Zene Montgomery Pyle, 1993",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/435752",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912836",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Children|Mothers|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025945|http://vocab.getty.edu/page/aat/300025932|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q7569|https://www.wikidata.org/wiki/Q7560|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-16481-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 161705,
+        "role": "Artist",
+        "name": "William Bouguereau",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500011205",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q483992",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 142.2,
+          "Width": 102.9
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 11.430023,
+          "Height": 165.10033,
+          "Width": 124.77775
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Children",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025945",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q7569"
+      },
+      {
+        "term": "Mothers",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025932",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q7560"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "object_id": 436928,
+  "excel_metadata": {
+    "Object Number": "87.15.131",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436928,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1887.0,
+    "Object Name": "Painting",
+    "Title": "Girls at a Window",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16492.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Raimundo de Madrazo y Garreta",
+    "Artist Display Bio": "Spanish, Rome 1841–1920 Versailles",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Madrazo y Garreta, Raimundo de",
+    "Artist Nationality": "Spanish",
+    "Artist Begin Date": "1841",
+    "Artist End Date": "1920",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500001278",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q2506493",
+    "Object Date": "ca. 1875",
+    "Object Begin Date": 1875,
+    "Object End Date": 1875,
+    "Medium": "Oil on canvas",
+    "Dimensions": "28 5/8 x 23 1/2 in. (72.7 x 59.7 cm)",
+    "Credit Line": "Catharine Lorillard Wolfe Collection, Bequest of Catharine Lorillard Wolfe, 1887",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436928",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19913302",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Portraits|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT253717.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 164920,
+        "role": "Artist",
+        "name": "Raimundo de Madrazo y Garreta",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500001278",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q2506493",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 72.7,
+          "Width": 59.7
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 13.97,
+          "Height": 114.9352,
+          "Width": 101.6002
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

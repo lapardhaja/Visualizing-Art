@@ -1,0 +1,121 @@
+{
+  "object_id": 436096,
+  "excel_metadata": {
+    "Object Number": "50.145.9ab",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 436096,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1950.0,
+    "Object Name": "Painting, parts of a polyptych",
+    "Title": "The Annunciation",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16181.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Gerard David",
+    "Artist Display Bio": "Netherlandish, Oudewater ca. 1455–1523 Bruges",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "David, Gerard",
+    "Artist Nationality": "Netherlandish",
+    "Artist Begin Date": "1455",
+    "Artist End Date": "1523",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500025998",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q333380",
+    "Object Date": "1506",
+    "Object Begin Date": 1506,
+    "Object End Date": 1506,
+    "Medium": "Oil on wood",
+    "Dimensions": "Angel, overall 31 1/8 x 25 in. (79.1 x 63.5 cm), painted surface 30 1/4 x 24 3/8 in. (76.8 x 61.9 cm); Virgin, overall 31 1/8 x 25 1/4 in. (79.1 x 64.1 cm), painted surface 30 1/2 x 24 3/4 in. (77.5 x61.9 cm)",
+    "Credit Line": "Bequest of Mary Stillman Harkness, 1950",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436096",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19911528",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Annunciation|Archangel Gabriel|Beds|Virgin Mary",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300412102|http://vocab.getty.edu/page/ia/901000493|http://vocab.getty.edu/page/aat/300038697|http://vocab.getty.edu/page/ia/901000032",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q154326|https://www.wikidata.org/wiki/Q81989|https://www.wikidata.org/wiki/Q42177|https://www.wikidata.org/wiki/Q345"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT-19374-001.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/DP-26500-003.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/DP-26500-001.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-50_145_9ab-10.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-50_145_9ab-11.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-50_145_9ab-12.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-50_145_9ab-13.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 161810,
+        "role": "Artist",
+        "name": "Gerard David",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500025998",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q333380",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 79.1,
+          "Width": 63.5
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": "Each frame",
+        "elementMeasurements": {
+          "Depth": 9.525,
+          "Height": 92.7102,
+          "Width": 84.1377
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Virgin Mary",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000032",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q345"
+      },
+      {
+        "term": "Archangel Gabriel",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000493",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q81989"
+      },
+      {
+        "term": "Annunciation",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300412102",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q154326"
+      },
+      {
+        "term": "Beds",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300038697",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q42177"
+      }
+    ]
+  }
+}

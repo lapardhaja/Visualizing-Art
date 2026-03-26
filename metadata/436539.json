@@ -1,0 +1,102 @@
+{
+  "object_id": 436539,
+  "excel_metadata": {
+    "Object Number": "17.190.17",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 436539,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1917.0,
+    "Object Name": "Painting",
+    "Title": "Virgin and Child",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16195.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": "Copy after",
+    "Artist Display Name": "Jan Gossart (called Mabuse)",
+    "Artist Display Bio": "Netherlandish, after 1522",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Gossart, Jan (called Mabuse)",
+    "Artist Nationality": "Netherlandish",
+    "Artist Begin Date": "1478",
+    "Artist End Date": "1532",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500009353",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q346952",
+    "Object Date": NaN,
+    "Object Begin Date": 1517,
+    "Object End Date": 1527,
+    "Medium": "Oil on wood",
+    "Dimensions": "Overall 17 7/8 x 13 5/8 in. (45.4 x 34.6 cm); painted surface 17 1/4 x 13 in. (43.8 x 33 cm)",
+    "Credit Line": "Gift of J. Pierpont Morgan, 1917",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436539",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19911761",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Madonna and Child",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901000052",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q9309699"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP164792.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-17_190_17-3.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-17_190_17-4.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 161951,
+        "role": "Artist",
+        "name": "Copy after Jan Gossart (called Mabuse)",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500009353",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q346952",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 45.4,
+          "Width": 34.6
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 6.35,
+          "Height": 62.5476,
+          "Width": 51.7526
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Madonna and Child",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000052",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q9309699"
+      }
+    ]
+  }
+}

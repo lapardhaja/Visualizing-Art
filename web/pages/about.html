@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>About - Visualizing Art</title>
+    <title>About • Visualizing Art</title>
     <link rel="stylesheet" href="../styles/main.css" />
 </head>
 <body>
@@ -11,9 +11,9 @@
 <header class="site-header">
     <nav class="nav">
         <a href="../../index.html">Home</a>
-        <a href="about.html" aria-current="page">About</a>
-        <a href="connections.html">Art Connections</a>
-        <a href="filters.html">Art Filters</a>
+        <a href="./about.html" aria-current="page">About</a>
+        <a href="./connections.html">Art Connections</a>
+        <a href="./filters.html">Art Filters</a>
     </nav>
     <button class="menu-toggle" aria-label="Open menu" aria-expanded="false">☰</button>
 </header>
@@ -44,9 +44,9 @@
         First, we made use of the Contrastive Language-Image Pre-Training (CLIP) model made by Open AI. CLIP is a neural network model that can extract visual features from images of the art from the MET and encode those features as vector embeddings with up to 512 dimensions. Think of a vector embedding as a list of 512 values, each of which represents a different visual element such as style and composition. Given two vectors, one can use cosine similarity to determine how similar they are. Cosine similarity is a metric used to measure how similar two vectors are, regardless of their magnitude. It calculates the cosine of the angle between two vectors in a multi-dimensional space (in our case 512 dimensions). Below are some visual examples of how cosine similarity can be calculated for 2 and 3 dimensions. The cosine similarity equation will return values between -1 and 1 where -1 indicates vectors pointing in opposite directions, 0 means vectors are perpendicular to each other, and 1 indicates they point in the same direction (are perfectly similar).
     </p>
     
-    <img src="../graphs/2d_cosine_sim.png" alt="2D cosine similarity visualization" style="max-width: 100%; height: auto; margin: 20px 0;">
+    <img src="../../jd_workspace/about_page_images/2d_cosine_sim.png" alt="2D cosine similarity visualization" style="max-width: 100%; height: auto; margin: 20px 0;">
     
-    <img src="../graphs/3d_cosine_sim.png" alt="3D cosine similarity visualization" style="max-width: 100%; height: auto; margin: 20px 0;">
+    <img src="../../jd_workspace/about_page_images/3d_cosine_sim.png" alt="3D cosine similarity visualization" style="max-width: 100%; height: auto; margin: 20px 0;">
     
     <h2>Metadata Analysis</h2>
     <p>

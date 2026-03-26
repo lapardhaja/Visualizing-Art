@@ -1,0 +1,95 @@
+{
+  "object_id": 435661,
+  "excel_metadata": {
+    "Object Number": "42.150.15",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 435661,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1942.0,
+    "Object Name": "Painting, miniature",
+    "Title": "Portrait of a Woman",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10862.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Vincent Bertrand",
+    "Artist Display Bio": "French, 1770–after 1817",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Bertrand, Vincent",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1770",
+    "Artist End Date": "1817",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500043197",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q21995351",
+    "Object Date": "ca. 1810",
+    "Object Begin Date": 1805,
+    "Object End Date": 1815,
+    "Medium": "Ivory",
+    "Dimensions": "Oval, 2 5/8 x 2 in. (58 x 48 mm)",
+    "Credit Line": "Gift of Mrs. Heyward Cutting, 1942",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Miniatures",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/435661",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19913813",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Portraits|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/129641.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 108627,
+        "role": "Artist",
+        "name": "Vincent Bertrand",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500043197",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q21995351",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 6.7,
+          "Width": 5.1
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

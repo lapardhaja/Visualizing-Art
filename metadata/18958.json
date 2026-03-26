@@ -1,0 +1,109 @@
+{
+  "object_id": 18958,
+  "excel_metadata": {
+    "Object Number": "2005.175",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 18958,
+    "Gallery Number": 754.0,
+    "Department": "The American Wing",
+    "AccessionYear": 2005.0,
+    "Object Name": "Painting, miniature",
+    "Title": "Watson Van Benthuysen II and Thomas Van Benthuysen",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 343.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Aramenta Dianthe Vail",
+    "Artist Display Bio": "1820–1888",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Vail, Aramenta Dianthe",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1820",
+    "Artist End Date": "1888",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": NaN,
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q22276332",
+    "Object Date": "ca. 1837",
+    "Object Begin Date": 1834,
+    "Object End Date": 1840,
+    "Medium": "Watercolor on ivory",
+    "Dimensions": "Sight: 4 5/8 x 3 11/16 in. (11.7 x 9.4 cm)\r\nFramed: 10 9/16 x 9 9/16 x 2 1/4 in. (26.8 x 24.3 x 5.7 cm)",
+    "Credit Line": "Dale T. Johnson Fund, 2005",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/18958",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20177696",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Boys|Portraits|Dogs",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300247598|http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300265714",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q3010|https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q144"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DP168881.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 3432,
+        "role": "Artist",
+        "name": "Aramenta Dianthe Vail",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q22276332",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Sight",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 11.747523,
+          "Width": 9.366269
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 5.7150116,
+          "Height": 26.828804,
+          "Width": 24.2888
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Boys",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300247598",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3010"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Dogs",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300265714",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q144"
+      }
+    ]
+  }
+}

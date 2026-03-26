@@ -1,0 +1,98 @@
+{
+  "object_id": 705476,
+  "excel_metadata": {
+    "Object Number": "1996.518.4",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 705476,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1996,
+    "Object Name": "Plate",
+    "Title": "Plate",
+    "Culture": "Russian, St. Petersburg",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 3521,
+    "Artist Role": "Manufactory",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Imperial Porcelain Manufactory, St. Petersburg",
+    "Artist Display Bio": "Russian, 1744–present",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Imperial Porcelain Manufactory, St. Petersburg",
+    "Artist Nationality": "Russian",
+    "Artist Begin Date": 1744,
+    "Artist End Date": 9999,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500331504",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q1303887",
+    "Object Date": "1796–1801",
+    "Object Begin Date": 1796,
+    "Object End Date": 1801,
+    "Medium": "Hard-paste porcelain",
+    "Dimensions": "Diameter (each): 9 3/4 in. (24.8 cm)",
+    "Credit Line": "Gift of Prince and Princess Alexander Romanoff, 1996",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Ceramics-Porcelain",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/705476",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Flowers|Buildings",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300132399|http://vocab.getty.edu/page/aat/300004789",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q506|https://www.wikidata.org/wiki/Q41176"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/SF1996_518_4_img1.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/SF1996_518_4_img2.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/SF1996_518_4.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/SF1996_518_4_mark.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 35211,
+        "role": "Manufactory",
+        "name": "Imperial Porcelain Manufactory, St. Petersburg",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500331504",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1303887",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Diameter",
+        "elementDescription": "each",
+        "elementMeasurements": {
+          "Diameter": 24.765049
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Buildings",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300004789",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q41176"
+      },
+      {
+        "term": "Flowers",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132399",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q506"
+      }
+    ]
+  }
+}

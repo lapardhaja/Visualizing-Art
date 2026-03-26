@@ -1,0 +1,112 @@
+{
+  "object_id": 437878,
+  "excel_metadata": {
+    "Object Number": "14.40.611",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 437878,
+    "Gallery Number": 964.0,
+    "Department": "European Paintings",
+    "AccessionYear": 1914.0,
+    "Object Name": "Painting",
+    "Title": "A Maid Asleep",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10841.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Johannes Vermeer",
+    "Artist Display Bio": "Dutch, Delft 1632–1675 Delft",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Vermeer, Johannes",
+    "Artist Nationality": "Dutch",
+    "Artist Begin Date": "1632",
+    "Artist End Date": "1675",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500032927",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q41264",
+    "Object Date": "ca. 1656–57",
+    "Object Begin Date": 1656,
+    "Object End Date": 1657,
+    "Medium": "Oil on canvas",
+    "Dimensions": "34 1/2 x 30 1/8 in. (87.6 x 76.5 cm)",
+    "Credit Line": "Bequest of Benjamin Altman, 1913",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437878",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q684935",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Interiors|Fruit|Women|Servants|Sleeping",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300391239|http://vocab.getty.edu/page/aat/300011868|http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/aat/300025874|http://vocab.getty.edu/page/aat/300375130",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q2998430|https://www.wikidata.org/wiki/Q1364|https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q54128|https://www.wikidata.org/wiki/Q35831"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP355525.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/SF X-radiograph.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 108413,
+        "role": "Artist",
+        "name": "Johannes Vermeer",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500032927",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q41264",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 87.6,
+          "Width": 76.5
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Interiors",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300391239",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q2998430"
+      },
+      {
+        "term": "Fruit",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300011868",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q1364"
+      },
+      {
+        "term": "Sleeping",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300375130",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q35831"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Servants",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025874",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q54128"
+      }
+    ]
+  }
+}

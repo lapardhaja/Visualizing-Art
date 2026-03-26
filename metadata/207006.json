@@ -1,0 +1,112 @@
+{
+  "object_id": 207006,
+  "excel_metadata": {
+    "Object Number": "1982.60.101",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 207006,
+    "Gallery Number": 537,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1982,
+    "Object Name": "Corpus",
+    "Title": "The crucified Christ",
+    "Culture": "Italian, Florence",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 1636013345,
+    "Artist Role": "Modeler|Founder",
+    "Artist Prefix": "After a model by|Workshop of",
+    "Artist Display Name": "Giambologna|Antonio Susini",
+    "Artist Display Bio": "Netherlandish, Douai 1529–1608 Florence|Italian, 1558–1624 Florence",
+    "Artist Suffix": " | ",
+    "Artist Alpha Sort": "Giambologna|Susini, Antonio",
+    "Artist Nationality": "Netherlandish|Italian",
+    "Artist Begin Date": "1529      |1558      ",
+    "Artist End Date": "1608      |1624      ",
+    "Artist Gender": "|",
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500016387|http://vocab.getty.edu/page/ulan/500055036",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q220136|https://www.wikidata.org/wiki/Q19569482",
+    "Object Date": "Model: early 17th century; cast: 18th or 19th century",
+    "Object Begin Date": 1600,
+    "Object End Date": 1899,
+    "Medium": "Bronze",
+    "Dimensions": "Height: 14 in. (35.6 cm)",
+    "Credit Line": "The Jack and Belle Linsky Collection, 1982",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Sculpture-Bronze",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/207006",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q116400561",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Christ|Cross|Jesus|Crucifixion",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901000087|http://vocab.getty.edu/page/aat/300235443|http://vocab.getty.edu/page/ia/901000087|http://vocab.getty.edu/page/aat/300404300",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q642420|https://www.wikidata.org/wiki/Q40843|https://www.wikidata.org/wiki/Q302|https://www.wikidata.org/wiki/Q3235597"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP-1365-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 33456,
+        "role": "Founder",
+        "name": "Workshop of Antonio Susini",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500055036",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q19569482",
+        "gender": ""
+      },
+      {
+        "constituentID": 163601,
+        "role": "Modeler",
+        "name": "After a model by Giambologna",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500016387",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q220136",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Height",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 35.56007
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Christ",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+      },
+      {
+        "term": "Cross",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300235443",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q40843"
+      },
+      {
+        "term": "Jesus",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q302"
+      },
+      {
+        "term": "Crucifixion",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300404300",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3235597"
+      }
+    ]
+  }
+}

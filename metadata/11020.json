@@ -1,0 +1,109 @@
+{
+  "object_id": 11020,
+  "excel_metadata": {
+    "Object Number": "54.1",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 11020,
+    "Gallery Number": 774.0,
+    "Department": "The American Wing",
+    "AccessionYear": 1954.0,
+    "Object Name": "Painting",
+    "Title": "Santa Maria della Salute, Sunset",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 258.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "William Stanley Haseltine",
+    "Artist Display Bio": "American, Philadelphia, Pennsylvania 1835–1900 Rome",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Haseltine, William Stanley",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1835",
+    "Artist End Date": "1900",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500006808",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q2762575",
+    "Object Date": "1870–85",
+    "Object Begin Date": 1870,
+    "Object End Date": 1885,
+    "Medium": "Oil on canvas",
+    "Dimensions": "23 x 36 in. (58.4 x 91.4 cm)",
+    "Credit Line": "Gift of Helen Haseltine Plowden, in memory of the artist, 1954",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/11020",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19925782",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Boats|Buildings|Canals",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300178749|http://vocab.getty.edu/page/aat/300004789|http://vocab.getty.edu/page/aat/300006075",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q35872|https://www.wikidata.org/wiki/Q41176|https://www.wikidata.org/wiki/Q12284"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DT229630.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 2583,
+        "role": "Artist",
+        "name": "William Stanley Haseltine",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500006808",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q2762575",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 58.4,
+          "Width": 91.4
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 7.5,
+          "Height": 71.5,
+          "Width": 105.2
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Buildings",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300004789",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q41176"
+      },
+      {
+        "term": "Canals",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300006075",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q12284"
+      },
+      {
+        "term": "Boats",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300178749",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q35872"
+      }
+    ]
+  }
+}

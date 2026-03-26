@@ -1,0 +1,104 @@
+{
+  "object_id": 13196,
+  "excel_metadata": {
+    "Object Number": "24.109.82",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 13196,
+    "Gallery Number": 774.0,
+    "Department": "The American Wing",
+    "AccessionYear": 1924.0,
+    "Object Name": "Painting",
+    "Title": "George Washington",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 301.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Adolph Ulrich Wertmuller",
+    "Artist Display Bio": "Stockholm 1751–1811 Naamans Creek, Delaware",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Wertmuller, Adolph Ulrich",
+    "Artist Nationality": " ",
+    "Artist Begin Date": "1751",
+    "Artist End Date": "1811",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500000778",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q116418",
+    "Object Date": "1795",
+    "Object Begin Date": 1795,
+    "Object End Date": 1795,
+    "Medium": "Oil on canvas",
+    "Dimensions": "25 3/4 x 21 1/8 in. (65.4 x 53.7 cm)",
+    "Credit Line": "Bequest of Charles Allen Munn, 1924",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/13196",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19924612",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "George Washington|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ulan/500126198|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q23|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/ap24.109.82.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 3019,
+        "role": "Artist",
+        "name": "Adolph Ulrich Wertmuller",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500000778",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q116418",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 65.4,
+          "Width": 53.7
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 9.525,
+          "Height": 86.3602,
+          "Width": 75.2477
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "George Washington",
+        "AAT_URL": "http://vocab.getty.edu/page/ulan/500126198",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q23"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

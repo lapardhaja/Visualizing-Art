@@ -1,0 +1,100 @@
+{
+  "object_id": 436217,
+  "excel_metadata": {
+    "Object Number": "49.7.48",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436217,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1949.0,
+    "Object Name": "Painting",
+    "Title": "Boy with a Black Spaniel",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16356.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "François Hubert Drouais",
+    "Artist Display Bio": "French, Paris 1727–1775 Paris",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Drouais, François Hubert",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1727",
+    "Artist End Date": "1775",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500115441",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q946487",
+    "Object Date": "ca. 1767",
+    "Object Begin Date": 1762,
+    "Object End Date": 1772,
+    "Medium": "Oil on canvas",
+    "Dimensions": "Oval, 25 3/8 x 21 in. (64.5 x 53.3 cm)",
+    "Credit Line": "The Jules Bache Collection, 1949",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436217",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912333",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Boys|Portraits|Dogs",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300247598|http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300265714",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q3010|https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q144"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP324600.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 163566,
+        "role": "Artist",
+        "name": "François Hubert Drouais",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115441",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q946487",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 64.5,
+          "Width": 53.3
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Boys",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300247598",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3010"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Dogs",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300265714",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q144"
+      }
+    ]
+  }
+}

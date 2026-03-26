@@ -1,0 +1,95 @@
+{
+  "object_id": 13321,
+  "excel_metadata": {
+    "Object Number": "50.187.49",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 13321,
+    "Gallery Number": NaN,
+    "Department": "The American Wing",
+    "AccessionYear": 1950.0,
+    "Object Name": "Painting, miniature",
+    "Title": "Gorham L. Freeman",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16538.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Henry Williams",
+    "Artist Display Bio": "American, Boston, Massachusetts 1787–1830 Boston, Massachusetts",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Williams, Henry",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1787",
+    "Artist End Date": "1830",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500019959",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q20127277",
+    "Object Date": "1813",
+    "Object Begin Date": 1813,
+    "Object End Date": 1813,
+    "Medium": "Watercolor on ivory",
+    "Dimensions": "3 1/8 x 2 9/16 in. (7.9 x 6.7 cm)",
+    "Credit Line": "The Glenn Tilley Morse Collection, Bequest of Glenn Tilley Morse, 1950",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/13321",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19925427",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/ap50.187.49.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 165382,
+        "role": "Artist",
+        "name": "Henry Williams",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500019959",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q20127277",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 7.9,
+          "Width": 6.5
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

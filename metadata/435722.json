@@ -1,0 +1,105 @@
+{
+  "object_id": 435722,
+  "excel_metadata": {
+    "Object Number": "1973.311.1",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 435722,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1973.0,
+    "Object Name": "Painting",
+    "Title": "Portrait of a Man in Armor with Two Pages",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10742.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Paris Bordon",
+    "Artist Display Bio": "Italian, Treviso 1500–1571 Venice",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Bordon, Paris",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1500",
+    "Artist End Date": "1571",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500018343",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q366081",
+    "Object Date": NaN,
+    "Object Begin Date": 1520,
+    "Object End Date": 1571,
+    "Medium": "Oil on canvas",
+    "Dimensions": "46 x 62 in. (116.8 x 157.5 cm)",
+    "Credit Line": "Gift of Mr. and Mrs. Charles Wrightsman, 1973",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/435722",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19905185",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Armor|Boys|Men|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300226591|http://vocab.getty.edu/page/aat/300247598|http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q20793164|https://www.wikidata.org/wiki/Q3010|https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-17629-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 107421,
+        "role": "Artist",
+        "name": "Paris Bordon",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500018343",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q366081",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 116.8,
+          "Width": 157.5
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Armor",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300226591",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q20793164"
+      },
+      {
+        "term": "Boys",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300247598",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3010"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

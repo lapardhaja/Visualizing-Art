@@ -1,0 +1,95 @@
+{
+  "object_id": 11515,
+  "excel_metadata": {
+    "Object Number": "06.1287",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 11515,
+    "Gallery Number": 774.0,
+    "Department": "The American Wing",
+    "AccessionYear": 1906.0,
+    "Object Name": "Painting",
+    "Title": "Behind Dunes, Lake Ontario",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16491.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Homer Dodge Martin",
+    "Artist Display Bio": "American, Albany, New York 1836–1897 St. Paul, Minnesota",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Martin, Homer Dodge",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1836",
+    "Artist End Date": "1897",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500012061",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q3139663",
+    "Object Date": "1883–87",
+    "Object Begin Date": 1883,
+    "Object End Date": 1887,
+    "Medium": "Oil on canvas",
+    "Dimensions": "36 x 60 1/2 in. (91.4 x 153.7 cm)",
+    "Credit Line": "Gift of George A. Hearn, 1906",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/11515",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20172390",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Landscapes|Lakes",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300132294|http://vocab.getty.edu/page/aat/300008680",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q191163|https://www.wikidata.org/wiki/Q23397"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/ap06.1287.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 164918,
+        "role": "Artist",
+        "name": "Homer Dodge Martin",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500012061",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3139663",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 91.4,
+          "Width": 153.7
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Lakes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300008680",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q23397"
+      },
+      {
+        "term": "Landscapes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+      }
+    ]
+  }
+}

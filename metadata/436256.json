@@ -1,0 +1,107 @@
+{
+  "object_id": 436256,
+  "excel_metadata": {
+    "Object Number": "49.7.26",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 436256,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1949.0,
+    "Object Name": "Painting",
+    "Title": "Robert Rich (1587–1658), Second Earl of Warwick",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16185.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Anthony van Dyck",
+    "Artist Display Bio": "Flemish, Antwerp 1599–1641 London",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Dyck, Anthony van",
+    "Artist Nationality": "Flemish",
+    "Artist Begin Date": "1599",
+    "Artist End Date": "1641",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500115190",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q150679",
+    "Object Date": "ca. 1632–35",
+    "Object Begin Date": 1632,
+    "Object End Date": 1635,
+    "Medium": "Oil on canvas",
+    "Dimensions": "81 7/8 x 50 3/8 in. (208 x 128 cm), with added strip of 2 1/8 in. (5.4 cm) at top",
+    "Credit Line": "The Jules Bache Collection, 1949",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436256",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q3937658",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT2821.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-49_7_26-2.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-49_7_26-3.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 161858,
+        "role": "Artist",
+        "name": "Anthony van Dyck",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115190",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q150679",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 208,
+          "Width": 128
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 16.51,
+          "Height": 266.7005,
+          "Width": 168.9103
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

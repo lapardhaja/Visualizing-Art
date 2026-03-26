@@ -1,0 +1,105 @@
+{
+  "object_id": 205436,
+  "excel_metadata": {
+    "Object Number": "1971.206.35",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 205436,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1971,
+    "Object Name": "Statuette",
+    "Title": "The Day (one of a pair)",
+    "Culture": "Italian",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 16212,
+    "Artist Role": "Artist",
+    "Artist Prefix": "After an original by",
+    "Artist Display Name": "Michelangelo Buonarroti",
+    "Artist Display Bio": "Italian, Caprese 1475–1564 Rome",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Michelangelo Buonarroti",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": 1475,
+    "Artist End Date": 1564,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500010654",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q5592",
+    "Object Date": "ca. 1600",
+    "Object Begin Date": 1595,
+    "Object End Date": 1605,
+    "Medium": "Terracotta",
+    "Dimensions": "Overall: 15 1/2 × 28 × 10 in. (39.4 × 71.1 × 25.4 cm);_x000D_\nBase: 9 × 20 1/2 × 11 in. (22.9 × 52.1 × 27.9 cm)",
+    "Credit Line": "Gift of Mr. and Mrs. Charles Wrightsman, 1971",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Sculpture",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/205436",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Male Nudes",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300189568",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q40446"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/199706.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/199707.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/199708.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/199709.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/199710.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 162124,
+        "role": "Artist",
+        "name": "After an original by Michelangelo Buonarroti",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500010654",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5592",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Base",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Capacity": 52.070103,
+          "Diameter": 22.860046,
+          "Height": 27.940056
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 25.400051,
+          "Height": 39.37008,
+          "Width": 71.12014
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Male Nudes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300189568",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q40446"
+      }
+    ]
+  }
+}

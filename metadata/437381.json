@@ -1,0 +1,109 @@
+{
+  "object_id": 437381,
+  "excel_metadata": {
+    "Object Number": "53.140.5",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437381,
+    "Gallery Number": 813.0,
+    "Department": "European Paintings",
+    "AccessionYear": 1953.0,
+    "Object Name": "Painting",
+    "Title": "Etruscan Vase with Flowers",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16229.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Odilon Redon",
+    "Artist Display Bio": "French, Bordeaux 1840–1916 Paris",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Redon, Odilon",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1840",
+    "Artist End Date": "1916",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500007292",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q154349",
+    "Object Date": "1900–1910",
+    "Object Begin Date": 1900,
+    "Object End Date": 1910,
+    "Medium": "Tempera on canvas",
+    "Dimensions": "32 x 23 1/4 in. (81.3 x 59.1 cm)",
+    "Credit Line": "Maria DeWitt Jesup Fund, 1951; acquired from The Museum of Modern Art, Lillie P. Bliss Collection",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437381",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912146",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Flowers|Vases|Still Life",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300132399|http://vocab.getty.edu/page/aat/300132254|http://vocab.getty.edu/page/aat/300015638",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q506|https://www.wikidata.org/wiki/Q191851|https://www.wikidata.org/wiki/Q170571"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT323419.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162295,
+        "role": "Artist",
+        "name": "Odilon Redon",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500007292",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q154349",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 81.3,
+          "Width": 59.1
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 5.7150116,
+          "Height": 99.060196,
+          "Width": 78.74016
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Flowers",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132399",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q506"
+      },
+      {
+        "term": "Still Life",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015638",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q170571"
+      },
+      {
+        "term": "Vases",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132254",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q191851"
+      }
+    ]
+  }
+}

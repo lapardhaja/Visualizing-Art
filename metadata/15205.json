@@ -1,0 +1,95 @@
+{
+  "object_id": 15205,
+  "excel_metadata": {
+    "Object Number": "2006.235.204",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 15205,
+    "Gallery Number": NaN,
+    "Department": "The American Wing",
+    "AccessionYear": 2006.0,
+    "Object Name": "Painting, miniature",
+    "Title": "Portrait of a Lady",
+    "Culture": "Scottish",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 449.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "William John Thomson",
+    "Artist Display Bio": "1771–1845",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Thomson, William John",
+    "Artist Nationality": " ",
+    "Artist Begin Date": "1771",
+    "Artist End Date": "1845",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500009758",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q3568746",
+    "Object Date": "1822",
+    "Object Begin Date": 1822,
+    "Object End Date": 1822,
+    "Medium": "Watercolor on ivory",
+    "Dimensions": "2 1/2 x 2 in. (6.4 x 5.2 cm)",
+    "Credit Line": "Fletcher Fund, 2006",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/15205",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20172167",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Portraits|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/APS6727.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 4499,
+        "role": "Artist",
+        "name": "William John Thomson",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500009758",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3568746",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 6.4,
+          "Width": 5.1
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

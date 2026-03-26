@@ -1,0 +1,104 @@
+{
+  "object_id": 12799,
+  "excel_metadata": {
+    "Object Number": "1971.244",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 12799,
+    "Gallery Number": 756.0,
+    "Department": "The American Wing",
+    "AccessionYear": 1971.0,
+    "Object Name": "Painting",
+    "Title": "Spring",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 295.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Cephas Giovanni Thompson",
+    "Artist Display Bio": "1809–1888",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Thompson, Cephas Giovanni",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1809",
+    "Artist End Date": "1888",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500022795",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q21095000",
+    "Object Date": "1838",
+    "Object Begin Date": 1838,
+    "Object End Date": 1838,
+    "Medium": "Oil on canvas",
+    "Dimensions": "36 x 28 3/4 in. (91.4 x 73 cm)",
+    "Credit Line": "Gift of Mrs. Madeleine Thompson Edmonds, 1971",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/12799",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20169619",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Women|Flowers",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/aat/300132399",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q506"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/APS2182.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 2957,
+        "role": "Artist",
+        "name": "Cephas Giovanni Thompson",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500022795",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q21095000",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 91.4,
+          "Width": 73
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 10,
+          "Height": 107.2,
+          "Width": 89.3
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Flowers",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132399",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q506"
+      }
+    ]
+  }
+}

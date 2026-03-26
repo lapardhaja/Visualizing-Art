@@ -1,0 +1,109 @@
+{
+  "object_id": 670765,
+  "excel_metadata": {
+    "Object Number": "2016.63",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 670765,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 2016.0,
+    "Object Name": "Painting",
+    "Title": "The Death of Cleopatra",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16418.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Guido Cagnacci",
+    "Artist Display Bio": "Italian, Santarcangelo di Romagna 1601–1663 Vienna",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Cagnacci, Guido",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1601",
+    "Artist End Date": "1663",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500017753",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q2449649",
+    "Object Date": "ca. 1645–55",
+    "Object Begin Date": 1645,
+    "Object End Date": 1655,
+    "Medium": "Oil on canvas",
+    "Dimensions": "37 3/8 × 29 1/2 in. (95 × 75 cm)",
+    "Credit Line": "Purchase, Diane Burke Gift, Gift of J. Pierpont Morgan, by exchange, Friends of European Paintings Gifts, Gwynne Andrews Fund, Lila Acheson Wallace, Charles and Jessie Price, and Álvaro Saieh Bendeck Gifts, Gift and Bequest of George Blumenthal and Fletcher Fund, by exchange, and Michel David-Weill Gift, 2016",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/670765",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q53858027",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Cleopatra|Snakes|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ulan/500341470|http://vocab.getty.edu/page/aat/300250870|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q635|https://www.wikidata.org/wiki/Q2102|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP375602.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 164182,
+        "role": "Artist",
+        "name": "Guido Cagnacci",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500017753",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q2449649",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 95,
+          "Width": 75
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 6.985014,
+          "Height": 117.79273,
+          "Width": 102.23521
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Cleopatra",
+        "AAT_URL": "http://vocab.getty.edu/page/ulan/500341470",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q635"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Snakes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250870",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q2102"
+      }
+    ]
+  }
+}

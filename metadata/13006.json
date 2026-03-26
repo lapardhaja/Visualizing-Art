@@ -1,0 +1,108 @@
+{
+  "object_id": 13006,
+  "excel_metadata": {
+    "Object Number": "64.309.7",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 13006,
+    "Gallery Number": 774.0,
+    "Department": "The American Wing",
+    "AccessionYear": 1964.0,
+    "Object Name": "Painting",
+    "Title": "Still Life—Flowers and Fruit in White and Pink Bowl",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": NaN,
+    "Artist Role": NaN,
+    "Artist Prefix": NaN,
+    "Artist Display Name": NaN,
+    "Artist Display Bio": NaN,
+    "Artist Suffix": NaN,
+    "Artist Alpha Sort": NaN,
+    "Artist Nationality": NaN,
+    "Artist Begin Date": NaN,
+    "Artist End Date": NaN,
+    "Artist Gender": NaN,
+    "Artist ULAN URL": NaN,
+    "Artist Wikidata URL": NaN,
+    "Object Date": "1840–60",
+    "Object Begin Date": 1840,
+    "Object End Date": 1860,
+    "Medium": "Oil on glass, tinsel",
+    "Dimensions": "15 7/8 x 20 in. (40.3 x 50.8 cm)",
+    "Credit Line": "Gift of Edgar William and Bernice Chrysler Garbisch, 1964",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/13006",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19925419",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Fruit|Flowers|Still Life|Butterflies",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300011868|http://vocab.getty.edu/page/aat/300132399|http://vocab.getty.edu/page/aat/300015638|http://vocab.getty.edu/page/aat/300417320",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q1364|https://www.wikidata.org/wiki/Q506|https://www.wikidata.org/wiki/Q170571|https://www.wikidata.org/wiki/Q11946202"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/64.309.7 front.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ad/original/ap64.309.7.jpg",
+      "https://images.metmuseum.org/CRDImages/ad/original/64.309.7 back.jpg"
+    ],
+    "constituents": null,
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 40.3,
+          "Width": 50.8
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 5.397511,
+          "Height": 46.037594,
+          "Width": 56.197613
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Fruit",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300011868",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q1364"
+      },
+      {
+        "term": "Butterflies",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300417320",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q11946202"
+      },
+      {
+        "term": "Flowers",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132399",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q506"
+      },
+      {
+        "term": "Still Life",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015638",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q170571"
+      }
+    ]
+  }
+}

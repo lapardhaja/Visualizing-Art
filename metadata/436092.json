@@ -1,0 +1,114 @@
+{
+  "object_id": 436092,
+  "excel_metadata": {
+    "Object Number": "09.198",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436092,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1909.0,
+    "Object Name": "Painting",
+    "Title": "Don Quixote and the Dead Mule",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16180.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Honoré Daumier",
+    "Artist Display Bio": "French, Marseilles 1808–1879 Valmondois",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Daumier, Honoré",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1808",
+    "Artist End Date": "1879",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500117998",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q187506",
+    "Object Date": "after 1864",
+    "Object Begin Date": 1828,
+    "Object End Date": 1879,
+    "Medium": "Oil on wood",
+    "Dimensions": "9 3/4 x 18 1/8 in. (24.8 x 46 cm)",
+    "Credit Line": "Catharine Lorillard Wolfe Collection, Wolfe Fund, 1909",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436092",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19911727",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Horses|Animals|Men|Don Quixote",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300250148|http://vocab.getty.edu/page/aat/300249525|http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/ia/901001016",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q726|https://www.wikidata.org/wiki/Q729|https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q480"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-22554-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 161808,
+        "role": "Artist",
+        "name": "Honoré Daumier",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500117998",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q187506",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 24.8,
+          "Width": 46
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 8.89,
+          "Height": 45.0851,
+          "Width": 66.0401
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Animals",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300249525",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q729"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Horses",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250148",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q726"
+      },
+      {
+        "term": "Don Quixote",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901001016",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q480"
+      }
+    ]
+  }
+}

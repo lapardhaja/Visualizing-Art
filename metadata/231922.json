@@ -1,0 +1,93 @@
+{
+  "object_id": 231922,
+  "excel_metadata": {
+    "Object Number": "1974.356.115a",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 231922,
+    "Gallery Number": 533,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1974,
+    "Object Name": "Side chair",
+    "Title": "Side chair (one of four) (part of a set)",
+    "Culture": "German, Würzburg",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 4811,
+    "Artist Role": "Maker",
+    "Artist Prefix": "Attributed to",
+    "Artist Display Name": "Johann Michael Bauer",
+    "Artist Display Bio": "German, Westheim 1710–1779 Bamberg",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Bauer, Johann Michael",
+    "Artist Nationality": "German (born Westheim)",
+    "Artist Begin Date": 1710,
+    "Artist End Date": 1779,
+    "Artist Gender": null,
+    "Artist ULAN URL": null,
+    "Artist Wikidata URL": null,
+    "Object Date": "ca. 1763–64",
+    "Object Begin Date": 1758,
+    "Object End Date": 1769,
+    "Medium": "Carved, painted and gilded limewood; squab pillow in silk velvet (not original)",
+    "Dimensions": "39 1/2 x 19 1/4 x 17 1/2 in. (100.3 x 48.9 x 44.5cm)",
+    "Credit Line": "The Lesley and Emma Sheafer Collection, Bequest of Emma A. Sheafer, 1973",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Woodwork-Furniture",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/231922",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q116306744",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Flowers",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300132399",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q506"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP105738.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/DP105739.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 48114,
+        "role": "Maker",
+        "name": "Attributed to Johann Michael Bauer",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 44.5,
+          "Height": 100.3,
+          "Width": 48.9
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Flowers",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132399",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q506"
+      }
+    ]
+  }
+}

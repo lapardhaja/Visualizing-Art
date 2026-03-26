@@ -1,0 +1,95 @@
+{
+  "object_id": 437278,
+  "excel_metadata": {
+    "Object Number": "62.122.71",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437278,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1962.0,
+    "Object Name": "Painting, miniature",
+    "Title": "Portrait of a Woman",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16223.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": "Attributed to",
+    "Artist Display Name": "Jean Petitot",
+    "Artist Display Bio": "Swiss, Geneva 1607–1691 Geneva",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Petitot, Jean",
+    "Artist Nationality": "Swiss",
+    "Artist Begin Date": "1607",
+    "Artist End Date": "1691",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500020603",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q556676",
+    "Object Date": NaN,
+    "Object Begin Date": 1627,
+    "Object End Date": 1691,
+    "Medium": "Vellum",
+    "Dimensions": "Oval, 1 3/8 x 1 1/8 in. (36 x 30 mm)",
+    "Credit Line": "Bequest of Millie Bruhl Fredrick, 1962",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Miniatures",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437278",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19913863",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Portraits|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/175422.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162235,
+        "role": "Artist",
+        "name": "Attributed to Jean Petitot",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500020603",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q556676",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 3.5,
+          "Width": 2.9
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

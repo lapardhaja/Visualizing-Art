@@ -1,0 +1,121 @@
+{
+  "object_id": 436103,
+  "excel_metadata": {
+    "Object Number": "32.100.53",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436103,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1932.0,
+    "Object Name": "Painting",
+    "Title": "Virgin and Child",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16167416181.0,
+    "Artist Role": "Artist|Artist",
+    "Artist Prefix": "and| ",
+    "Artist Display Name": "Simon Bening|Gerard David",
+    "Artist Display Bio": "Netherlandish, Ghent (?) 1483/84–1561 Bruges|Netherlandish, Oudewater ca. 1455–1523 Bruges",
+    "Artist Suffix": " | ",
+    "Artist Alpha Sort": "Bening, Simon|David, Gerard",
+    "Artist Nationality": "Netherlandish|Netherlandish",
+    "Artist Begin Date": "1483      |1455      ",
+    "Artist End Date": "1561      |1523      ",
+    "Artist Gender": "|",
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500115179|http://vocab.getty.edu/page/ulan/500025998",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q928015|https://www.wikidata.org/wiki/Q333380",
+    "Object Date": "ca. 1520",
+    "Object Begin Date": 1515,
+    "Object End Date": 1525,
+    "Medium": "Oil on wood",
+    "Dimensions": "Overall 10 x 8 1/4 in. (25.4 x 21 cm), with added strip of 3/8 in. (1 cm) at top; painted surface 9 5/8 x 8 1/4 in. (24.4 x 21 cm)",
+    "Credit Line": "The Friedsam Collection, Bequest of Michael Friedsam, 1931",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436103",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19911574",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Madonna and Child|Nursing",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901000052|http://vocab.getty.edu/page/aat/300379905",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q9309699|https://www.wikidata.org/wiki/Q174876"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT1482.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-32_100_53-3.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-32_100_53-4.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-32_100_53-5.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-32_100_53-6.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-32_100_53-IRR.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-32_100_53-XRAY.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-32_100_53-10.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-32_100_53-11.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 161810,
+        "role": "Artist",
+        "name": "Gerard David",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500025998",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q333380",
+        "gender": ""
+      },
+      {
+        "constituentID": 161674,
+        "role": "Artist",
+        "name": "and Simon Bening",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115179",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q928015",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 25.4,
+          "Width": 21
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 3.1750064,
+          "Height": 29.210058,
+          "Width": 25.400051
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Madonna and Child",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000052",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q9309699"
+      },
+      {
+        "term": "Nursing",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379905",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q174876"
+      }
+    ]
+  }
+}

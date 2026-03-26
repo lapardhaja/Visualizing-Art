@@ -1,0 +1,104 @@
+{
+  "object_id": 10076,
+  "excel_metadata": {
+    "Object Number": "10.106",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 10076,
+    "Gallery Number": NaN,
+    "Department": "The American Wing",
+    "AccessionYear": 1910.0,
+    "Object Name": "Painting",
+    "Title": "James Topham Brady",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 231.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Joseph Alexander Ames",
+    "Artist Display Bio": "1816–1872",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Ames, Joseph Alexander",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1816",
+    "Artist End Date": "1872",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500018722",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q1581203",
+    "Object Date": "1869",
+    "Object Begin Date": 1869,
+    "Object End Date": 1869,
+    "Medium": "Oil on canvas",
+    "Dimensions": "30 x 25 in. (76.2 x 63.5 cm)",
+    "Credit Line": "Gift of Francis Lynde Stetson, 1910",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/10076",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19924611",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/ap10.106.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 2311,
+        "role": "Artist",
+        "name": "Joseph Alexander Ames",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500018722",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1581203",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 76.2,
+          "Width": 63.5
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 10.5,
+          "Height": 105.6,
+          "Width": 93.3
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

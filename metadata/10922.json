@@ -1,0 +1,104 @@
+{
+  "object_id": 10922,
+  "excel_metadata": {
+    "Object Number": "87.8.7",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 10922,
+    "Gallery Number": NaN,
+    "Department": "The American Wing",
+    "AccessionYear": 1887.0,
+    "Object Name": "Painting",
+    "Title": "And She Was a Witch",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16191.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "George Fuller",
+    "Artist Display Bio": "American, Deerfield, Massachusetts 1822–1884 Brookline, Massachusetts",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Fuller, George ",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1822",
+    "Artist End Date": "1884",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500026223",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q5539521",
+    "Object Date": "1877–84",
+    "Object Begin Date": 1877,
+    "Object End Date": 1884,
+    "Medium": "Oil on canvas",
+    "Dimensions": "30 x 40 in. (76.2 x 101.6 cm)",
+    "Credit Line": "Gift of George I. Seney, 1887",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/10922",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20174200",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Landscapes|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300132294|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q191163|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/ap87.8.7.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 161913,
+        "role": "Artist",
+        "name": "George Fuller",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500026223",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5539521",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 76.2,
+          "Width": 101.6
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 12,
+          "Height": 113,
+          "Width": 138
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Landscapes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+      }
+    ]
+  }
+}

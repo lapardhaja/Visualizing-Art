@@ -1,0 +1,99 @@
+{
+  "object_id": 209306,
+  "excel_metadata": {
+    "Object Number": "1976.155.4",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 209306,
+    "Gallery Number": 545.0,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1976.0,
+    "Object Name": "Snuffbox, painting",
+    "Title": "Snuffbox",
+    "Culture": "French, Paris",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 3393.0,
+    "Artist Role": "Maker",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Jean Formey",
+    "Artist Display Bio": "active Paris, master 1754, active 1791",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Formey, Jean",
+    "Artist Nationality": " ",
+    "Artist Begin Date": "1724",
+    "Artist End Date": "1821",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": NaN,
+    "Artist Wikidata URL": NaN,
+    "Object Date": "1757–58",
+    "Object Begin Date": 1757,
+    "Object End Date": 1758,
+    "Medium": "Gold, enamel",
+    "Dimensions": "Overall: 1 5/8 × 3 3/16 × 2 3/8 in. (4.1 × 8.1 × 6 cm)",
+    "Credit Line": "Gift of Mr. and Mrs. Charles Wrightsman, 1976",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Metalwork-Gold and Platinum|Miniatures",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/209306",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q116240635",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Fruit|Flowers",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300011868|http://vocab.getty.edu/page/aat/300132399",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q1364|https://www.wikidata.org/wiki/Q506"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/LC-1976_155_4-001.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/LC-1976_155_4-002.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/LC-1976_155_4-003.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 33939,
+        "role": "Maker",
+        "name": "Jean Formey",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 6.032512,
+          "Height": 4.127508,
+          "Width": 8.096266
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Fruit",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300011868",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q1364"
+      },
+      {
+        "term": "Flowers",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132399",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q506"
+      }
+    ]
+  }
+}

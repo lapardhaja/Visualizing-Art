@@ -1,0 +1,90 @@
+{
+  "object_id": 437910,
+  "excel_metadata": {
+    "Object Number": "65.181.6",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437910,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1965.0,
+    "Object Name": "Painting",
+    "Title": "Saint Jerome",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16265.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": "Workshop of",
+    "Artist Display Name": "Antonio Vivarini",
+    "Artist Display Bio": "Italian, Venice, active by 1440–died 1476/84",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Vivarini, Antonio",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1440",
+    "Artist End Date": "1484",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500010947",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q935534",
+    "Object Date": "1440s",
+    "Object Begin Date": 1440,
+    "Object End Date": 1449,
+    "Medium": "Tempera on wood, gold ground",
+    "Dimensions": "10 1/4 x 6 5/8 in. (26 x 16.8 cm)",
+    "Credit Line": "Bequest of Adele L. Lehman, in memory of Arthur Lehman, 1965",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437910",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912760",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Saint Jerome",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ulan/500060933",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q44248"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/EP322.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162659,
+        "role": "Artist",
+        "name": "Workshop of Antonio Vivarini",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500010947",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q935534",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 26,
+          "Width": 16.8
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Saint Jerome",
+        "AAT_URL": "http://vocab.getty.edu/page/ulan/500060933",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q44248"
+      }
+    ]
+  }
+}

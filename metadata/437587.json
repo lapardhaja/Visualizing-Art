@@ -1,0 +1,95 @@
+{
+  "object_id": 437587,
+  "excel_metadata": {
+    "Object Number": "71.98",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437587,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1871.0,
+    "Object Name": "Painting",
+    "Title": "Marine",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16235.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Salomon van Ruysdael",
+    "Artist Display Bio": "Dutch, Naarden, born ca. 1600–1603, died 1670 Haarlem",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Ruysdael, Salomon van",
+    "Artist Nationality": "Dutch",
+    "Artist Begin Date": "1600",
+    "Artist End Date": "1670",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500010095",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q247005",
+    "Object Date": "1650",
+    "Object Begin Date": 1650,
+    "Object End Date": 1650,
+    "Medium": "Oil on wood",
+    "Dimensions": "13 5/8 x 17 1/8 in. (34.6 x 43.5 cm)",
+    "Credit Line": "Purchase, 1871",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437587",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912404",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Seascapes|Ships",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300117546|http://vocab.getty.edu/page/aat/300082981",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q158607|https://www.wikidata.org/wiki/Q11446"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP145942.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162357,
+        "role": "Artist",
+        "name": "Salomon van Ruysdael",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500010095",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q247005",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 34.6,
+          "Width": 43.5
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Seascapes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300117546",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q158607"
+      },
+      {
+        "term": "Ships",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300082981",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q11446"
+      }
+    ]
+  }
+}

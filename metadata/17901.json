@@ -1,0 +1,103 @@
+{
+  "object_id": 17901,
+  "excel_metadata": {
+    "Object Number": "2005.29",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 17901,
+    "Gallery Number": NaN,
+    "Department": "The American Wing",
+    "AccessionYear": 2005.0,
+    "Object Name": "Painting, miniature",
+    "Title": "Mrs. John Wood Dodge (Mary Louise Dodge)",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 247.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "John Wood Dodge",
+    "Artist Display Bio": "1807–1893",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Dodge, John Wood",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1807",
+    "Artist End Date": "1893",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500019552",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q16062203",
+    "Object Date": "1836",
+    "Object Begin Date": 1836,
+    "Object End Date": 1836,
+    "Medium": "Watercolor on ivory",
+    "Dimensions": "4 3/4 x 3 5/8 in. (12.1 x 9.2 cm)",
+    "Credit Line": "Purchase, Martha J. Fleischman Gift, in honor of Lillian Brenwasser, 2005",
+    "Geography Type": "Made in",
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": "United States",
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/17901",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20176954",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Portraits|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DP115295.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 2471,
+        "role": "Artist",
+        "name": "John Wood Dodge",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500019552",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q16062203",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 12.065,
+          "Width": 9.2075
+        }
+      },
+      {
+        "elementName": "Sight",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 11,
+          "Width": 8.7
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

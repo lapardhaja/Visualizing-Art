@@ -1,0 +1,109 @@
+{
+  "object_id": 438380,
+  "excel_metadata": {
+    "Object Number": "2005.331.8",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 438380,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 2005.0,
+    "Object Name": "Painting",
+    "Title": "Fishing Boats on a River",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16235.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Salomon van Ruysdael",
+    "Artist Display Bio": "Dutch, Naarden, born ca. 1600–1603, died 1670 Haarlem",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Ruysdael, Salomon van",
+    "Artist Nationality": "Dutch",
+    "Artist Begin Date": "1600",
+    "Artist End Date": "1670",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500010095",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q247005",
+    "Object Date": "early 1660s",
+    "Object Begin Date": 1660,
+    "Object End Date": 1663,
+    "Medium": "Oil on wood",
+    "Dimensions": "Overall, with added strips, 14 3/4 x 21 7/8 in. (37.5 x 55.6 cm); painted surface 14 1/4 x 21 1/4 in. (36.2 x 54 cm)",
+    "Credit Line": "From the Collection of Rita and Frits Markus, Bequest of Rita Markus, 2005",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/438380",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19913164",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Fishing|Rivers|Boats",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300239470|http://vocab.getty.edu/page/aat/300008707|http://vocab.getty.edu/page/aat/300178749",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q14373|https://www.wikidata.org/wiki/Q4022|https://www.wikidata.org/wiki/Q35872"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP120419.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162357,
+        "role": "Artist",
+        "name": "Salomon van Ruysdael",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500010095",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q247005",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 37.4651,
+          "Width": 55.5626
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 5.08,
+          "Height": 53.3401,
+          "Width": 71.1201
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Fishing",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300239470",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q14373"
+      },
+      {
+        "term": "Rivers",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300008707",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q4022"
+      },
+      {
+        "term": "Boats",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300178749",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q35872"
+      }
+    ]
+  }
+}

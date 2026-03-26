@@ -1,0 +1,90 @@
+{
+  "object_id": 437637,
+  "excel_metadata": {
+    "Object Number": "87.15.61",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437637,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1887.0,
+    "Object Name": "Painting",
+    "Title": "Lost: Souvenir of Auvergne",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10828.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "August Friedrich Albrecht Schenck",
+    "Artist Display Bio": "Danish, Glückstadt 1828–1901 Ecouen",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Schenck, August Friedrich Albrecht",
+    "Artist Nationality": "Danish",
+    "Artist Begin Date": "1828",
+    "Artist End Date": "1901",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500003190",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q16534240",
+    "Object Date": NaN,
+    "Object Begin Date": 1848,
+    "Object End Date": 1901,
+    "Medium": "Oil on canvas",
+    "Dimensions": "58 x 97 3/4 in. (147.3 x 248.3 cm)",
+    "Credit Line": "Catharine Lorillard Wolfe Collection, Bequest of Catharine Lorillard Wolfe, 1887",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437637",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19913289",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Sheep",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300250284",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q7368"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/ep87.15.61.bw.R.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 108288,
+        "role": "Artist",
+        "name": "August Friedrich Albrecht Schenck",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500003190",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q16534240",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 147.3,
+          "Width": 248.3
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Sheep",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250284",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q7368"
+      }
+    ]
+  }
+}

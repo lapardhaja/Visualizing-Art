@@ -1,0 +1,104 @@
+{
+  "object_id": 437770,
+  "excel_metadata": {
+    "Object Number": "71.40ab",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437770,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1871.0,
+    "Object Name": "Painting",
+    "Title": "Saint Agapitus of Praeneste in the Arena; (interior) The Beheading of Saint Agapitus of Praeneste",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 12878.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Swiss Painter",
+    "Artist Display Bio": "fourth quarter 15th century",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Swiss Painter",
+    "Artist Nationality": "Swiss",
+    "Artist Begin Date": "          ",
+    "Artist End Date": "          ",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500125269",
+    "Artist Wikidata URL": NaN,
+    "Object Date": "ca. 1500–1505",
+    "Object Begin Date": 1500,
+    "Object End Date": 1505,
+    "Medium": "Oil, gold, and white metal on wood",
+    "Dimensions": "54 1/4 x 30 1/2 in. (137.8 x 77.5 cm)",
+    "Credit Line": "Purchase, 1871",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437770",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19911501",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Bears|Saints|Lions",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300266516|http://vocab.getty.edu/page/aat/300150555|http://vocab.getty.edu/page/aat/300310388",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q30090244|https://www.wikidata.org/wiki/Q43115|https://www.wikidata.org/wiki/Q140"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP164845.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/DP164846.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/GermanCat60a_Xray_det.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/GermanCat60a_IRP_detail_DecapitatedHead.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 128783,
+        "role": "Artist",
+        "name": "Swiss Painter",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500125269",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 137.8,
+          "Width": 77.5
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Bears",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300266516",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q30090244"
+      },
+      {
+        "term": "Lions",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300310388",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q140"
+      },
+      {
+        "term": "Saints",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300150555",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q43115"
+      }
+    ]
+  }
+}

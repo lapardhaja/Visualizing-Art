@@ -1,0 +1,84 @@
+{
+  "object_id": 197695,
+  "excel_metadata": {
+    "Object Number": "35.80.99",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 197695,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1935,
+    "Object Name": "Chamber candlestick",
+    "Title": "Chamber candlestick",
+    "Culture": "British, London",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 3521,
+    "Artist Role": "Maker",
+    "Artist Prefix": "Probably by",
+    "Artist Display Name": "Augustin Courtauld",
+    "Artist Display Bio": "British, 1685–1751",
+    "Artist Suffix": "(probably)",
+    "Artist Alpha Sort": "Courtauld Augustin",
+    "Artist Nationality": "British",
+    "Artist Begin Date": 1685,
+    "Artist End Date": 1751,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500094378",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q18572297",
+    "Object Date": "1710–11",
+    "Object Begin Date": 1710,
+    "Object End Date": 1711,
+    "Medium": "Silver",
+    "Dimensions": "2 1/4 × 6 3/4 in. (5.7 × 17.1 cm)",
+    "Credit Line": "Bequest of Mary Strong Shattuck, 1935",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Metalwork-Silver",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/197695",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": null,
+    "Tags AAT URL": null,
+    "Tags Wikidata URL": null
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/100732.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 35216,
+        "role": "Maker",
+        "name": "Probably by Augustin Courtauld",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500094378",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q18572297",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 5.7150116,
+          "Width": 17.145035
+        }
+      }
+    ],
+    "tags": null
+  }
+}

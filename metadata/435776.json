@@ -1,0 +1,100 @@
+{
+  "object_id": 435776,
+  "excel_metadata": {
+    "Object Number": "89.15.20",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 435776,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1889.0,
+    "Object Name": "Painting",
+    "Title": "Joseph Interpreting the Dreams of Pharaoh",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16416.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": "Attributed to",
+    "Artist Display Name": "Jörg Breu the Younger",
+    "Artist Display Bio": "German, Augsburg ca. 1510–1547 Augsburg",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Breu, Jörg, the Younger",
+    "Artist Nationality": "German",
+    "Artist Begin Date": "1510",
+    "Artist End Date": "1547",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500025707",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q876275",
+    "Object Date": "ca. 1534–47",
+    "Object Begin Date": 1534,
+    "Object End Date": 1547,
+    "Medium": "Distemper on linen",
+    "Dimensions": "67 5/8 x 57 1/4 in. (171.8 x 145.4 cm)",
+    "Credit Line": "Marquand Collection, Gift of Henry G. Marquand, 1889",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/435776",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19911408",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Dogs|Crowd",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300265714| ",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q144|https://www.wikidata.org/wiki/Q13430821"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP164851.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 164168,
+        "role": "Artist",
+        "name": "Attributed to Jörg Breu the Younger",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500025707",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q876275",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 171.8,
+          "Width": 145.4
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Dogs",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300265714",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q144"
+      },
+      {
+        "term": "Crowd",
+        "AAT_URL": null,
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q13430821"
+      }
+    ]
+  }
+}

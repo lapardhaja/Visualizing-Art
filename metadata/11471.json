@@ -1,0 +1,104 @@
+{
+  "object_id": 11471,
+  "excel_metadata": {
+    "Object Number": "10.153",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 11471,
+    "Gallery Number": NaN,
+    "Department": "The American Wing",
+    "AccessionYear": 1910.0,
+    "Object Name": "Painting",
+    "Title": "The Daughter's Return",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 270.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Robert MacCameron",
+    "Artist Display Bio": "1866–1912",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "MacCameron, Robert",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1866",
+    "Artist End Date": "1912",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500112923",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q21647648",
+    "Object Date": "1909",
+    "Object Begin Date": 1909,
+    "Object End Date": 1909,
+    "Medium": "Oil on canvas",
+    "Dimensions": "39 4/8 x 55 in. (100 x 139.7 cm)",
+    "Credit Line": "Gift of Mrs. Benjamin S. Guinness, 1910",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/11471",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19923812",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/ap10.153.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 2707,
+        "role": "Artist",
+        "name": "Robert MacCameron",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500112923",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q21647648",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 99.1,
+          "Width": 139.7003
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 9,
+          "Height": 125,
+          "Width": 165
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

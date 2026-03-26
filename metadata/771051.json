@@ -1,0 +1,90 @@
+{
+  "object_id": 771051,
+  "excel_metadata": {
+    "Object Number": "2018.62.162",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 771051,
+    "Gallery Number": 516,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 2018,
+    "Object Name": "Bowl",
+    "Title": "Cactus flower vase",
+    "Culture": "British, Longton",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 20182,
+    "Artist Role": "Maker",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Moore Brothers",
+    "Artist Display Bio": "British, 1870–1905",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Moore Brothers",
+    "Artist Nationality": "British",
+    "Artist Begin Date": 1870,
+    "Artist End Date": 1905,
+    "Artist Gender": null,
+    "Artist ULAN URL": null,
+    "Artist Wikidata URL": null,
+    "Object Date": "1870–80",
+    "Object Begin Date": 1870,
+    "Object End Date": 1880,
+    "Medium": "Bone china with enamel decoration and gilding",
+    "Dimensions": "confirmed: 4 15/16 × 5 1/2 × 5 in., 12.345oz. (12.5 × 14 × 12.7 cm, 350g)",
+    "Credit Line": "Gift of Helene Fortunoff and Robert Grossman, 2017",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Ceramics-Porcelain",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/771051",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q116445097",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": null,
+    "Tags AAT URL": null,
+    "Tags Wikidata URL": null
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP-16489-323.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/DP-16489-324.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP-16489-490.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP-16489-326.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 201828,
+        "role": "Maker",
+        "name": "Moore Brothers",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": "confirmed",
+        "elementMeasurements": {
+          "Depth": 12.700026,
+          "Height": 12.541275,
+          "Weight": 0.35,
+          "Width": 13.970028
+        }
+      }
+    ],
+    "tags": null
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "object_id": 197980,
+  "excel_metadata": {
+    "Object Number": "37.20.229",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 197980,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1937,
+    "Object Name": "Plate",
+    "Title": "Plate (part of a service)",
+    "Culture": "French, Sèvres",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 1648563597,
+    "Artist Role": "Manufactory|Decorator",
+    "Artist Prefix": " | ",
+    "Artist Display Name": "Sèvres Manufactory|Pierre Massy",
+    "Artist Display Bio": "French, 1740–present|French, active 1779–1802",
+    "Artist Suffix": " | ",
+    "Artist Alpha Sort": "Sèvres Manufactory|Massy, Pierre",
+    "Artist Nationality": "French|French",
+    "Artist Begin Date": "1740      |1779      ",
+    "Artist End Date": "9999      |1802      ",
+    "Artist Gender": "|",
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500054661|http://vocab.getty.edu/page/ulan/500109204",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q653307|https://www.wikidata.org/wiki/Q2083303",
+    "Object Date": 1784,
+    "Object Begin Date": 1784,
+    "Object End Date": 1784,
+    "Medium": "Soft-paste porcelain",
+    "Dimensions": "Diameter: 9 1/2 in. (24.1 cm)",
+    "Credit Line": "Bequest of Emma T. Gary, 1934",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Ceramics-Porcelain",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/197980",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Fruit|Flowers",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300011868|http://vocab.getty.edu/page/aat/300132399",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q1364|https://www.wikidata.org/wiki/Q506"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/110914.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 164856,
+        "role": "Manufactory",
+        "name": "Sèvres Manufactory",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500054661",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q653307",
+        "gender": ""
+      },
+      {
+        "constituentID": 35972,
+        "role": "Decorator",
+        "name": "Pierre Massy",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500109204",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q2083303",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Diameter",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Diameter": 24.130049
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Fruit",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300011868",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q1364"
+      },
+      {
+        "term": "Flowers",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132399",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q506"
+      }
+    ]
+  }
+}

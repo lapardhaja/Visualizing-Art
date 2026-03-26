@@ -1,0 +1,102 @@
+{
+  "object_id": 436537,
+  "excel_metadata": {
+    "Object Number": "20.16",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436537,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1920.0,
+    "Object Name": "Painting, left wing of a diptych",
+    "Title": "Madonna and Child with the Annunciation and the Nativity",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16541.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Goodhart Ducciesque Master",
+    "Artist Display Bio": "Italian, Siena, active ca. 1315–30",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Goodhart Ducciesque Master",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1310",
+    "Artist End Date": "1330",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500026644",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q18562176",
+    "Object Date": "ca. 1310–15",
+    "Object Begin Date": 1310,
+    "Object End Date": 1330,
+    "Medium": "Tempera on wood, gold ground",
+    "Dimensions": "Overall, with engaged frame, 12 1/8 x 8 1/4 in. (30.8 x 21 cm); painted surface 10 1/4 x 6 1/2 in. (26 x 16.5 cm)",
+    "Credit Line": "Marquand Fund, 1920",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436537",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19905330",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Madonna and Child|Annunciation|Nativity",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901000052|http://vocab.getty.edu/page/aat/300412102|http://vocab.getty.edu/page/ia/901000124",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q9309699|https://www.wikidata.org/wiki/Q154326|https://www.wikidata.org/wiki/Q51628"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP367958.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-20_160-2.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 165410,
+        "role": "Artist",
+        "name": "Goodhart Ducciesque Master",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500026644",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q18562176",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 30.8,
+          "Width": 21
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Madonna and Child",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000052",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q9309699"
+      },
+      {
+        "term": "Annunciation",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300412102",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q154326"
+      },
+      {
+        "term": "Nativity",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000124",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q51628"
+      }
+    ]
+  }
+}

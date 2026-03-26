@@ -1,0 +1,112 @@
+{
+  "object_id": 10081,
+  "excel_metadata": {
+    "Object Number": "63.200.5",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 10081,
+    "Gallery Number": 774.0,
+    "Department": "The American Wing",
+    "AccessionYear": 1963.0,
+    "Object Name": "Painting",
+    "Title": "Hudson's Bay Lemming",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 231.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "John Woodhouse Audubon",
+    "Artist Display Bio": "1812–1862",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Audubon, John Woodhouse",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1812",
+    "Artist End Date": "1862",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500029919",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q18508415",
+    "Object Date": "1846",
+    "Object Begin Date": 1846,
+    "Object End Date": 1846,
+    "Medium": "Oil on canvas",
+    "Dimensions": "14 x 22 in. (35.6 x 55.9 cm)",
+    "Credit Line": "Gift of Mrs. Darwin S. Morse, 1963",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/10081",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20171194",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Animals|Plants",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300249525|http://vocab.getty.edu/page/aat/300132360",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q729|https://www.wikidata.org/wiki/Q756"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/ap63.200.5.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 2314,
+        "role": "Artist",
+        "name": "John Woodhouse Audubon",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500029919",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q18508415",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 35.6,
+          "Width": 55.9
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 7,
+          "Height": 47.3,
+          "Width": 67.9
+        }
+      },
+      {
+        "elementName": "Other",
+        "elementDescription": "glazing (when needed)",
+        "elementMeasurements": {
+          "Height": 36.35382,
+          "Width": 56.991364
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Animals",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300249525",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q729"
+      },
+      {
+        "term": "Plants",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132360",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q756"
+      }
+    ]
+  }
+}

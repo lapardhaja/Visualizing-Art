@@ -1,0 +1,93 @@
+{
+  "object_id": 204058,
+  "excel_metadata": {
+    "Object Number": "64.142.73",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 204058,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1964,
+    "Object Name": "Cream jug",
+    "Title": "Cream jug",
+    "Culture": "British, Worcester",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 3511,
+    "Artist Role": "Factory",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Worcester factory",
+    "Artist Display Bio": "British, 1751–2008",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Worcester factory",
+    "Artist Nationality": "British",
+    "Artist Begin Date": 1751,
+    "Artist End Date": 2008,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500332804",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q668894",
+    "Object Date": "ca. 1753",
+    "Object Begin Date": 1748,
+    "Object End Date": 1758,
+    "Medium": "Soft-paste porcelain",
+    "Dimensions": null,
+    "Credit Line": "Gift of Mrs. Constance D. Stieglitz, in memory of her husband, Marcel H. Stieglitz, 1964",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Ceramics-Porcelain",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/204058",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Human Figures|Chinoiserie|Birds",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300404114|http://vocab.getty.edu/page/aat/300021167|http://vocab.getty.edu/page/aat/300266506",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q5937779|https://www.wikidata.org/wiki/Q863679|https://www.wikidata.org/wiki/Q5113"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP-1006-028.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/DP-1006-029.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 35110,
+        "role": "Factory",
+        "name": "Worcester factory",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500332804",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q668894",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": "confirmed",
+        "elementMeasurements": {
+          "Depth": 5.5,
+          "Height": 8.5,
+          "Width": 8.255016
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Chinoiserie",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300021167",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q863679"
+      }
+    ]
+  }
+}

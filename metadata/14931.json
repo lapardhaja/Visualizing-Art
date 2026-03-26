@@ -1,0 +1,104 @@
+{
+  "object_id": 14931,
+  "excel_metadata": {
+    "Object Number": "1993.324",
+    "Is Highlight": true,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 14931,
+    "Gallery Number": 768.0,
+    "Department": "The American Wing",
+    "AccessionYear": 1993.0,
+    "Object Name": "Painting",
+    "Title": "A Rose",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16161.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Thomas Anshutz",
+    "Artist Display Bio": "American, Newport, Kentucky 1851–1912 Fort Washington, Pennsylvania",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Anshutz, Thomas",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1851",
+    "Artist End Date": "1912",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500011734",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q2757568",
+    "Object Date": "1907",
+    "Object Begin Date": 1907,
+    "Object End Date": 1907,
+    "Medium": "Oil on canvas",
+    "Dimensions": "58 x 43 7/8 in. (147.3 x 111.4 cm)",
+    "Credit Line": "Marguerite and Frank A. Cosgrove Jr. Fund, 1993",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/14931",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20169485",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Portraits|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DT104.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 161613,
+        "role": "Artist",
+        "name": "Thomas Anshutz",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500011734",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q2757568",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 9.5,
+          "Height": 174,
+          "Width": 137.5
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 147.3,
+          "Width": 111.4427
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

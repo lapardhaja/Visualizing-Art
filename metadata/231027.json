@@ -1,0 +1,93 @@
+{
+  "object_id": 231027,
+  "excel_metadata": {
+    "Object Number": "2004.440.1",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 231027,
+    "Gallery Number": 536,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 2004,
+    "Object Name": "Frieze fragment",
+    "Title": "Capricorn (section of a zodiac frieze)",
+    "Culture": "Italian, Milan",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": null,
+    "Artist Role": null,
+    "Artist Prefix": null,
+    "Artist Display Name": null,
+    "Artist Display Bio": null,
+    "Artist Suffix": null,
+    "Artist Alpha Sort": null,
+    "Artist Nationality": null,
+    "Artist Begin Date": null,
+    "Artist End Date": null,
+    "Artist Gender": null,
+    "Artist ULAN URL": null,
+    "Artist Wikidata URL": null,
+    "Object Date": 1582,
+    "Object Begin Date": 1582,
+    "Object End Date": 1582,
+    "Medium": "Bronze",
+    "Dimensions": "Overall (confirmed): 6 1/2 × 7 7/8 × 1 7/8 in. (16.5 × 20 × 4.8 cm)",
+    "Credit Line": "European Sculpture and Decorative Arts Fund, 2004",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Sculpture-Bronze",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/231027",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q116306653",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Zodiac",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300009937",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q40540"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP-156-001.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/DT201006.jpg"
+    ],
+    "constituents": null,
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 3.8100076,
+          "Height": 16.510033,
+          "Width": 19.367538
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": "confirmed",
+        "elementMeasurements": {
+          "Depth": 4.7625093,
+          "Height": 16.510033,
+          "Width": 20.00254
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Zodiac",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300009937",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q40540"
+      }
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "object_id": 459134,
+  "excel_metadata": {
+    "Object Number": "1975.1.10",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 459134,
+    "Gallery Number": NaN,
+    "Department": "Robert Lehman Collection",
+    "AccessionYear": 1975.0,
+    "Object Name": "Painting",
+    "Title": "Madonna and Child",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16541.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Barna da Siena",
+    "Artist Display Bio": "Italian, Siena, active second quarter 14th century",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Barna da Siena",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1325",
+    "Artist End Date": "1375",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500004337",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q2447325",
+    "Object Date": "ca. 1340",
+    "Object Begin Date": 1337,
+    "Object End Date": 1343,
+    "Medium": "Tempera on wood, gold ground",
+    "Dimensions": "Overall, with engaged frame, 24 5/8 x 10 3/4 in. (62.5 x 27.3 cm); painted surface 19 7/8 x 8 5/8 in. (50.5 x 21.9 cm)",
+    "Credit Line": "Robert Lehman Collection, 1975\r\n1975.1.10",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/459134",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20188063",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Madonna and Child",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901000052",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q9309699"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/rl/original/LC-1975_1_010_001.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/rl/original/LC-1975_1_010-002.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/ep1975.1.10.bw.R.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/Child0216.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 165411,
+        "role": "Artist",
+        "name": "Barna da Siena",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500004337",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q2447325",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 62.5,
+          "Width": 27.3
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Madonna and Child",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000052",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q9309699"
+      }
+    ]
+  }
+}

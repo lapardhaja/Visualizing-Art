@@ -1,0 +1,105 @@
+{
+  "object_id": 816630,
+  "excel_metadata": {
+    "Object Number": "2020.263.6",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 816630,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 2020.0,
+    "Object Name": "Painting",
+    "Title": "Charity",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 7471.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Carlo Cignani",
+    "Artist Display Bio": "Italian, Bologna 1628–1719 Forlì",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Cignani, Carlo",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1628",
+    "Artist End Date": "1719",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500115360",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q239980",
+    "Object Date": "ca. 1680",
+    "Object Begin Date": 1648,
+    "Object End Date": 1719,
+    "Medium": "Oil on copper",
+    "Dimensions": "20 × 27 in. (50.8 × 68.6 cm)",
+    "Credit Line": "Bequest of Errol M. Rudman, 2020",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/816630",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q111272642",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Nursing|Sleeping|Female Nudes|Infants",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300379905|http://vocab.getty.edu/page/aat/300375130|http://vocab.getty.edu/page/aat/300189568|http://vocab.getty.edu/page/aat/300189561",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q174876|https://www.wikidata.org/wiki/Q35831|https://www.wikidata.org/wiki/Q40446|https://www.wikidata.org/wiki/Q998"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-19775-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 74715,
+        "role": "Artist",
+        "name": "Carlo Cignani",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115360",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q239980",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 50.800102,
+          "Width": 68.58014
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Sleeping",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300375130",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q35831"
+      },
+      {
+        "term": "Infants",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300189561",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q998"
+      },
+      {
+        "term": "Female Nudes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300189568",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q40446"
+      },
+      {
+        "term": "Nursing",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379905",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q174876"
+      }
+    ]
+  }
+}

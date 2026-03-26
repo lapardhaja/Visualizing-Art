@@ -1,0 +1,109 @@
+{
+  "object_id": 10947,
+  "excel_metadata": {
+    "Object Number": "12.205.1",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 10947,
+    "Gallery Number": 760.0,
+    "Department": "The American Wing",
+    "AccessionYear": 1912.0,
+    "Object Name": "Painting",
+    "Title": "Tivoli",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 254.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Sanford Robinson Gifford",
+    "Artist Display Bio": "Greenfield, New York 1823–1880 New York, New York",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Gifford, Sanford Robinson",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1823",
+    "Artist End Date": "1880",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500019147",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q615161",
+    "Object Date": "1870",
+    "Object Begin Date": 1870,
+    "Object End Date": 1870,
+    "Medium": "Oil on canvas",
+    "Dimensions": "26 3/8 x 50 3/8 in. (67 x 128 cm)",
+    "Credit Line": "Gift of Robert Gordon, 1912",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/10947",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20169896",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Landscapes|Rivers|Sun",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300132294|http://vocab.getty.edu/page/aat/300008707|http://vocab.getty.edu/page/aat/300379806",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q191163|https://www.wikidata.org/wiki/Q4022|https://www.wikidata.org/wiki/Q525"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DT1549.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 2546,
+        "role": "Artist",
+        "name": "Sanford Robinson Gifford",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500019147",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q615161",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 67,
+          "Width": 128
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 15.5,
+          "Height": 105,
+          "Width": 167
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Rivers",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300008707",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q4022"
+      },
+      {
+        "term": "Sun",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379806",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q525"
+      },
+      {
+        "term": "Landscapes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+      }
+    ]
+  }
+}

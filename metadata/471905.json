@@ -1,0 +1,134 @@
+{
+  "object_id": 471905,
+  "excel_metadata": {
+    "Object Number": "61.200.2",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 471905,
+    "Gallery Number": 14.0,
+    "Department": "The Cloisters",
+    "AccessionYear": 1961.0,
+    "Object Name": "Painting",
+    "Title": "The Lamentation",
+    "Culture": "Italian",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16211.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Master of the Codex of Saint George",
+    "Artist Display Bio": "Italian, active Florence, ca. 1315–35",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Master of the Codex of Saint George",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1310",
+    "Artist End Date": "1335",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500026195",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q1918541",
+    "Object Date": "ca. 1330–35",
+    "Object Begin Date": 1330,
+    "Object End Date": 1335,
+    "Medium": "Tempera on wood, gold ground",
+    "Dimensions": "Overall: 18 x 11 3/4 in. (45.7 x 29.8 cm)\r\nPainted surface: 15 5/8 x 10 5/8 in. (39.7 x 27 cm)",
+    "Credit Line": "The Cloisters Collection, 1961",
+    "Geography Type": "Made in",
+    "City": NaN,
+    "State": NaN,
+    "County": "probably Avignon",
+    "Country": "France",
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings-Panels",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/471905",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20200871",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Christ|Virgin Mary|Saint John the Evangelist|Mary Magdalene|Lamentation|Saints",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901000087|http://vocab.getty.edu/page/ia/901000032|http://vocab.getty.edu/page/ia/901001171|http://vocab.getty.edu/page/ia/901000161|http://vocab.getty.edu/page/ia/901001196|http://vocab.getty.edu/page/aat/300150555",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q642420|https://www.wikidata.org/wiki/Q345|https://www.wikidata.org/wiki/Q328804|https://www.wikidata.org/wiki/Q63070|https://www.wikidata.org/wiki/Q3155356|https://www.wikidata.org/wiki/Q43115"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/cl/original/DT200610.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/cl/original/sf61-200-2s2.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 162113,
+        "role": "Artist",
+        "name": "Master of the Codex of Saint George",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500026195",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1918541",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 45.7,
+          "Width": 29.8
+        }
+      },
+      {
+        "elementName": "Other",
+        "elementDescription": "Painted surface",
+        "elementMeasurements": {
+          "Height": 39.7,
+          "Width": 27
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": "Modern",
+        "elementMeasurements": {
+          "Depth": 3.1750064,
+          "Height": 47.625095,
+          "Width": 32.702564
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Christ",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+      },
+      {
+        "term": "Mary Magdalene",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000161",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q63070"
+      },
+      {
+        "term": "Saint John the Evangelist",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901001171",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q328804"
+      },
+      {
+        "term": "Virgin Mary",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000032",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q345"
+      },
+      {
+        "term": "Lamentation",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901001196",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3155356"
+      },
+      {
+        "term": "Saints",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300150555",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q43115"
+      }
+    ]
+  }
+}

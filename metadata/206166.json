@@ -1,0 +1,114 @@
+{
+  "object_id": 206166,
+  "excel_metadata": {
+    "Object Number": "1974.356.662",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 206166,
+    "Gallery Number": NaN,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1974.0,
+    "Object Name": "Snuffbox, painting",
+    "Title": "Snuffbox with portrait of a woman",
+    "Culture": "German, Hanau",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 2.0107620136820136e+16,
+    "Artist Role": "Maker|Maker|Maker",
+    "Artist Prefix": " |Partnership of|and",
+    "Artist Display Name": "Les Frères Souchay|Esay Souchay|Marc-André Souchay",
+    "Artist Display Bio": "Swiss, active Hanau, by 1764|1723–1791|1730–1811",
+    "Artist Suffix": " | | ",
+    "Artist Alpha Sort": "Souchay Les Frères|Souchay, Esay|Souchay, Marc-André",
+    "Artist Nationality": "Swiss| | ",
+    "Artist Begin Date": "          |1723      |1730      ",
+    "Artist End Date": "          |1791      |1811      ",
+    "Artist Gender": "||",
+    "Artist ULAN URL": "||",
+    "Artist Wikidata URL": "||",
+    "Object Date": "ca. 1785–95",
+    "Object Begin Date": 1780,
+    "Object End Date": 1800,
+    "Medium": "Gold, enamel",
+    "Dimensions": "Overall: 3 1/8 × 1 3/16 in. (7.9 × 3 cm)",
+    "Credit Line": "The Lesley and Emma Sheafer Collection, Bequest of Emma A. Sheafer, 1973",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Metalwork-Gold and Platinum|Miniatures",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/206166",
+    "Object Wikidata URL": NaN,
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Portraits|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/SF1974_356_662_img1.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/SF1974_356_662_img2.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/SF1974_356_662_marks.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 201076,
+        "role": "Maker",
+        "name": "Les Frères Souchay",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      },
+      {
+        "constituentID": 201368,
+        "role": "Maker",
+        "name": "Partnership of Esay Souchay",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      },
+      {
+        "constituentID": 201369,
+        "role": "Maker",
+        "name": "and Marc-André Souchay",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 7.9375157,
+          "Width": 3.016256
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

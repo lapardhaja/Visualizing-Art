@@ -1,0 +1,116 @@
+{
+  "object_id": 10968,
+  "excel_metadata": {
+    "Object Number": "73.5",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 10968,
+    "Gallery Number": 774.0,
+    "Department": "The American Wing",
+    "AccessionYear": 1873.0,
+    "Object Name": "Painting",
+    "Title": "The Wages of War",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16458.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Henry Peters Gray",
+    "Artist Display Bio": "American, New York 1819–1877 New York",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Gray, Henry Peters",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1819",
+    "Artist End Date": "1877",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500008708",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q9002959",
+    "Object Date": "1848",
+    "Object Begin Date": 1848,
+    "Object End Date": 1848,
+    "Medium": "Oil on canvas",
+    "Dimensions": "48 1/4 x 76 1/4 in. (122.6 x 193.7 cm)",
+    "Credit Line": "Gift of Several Ladies and Gentlemen, 1873",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/10968",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19925504",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Soldiers|Children|Men|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300185678|http://vocab.getty.edu/page/aat/300025945|http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q4991371|https://www.wikidata.org/wiki/Q7569|https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/ap73.5.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ad/original/APS1952.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 164581,
+        "role": "Artist",
+        "name": "Henry Peters Gray",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500008708",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q9002959",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 122.5552,
+          "Width": 193.7
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 15,
+          "Height": 150.5,
+          "Width": 222.2
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Soldiers",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300185678",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q4991371"
+      },
+      {
+        "term": "Children",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025945",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q7569"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

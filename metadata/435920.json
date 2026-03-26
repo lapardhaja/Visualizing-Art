@@ -1,0 +1,95 @@
+{
+  "object_id": 435920,
+  "excel_metadata": {
+    "Object Number": "95.14.69",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 435920,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1895.0,
+    "Object Name": "Painting, miniature",
+    "Title": "Portrait of a Man",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10859.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Samuel Collins",
+    "Artist Display Bio": "British, 1735?–1768",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Collins, Samuel",
+    "Artist Nationality": "British",
+    "Artist Begin Date": "1735",
+    "Artist End Date": "1768",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500015896",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q7411149",
+    "Object Date": NaN,
+    "Object Begin Date": 1755,
+    "Object End Date": 1768,
+    "Medium": "Ivory",
+    "Dimensions": "Oval, 1 5/8 x 1 1/4 in. (40 x 32 mm)",
+    "Credit Line": "The Moses Lazarus Collection, Gift of Josephine and Sarah Lazarus, in memory of their father, 1888–95",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Miniatures",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/435920",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19914015",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-31480-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 108590,
+        "role": "Artist",
+        "name": "Samuel Collins",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500015896",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q7411149",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 4.1,
+          "Width": 3.2
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

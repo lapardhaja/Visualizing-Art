@@ -1,0 +1,95 @@
+{
+  "object_id": 436054,
+  "excel_metadata": {
+    "Object Number": "05.41.1",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436054,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1905.0,
+    "Object Name": "Painting, part of an altarpiece",
+    "Title": "Saint Dominic",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16179.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Carlo Crivelli",
+    "Artist Display Bio": "Italian, Venice (?), active by 1457–died 1494/95 Ascoli Piceno",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Crivelli, Carlo",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1457",
+    "Artist End Date": "1495",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500005092",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q348024",
+    "Object Date": "1472",
+    "Object Begin Date": 1472,
+    "Object End Date": 1472,
+    "Medium": "Tempera on wood, gold ground",
+    "Dimensions": "38 1/4 x 12 3/4 in. (97.2 x 32.4 cm)",
+    "Credit Line": "Rogers Fund, 1905",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436054",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q3947010",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Saints",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300150555",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q43115"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT354152.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 161797,
+        "role": "Artist",
+        "name": "Carlo Crivelli",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500005092",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q348024",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 97.2,
+          "Width": 32.4
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Saints",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300150555",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q43115"
+      }
+    ]
+  }
+}

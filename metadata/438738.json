@@ -1,0 +1,100 @@
+{
+  "object_id": 438738,
+  "excel_metadata": {
+    "Object Number": "2004.359",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 438738,
+    "Gallery Number": 820.0,
+    "Department": "European Paintings",
+    "AccessionYear": 2004.0,
+    "Object Name": "Painting",
+    "Title": "Haystacks, Morning, Eragny",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16225.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Camille Pissarro",
+    "Artist Display Bio": "French, Charlotte Amalie, Saint Thomas 1830–1903 Paris",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Pissarro, Camille",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1830",
+    "Artist End Date": "1903",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500001924",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q134741",
+    "Object Date": "1899",
+    "Object Begin Date": 1899,
+    "Object End Date": 1899,
+    "Medium": "Oil on canvas",
+    "Dimensions": "25 x 31 1/2 in. (63.5 x 80 cm)",
+    "Credit Line": "Bequest of Douglas Dillon, 2003",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/438738",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912659",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Landscapes|Morning|Haystacks",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300132294|http://vocab.getty.edu/page/aat/300343630|http://vocab.getty.edu/page/aat/300435325",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q191163|https://www.wikidata.org/wiki/Q7722|https://www.wikidata.org/wiki/Q62577"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-20613-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162257,
+        "role": "Artist",
+        "name": "Camille Pissarro",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500001924",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q134741",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 63.5001,
+          "Width": 80.0102
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Landscapes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+      },
+      {
+        "term": "Morning",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300343630",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q7722"
+      },
+      {
+        "term": "Haystacks",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300435325",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q62577"
+      }
+    ]
+  }
+}

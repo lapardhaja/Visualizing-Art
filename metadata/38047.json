@@ -1,0 +1,90 @@
+{
+  "object_id": 38047,
+  "excel_metadata": {
+    "Object Number": "2019.445.4",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 38047,
+    "Gallery Number": NaN,
+    "Department": "Asian Art",
+    "AccessionYear": 2019.0,
+    "Object Name": "Painting",
+    "Title": NaN,
+    "Culture": "Western India, Rajasthan, Kota",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 1135.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Sheikh Taju",
+    "Artist Display Bio": " ",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "SHEIKH TAJU",
+    "Artist Nationality": "Indian",
+    "Artist Begin Date": "          ",
+    "Artist End Date": "          ",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": NaN,
+    "Artist Wikidata URL": NaN,
+    "Object Date": "1780",
+    "Object Begin Date": 1780,
+    "Object End Date": 1780,
+    "Medium": "Ink and watercolor on paper",
+    "Dimensions": "11 3/4 x 27 5/8 in. (29.8 x 70.2 cm)",
+    "Credit Line": "Gift of Cynthia Hazen Polsky, in celebration of the Museum’s 150th Anniversary, 2019",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/38047",
+    "Object Wikidata URL": NaN,
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": NaN,
+    "Tags AAT URL": NaN,
+    "Tags Wikidata URL": NaN
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/as/original/DP342079.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 11359,
+        "role": "Artist",
+        "name": "Sheikh Taju",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Image",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 29.8451,
+          "Width": 70.1676
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Tigers",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300249063",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q19939"
+      }
+    ]
+  }
+}

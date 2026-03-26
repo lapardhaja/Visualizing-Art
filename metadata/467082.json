@@ -1,0 +1,111 @@
+{
+  "object_id": 467082,
+  "excel_metadata": {
+    "Object Number": 30.69,
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 467082,
+    "Gallery Number": 306,
+    "Department": "Medieval Art",
+    "AccessionYear": 1930,
+    "Object Name": "Altar frontal",
+    "Title": "Altar Frontal",
+    "Culture": "British",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": null,
+    "Artist Role": null,
+    "Artist Prefix": null,
+    "Artist Display Name": null,
+    "Artist Display Bio": null,
+    "Artist Suffix": null,
+    "Artist Alpha Sort": null,
+    "Artist Nationality": null,
+    "Artist Begin Date": null,
+    "Artist End Date": null,
+    "Artist Gender": null,
+    "Artist ULAN URL": null,
+    "Artist Wikidata URL": null,
+    "Object Date": "late 14th century",
+    "Object Begin Date": 1350,
+    "Object End Date": 1399,
+    "Medium": "Oak",
+    "Dimensions": "Overall (with frame): 30 3/16 x 64 3/8 x 3 in. (76.7 x 163.5 x 7.6 cm)_x000D_\nOverall: 54lb. (24.5kg)_x000D_\nwithout frame: 27 7/8 x 62 in. (70.8 x 157.5 cm)",
+    "Credit Line": "Rogers Fund, 1930",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Woodwork-Furniture",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/467082",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q116281678",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Angels|Music|Apostles",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300379004|http://vocab.getty.edu/page/aat/300435214|http://vocab.getty.edu/page/aat/300343837",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q235113|https://www.wikidata.org/wiki/Q638|https://www.wikidata.org/wiki/Q43412"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/md/original/sf30-69s1b.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/md/original/tem3069.jpg",
+      "https://images.metmuseum.org/CRDImages/md/original/sf30-69d3.jpg",
+      "https://images.metmuseum.org/CRDImages/md/original/sf30-69d7.jpg"
+    ],
+    "constituents": null,
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": "with frame",
+        "elementMeasurements": {
+          "Depth": 7.62,
+          "Height": 76.6764,
+          "Width": 163.5128
+        }
+      },
+      {
+        "elementName": "Other",
+        "elementDescription": "without frame",
+        "elementMeasurements": {
+          "Height": 70.8026,
+          "Width": 157.4803
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Weight": 24.49424
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Music",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300435214",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q638"
+      },
+      {
+        "term": "Angels",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379004",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q235113"
+      },
+      {
+        "term": "Apostles",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300343837",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q43412"
+      }
+    ]
+  }
+}

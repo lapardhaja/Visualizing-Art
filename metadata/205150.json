@@ -1,0 +1,98 @@
+{
+  "object_id": 205150,
+  "excel_metadata": {
+    "Object Number": 69.254,
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 205150,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1969,
+    "Object Name": "Relief",
+    "Title": "The Triumph of Silenus",
+    "Culture": "possibly Netherlandish",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 16313,
+    "Artist Role": "Artist",
+    "Artist Prefix": "After a composition by",
+    "Artist Display Name": "Cornelis Bos",
+    "Artist Display Bio": "Netherlandish, Hertogenbosch ca. 1510?–before 1556 Groningen",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Bos, Cornelis",
+    "Artist Nationality": "Netherlandish",
+    "Artist Begin Date": 1510,
+    "Artist End Date": 1556,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500028261",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q5171219",
+    "Object Date": "late 16th–early 17th century",
+    "Object Begin Date": 1585,
+    "Object End Date": 1615,
+    "Medium": "Lead",
+    "Dimensions": "11 1/2 × 33 in. (29.2 × 83.8 cm)",
+    "Credit Line": "Gift of Allen H. and Elizabeth S.C. Merrill, 1969",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Sculpture",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/205150",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Silenus|Crowd",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300412120| ",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q464091|https://www.wikidata.org/wiki/Q13430821"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/200508.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/200509.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/200510.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 163130,
+        "role": "Artist",
+        "name": "After a composition by Cornelis Bos",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500028261",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5171219",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 29.210058,
+          "Width": 83.82017
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Silenus",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300412120",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q464091"
+      },
+      {
+        "term": "Crowd",
+        "AAT_URL": null,
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q13430821"
+      }
+    ]
+  }
+}

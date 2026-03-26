@@ -1,0 +1,98 @@
+{
+  "object_id": 437004,
+  "excel_metadata": {
+    "Object Number": "44.147.1",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437004,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1944.0,
+    "Object Name": "Painting, part of an altarpiece",
+    "Title": "Saint Adalbert and Saint Procopius",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10798.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Master of Eggenburg",
+    "Artist Display Bio": "Austrian, Tirol, active 1490–1500",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Master of Eggenburg",
+    "Artist Nationality": "Austrian",
+    "Artist Begin Date": "1490",
+    "Artist End Date": "1500",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500014229",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q21685956",
+    "Object Date": "ca. 1490–1500",
+    "Object Begin Date": 1490,
+    "Object End Date": 1500,
+    "Medium": "Oil on spruce, gold ground",
+    "Dimensions": "Painted surface, including black border, 27 1/8 x 17 in. (68.9 x 43.2 cm)",
+    "Credit Line": "Gift of William Rosenwald, 1944",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437004",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19911522",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Saints",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300150555",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q43115"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP164824.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/GermanCat48a_Xray.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/GermanCat48a_IRP.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 107988,
+        "role": "Artist",
+        "name": "Master of Eggenburg",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500014229",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q21685956",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 68.9,
+          "Width": 43.2
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Saints",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300150555",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q43115"
+      }
+    ]
+  }
+}

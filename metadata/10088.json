@@ -1,0 +1,95 @@
+{
+  "object_id": 10088,
+  "excel_metadata": {
+    "Object Number": "12.83",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 10088,
+    "Gallery Number": 754.0,
+    "Department": "The American Wing",
+    "AccessionYear": 1912.0,
+    "Object Name": "Painting, miniature",
+    "Title": "Elizabeth Humphrey",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 232.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Martha Susan Baker",
+    "Artist Display Bio": "1871–1911",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Baker, Martha Susan",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1871",
+    "Artist End Date": "1911",
+    "Artist Gender": "Female",
+    "Artist ULAN URL": NaN,
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q21995239",
+    "Object Date": "1899",
+    "Object Begin Date": 1899,
+    "Object End Date": 1899,
+    "Medium": "Watercolor on ivory",
+    "Dimensions": "Sight: 3 1/4 x 2 3/8 in. (8.3 x 6 cm)",
+    "Credit Line": "Gift of Mrs. Charles E. Baker, 1912",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/10088",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20177918",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Portraits|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/12896.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 2320,
+        "role": "Artist",
+        "name": "Martha Susan Baker",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q21995239",
+        "gender": "Female"
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Sight",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 8.255,
+          "Width": 6.0325
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

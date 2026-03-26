@@ -1,0 +1,111 @@
+{
+  "object_id": 11117,
+  "excel_metadata": {
+    "Object Number": "23.77.2",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 11117,
+    "Gallery Number": 767.0,
+    "Department": "The American Wing",
+    "AccessionYear": 1923.0,
+    "Object Name": "Painting",
+    "Title": "Eagle Head, Manchester, Massachusetts (High Tide)",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16199.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Winslow Homer",
+    "Artist Display Bio": "American, Boston, Massachusetts 1836–1910 Prouts Neck, Maine",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Homer, Winslow",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1836",
+    "Artist End Date": "1910",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500019202",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q344838",
+    "Object Date": "1870",
+    "Object Begin Date": 1870,
+    "Object End Date": 1870,
+    "Medium": "Oil on canvas",
+    "Dimensions": "26 x 38 in. (66 x 96.5 cm)\r\nFramed: 38 3/8 x 50 1/4 x 5 1/4 in. (97.5 x 127.6 x 13.3 cm)",
+    "Credit Line": "Gift of Mrs. William F. Milton, 1923",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/11117",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19930554",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Women|Dogs|Beaches",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/aat/300265714|http://vocab.getty.edu/page/aat/300008816",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q144|https://www.wikidata.org/wiki/Q40080"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DP-21445-001.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ad/original/DT517.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 161996,
+        "role": "Artist",
+        "name": "Winslow Homer",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500019202",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q344838",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 13.3,
+          "Height": 97.5,
+          "Width": 127.6
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 66,
+          "Width": 96.5
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Dogs",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300265714",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q144"
+      },
+      {
+        "term": "Beaches",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300008816",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q40080"
+      }
+    ]
+  }
+}

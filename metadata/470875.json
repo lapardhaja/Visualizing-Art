@@ -1,0 +1,97 @@
+{
+  "object_id": 470875,
+  "excel_metadata": {
+    "Object Number": "25.120.670",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 470875,
+    "Gallery Number": NaN,
+    "Department": "The Cloisters",
+    "AccessionYear": 1925.0,
+    "Object Name": "Painting",
+    "Title": "Panel with Saint John the Baptist Enthroned from Retable",
+    "Culture": "Spanish",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16506.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Domingo Ram",
+    "Artist Display Bio": "Spanish, Aragon, active 1464–1507",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Ram, Domingo",
+    "Artist Nationality": "Spanish",
+    "Artist Begin Date": "1464",
+    "Artist End Date": "1507",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500014489",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q20829680",
+    "Object Date": "15th century",
+    "Object Begin Date": 1400,
+    "Object End Date": 1499,
+    "Medium": "Tempera on wood, gold ground",
+    "Dimensions": "53 3/4 x 36 1/4 in. (136.5 x 92.1 cm )",
+    "Credit Line": "The Cloisters Collection, 1925",
+    "Geography Type": "Made in",
+    "City": NaN,
+    "State": NaN,
+    "County": "Aragon",
+    "Country": "Spain",
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings-Panels",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/470875",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20200962",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Lambs|Saint John the Baptist",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300250289|http://vocab.getty.edu/page/ia/901001056",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q4575936|https://www.wikidata.org/wiki/Q40662"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/cl/original/cdi25-120-670.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/cl/original/ep25.120.668.bw.R.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 165060,
+        "role": "Artist",
+        "name": "Domingo Ram",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500014489",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q20829680",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 136.52527,
+          "Width": 92.07519
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Lambs",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250289",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q4575936"
+      },
+      {
+        "term": "Saint John the Baptist",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901001056",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q40662"
+      }
+    ]
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "object_id": 10491,
+  "excel_metadata": {
+    "Object Number": "54.90.8",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 10491,
+    "Gallery Number": 774.0,
+    "Department": "The American Wing",
+    "AccessionYear": 1954.0,
+    "Object Name": "Painting",
+    "Title": "Bay and Harbor of New York from Bedlow's Island",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 242.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": "Attributed to",
+    "Artist Display Name": "Edmund C. Coates",
+    "Artist Display Bio": "active 1837–1872",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Coates, Edmund C.",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1837",
+    "Artist End Date": "1872",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500027793",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q21994056",
+    "Object Date": "1850–60",
+    "Object Begin Date": 1850,
+    "Object End Date": 1860,
+    "Medium": "Oil on canvas",
+    "Dimensions": "18 x 24 in. (45.7 x 61 cm)",
+    "Credit Line": "The Edward W. C. Arnold Collection of New York Prints, Maps, and Pictures, Bequest of Edward W. C. Arnold, 1954",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/10491",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20175856",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Rivers|Ships|Landscapes",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300008707|http://vocab.getty.edu/page/aat/300082981|http://vocab.getty.edu/page/aat/300132294",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q4022|https://www.wikidata.org/wiki/Q11446|https://www.wikidata.org/wiki/Q191163"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/ADA3628.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 2423,
+        "role": "Artist",
+        "name": "Attributed to Edmund C. Coates",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500027793",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q21994056",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 45.7,
+          "Width": 61
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 5,
+          "Height": 55,
+          "Width": 68
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Rivers",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300008707",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q4022"
+      },
+      {
+        "term": "Landscapes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+      },
+      {
+        "term": "Ships",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300082981",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q11446"
+      }
+    ]
+  }
+}

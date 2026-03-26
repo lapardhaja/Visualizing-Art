@@ -1,0 +1,100 @@
+{
+  "object_id": 10801,
+  "excel_metadata": {
+    "Object Number": "62.256.6",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 10801,
+    "Gallery Number": 717.0,
+    "Department": "The American Wing",
+    "AccessionYear": 1962.0,
+    "Object Name": "Painting",
+    "Title": "Susannah or Mary Bontecou",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 248.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "John Durand",
+    "Artist Display Bio": "active 1765–82",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Durand, John",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1724",
+    "Artist End Date": "1824",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500008761",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q19894842",
+    "Object Date": "ca. 1768–70",
+    "Object Begin Date": 1765,
+    "Object End Date": 1770,
+    "Medium": "Oil on canvas",
+    "Dimensions": "35 1/2 x 27 5/8 in. (90.2 x 70.2 cm)",
+    "Credit Line": "Gift of Edgar William and Bernice Chrysler Garbisch, 1962",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/10801",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19925665",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Roses|Portraits|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300266246|http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q102231|https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DT226608.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 2484,
+        "role": "Artist",
+        "name": "John Durand",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500008761",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q19894842",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 90.2,
+          "Width": 70.2
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Roses",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300266246",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q102231"
+      }
+    ]
+  }
+}

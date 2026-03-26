@@ -1,0 +1,95 @@
+{
+  "object_id": 11101,
+  "excel_metadata": {
+    "Object Number": "1971.245",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 11101,
+    "Gallery Number": NaN,
+    "Department": "The American Wing",
+    "AccessionYear": 1971.0,
+    "Object Name": "Painting",
+    "Title": "View of Yosemite Valley",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 260.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Thomas Hill",
+    "Artist Display Bio": "American (born England), Birmingham 1829–1908 Raymond, California",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Hill, Thomas",
+    "Artist Nationality": "American, born England",
+    "Artist Begin Date": "1829",
+    "Artist End Date": "1908",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500021255",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q2534502",
+    "Object Date": "1885",
+    "Object Begin Date": 1885,
+    "Object End Date": 1885,
+    "Medium": "Oil on canvas",
+    "Dimensions": "36 1/4 x 54 1/4 in. (92.1 x 137.8 cm)",
+    "Credit Line": "Gift of Dr. and Mrs. Harold W. Lovell, 1971",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/11101",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19924425",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Landscapes|Rivers",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300132294|http://vocab.getty.edu/page/aat/300008707",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q191163|https://www.wikidata.org/wiki/Q4022"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/ap1971.245.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 2609,
+        "role": "Artist",
+        "name": "Thomas Hill",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500021255",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q2534502",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 92.1,
+          "Width": 137.8
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Rivers",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300008707",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q4022"
+      },
+      {
+        "term": "Landscapes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+      }
+    ]
+  }
+}

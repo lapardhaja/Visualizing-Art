@@ -1,0 +1,114 @@
+{
+  "object_id": 438376,
+  "excel_metadata": {
+    "Object Number": "2005.331.4",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 438376,
+    "Gallery Number": 964.0,
+    "Department": "European Paintings",
+    "AccessionYear": 2005.0,
+    "Object Name": "Painting",
+    "Title": "Still Life with Oysters, a Silver Tazza, and Glassware",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10904.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Willem Claesz Heda",
+    "Artist Display Bio": "Dutch, Haarlem? 1594–1680 Haarlem",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Heda, Willem Claesz",
+    "Artist Nationality": "Dutch",
+    "Artist Begin Date": "1594",
+    "Artist End Date": "1680",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500018917",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q40150",
+    "Object Date": "1635",
+    "Object Begin Date": 1635,
+    "Object End Date": 1635,
+    "Medium": "Oil on wood",
+    "Dimensions": "19 5/8 x 31 3/4 in. (49.8 x 80.6 cm)",
+    "Credit Line": "From the Collection of Rita and Frits Markus, Bequest of Rita Markus, 2005",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/438376",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19913093",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Still Life|Lemons|Drinking Glasses|Oysters",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300015638|http://vocab.getty.edu/page/aat/300266423|http://vocab.getty.edu/page/aat/300043230|http://vocab.getty.edu/page/aat/300310174",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q170571|https://www.wikidata.org/wiki/Q1093742|https://www.wikidata.org/wiki/Q56369598|https://www.wikidata.org/wiki/Q107411"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP120415.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 109044,
+        "role": "Artist",
+        "name": "Willem Claesz Heda",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500018917",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q40150",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 49.8476,
+          "Width": 80.6452
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 7.620015,
+          "Height": 70.48514,
+          "Width": 100.9652
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Lemons",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300266423",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q1093742"
+      },
+      {
+        "term": "Still Life",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015638",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q170571"
+      },
+      {
+        "term": "Drinking Glasses",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300043230",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q56369598"
+      },
+      {
+        "term": "Oysters",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300310174",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q107411"
+      }
+    ]
+  }
+}

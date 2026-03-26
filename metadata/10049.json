@@ -1,0 +1,126 @@
+{
+  "object_id": 10049,
+  "excel_metadata": {
+    "Object Number": "13.14",
+    "Is Highlight": true,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 10049,
+    "Gallery Number": 766.0,
+    "Department": "The American Wing",
+    "AccessionYear": 1913.0,
+    "Object Name": "Painting",
+    "Title": "\"King Lear,\" Act I, Scene I",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16156.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Edwin Austin Abbey",
+    "Artist Display Bio": "American, Philadelphia, Pennsylvania 1852–1911 London",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Abbey, Edwin Austin",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1852",
+    "Artist End Date": "1911",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500010457",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q259538",
+    "Object Date": "1898",
+    "Object Begin Date": 1898,
+    "Object End Date": 1898,
+    "Medium": "Oil on canvas",
+    "Dimensions": "54 1/4 x 127 1/4 in. (137.8 x 323.2 cm)",
+    "Credit Line": "Gift of George A. Hearn, 1913",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/10049",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19925330",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "King Lear|Shakespeare|Kings|Men|Women|Dogs",
+    "Tags AAT URL": " |http://vocab.getty.edu/page/ulan/500272240|http://vocab.getty.edu/page/aat/300025481|http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/aat/300265714",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q181598|https://www.wikidata.org/wiki/Q692|https://www.wikidata.org/wiki/Q12097|https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q144"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DP256059.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ad/original/DT222520.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 161562,
+        "role": "Artist",
+        "name": "Edwin Austin Abbey",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500010457",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q259538",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 137.8,
+          "Width": 323.2
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 10.795,
+          "Height": 184.1504,
+          "Width": 369.3167
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Kings",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025481",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q12097"
+      },
+      {
+        "term": "Shakespeare",
+        "AAT_URL": "http://vocab.getty.edu/page/ulan/500272240",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q692"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Dogs",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300265714",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q144"
+      },
+      {
+        "term": "King Lear",
+        "AAT_URL": null,
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q181598"
+      }
+    ]
+  }
+}

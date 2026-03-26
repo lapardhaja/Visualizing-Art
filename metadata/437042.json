@@ -1,0 +1,110 @@
+{
+  "object_id": 437042,
+  "excel_metadata": {
+    "Object Number": "14.40.816",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437042,
+    "Gallery Number": 827.0,
+    "Department": "European Paintings",
+    "AccessionYear": 1914.0,
+    "Object Name": "Painting",
+    "Title": "The Return to the Fold",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16424.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Anton Mauve",
+    "Artist Display Bio": "Dutch, Zaandam 1838–1888 Arnhem",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Mauve, Anton",
+    "Artist Nationality": "Dutch",
+    "Artist Begin Date": "1838",
+    "Artist End Date": "1888",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500009041",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q591907",
+    "Object Date": NaN,
+    "Object Begin Date": 1858,
+    "Object End Date": 1888,
+    "Medium": "Oil on canvas",
+    "Dimensions": "19 3/4 x 33 7/8 in. (50.2 x 86 cm)",
+    "Credit Line": "Bequest of Benjamin Altman, 1913",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437042",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912765",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Dogs|Sheep|Landscapes|Shepherds",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300265714|http://vocab.getty.edu/page/aat/300250284|http://vocab.getty.edu/page/aat/300132294|http://vocab.getty.edu/page/aat/300025617",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q144|https://www.wikidata.org/wiki/Q7368|https://www.wikidata.org/wiki/Q191163|https://www.wikidata.org/wiki/Q81710"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-23076-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 164242,
+        "role": "Artist",
+        "name": "Anton Mauve",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500009041",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q591907",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 50.2,
+          "Width": 86
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Dogs",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300265714",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q144"
+      },
+      {
+        "term": "Sheep",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250284",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q7368"
+      },
+      {
+        "term": "Landscapes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+      },
+      {
+        "term": "Shepherds",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025617",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q81710"
+      }
+    ]
+  }
+}

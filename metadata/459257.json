@@ -1,0 +1,102 @@
+{
+  "object_id": 459257,
+  "excel_metadata": {
+    "Object Number": "1975.1.28A",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 459257,
+    "Gallery Number": 956.0,
+    "Department": "Robert Lehman Collection",
+    "AccessionYear": 1975.0,
+    "Object Name": "Painting",
+    "Title": "Saint Michael",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16224.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Pietro di Giovanni d'Ambrogio",
+    "Artist Display Bio": "Italian, Siena 1410–1449 Siena",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Pietro di Giovanni d'Ambrogio",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1410",
+    "Artist End Date": "1449",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500032096",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q4385512",
+    "Object Date": "mid-1430s",
+    "Object Begin Date": 1430,
+    "Object End Date": 1440,
+    "Medium": "Tempera on wood with silver, gold ground",
+    "Dimensions": "Engaged Frame: 11 11/16 x 5 1/4 in.  (29.7 x 13.4 cm)\r\nPainted Surface: 9 5/8 x 2 15/16 in. (24.5 x 7.5 cm.)",
+    "Credit Line": "Robert Lehman Collection, 1975",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/459257",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20187248",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Saint Michael",
+    "Tags AAT URL": " ",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q45581"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/rl/original/DP366034.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/rl/original/DP366180.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/DT3019.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/0272.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 162248,
+        "role": "Artist",
+        "name": "Pietro di Giovanni d&#39;Ambrogio",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500032096",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q4385512",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Rabbet",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 24.5,
+          "Width": 7.5
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 29.7,
+          "Width": 13.4
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Saint Michael",
+        "AAT_URL": null,
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q45581"
+      }
+    ]
+  }
+}

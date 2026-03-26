@@ -1,0 +1,114 @@
+{
+  "object_id": 651837,
+  "excel_metadata": {
+    "Object Number": "2014.435.1",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 651837,
+    "Gallery Number": 804.0,
+    "Department": "European Paintings",
+    "AccessionYear": 2014.0,
+    "Object Name": "Painting",
+    "Title": "Bashi-Bazouk",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16192.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Jean-Léon Gérôme",
+    "Artist Display Bio": "French, Vesoul 1824–1904 Paris",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Gérôme, Jean-Léon",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1824",
+    "Artist End Date": "1904",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500115563",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q212499",
+    "Object Date": "ca. 1868–69",
+    "Object Begin Date": 1868,
+    "Object End Date": 1869,
+    "Medium": "Oil on canvas",
+    "Dimensions": "10 1/4 × 8 1/2 in. (26 × 21.6 cm)",
+    "Credit Line": "Gift of Kenneth Jay Lane, 2014",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/651837",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19861826",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Soldiers|Men|Portraits|Orientalist",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300185678|http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300055784",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q4991371|https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q765606"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP331532.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 161927,
+        "role": "Artist",
+        "name": "Jean-Léon Gérôme",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115563",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q212499",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 26.035051,
+          "Width": 21.590044
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 4.4450088,
+          "Height": 50.800102,
+          "Width": 45.87884
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Soldiers",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300185678",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q4991371"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Orientalist",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300055784",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q765606"
+      }
+    ]
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "object_id": 436216,
+  "excel_metadata": {
+    "Object Number": "65.242.2",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436216,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1965.0,
+    "Object Name": "Painting",
+    "Title": "Portrait of a Young Woman as a Vestal Virgin",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16356.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "François Hubert Drouais",
+    "Artist Display Bio": "French, Paris 1727–1775 Paris",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Drouais, François Hubert",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1727",
+    "Artist End Date": "1775",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500115441",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q946487",
+    "Object Date": "1767",
+    "Object Begin Date": 1767,
+    "Object End Date": 1767,
+    "Medium": "Oil on canvas",
+    "Dimensions": "31 1/2 × 25 1/8 in. (80 × 63.8 cm)",
+    "Credit Line": "Gift of Mrs. William M. Haupt, from the collection of Mrs. James B. Haggin, 1965",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436216",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19913662",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Portraits|Women|Flowers",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/aat/300132399",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q506"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP324593.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-65_242_2-2.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-65_242_2-3.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 163566,
+        "role": "Artist",
+        "name": "François Hubert Drouais",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115441",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q946487",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": "obsolete",
+        "elementMeasurements": {
+          "Height": 80,
+          "Width": 63.2
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": "New width measurement received from K. Baetjer, 9/6/2017",
+        "elementMeasurements": {
+          "Height": 80.01016,
+          "Width": 63.817627
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Flowers",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132399",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q506"
+      }
+    ]
+  }
+}

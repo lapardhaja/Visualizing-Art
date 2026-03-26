@@ -1,0 +1,104 @@
+{
+  "object_id": 10845,
+  "excel_metadata": {
+    "Object Number": "59.163",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 10845,
+    "Gallery Number": 774.0,
+    "Department": "The American Wing",
+    "AccessionYear": 1959.0,
+    "Object Name": "Painting",
+    "Title": "Samuel Humes",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16350.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Jacob Eichholtz",
+    "Artist Display Bio": "American, Lancaster, Pennsylvania 1776–1842 Lancaster, Pennsylvania",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Eichholtz, Jacob",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1776",
+    "Artist End Date": "1842",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500018165",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q6118567",
+    "Object Date": "ca. 1825",
+    "Object Begin Date": 1822,
+    "Object End Date": 1825,
+    "Medium": "Oil on canvas",
+    "Dimensions": "29 x 24 1/8 in. (73.7 x 61.3 cm)",
+    "Credit Line": "Maria DeWitt Jesup Fund, 1959",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/10845",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19925031",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/APS388.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 163504,
+        "role": "Artist",
+        "name": "Jacob Eichholtz",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500018165",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q6118567",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 73.7,
+          "Width": 61.3
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 11.1125,
+          "Height": 98.1077,
+          "Width": 85.0902
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "object_id": 10159,
+  "excel_metadata": {
+    "Object Number": "33.61",
+    "Is Highlight": true,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 10159,
+    "Gallery Number": 758.0,
+    "Department": "The American Wing",
+    "AccessionYear": 1933.0,
+    "Object Name": "Painting",
+    "Title": "Fur Traders Descending the Missouri",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16168.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "George Caleb Bingham",
+    "Artist Display Bio": "American, Augusta County, Virginia 1811–1879 Kansas City, Missouri",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Bingham, George Caleb",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1811",
+    "Artist End Date": "1879",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500028547",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q598030",
+    "Object Date": "1845",
+    "Object Begin Date": 1845,
+    "Object End Date": 1845,
+    "Medium": "Oil on canvas",
+    "Dimensions": "29 x 36 1/2 in. (73.7 x 92.7 cm)",
+    "Credit Line": "Morris K. Jesup Fund, 1933",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/10159",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q3172087",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Human Figures|Men|Cats|Rivers|Boats",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300404114|http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300265960|http://vocab.getty.edu/page/aat/300008707|http://vocab.getty.edu/page/aat/300178749",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q5937779|https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q146|https://www.wikidata.org/wiki/Q4022|https://www.wikidata.org/wiki/Q35872"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DT73.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 161687,
+        "role": "Artist",
+        "name": "George Caleb Bingham",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500028547",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q598030",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 73.7,
+          "Width": 92.7
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 7.62,
+          "Height": 94.9327,
+          "Width": 113.9827
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Human Figures",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300404114",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q5937779"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Cats",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300265960",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q146"
+      },
+      {
+        "term": "Rivers",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300008707",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q4022"
+      },
+      {
+        "term": "Boats",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300178749",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q35872"
+      }
+    ]
+  }
+}

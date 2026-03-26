@@ -1,0 +1,100 @@
+{
+  "object_id": 436055,
+  "excel_metadata": {
+    "Object Number": "41.100.32",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436055,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1941.0,
+    "Object Name": "Painting",
+    "Title": "Madonna and Child Enthroned with Two Angels and a Donor",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16359.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Vittore Crivelli",
+    "Artist Display Bio": "Italian, Venice, active by 1465–died 1501/2 Fermo",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Crivelli, Vittore",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1465",
+    "Artist End Date": "1502",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500032229",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q1349738",
+    "Object Date": "1481?",
+    "Object Begin Date": 1481,
+    "Object End Date": 1481,
+    "Medium": "Tempera on wood, gold ground",
+    "Dimensions": "Overall 54 x 25 3/4 in. (137.2 x 65.4 cm); painted surface 52 x 24 1/4 in. (132.1 x 61.5 cm)",
+    "Credit Line": "Gift of George Blumenthal, 1941",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436055",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19913041",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Madonna and Child|Men|Angels",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901000052|http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300379004",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q9309699|https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q235113"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-36778-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 163596,
+        "role": "Artist",
+        "name": "Vittore Crivelli",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500032229",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1349738",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 137.2,
+          "Width": 65.4
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Angels",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379004",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q235113"
+      },
+      {
+        "term": "Madonna and Child",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000052",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q9309699"
+      }
+    ]
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "object_id": 11263,
+  "excel_metadata": {
+    "Object Number": "26.97",
+    "Is Highlight": true,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 11263,
+    "Gallery Number": 763.0,
+    "Department": "The American Wing",
+    "AccessionYear": 1926.0,
+    "Object Name": "Painting",
+    "Title": "The Hatch Family",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16201.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Eastman Johnson",
+    "Artist Display Bio": "American, Lovell, Maine 1824–1906 New York",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Johnson, Eastman",
+    "Artist Nationality": "American ",
+    "Artist Begin Date": "1824",
+    "Artist End Date": "1906",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500008685",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q1278282",
+    "Object Date": "1870–71",
+    "Object Begin Date": 1870,
+    "Object End Date": 1871,
+    "Medium": "Oil on canvas",
+    "Dimensions": "48 x 73 3/8 in. (121.9 x 186.4 cm)",
+    "Credit Line": "Gift of Frederic H. Hatch, 1926",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/11263",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20170702",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Reading|Needlework|Interiors|Boys|Girls|Men|Women|Family|Toys",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300248178|http://vocab.getty.edu/page/aat/300053652|http://vocab.getty.edu/page/aat/300391239|http://vocab.getty.edu/page/aat/300247598|http://vocab.getty.edu/page/aat/300247581|http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/aat/300435378|http://vocab.getty.edu/page/aat/300211037",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q199657|https://www.wikidata.org/wiki/Q28966125|https://www.wikidata.org/wiki/Q2998430|https://www.wikidata.org/wiki/Q3010|https://www.wikidata.org/wiki/Q3031|https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q8436|https://www.wikidata.org/wiki/Q11422"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DT85.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ad/original/63467.jpg",
+      "https://images.metmuseum.org/CRDImages/ad/original/APS1369.jpg",
+      "https://images.metmuseum.org/CRDImages/ad/original/APS1370.jpg",
+      "https://images.metmuseum.org/CRDImages/ad/original/APS1366.jpg",
+      "https://images.metmuseum.org/CRDImages/ad/original/APS1367.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 162014,
+        "role": "Artist",
+        "name": "Eastman Johnson",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500008685",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1278282",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 20,
+          "Height": 174.3,
+          "Width": 237.8
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 121.9,
+          "Width": 186.4
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Interiors",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300391239",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q2998430"
+      },
+      {
+        "term": "Boys",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300247598",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3010"
+      },
+      {
+        "term": "Girls",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300247581",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3031"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Reading",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300248178",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q199657"
+      },
+      {
+        "term": "Family",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300435378",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8436"
+      },
+      {
+        "term": "Toys",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300211037",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q11422"
+      },
+      {
+        "term": "Needlework",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300053652",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q28966125"
+      }
+    ]
+  }
+}

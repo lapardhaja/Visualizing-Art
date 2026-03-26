@@ -1,0 +1,100 @@
+{
+  "object_id": 437146,
+  "excel_metadata": {
+    "Object Number": "29.100.104",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437146,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1929.0,
+    "Object Name": "Painting",
+    "Title": "Portrait of a Woman",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10806.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Francesco Montemezzano",
+    "Artist Display Bio": "Italian, Venetian, ca. 1540–after 1602",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Montemezzano, Francesco",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1540",
+    "Artist End Date": "1602",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500026508",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q3081023",
+    "Object Date": NaN,
+    "Object Begin Date": 1560,
+    "Object End Date": 1602,
+    "Medium": "Oil on canvas",
+    "Dimensions": "46 3/4 x 39 in. (118.7 x 99.1 cm), including added strip of 5 1/2 in. (14 cm) at top",
+    "Credit Line": "H. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437146",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912383",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Portraits|Women|Dogs",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/aat/300265714",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q144"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-20210-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 108069,
+        "role": "Artist",
+        "name": "Francesco Montemezzano",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500026508",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3081023",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 118.7,
+          "Width": 99.1
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Dogs",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300265714",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q144"
+      }
+    ]
+  }
+}

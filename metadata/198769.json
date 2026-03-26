@@ -1,0 +1,98 @@
+{
+  "object_id": 198769,
+  "excel_metadata": {
+    "Object Number": "41.100.247",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 198769,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1941,
+    "Object Name": "Stirrup ornament",
+    "Title": "Luna or Diana",
+    "Culture": "French, Limoges",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 3981216385,
+    "Artist Role": "Enameler|Artist",
+    "Artist Prefix": "Attributed to|Based on an engraving by",
+    "Artist Display Name": "Joseph Limosin|Etienne Delaune",
+    "Artist Display Bio": " |French, Orléans 1518/19–1583 Strasbourg",
+    "Artist Suffix": " | ",
+    "Artist Alpha Sort": "Limosin, Joseph|Delaune, Etienne",
+    "Artist Nationality": " |French",
+    "Artist Begin Date": "1675      |1518      ",
+    "Artist End Date": "1775      |1583      ",
+    "Artist Gender": "|",
+    "Artist ULAN URL": "|http://vocab.getty.edu/page/ulan/500026480",
+    "Artist Wikidata URL": "|https://www.wikidata.org/wiki/Q2114093",
+    "Object Date": "first quarter 17th century",
+    "Object Begin Date": 1600,
+    "Object End Date": 1625,
+    "Medium": "Painted enamel on copper, partly gilt",
+    "Dimensions": "4 1/4 × 1 5/8 in. (10.8 × 4.1 cm)",
+    "Credit Line": "Gift of George Blumenthal, 1941",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Enamels",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/198769",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Human Figures",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300404114",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q5937779"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/ES1198.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 39812,
+        "role": "Enameler",
+        "name": "Attributed to Joseph Limosin",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      },
+      {
+        "constituentID": 163851,
+        "role": "Artist",
+        "name": "Based on an engraving by Etienne Delaune",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500026480",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q2114093",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 10.795022,
+          "Width": 4.127508
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Human Figures",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300404114",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q5937779"
+      }
+    ]
+  }
+}

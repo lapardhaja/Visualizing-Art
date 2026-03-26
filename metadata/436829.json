@@ -1,0 +1,110 @@
+{
+  "object_id": 436829,
+  "excel_metadata": {
+    "Object Number": "81.1.662",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436829,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1881.0,
+    "Object Name": "Painting",
+    "Title": "Hugo van der Goes Making a Portrait of Mary of Burgundy",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10787.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Wilhelm (Guillaume) Koller",
+    "Artist Display Bio": "Austrian, Vienna 1829–1884 Ancy-sur-Moselle",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Koller, Wilhelm (Guillaume)",
+    "Artist Nationality": "Austrian",
+    "Artist Begin Date": "1829",
+    "Artist End Date": "1884",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500023361",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q19670719",
+    "Object Date": "ca. 1872",
+    "Object Begin Date": 1867,
+    "Object End Date": 1877,
+    "Medium": "Oil on wood",
+    "Dimensions": "23 3/8 x 34 in. (59.4 x 86.4 cm)",
+    "Credit Line": "Bequest of Stephen Whitney Phoenix, 1881",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436829",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912645",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Painting|Children|Men|Women|Dogs",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300054216|http://vocab.getty.edu/page/aat/300025945|http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/aat/300265714",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q11629|https://www.wikidata.org/wiki/Q7569|https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q144"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-19421-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 107872,
+        "role": "Artist",
+        "name": "Wilhelm (Guillaume) Koller",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500023361",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q19670719",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 59.4,
+          "Width": 86.4
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Painting",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300054216",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q11629"
+      },
+      {
+        "term": "Children",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025945",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q7569"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Dogs",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300265714",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q144"
+      }
+    ]
+  }
+}

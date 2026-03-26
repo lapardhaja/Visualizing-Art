@@ -1,0 +1,109 @@
+{
+  "object_id": 436492,
+  "excel_metadata": {
+    "Object Number": "80.3.674",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 436492,
+    "Gallery Number": 961.0,
+    "Department": "European Paintings",
+    "AccessionYear": 1880.0,
+    "Object Name": "Painting",
+    "Title": "Saint Christopher and the Infant Christ",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16192.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Domenico Ghirlandaio (Domenico Bigordi)",
+    "Artist Display Bio": "Italian, Florence 1448/49–1494 Florence",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Ghirlandaio, Domenico (Domenico Bigordi)",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1448",
+    "Artist End Date": "1494",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500115228",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q191423",
+    "Object Date": NaN,
+    "Object Begin Date": 1469,
+    "Object End Date": 1494,
+    "Medium": "Fresco",
+    "Dimensions": "112 x 59 in. (284.5 x 149.9 cm)",
+    "Credit Line": "Gift of Cornelius Vanderbilt, 1880",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436492",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q3946909",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Rivers|Saint Christopher|Jesus",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300008707|http://vocab.getty.edu/page/ia/901000586|http://vocab.getty.edu/page/ia/901000087",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q4022|https://www.wikidata.org/wiki/Q193507|https://www.wikidata.org/wiki/Q302"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/EP371.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/Ghirlandaio giornate.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 161929,
+        "role": "Artist",
+        "name": "Domenico Ghirlandaio (Domenico Bigordi)",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115228",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q191423",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Other",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Weight": 181.43881
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 284.5,
+          "Width": 149.9
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Rivers",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300008707",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q4022"
+      },
+      {
+        "term": "Saint Christopher",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000586",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q193507"
+      },
+      {
+        "term": "Jesus",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q302"
+      }
+    ]
+  }
+}

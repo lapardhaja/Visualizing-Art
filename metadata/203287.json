@@ -1,0 +1,119 @@
+{
+  "object_id": 203287,
+  "excel_metadata": {
+    "Object Number": "64.101.395",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 203287,
+    "Gallery Number": 533,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1964,
+    "Object Name": "Beaker",
+    "Title": "Beaker (one of a pair)",
+    "Culture": "German, probably Berlin",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 38041300000000,
+    "Artist Role": "Maker|Enameler|Enameler",
+    "Artist Prefix": " |Possibly by|or possibly by",
+    "Artist Display Name": "Workshop of Charles Fromery|Christian Friedrich Herold|J. G. V.",
+    "Artist Display Bio": "1685–1738|German, Berlin 1700–1779 Meissen| ",
+    "Artist Suffix": " | | ",
+    "Artist Alpha Sort": "Fromery, Charles|Herold, Christian Friedrich|V. J. G.",
+    "Artist Nationality": "Geman|German| ",
+    "Artist Begin Date": "1685      |1700      |          ",
+    "Artist End Date": "1738      |1779      |          ",
+    "Artist Gender": "||",
+    "Artist ULAN URL": "|http://vocab.getty.edu/page/ulan/500055254|",
+    "Artist Wikidata URL": "|https://www.wikidata.org/wiki/Q1079610|",
+    "Object Date": "1730–40",
+    "Object Begin Date": 1730,
+    "Object End Date": 1740,
+    "Medium": "Painted enamel on copper, partly gilt; silver gilt",
+    "Dimensions": "Height: 3 5/8 in. (9.2 cm); Diameter: 2 7/8 in. (7.3 cm)",
+    "Credit Line": "Gift of Irwin Untermyer, 1964",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Enamels-Painted",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/203287",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q116310511",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Towers|Men",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300004847|http://vocab.getty.edu/page/aat/300025928",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q12518|https://www.wikidata.org/wiki/Q8441"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/ES5878.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/ES2006.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 38041,
+        "role": "Maker",
+        "name": "Workshop of Charles Fromery",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      },
+      {
+        "constituentID": 33565,
+        "role": "Enameler",
+        "name": "Possibly by Christian Friedrich Herold",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500055254",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1079610",
+        "gender": ""
+      },
+      {
+        "constituentID": 40103,
+        "role": "Enameler",
+        "name": "or possibly by J. G. V.",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Diameter",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Diameter": 7.3025146
+        }
+      },
+      {
+        "elementName": "Height",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 9.207519
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Towers",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300004847",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q12518"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      }
+    ]
+  }
+}

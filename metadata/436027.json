@@ -1,0 +1,90 @@
+{
+  "object_id": 436027,
+  "excel_metadata": {
+    "Object Number": "29.100.123",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436027,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1929.0,
+    "Object Name": "Painting",
+    "Title": "Apples",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16179.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": "Style of",
+    "Artist Display Name": "Gustave Courbet",
+    "Artist Display Bio": "French, second half 19th century",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Courbet, Gustave",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1819",
+    "Artist End Date": "1877",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500010927",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q34618",
+    "Object Date": NaN,
+    "Object Begin Date": 1850,
+    "Object End Date": 1899,
+    "Medium": "Oil on canvas",
+    "Dimensions": "13 x 17 3/8 in. (33 x 44.1 cm)",
+    "Credit Line": "H. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436027",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19913384",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Apples",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300266417",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q89"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/ep29.100.123.bw.R.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 161790,
+        "role": "Artist",
+        "name": "Style of Gustave Courbet",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500010927",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q34618",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 33,
+          "Width": 44.1
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Apples",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300266417",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q89"
+      }
+    ]
+  }
+}

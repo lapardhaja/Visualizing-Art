@@ -1,0 +1,100 @@
+{
+  "object_id": 435780,
+  "excel_metadata": {
+    "Object Number": "17.190.2",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": false,
+    "Object ID": 435780,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1917.0,
+    "Object Name": "Painting",
+    "Title": "Mary, Queen of Scots, with Her Son, James",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 12668.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": "Style of 16th-century",
+    "Artist Display Name": "British Painter",
+    "Artist Display Bio": "19th century",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "British Painter",
+    "Artist Nationality": "British",
+    "Artist Begin Date": "          ",
+    "Artist End Date": "          ",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": NaN,
+    "Artist Wikidata URL": NaN,
+    "Object Date": "19th century",
+    "Object Begin Date": 1800,
+    "Object End Date": 1899,
+    "Medium": "Oil on slate",
+    "Dimensions": "8 7/8 x 7 3/4 in. (22.5 x 19.7 cm)",
+    "Credit Line": "Gift of J. Pierpont Morgan, 1917",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/435780",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912681",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Queens|Boys|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025483|http://vocab.getty.edu/page/aat/300247598|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q16511993|https://www.wikidata.org/wiki/Q3010|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP169630.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 126682,
+        "role": "Artist",
+        "name": "Style of 16th-century British Painter",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 22.5,
+          "Width": 19.7
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Queens",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025483",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q16511993"
+      },
+      {
+        "term": "Boys",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300247598",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3010"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

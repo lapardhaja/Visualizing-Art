@@ -1,0 +1,87 @@
+{
+  "object_id": 205757,
+  "excel_metadata": {
+    "Object Number": "1974.356.151",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 205757,
+    "Gallery Number": 547,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1974,
+    "Object Name": "Writing table ",
+    "Title": "Small oval writing table (one of a pair)",
+    "Culture": "French, Paris",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 3519,
+    "Artist Role": "Maker",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Roger Vandercruse, called Lacroix",
+    "Artist Display Bio": "French, 1727–1799",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Vandercruse Roger called Lacroix",
+    "Artist Nationality": "French",
+    "Artist Begin Date": 1727,
+    "Artist End Date": 1799,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500007075",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q3439532",
+    "Object Date": "ca. 1775",
+    "Object Begin Date": 1770,
+    "Object End Date": 1780,
+    "Medium": "Oak veneered with satiné wood, tulipwood; leather; gilt bronze",
+    "Dimensions": "Overall: 29 × 20 × 14 3/4 in. (73.7 × 50.8 × 37.5 cm)",
+    "Credit Line": "The Lesley and Emma Sheafer Collection, Bequest of Emma A. Sheafer, 1973",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Woodwork-Furniture",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/205757",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q116242562",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": null,
+    "Tags AAT URL": null,
+    "Tags Wikidata URL": null
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/SF1974_356_151.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/204241.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 35199,
+        "role": "Maker",
+        "name": "Roger Vandercruse, called Lacroix",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500007075",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3439532",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 37.465076,
+          "Height": 73.66015,
+          "Width": 50.800102
+        }
+      }
+    ],
+    "tags": null
+  }
+}

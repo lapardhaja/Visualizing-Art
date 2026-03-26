@@ -1,0 +1,95 @@
+{
+  "object_id": 208565,
+  "excel_metadata": {
+    "Object Number": 1996.519,
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 208565,
+    "Gallery Number": 556,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1996,
+    "Object Name": "Relief",
+    "Title": "The Miner",
+    "Culture": "Belgian",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 16529,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Constantin Meunier",
+    "Artist Display Bio": "Belgian, Etterbeek 1831–1905 Ixelles",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Meunier, Constantin",
+    "Artist Nationality": "Belgian",
+    "Artist Begin Date": 1831,
+    "Artist End Date": 1905,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500000662",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q552440",
+    "Object Date": 1904,
+    "Object Begin Date": 1904,
+    "Object End Date": 1904,
+    "Medium": "Bronze",
+    "Dimensions": "6 1/2 × 8 7/16 in. (16.5 × 21.4 cm)",
+    "Credit Line": "Gift of Mrs. Alice Stern, 1996",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Sculpture-Bronze",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/208565",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q116306819",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Profiles",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300123319",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q4382010"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP100567.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 165298,
+        "role": "Artist",
+        "name": "Constantin Meunier",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500000662",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q552440",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 16.510033,
+          "Width": 21.431293
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Profiles",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300123319",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q4382010"
+      }
+    ]
+  }
+}

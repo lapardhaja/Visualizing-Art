@@ -1,0 +1,119 @@
+{
+  "object_id": 12917,
+  "excel_metadata": {
+    "Object Number": "1976.338",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 12917,
+    "Gallery Number": 774.0,
+    "Department": "The American Wing",
+    "AccessionYear": 1976.0,
+    "Object Name": "Painting",
+    "Title": "The Williamson Family",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16536.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "John Mix Stanley",
+    "Artist Display Bio": "American, Canandaigua, New York 1814–1872 Detroit, Michigan",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Stanley, John Mix",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1814",
+    "Artist End Date": "1872",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500028784",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q2676888",
+    "Object Date": "ca. 1841–42",
+    "Object Begin Date": 1838,
+    "Object End Date": 1842,
+    "Medium": "Oil on canvas",
+    "Dimensions": "27 x 22 in. (68.6 x 55.9 cm)",
+    "Credit Line": "Gift of George H. Danforth, III, 1976",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/12917",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19925308",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Children|Men|Women|Family|Toys",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025945|http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/aat/300435378|http://vocab.getty.edu/page/aat/300211037",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q7569|https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q8436|https://www.wikidata.org/wiki/Q11422"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DT10354.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 165362,
+        "role": "Artist",
+        "name": "John Mix Stanley",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500028784",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q2676888",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 8.5,
+          "Height": 87.5,
+          "Width": 75
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 68.6,
+          "Width": 55.9
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Children",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025945",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q7569"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Family",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300435378",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8436"
+      },
+      {
+        "term": "Toys",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300211037",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q11422"
+      }
+    ]
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "object_id": 436068,
+  "excel_metadata": {
+    "Object Number": "1974.217",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436068,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1974.0,
+    "Object Name": "Painting",
+    "Title": "Christ Enthroned with Saints",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16180.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Bernardo Daddi",
+    "Artist Display Bio": "Italian, Florence (?) ca. 1290–1348 Florence",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Daddi, Bernardo",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1290",
+    "Artist End Date": "1348",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500004953",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q366562",
+    "Object Date": "ca. 1325",
+    "Object Begin Date": 1320,
+    "Object End Date": 1330,
+    "Medium": "Tempera on wood, gold ground",
+    "Dimensions": "Irregular, 7 1/2 x 9 in. (19.1 x 22.9 cm)",
+    "Credit Line": "Bequest of Harriet H. Jonas, 1974",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436068",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19911968",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Women|Saints|Christ",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/aat/300150555|http://vocab.getty.edu/page/ia/901000087",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q43115|https://www.wikidata.org/wiki/Q642420"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP261714.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/Daddi bottom edge.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/Daddi reverse.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 161801,
+        "role": "Artist",
+        "name": "Bernardo Daddi",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500004953",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q366562",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 19.1,
+          "Width": 22.9
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Christ",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+      },
+      {
+        "term": "Saints",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300150555",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q43115"
+      }
+    ]
+  }
+}

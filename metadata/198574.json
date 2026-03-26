@@ -1,0 +1,115 @@
+{
+  "object_id": 198574,
+  "excel_metadata": {
+    "Object Number": "40.14.7",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 198574,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1940,
+    "Object Name": "Statuette",
+    "Title": "Venus Marina",
+    "Culture": "Italian, Venice",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 3385,
+    "Artist Role": "Artist",
+    "Artist Prefix": "After a model by",
+    "Artist Display Name": "Girolamo Campagna",
+    "Artist Display Bio": "Italian, Verona 1549–1625 Venice",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Campagna, Girolamo",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": 1549,
+    "Artist End Date": 1625,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500013174",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q281653",
+    "Object Date": "late 16th century?",
+    "Object Begin Date": 1585,
+    "Object End Date": 1599,
+    "Medium": "Bronze",
+    "Dimensions": "Overall confirmed: 16 3/8 × 5 1/2 × 4 1/2 in. (41.6 × 14 × 11.4 cm)",
+    "Credit Line": "Rogers Fund, 1940",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Sculpture-Bronze",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/198574",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Female Nudes|Venus",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300189568|http://vocab.getty.edu/page/ia/901001064",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q40446|https://www.wikidata.org/wiki/Q47652"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP-1224-001.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/DP-1224-002.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP-1224-003.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 33855,
+        "role": "Artist",
+        "name": "After a model by Girolamo Campagna",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500013174",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q281653",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Height",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 58.77572
+        }
+      },
+      {
+        "elementName": "Base",
+        "elementDescription": "confirmed",
+        "elementMeasurements": {
+          "Depth": 15.398781,
+          "Height": 19.68504,
+          "Width": 17.938786
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": "Overall confirmed",
+        "elementMeasurements": {
+          "Depth": 11.430023,
+          "Height": 41.592583,
+          "Width": 13.970028
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Female Nudes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300189568",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q40446"
+      },
+      {
+        "term": "Venus",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901001064",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q47652"
+      }
+    ]
+  }
+}

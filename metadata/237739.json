@@ -1,0 +1,108 @@
+{
+  "object_id": 237739,
+  "excel_metadata": {
+    "Object Number": 2010.113,
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 237739,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 2010,
+    "Object Name": "Statue",
+    "Title": "Saint Ignatius Loyola with an angel holding a book",
+    "Culture": "Italian, Padua",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 3371,
+    "Artist Role": "Maker",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Francesco Bertos",
+    "Artist Display Bio": "Italian, 1678–1741",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Bertos Francesco",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": 1678,
+    "Artist End Date": 1741,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500000132",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q1440918",
+    "Object Date": "ca. 1722",
+    "Object Begin Date": 1717,
+    "Object End Date": 1727,
+    "Medium": "Bronze",
+    "Dimensions": "Overall (confirmed): H. 24 5/8 x W. 13 7/8 x D. 4 5/8 in., 32lb. (62.5 x 35.2 x 11.7 cm, 14.5151kg)",
+    "Credit Line": "Purchase, Assunta Sommella Peluso, Ignazio Peluso, Ada Peluso and Romano I. Peluso Gift, 2010",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Sculpture-Bronze",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/237739",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Books|Saints|Angels",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300028051|http://vocab.getty.edu/page/aat/300150555|http://vocab.getty.edu/page/aat/300379004",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q571|https://www.wikidata.org/wiki/Q43115|https://www.wikidata.org/wiki/Q235113"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP250598.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/DP250596.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP250597.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP232091.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP250601.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP250599.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 33715,
+        "role": "Maker",
+        "name": "Francesco Bertos",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500000132",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1440918",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": "confirmed",
+        "elementMeasurements": {
+          "Depth": 11.747523,
+          "Height": 62.547626,
+          "Weight": 14.515105,
+          "Width": 35.24257
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Books",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300028051",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q571"
+      },
+      {
+        "term": "Angels",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379004",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q235113"
+      },
+      {
+        "term": "Saints",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300150555",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q43115"
+      }
+    ]
+  }
+}

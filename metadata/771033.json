@@ -1,0 +1,89 @@
+{
+  "object_id": 771033,
+  "excel_metadata": {
+    "Object Number": "2018.62.61",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 771033,
+    "Gallery Number": 516,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 2018,
+    "Object Name": "Vase",
+    "Title": "Vase ",
+    "Culture": "British, Stoke-on-Trent, Staffordshire",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 3518,
+    "Artist Role": "Maker",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Minton(s)",
+    "Artist Display Bio": "British, Stoke-on-Trent, 1793–present",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Minton",
+    "Artist Nationality": "British",
+    "Artist Begin Date": 1793,
+    "Artist End Date": 2001,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500276237",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q6869688",
+    "Object Date": "ca. 1891",
+    "Object Begin Date": 1886,
+    "Object End Date": 1896,
+    "Medium": "Bone china with enamel decoration and gilding",
+    "Dimensions": "confirmed: 8 7/8 × 6 3/8 × 5 1/4 in., 1.2 lb. (22.5 × 16.2 × 13.3 cm, 550g)",
+    "Credit Line": "Gift of Helene Fortunoff and Robert Grossman, 2017",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Ceramics-Porcelain",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/771033",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q116234750",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": null,
+    "Tags AAT URL": null,
+    "Tags Wikidata URL": null
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP-16489-121.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/DP-16489-401.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/LC-2018_62_61-marks.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 35185,
+        "role": "Maker",
+        "name": "Minton(s)",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500276237",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q6869688",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": "confirmed",
+        "elementMeasurements": {
+          "Depth": 13.335027,
+          "Height": 22.542545,
+          "Weight": 0.55,
+          "Width": 16.192532
+        }
+      }
+    ],
+    "tags": null
+  }
+}

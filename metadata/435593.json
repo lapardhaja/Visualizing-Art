@@ -1,0 +1,110 @@
+{
+  "object_id": 435593,
+  "excel_metadata": {
+    "Object Number": "38.178",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 435593,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1938.0,
+    "Object Name": "Painting fragment",
+    "Title": "Eve with Cain and Abel",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16279.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Bachiacca (Francesco d'Ubertino Verdi)",
+    "Artist Display Bio": "Italian, Florence 1494–1557 Florence",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Bachiacca (Francesco d'Ubertino Verdi)",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1494",
+    "Artist End Date": "1557",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500021332",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q7770",
+    "Object Date": "1520s",
+    "Object Begin Date": 1520,
+    "Object End Date": 1529,
+    "Medium": "Tempera and oil on wood",
+    "Dimensions": "15 3/4 x 9 1/4 in. (40 x 23.5 cm)",
+    "Credit Line": "Gwynne Andrews Fund, 1938",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/435593",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19905427",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Abel|Cain|Eve|Infants|Female Nudes",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901000498|http://vocab.getty.edu/page/ia/901000499|http://vocab.getty.edu/page/ia/901000205|http://vocab.getty.edu/page/aat/300189561|http://vocab.getty.edu/page/aat/300189568",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q313421|https://www.wikidata.org/wiki/Q205365|https://www.wikidata.org/wiki/Q830183|https://www.wikidata.org/wiki/Q998|https://www.wikidata.org/wiki/Q40446"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/ep38.178.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162799,
+        "role": "Artist",
+        "name": "Bachiacca (Francesco d&#39;Ubertino Verdi)",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500021332",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q7770",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 40,
+          "Width": 23.5
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Infants",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300189561",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q998"
+      },
+      {
+        "term": "Female Nudes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300189568",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q40446"
+      },
+      {
+        "term": "Abel",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000498",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q313421"
+      },
+      {
+        "term": "Cain",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000499",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q205365"
+      },
+      {
+        "term": "Eve",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000205",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q830183"
+      }
+    ]
+  }
+}

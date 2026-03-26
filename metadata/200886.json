@@ -1,0 +1,102 @@
+{
+  "object_id": 200886,
+  "excel_metadata": {
+    "Object Number": "50.211.196a, b",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 200886,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1950,
+    "Object Name": "Vase with cover",
+    "Title": "Vase with cover",
+    "Culture": "German, Höchst",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 333653707,
+    "Artist Role": "Decorator|Manufactory",
+    "Artist Prefix": " | ",
+    "Artist Display Name": "Adam Ludwig|Höchst Manufactory",
+    "Artist Display Bio": " |German, 1746–1796",
+    "Artist Suffix": " | ",
+    "Artist Alpha Sort": "LUDWIG ADAM|Höchst Manufactory",
+    "Artist Nationality": " |German",
+    "Artist Begin Date": "1700      |1746      ",
+    "Artist End Date": "1800      |1796      ",
+    "Artist Gender": "|",
+    "Artist ULAN URL": "|http://vocab.getty.edu/page/ulan/500331057",
+    "Artist Wikidata URL": "|https://www.wikidata.org/wiki/Q97105166",
+    "Object Date": "1749–58",
+    "Object Begin Date": 1749,
+    "Object End Date": 1758,
+    "Medium": "Faience (tin-glazed earthenware), metal",
+    "Dimensions": "Height: 13 in. (33 cm)",
+    "Credit Line": "Gift of R. Thornton Wilson, in memory of Florence Ellsworth Wilson, 1950",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Ceramics-Pottery",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/200886",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Birds|Flowers",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300266506|http://vocab.getty.edu/page/aat/300132399",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q5113|https://www.wikidata.org/wiki/Q506"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/149525.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 37076,
+        "role": "Manufactory",
+        "name": "Höchst Manufactory",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500331057",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q97105166",
+        "gender": ""
+      },
+      {
+        "constituentID": 33365,
+        "role": "Decorator",
+        "name": "Adam Ludwig",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Height",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 33.020065
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Birds",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300266506",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q5113"
+      },
+      {
+        "term": "Flowers",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132399",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q506"
+      }
+    ]
+  }
+}

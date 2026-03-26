@@ -1,0 +1,99 @@
+{
+  "object_id": 458993,
+  "excel_metadata": {
+    "Object Number": "1975.1.53",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 458993,
+    "Gallery Number": NaN,
+    "Department": "Robert Lehman Collection",
+    "AccessionYear": 1975.0,
+    "Object Name": "Painting",
+    "Title": "Saint Bernardino",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16167.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Benvenuto di Giovanni",
+    "Artist Display Bio": "Italian, Siena 1436–after 1518 Siena",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Benvenuto di Giovanni",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1436",
+    "Artist End Date": "1518",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500031885",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q818396",
+    "Object Date": "possibly 1474",
+    "Object Begin Date": 1469,
+    "Object End Date": 1479,
+    "Medium": "Tempera on wood, gold ground, pastiglia garland of fruit",
+    "Dimensions": "Overall: 9 3/8 × 10 1/8 in. (23.8 × 25.7 cm)",
+    "Credit Line": "Robert Lehman Collection, 1975",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/458993",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20187991",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Saints",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300150555",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q43115"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/rl/original/DT3039.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/rl/original/ep1975.1.53.bw.R.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/MM88145.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/0285.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 161678,
+        "role": "Artist",
+        "name": "Benvenuto di Giovanni",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500031885",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q818396",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": "Overall",
+        "elementMeasurements": {
+          "Height": 23.8,
+          "Width": 25.7
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Saints",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300150555",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q43115"
+      }
+    ]
+  }
+}

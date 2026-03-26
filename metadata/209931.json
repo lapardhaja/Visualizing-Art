@@ -1,0 +1,107 @@
+{
+  "object_id": 209931,
+  "excel_metadata": {
+    "Object Number": "65.80.7",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 209931,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1965,
+    "Object Name": "Fan",
+    "Title": "Fan",
+    "Culture": "French",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 3877,
+    "Artist Role": "Designer",
+    "Artist Prefix": "Fan leaf designed and painted by",
+    "Artist Display Name": "Edouard Moreau",
+    "Artist Display Bio": "French, 1825–1878",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Moreau, Edouard",
+    "Artist Nationality": "French",
+    "Artist Begin Date": 1825,
+    "Artist End Date": 1878,
+    "Artist Gender": null,
+    "Artist ULAN URL": null,
+    "Artist Wikidata URL": null,
+    "Object Date": "ca. 1860–75",
+    "Object Begin Date": 1855,
+    "Object End Date": 1880,
+    "Medium": "Paper, parchment, paint, mother-of-pearl, metal",
+    "Dimensions": "Overall (confirmed): 11 1/8 × 21 1/2 in. (28.3 × 54.6 cm)",
+    "Credit Line": "Gift of Mrs. William Randolph Hearst, 1965",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Fans",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/209931",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Birds|Female Nudes|Fish|Venus",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300266506|http://vocab.getty.edu/page/aat/300189568|http://vocab.getty.edu/page/aat/300266085|http://vocab.getty.edu/page/ia/901001064",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q5113|https://www.wikidata.org/wiki/Q40446|https://www.wikidata.org/wiki/Q152|https://www.wikidata.org/wiki/Q47652"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/SF65_80_7_img1.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/SF65_80_7_img2.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 38775,
+        "role": "Designer",
+        "name": "Fan leaf designed and painted by Edouard Moreau",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": "confirmed",
+        "elementMeasurements": {
+          "Height": 28.257557,
+          "Width": 54.610107
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Birds",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300266506",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q5113"
+      },
+      {
+        "term": "Female Nudes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300189568",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q40446"
+      },
+      {
+        "term": "Venus",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901001064",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q47652"
+      },
+      {
+        "term": "Fish",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300266085",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q152"
+      }
+    ]
+  }
+}

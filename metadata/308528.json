@@ -1,0 +1,90 @@
+{
+  "object_id": 308528,
+  "excel_metadata": {
+    "Object Number": "64.228.22",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 308528,
+    "Gallery Number": null,
+    "Department": "Arts of Africa, Oceania, and the Americas",
+    "AccessionYear": 1964,
+    "Object Name": "Bottle",
+    "Title": "Bottle with portrait head",
+    "Culture": "Moche",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 22408,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Moche artist(s)",
+    "Artist Display Bio": " ",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Moche artist(s)",
+    "Artist Nationality": " ",
+    "Artist Begin Date": "          ",
+    "Artist End Date": "          ",
+    "Artist Gender": null,
+    "Artist ULAN URL": null,
+    "Artist Wikidata URL": null,
+    "Object Date": "500–800 CE",
+    "Object Begin Date": 500,
+    "Object End Date": 800,
+    "Medium": "Ceramic, slip",
+    "Dimensions": "H. 11 in. × W. 5 5/8 in. (27.9 × 14.3 cm)",
+    "Credit Line": "Gift of Mr. and Mrs. Nathan Cummings, 1964",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": "Peru",
+    "Region": "North Coast",
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Ceramics-Containers",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/308528",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": null,
+    "Tags AAT URL": null,
+    "Tags Wikidata URL": null
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ao/original/DP-23639-001.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ao/original/DP-23639-006.jpg",
+      "https://images.metmuseum.org/CRDImages/ao/original/DP-23639-005.jpg",
+      "https://images.metmuseum.org/CRDImages/ao/original/DP-23639-002.jpg",
+      "https://images.metmuseum.org/CRDImages/ao/original/DP-23639-003.jpg",
+      "https://images.metmuseum.org/CRDImages/ao/original/DP-23639-004.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 224089,
+        "role": "Artist",
+        "name": "Moche artist(s)",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 27.94,
+          "Width": 14.3
+        }
+      }
+    ],
+    "tags": null
+  }
+}

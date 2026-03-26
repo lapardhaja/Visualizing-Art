@@ -1,0 +1,90 @@
+{
+  "object_id": 57302,
+  "excel_metadata": {
+    "Object Number": "38.106.9",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 57302,
+    "Gallery Number": NaN,
+    "Department": "Asian Art",
+    "AccessionYear": 1938.0,
+    "Object Name": "Painting",
+    "Title": NaN,
+    "Culture": "Japan",
+    "Period": "Edo period (1615–1868)",
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 1310.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Hokusai School",
+    "Artist Display Bio": " ",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Hokusai School",
+    "Artist Nationality": " ",
+    "Artist Begin Date": "          ",
+    "Artist End Date": "          ",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": NaN,
+    "Artist Wikidata URL": NaN,
+    "Object Date": "19th century",
+    "Object Begin Date": 1800,
+    "Object End Date": 1868,
+    "Medium": "Unmounted painting; ink and watercolor on paper",
+    "Dimensions": "10 7/8 x 14 1/2 in. (27.6 x 36.8 cm)",
+    "Credit Line": "Fletcher Fund, 1938",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/57302",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q78724143",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Leaves",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300011892",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q33971"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/as/original/38_106_9_115893.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 13109,
+        "role": "Artist",
+        "name": "Hokusai School",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 27.6,
+          "Width": 36.8
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Leaves",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300011892",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q33971"
+      }
+    ]
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "object_id": 436091,
+  "excel_metadata": {
+    "Object Number": "47.122",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436091,
+    "Gallery Number": 802.0,
+    "Department": "European Paintings",
+    "AccessionYear": 1947.0,
+    "Object Name": "Painting",
+    "Title": "The Laundress",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16180.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Honoré Daumier",
+    "Artist Display Bio": "French, Marseilles 1808–1879 Valmondois",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Daumier, Honoré",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1808",
+    "Artist End Date": "1879",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500117998",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q187506",
+    "Object Date": "186[3?]",
+    "Object Begin Date": 1863,
+    "Object End Date": 1863,
+    "Medium": "Oil on oak",
+    "Dimensions": "19 1/4 x 13 in. (48.9 x 33 cm)",
+    "Credit Line": "Bequest of Lillie P. Bliss, 1931",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436091",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19911724",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Women|Children",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/aat/300025945",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q7569"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT2141.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 161808,
+        "role": "Artist",
+        "name": "Honoré Daumier",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500117998",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q187506",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 48.9,
+          "Width": 33
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 8.255,
+          "Height": 69.2151,
+          "Width": 55.8801
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Children",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025945",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q7569"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "object_id": 11259,
+  "excel_metadata": {
+    "Object Number": "07.68",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 11259,
+    "Gallery Number": 763.0,
+    "Department": "The American Wing",
+    "AccessionYear": 1907.0,
+    "Object Name": "Painting",
+    "Title": "Corn Husking at Nantucket",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16201.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Eastman Johnson",
+    "Artist Display Bio": "American, Lovell, Maine 1824–1906 New York",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Johnson, Eastman",
+    "Artist Nationality": "American ",
+    "Artist Begin Date": "1824",
+    "Artist End Date": "1906",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500008685",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q1278282",
+    "Object Date": "ca. 1875",
+    "Object Begin Date": 1872,
+    "Object End Date": 1875,
+    "Medium": "Oil on canvas",
+    "Dimensions": "27 5/8 x 54 1/2 in. (70.2 x 138.4 cm)",
+    "Credit Line": "Rogers Fund, 1907",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/11259",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19923838",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Crowd|Genre Scene",
+    "Tags AAT URL": " |http://vocab.getty.edu/page/aat/300139140",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q13430821|https://www.wikidata.org/wiki/Q214127"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/ap07.68.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162014,
+        "role": "Artist",
+        "name": "Eastman Johnson",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500008685",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1278282",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 13.7,
+          "Height": 102.2,
+          "Width": 170.5
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 70.2,
+          "Width": 138.4
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Crowd",
+        "AAT_URL": null,
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q13430821"
+      },
+      {
+        "term": "Genre Scene",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300139140",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q214127"
+      }
+    ]
+  }
+}

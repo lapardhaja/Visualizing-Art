@@ -1,0 +1,118 @@
+{
+  "object_id": 202609,
+  "excel_metadata": {
+    "Object Number": "62.6.1, .2",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 202609,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1962,
+    "Object Name": "Tables",
+    "Title": "Pair of tables",
+    "Culture": "British",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 3607,
+    "Artist Role": "Maker",
+    "Artist Prefix": "Possibly",
+    "Artist Display Name": "James Stuart",
+    "Artist Display Bio": " ",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Stuart James",
+    "Artist Nationality": " ",
+    "Artist Begin Date": 1700,
+    "Artist End Date": 1800,
+    "Artist Gender": null,
+    "Artist ULAN URL": null,
+    "Artist Wikidata URL": null,
+    "Object Date": "18th century",
+    "Object Begin Date": 1700,
+    "Object End Date": 1799,
+    "Medium": "Mahogany, oil glazes",
+    "Dimensions": "Overall (.1): 27 1/4 × 17 3/4 × 14 7/16 in. (69.2 × 45.1 × 36.7 cm);_x000D_\nOverall (.2): 27 1/8 × 17 7/8 × 14 7/16 in. (68.9 × 45.4 × 36.7 cm)",
+    "Credit Line": "Fletcher Fund, 1962",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Woodwork-Furniture",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/202609",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Cupid|Psyche|Griffins",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300380105|http://vocab.getty.edu/page/ia/901002042|http://vocab.getty.edu/page/aat/300379594",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q5011|https://www.wikidata.org/wiki/Q843382|https://www.wikidata.org/wiki/Q130223"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP-14204-063.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/DP-14204-064.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP-14204-313.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP-14204-314.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP-14204-315.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP-14204-332.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP-14204-333.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/173537.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 36073,
+        "role": "Maker",
+        "name": "Possibly James Stuart",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": ".1",
+        "elementMeasurements": {
+          "Depth": 36.67132,
+          "Height": 69.21514,
+          "Width": 45.08509
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": ".2",
+        "elementMeasurements": {
+          "Depth": 36.67132,
+          "Height": 68.89764,
+          "Width": 45.40259
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Cupid",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300380105",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q5011"
+      },
+      {
+        "term": "Psyche",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901002042",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q843382"
+      },
+      {
+        "term": "Griffins",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379594",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q130223"
+      }
+    ]
+  }
+}

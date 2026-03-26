@@ -1,0 +1,114 @@
+{
+  "object_id": 436837,
+  "excel_metadata": {
+    "Object Number": "07.225.258",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436837,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1907.0,
+    "Object Name": "Painting, overdoor",
+    "Title": "Allegory of Winter",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16480.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Jacques de La Joue the Younger",
+    "Artist Display Bio": "French, Paris 1686–1761 Paris",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "La Joue, Jacques de, the Younger",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1686",
+    "Artist End Date": "1761",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500016918",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q348421",
+    "Object Date": NaN,
+    "Object Begin Date": 1706,
+    "Object End Date": 1761,
+    "Medium": "Oil on canvas",
+    "Dimensions": "Irregular, 39 1/4 x 41 5/8 in. (99.7 x 105.7 cm)",
+    "Credit Line": "Gift of J. Pierpont Morgan, 1906",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436837",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19914256",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Children|Female Nudes|Sun|Winter",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025945|http://vocab.getty.edu/page/aat/300189568|http://vocab.getty.edu/page/aat/300379806|http://vocab.getty.edu/page/aat/300133101",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q7569|https://www.wikidata.org/wiki/Q40446|https://www.wikidata.org/wiki/Q525|https://www.wikidata.org/wiki/Q1311"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP356144.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 164802,
+        "role": "Artist",
+        "name": "Jacques de La Joue the Younger",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500016918",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q348421",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 99.7,
+          "Width": 105.7
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 5.7150116,
+          "Height": 114.30023,
+          "Width": 109.220215
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Children",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025945",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q7569"
+      },
+      {
+        "term": "Female Nudes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300189568",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q40446"
+      },
+      {
+        "term": "Sun",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379806",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q525"
+      },
+      {
+        "term": "Winter",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300133101",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q1311"
+      }
+    ]
+  }
+}

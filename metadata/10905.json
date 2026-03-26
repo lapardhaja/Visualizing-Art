@@ -1,0 +1,104 @@
+{
+  "object_id": 10905,
+  "excel_metadata": {
+    "Object Number": "68.222.23",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 10905,
+    "Gallery Number": NaN,
+    "Department": "The American Wing",
+    "AccessionYear": 1968.0,
+    "Object Name": "Painting",
+    "Title": "Henry Clay",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 252.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Oliver Frazer",
+    "Artist Display Bio": "1808–1864",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Frazer, Oliver",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1808",
+    "Artist End Date": "1864",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500025965",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q21995263",
+    "Object Date": "ca. 1840",
+    "Object Begin Date": 1837,
+    "Object End Date": 1840,
+    "Medium": "Oil on metal (possibly tin)",
+    "Dimensions": "5 11/16 x 4 3/4 in. (14.4 x 12.1 cm)",
+    "Credit Line": "Gift of J. William Middendorf II, 1968",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/10905",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20174271",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/ap68.222.23.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 2525,
+        "role": "Artist",
+        "name": "Oliver Frazer",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500025965",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q21995263",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 4.7,
+          "Height": 31.6,
+          "Width": 29.7
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 14.4463,
+          "Width": 12.065
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

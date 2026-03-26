@@ -1,0 +1,90 @@
+{
+  "object_id": 436051,
+  "excel_metadata": {
+    "Object Number": "1982.60.5",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436051,
+    "Gallery Number": 537.0,
+    "Department": "European Paintings",
+    "AccessionYear": 1982.0,
+    "Object Name": "Painting, part of an altarpiece",
+    "Title": "Madonna and Child Enthroned",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16179.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Carlo Crivelli",
+    "Artist Display Bio": "Italian, Venice (?), active by 1457–died 1494/95 Ascoli Piceno",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Crivelli, Carlo",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1457",
+    "Artist End Date": "1495",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500005092",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q348024",
+    "Object Date": "1472",
+    "Object Begin Date": 1472,
+    "Object End Date": 1472,
+    "Medium": "Tempera on wood, gold ground",
+    "Dimensions": "38 3/4 x 17 1/4 in. (98.4 x 43.8 cm)",
+    "Credit Line": "The Jack and Belle Linsky Collection, 1982",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436051",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q3842408",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Madonna and Child",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901000052",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q9309699"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT8827.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 161797,
+        "role": "Artist",
+        "name": "Carlo Crivelli",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500005092",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q348024",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 98.4,
+          "Width": 43.8
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Madonna and Child",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000052",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q9309699"
+      }
+    ]
+  }
+}

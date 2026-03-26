@@ -1,0 +1,95 @@
+{
+  "object_id": 13103,
+  "excel_metadata": {
+    "Object Number": "06.200",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 13103,
+    "Gallery Number": NaN,
+    "Department": "The American Wing",
+    "AccessionYear": 1906.0,
+    "Object Name": "Painting",
+    "Title": "Portrait of a Man",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 299.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Samuel Lovett Waldo",
+    "Artist Display Bio": "1783–1861",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Waldo, Samuel Lovett",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1783",
+    "Artist End Date": "1861",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500026386",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q390073",
+    "Object Date": "ca. 1820",
+    "Object Begin Date": 1817,
+    "Object End Date": 1820,
+    "Medium": "Oil on canvas",
+    "Dimensions": "30 1/8 x 25 1/8 in. (76.5 x 63.8 cm)",
+    "Credit Line": "Gift of George H. Story, 1906",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/13103",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20171870",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/ap06.200.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 2993,
+        "role": "Artist",
+        "name": "Samuel Lovett Waldo",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500026386",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q390073",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 76.5,
+          "Width": 63.8
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

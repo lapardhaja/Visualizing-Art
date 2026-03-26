@@ -1,0 +1,100 @@
+{
+  "object_id": 441370,
+  "excel_metadata": {
+    "Object Number": "2017.202.14",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 441370,
+    "Gallery Number": NaN,
+    "Department": "The American Wing",
+    "AccessionYear": 2017.0,
+    "Object Name": "Painting",
+    "Title": "Moorish Guard",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16511.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Edwin Lord Weeks",
+    "Artist Display Bio": "American, Boston, Massachusetts 1849–1903 Paris",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Weeks, Edwin Lord",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1849",
+    "Artist End Date": "1903",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500023842",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q3735411",
+    "Object Date": "ca. 1878",
+    "Object Begin Date": 1873,
+    "Object End Date": 1883,
+    "Medium": "Oil on canvas",
+    "Dimensions": "23 x 12 1/2 in. (58.4 x 31.8 cm)",
+    "Credit Line": "Gift of Kenneth Jay Lane, 2017",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/441370",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q78632982",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Orientalist|Soldiers",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300055784|http://vocab.getty.edu/page/aat/300185678",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q765606|https://www.wikidata.org/wiki/Q4991371"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/tr.144.13.2017_cropped.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 165115,
+        "role": "Artist",
+        "name": "Edwin Lord Weeks",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500023842",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3735411",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 58.420116,
+          "Width": 31.750063
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Soldiers",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300185678",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q4991371"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Orientalist",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300055784",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q765606"
+      }
+    ]
+  }
+}

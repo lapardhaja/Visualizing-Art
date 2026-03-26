@@ -1,0 +1,112 @@
+{
+  "object_id": 205274,
+  "excel_metadata": {
+    "Object Number": "1970.277.13",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 205274,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1970,
+    "Object Name": "Sconce",
+    "Title": "Sconce (one of a pair)",
+    "Culture": "German, Meissen",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 1648320000000000,
+    "Artist Role": "Manufactory|Modeler|Modeler",
+    "Artist Prefix": " | | ",
+    "Artist Display Name": "Meissen Manufactory|Johann Joachim Kändler|Johann Friedrich Eberlein",
+    "Artist Display Bio": "German, 1710–present|German, Fischbach 1706–1775 Meissen|German, 1695–1749",
+    "Artist Suffix": " | | ",
+    "Artist Alpha Sort": "Meissen Manufactory|Kändler, Johann Joachim|Eberlein Johann Friedrich",
+    "Artist Nationality": "German|German|German",
+    "Artist Begin Date": "1710      |1706      |1695      ",
+    "Artist End Date": "9999      |1775      |1749      ",
+    "Artist Gender": "||",
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500054662|http://vocab.getty.edu/page/ulan/500001959|http://vocab.getty.edu/page/ulan/500022920",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q822407|https://www.wikidata.org/wiki/Q73593|https://www.wikidata.org/wiki/Q1693544",
+    "Object Date": "ca. 1742",
+    "Object Begin Date": 1737,
+    "Object End Date": 1747,
+    "Medium": "Hard-paste porcelain",
+    "Dimensions": "Height: 20 5/8 in. (52.4 cm)",
+    "Credit Line": "Gift of Irwin Untermyer, 1970",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Ceramics-Porcelain",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/205274",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Female Nudes|Swans",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300189568|http://vocab.getty.edu/page/aat/300250103",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q40446|https://www.wikidata.org/wiki/Q34384"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/ES6275.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/202502.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 164832,
+        "role": "Manufactory",
+        "name": "Meissen Manufactory",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500054662",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q822407",
+        "gender": ""
+      },
+      {
+        "constituentID": 162020,
+        "role": "Modeler",
+        "name": "Johann Joachim Kändler",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500001959",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q73593",
+        "gender": ""
+      },
+      {
+        "constituentID": 34158,
+        "role": "Modeler",
+        "name": "Johann Friedrich Eberlein",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500022920",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1693544",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Height",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 52.387604
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Female Nudes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300189568",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q40446"
+      },
+      {
+        "term": "Swans",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250103",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q34384"
+      }
+    ]
+  }
+}

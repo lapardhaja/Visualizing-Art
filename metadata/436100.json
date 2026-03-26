@@ -1,0 +1,128 @@
+{
+  "object_id": 436100,
+  "excel_metadata": {
+    "Object Number": "32.100.40a",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 436100,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1932.0,
+    "Object Name": "Painting",
+    "Title": "The Nativity",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16181.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Gerard David",
+    "Artist Display Bio": "Netherlandish, Oudewater ca. 1455–1523 Bruges",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "David, Gerard",
+    "Artist Nationality": "Netherlandish",
+    "Artist Begin Date": "1455",
+    "Artist End Date": "1523",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500025998",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q333380",
+    "Object Date": "early 1480s",
+    "Object Begin Date": 1480,
+    "Object End Date": 1483,
+    "Medium": "Oil on wood",
+    "Dimensions": "Overall 18 3/4 x 13 1/2 in. (47.6 x 34.3 cm), painted surface 18 1/2 x 13 3/8 in. (47 x 34 cm)",
+    "Credit Line": "The Friedsam Collection, Bequest of Michael Friedsam, 1931",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436100",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19905032",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Animals|Men|Nativity|Angels|Christ|Virgin Mary",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300249525|http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/ia/901000124|http://vocab.getty.edu/page/aat/300379004|http://vocab.getty.edu/page/ia/901000087|http://vocab.getty.edu/page/ia/901000032",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q729|https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q51628|https://www.wikidata.org/wiki/Q235113|https://www.wikidata.org/wiki/Q642420|https://www.wikidata.org/wiki/Q345"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-26498-001.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-32_100_40a-5.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-32_100_40a-IRR.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-32_100_40a-XRAY.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 161810,
+        "role": "Artist",
+        "name": "Gerard David",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500025998",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q333380",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 47.6,
+          "Width": 34.3
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 3.175,
+          "Height": 55.2451,
+          "Width": 41.9101
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Animals",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300249525",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q729"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Angels",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379004",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q235113"
+      },
+      {
+        "term": "Christ",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+      },
+      {
+        "term": "Virgin Mary",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000032",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q345"
+      },
+      {
+        "term": "Nativity",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000124",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q51628"
+      }
+    ]
+  }
+}

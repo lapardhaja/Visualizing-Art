@@ -1,0 +1,104 @@
+{
+  "object_id": 16781,
+  "excel_metadata": {
+    "Object Number": "2000.45",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 16781,
+    "Gallery Number": 753.0,
+    "Department": "The American Wing",
+    "AccessionYear": 2000.0,
+    "Object Name": "Painting",
+    "Title": "Captain John Gell",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16249.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Gilbert Stuart",
+    "Artist Display Bio": "American, North Kingston, Rhode Island 1755–1828 Boston, Massachusetts",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Stuart, Gilbert",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1755",
+    "Artist End Date": "1828",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500010392",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q41402",
+    "Object Date": "1785",
+    "Object Begin Date": 1785,
+    "Object End Date": 1785,
+    "Medium": "Oil on canvas",
+    "Dimensions": "94 1/2 x 58 1/2 in. (240 x 148.6 cm)",
+    "Credit Line": "Purchase, Dorothy Schwartz Gift, Joseph Pulitzer Bequest, and 2000 Benefit Fund, 2000",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/16781",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20170152",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DT2040.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162490,
+        "role": "Artist",
+        "name": "Gilbert Stuart",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500010392",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q41402",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 240,
+          "Width": 148.6
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 12.7,
+          "Height": 275.3366,
+          "Width": 184.7854
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

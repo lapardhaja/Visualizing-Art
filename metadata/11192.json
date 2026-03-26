@@ -1,0 +1,105 @@
+{
+  "object_id": 11192,
+  "excel_metadata": {
+    "Object Number": "97.35",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 11192,
+    "Gallery Number": NaN,
+    "Department": "The American Wing",
+    "AccessionYear": 1897.0,
+    "Object Name": "Painting",
+    "Title": "Mercy's Dream",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16510.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Daniel Huntington",
+    "Artist Display Bio": "American, New York 1816–1906 New York",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Huntington, Daniel",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1816",
+    "Artist End Date": "1906",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500017937",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q323987",
+    "Object Date": "1858",
+    "Object Begin Date": 1858,
+    "Object End Date": 1858,
+    "Medium": "Oil on canvas",
+    "Dimensions": "84 x 66 1/4 in. (213.4 x 168.3 cm)",
+    "Credit Line": "Gift of the artist, 1897",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/11192",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20174755",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Angels|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300379004|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q235113|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/ap97.35.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ad/original/DT265330.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 165104,
+        "role": "Artist",
+        "name": "Daniel Huntington",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500017937",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q323987",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 235.9,
+          "Width": 189.9
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 213.4,
+          "Width": 168.3
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Angels",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379004",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q235113"
+      }
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "object_id": 437527,
+  "excel_metadata": {
+    "Object Number": "37.160.12",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 437527,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1937.0,
+    "Object Name": "Painting",
+    "Title": "The Glorification of the Eucharist",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16235.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Peter Paul Rubens",
+    "Artist Display Bio": "Flemish, Siegen 1577–1640 Antwerp",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Rubens, Peter Paul",
+    "Artist Nationality": "Flemish",
+    "Artist Begin Date": "1577",
+    "Artist End Date": "1640",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500002921",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q5599",
+    "Object Date": "ca. 1630–32",
+    "Object Begin Date": 1630,
+    "Object End Date": 1632,
+    "Medium": "Oil on wood",
+    "Dimensions": "28 1/8 in. × 19 in. (71.4 × 48.2 cm)\r\n",
+    "Credit Line": "Bequest of Ogden Mills, 1929",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437527",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912138",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Snakes|Saint Paul|Angels|Christ|Skeletons",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300250870|http://vocab.getty.edu/page/ia/901001058|http://vocab.getty.edu/page/aat/300379004|http://vocab.getty.edu/page/ia/901000087|http://vocab.getty.edu/page/aat/300191778",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q2102|https://www.wikidata.org/wiki/Q9200|https://www.wikidata.org/wiki/Q235113|https://www.wikidata.org/wiki/Q642420|https://www.wikidata.org/wiki/Q7881"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-18296-021.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162350,
+        "role": "Artist",
+        "name": "Peter Paul Rubens",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500002921",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5599",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 3.2,
+          "Height": 71.4,
+          "Width": 48.2
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": "F.37.160.12",
+        "elementMeasurements": {
+          "Depth": 10.16,
+          "Height": 96.5202,
+          "Width": 73.6601
+        }
+      },
+      {
+        "elementName": "Rabbet",
+        "elementDescription": "F.37.160.12",
+        "elementMeasurements": {
+          "Height": 72.70764,
+          "Width": 49.530098
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Skeletons",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300191778",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q7881"
+      },
+      {
+        "term": "Snakes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250870",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q2102"
+      },
+      {
+        "term": "Angels",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379004",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q235113"
+      },
+      {
+        "term": "Christ",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+      },
+      {
+        "term": "Saint Paul",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901001058",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q9200"
+      }
+    ]
+  }
+}

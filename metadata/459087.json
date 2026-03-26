@@ -1,0 +1,101 @@
+{
+  "object_id": 459087,
+  "excel_metadata": {
+    "Object Number": "1975.1.145",
+    "Is Highlight": true,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 459087,
+    "Gallery Number": 958.0,
+    "Department": "Robert Lehman Collection",
+    "AccessionYear": 1975.0,
+    "Object Name": "Painting",
+    "Title": "Christ Carrying the Cross",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16195.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "El Greco (Domenikos Theotokopoulos)",
+    "Artist Display Bio": "Greek, Iráklion (Candia) 1541–1614 Toledo",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Greco, El (Domenikos Theotokopoulos)",
+    "Artist Nationality": "Greek",
+    "Artist Begin Date": "1540",
+    "Artist End Date": "1614",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500010916",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q301",
+    "Object Date": "ca. 1577–87",
+    "Object Begin Date": 1574,
+    "Object End Date": 1590,
+    "Medium": "Oil on canvas",
+    "Dimensions": "41 5/16 x 31 1/8 in. (105 x 79 cm)",
+    "Credit Line": "Robert Lehman Collection, 1975",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/459087",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q8464346",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Bearing the Cross|Christ",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901001193|http://vocab.getty.edu/page/ia/901000087",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q3399226|https://www.wikidata.org/wiki/Q642420"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/rl/original/DP347226.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/rl/original/DT714.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/rl1975.1.145.R.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/0762.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/ep1975.1.145.bw.R.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/DP347296.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 161956,
+        "role": "Artist",
+        "name": "El Greco (Domenikos Theotokopoulos)",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500010916",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q301",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 105,
+          "Width": 79
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Christ",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+      },
+      {
+        "term": "Bearing the Cross",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901001193",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3399226"
+      }
+    ]
+  }
+}

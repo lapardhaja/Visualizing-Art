@@ -1,0 +1,96 @@
+{
+  "object_id": 10981,
+  "excel_metadata": {
+    "Object Number": "67.263",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 10981,
+    "Gallery Number": NaN,
+    "Department": "The American Wing",
+    "AccessionYear": 1967.0,
+    "Object Name": "Painting, miniature",
+    "Title": "Mrs. William Gordon Ver Planck and Her Son Samuel Hopkins Ver Planck",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": NaN,
+    "Artist Role": NaN,
+    "Artist Prefix": NaN,
+    "Artist Display Name": NaN,
+    "Artist Display Bio": NaN,
+    "Artist Suffix": NaN,
+    "Artist Alpha Sort": NaN,
+    "Artist Nationality": NaN,
+    "Artist Begin Date": NaN,
+    "Artist End Date": NaN,
+    "Artist Gender": NaN,
+    "Artist ULAN URL": NaN,
+    "Artist Wikidata URL": NaN,
+    "Object Date": "ca. 1828",
+    "Object Begin Date": 1828,
+    "Object End Date": 1828,
+    "Medium": "Watercolor on ivory",
+    "Dimensions": "Sight: 5 x 4 in. (12.7 x 10.2 cm)",
+    "Credit Line": "Gift of John C. Cattus, 1967",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/10981",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19924755",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Boys|Women|Portraits|Mothers",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300247598|http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300025932",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q3010|https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q7560"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DP162115.jpg",
+    "additionalImages": [],
+    "constituents": null,
+    "measurements": [
+      {
+        "elementName": "Sight",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 12.7,
+          "Width": 10.16
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Boys",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300247598",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3010"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Mothers",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025932",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q7560"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

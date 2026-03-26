@@ -1,0 +1,100 @@
+{
+  "object_id": 437232,
+  "excel_metadata": {
+    "Object Number": "88.3.82",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437232,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1888.0,
+    "Object Name": "Painting",
+    "Title": "Saint Anne Enthroned with the Virgin and Child",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10812.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Osma Master",
+    "Artist Display Bio": "Spanish, Castilian, ca. 1500",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Osma Master",
+    "Artist Nationality": "Spanish",
+    "Artist Begin Date": "1500",
+    "Artist End Date": "1500",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500119166",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q21501040",
+    "Object Date": NaN,
+    "Object Begin Date": 1495,
+    "Object End Date": 1505,
+    "Medium": "Tempera and gold on wood",
+    "Dimensions": "59 x 32 in. (149.9 x 81.3 cm)",
+    "Credit Line": "Gift of Coudert Brothers, 1888",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437232",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19913103",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Musical Instruments|Madonna and Child|Saint Anne",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300041620|http://vocab.getty.edu/page/ia/901000052|http://vocab.getty.edu/page/ia/901001010",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q34379|https://www.wikidata.org/wiki/Q9309699|https://www.wikidata.org/wiki/Q164294"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/ep88.3.82.bw.R.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 108123,
+        "role": "Artist",
+        "name": "Osma Master",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500119166",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q21501040",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 149.9,
+          "Width": 81.3
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Musical Instruments",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300041620",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q34379"
+      },
+      {
+        "term": "Madonna and Child",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000052",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q9309699"
+      },
+      {
+        "term": "Saint Anne",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901001010",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q164294"
+      }
+    ]
+  }
+}

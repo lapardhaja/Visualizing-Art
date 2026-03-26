@@ -1,0 +1,126 @@
+{
+  "object_id": 437276,
+  "excel_metadata": {
+    "Object Number": "50.145.30",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 437276,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1950.0,
+    "Object Name": "Painting",
+    "Title": "Madonna and Child with Six Saints",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16223.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Pesellino (Francesco di Stefano)",
+    "Artist Display Bio": "Italian, Florence ca. 1422–1457 Florence",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Pesellino (Francesco di Stefano)",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1422",
+    "Artist End Date": "1457",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500025682",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q930831",
+    "Object Date": "late 1440s",
+    "Object Begin Date": 1447,
+    "Object End Date": 1449,
+    "Medium": "Tempera on wood, gold ground",
+    "Dimensions": "8 7/8 x 8 in. (22.5 x 20.3 cm)",
+    "Credit Line": "Bequest of Mary Stillman Harkness, 1950",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437276",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19911675",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Madonna and Child|Saint Catherine|Saint George|Saint Jerome|Men|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901000052| |http://vocab.getty.edu/page/ia/901000509|http://vocab.getty.edu/page/ulan/500060933|http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q9309699| |https://www.wikidata.org/wiki/Q48438|https://www.wikidata.org/wiki/Q44248|https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP247059.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/DP247147.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/Pesellino.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 162232,
+        "role": "Artist",
+        "name": "Pesellino (Francesco di Stefano)",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500025682",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q930831",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Glazing",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 26.035051,
+          "Width": 23.812548
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 22.5,
+          "Width": 20.3
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Madonna and Child",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000052",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q9309699"
+      },
+      {
+        "term": "Saint Catherine",
+        "AAT_URL": null,
+        "Wikidata_URL": null
+      },
+      {
+        "term": "Saint George",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000509",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q48438"
+      },
+      {
+        "term": "Saint Jerome",
+        "AAT_URL": "http://vocab.getty.edu/page/ulan/500060933",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q44248"
+      }
+    ]
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "object_id": 438466,
+  "excel_metadata": {
+    "Object Number": "2001.216.2",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 438466,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 2001.0,
+    "Object Name": "Painting",
+    "Title": "The Flagellation",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10800.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Master of the Berswordt Altar",
+    "Artist Display Bio": "German, Westphalian, active ca. 1400–35",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Master of the Berswordt Altar",
+    "Artist Nationality": "German",
+    "Artist Begin Date": "1400",
+    "Artist End Date": "1435",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500013887",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q3842963",
+    "Object Date": "ca. 1400",
+    "Object Begin Date": 1395,
+    "Object End Date": 1405,
+    "Medium": "Oil, egg(?), and gold on plywood, transferred from wood",
+    "Dimensions": "22 3/4 x 16 7/8 in. (57.8 x 42.9 cm)",
+    "Credit Line": "Bequest of Hertha Katz, 2000",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/438466",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19911589",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Christ|Flagellation",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/ia/901000087|http://vocab.getty.edu/page/aat/300404328",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q642420|https://www.wikidata.org/wiki/Q2033105"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP164873.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/GermanCat46a_Xray.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 108001,
+        "role": "Artist",
+        "name": "Master of the Berswordt Altar",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500013887",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3842963",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 57.8,
+          "Width": 42.9
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Christ",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+      },
+      {
+        "term": "Flagellation",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300404328",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q2033105"
+      }
+    ]
+  }
+}

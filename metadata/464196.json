@@ -1,0 +1,96 @@
+{
+  "object_id": 464196,
+  "excel_metadata": {
+    "Object Number": "17.190.2138a, b",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 464196,
+    "Gallery Number": 304,
+    "Department": "Medieval Art",
+    "AccessionYear": 1917,
+    "Object Name": "Plaque",
+    "Title": "Plaque from a Reliquary Shrine",
+    "Culture": "German",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": null,
+    "Artist Role": null,
+    "Artist Prefix": null,
+    "Artist Display Name": null,
+    "Artist Display Bio": null,
+    "Artist Suffix": null,
+    "Artist Alpha Sort": null,
+    "Artist Nationality": null,
+    "Artist Begin Date": null,
+    "Artist End Date": null,
+    "Artist Gender": null,
+    "Artist ULAN URL": null,
+    "Artist Wikidata URL": null,
+    "Object Date": "ca. 1170",
+    "Object Begin Date": 1170,
+    "Object End Date": 1170,
+    "Medium": "Champlevé enamel, copper alloy, gilt",
+    "Dimensions": "Overall: 2 11/16 x 1 1/16 x 1/8 in. (6.8 x 2.7 x 0.3 cm)_x000D_\na: 1 5/16 x 1 1/16 x 1/8 in. (3.4 x 2.7 x 0.3 cm)_x000D_\nb: 1 5/16 x 1 1/16 x 1/8 in. (3.4 x 2.7 x 0.3 cm)",
+    "Credit Line": "Gift of J. Pierpont Morgan, 1917",
+    "Geography Type": "Made in",
+    "City": "probably Cologne",
+    "State": null,
+    "County": null,
+    "Country": "Germany",
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Enamels-Champlevé",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/464196",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q116273709",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": null,
+    "Tags AAT URL": null,
+    "Tags Wikidata URL": null
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/md/original/sf17-190-2138abs1.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/md/original/sf17-190-2138abs2.jpg"
+    ],
+    "constituents": null,
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Length": 6.8,
+          "Thickness": 0.3,
+          "Width": 2.6988
+        }
+      },
+      {
+        "elementName": "Other",
+        "elementDescription": "b",
+        "elementMeasurements": {
+          "Length": 3.4,
+          "Thickness": 0.3,
+          "Width": 2.7
+        }
+      },
+      {
+        "elementName": "Other",
+        "elementDescription": "a",
+        "elementMeasurements": {
+          "Length": 3.4,
+          "Thickness": 0.3,
+          "Width": 2.7
+        }
+      }
+    ],
+    "tags": null
+  }
+}

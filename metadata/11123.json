@@ -1,0 +1,101 @@
+{
+  "object_id": 11123,
+  "excel_metadata": {
+    "Object Number": "09.26.6",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 11123,
+    "Gallery Number": NaN,
+    "Department": "The American Wing",
+    "AccessionYear": 1909.0,
+    "Object Name": "Painting",
+    "Title": "Harvest Scene",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16199.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Winslow Homer",
+    "Artist Display Bio": "American, Boston, Massachusetts 1836–1910 Prouts Neck, Maine",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Homer, Winslow",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1836",
+    "Artist End Date": "1910",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500019202",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q344838",
+    "Object Date": "ca. 1873",
+    "Object Begin Date": 1870,
+    "Object End Date": 1873,
+    "Medium": "Oil on canvas",
+    "Dimensions": "10 x 24 in. (25.4 x 61 cm)",
+    "Credit Line": "George A. Hearn Fund, 1909",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/11123",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19925439",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Landscapes",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300132294",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q191163"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/ap09.26.6.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ad/original/5797(2).jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 161996,
+        "role": "Artist",
+        "name": "Winslow Homer",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500019202",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q344838",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 25.4,
+          "Width": 60.9601
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 11.5,
+          "Height": 66.2,
+          "Width": 86.7
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Landscapes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+      }
+    ]
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "object_id": 436676,
+  "excel_metadata": {
+    "Object Number": "32.100.15",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436676,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1932.0,
+    "Object Name": "Painting",
+    "Title": "Woman with a Water Pitcher, and a Man by a Bed",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16199.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Pieter de Hooch",
+    "Artist Display Bio": "Dutch, Rotterdam 1629–1684 Amsterdam",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Hooch, Pieter de",
+    "Artist Nationality": "Dutch",
+    "Artist Begin Date": "1629",
+    "Artist End Date": "1684",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500020229",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q314889",
+    "Object Date": "ca. 1667–70",
+    "Object Begin Date": 1667,
+    "Object End Date": 1670,
+    "Medium": "Oil on canvas",
+    "Dimensions": "24 1/4 x 20 1/2 in. (61.5 x 52.1 cm)",
+    "Credit Line": "The Friedsam Collection, Bequest of Michael Friedsam, 1931",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436676",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912277",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Women|Pitchers|Interiors|Dogs",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/aat/300194765|http://vocab.getty.edu/page/aat/300391239|http://vocab.getty.edu/page/aat/300265714",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q132397|https://www.wikidata.org/wiki/Q2998430|https://www.wikidata.org/wiki/Q144"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP143173.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 161997,
+        "role": "Artist",
+        "name": "Pieter de Hooch",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500020229",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q314889",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 61.6,
+          "Width": 52.1
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Interiors",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300391239",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q2998430"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Dogs",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300265714",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q144"
+      },
+      {
+        "term": "Pitchers",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300194765",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q132397"
+      }
+    ]
+  }
+}

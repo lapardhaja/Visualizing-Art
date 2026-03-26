@@ -1,0 +1,105 @@
+{
+  "object_id": 437191,
+  "excel_metadata": {
+    "Object Number": "17.190.11",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437191,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1917.0,
+    "Object Name": "Painting",
+    "Title": "Landscape at Sunset",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10810.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Aert van der Neer",
+    "Artist Display Bio": "Dutch, Gorinchem 1603/4–1677 Amsterdam",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Neer, Aert van der",
+    "Artist Nationality": "Dutch",
+    "Artist Begin Date": "1603",
+    "Artist End Date": "1677",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500001738",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q381801",
+    "Object Date": "1650s",
+    "Object Begin Date": 1650,
+    "Object End Date": 1659,
+    "Medium": "Oil on canvas",
+    "Dimensions": "20 x 28 1/8 in. (50.8 x 71.4 cm)",
+    "Credit Line": "Gift of J. Pierpont Morgan, 1917",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437191",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19914279",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Cows|Rivers|Landscapes|Horses",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300250120|http://vocab.getty.edu/page/aat/300008707|http://vocab.getty.edu/page/aat/300132294|http://vocab.getty.edu/page/aat/300250148",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q830|https://www.wikidata.org/wiki/Q4022|https://www.wikidata.org/wiki/Q191163|https://www.wikidata.org/wiki/Q726"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP146446.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 108103,
+        "role": "Artist",
+        "name": "Aert van der Neer",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500001738",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q381801",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 50.8,
+          "Width": 71.4
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Cows",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250120",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q830"
+      },
+      {
+        "term": "Horses",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250148",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q726"
+      },
+      {
+        "term": "Rivers",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300008707",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q4022"
+      },
+      {
+        "term": "Landscapes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+      }
+    ]
+  }
+}

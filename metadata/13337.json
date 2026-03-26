@@ -1,0 +1,104 @@
+{
+  "object_id": 13337,
+  "excel_metadata": {
+    "Object Number": "48.129.2",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 13337,
+    "Gallery Number": 774.0,
+    "Department": "The American Wing",
+    "AccessionYear": 1948.0,
+    "Object Name": "Painting",
+    "Title": "Mrs. Joseph Reade",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 303.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "John Wollaston",
+    "Artist Display Bio": "Anglo-American, active 1733—67",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Wollaston, John",
+    "Artist Nationality": "Anglo-American",
+    "Artist Begin Date": "1700",
+    "Artist End Date": "1800",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500031152",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q3182782",
+    "Object Date": "ca. 1749–52",
+    "Object Begin Date": 1746,
+    "Object End Date": 1752,
+    "Medium": "Oil on canvas",
+    "Dimensions": "30 x 25 in. (76.2 x 63.5 cm)",
+    "Credit Line": "Purchase, Gift of Mrs. Russell Sage, by exchange, 1948",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/13337",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20171964",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Women|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DT235190.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 3033,
+        "role": "Artist",
+        "name": "John Wollaston",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500031152",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3182782",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 76.2,
+          "Width": 63.5
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 7.5,
+          "Height": 93,
+          "Width": 81.8
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

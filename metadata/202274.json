@@ -1,0 +1,103 @@
+{
+  "object_id": 202274,
+  "excel_metadata": {
+    "Object Number": "59.87.1",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 202274,
+    "Gallery Number": 552,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1959,
+    "Object Name": "Relief",
+    "Title": "Children and Satyr Children Sporting with a Goat",
+    "Culture": "French, Paris",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 16177,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Clodion (Claude Michel)",
+    "Artist Display Bio": "French, Nancy 1738–1814 Paris",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Clodion (Claude Michel)",
+    "Artist Nationality": "French",
+    "Artist Begin Date": 1738,
+    "Artist End Date": 1814,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500115369",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q2979538",
+    "Object Date": "ca. 1781",
+    "Object Begin Date": 1776,
+    "Object End Date": 1786,
+    "Medium": "Terracotta",
+    "Dimensions": "10 x 30 1/2 in. (25.4 x 77.5 cm.)",
+    "Credit Line": "Fletcher Fund, 1959",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Sculpture",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/202274",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q116374049",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Playing|Satyrs|Goats",
+    "Tags AAT URL": " |http://vocab.getty.edu/page/aat/300379732|http://vocab.getty.edu/page/aat/300250122",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q1150958|https://www.wikidata.org/wiki/Q163709|https://www.wikidata.org/wiki/Q2934"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/ES4786.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/ES4791.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/ES4792.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 161776,
+        "role": "Artist",
+        "name": "Clodion (Claude Michel)",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115369",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q2979538",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 25.4,
+          "Width": 77.5
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Playing",
+        "AAT_URL": null,
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q1150958"
+      },
+      {
+        "term": "Satyrs",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379732",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q163709"
+      },
+      {
+        "term": "Goats",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250122",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q2934"
+      }
+    ]
+  }
+}

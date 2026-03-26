@@ -1,0 +1,113 @@
+{
+  "object_id": 441234,
+  "excel_metadata": {
+    "Object Number": "2011.82",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 441234,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 2011.0,
+    "Object Name": "Painting",
+    "Title": "Medea Rejuvenating Aeson",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16521.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Corrado Giaquinto",
+    "Artist Display Bio": "Italian, Molfetta 1703–1766 Naples",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Giaquinto, Corrado",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1703",
+    "Artist End Date": "1766",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500021302",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q740934",
+    "Object Date": "ca. 1760",
+    "Object Begin Date": 1755,
+    "Object End Date": 1765,
+    "Medium": "Oil on canvas",
+    "Dimensions": "29 x 21 1/2 in. (73.7 x 54.6 cm)",
+    "Credit Line": "Purchase, University Place Foundation Gift, 2011",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/441234",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20168176",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Women|Medea",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/ia/901001943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q174278"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP268309.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/DP268767.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-2011_82-2.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-2011_82-3.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 165212,
+        "role": "Artist",
+        "name": "Corrado Giaquinto",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500021302",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q740934",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 5.7150116,
+          "Height": 81.91516,
+          "Width": 62.230125
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 73.66015,
+          "Width": 54.610107
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Medea",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901001943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q174278"
+      }
+    ]
+  }
+}

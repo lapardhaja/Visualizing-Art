@@ -1,0 +1,108 @@
+{
+  "object_id": 205177,
+  "excel_metadata": {
+    "Object Number": 1970.1,
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 205177,
+    "Gallery Number": 515,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1970,
+    "Object Name": "Statue",
+    "Title": "Reclining Naiad",
+    "Culture": "Italian, Rome",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 16174211823,
+    "Artist Role": "Artist|Patron",
+    "Artist Prefix": " |Commissioned by",
+    "Artist Display Name": "Antonio Canova|John Bligh, 4th Earl of Darnley",
+    "Artist Display Bio": "Italian, Possagno 1757–1822 Venice| ",
+    "Artist Suffix": ", and his studio| ",
+    "Artist Alpha Sort": "Canova, Antonio|Darnley, John",
+    "Artist Nationality": "Italian| ",
+    "Artist Begin Date": "1757      |1815      ",
+    "Artist End Date": "1822      |1831      ",
+    "Artist Gender": "|",
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500115339|(not assigned)",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q5547|https://www.wikidata.org/wiki/Q6222219",
+    "Object Date": "1819–24",
+    "Object Begin Date": 1819,
+    "Object End Date": 1824,
+    "Medium": "Carrara marble",
+    "Dimensions": "Overall (wt. confirmed): 35 × 75 × 32 1/2 in., 2558 lb. (88.9 × 190.5 × 82.6 cm, 1160.3 kg)",
+    "Credit Line": "Purchase, Mrs. Joseph A. Neff Gift, in memory of Joseph A. Neff, 1970",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Sculpture",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/205177",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q116373987",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Female Nudes",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300189568",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q40446"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/192353.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/192355.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/192354.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/192356.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/192357.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/192358.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/192359.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/192360.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 161742,
+        "role": "Maker",
+        "name": "Antonio Canova",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115339",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5547",
+        "gender": ""
+      },
+      {
+        "constituentID": 118234,
+        "role": "Patron",
+        "name": "Commissioned by John Bligh, 4th Earl of Darnley",
+        "constituentULAN_URL": "(not assigned)",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q6222219",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": "wt. confirmed",
+        "elementMeasurements": {
+          "Depth": 82.55016,
+          "Height": 88.90018,
+          "Weight": 1160.3011,
+          "Width": 190.50038
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Female Nudes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300189568",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q40446"
+      }
+    ]
+  }
+}

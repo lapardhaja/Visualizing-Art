@@ -1,0 +1,91 @@
+{
+  "object_id": 237842,
+  "excel_metadata": {
+    "Object Number": 2010.227,
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 237842,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 2010,
+    "Object Name": "Box",
+    "Title": "Box",
+    "Culture": "French",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 4623,
+    "Artist Role": "Maker",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Alphonse Giroux & Cie., Paris",
+    "Artist Display Bio": "ca. 1775–1848",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Alphonse Giroux & Cie., Paris",
+    "Artist Nationality": " ",
+    "Artist Begin Date": 1775,
+    "Artist End Date": 1848,
+    "Artist Gender": null,
+    "Artist ULAN URL": null,
+    "Artist Wikidata URL": null,
+    "Object Date": "ca. 1860",
+    "Object Begin Date": 1855,
+    "Object End Date": 1865,
+    "Medium": "Wood veneered with parquetry of tulipwood and kingwood, gilt bronze, modern silk lining trimmed with metal thread",
+    "Dimensions": "Overall (confirmed): 7 3/4 × 15 × 9 in. (19.7 × 38.1 × 22.9 cm)",
+    "Credit Line": "Purchase, Mr. and Mrs. Sid R. Bass Gift, in honor of Mrs. Charles Wrightsman, 2010",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Woodwork-Furniture",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/237842",
+    "Object Wikidata URL": "http://www.wikidata.org/entity/Q112812321",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": null,
+    "Tags AAT URL": null,
+    "Tags Wikidata URL": null
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP-22126-013.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/DP-22126-014.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP-22126-035.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP-22126-036.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP-22126-037.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP-22126-038.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 46234,
+        "role": "Maker",
+        "name": "Alphonse Giroux &amp; Cie., Paris",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": "confirmed",
+        "elementMeasurements": {
+          "Depth": 22.860046,
+          "Height": 19.68504,
+          "Width": 38.100075
+        }
+      }
+    ],
+    "tags": null
+  }
+}

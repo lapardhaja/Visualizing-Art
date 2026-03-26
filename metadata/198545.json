@@ -1,0 +1,94 @@
+{
+  "object_id": 198545,
+  "excel_metadata": {
+    "Object Number": "39.140.184",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 198545,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1939,
+    "Object Name": "Sauceboat",
+    "Title": "Sauceboat (one of a pair)",
+    "Culture": "British, possibly Worcester or Bow, London",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 351103473,
+    "Artist Role": "Factory|Factory",
+    "Artist Prefix": "Possibly|or possibly",
+    "Artist Display Name": "Worcester factory|Bow Porcelain Factory",
+    "Artist Display Bio": "British, 1751–2008|British, 1747–1776",
+    "Artist Suffix": " | ",
+    "Artist Alpha Sort": "Worcester factory|Bow Porcelain Factory",
+    "Artist Nationality": "British|British",
+    "Artist Begin Date": "1751      |1747      ",
+    "Artist End Date": "2008      |1776      ",
+    "Artist Gender": "|",
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500332804|http://vocab.getty.edu/page/ulan/500332807",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q668894|https://www.wikidata.org/wiki/Q3816631",
+    "Object Date": "ca. 1755",
+    "Object Begin Date": 1750,
+    "Object End Date": 1760,
+    "Medium": "Soft-paste porcelain",
+    "Dimensions": "Overall: 4 1/8 × 7 1/4 in. (10.5 × 18.4 cm)",
+    "Credit Line": "Gift of Mr. and Mrs. Luke Vincent Lockwood, 1939",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Ceramics-Porcelain",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/198545",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": null,
+    "Tags AAT URL": null,
+    "Tags Wikidata URL": null
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP-39508-001.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/DP-39508-002.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 35110,
+        "role": "Factory",
+        "name": "Possibly Worcester factory",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500332804",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q668894",
+        "gender": ""
+      },
+      {
+        "constituentID": 34736,
+        "role": "Factory",
+        "name": "or possibly Bow Porcelain Factory",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500332807",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3816631",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 10.477521,
+          "Width": 18.415037
+        }
+      }
+    ],
+    "tags": null
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "object_id": 436698,
+  "excel_metadata": {
+    "Object Number": "64.294",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436698,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1964.0,
+    "Object Name": "Painting",
+    "Title": "Still Life: A Basket of Grapes and Other Fruit",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10780.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Jacob van Hulsdonck",
+    "Artist Display Bio": "Flemish, 1582–1647",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Hulsdonck, Jacob van",
+    "Artist Nationality": "Flemish",
+    "Artist Begin Date": "1582",
+    "Artist End Date": "1647",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500019495",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q1677696",
+    "Object Date": "probably ca. 1635–45",
+    "Object Begin Date": 1635,
+    "Object End Date": 1645,
+    "Medium": "Oil on wood",
+    "Dimensions": "19 5/8 x 25 1/2 in. (49.8 x 64.8 cm)",
+    "Credit Line": "The Alfred N. Punnett Endowment Fund, 1964",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436698",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19913297",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Grapes|Lemons|Still Life",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300379338|http://vocab.getty.edu/page/aat/300266423|http://vocab.getty.edu/page/aat/300015638",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q10978|https://www.wikidata.org/wiki/Q1093742|https://www.wikidata.org/wiki/Q170571"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/ep64.294.bw.R.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 107803,
+        "role": "Artist",
+        "name": "Jacob van Hulsdonck",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500019495",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1677696",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 49.8,
+          "Width": 64.8
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Grapes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379338",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q10978"
+      },
+      {
+        "term": "Lemons",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300266423",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q1093742"
+      },
+      {
+        "term": "Still Life",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015638",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q170571"
+      }
+    ]
+  }
+}

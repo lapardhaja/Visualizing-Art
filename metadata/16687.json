@@ -1,0 +1,109 @@
+{
+  "object_id": 16687,
+  "excel_metadata": {
+    "Object Number": "2000.151",
+    "Is Highlight": true,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 16687,
+    "Gallery Number": 756.0,
+    "Department": "The American Wing",
+    "AccessionYear": 2000.0,
+    "Object Name": "Painting",
+    "Title": "Michael Angelo and Emma Clara Peale",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16221.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Rembrandt Peale",
+    "Artist Display Bio": "American, Bucks County, Pennsylvania 1778–1860 Philadelphia, Pennsylvania",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Peale, Rembrandt",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1778",
+    "Artist End Date": "1860",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500019719",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q375926",
+    "Object Date": "ca. 1826",
+    "Object Begin Date": 1826,
+    "Object End Date": 1826,
+    "Medium": "Oil on canvas",
+    "Dimensions": "30 x 25 in. (76.2 x 63.5 cm)",
+    "Credit Line": "Purchase, Dodge Fund, Dale T. Johnson Fund, and Q, The Overbrook Foundation, Mr. and Mrs. Max N. Berry, Barbara G. Fleischman, Mrs. Daniel Fraad, Mr. and Mrs. Peter Lunder, Mr. and Mrs. Frank Martucci, and Erving and Joyce Wolf Gifts, 2000",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/16687",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20169720",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Boys|Girls|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300247598|http://vocab.getty.edu/page/aat/300247581|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q3010|https://www.wikidata.org/wiki/Q3031|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DT4656.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162212,
+        "role": "Artist",
+        "name": "Rembrandt Peale",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500019719",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q375926",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 76.2,
+          "Width": 63.5
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 9.5,
+          "Height": 93.1,
+          "Width": 81
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Boys",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300247598",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3010"
+      },
+      {
+        "term": "Girls",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300247581",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3031"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

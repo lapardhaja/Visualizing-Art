@@ -1,0 +1,97 @@
+{
+  "object_id": 463320,
+  "excel_metadata": {
+    "Object Number": "10.100.107",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 463320,
+    "Gallery Number": null,
+    "Department": "Medieval Art",
+    "AccessionYear": 1910,
+    "Object Name": "Key",
+    "Title": "Key",
+    "Culture": "German",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": null,
+    "Artist Role": null,
+    "Artist Prefix": null,
+    "Artist Display Name": null,
+    "Artist Display Bio": null,
+    "Artist Suffix": null,
+    "Artist Alpha Sort": null,
+    "Artist Nationality": null,
+    "Artist Begin Date": null,
+    "Artist End Date": null,
+    "Artist Gender": null,
+    "Artist ULAN URL": null,
+    "Artist Wikidata URL": null,
+    "Object Date": "15th century",
+    "Object Begin Date": 1400,
+    "Object End Date": 1499,
+    "Medium": "Iron",
+    "Dimensions": "Overall: 5 1/8 x 2 1/8 x 1 5/16 in. (13 x 5.4 x 3.3 cm)_x000D_\nkey only: 4 7/8 x 2 1/8 x 9/16 in. (12.4 x 5.4 x 1.4 cm)_x000D_\nsheath only: 2 3/4 x 1 5/16 in. (7 x 3.3 cm)",
+    "Credit Line": "Rogers Fund, 1910",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Metalwork-Iron",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/463320",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": null,
+    "Tags AAT URL": null,
+    "Tags Wikidata URL": null
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/md/original/sf10-100-107abs1.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/md/original/sf10-100-107abs2.jpg",
+      "https://images.metmuseum.org/CRDImages/md/original/sf10-100-107bs1.jpg",
+      "https://images.metmuseum.org/CRDImages/md/original/sf10-100-107.jpg"
+    ],
+    "constituents": null,
+    "measurements": [
+      {
+        "elementName": "Other",
+        "elementDescription": "sheath only",
+        "elementMeasurements": {
+          "Diameter": 3.3,
+          "Length": 7
+        }
+      },
+      {
+        "elementName": "Other",
+        "elementDescription": "key only",
+        "elementMeasurements": {
+          "Depth": 1.4,
+          "Length": 12.4,
+          "Width": 5.4
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 3.3,
+          "Length": 13,
+          "Width": 5.4
+        }
+      }
+    ],
+    "tags": null
+  }
+}

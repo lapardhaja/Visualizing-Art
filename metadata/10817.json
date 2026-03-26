@@ -1,0 +1,104 @@
+{
+  "object_id": 10817,
+  "excel_metadata": {
+    "Object Number": "67.187.206",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 10817,
+    "Gallery Number": 774.0,
+    "Department": "The American Wing",
+    "AccessionYear": 1967.0,
+    "Object Name": "Painting",
+    "Title": "James MacAlister (Sketch)",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16185.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Thomas Eakins",
+    "Artist Display Bio": "American, Philadelphia, Pennsylvania 1844–1916 Philadelphia, Pennsylvania",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Eakins, Thomas",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1844",
+    "Artist End Date": "1916",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500115198",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q214905",
+    "Object Date": "ca. 1895",
+    "Object Begin Date": 1892,
+    "Object End Date": 1895,
+    "Medium": "Oil on canvas",
+    "Dimensions": "14 1/4 x 10 1/4 in. (36.8 x 26 cm)",
+    "Credit Line": "Bequest of Miss Adelaide Milton de Groot (1876-1967), 1967",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/10817",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19924482",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Portraits|Men",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300025928",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q8441"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/ap67.187.206.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 161859,
+        "role": "Artist",
+        "name": "Thomas Eakins",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115198",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q214905",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 36.2,
+          "Width": 26
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 7.5,
+          "Height": 48.8,
+          "Width": 38.5
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "object_id": 764094,
+  "excel_metadata": {
+    "Object Number": "2019.14",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 764094,
+    "Gallery Number": 757.0,
+    "Department": "The American Wing",
+    "AccessionYear": 2019.0,
+    "Object Name": "Painting",
+    "Title": "Our Lady of Cocharcas",
+    "Culture": "Peru (Cuzco)",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16998.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Unknown",
+    "Artist Display Bio": " ",
+    "Artist Suffix": "artist, Peru (Cuzco), mid-18th century",
+    "Artist Alpha Sort": "Unknown",
+    "Artist Nationality": " ",
+    "Artist Begin Date": "          ",
+    "Artist End Date": "          ",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500125274",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q24238356",
+    "Object Date": "1759",
+    "Object Begin Date": 1759,
+    "Object End Date": 1759,
+    "Medium": "Oil and gold on canvas",
+    "Dimensions": "60 5/16 × 44 1/8 in. (153.2 × 112.1 cm)",
+    "Credit Line": "Gift of John Ming Ta Li, in honor of James Kung Wei Li and Julie Chu Lu Li, 2019",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/764094",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q116444999",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": NaN,
+    "Tags AAT URL": NaN,
+    "Tags Wikidata URL": NaN
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DP-18755-015.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ad/original/DP-23579-001.jpg",
+      "https://images.metmuseum.org/CRDImages/ad/original/DP-23579-002.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 169986,
+        "role": "Artist",
+        "name": "Unknown",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500125274",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q24238356",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 2.8575058,
+          "Height": 156,
+          "Width": 113
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 153.19406,
+          "Width": 112.07772
+        }
+      }
+    ],
+    "tags": null
+  }
+}

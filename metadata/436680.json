@@ -1,0 +1,104 @@
+{
+  "object_id": 436680,
+  "excel_metadata": {
+    "Object Number": "1992.133",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 436680,
+    "Gallery Number": 964.0,
+    "Department": "European Paintings",
+    "AccessionYear": 1992.0,
+    "Object Name": "Painting",
+    "Title": "The Annunciation of the Death of the Virgin",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16523.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Samuel van Hoogstraten",
+    "Artist Display Bio": "Dutch, Dordrecht 1627–1678 Dordrecht",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Hoogstraten, Samuel van",
+    "Artist Nationality": "Dutch",
+    "Artist Begin Date": "1627",
+    "Artist End Date": "1678",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500001812",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q436797",
+    "Object Date": "ca. 1670",
+    "Object Begin Date": 1665,
+    "Object End Date": 1675,
+    "Medium": "Oil on canvas",
+    "Dimensions": "26 x 20 3/4 in. (66 x 52.7 cm)",
+    "Credit Line": "Purchase, Rogers Fund and Joseph Pulitzer Bequest, 1992",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436680",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912923",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Angels|Virgin Mary",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300379004|http://vocab.getty.edu/page/ia/901000032",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q235113|https://www.wikidata.org/wiki/Q345"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP145953.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 165237,
+        "role": "Artist",
+        "name": "Samuel van Hoogstraten",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500001812",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q436797",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 66,
+          "Width": 52.7
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 7.620015,
+          "Height": 87.63017,
+          "Width": 74.29515
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Angels",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379004",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q235113"
+      },
+      {
+        "term": "Virgin Mary",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000032",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q345"
+      }
+    ]
+  }
+}

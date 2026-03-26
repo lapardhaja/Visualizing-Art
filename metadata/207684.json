@@ -1,0 +1,92 @@
+{
+  "object_id": 207684,
+  "excel_metadata": {
+    "Object Number": 1987.94,
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 207684,
+    "Gallery Number": 533,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1987,
+    "Object Name": "Statuette group",
+    "Title": "Virgin and Child",
+    "Culture": "Austrian, Stift Heiligenkreuz",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 3384,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Giovanni Giuliani",
+    "Artist Display Bio": "Italian, active Heiligenkreuz, Austria, Venice 1663–1744 Heiligenkreuz",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Giuliani, Giovanni",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": 1663,
+    "Artist End Date": 1744,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500119937",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q89642",
+    "Object Date": 1736,
+    "Object Begin Date": 1736,
+    "Object End Date": 1736,
+    "Medium": "Terracotta with traces of metallic patina",
+    "Dimensions": "Height: 8 3/4 in. (22.2 cm)",
+    "Credit Line": "Purchase, Gift of J. Pierpont Morgan, by exchange, 1987",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Sculpture",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/207684",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q116373947",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Madonna and Child",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901000052",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q9309699"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/241670.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/241671.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/241672.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 33843,
+        "role": "Artist",
+        "name": "Giovanni Giuliani",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500119937",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q89642",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Height",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 22.225044
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Madonna and Child",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000052",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q9309699"
+      }
+    ]
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "object_id": 437844,
+  "excel_metadata": {
+    "Object Number": "1974.356.27",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437844,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1974.0,
+    "Object Name": "Painting",
+    "Title": "Comedy",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16508.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Pierre Charles Trémolières",
+    "Artist Display Bio": "French, Cholet 1703–1739 Paris",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Trémolières, Pierre Charles",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1703",
+    "Artist End Date": "1739",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500016990",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q2093300",
+    "Object Date": "ca. 1736",
+    "Object Begin Date": 1731,
+    "Object End Date": 1741,
+    "Medium": "Oil on canvas",
+    "Dimensions": "14 3/4 × 17 3/4 in. (37.5 × 45.1 cm)",
+    "Credit Line": "The Lesley and Emma Sheafer Collection, Bequest of Emma A. Sheafer, 1973",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437844",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19911768",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Masks|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300262834|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q161524|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP356152.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 165084,
+        "role": "Artist",
+        "name": "Pierre Charles Trémolières",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500016990",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q2093300",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": "Overall, with additions removed in 2004",
+        "elementMeasurements": {
+          "Height": 47.6,
+          "Width": 59.05512
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 37.465076,
+          "Width": 45.08509
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Masks",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300262834",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q161524"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "object_id": 51587,
+  "excel_metadata": {
+    "Object Number": "41.193",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 51587,
+    "Gallery Number": NaN,
+    "Department": "Asian Art",
+    "AccessionYear": 1941.0,
+    "Object Name": "Painting",
+    "Title": NaN,
+    "Culture": "China",
+    "Period": "Ming (1368–1644) or Qing (1644–1911) dynasty",
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 3750.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Unidentified artist",
+    "Artist Display Bio": " ",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Unidentified artist",
+    "Artist Nationality": " ",
+    "Artist Begin Date": "          ",
+    "Artist End Date": "          ",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": NaN,
+    "Artist Wikidata URL": NaN,
+    "Object Date": NaN,
+    "Object Begin Date": 1368,
+    "Object End Date": 1911,
+    "Medium": "Ink and color on paper, framed",
+    "Dimensions": "28 x 66 in. (71.1 x 167.6 cm)",
+    "Credit Line": "Gift of C. Edward Wells, 1941",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/51587",
+    "Object Wikidata URL": NaN,
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Phoenix",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300379749",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q48444"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/as/original/LC-41_193_cons--002.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 37502,
+        "role": "Artist",
+        "name": "Unidentified artist",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 4.7625093,
+          "Height": 174.62535,
+          "Width": 80.32766
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 71.1,
+          "Width": 167.6
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Phoenix",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379749",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q48444"
+      }
+    ]
+  }
+}

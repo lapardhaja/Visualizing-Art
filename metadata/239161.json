@@ -1,0 +1,115 @@
+{
+  "object_id": 239161,
+  "excel_metadata": {
+    "Object Number": "07.225.192b, c",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 239161,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1907,
+    "Object Name": "Console",
+    "Title": "Supports for a stretcher from a console table",
+    "Culture": "French",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 39497400000000000000,
+    "Artist Role": "Maker|Maker|Maker|Designer",
+    "Artist Prefix": " | | | ",
+    "Artist Display Name": "Jacques Verberckt|Mathieu Legoupil|Jules Degoullons|Robert de Cotte",
+    "Artist Display Bio": "1704–1771, active in France after ca. 1716|French, active 1714–35|French, ca. 1671–1737|French, Paris 1656/57–1735 Paris",
+    "Artist Suffix": " | | | ",
+    "Artist Alpha Sort": "Verberckt Jacques|Legoupil Mathieu|Degoullons Jules|Cotte, Robert de",
+    "Artist Nationality": "Belgian|French|French|French",
+    "Artist Begin Date": "1704      |1714      |1671      |1657      ",
+    "Artist End Date": "1771      |1735      |1737      |1735      ",
+    "Artist Gender": "|||",
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500089366||http://vocab.getty.edu/page/ulan/500354866|http://vocab.getty.edu/page/ulan/500028649",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q3160154|||https://www.wikidata.org/wiki/Q568839",
+    "Object Date": "probably late 19th–early 20th century",
+    "Object Begin Date": 1885,
+    "Object End Date": 1907,
+    "Medium": "Campan marble",
+    "Dimensions": "Other (b and c): 2 1/2 x 12 1/2 x 5in. (6.3 x 31.8 x 12.7cm)",
+    "Credit Line": "Gift of J. Pierpont Morgan, 1906",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Woodwork-Furniture",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/239161",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Boys",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300247598",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q3010"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP105392.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 36903,
+        "role": "Maker",
+        "name": "Jules Degoullons",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500354866",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      },
+      {
+        "constituentID": 39498,
+        "role": "Maker",
+        "name": "Mathieu Legoupil",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      },
+      {
+        "constituentID": 39497,
+        "role": "Maker",
+        "name": "Jacques Verberckt",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500089366",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3160154",
+        "gender": ""
+      },
+      {
+        "constituentID": 163561,
+        "role": "Designer",
+        "name": "Robert de Cotte",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500028649",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q568839",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Other",
+        "elementDescription": "b and c",
+        "elementMeasurements": {
+          "Depth": 12.7,
+          "Height": 6.3,
+          "Width": 31.8
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Boys",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300247598",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3010"
+      }
+    ]
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "object_id": 10082,
+  "excel_metadata": {
+    "Object Number": "83.2.468",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 10082,
+    "Gallery Number": NaN,
+    "Department": "The American Wing",
+    "AccessionYear": 1883.0,
+    "Object Name": "Painting",
+    "Title": "Benjamin Franklin",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 164516332.0,
+    "Artist Role": "Artist|Artist",
+    "Artist Prefix": " |After",
+    "Artist Display Name": "William P. Babcock|Louis de Carmontelle",
+    "Artist Display Bio": "1826–1899|French, Paris 1717–1806 Paris",
+    "Artist Suffix": " | ",
+    "Artist Alpha Sort": "Babcock, William P.|Carmontelle, Louis de",
+    "Artist Nationality": "American|French",
+    "Artist Begin Date": "1826      |1717      ",
+    "Artist End Date": "1899      |1806      ",
+    "Artist Gender": "|",
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500006871|http://vocab.getty.edu/page/ulan/500008149",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q18508740|https://www.wikidata.org/wiki/Q982053",
+    "Object Date": "ca. 1876",
+    "Object Begin Date": 1873,
+    "Object End Date": 1876,
+    "Medium": "Oil on wood",
+    "Dimensions": "12 1/8 x 8 in. (30.6 x 20.3 cm)",
+    "Credit Line": "Gift of William H. Huntington, 1883",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/10082",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19924618",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits|Benjamin Franklin|Profiles",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/ulan/500331804|http://vocab.getty.edu/page/aat/300123319",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q34969|https://www.wikidata.org/wiki/Q4382010"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/ap83.2.468.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 1645,
+        "role": "Artist",
+        "name": "William P. Babcock",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500006871",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q18508740",
+        "gender": ""
+      },
+      {
+        "constituentID": 163323,
+        "role": "Artist",
+        "name": "After Louis de Carmontelle",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500008149",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q982053",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 30.8,
+          "Width": 20.3
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 6,
+          "Height": 50,
+          "Width": 38
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Benjamin Franklin",
+        "AAT_URL": "http://vocab.getty.edu/page/ulan/500331804",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q34969"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Profiles",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300123319",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q4382010"
+      }
+    ]
+  }
+}

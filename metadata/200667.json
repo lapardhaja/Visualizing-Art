@@ -1,0 +1,92 @@
+{
+  "object_id": 200667,
+  "excel_metadata": {
+    "Object Number": "50.145.65",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 200667,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1950,
+    "Object Name": "Statuette",
+    "Title": "Satyr Holding a Vessel",
+    "Culture": "probably Flemish",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 16172,
+    "Artist Role": "Artist",
+    "Artist Prefix": "Imitator of",
+    "Artist Display Name": "Andrea Briosco, called Riccio",
+    "Artist Display Bio": "Italian, Trent 1470–1532 Padua",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Briosco, Andrea, called Riccio",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": 1470,
+    "Artist End Date": 1532,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500025246",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q283580",
+    "Object Date": "early 17th century",
+    "Object Begin Date": 1600,
+    "Object End Date": 1615,
+    "Medium": "Brass",
+    "Dimensions": "Height: 7 9/16 in. (19.2 cm)",
+    "Credit Line": "Bequest of Mary Stillman Harkness, 1950",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Sculpture-Bronze",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/200667",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Satyrs",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300379732",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q163709"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/LC-50_145_65-001.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/LC-50_145_65-002.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/LC-50_145_65-003.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 161722,
+        "role": "Artist",
+        "name": "Imitator of Andrea Briosco, called Riccio",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500025246",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q283580",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Height",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 19.208788
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Satyrs",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379732",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q163709"
+      }
+    ]
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "object_id": 464306,
+  "excel_metadata": {
+    "Object Number": "17.190.33",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 464306,
+    "Gallery Number": 304,
+    "Department": "Medieval Art",
+    "AccessionYear": 1917,
+    "Object Name": "Panel",
+    "Title": "Panel with an Ivory Crucifixion Scene",
+    "Culture": "Spanish",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": null,
+    "Artist Role": null,
+    "Artist Prefix": null,
+    "Artist Display Name": null,
+    "Artist Display Bio": null,
+    "Artist Suffix": null,
+    "Artist Alpha Sort": null,
+    "Artist Nationality": null,
+    "Artist Begin Date": null,
+    "Artist End Date": null,
+    "Artist Gender": null,
+    "Artist ULAN URL": null,
+    "Artist Wikidata URL": null,
+    "Object Date": "late 11th century",
+    "Object Begin Date": 1075,
+    "Object End Date": 1100,
+    "Medium": "Silver-gilt with pseudo-filigree, glass & stone cabochons, cloisonné enamel, Ivory with traces of gilding on pine support",
+    "Dimensions": "Overall: 10 1/4 x 7 1/2 x 1 1/4 in. (26.1 x 19 x 3.1 cm)_x000D_\nIvory Corpus: 2 7/8 x 2 11/16 x 9/16 in. (7.3 x 6.8 x 1.5 cm)",
+    "Credit Line": "Gift of J. Pierpont Morgan, 1917",
+    "Geography Type": "Made in",
+    "City": null,
+    "State": null,
+    "County": "Aragon (?)",
+    "Country": "Spain",
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Ivories",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/464306",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q116410466",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Saints|Virgin Mary|Christ|Crucifixion",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300150555|http://vocab.getty.edu/page/ia/901000032|http://vocab.getty.edu/page/ia/901000087|http://vocab.getty.edu/page/aat/300404300",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q43115|https://www.wikidata.org/wiki/Q345|https://www.wikidata.org/wiki/Q642420|https://www.wikidata.org/wiki/Q3235597"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/md/original/DP-20985-001.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/md/original/sf17-190-33s2.jpg",
+      "https://images.metmuseum.org/CRDImages/md/original/sf17-190-33s3.jpg",
+      "https://images.metmuseum.org/CRDImages/md/original/sf17-190-33d1.jpg",
+      "https://images.metmuseum.org/CRDImages/md/original/sf17-190-33d3.jpg",
+      "https://images.metmuseum.org/CRDImages/md/original/sf17-190-33d2.jpg"
+    ],
+    "constituents": null,
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 3.1,
+          "Height": 26.1,
+          "Width": 19
+        }
+      },
+      {
+        "elementName": "Other",
+        "elementDescription": "Ivory Corpus",
+        "elementMeasurements": {
+          "Depth": 1.5,
+          "Height": 7.3,
+          "Width": 6.8
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Christ",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+      },
+      {
+        "term": "Virgin Mary",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000032",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q345"
+      },
+      {
+        "term": "Crucifixion",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300404300",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3235597"
+      },
+      {
+        "term": "Saints",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300150555",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q43115"
+      }
+    ]
+  }
+}

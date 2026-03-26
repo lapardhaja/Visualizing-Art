@@ -1,0 +1,104 @@
+{
+  "object_id": 209106,
+  "excel_metadata": {
+    "Object Number": 1996.3,
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 209106,
+    "Gallery Number": 553,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1996,
+    "Object Name": "Armchair",
+    "Title": "Armchair",
+    "Culture": "German, Berlin",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 162395000000000,
+    "Artist Role": "Designer|Maker|Maker",
+    "Artist Prefix": " |Possibly made by|Possibly made by",
+    "Artist Display Name": "Karl Friedrich Schinkel|Johann Christian Sewining|Karl Wanschaff",
+    "Artist Display Bio": "German, Neuruppin 1781–1841 Berlin|died 1836|1775–1848",
+    "Artist Suffix": " | | ",
+    "Artist Alpha Sort": "Schinkel, Karl Friedrich|Sewining Johann Christian|Wanschaff, Karl",
+    "Artist Nationality": "German| |German",
+    "Artist Begin Date": "1781      |1736      |1775      ",
+    "Artist End Date": "1841      |1836      |1848      ",
+    "Artist Gender": "||",
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500028174||(not assigned)",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q151759||https://www.wikidata.org/wiki/Q48571148",
+    "Object Date": "ca. 1828",
+    "Object Begin Date": 1823,
+    "Object End Date": 1833,
+    "Medium": "Gilded mountain ash; brass mounts and casters; modern upholstery",
+    "Dimensions": "Overall: 35 1/2 × 24 1/4 × 23 1/4 in. (90.2 × 61.6 × 59.1 cm)",
+    "Credit Line": "Purchase, Gifts of Mr. and Mrs. William Randolph Hearst Jr., Irwin Untermyer, and John D. Rockefeller Jr., by exchange, and Bequest of John L. Cadwalader, by exchange, 1996",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Woodwork-Furniture",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/209106",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q116308180",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": null,
+    "Tags AAT URL": null,
+    "Tags Wikidata URL": null
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP106663.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/DP106664.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP106662.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 162395,
+        "role": "Designer",
+        "name": "Karl Friedrich Schinkel",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500028174",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q151759",
+        "gender": ""
+      },
+      {
+        "constituentID": 45123,
+        "role": "Maker",
+        "name": "Possibly made by Johann Christian Sewining",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      },
+      {
+        "constituentID": 45124,
+        "role": "Maker",
+        "name": "Possibly made by Karl Wanschaff",
+        "constituentULAN_URL": "(not assigned)",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q48571148",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 59.1,
+          "Height": 90.2,
+          "Width": 61.6
+        }
+      }
+    ],
+    "tags": null
+  }
+}

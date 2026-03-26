@@ -1,0 +1,88 @@
+{
+  "object_id": 474354,
+  "excel_metadata": {
+    "Object Number": 2002.369,
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 474354,
+    "Gallery Number": null,
+    "Department": "The Cloisters",
+    "AccessionYear": 2002,
+    "Object Name": "Bottle",
+    "Title": "Biconical Bottle",
+    "Culture": "German",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": null,
+    "Artist Role": null,
+    "Artist Prefix": null,
+    "Artist Display Name": null,
+    "Artist Display Bio": null,
+    "Artist Suffix": null,
+    "Artist Alpha Sort": null,
+    "Artist Nationality": null,
+    "Artist Begin Date": null,
+    "Artist End Date": null,
+    "Artist Gender": null,
+    "Artist ULAN URL": null,
+    "Artist Wikidata URL": null,
+    "Object Date": "late 15th century",
+    "Object Begin Date": 1450,
+    "Object End Date": 1499,
+    "Medium": "Glass",
+    "Dimensions": "Overall: 4 x 2 9/16 in. (10.2 x 6.5 cm)_x000D_\ndiameter of foot: 1 9/16 in. (3.9 cm)",
+    "Credit Line": "The Cloisters Collection, 2002",
+    "Geography Type": "Made in",
+    "City": "Mainz (?)",
+    "State": null,
+    "County": null,
+    "Country": "Germany",
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Glass-Vessels",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/474354",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Bottles",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300045627",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q80228"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/cl/original/cdi2002-369s1.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/cl/original/cdi2002-369s2.jpg",
+      "https://images.metmuseum.org/CRDImages/cl/original/cdi2002-369s3.jpg",
+      "https://images.metmuseum.org/CRDImages/cl/original/cdi2002-369s4.jpg",
+      "https://images.metmuseum.org/CRDImages/cl/original/cdi2002-369s5.jpg",
+      "https://images.metmuseum.org/CRDImages/cl/original/cdi2002-369s6.jpg"
+    ],
+    "constituents": null,
+    "measurements": [
+      {
+        "elementName": "Other",
+        "elementDescription": "diameter of foot",
+        "elementMeasurements": {
+          "Diameter": 3.9
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Diameter": 6.5,
+          "Height": 10.2
+        }
+      }
+    ],
+    "tags": null
+  }
+}

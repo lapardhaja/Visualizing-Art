@@ -1,0 +1,104 @@
+{
+  "object_id": 11276,
+  "excel_metadata": {
+    "Object Number": "1970.283.2",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 11276,
+    "Gallery Number": 774.0,
+    "Department": "The American Wing",
+    "AccessionYear": 1970.0,
+    "Object Name": "Painting",
+    "Title": "Samuel Gardiner",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 264.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "William Johnston",
+    "Artist Display Bio": "1732–1772",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Johnston, William",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1732",
+    "Artist End Date": "1772",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500005386",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q19887584",
+    "Object Date": "1763",
+    "Object Begin Date": 1763,
+    "Object End Date": 1763,
+    "Medium": "Oil on canvas",
+    "Dimensions": "36 x 29 in. (91.4 x 73.6 cm)",
+    "Credit Line": "Gift of Edgar William and Bernice Chrysler Garbisch, 1970",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/11276",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19925201",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/APS171.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 2645,
+        "role": "Artist",
+        "name": "William Johnston",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500005386",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q19887584",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 91.4,
+          "Width": 73.7
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 6.985,
+          "Height": 111.7602,
+          "Width": 94.9327
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

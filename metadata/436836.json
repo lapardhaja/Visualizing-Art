@@ -1,0 +1,118 @@
+{
+  "object_id": 436836,
+  "excel_metadata": {
+    "Object Number": "50.189",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 436836,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1950.0,
+    "Object Name": "Painting",
+    "Title": "Allegory of Music",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16385.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Laurent de La Hyre",
+    "Artist Display Bio": "French, Paris 1606–1656 Paris",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "La Hyre, Laurent de",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1606",
+    "Artist End Date": "1656",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500004322",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q59894",
+    "Object Date": "1649",
+    "Object Begin Date": 1649,
+    "Object End Date": 1649,
+    "Medium": "Oil on canvas",
+    "Dimensions": "41 5/8 x 56 3/4 in. (105.7 x 144.1 cm)",
+    "Credit Line": "Charles B. Curtis Fund, 1950",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436836",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q12077592",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Birds|Women|Music|Lutes|Violins|Allegory",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300266506|http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/aat/300435214|http://vocab.getty.edu/page/aat/300042101|http://vocab.getty.edu/page/aat/300042215|http://vocab.getty.edu/page/aat/300055866",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q5113|https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q638|https://www.wikidata.org/wiki/Q180733|https://www.wikidata.org/wiki/Q8355|https://www.wikidata.org/wiki/Q18535"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT1387.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-50_189-2.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-50_189-3.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 163859,
+        "role": "Artist",
+        "name": "Laurent de La Hyre",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500004322",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q59894",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 105.7,
+          "Width": 144.1
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Birds",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300266506",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q5113"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Music",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300435214",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q638"
+      },
+      {
+        "term": "Lutes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300042101",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q180733"
+      },
+      {
+        "term": "Violins",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300042215",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8355"
+      },
+      {
+        "term": "Allegory",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300055866",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q18535"
+      }
+    ]
+  }
+}

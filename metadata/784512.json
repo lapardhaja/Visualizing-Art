@@ -1,0 +1,89 @@
+{
+  "object_id": 784512,
+  "excel_metadata": {
+    "Object Number": 2018.817,
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 784512,
+    "Gallery Number": 516,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 2018,
+    "Object Name": "Side chair",
+    "Title": "Side chair",
+    "Culture": "British",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 10541,
+    "Artist Role": "Designer",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Edward Welby Pugin",
+    "Artist Display Bio": "British, London 1834–1875 London",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Pugin, Edward Welby",
+    "Artist Nationality": "British",
+    "Artist Begin Date": 1834,
+    "Artist End Date": 1875,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500010895",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q5289445",
+    "Object Date": "ca. 1870–80",
+    "Object Begin Date": 1865,
+    "Object End Date": 1880,
+    "Medium": "Oak, horn",
+    "Dimensions": "confirmed: 32 1/2 × 18 1/2 × 19 1/2 in. (82.6 × 47 × 49.5 cm)",
+    "Credit Line": "Purchase, Friends of European Sculpture and Decorative Arts Gifts, 2018",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Woodwork-Furniture",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/784512",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q116445129",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": null,
+    "Tags AAT URL": null,
+    "Tags Wikidata URL": null
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP-18047-044.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/DP-18047-045.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP-18047-049.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP-18047-046.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 105412,
+        "role": "Designer",
+        "name": "Edward Welby Pugin",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500010895",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5289445",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": "confirmed",
+        "elementMeasurements": {
+          "Depth": 49.530098,
+          "Height": 82.6,
+          "Width": 46.990093
+        }
+      }
+    ],
+    "tags": null
+  }
+}

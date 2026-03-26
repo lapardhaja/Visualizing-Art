@@ -1,0 +1,84 @@
+{
+  "object_id": 200435,
+  "excel_metadata": {
+    "Object Number": "48.187.476a, b",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 200435,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1948,
+    "Object Name": "Box",
+    "Title": "Box",
+    "Culture": "French, Paris",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 3374,
+    "Artist Role": "Maker",
+    "Artist Prefix": " ",
+    "Artist Display Name": "François-Nicolas Chevance",
+    "Artist Display Bio": "apprenticed 1766, master 1780, active 1793",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "CHEVANCE FRANÇOIS-NICOLAS",
+    "Artist Nationality": " ",
+    "Artist Begin Date": 1766,
+    "Artist End Date": 1780,
+    "Artist Gender": null,
+    "Artist ULAN URL": null,
+    "Artist Wikidata URL": null,
+    "Object Date": "1781–82",
+    "Object Begin Date": 1781,
+    "Object End Date": 1782,
+    "Medium": "Gold",
+    "Dimensions": "3 3/8 × 2 3/8 in. (8.6 × 6 cm)",
+    "Credit Line": "Bequest of Catherine D. Wentworth, 1948",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Metalwork-Gold and Platinum",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/200435",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": null,
+    "Tags AAT URL": null,
+    "Tags Wikidata URL": null
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP239061.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 33743,
+        "role": "Maker",
+        "name": "François-Nicolas Chevance",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 8.572517,
+          "Width": 6.032512
+        }
+      }
+    ],
+    "tags": null
+  }
+}

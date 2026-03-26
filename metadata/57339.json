@@ -1,0 +1,95 @@
+{
+  "object_id": 57339,
+  "excel_metadata": {
+    "Object Number": "54.22.1",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 57339,
+    "Gallery Number": NaN,
+    "Department": "Asian Art",
+    "AccessionYear": 1954.0,
+    "Object Name": "Painting",
+    "Title": NaN,
+    "Culture": "Japan",
+    "Period": "Edo period (1615–1868)",
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 1311.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Matsuo Bashō",
+    "Artist Display Bio": "Japanese, 1644–1694",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Matsuo Bashō",
+    "Artist Nationality": "Japanese",
+    "Artist Begin Date": "1644",
+    "Artist End Date": "1694",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "(not assigned)",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q5676",
+    "Object Date": "17th century",
+    "Object Begin Date": 1644,
+    "Object End Date": 1694,
+    "Medium": "Ink wash and color on paper",
+    "Dimensions": "43 x 11 1/2 in. (109.2 x 29.2 cm)",
+    "Credit Line": "Gift of Dr. Robert Pollak, 1954",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/57339",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q78722578",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Poetry|Plants",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300055931|http://vocab.getty.edu/page/aat/300132360",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q482|https://www.wikidata.org/wiki/Q756"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/as/original/54_22_1_156778.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 13116,
+        "role": "Artist",
+        "name": "Matsuo Bashō",
+        "constituentULAN_URL": "(not assigned)",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5676",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 109.2,
+          "Width": 29.2
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Poetry",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300055931",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q482"
+      },
+      {
+        "term": "Plants",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132360",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q756"
+      }
+    ]
+  }
+}

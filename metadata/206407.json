@@ -1,0 +1,94 @@
+{
+  "object_id": 206407,
+  "excel_metadata": {
+    "Object Number": "1976.155.6",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 206407,
+    "Gallery Number": 545.0,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1976.0,
+    "Object Name": "Snuffbox, painting",
+    "Title": "Snuffbox",
+    "Culture": "French, Paris",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 3444.0,
+    "Artist Role": "Maker",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Noël Hardivillers",
+    "Artist Display Bio": "French, master 1729, died 1779",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "HARDIVILLERS NOËL",
+    "Artist Nationality": " ",
+    "Artist Begin Date": "1679",
+    "Artist End Date": "1779",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": NaN,
+    "Artist Wikidata URL": NaN,
+    "Object Date": "1754–55",
+    "Object Begin Date": 1754,
+    "Object End Date": 1755,
+    "Medium": "Gold, enamel",
+    "Dimensions": "Overall: 3 1/8 × 2 15/16 × 1 1/2 in. (7.9 × 7.5 × 3.8 cm)",
+    "Credit Line": "Gift of Mr. and Mrs. Charles Wrightsman, 1976",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Metalwork-Gold and Platinum|Miniatures",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/206407",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q116240688",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Roses",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300266246",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q102231"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/LC-1976_155_6-001.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/LC-1976_155_6-002.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/LC-1976_155_6-003.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 34446,
+        "role": "Maker",
+        "name": "Noël Hardivillers",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 3.8100076,
+          "Height": 7.9,
+          "Width": 7.5
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Roses",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300266246",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q102231"
+      }
+    ]
+  }
+}

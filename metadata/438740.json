@@ -1,0 +1,95 @@
+{
+  "object_id": 438740,
+  "excel_metadata": {
+    "Object Number": "2004.392",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 438740,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 2004.0,
+    "Object Name": "Painting, miniature",
+    "Title": "Portrait of a Woman",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16208.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Nicolaes Maes",
+    "Artist Display Bio": "Dutch, Dordrecht 1634–1693 Amsterdam",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Maes, Nicolaes",
+    "Artist Nationality": "Dutch",
+    "Artist Begin Date": "1634",
+    "Artist End Date": "1693",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500015747",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q505150",
+    "Object Date": "1657",
+    "Object Begin Date": 1657,
+    "Object End Date": 1657,
+    "Medium": "Oil on copper",
+    "Dimensions": "4 5/8 x 3 3/8 in. (117 x 86 mm)",
+    "Credit Line": "Gift of Lila and Herman Shickman, 2004",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Miniatures",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/438740",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19913326",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Portraits|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP146936.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162088,
+        "role": "Artist",
+        "name": "Nicolaes Maes",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500015747",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q505150",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 11.7475,
+          "Width": 8.5725
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

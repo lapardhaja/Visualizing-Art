@@ -1,0 +1,106 @@
+{
+  "object_id": 11261,
+  "excel_metadata": {
+    "Object Number": "98.14",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 11261,
+    "Gallery Number": 774.0,
+    "Department": "The American Wing",
+    "AccessionYear": 1898.0,
+    "Object Name": "Painting",
+    "Title": "The Funding Bill",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16201.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Eastman Johnson",
+    "Artist Display Bio": "American, Lovell, Maine 1824–1906 New York",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Johnson, Eastman",
+    "Artist Nationality": "American ",
+    "Artist Begin Date": "1824",
+    "Artist End Date": "1906",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500008685",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q1278282",
+    "Object Date": "1881",
+    "Object Begin Date": 1881,
+    "Object End Date": 1881,
+    "Medium": "Oil on canvas",
+    "Dimensions": "60 1/2 x 78 1/4 in. (153.7 x 198.8 cm)",
+    "Credit Line": "Purchase, Robert Gordon Gift, 1898",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/11261",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19923944",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Portraits|Men",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300025928",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q8441"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/ap98.14.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ad/original/DT254686.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 162014,
+        "role": "Artist",
+        "name": "Eastman Johnson",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500008685",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1278282",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 153.7,
+          "Width": 198.8
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 7.62,
+          "Height": 193.0404,
+          "Width": 239.078
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

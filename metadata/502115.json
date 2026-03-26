@@ -1,0 +1,92 @@
+{
+  "object_id": 502115,
+  "excel_metadata": {
+    "Object Number": "89.4.1540a–e",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 502115,
+    "Gallery Number": null,
+    "Department": "Musical Instruments",
+    "AccessionYear": 1889,
+    "Object Name": "Dobachi",
+    "Title": "Dobachi (??)",
+    "Culture": "Japanese",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": null,
+    "Artist Role": null,
+    "Artist Prefix": null,
+    "Artist Display Name": null,
+    "Artist Display Bio": null,
+    "Artist Suffix": null,
+    "Artist Alpha Sort": null,
+    "Artist Nationality": null,
+    "Artist Begin Date": null,
+    "Artist End Date": null,
+    "Artist Gender": null,
+    "Artist ULAN URL": null,
+    "Artist Wikidata URL": null,
+    "Object Date": "19th century",
+    "Object Begin Date": 1801,
+    "Object End Date": 1900,
+    "Medium": "Metal, wood, lacquer",
+    "Dimensions": "Bell: 9 × 12 in. (22.9 × 30.5 cm)_x000D_\nStand: 14 1/2 × 11 9/16 in. (36.8 × 29.4 cm)_x000D_\nBeater: 10 in. (25.4 cm)",
+    "Credit Line": "The Crosby Brown Collection of Musical Instruments, 1889",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": "Japan",
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Idiophone-Struck-bell-without clapper",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/502115",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": null,
+    "Tags AAT URL": null,
+    "Tags Wikidata URL": null
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/mi/original/DP237856.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/mi/original/midp89.4.1540.jpg"
+    ],
+    "constituents": null,
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": "Bell",
+        "elementMeasurements": {
+          "Diameter": 30.5,
+          "Height": 22.9
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": "Beater",
+        "elementMeasurements": {
+          "Height": 25.4
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": "Stand",
+        "elementMeasurements": {
+          "Diameter": 29.4,
+          "Height": 36.8
+        }
+      }
+    ],
+    "tags": null
+  }
+}

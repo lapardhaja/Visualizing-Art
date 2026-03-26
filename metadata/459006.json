@@ -1,0 +1,102 @@
+{
+  "object_id": 459006,
+  "excel_metadata": {
+    "Object Number": "1975.1.65a–f",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 459006,
+    "Gallery Number": 952.0,
+    "Department": "Robert Lehman Collection",
+    "AccessionYear": 1975.0,
+    "Object Name": "Painting",
+    "Title": "Six Angels",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16453.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Jacopo di Cione",
+    "Artist Display Bio": "Italian, Florence, active ca. 1360–1400",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Jacopo di Cione",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1355",
+    "Artist End Date": "1400",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500031302",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q2258950",
+    "Object Date": "ca. 1365",
+    "Object Begin Date": 1360,
+    "Object End Date": 1370,
+    "Medium": "Tempera on wood, gold ground",
+    "Dimensions": "Top left 9 3/4 x 3 7/8 in. (24.8 x 9.8 cm); center left 11 1/8 x 5 1/4 in. (28.3 x 13.3 cm); bottom left 9 7/8 x 3 7/8 in. (25.1 x 9.8 cm); top right (9 3/4 x 3 7/8 in. (24.8 x 9.8 cm); center right 11 1/8 x 5 1/4 in. (28.3 x 13.3 cm); bottom right 10 x 3 7/8 in. (25.4 x 9.8 cm)",
+    "Credit Line": "Robert Lehman Collection, 1975",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/459006",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20185404",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Angels",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300379004",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q235113"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/rl/original/LC-1975_1_065a-001.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/rl/original/LC-1975_1_065b-001.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/LC-1975_1_065c-001.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/LC-1975_1_065d-001.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/LC-1975_1_065e-001.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/LC-1975_1_065f-001.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/0039.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/0040.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/0041.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/0042.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/0043.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/0044.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 164535,
+        "role": "Artist",
+        "name": "Jacopo di Cione",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500031302",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q2258950",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 24.8,
+          "Width": 9.8
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Angels",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379004",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q235113"
+      }
+    ]
+  }
+}

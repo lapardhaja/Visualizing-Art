@@ -1,0 +1,110 @@
+{
+  "object_id": 437642,
+  "excel_metadata": {
+    "Object Number": "94.24.2",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437642,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1894.0,
+    "Object Name": "Painting",
+    "Title": "Battle Scene: Arabs Making a Detour",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16423.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Adolf Schreyer",
+    "Artist Display Bio": "German, Frankfurt 1828–1899 Kronberg",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Schreyer, Adolf",
+    "Artist Nationality": "German",
+    "Artist Begin Date": "1828",
+    "Artist End Date": "1899",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500024778",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q364184",
+    "Object Date": NaN,
+    "Object Begin Date": 1848,
+    "Object End Date": 1899,
+    "Medium": "Oil on canvas",
+    "Dimensions": "59 3/8 x 99 1/2 in. (150.8 x 252.7 cm)",
+    "Credit Line": "Gift of John Wolfe, 1893",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437642",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19913111",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Hills|Horses|Battles|Men|Orientalist",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300008777|http://vocab.getty.edu/page/aat/300250148|http://vocab.getty.edu/page/aat/300185692|http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300055784",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q54050|https://www.wikidata.org/wiki/Q726|https://www.wikidata.org/wiki/Q178561|https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q765606"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/ep94.24.2.bw.R.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 164239,
+        "role": "Artist",
+        "name": "Adolf Schreyer",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500024778",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q364184",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 150.8,
+          "Width": 252.7
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Battles",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300185692",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q178561"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Horses",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250148",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q726"
+      },
+      {
+        "term": "Hills",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300008777",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q54050"
+      },
+      {
+        "term": "Orientalist",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300055784",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q765606"
+      }
+    ]
+  }
+}

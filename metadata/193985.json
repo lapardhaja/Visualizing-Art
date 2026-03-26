@@ -1,0 +1,111 @@
+{
+  "object_id": 193985,
+  "excel_metadata": {
+    "Object Number": "17.190.1369a–c",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 193985,
+    "Gallery Number": NaN,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1917.0,
+    "Object Name": "Souvenir, painting",
+    "Title": "Souvenir with portrait of a man",
+    "Culture": "French, Paris",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 3453012709.0,
+    "Artist Role": "Maker|Artist",
+    "Artist Prefix": "Probably by|MIniature by",
+    "Artist Display Name": "Pierre-André Barbier|French Painter",
+    "Artist Display Bio": "master 1764, died 1776| ",
+    "Artist Suffix": " | ",
+    "Artist Alpha Sort": "Barbier Pierre-André|French Painter",
+    "Artist Nationality": " |French",
+    "Artist Begin Date": "1676      |          ",
+    "Artist End Date": "1776      |          ",
+    "Artist Gender": "|",
+    "Artist ULAN URL": "|",
+    "Artist Wikidata URL": "|",
+    "Object Date": "1778–79",
+    "Object Begin Date": 1778,
+    "Object End Date": 1779,
+    "Medium": "Gold, ivory",
+    "Dimensions": "3 1/4 × 2 in. (8.3 × 5.1 cm);\r\nminiature, oval, sight: 1 5/16 × 1 1/16 in. (3.3 × 2.7 cm)",
+    "Credit Line": "Gift of J. Pierpont Morgan, 1917",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Metalwork-Gold and Platinum|Miniatures",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/193985",
+    "Object Wikidata URL": NaN,
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/38924.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 34530,
+        "role": "Maker",
+        "name": "Probably by Pierre-André Barbier",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      },
+      {
+        "constituentID": 127098,
+        "role": "Artist",
+        "name": "MIniature by French Painter",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": "miniature, oval, sight",
+        "elementMeasurements": {
+          "Height": 3.3337567,
+          "Width": 2.6987555
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 8.255016,
+          "Width": 5.08001
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

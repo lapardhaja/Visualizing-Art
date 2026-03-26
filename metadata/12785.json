@@ -1,0 +1,104 @@
+{
+  "object_id": 12785,
+  "excel_metadata": {
+    "Object Number": "23.77.3",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": false,
+    "Object ID": 12785,
+    "Gallery Number": 774.0,
+    "Department": "The American Wing",
+    "AccessionYear": 1923.0,
+    "Object Name": "Painting",
+    "Title": "Mrs. William F. Milton",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16252.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Abbott H. Thayer",
+    "Artist Display Bio": "American, Boston, Massachusetts 1849–1921 Dublin, New Hampshire",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Thayer, Abbott H.",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1849",
+    "Artist End Date": "1921",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500016002",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q306759",
+    "Object Date": "1881",
+    "Object Begin Date": 1881,
+    "Object End Date": 1881,
+    "Medium": "Oil on canvas",
+    "Dimensions": "32 x 24 in. (81.3 x 61 cm)",
+    "Credit Line": "Gift of Mrs. William F. Milton, 1923",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/12785",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19923901",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Portraits|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/ap23.77.3.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162525,
+        "role": "Artist",
+        "name": "Abbott H. Thayer",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500016002",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q306759",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 81.3,
+          "Width": 61
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 12.7,
+          "Height": 116.4,
+          "Width": 96.8
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

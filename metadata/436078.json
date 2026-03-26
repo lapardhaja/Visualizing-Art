@@ -1,0 +1,113 @@
+{
+  "object_id": 436078,
+  "excel_metadata": {
+    "Object Number": "69.283",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436078,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1969.0,
+    "Object Name": "Painting",
+    "Title": "Charity",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16385.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Cesare Dandini",
+    "Artist Display Bio": "Italian, Florence 1596–1657 Florence",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Dandini, Cesare",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1596",
+    "Artist End Date": "1657",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500008198",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q1982670",
+    "Object Date": "ca. 1630",
+    "Object Begin Date": 1625,
+    "Object End Date": 1635,
+    "Medium": "Oil on canvas",
+    "Dimensions": "47 1/8 x 41 1/2 in. (119.7 x 105.4 cm)",
+    "Credit Line": "Gift of Mr. and Mrs. Ralph Friedman, 1969",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436078",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912074",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Infants|Women|Fire|Pitchers|Allegory",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300189561|http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/aat/300417275|http://vocab.getty.edu/page/aat/300194765|http://vocab.getty.edu/page/aat/300055866",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q998|https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q3196|https://www.wikidata.org/wiki/Q132397|https://www.wikidata.org/wiki/Q18535"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-15425-001.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-69_283-2.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-69_283-3.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 163857,
+        "role": "Artist",
+        "name": "Cesare Dandini",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500008198",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1982670",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 119.7,
+          "Width": 105.4
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Infants",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300189561",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q998"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Fire",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300417275",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3196"
+      },
+      {
+        "term": "Pitchers",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300194765",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q132397"
+      },
+      {
+        "term": "Allegory",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300055866",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q18535"
+      }
+    ]
+  }
+}

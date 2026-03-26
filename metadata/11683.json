@@ -1,0 +1,104 @@
+{
+  "object_id": 11683,
+  "excel_metadata": {
+    "Object Number": "62.183.2",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 11683,
+    "Gallery Number": 774.0,
+    "Department": "The American Wing",
+    "AccessionYear": 1962.0,
+    "Object Name": "Painting",
+    "Title": "Mrs. Warren Rogers",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 277.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "John Paradise",
+    "Artist Display Bio": "1783–1833",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Paradise, John",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1783",
+    "Artist End Date": "1833",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500027461",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q20127418",
+    "Object Date": "ca. 1821",
+    "Object Begin Date": 1818,
+    "Object End Date": 1821,
+    "Medium": "Oil on canvas",
+    "Dimensions": "30 1/2 x 24 1/2 in. (76.7 x 61.5 cm)",
+    "Credit Line": "Bequest of Kate d'A. Bonner, 1962",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/11683",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19924900",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Portraits|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/ap62.183.2.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 2774,
+        "role": "Artist",
+        "name": "John Paradise",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500027461",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q20127418",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 77.5,
+          "Width": 62.2
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 9.2075,
+          "Height": 91.1227,
+          "Width": 75.0889
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

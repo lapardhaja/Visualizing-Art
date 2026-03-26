@@ -1,0 +1,95 @@
+{
+  "object_id": 10072,
+  "excel_metadata": {
+    "Object Number": "56.53",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 10072,
+    "Gallery Number": NaN,
+    "Department": "The American Wing",
+    "AccessionYear": 1956.0,
+    "Object Name": "Painting",
+    "Title": "A Study from Life [and] Study for Angel Releasing Saint Peter from Prison",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16159.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Washington Allston",
+    "Artist Display Bio": "American, Georgetown, South Carolina 1779–1843 Cambridgeport, Massachusetts",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Allston, Washington",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1779",
+    "Artist End Date": "1843",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500016005",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q468272",
+    "Object Date": "ca. 1815",
+    "Object Begin Date": 1812,
+    "Object End Date": 1815,
+    "Medium": "Oil on paperboard",
+    "Dimensions": "36 1/4 x 26 3/4 in. (92.1 x 67.9 cm)",
+    "Credit Line": "Gift of the Allston Trust, 1956",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/10072",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20175304",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Profiles|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300123319|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q4382010|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/ap56.53.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 161591,
+        "role": "Artist",
+        "name": "Washington Allston",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500016005",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q468272",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 92.1,
+          "Width": 67.9
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Profiles",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300123319",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q4382010"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "object_id": 11332,
+  "excel_metadata": {
+    "Object Number": "41.18",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 11332,
+    "Gallery Number": 774.0,
+    "Department": "The American Wing",
+    "AccessionYear": 1941.0,
+    "Object Name": "Painting",
+    "Title": "Ivory-billed Woodpeckers",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 266416163.0,
+    "Artist Role": "Artist|Artist",
+    "Artist Prefix": " |After",
+    "Artist Display Name": "Joseph Bartholomew Kidd|John James Audubon",
+    "Artist Display Bio": "1808–1889|American (born Haiti), Les Cayes (Saint-Domingue) 1785–1851 New York",
+    "Artist Suffix": " | ",
+    "Artist Alpha Sort": "Kidd, Joseph Bartholomew|Audubon, John James",
+    "Artist Nationality": "American|American, born Haiti",
+    "Artist Begin Date": "1808      |1785      ",
+    "Artist End Date": "1889      |1851      ",
+    "Artist Gender": "|",
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500017718|http://vocab.getty.edu/page/ulan/500016578",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q20646101|https://www.wikidata.org/wiki/Q182882",
+    "Object Date": "ca. 1830–31",
+    "Object Begin Date": 1827,
+    "Object End Date": 1831,
+    "Medium": "Oil on canvas",
+    "Dimensions": "39 1/4 x 26 1/4 in. (99.7 x 66.7 cm)",
+    "Credit Line": "Rogers Fund, 1941",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/11332",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19924055",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Birds",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300266506",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q5113"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/ap41.18.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 2664,
+        "role": "Artist",
+        "name": "Joseph Bartholomew Kidd",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500017718",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q20646101",
+        "gender": ""
+      },
+      {
+        "constituentID": 161635,
+        "role": "Artist",
+        "name": "After John James Audubon",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500016578",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q182882",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 99.7,
+          "Width": 66.7
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 6,
+          "Height": 115.5,
+          "Width": 83
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Birds",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300266506",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q5113"
+      }
+    ]
+  }
+}

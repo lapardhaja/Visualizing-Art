@@ -1,0 +1,93 @@
+{
+  "object_id": 464551,
+  "excel_metadata": {
+    "Object Number": "17.190.678",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 464551,
+    "Gallery Number": 303,
+    "Department": "Medieval Art",
+    "AccessionYear": 1917,
+    "Object Name": "Medallion",
+    "Title": "Medallion with Christ from an Icon Frame",
+    "Culture": "Byzantine",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": null,
+    "Artist Role": null,
+    "Artist Prefix": null,
+    "Artist Display Name": null,
+    "Artist Display Bio": null,
+    "Artist Suffix": null,
+    "Artist Alpha Sort": null,
+    "Artist Nationality": null,
+    "Artist Begin Date": null,
+    "Artist End Date": null,
+    "Artist Gender": null,
+    "Artist ULAN URL": null,
+    "Artist Wikidata URL": null,
+    "Object Date": "ca. 1100",
+    "Object Begin Date": 1100,
+    "Object End Date": 1100,
+    "Medium": "Gold, silver, and enamel worked in cloisonné",
+    "Dimensions": "Diam: 3 1/4 in. (8.3 cm)_x000D_\nMount: 20 1/2 x 15 x 7/8 in. (52.1 x 38.1 x 2.2 cm)",
+    "Credit Line": "Gift of J. Pierpont Morgan, 1917",
+    "Geography Type": "Made in",
+    "City": "Constantinople",
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Enamels-Cloisonné",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/464551",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q116256032",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Christ",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901000087",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q642420"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/md/original/sf17-190-678s1.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/md/original/DT2809.jpg",
+      "https://images.metmuseum.org/CRDImages/md/original/sf17-190-678s2.jpg",
+      "https://images.metmuseum.org/CRDImages/md/original/sf17-190-670-678s1.jpg"
+    ],
+    "constituents": null,
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Diameter": 8.3
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": "Mount",
+        "elementMeasurements": {
+          "Depth": 2.2225,
+          "Height": 52.0701,
+          "Width": 38.1001
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Christ",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+      }
+    ]
+  }
+}

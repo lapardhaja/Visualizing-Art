@@ -1,0 +1,114 @@
+{
+  "object_id": 11623,
+  "excel_metadata": {
+    "Object Number": "28.104",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 11623,
+    "Gallery Number": NaN,
+    "Department": "The American Wing",
+    "AccessionYear": 1928.0,
+    "Object Name": "Painting",
+    "Title": "Long Island Farmhouses",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16214.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "William Sidney Mount",
+    "Artist Display Bio": "American, Setauket, New York 1807–1868 Setauket, New York",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Mount, William Sidney",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1807",
+    "Artist End Date": "1868",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500017404",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q45431",
+    "Object Date": "1862–63",
+    "Object Begin Date": 1862,
+    "Object End Date": 1863,
+    "Medium": "Oil on canvas",
+    "Dimensions": "21 7/8 x 29 7/8 in. (55.6 x 75.9 cm)",
+    "Credit Line": "Gift of Louise F. Wickham, in memory of her father, William H. Wickham, 1928",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/11623",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19925417",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Houses|Farms|Landscapes|Trees",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300005433|http://vocab.getty.edu/page/aat/300000206|http://vocab.getty.edu/page/aat/300132294|http://vocab.getty.edu/page/aat/300132410",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q3947|https://www.wikidata.org/wiki/Q131596|https://www.wikidata.org/wiki/Q191163|https://www.wikidata.org/wiki/Q10884"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DT228021.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162149,
+        "role": "Artist",
+        "name": "William Sidney Mount",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500017404",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q45431",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 8.3,
+          "Height": 77.2,
+          "Width": 97.8
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 55.6,
+          "Width": 75.9
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Houses",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300005433",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3947"
+      },
+      {
+        "term": "Farms",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300000206",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q131596"
+      },
+      {
+        "term": "Landscapes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+      },
+      {
+        "term": "Trees",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132410",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q10884"
+      }
+    ]
+  }
+}

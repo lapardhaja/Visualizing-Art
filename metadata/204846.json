@@ -1,0 +1,91 @@
+{
+  "object_id": 204846,
+  "excel_metadata": {
+    "Object Number": "68.141.3",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 204846,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1968,
+    "Object Name": "Statuette",
+    "Title": "Antinous Belvedere",
+    "Culture": "Dutch",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 10569,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Willem Danielsz van Tetrode",
+    "Artist Display Bio": "Netherlandish, Delft ca. 1525–1580 Westphalia",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Tetrode, Willem Danielsz van",
+    "Artist Nationality": "Netherlandish",
+    "Artist Begin Date": 1525,
+    "Artist End Date": 1580,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500017784",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q2086704",
+    "Object Date": "19th–20th century copy after third quarter 16th century (possibly 1560)",
+    "Object Begin Date": 1560,
+    "Object End Date": 1970,
+    "Medium": "Bronze",
+    "Dimensions": "Height: 26 1/2 in. (67.3 cm)",
+    "Credit Line": "Gift of Irwin Untermyer, 1968",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Sculpture-Bronze",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/204846",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Male Nudes",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300189568",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q40446"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/201961.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/201891.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 105692,
+        "role": "Artist",
+        "name": "Willem Danielsz van Tetrode",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500017784",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q2086704",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Height",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 67.310135
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Male Nudes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300189568",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q40446"
+      }
+    ]
+  }
+}

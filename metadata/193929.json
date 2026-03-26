@@ -1,0 +1,111 @@
+{
+  "object_id": 193929,
+  "excel_metadata": {
+    "Object Number": "17.190.1268 a–c",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 193929,
+    "Gallery Number": NaN,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1917.0,
+    "Object Name": "Souvenir, painting",
+    "Title": "Souvenir with portrait of a man",
+    "Culture": "French, Paris",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 3453416264.0,
+    "Artist Role": "Maker|Artist",
+    "Artist Prefix": " |Miniature in the style of",
+    "Artist Display Name": "Pierre-Denis Chaumont|Antoine Vestier",
+    "Artist Display Bio": "master 1777, active 1793|French, Avallon 1740–1824 Paris",
+    "Artist Suffix": " | ",
+    "Artist Alpha Sort": "CHAUMONT PIERRE-DENIS|Vestier, Antoine",
+    "Artist Nationality": " |French",
+    "Artist Begin Date": "1777      |1740      ",
+    "Artist End Date": "1793      |1824      ",
+    "Artist Gender": "|",
+    "Artist ULAN URL": "|http://vocab.getty.edu/page/ulan/500016254",
+    "Artist Wikidata URL": "|https://www.wikidata.org/wiki/Q2389104",
+    "Object Date": "1780–81",
+    "Object Begin Date": 1780,
+    "Object End Date": 1781,
+    "Medium": "Gold, ivory; ivory",
+    "Dimensions": "3 3/8 × 2 1/8 in. (8.6 × 5.4 cm);\r\nminiature, oval: 1 3/8 × 1 1/8 in. (3.5 × 2.9 cm)",
+    "Credit Line": "Gift of J. Pierpont Morgan, 1917",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Metalwork-Gold and Platinum|Miniatures",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/193929",
+    "Object Wikidata URL": NaN,
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/39467.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 34534,
+        "role": "Maker",
+        "name": "Pierre-Denis Chaumont",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      },
+      {
+        "constituentID": 162640,
+        "role": "Artist",
+        "name": "Miniature in the style of Antoine Vestier",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500016254",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q2389104",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 8.572517,
+          "Width": 5.397511
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": "miniature, oval",
+        "elementMeasurements": {
+          "Height": 3.492507,
+          "Width": 2.8575058
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

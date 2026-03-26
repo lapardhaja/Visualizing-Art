@@ -1,0 +1,89 @@
+{
+  "object_id": 789044,
+  "excel_metadata": {
+    "Object Number": 2019.199,
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 789044,
+    "Gallery Number": 242,
+    "Department": "Asian Art",
+    "AccessionYear": 2019,
+    "Object Name": "Panel",
+    "Title": null,
+    "Culture": "Sri Lanka, Kandy region",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": null,
+    "Artist Role": null,
+    "Artist Prefix": null,
+    "Artist Display Name": null,
+    "Artist Display Bio": null,
+    "Artist Suffix": null,
+    "Artist Alpha Sort": null,
+    "Artist Nationality": null,
+    "Artist Begin Date": null,
+    "Artist End Date": null,
+    "Artist Gender": null,
+    "Artist ULAN URL": null,
+    "Artist Wikidata URL": null,
+    "Object Date": "18th century",
+    "Object Begin Date": 1700,
+    "Object End Date": 1799,
+    "Medium": "Ivory",
+    "Dimensions": "H. 9 1/2 in. (24.1 cm); W. 7 in. (17.8 cm); D. 3/4 in. (1.9 cm)",
+    "Credit Line": "Purchase, Gift in memory of Else and Ernest Stadler from their children, 2019",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Ivories",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/789044",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q116389672",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Dancers|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025653|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q5716684|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/as/original/DP-20871-001.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/as/original/DP-20871-002.jpg"
+    ],
+    "constituents": null,
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 1.9050038,
+          "Height": 24.130049,
+          "Width": 17.8
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Dancers",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025653",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q5716684"
+      }
+    ]
+  }
+}

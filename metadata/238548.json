@@ -1,0 +1,99 @@
+{
+  "object_id": 238548,
+  "excel_metadata": {
+    "Object Number": "64.101.749",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 238548,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1964,
+    "Object Name": "Figure",
+    "Title": "Charging bull (one of a pair)",
+    "Culture": "British, Derby",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 381503473,
+    "Artist Role": "Modeler|Factory",
+    "Artist Prefix": "Model attributed to| ",
+    "Artist Display Name": "Andrew Planché|Derby Porcelain Manufactory",
+    "Artist Display Bio": "1727–1805|British, 1751–1785",
+    "Artist Suffix": " | ",
+    "Artist Alpha Sort": "Planché Andrew|Derby Porcelain Manufactory",
+    "Artist Nationality": " |British",
+    "Artist Begin Date": "1727      |1751      ",
+    "Artist End Date": "1805      |1785      ",
+    "Artist Gender": "|",
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500104380|",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q593284|",
+    "Object Date": "ca. 1750",
+    "Object Begin Date": 1745,
+    "Object End Date": 1755,
+    "Medium": "Soft-paste porcelain",
+    "Dimensions": "Overall (confirmed): 4 3/4 × 5 7/16 × 3 1/16 in. (12.1 × 13.8 × 7.8 cm)",
+    "Credit Line": "Gift of Irwin Untermyer, 1964",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Ceramics-Porcelain",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/238548",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Bulls",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300250117",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q693690"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP250614.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 34738,
+        "role": "Factory",
+        "name": "Derby Porcelain Manufactory",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      },
+      {
+        "constituentID": 38150,
+        "role": "Modeler",
+        "name": "Model attributed to Andrew Planché",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500104380",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q593284",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": "confirmed",
+        "elementMeasurements": {
+          "Depth": 7.7787657,
+          "Height": 12.065024,
+          "Width": 13.811277
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Bulls",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250117",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q693690"
+      }
+    ]
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "object_id": 473393,
+  "excel_metadata": {
+    "Object Number": "14.2.4a–d",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 473393,
+    "Gallery Number": 302,
+    "Department": "Medieval Art",
+    "AccessionYear": 1914,
+    "Object Name": "Writing tablets",
+    "Title": "Wooden Writing Tablets",
+    "Culture": "Coptic",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": null,
+    "Artist Role": null,
+    "Artist Prefix": null,
+    "Artist Display Name": null,
+    "Artist Display Bio": null,
+    "Artist Suffix": null,
+    "Artist Alpha Sort": null,
+    "Artist Nationality": null,
+    "Artist Begin Date": null,
+    "Artist End Date": null,
+    "Artist Gender": null,
+    "Artist ULAN URL": null,
+    "Artist Wikidata URL": null,
+    "Object Date": "500–700",
+    "Object Begin Date": 500,
+    "Object End Date": 700,
+    "Medium": "Wood and wax",
+    "Dimensions": "Overall (with mount): 10 1/2 x 11 7/8 x 5 1/2 in. (26.7 x 30.2 x 14 cm)_x000D_\nOverall (together): 9 5/16 x 5 7/8 x 2 1/4 in. (23.7 x 14.9 x 5.7 cm)_x000D_\nOverall (each leaf): 9 5/16 x 5 7/8 x 7/16 in. (23.7 x 14.9 x 1.1 cm)",
+    "Credit Line": "Rogers Fund, 1914",
+    "Geography Type": "Made in",
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": "Byzantine Egypt",
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Woodwork-Miscellany",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/473393",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q116244442",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": null,
+    "Tags AAT URL": null,
+    "Tags Wikidata URL": null
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/md/original/sf14-2-4a-ds2.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/md/original/sf14-2-4a-ds3.jpg",
+      "https://images.metmuseum.org/CRDImages/md/original/sf14-2-4a-ds1.jpg",
+      "https://images.metmuseum.org/CRDImages/md/original/LC_14_2_4as1.jpg",
+      "https://images.metmuseum.org/CRDImages/md/original/LC_14_2_4as2.jpg",
+      "https://images.metmuseum.org/CRDImages/md/original/LC_14_2_4bs1.jpg",
+      "https://images.metmuseum.org/CRDImages/md/original/LC_14_2_4bs2.jpg",
+      "https://images.metmuseum.org/CRDImages/md/original/LC_14_2_4cs1.jpg",
+      "https://images.metmuseum.org/CRDImages/md/original/LC_14_2_4cs2.jpg",
+      "https://images.metmuseum.org/CRDImages/md/original/LC_14_2_4ds1.jpg",
+      "https://images.metmuseum.org/CRDImages/md/original/LC_14_2_4ds2.jpg"
+    ],
+    "constituents": null,
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": "with mount",
+        "elementMeasurements": {
+          "Depth": 14,
+          "Height": 26.7,
+          "Width": 30.2
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": "each leaf",
+        "elementMeasurements": {
+          "Height": 23.7,
+          "Thickness": 1.1,
+          "Width": 14.9
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": "together",
+        "elementMeasurements": {
+          "Depth": 5.7,
+          "Height": 23.7,
+          "Width": 14.9
+        }
+      }
+    ],
+    "tags": null
+  }
+}

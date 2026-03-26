@@ -1,0 +1,103 @@
+{
+  "object_id": 10836,
+  "excel_metadata": {
+    "Object Number": "66.242.20",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 10836,
+    "Gallery Number": 774.0,
+    "Department": "The American Wing",
+    "AccessionYear": 1966.0,
+    "Object Name": "Painting",
+    "Title": "Mrs. Williams",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 249.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Ralph E. W. Earl",
+    "Artist Display Bio": "ca. 1785–1838",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Earl, Ralph E. W.",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1785",
+    "Artist End Date": "1838",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500022904",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q7287448",
+    "Object Date": "1837",
+    "Object Begin Date": 1837,
+    "Object End Date": 1837,
+    "Medium": "Oil on canvas",
+    "Dimensions": "37 1/2 x 30 1/2 in. (94.5 x 76.7 cm)",
+    "Credit Line": "Gift of Edgar William and Bernice Chrysler Garbisch, 1966",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/10836",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20176337",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Portraits|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/ap66.242.20.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 2491,
+        "role": "Artist",
+        "name": "Ralph E. W. Earl",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500022904",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q7287448",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 106.4,
+          "Width": 88.7
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 95.3,
+          "Width": 77.5
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

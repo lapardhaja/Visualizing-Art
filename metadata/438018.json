@@ -1,0 +1,100 @@
+{
+  "object_id": 438018,
+  "excel_metadata": {
+    "Object Number": "2003.20.15",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 438018,
+    "Gallery Number": 823.0,
+    "Department": "European Paintings",
+    "AccessionYear": 2003.0,
+    "Object Name": "Painting",
+    "Title": "Woman before a Mirror",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16256.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Henri de Toulouse-Lautrec",
+    "Artist Display Bio": "French, Albi 1864–1901 Saint-André-du-Bois",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Toulouse-Lautrec, Henri de",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1864",
+    "Artist End Date": "1901",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500029114",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q82445",
+    "Object Date": "1897",
+    "Object Begin Date": 1897,
+    "Object End Date": 1897,
+    "Medium": "Oil on cardboard",
+    "Dimensions": "24 1/2 x 18 1/2 in. (62.2 x 47 cm)",
+    "Credit Line": "The Walter H. and Leonore Annenberg Collection, Bequest of Walter H. Annenberg, 2002",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/438018",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912242",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Female Nudes|Prostitutes|Mirrors",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300189568|http://vocab.getty.edu/page/aat/300189023|http://vocab.getty.edu/page/aat/300037682",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q40446|https://www.wikidata.org/wiki/Q14915751|https://www.wikidata.org/wiki/Q35197"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT1923.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162561,
+        "role": "Artist",
+        "name": "Henri de Toulouse-Lautrec",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500029114",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q82445",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 62.2,
+          "Width": 47
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Female Nudes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300189568",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q40446"
+      },
+      {
+        "term": "Prostitutes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300189023",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q14915751"
+      },
+      {
+        "term": "Mirrors",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300037682",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q35197"
+      }
+    ]
+  }
+}

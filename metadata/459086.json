@@ -1,0 +1,119 @@
+{
+  "object_id": 459086,
+  "excel_metadata": {
+    "Object Number": "1975.1.144",
+    "Is Highlight": true,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 459086,
+    "Gallery Number": 964.0,
+    "Department": "Robert Lehman Collection",
+    "AccessionYear": 1975.0,
+    "Object Name": "Painting",
+    "Title": "Leisure Time in an Elegant Setting",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16199.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Pieter de Hooch",
+    "Artist Display Bio": "Dutch, Rotterdam 1629–1684 Amsterdam",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Hooch, Pieter de",
+    "Artist Nationality": "Dutch",
+    "Artist Begin Date": "1629",
+    "Artist End Date": "1684",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500020229",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q314889",
+    "Object Date": "ca. 1663–65",
+    "Object Begin Date": 1660,
+    "Object End Date": 1668,
+    "Medium": "Oil on canvas",
+    "Dimensions": "Extended canvas 22 15/16 x 27 5/16 in. (58.3 x 69.4 cm); original visible painted surface 21 5/8 x 26 in. (55 x 66 cm)",
+    "Credit Line": "Robert Lehman Collection, 1975",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/459086",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19938871",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Interiors|Girls|Men|Women|Smoking|Dogs",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300391239|http://vocab.getty.edu/page/aat/300247581|http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/aat/300380156|http://vocab.getty.edu/page/aat/300265714",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q2998430|https://www.wikidata.org/wiki/Q3031|https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q662860|https://www.wikidata.org/wiki/Q144"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/rl/original/DP146506.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/rl/original/DT3102.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/ep1975.1.144.bw.R.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/1657.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 161997,
+        "role": "Artist",
+        "name": "Pieter de Hooch",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500020229",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q314889",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 58.3,
+          "Width": 69.4
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Interiors",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300391239",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q2998430"
+      },
+      {
+        "term": "Girls",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300247581",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3031"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Smoking",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300380156",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q662860"
+      },
+      {
+        "term": "Dogs",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300265714",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q144"
+      }
+    ]
+  }
+}

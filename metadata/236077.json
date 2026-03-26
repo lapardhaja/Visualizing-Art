@@ -1,0 +1,93 @@
+{
+  "object_id": 236077,
+  "excel_metadata": {
+    "Object Number": "58.75.34",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 236077,
+    "Gallery Number": 524,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1958,
+    "Object Name": "Side chair",
+    "Title": "Side chair (one of a pair) (part of a set)",
+    "Culture": "French, Paris",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 338134225,
+    "Artist Role": "Maker|Maker",
+    "Artist Prefix": " |embroidered upholstery in the style of",
+    "Artist Display Name": "Georges Jacob|Philippe de Lasalle",
+    "Artist Display Bio": "French, Cheny 1739–1814 Paris|French, 1723–1804",
+    "Artist Suffix": " | ",
+    "Artist Alpha Sort": "Jacob, Georges|Lasalle, Philippe de",
+    "Artist Nationality": "French|French",
+    "Artist Begin Date": "1739      |1723      ",
+    "Artist End Date": "1814      |1804      ",
+    "Artist Gender": "|",
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500115031|http://vocab.getty.edu/page/ulan/500076833",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q503567|https://www.wikidata.org/wiki/Q3381016",
+    "Object Date": "ca. 1775–80",
+    "Object Begin Date": 1770,
+    "Object End Date": 1785,
+    "Medium": "Carved and gilded walnut; embroidered silk-satin",
+    "Dimensions": "Overall: 38 3/8 × 24 1/4 × 24 1/4 in. (97.5 × 61.6 × 61.6 cm)",
+    "Credit Line": "Gift of Samuel H. Kress Foundation, 1958",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Woodwork-Furniture",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/236077",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q116306635",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": null,
+    "Tags AAT URL": null,
+    "Tags Wikidata URL": null
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/ES5028.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 33813,
+        "role": "Maker",
+        "name": "Georges Jacob",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115031",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q503567",
+        "gender": ""
+      },
+      {
+        "constituentID": 42252,
+        "role": "Maker",
+        "name": "embroidered upholstery in the style of Philippe de Lasalle",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500076833",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3381016",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 61.6,
+          "Height": 97.5,
+          "Width": 61.6
+        }
+      }
+    ],
+    "tags": null
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "object_id": 193926,
+  "excel_metadata": {
+    "Object Number": "17.190.1265a–c",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 193926,
+    "Gallery Number": NaN,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1917.0,
+    "Object Name": "Souvenir, painting",
+    "Title": "Souvenir with portrait of a man",
+    "Culture": "French, Paris",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 3790410854.0,
+    "Artist Role": "Maker|Artist",
+    "Artist Prefix": "Possibly by|Miniature by",
+    "Artist Display Name": "Thomas-François Merlin|Nicolas André Courtois",
+    "Artist Display Bio": "master 1773, active 1793|French, 1734–1806",
+    "Artist Suffix": " | ",
+    "Artist Alpha Sort": "Merlin Thomas-François|Courtois, Nicolas André",
+    "Artist Nationality": " |French",
+    "Artist Begin Date": "1773      |1734      ",
+    "Artist End Date": "1793      |1806      ",
+    "Artist Gender": "|",
+    "Artist ULAN URL": "|http://vocab.getty.edu/page/ulan/500112259",
+    "Artist Wikidata URL": "|https://www.wikidata.org/wiki/Q52154248",
+    "Object Date": "1775–76",
+    "Object Begin Date": 1775,
+    "Object End Date": 1776,
+    "Medium": "Ivory, gold, enamel; ivory",
+    "Dimensions": "3 3/8 × 2 1/8 in. (8.6 × 5.4 cm);\r\nminiature, oval: 1 1/4 × 1 1/8 in. (3.2 × 2.9 cm)",
+    "Credit Line": "Gift of J. Pierpont Morgan, 1917",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Metalwork-Gold and Platinum|Miniatures",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/193926",
+    "Object Wikidata URL": NaN,
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP169549.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/39530.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 37904,
+        "role": "Maker",
+        "name": "Possibly by Thomas-François Merlin",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      },
+      {
+        "constituentID": 108545,
+        "role": "Artist",
+        "name": "Miniature by Nicolas André Courtois",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500112259",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q52154248",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": "miniature, oval",
+        "elementMeasurements": {
+          "Height": 3.1750064,
+          "Width": 2.8575058
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 8.572517,
+          "Width": 5.397511
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

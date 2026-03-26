@@ -1,0 +1,104 @@
+{
+  "object_id": 11979,
+  "excel_metadata": {
+    "Object Number": "34.55",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 11979,
+    "Gallery Number": 774.0,
+    "Department": "The American Wing",
+    "AccessionYear": 1934.0,
+    "Object Name": "Painting",
+    "Title": "Moonlight Marine",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16235.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Albert Pinkham Ryder",
+    "Artist Display Bio": "American, New Bedford, Massachusetts 1847–1917 Elmhurst, New York",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Ryder, Albert Pinkham",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1847",
+    "Artist End Date": "1917",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500030492",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q948598",
+    "Object Date": "1870–90",
+    "Object Begin Date": 1870,
+    "Object End Date": 1890,
+    "Medium": "Oil and possibly wax on wood panel",
+    "Dimensions": "11 1/2 x 12 in. (29.2 x 30.5 cm)",
+    "Credit Line": "Samuel D. Lee Fund, 1934",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/11979",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19925449",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Clouds|Boats",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300343840|http://vocab.getty.edu/page/aat/300178749",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8074|https://www.wikidata.org/wiki/Q35872"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DT240273.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162359,
+        "role": "Artist",
+        "name": "Albert Pinkham Ryder",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500030492",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q948598",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 29.2,
+          "Width": 30.5
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 10.3,
+          "Height": 55.7,
+          "Width": 58
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Clouds",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300343840",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8074"
+      },
+      {
+        "term": "Boats",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300178749",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q35872"
+      }
+    ]
+  }
+}

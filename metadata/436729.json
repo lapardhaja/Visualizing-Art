@@ -1,0 +1,100 @@
+{
+  "object_id": 436729,
+  "excel_metadata": {
+    "Object Number": "14.25.1874",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436729,
+    "Gallery Number": NaN,
+    "Department": "Arms and Armor",
+    "AccessionYear": 1914.0,
+    "Object Name": "Painting",
+    "Title": "Alfonso I d'Este (1476–1534), Duke of Ferrara",
+    "Culture": "Italian, Ferrara",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 12798.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Italian (Ferrarese) Painter",
+    "Artist Display Bio": "second quarter 16th century",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Italian (Ferrarese) Painter",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1400",
+    "Artist End Date": "1499",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": NaN,
+    "Artist Wikidata URL": NaN,
+    "Object Date": "second quarter 16th century",
+    "Object Begin Date": 1525,
+    "Object End Date": 1550,
+    "Medium": "Oil on canvas",
+    "Dimensions": "52 7/8 x 38 1/4 in. (134.3 x 97.2 cm)",
+    "Credit Line": "Gift of William H. Riggs, 1913",
+    "Geography Type": NaN,
+    "City": "Ferrara",
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436729",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19913074",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits|Armor",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300226591",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q20793164"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/aa/original/0571.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 127982,
+        "role": "Artist",
+        "name": "Italian (Ferrarese) Painter",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 134.3,
+          "Width": 97.2
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Armor",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300226591",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q20793164"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

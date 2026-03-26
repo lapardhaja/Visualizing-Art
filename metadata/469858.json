@@ -1,0 +1,113 @@
+{
+  "object_id": 469858,
+  "excel_metadata": {
+    "Object Number": 1980.366,
+    "Is Highlight": true,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 469858,
+    "Gallery Number": 14,
+    "Department": "The Cloisters",
+    "AccessionYear": 1980,
+    "Object Name": "Diptych",
+    "Title": "Diptych with Scenes of the Annunciation, Nativity, Crucifixion, and Resurrection",
+    "Culture": "German",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": null,
+    "Artist Role": null,
+    "Artist Prefix": null,
+    "Artist Display Name": null,
+    "Artist Display Bio": null,
+    "Artist Suffix": null,
+    "Artist Alpha Sort": null,
+    "Artist Nationality": null,
+    "Artist Begin Date": null,
+    "Artist End Date": null,
+    "Artist Gender": null,
+    "Artist ULAN URL": null,
+    "Artist Wikidata URL": null,
+    "Object Date": "1300–1325",
+    "Object Begin Date": 1300,
+    "Object End Date": 1325,
+    "Medium": "Silver gilt with translucent and opaque enamels",
+    "Dimensions": "Overall (opened): 2 3/8 x 3 3/8 x 5/16 in. (6.1 x 8.6 x 0.8 cm)_x000D_\nOverall (Closed): 2 3/8 x 1 3/4 x 1/2 in. (6.1 x 4.5 x 1.2 cm)",
+    "Credit Line": "Gift of Ruth Blumka, 1980",
+    "Geography Type": "Made in",
+    "City": "probably Cologne",
+    "State": null,
+    "County": null,
+    "Country": "Germany",
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Enamels-Translucent",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/469858",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q29385484",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Christ|Virgin Mary|Annunciation|Crucifixion|Nativity",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901000087|http://vocab.getty.edu/page/ia/901000032|http://vocab.getty.edu/page/aat/300412102|http://vocab.getty.edu/page/aat/300404300|http://vocab.getty.edu/page/ia/901000124",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q642420|https://www.wikidata.org/wiki/Q345|https://www.wikidata.org/wiki/Q154326|https://www.wikidata.org/wiki/Q3235597|https://www.wikidata.org/wiki/Q51628"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/cl/original/DT231705.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/cl/original/DT231706.jpg"
+    ],
+    "constituents": null,
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": "Closed",
+        "elementMeasurements": {
+          "Depth": 1.2,
+          "Height": 6.1,
+          "Width": 4.5
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": "opened",
+        "elementMeasurements": {
+          "Depth": 0.8,
+          "Height": 6.1,
+          "Width": 8.6
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Christ",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+      },
+      {
+        "term": "Virgin Mary",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000032",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q345"
+      },
+      {
+        "term": "Annunciation",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300412102",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q154326"
+      },
+      {
+        "term": "Crucifixion",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300404300",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3235597"
+      },
+      {
+        "term": "Nativity",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000124",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q51628"
+      }
+    ]
+  }
+}

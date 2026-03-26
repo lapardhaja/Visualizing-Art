@@ -1,0 +1,95 @@
+{
+  "object_id": 11240,
+  "excel_metadata": {
+    "Object Number": "81.16",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 11240,
+    "Gallery Number": 774.0,
+    "Department": "The American Wing",
+    "AccessionYear": 1881.0,
+    "Object Name": "Painting",
+    "Title": "Alexander Anderson",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16428.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "John Wesley Jarvis",
+    "Artist Display Bio": "American (born England), South Shields 1780–1840 New York",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Jarvis, John Wesley",
+    "Artist Nationality": "American, born England",
+    "Artist Begin Date": "1780",
+    "Artist End Date": "1840",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500008614",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q3182713",
+    "Object Date": "1815",
+    "Object Begin Date": 1815,
+    "Object End Date": 1815,
+    "Medium": "Oil on canvas",
+    "Dimensions": "34 x 27 in. (86.4 x 68.6 cm)",
+    "Credit Line": "Gift of Robert Hoe Jr., 1881",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/11240",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19930325",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/ap81.16.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 164289,
+        "role": "Artist",
+        "name": "John Wesley Jarvis",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500008614",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3182713",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 86.4,
+          "Width": 68.6
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

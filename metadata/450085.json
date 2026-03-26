@@ -1,0 +1,97 @@
+{
+  "object_id": 450085,
+  "excel_metadata": {
+    "Object Number": "40.170.410",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 450085,
+    "Gallery Number": null,
+    "Department": "Islamic Art",
+    "AccessionYear": 1940,
+    "Object Name": "Jewelry",
+    "Title": "Jewelry",
+    "Culture": null,
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": null,
+    "Artist Role": null,
+    "Artist Prefix": null,
+    "Artist Display Name": null,
+    "Artist Display Bio": null,
+    "Artist Suffix": null,
+    "Artist Alpha Sort": null,
+    "Artist Nationality": null,
+    "Artist Begin Date": null,
+    "Artist End Date": null,
+    "Artist Gender": null,
+    "Artist ULAN URL": null,
+    "Artist Wikidata URL": null,
+    "Object Date": "probably 8th–12th century",
+    "Object Begin Date": 700,
+    "Object End Date": 1199,
+    "Medium": "Stone or bone",
+    "Dimensions": "40.170.410a: Ht. 1 3/16 in. (3 cm)_x000D_\n                      W. 1 1/8 in. (2.8 cm)_x000D_\n                      D. 3/16 in. (0.5 cm)_x000D_\n40.170.410b: Ht. 3/8 in. (1 cm)_x000D_\n                      W. 3/16 in.(0.5 cm)_x000D_\n                       D. 3/16 in. (0.5 cm)_x000D_\n40.170.410c: Ht. 1/4 in. (0.7 cm)_x000D_\n                      W. 3/16 in. (0.5 cm)_x000D_\n                      D. 1/16 in. (0.1 cm)",
+    "Credit Line": "Rogers Fund, 1940",
+    "Geography Type": "Excavated in",
+    "City": "Nishapur",
+    "State": null,
+    "County": null,
+    "Country": "Iran",
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Jewelry",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/450085",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": null,
+    "Tags AAT URL": null,
+    "Tags Wikidata URL": null
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/is/original/sf40-170-410z.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/is/original/sf40-170-410b.jpg",
+      "https://images.metmuseum.org/CRDImages/is/original/sf40-170-410a.jpg"
+    ],
+    "constituents": null,
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": "40.170.410b",
+        "elementMeasurements": {
+          "Depth": 0.5,
+          "Height": 1,
+          "Width": 0.5
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": "40.170.410a",
+        "elementMeasurements": {
+          "Depth": 0.5,
+          "Height": 3,
+          "Width": 2.8
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": "40.170.410c",
+        "elementMeasurements": {
+          "Depth": 0.1,
+          "Height": 0.7,
+          "Width": 0.5
+        }
+      }
+    ],
+    "tags": null
+  }
+}

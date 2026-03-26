@@ -1,0 +1,104 @@
+{
+  "object_id": 11610,
+  "excel_metadata": {
+    "Object Number": "65.254.1",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 11610,
+    "Gallery Number": 754.0,
+    "Department": "The American Wing",
+    "AccessionYear": 1965.0,
+    "Object Name": "Painting",
+    "Title": "Job Perit",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 274.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Reuben Moulthrop",
+    "Artist Display Bio": "1763–1814",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Moulthrop, Reuben",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1763",
+    "Artist End Date": "1814",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500026334",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q18155785",
+    "Object Date": "1790",
+    "Object Begin Date": 1790,
+    "Object End Date": 1790,
+    "Medium": "Oil on canvas",
+    "Dimensions": "36 1/8 x 29 3/4 in. (91.8 x 75.6 cm)",
+    "Credit Line": "Gift of Edgar William and Bernice Chrysler Garbisch, 1965",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/11610",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20172517",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/ap65.254.1.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 2748,
+        "role": "Artist",
+        "name": "Reuben Moulthrop",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500026334",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q18155785",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 91.8,
+          "Width": 75.6
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 7,
+          "Height": 107,
+          "Width": 89.8
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

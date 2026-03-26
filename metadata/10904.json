@@ -1,0 +1,95 @@
+{
+  "object_id": 10904,
+  "excel_metadata": {
+    "Object Number": "28.209.2",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 10904,
+    "Gallery Number": NaN,
+    "Department": "The American Wing",
+    "AccessionYear": 1928.0,
+    "Object Name": "Painting, miniature",
+    "Title": "Rev. Christopher Edwards Gadsden",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 252.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Charles Fraser",
+    "Artist Display Bio": "1782–1860",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Fraser, Charles",
+    "Artist Nationality": " ",
+    "Artist Begin Date": "1782",
+    "Artist End Date": "1860",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500027085",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q5077811",
+    "Object Date": "1819",
+    "Object Begin Date": 1819,
+    "Object End Date": 1819,
+    "Medium": "Watercolor on ivory",
+    "Dimensions": "4 5/16 x 3 1/2 in. (11 x 8.9 cm)",
+    "Credit Line": "The Alfred N. Punnett Endowment Fund, 1928",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/10904",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19924766",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/ap28.209.2.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 2524,
+        "role": "Artist",
+        "name": "Charles Fraser",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500027085",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5077811",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 11,
+          "Width": 8.9
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

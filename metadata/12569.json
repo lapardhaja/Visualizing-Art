@@ -1,0 +1,117 @@
+{
+  "object_id": 12569,
+  "excel_metadata": {
+    "Object Number": "09.14",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 12569,
+    "Gallery Number": 774.0,
+    "Department": "The American Wing",
+    "AccessionYear": 1909.0,
+    "Object Name": "Painting",
+    "Title": "The Deluge towards Its Close",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16489916159.0,
+    "Artist Role": "Artist|Former Attribution",
+    "Artist Prefix": " | ",
+    "Artist Display Name": "Joshua Shaw|Washington Allston",
+    "Artist Display Bio": "American (born England), Bellingborough, Lincolnshire 1776–1861 Bordentown, New Jersey|American, Georgetown, South Carolina 1779–1843 Cambridgeport, Massachusetts",
+    "Artist Suffix": " | ",
+    "Artist Alpha Sort": "Shaw, Joshua|Allston, Washington",
+    "Artist Nationality": "American, born England|American",
+    "Artist Begin Date": "1776      |1779      ",
+    "Artist End Date": "1861      |1843      ",
+    "Artist Gender": "|",
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500030051|http://vocab.getty.edu/page/ulan/500016005",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q12068855|https://www.wikidata.org/wiki/Q468272",
+    "Object Date": "ca. 1813",
+    "Object Begin Date": 1810,
+    "Object End Date": 1816,
+    "Medium": "Oil on canvas",
+    "Dimensions": "48 1/4 x 66 in. (122.6 x 167.6 cm)",
+    "Credit Line": "Gift of William Merritt Chase, 1909",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/12569",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20169432",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Snakes|Floods|Death",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300250870|http://vocab.getty.edu/page/aat/300054731|http://vocab.getty.edu/page/aat/300151836",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q2102|https://www.wikidata.org/wiki/Q8068|https://www.wikidata.org/wiki/Q4"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/ap09.14.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 164899,
+        "role": "Artist",
+        "name": "Joshua Shaw",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500030051",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q12068855",
+        "gender": ""
+      },
+      {
+        "constituentID": 161591,
+        "role": "Former Attribution",
+        "name": "Washington Allston",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500016005",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q468272",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 122.6,
+          "Width": 167.6
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 12,
+          "Height": 150,
+          "Width": 195.5
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Snakes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250870",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q2102"
+      },
+      {
+        "term": "Floods",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300054731",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8068"
+      },
+      {
+        "term": "Death",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300151836",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q4"
+      }
+    ]
+  }
+}

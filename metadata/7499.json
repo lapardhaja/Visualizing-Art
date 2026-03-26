@@ -1,0 +1,104 @@
+{
+  "object_id": 7499,
+  "excel_metadata": {
+    "Object Number": "1996.348",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 7499,
+    "Gallery Number": 774.0,
+    "Department": "The American Wing",
+    "AccessionYear": 1996.0,
+    "Object Name": "Painting",
+    "Title": "Janet Halleck Drake",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16457.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Henry Inman",
+    "Artist Display Bio": "American, Utica, New York 1801–1846 New York",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Inman, Henry",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1801",
+    "Artist End Date": "1846",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500021656",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q3132855",
+    "Object Date": "1825",
+    "Object Begin Date": 1825,
+    "Object End Date": 1825,
+    "Medium": "Oil on canvas",
+    "Dimensions": "29 3/4 x 24 3/4 in. (75.6 x 62.9 cm)",
+    "Credit Line": "Purchase, Gift of Edgar William and Bernice Chrylser Garbisch, by exchange, 1996",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/7499",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20174119",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Girls|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300247581|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q3031|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/ap1996.348.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 164576,
+        "role": "Artist",
+        "name": "Henry Inman",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500021656",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3132855",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 75.6,
+          "Width": 62.9
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 7.62,
+          "Height": 104.1402,
+          "Width": 91.7577
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Girls",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300247581",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3031"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

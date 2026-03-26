@@ -1,0 +1,84 @@
+{
+  "object_id": 48882,
+  "excel_metadata": {
+    "Object Number": "29.100.536",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 48882,
+    "Gallery Number": NaN,
+    "Department": "Asian Art",
+    "AccessionYear": 1929.0,
+    "Object Name": "Painting",
+    "Title": "仏手柑図|Buddha’s Hand Citron (Busshukan)",
+    "Culture": "Japan",
+    "Period": "Edo period (1615–1868)",
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16456.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": "Formerly attributed to",
+    "Artist Display Name": "Katsushika Hokusai",
+    "Artist Display Bio": "Japanese, Tokyo (Edo) 1760–1849 Tokyo (Edo)",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Katsushika Hokusai",
+    "Artist Nationality": "Japanese",
+    "Artist Begin Date": "1760",
+    "Artist End Date": "1849",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500060426",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q5586",
+    "Object Date": "mid-19th century",
+    "Object Begin Date": 1834,
+    "Object End Date": 1868,
+    "Medium": "Matted painting; ink and color on silk",
+    "Dimensions": "13 1/2 x 9 5/8 in. (34.3 x 24.4 cm)",
+    "Credit Line": "H. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/48882",
+    "Object Wikidata URL": NaN,
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": NaN,
+    "Tags AAT URL": NaN,
+    "Tags Wikidata URL": NaN
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/as/original/DP-24850-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 164560,
+        "role": "Artist",
+        "name": "Formerly attributed to Katsushika Hokusai",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500060426",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5586",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 34.3,
+          "Width": 24.4
+        }
+      }
+    ],
+    "tags": null
+  }
+}

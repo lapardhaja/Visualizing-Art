@@ -1,0 +1,112 @@
+{
+  "object_id": 437890,
+  "excel_metadata": {
+    "Object Number": "29.100.105",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 437890,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1929.0,
+    "Object Name": "Painting",
+    "Title": "Boy with a Greyhound",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16263.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Paolo Veronese (Paolo Caliari)",
+    "Artist Display Bio": "Italian, Verona 1528–1588 Venice",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Veronese, Paolo (Paolo Caliari)",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1528",
+    "Artist End Date": "1588",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500021218",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q9440",
+    "Object Date": "possibly 1570s",
+    "Object Begin Date": 1570,
+    "Object End Date": 1579,
+    "Medium": "Oil on canvas",
+    "Dimensions": "68 3/8 x 40 1/8 in. (173.7 x 101.9 cm)",
+    "Credit Line": "H. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437890",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19911888",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Boys|Portraits|Dogs",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300247598|http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300265714",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q3010|https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q144"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-14936-005.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-29_100_105-2.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-29_100_105-3.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 162636,
+        "role": "Artist",
+        "name": "Paolo Veronese (Paolo Caliari)",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500021218",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q9440",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 173.7,
+          "Width": 101.9
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": "Travel Frame used for 1998 Havemeyer Exhibition in Paris",
+        "elementMeasurements": {
+          "Depth": 7.9375157,
+          "Height": 190.50038,
+          "Width": 121.602745
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Boys",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300247598",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3010"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Dogs",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300265714",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q144"
+      }
+    ]
+  }
+}

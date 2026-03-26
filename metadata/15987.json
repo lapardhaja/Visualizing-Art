@@ -1,0 +1,98 @@
+{
+  "object_id": 15987,
+  "excel_metadata": {
+    "Object Number": "1997.52",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 15987,
+    "Gallery Number": NaN,
+    "Department": "The American Wing",
+    "AccessionYear": 1997.0,
+    "Object Name": "Painting, miniature",
+    "Title": "Eugenie Simon",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16332.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Louis Antoine Collas",
+    "Artist Display Bio": "French, Bordeaux ca. 1775–after 1828",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Collas, Louis Antoine",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1770",
+    "Artist End Date": "1828",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500083916",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q21995141",
+    "Object Date": "1827",
+    "Object Begin Date": 1827,
+    "Object End Date": 1827,
+    "Medium": "Watercolor on ivory",
+    "Dimensions": "3 1/8 x 2 1/2 in. (7.9 x 6.3 cm)",
+    "Credit Line": "Purchase, The Honorable and Mrs. Max N. Berry Gift, 1997",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/15987",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19925713",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Portraits|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DP161485.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ad/original/DP161486.jpg",
+      "https://images.metmuseum.org/CRDImages/ad/original/264402(2).jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 163328,
+        "role": "Artist",
+        "name": "Louis Antoine Collas",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500083916",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q21995141",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 7.9,
+          "Width": 6.3
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

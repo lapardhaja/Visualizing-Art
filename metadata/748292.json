@@ -1,0 +1,88 @@
+{
+  "object_id": 748292,
+  "excel_metadata": {
+    "Object Number": "2019.193.57a, b",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 748292,
+    "Gallery Number": null,
+    "Department": "Asian Art",
+    "AccessionYear": 2019,
+    "Object Name": "Vessel",
+    "Title": null,
+    "Culture": "Japan",
+    "Period": "Edo period (1615–1868)",
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 1188,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Ogata Kenzan",
+    "Artist Display Bio": "Japanese, 1663–1743",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Ogata Kenzan",
+    "Artist Nationality": "Japanese",
+    "Artist Begin Date": 1663,
+    "Artist End Date": 1743,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500121062",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q534279",
+    "Object Date": null,
+    "Object Begin Date": 0,
+    "Object End Date": 0,
+    "Medium": "Earthenware with underglaze-iron",
+    "Dimensions": "H. 3 3/4 in. (9.5 cm)",
+    "Credit Line": "Gift of Florence and Herbert Irving, 2019",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Ceramics",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/748292",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": null,
+    "Tags AAT URL": null,
+    "Tags Wikidata URL": null
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/as/original/DP-26667-002.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/as/original/DP-26667-001.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 11887,
+        "role": "Artist",
+        "name": "Ogata Kenzan",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500121062",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q534279",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": "CSR Survey",
+        "elementMeasurements": {
+          "Depth": 8.128016,
+          "Height": 11.938024,
+          "Weight": 0.28123015,
+          "Width": 12.446025
+        }
+      }
+    ],
+    "tags": null
+  }
+}

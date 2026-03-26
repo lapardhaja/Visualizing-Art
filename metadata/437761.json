@@ -1,0 +1,95 @@
+{
+  "object_id": 437761,
+  "excel_metadata": {
+    "Object Number": "50.57",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437761,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1950.0,
+    "Object Name": "Painting, miniature",
+    "Title": "Portrait of a Woman",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10858.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Peter Edward Stroely",
+    "Artist Display Bio": "German, 1768–after 1826",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Stroely, Peter Edward",
+    "Artist Nationality": "German",
+    "Artist Begin Date": "1768",
+    "Artist End Date": "1826",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500031611",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q2309952",
+    "Object Date": "ca. 1800",
+    "Object Begin Date": 1795,
+    "Object End Date": 1805,
+    "Medium": "Ivory",
+    "Dimensions": "Octagonal, 3 3/8 x 2 5/8 in. (87 x 67 mm)",
+    "Credit Line": "Rogers Fund, 1950",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Miniatures",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437761",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19913840",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Portraits|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/147860.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 108583,
+        "role": "Artist",
+        "name": "Peter Edward Stroely",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500031611",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q2309952",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 8.6,
+          "Width": 6.7
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

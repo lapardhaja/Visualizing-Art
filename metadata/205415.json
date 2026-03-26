@@ -1,0 +1,88 @@
+{
+  "object_id": 205415,
+  "excel_metadata": {
+    "Object Number": "1971.206.7",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 205415,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1971,
+    "Object Name": "Armchair ",
+    "Title": "Armchair (one of a pair)",
+    "Culture": "French, Paris",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 3432,
+    "Artist Role": "Maker",
+    "Artist Prefix": "Possibly by",
+    "Artist Display Name": "Louis I Cresson",
+    "Artist Display Bio": "French, 1706–1761",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "CRESSON LOUIS I",
+    "Artist Nationality": "French",
+    "Artist Begin Date": 1706,
+    "Artist End Date": 1761,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500066856",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q55111030",
+    "Object Date": "ca. 1760",
+    "Object Begin Date": 1755,
+    "Object End Date": 1765,
+    "Medium": "Carved and gilded beechwood; olive green velvet upholstery",
+    "Dimensions": "40 3/8 x 30 1/4 x 24 in. (102.6 x 76.8 x 61cm)",
+    "Credit Line": "Gift of Mr. and Mrs. Charles Wrightsman, 1971",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Woodwork-Furniture",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/205415",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": null,
+    "Tags AAT URL": null,
+    "Tags Wikidata URL": null
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/197651.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/197652.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/SF1971_206_8.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 34324,
+        "role": "Maker",
+        "name": "Possibly by Louis I Cresson",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500066856",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q55111030",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 61,
+          "Height": 102.6,
+          "Width": 76.8
+        }
+      }
+    ],
+    "tags": null
+  }
+}

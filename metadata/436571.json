@@ -1,0 +1,134 @@
+{
+  "object_id": 436571,
+  "excel_metadata": {
+    "Object Number": "41.190.17",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436571,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1941.0,
+    "Object Name": "Painting",
+    "Title": "The Adoration of the Shepherds",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16195.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "El Greco (Domenikos Theotokopoulos) and Workshop",
+    "Artist Display Bio": "Greek, Iráklion (Candia) 1541–1614 Toledo",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Greco, El (Domenikos Theotokopoulos) and Workshop",
+    "Artist Nationality": "Greek",
+    "Artist Begin Date": "1540",
+    "Artist End Date": "1614",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500010916",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q301",
+    "Object Date": "ca. 1612–14",
+    "Object Begin Date": 1612,
+    "Object End Date": 1614,
+    "Medium": "Oil on canvas",
+    "Dimensions": "43 1/2 x 25 5/8 in. (110.5 x 65.1 cm)",
+    "Credit Line": "Bequest of George Blumenthal, 1941",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436571",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q78643015",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Madonna and Child|Lambs|Jesus|Shepherds|Adoration of the Shepherds|Angels|Virgin Mary",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/ia/901000052|http://vocab.getty.edu/page/aat/300250289|http://vocab.getty.edu/page/ia/901000087|http://vocab.getty.edu/page/aat/300025617|http://vocab.getty.edu/page/ia/901000229|http://vocab.getty.edu/page/aat/300379004|http://vocab.getty.edu/page/ia/901000032",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q9309699|https://www.wikidata.org/wiki/Q4575936|https://www.wikidata.org/wiki/Q302|https://www.wikidata.org/wiki/Q81710|https://www.wikidata.org/wiki/Q1029715|https://www.wikidata.org/wiki/Q235113|https://www.wikidata.org/wiki/Q345"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT2722.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 161956,
+        "role": "Artist",
+        "name": "El Greco (Domenikos Theotokopoulos) and Workshop",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500010916",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q301",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 110.5,
+          "Width": 65.1
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 7.9375,
+          "Height": 129.2228,
+          "Width": 83.8202
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Lambs",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250289",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q4575936"
+      },
+      {
+        "term": "Angels",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379004",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q235113"
+      },
+      {
+        "term": "Madonna and Child",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000052",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q9309699"
+      },
+      {
+        "term": "Virgin Mary",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000032",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q345"
+      },
+      {
+        "term": "Jesus",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q302"
+      },
+      {
+        "term": "Adoration of the Shepherds",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000229",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q1029715"
+      },
+      {
+        "term": "Shepherds",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025617",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q81710"
+      }
+    ]
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "object_id": 13008,
+  "excel_metadata": {
+    "Object Number": "55.49",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 13008,
+    "Gallery Number": NaN,
+    "Department": "The American Wing",
+    "AccessionYear": 1955.0,
+    "Object Name": "Painting",
+    "Title": "Henry Irving as Philip II of Spain",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16272.0,
+    "Artist Role": "Former Attribution",
+    "Artist Prefix": "Formerly attributed to",
+    "Artist Display Name": "James McNeill Whistler",
+    "Artist Display Bio": "American, Lowell, Massachusetts 1834–1903 London",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Whistler, James McNeill",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1834",
+    "Artist End Date": "1903",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500012432",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q203643",
+    "Object Date": "after 1872",
+    "Object Begin Date": 1873,
+    "Object End Date": 1882,
+    "Medium": "Oil on canvas",
+    "Dimensions": "19 1/8 x 14 3/8 in. (48.6 x 36 cm)",
+    "Credit Line": "Gift of George S. Hellman, 1955",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/13008",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20171732",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/ap55.49.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162723,
+        "role": "Former Attribution",
+        "name": "Formerly attributed to James McNeill Whistler",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500012432",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q203643",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 48.6,
+          "Width": 36.5
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

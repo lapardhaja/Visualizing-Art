@@ -1,0 +1,107 @@
+{
+  "object_id": 16046,
+  "excel_metadata": {
+    "Object Number": "2006.235.326",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 16046,
+    "Gallery Number": NaN,
+    "Department": "The American Wing",
+    "AccessionYear": 2006.0,
+    "Object Name": "Painting, miniature",
+    "Title": "George Washington",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16221.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "James Peale",
+    "Artist Display Bio": "American, Chestertown, Maryland 1749–1831 Philadelphia, Pennsylvania",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Peale, James",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1749",
+    "Artist End Date": "1831",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500029852",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q3161332",
+    "Object Date": "1782",
+    "Object Begin Date": 1782,
+    "Object End Date": 1782,
+    "Medium": "Watercolor on ivory",
+    "Dimensions": "1 1/2 x 1 in. (3.8 x 2.5 cm)",
+    "Credit Line": "Purchase, Lila Acheson Wallace Gift, 2006",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/16046",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20177008",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Eagles|George Washington|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300250049|http://vocab.getty.edu/page/ulan/500126198|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q2092297|https://www.wikidata.org/wiki/Q23|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DP169140.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ad/original/DP223326.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 162211,
+        "role": "Artist",
+        "name": "James Peale",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500029852",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3161332",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 3.81,
+          "Width": 2.54
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Eagles",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250049",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q2092297"
+      },
+      {
+        "term": "George Washington",
+        "AAT_URL": "http://vocab.getty.edu/page/ulan/500126198",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q23"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

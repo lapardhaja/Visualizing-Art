@@ -1,0 +1,99 @@
+{
+  "object_id": 436949,
+  "excel_metadata": {
+    "Object Number": "29.100.114",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436949,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1929.0,
+    "Object Name": "Painting",
+    "Title": "Copy after Delacroix's \"Bark of Dante\"",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16209.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Edouard Manet",
+    "Artist Display Bio": "French, Paris 1832–1883 Paris",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Manet, Edouard",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1832",
+    "Artist End Date": "1883",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500010363",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q40599",
+    "Object Date": "ca. 1859",
+    "Object Begin Date": 1854,
+    "Object End Date": 1864,
+    "Medium": "Oil on canvas",
+    "Dimensions": "13 x 16 1/8 in. (33 x 41 cm)",
+    "Credit Line": "H. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436949",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20167143",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Boats",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300178749",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q35872"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-25457-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162094,
+        "role": "Artist",
+        "name": "Edouard Manet",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500010363",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q40599",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 33,
+          "Width": 41
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 8.89,
+          "Height": 52.0701,
+          "Width": 59.6901
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Boats",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300178749",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q35872"
+      }
+    ]
+  }
+}

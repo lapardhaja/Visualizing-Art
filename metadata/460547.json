@@ -1,0 +1,93 @@
+{
+  "object_id": 460547,
+  "excel_metadata": {
+    "Object Number": "1975.1.1563",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 460547,
+    "Gallery Number": 951,
+    "Department": "Robert Lehman Collection",
+    "AccessionYear": 1975,
+    "Object Name": "Figurine",
+    "Title": "Diana",
+    "Culture": "probably French (Nevers)",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 13692,
+    "Artist Role": "Artist",
+    "Artist Prefix": "possibly",
+    "Artist Display Name": "Haly workshop",
+    "Artist Display Bio": "French, 18th century",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Haly workshop",
+    "Artist Nationality": " ",
+    "Artist Begin Date": 18,
+    "Artist End Date": 18,
+    "Artist Gender": null,
+    "Artist ULAN URL": null,
+    "Artist Wikidata URL": null,
+    "Object Date": "last half 18th century",
+    "Object Begin Date": 1745,
+    "Object End Date": 1800,
+    "Medium": "Opaque white, pink, tan, black, brown, olive, green and waxlike colorless glass; copper and iron wire. Lampworked.",
+    "Dimensions": "H 15.8 cm",
+    "Credit Line": "Robert Lehman Collection, 1975",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Glass",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/460547",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q116244383",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Dogs|Women|Diana",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300265714|http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/ia/901000118",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q144|https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q132543"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/rl/original/SF-1975-1-1563.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/rl/original/DT230514.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 136926,
+        "role": "Artist",
+        "name": "possibly Haly workshop",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": null,
+    "tags": [
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Diana",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000118",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q132543"
+      },
+      {
+        "term": "Dogs",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300265714",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q144"
+      }
+    ]
+  }
+}

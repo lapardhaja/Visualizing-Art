@@ -1,0 +1,124 @@
+{
+  "object_id": 437489,
+  "excel_metadata": {
+    "Object Number": "22.60.58",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 437489,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1922.0,
+    "Object Name": "Painting, part of a triptych",
+    "Title": "Christ Appearing to His Mother",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16525.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Juan de Flandes",
+    "Artist Display Bio": "Netherlandish, active by 1496–died 1519 Palencia",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Juan de Flandes",
+    "Artist Nationality": "Netherlandish",
+    "Artist Begin Date": "1496",
+    "Artist End Date": "1519",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500029962",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q512863",
+    "Object Date": "ca. 1496",
+    "Object Begin Date": 1491,
+    "Object End Date": 1501,
+    "Medium": "Oil on wood",
+    "Dimensions": "25 x 15 in. (63.5 x 38.1 cm); painted surface 24 1/2 x 14 5/8 in. (62.2 x 37.1 cm)",
+    "Credit Line": "The Bequest of Michael Dreicer, 1921",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437489",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19904794",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Christ|Virgin Mary|Interiors",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901000087|http://vocab.getty.edu/page/ia/901000032|http://vocab.getty.edu/page/aat/300391239",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q642420|https://www.wikidata.org/wiki/Q345|https://www.wikidata.org/wiki/Q2998430"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT2649.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-22_60_58-IRR.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-22_60_58-4.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-22_60_58-8.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-22_60_58-9.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-22_60_58-10.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-20_60_58-XRAY.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 165252,
+        "role": "Artist",
+        "name": "Juan de Flandes",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500029962",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q512863",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Glazing",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 63.817627,
+          "Width": 39.052578
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 63.5,
+          "Width": 38.1
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 5.715,
+          "Height": 68.5801,
+          "Width": 43.4976
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Interiors",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300391239",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q2998430"
+      },
+      {
+        "term": "Christ",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+      },
+      {
+        "term": "Virgin Mary",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000032",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q345"
+      }
+    ]
+  }
+}

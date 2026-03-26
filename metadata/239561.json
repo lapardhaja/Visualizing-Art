@@ -1,0 +1,93 @@
+{
+  "object_id": 239561,
+  "excel_metadata": {
+    "Object Number": 2013.489,
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 239561,
+    "Gallery Number": 556,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 2013,
+    "Object Name": "Flask",
+    "Title": "Flask with face",
+    "Culture": "French, Saint-Amand-en-Puisaye",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 3536,
+    "Artist Role": "Maker",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Jean-Joseph Carriès",
+    "Artist Display Bio": "French, Lyons 1855–1894 Paris",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Carriès, Jean-Joseph",
+    "Artist Nationality": "French",
+    "Artist Begin Date": 1855,
+    "Artist End Date": 1894,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500018485",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q540678",
+    "Object Date": "ca. 1890",
+    "Object Begin Date": 1885,
+    "Object End Date": 1895,
+    "Medium": "Glazed stoneware",
+    "Dimensions": "H. 15 1/2 in.; wt. confirmed: 9.5 lb. (39.4 cm, 4.3 kg)",
+    "Credit Line": "Robert A. Ellison Jr. Collection, Purchase, Acquisitions Fund; Louis V. Bell, Harris Brisbane Dick, Fletcher, and Rogers Funds and Joseph Pulitzer Bequest; and 2011 Benefit Fund, 2013",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Ceramics-Pottery",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/239561",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q116305761",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Faces",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300251798",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q37017"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP318378.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/DP318765.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP318768.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 35360,
+        "role": "Maker",
+        "name": "Jean-Joseph Carriès",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500018485",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q540678",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 39.37008,
+          "Weight": 4.3091717
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Faces",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300251798",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q37017"
+      }
+    ]
+  }
+}

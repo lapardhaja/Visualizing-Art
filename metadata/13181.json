@@ -1,0 +1,104 @@
+{
+  "object_id": 13181,
+  "excel_metadata": {
+    "Object Number": "1980.219",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 13181,
+    "Gallery Number": 774.0,
+    "Department": "The American Wing",
+    "AccessionYear": 1980.0,
+    "Object Name": "Painting",
+    "Title": "Fruit",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16270.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Julian Alden Weir",
+    "Artist Display Bio": "American, West Point, New York 1852–1919 New York",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Weir, Julian Alden",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1852",
+    "Artist End Date": "1919",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500020809",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q1284220",
+    "Object Date": "ca. 1888",
+    "Object Begin Date": 1885,
+    "Object End Date": 1888,
+    "Medium": "Oil on canvas",
+    "Dimensions": "21 1/8 x 17 3/16 in. (53.7 x 43.7 cm)",
+    "Credit Line": "Purchase, Gift of Robert E. Tod, by exchange, 1980",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/13181",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20174070",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Still Life|Fruit",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300015638|http://vocab.getty.edu/page/aat/300011868",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q170571|https://www.wikidata.org/wiki/Q1364"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DT9010.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162707,
+        "role": "Artist",
+        "name": "Julian Alden Weir",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500020809",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1284220",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 7.6,
+          "Height": 68.9,
+          "Width": 58.9
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 53.7,
+          "Width": 43.7
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Fruit",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300011868",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q1364"
+      },
+      {
+        "term": "Still Life",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015638",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q170571"
+      }
+    ]
+  }
+}

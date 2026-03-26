@@ -1,0 +1,95 @@
+{
+  "object_id": 782305,
+  "excel_metadata": {
+    "Object Number": "2018.289.3",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 782305,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 2018.0,
+    "Object Name": "Painting",
+    "Title": "A Bedroom in Bernstorff Palace near Copenhagen",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 12989.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Johan Vilhelm Gertner",
+    "Artist Display Bio": "Danish, Copenhagen 1818–1871 Copenhagen",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Gertner, Johan Vilhelm",
+    "Artist Nationality": "Danish",
+    "Artist Begin Date": "1818",
+    "Artist End Date": "1871",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500112534",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q708274",
+    "Object Date": "ca. 1845",
+    "Object Begin Date": 1840,
+    "Object End Date": 1850,
+    "Medium": "Oil on canvas",
+    "Dimensions": "24 3/4 × 20 1/2 in. (62.8 × 52 cm)",
+    "Credit Line": "Gift of the Eugene V. and Clare E. Thaw Charitable Trust, 2018",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/782305",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q78611137",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Bedrooms|Mirrors",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300004364|http://vocab.getty.edu/page/aat/300037682",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q193837|https://www.wikidata.org/wiki/Q35197"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-15574-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 129891,
+        "role": "Artist",
+        "name": "Johan Vilhelm Gertner",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500112534",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q708274",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 62.8,
+          "Width": 52
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Bedrooms",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300004364",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q193837"
+      },
+      {
+        "term": "Mirrors",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300037682",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q35197"
+      }
+    ]
+  }
+}

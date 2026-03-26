@@ -1,0 +1,95 @@
+{
+  "object_id": 436320,
+  "excel_metadata": {
+    "Object Number": "65.226",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436320,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1965.0,
+    "Object Name": "Painting",
+    "Title": "Portrait of a Young Woman",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16555.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Jean Honoré Fragonard",
+    "Artist Display Bio": "French, Grasse 1732–1806 Paris",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Fragonard, Jean Honoré",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1732",
+    "Artist End Date": "1806",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500115329",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q127171",
+    "Object Date": "1770s",
+    "Object Begin Date": 1770,
+    "Object End Date": 1779,
+    "Medium": "Oil on canvas",
+    "Dimensions": "Oval, 31 3/4 x 25 in. (80.6 x 63.5 cm)",
+    "Credit Line": "Bequest of Margaret V. Haggin, 1965",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436320",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19913065",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Portraits|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-1018-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 165555,
+        "role": "Artist",
+        "name": "Jean Honoré Fragonard",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115329",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q127171",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 80.6,
+          "Width": 63.5
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

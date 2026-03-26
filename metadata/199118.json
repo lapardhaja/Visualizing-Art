@@ -1,0 +1,122 @@
+{
+  "object_id": 199118,
+  "excel_metadata": {
+    "Object Number": "42.203.1",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 199118,
+    "Gallery Number": 528,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1942,
+    "Object Name": "Period room",
+    "Title": "Grand Salon from the Hôtel de Tessé, Paris",
+    "Culture": "French, Paris",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 463522999999999988727808,
+    "Artist Role": "Maker|Maker|Maker|Maker|Maker",
+    "Artist Prefix": "and/or his son|Contracted by|Made by|Carved by|Chimneypiece by",
+    "Artist Display Name": "Louis-Pierre Fixon|Louis Le Tellier|Nicolas Huyot|Pierre Fixon|Jean-Baptiste-Antoine Lefranc",
+    "Artist Display Bio": "born 1748|ca. 1700–1785|1700–1791|active 1748–88| ",
+    "Artist Suffix": " | | | | ",
+    "Artist Alpha Sort": "Fixon Louis-Pierra|Le Tellier, Louis|Huyot Nicolas|Fixon Pierre|Lefranc, Jean-Baptiste-Antoine",
+    "Artist Nationality": " | | | | ",
+    "Artist Begin Date": "1748      |1695      |1700      |1748      |1725      ",
+    "Artist End Date": "1848      |1785      |1791      |1788      |1825      ",
+    "Artist Gender": "||||",
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500012621||||",
+    "Artist Wikidata URL": "||||",
+    "Object Date": "ca. 1768–72, with later additions",
+    "Object Begin Date": 1763,
+    "Object End Date": 1777,
+    "Medium": "Carved, painted, and gilded oak; marble; plaster",
+    "Dimensions": "H. of room 16 ft. (4.87 m), W. 29 ft. 6-1/2 in. (9 m), L. 33 ft. 7-1/2 in. (10.25 m)",
+    "Credit Line": "Gift of Mrs. Herbert N. Straus, 1942",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Woodwork",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/199118",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q116399184",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Interiors",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300391239",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q2998430"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP155133.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/DP158823.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP159271.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP214172.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP214173.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 39999,
+        "role": "Maker",
+        "name": "Made by Nicolas Huyot",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      },
+      {
+        "constituentID": 40000,
+        "role": "Maker",
+        "name": "Carved by Pierre Fixon",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      },
+      {
+        "constituentID": 46352,
+        "role": "Maker",
+        "name": "and/or his son Louis-Pierre Fixon",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500012621",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      },
+      {
+        "constituentID": 40001,
+        "role": "Maker",
+        "name": "Chimneypiece by Jean-Baptiste-Antoine Lefranc",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      },
+      {
+        "constituentID": 33187,
+        "role": "Maker",
+        "name": "Contracted by Louis Le Tellier",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Other",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 487.04596,
+          "Length": 1024.9937,
+          "Width": 899.95557
+        }
+      }
+    ],
+    "tags": null
+  }
+}

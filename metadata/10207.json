@@ -1,0 +1,105 @@
+{
+  "object_id": 10207,
+  "excel_metadata": {
+    "Object Number": "1982.443.1",
+    "Is Highlight": true,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 10207,
+    "Gallery Number": 760.0,
+    "Department": "The American Wing",
+    "AccessionYear": 1982.0,
+    "Object Name": "Painting",
+    "Title": "An Arctic Summer: Boring Through the Pack in Melville Bay",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16315.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "William Bradford",
+    "Artist Display Bio": "American, 1823–1892",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Bradford, William",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1823",
+    "Artist End Date": "1892",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500003752",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q8005829",
+    "Object Date": "1871",
+    "Object Begin Date": 1871,
+    "Object End Date": 1871,
+    "Medium": "Oil on canvas",
+    "Dimensions": "51 3/4 x 78 in. (131.4 x 198.1 cm); framed: 60 x 86 1/2 x 4 in.\r\n",
+    "Credit Line": "Gift of Erving and Joyce Wolf, in memory of Diane R. Wolf, 1982",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/10207",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19968008",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Ships|Landscapes",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300082981|http://vocab.getty.edu/page/aat/300132294",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q11446|https://www.wikidata.org/wiki/Q191163"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DT2101.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 163158,
+        "role": "Artist",
+        "name": "William Bradford",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500003752",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q8005829",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 10.5,
+          "Height": 219.7,
+          "Weight": 63.503582,
+          "Width": 153
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 131.4,
+          "Width": 198.1
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Landscapes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+      },
+      {
+        "term": "Ships",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300082981",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q11446"
+      }
+    ]
+  }
+}

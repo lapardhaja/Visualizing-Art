@@ -1,0 +1,95 @@
+{
+  "object_id": 10756,
+  "excel_metadata": {
+    "Object Number": "15.43.297",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 10756,
+    "Gallery Number": NaN,
+    "Department": "The American Wing",
+    "AccessionYear": 1915.0,
+    "Object Name": "Painting, miniature",
+    "Title": "J. W. Gale",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 246.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Anson Dickinson",
+    "Artist Display Bio": "1779–1852",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Dickinson, Anson",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1779",
+    "Artist End Date": "1852",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500006162",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q4770718",
+    "Object Date": "ca. 1807",
+    "Object Begin Date": 1804,
+    "Object End Date": 1807,
+    "Medium": "Watercolor on ivory",
+    "Dimensions": "Sight: 2 15/16 x 2 1/4 in. (7.5 x 5.7 cm)",
+    "Credit Line": "Bequest of Mary Anna Palmer Draper, 1915",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/10756",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19924978",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/ap15.43.297.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 2469,
+        "role": "Artist",
+        "name": "Anson Dickinson",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500006162",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q4770718",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Sight",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 7.4613,
+          "Width": 5.715
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

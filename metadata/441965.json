@@ -1,0 +1,98 @@
+{
+  "object_id": 441965,
+  "excel_metadata": {
+    "Object Number": "2012.256",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 441965,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 2012.0,
+    "Object Name": "Painting",
+    "Title": "Dead Christ Supported by Angels",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16256.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Francesco Trevisani",
+    "Artist Display Bio": "Italian, Capodistria 1656–1746 Rome",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Trevisani, Francesco",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1656",
+    "Artist End Date": "1746",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500005125",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q963875",
+    "Object Date": "ca. 1710",
+    "Object Begin Date": 1705,
+    "Object End Date": 1715,
+    "Medium": "Oil on canvas",
+    "Dimensions": "51 1/2 x 38 1/4 in. (130.8 x 97.2 cm)",
+    "Credit Line": "Purchase, Gwynne Andrews Fund and Stephen Mazoh Gift, 2012",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/441965",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19911953",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Angels|Christ",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300379004|http://vocab.getty.edu/page/ia/901000087",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q235113|https://www.wikidata.org/wiki/Q642420"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP286351.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-2012_256-2.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-2012_256-3.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 162563,
+        "role": "Artist",
+        "name": "Francesco Trevisani",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500005125",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q963875",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 130.81026,
+          "Width": 97.1552
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Angels",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379004",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q235113"
+      },
+      {
+        "term": "Christ",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+      }
+    ]
+  }
+}

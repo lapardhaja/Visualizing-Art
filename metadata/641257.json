@@ -1,0 +1,94 @@
+{
+  "object_id": 641257,
+  "excel_metadata": {
+    "Object Number": "2014.149",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 641257,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 2014.0,
+    "Object Name": "Painting",
+    "Title": "Head of Christ",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 17623.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Fernando Yáñez de la Almedina",
+    "Artist Display Bio": "Spanish, Almedina, ca. 1475?–1536 Valencia",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Yáñez de la Almedina, Fernando",
+    "Artist Nationality": "Spanish",
+    "Artist Begin Date": "1470",
+    "Artist End Date": "1536",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500002387",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q776171",
+    "Object Date": "ca. 1506",
+    "Object Begin Date": 1501,
+    "Object End Date": 1511,
+    "Medium": "Oil on poplar",
+    "Dimensions": "16 1/2 × 12 in. (41.9 × 30.5 cm)",
+    "Credit Line": "Purchase, The Morris and Alma Schapiro Fund Gift, and Bequest of George D. Pratt, by exchange, 2014",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/641257",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19911665",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Christ",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901000087",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q642420"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP349354.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/DP349352.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-2014_149-2.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-2014_149-4.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 176232,
+        "role": "Artist",
+        "name": "Fernando Yáñez de la Almedina",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500002387",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q776171",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 41.910084,
+          "Width": 30.48006
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Christ",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+      }
+    ]
+  }
+}

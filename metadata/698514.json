@@ -1,0 +1,85 @@
+{
+  "object_id": 698514,
+  "excel_metadata": {
+    "Object Number": 2015.666,
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 698514,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 2015,
+    "Object Name": "Panel",
+    "Title": "Panel from the Palace of Westminster",
+    "Culture": "British",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 16382,
+    "Artist Role": "Designer",
+    "Artist Prefix": "Designed by",
+    "Artist Display Name": "Augustus Welby Northmore Pugin",
+    "Artist Display Bio": "British, London 1812–1852 Ramsgate",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Pugin, Augustus Welby Northmore",
+    "Artist Nationality": "British",
+    "Artist Begin Date": 1812,
+    "Artist End Date": 1852,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500008414",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q313288",
+    "Object Date": "ca. 1847",
+    "Object Begin Date": 1842,
+    "Object End Date": 1852,
+    "Medium": "Oak",
+    "Dimensions": "Overall (confirmed): 24 15/16 × 7 13/16 × 1/2 in. (63.3 × 19.8 × 1.3 cm)",
+    "Credit Line": "Purchase, The James Parker Charitable Foundation and Friends of European Sculpture and Decorative Arts Gifts, and funds from various donors, 2015",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Woodwork-Architectural",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/698514",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": null,
+    "Tags AAT URL": null,
+    "Tags Wikidata URL": null
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP-14385-098.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 163822,
+        "role": "Designer",
+        "name": "Designed by Augustus Welby Northmore Pugin",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500008414",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q313288",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": "confirmed",
+        "elementMeasurements": {
+          "Depth": 1.3208027,
+          "Height": 63.341377,
+          "Width": 19.84379
+        }
+      }
+    ],
+    "tags": null
+  }
+}

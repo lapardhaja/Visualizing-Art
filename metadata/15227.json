@@ -1,0 +1,100 @@
+{
+  "object_id": 15227,
+  "excel_metadata": {
+    "Object Number": "2006.235.268",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 15227,
+    "Gallery Number": NaN,
+    "Department": "The American Wing",
+    "AccessionYear": 2006.0,
+    "Object Name": "Painting, miniature",
+    "Title": "David Howe",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16268.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": "Attributed to",
+    "Artist Display Name": "Samuel Wallin",
+    "Artist Display Bio": "Swedish, active 1838–55",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Wallin, Samuel",
+    "Artist Nationality": "Swedish",
+    "Artist Begin Date": "1838",
+    "Artist End Date": "1855",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500524242",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q56461563",
+    "Object Date": NaN,
+    "Object Begin Date": 1820,
+    "Object End Date": 1858,
+    "Medium": "Watercolor on ivory",
+    "Dimensions": "2 13/16 x 2 1/4 in. (7.2 x 5.8 cm)",
+    "Credit Line": "Fletcher Fund, 2006",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/15227",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19924662",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Portraits|Men|Profiles",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300123319",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q4382010"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/APS6792.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162683,
+        "role": "Artist",
+        "name": "Attributed to Samuel Wallin",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500524242",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q56461563",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 7.1,
+          "Width": 5.7
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Profiles",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300123319",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q4382010"
+      }
+    ]
+  }
+}

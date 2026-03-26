@@ -1,0 +1,90 @@
+{
+  "object_id": 437626,
+  "excel_metadata": {
+    "Object Number": "62.122.74",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437626,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1962.0,
+    "Object Name": "Painting, miniature",
+    "Title": "Putti Harvesting Wheat",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16489.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": "Style of",
+    "Artist Display Name": "Piat Joseph Sauvage",
+    "Artist Display Bio": "French, late 18th century",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Sauvage, Piat Joseph",
+    "Artist Nationality": "Flemish",
+    "Artist Begin Date": "1744",
+    "Artist End Date": "1818",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500031952",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q3382227",
+    "Object Date": NaN,
+    "Object Begin Date": 1770,
+    "Object End Date": 1799,
+    "Medium": "Oil on wood",
+    "Dimensions": "Painted surface diameter 3 in. (76 mm)",
+    "Credit Line": "Bequest of Millie Bruhl Fredrick, 1962",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Miniatures",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437626",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19913731",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Putti",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300250465",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q284865"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP328697.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 164895,
+        "role": "Artist",
+        "name": "Style of Piat Joseph Sauvage",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500031952",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3382227",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 7.6,
+          "Width": 7.6
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Putti",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250465",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q284865"
+      }
+    ]
+  }
+}

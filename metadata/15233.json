@@ -1,0 +1,95 @@
+{
+  "object_id": 15233,
+  "excel_metadata": {
+    "Object Number": "2006.235.270",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 15233,
+    "Gallery Number": NaN,
+    "Department": "The American Wing",
+    "AccessionYear": 2006.0,
+    "Object Name": "Painting, miniature",
+    "Title": "Portrait of a Gentleman",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 343.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Carl Weinedel",
+    "Artist Display Bio": "1795–1845",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Weinedel, Carl",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1795",
+    "Artist End Date": "1845",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500336454",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q20859495",
+    "Object Date": "1836",
+    "Object Begin Date": 1836,
+    "Object End Date": 1836,
+    "Medium": "Watercolor on ivory",
+    "Dimensions": "2 5/16 x 1 13/16 in. (6 x 4.7 cm)",
+    "Credit Line": "Dale T. Johnson Fund, 2006",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/15233",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20177119",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DP168988.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 3437,
+        "role": "Artist",
+        "name": "Carl Weinedel",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500336454",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q20859495",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 5.9,
+          "Width": 4.6
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "object_id": 10843,
+  "excel_metadata": {
+    "Object Number": "1975.27.1",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 10843,
+    "Gallery Number": 736.0,
+    "Department": "The American Wing",
+    "AccessionYear": 1975.0,
+    "Object Name": "Painting",
+    "Title": "The New Bonnet",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16186.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Francis William Edmonds",
+    "Artist Display Bio": "American, Hudson, New York 1806–1863 Bronxville, New York",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Edmonds, Francis William",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1806",
+    "Artist End Date": "1863",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500026117",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q3680885",
+    "Object Date": "1858",
+    "Object Begin Date": 1858,
+    "Object End Date": 1858,
+    "Medium": "Oil on canvas",
+    "Dimensions": "25 x 30 1/8 in. (63.5 x 76.5 cm)",
+    "Credit Line": "Purchase, Erving Wolf Foundation Gift and Gift of Hanson K. Corning, by exchange, 1975",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/10843",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19925768",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Interiors|Vegetables|Girls|Men|Women|Dogs",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300391239|http://vocab.getty.edu/page/aat/300380162|http://vocab.getty.edu/page/aat/300247581|http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/aat/300265714",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q2998430|https://www.wikidata.org/wiki/Q11004|https://www.wikidata.org/wiki/Q3031|https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q144"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DT77.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ad/original/C_038R3.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 161860,
+        "role": "Artist",
+        "name": "Francis William Edmonds",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500026117",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3680885",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 63.5,
+          "Width": 76.5
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 13,
+          "Height": 90,
+          "Width": 102.8
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Interiors",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300391239",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q2998430"
+      },
+      {
+        "term": "Vegetables",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300380162",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q11004"
+      },
+      {
+        "term": "Girls",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300247581",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3031"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Dogs",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300265714",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q144"
+      }
+    ]
+  }
+}

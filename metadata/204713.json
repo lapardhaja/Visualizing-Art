@@ -1,0 +1,89 @@
+{
+  "object_id": 204713,
+  "excel_metadata": {
+    "Object Number": "66.247.4",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 204713,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1966,
+    "Object Name": "Cast",
+    "Title": "Hand",
+    "Culture": "French",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 16232,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Auguste Rodin",
+    "Artist Display Bio": "French, Paris 1840–1917 Meudon",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Rodin, Auguste",
+    "Artist Nationality": "French",
+    "Artist Begin Date": 1840,
+    "Artist End Date": 1917,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500016619",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q30755",
+    "Object Date": "modeled possibly ca. 1886–89",
+    "Object Begin Date": 1881,
+    "Object End Date": 1894,
+    "Medium": "Cast plaster",
+    "Dimensions": "Length: 3 1/8 in. (7.9 cm)",
+    "Credit Line": "Presented by Rodin to his pupil Malvina Hoffman and given by her to The Metropolitan Museum of Art, Bequest of Malvina C. Hoffman, 1966",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Sculpture",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/204713",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Hands",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300310193",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q33767"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/188394.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162325,
+        "role": "Artist",
+        "name": "Auguste Rodin",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500016619",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q30755",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Length",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Length": 7.9375157
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Hands",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300310193",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q33767"
+      }
+    ]
+  }
+}

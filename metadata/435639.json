@@ -1,0 +1,95 @@
+{
+  "object_id": 435639,
+  "excel_metadata": {
+    "Object Number": "07.225.461",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 435639,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1907.0,
+    "Object Name": "Painting, overdoor",
+    "Title": "Vase of Flowers in a Niche",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16555.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": "Attributed to",
+    "Artist Display Name": "Michel Bruno Bellengé",
+    "Artist Display Bio": "French, Rouen 1726–1793 Rouen",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Bellengé, Michel Bruno",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1726",
+    "Artist End Date": "1793",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500279487",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q3308757",
+    "Object Date": NaN,
+    "Object Begin Date": 1746,
+    "Object End Date": 1793,
+    "Medium": "Oil on canvas",
+    "Dimensions": "48 3/8 x 55 in. (122.9 x 139.7 cm)",
+    "Credit Line": "Gift of J. Pierpont Morgan, 1906",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/435639",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19911990",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Flowers|Vases",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300132399|http://vocab.getty.edu/page/aat/300132254",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q506|https://www.wikidata.org/wiki/Q191851"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP104644.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 165552,
+        "role": "Artist",
+        "name": "Attributed to Michel Bruno Bellengé",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500279487",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3308757",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 122.9,
+          "Width": 139.7
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Flowers",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132399",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q506"
+      },
+      {
+        "term": "Vases",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132254",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q191851"
+      }
+    ]
+  }
+}

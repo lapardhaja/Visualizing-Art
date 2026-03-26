@@ -1,0 +1,95 @@
+{
+  "object_id": 435581,
+  "excel_metadata": {
+    "Object Number": "14.40.645",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 435581,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1914.0,
+    "Object Name": "Painting",
+    "Title": "Portrait of a Young Man",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10731.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Antonello da Messina (Antonello di Giovanni d'Antonio)",
+    "Artist Display Bio": "Italian, Messina ca. 1430–1479 Messina",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Antonello da Messina (Antonello di Giovanni d'Antonio)",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1430",
+    "Artist End Date": "1479",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500007324",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q5594",
+    "Object Date": "ca. 1470",
+    "Object Begin Date": 1465,
+    "Object End Date": 1475,
+    "Medium": "Oil on wood",
+    "Dimensions": "10 5/8 x 8 1/8 in. (27 x 20.6 cm)",
+    "Credit Line": "Bequest of Benjamin Altman, 1913",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/435581",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19911579",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP120669.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 107311,
+        "role": "Artist",
+        "name": "Antonello da Messina (Antonello di Giovanni d&#39;Antonio)",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500007324",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5594",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 27,
+          "Width": 20.6
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

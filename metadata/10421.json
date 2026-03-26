@@ -1,0 +1,114 @@
+{
+  "object_id": 10421,
+  "excel_metadata": {
+    "Object Number": "1995.66",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 10421,
+    "Gallery Number": NaN,
+    "Department": "The American Wing",
+    "AccessionYear": 1995.0,
+    "Object Name": "Painting",
+    "Title": "The Last Throw",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16490.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Charles Robert Leslie",
+    "Artist Display Bio": "British, London 1794–1859 London",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Leslie, Charles Robert",
+    "Artist Nationality": "British",
+    "Artist Begin Date": "1794",
+    "Artist End Date": "1859",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500025044",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q325633",
+    "Object Date": "ca. 1840",
+    "Object Begin Date": 1837,
+    "Object End Date": 1840,
+    "Medium": "Oil on canvas",
+    "Dimensions": "18 1/2 x 38in. (47 x 96.5cm)\r\nFramed: 32 1/2 x 52 1/2 x 3 1/2 in. (82.6 x 133.4 cm)",
+    "Credit Line": "Gift of Laura and Philip Sperber, 1995",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/10421",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20175617",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Women|Dice|Gambling",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/aat/300211084|http://vocab.getty.edu/page/aat/300252706",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q45089|https://www.wikidata.org/wiki/Q11416"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DT3850.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 164900,
+        "role": "Artist",
+        "name": "Charles Robert Leslie",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500025044",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q325633",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 47,
+          "Width": 96.5
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 8.8900175,
+          "Height": 82.55016,
+          "Width": 133.35027
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Dice",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300211084",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q45089"
+      },
+      {
+        "term": "Gambling",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300252706",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q11416"
+      }
+    ]
+  }
+}

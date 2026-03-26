@@ -1,0 +1,97 @@
+{
+  "object_id": 11456,
+  "excel_metadata": {
+    "Object Number": "1981.447.2",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 11456,
+    "Gallery Number": NaN,
+    "Department": "The American Wing",
+    "AccessionYear": 1981.0,
+    "Object Name": "Painting, miniature",
+    "Title": "Mrs. Warren Rogers (Julie Francoise Gabrielle d'Anterroches)",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 270.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Theodore Lund",
+    "Artist Display Bio": "1810–1895",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Lund, Theodore",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1810",
+    "Artist End Date": "1895",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": NaN,
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q22576542",
+    "Object Date": "1839",
+    "Object Begin Date": 1839,
+    "Object End Date": 1839,
+    "Medium": "Watercolor on ivory",
+    "Dimensions": "3 x 2 5/16 in. (7.6 x 5.9 cm)",
+    "Credit Line": "Gift of Isabella Reeder Jones, in memory of her husband, Eugene Jones II, 1981",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/11456",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20177585",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Portraits|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/ap1981.447.2.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ad/original/241135.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 2705,
+        "role": "Artist",
+        "name": "Theodore Lund",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q22576542",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 7.6,
+          "Width": 5.9
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

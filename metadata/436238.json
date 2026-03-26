@@ -1,0 +1,111 @@
+{
+  "object_id": 436238,
+  "excel_metadata": {
+    "Object Number": "95.21",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436238,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1895.0,
+    "Object Name": "Painting",
+    "Title": "Benjamin Franklin (1706–1790)",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16555.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": "Workshop of",
+    "Artist Display Name": "Joseph Siffred Duplessis",
+    "Artist Display Bio": "French, Carpentras 1725–1802 Versailles",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Duplessis, Joseph Siffred",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1725",
+    "Artist End Date": "1802",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500016763",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q2286906",
+    "Object Date": NaN,
+    "Object Begin Date": 1745,
+    "Object End Date": 1802,
+    "Medium": "Oil on canvas",
+    "Dimensions": "Oval, 27 5/8 x 22 1/4 in. (70.2 x 56.5 cm)",
+    "Credit Line": "Gift of George A. Lucas, 1895",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436238",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912701",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Benjamin Franklin|Men|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ulan/500331804|http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q34969|https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP264507.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/82658.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 165550,
+        "role": "Artist",
+        "name": "Workshop of Joseph Siffred Duplessis",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500016763",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q2286906",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 70.2,
+          "Width": 56.5
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 13.335,
+          "Height": 105.4102,
+          "Width": 91.4402
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Benjamin Franklin",
+        "AAT_URL": "http://vocab.getty.edu/page/ulan/500331804",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q34969"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

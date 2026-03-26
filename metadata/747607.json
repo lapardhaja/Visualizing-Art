@@ -1,0 +1,118 @@
+{
+  "object_id": 747607,
+  "excel_metadata": {
+    "Object Number": "2017.242",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 747607,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 2017.0,
+    "Object Name": "Painting",
+    "Title": "Woman Playing a Guitar",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16267.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Simon Vouet",
+    "Artist Display Bio": "French, Paris 1590–1649 Paris",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Vouet, Simon",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1590",
+    "Artist End Date": "1649",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500029258",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q317920",
+    "Object Date": "ca. 1618",
+    "Object Begin Date": 1613,
+    "Object End Date": 1623,
+    "Medium": "Oil on canvas",
+    "Dimensions": "42 × 29 7/8 in. (106.5 × 75.8 cm)",
+    "Credit Line": "Purchase, 2017 Benefit Fund; Lila Acheson Wallace Gift; Mary Trumbull Adams and Victor Wilbour Memorial Funds; Friends of European Paintings and Henry and Lucy Moses Fund Inc. Gifts; Gift of Julia A. Berwind, by exchange; Charles and Jessie Price, Otto Naumann, Mr. and Mrs. Richard L. Chilton Jr., and Sally and Howard Lepow Gifts; Charles B. Curtis Fund; and Theodocia and Joseph Arkus Gift, 2017",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/747607",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q78161748",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Portraits|Women|Guitars|Musicians",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/aat/300042025|http://vocab.getty.edu/page/aat/300025666",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q6607|https://www.wikidata.org/wiki/Q639669"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-12928-001.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/2017_242_framed2.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/2017_242_framed3.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/2017_242_framed4.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 162671,
+        "role": "Artist",
+        "name": "Simon Vouet",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500029258",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q317920",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 106.5,
+          "Width": 75.8
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 6.985014,
+          "Height": 129.22276,
+          "Width": 97.7902
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Guitars",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300042025",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q6607"
+      },
+      {
+        "term": "Musicians",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025666",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q639669"
+      }
+    ]
+  }
+}

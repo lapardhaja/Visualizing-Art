@@ -1,0 +1,100 @@
+{
+  "object_id": 10482,
+  "excel_metadata": {
+    "Object Number": "15.30.67",
+    "Is Highlight": true,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 10482,
+    "Gallery Number": 760.0,
+    "Department": "The American Wing",
+    "AccessionYear": 1915.0,
+    "Object Name": "Painting",
+    "Title": "The Parthenon",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16177.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Frederic Edwin Church",
+    "Artist Display Bio": "American, Hartford, Connecticut 1826–1900 New York",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Church, Frederic Edwin",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1826",
+    "Artist End Date": "1900",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500115265",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q366212",
+    "Object Date": "1871",
+    "Object Begin Date": 1871,
+    "Object End Date": 1871,
+    "Medium": "Oil on canvas",
+    "Dimensions": "44 1/2 x 72 5/8 in. (113 x 184.5 cm)",
+    "Credit Line": "Bequest of Maria DeWitt Jesup, from the collection of her husband, Morris K. Jesup, 1914",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/10482",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19923916",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Ruins",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300008057",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q109607"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DT1540.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 161773,
+        "role": "Artist",
+        "name": "Frederic Edwin Church",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115265",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q366212",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 12.7,
+          "Height": 162.9,
+          "Weight": 68.49315,
+          "Width": 234.3
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 113,
+          "Width": 184.5
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Ruins",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300008057",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q109607"
+      }
+    ]
+  }
+}

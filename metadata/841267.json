@@ -1,0 +1,112 @@
+{
+  "object_id": 841267,
+  "excel_metadata": {
+    "Object Number": "2020.86.8",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 841267,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 2020,
+    "Object Name": "Basin",
+    "Title": "Oval basin with lizards, moths, and blue and purple background",
+    "Culture": "French, Paris",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 21155,
+    "Artist Role": "Maker",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Georges Pull",
+    "Artist Display Bio": "Wissembourg, Alsace-Lorraine, France 1810–1889 Paris, France",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Pull, Georges",
+    "Artist Nationality": "French",
+    "Artist Begin Date": 1810,
+    "Artist End Date": 1889,
+    "Artist Gender": null,
+    "Artist ULAN URL": "(not assigned)",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q98642761",
+    "Object Date": "ca. 1860",
+    "Object Begin Date": 1855,
+    "Object End Date": 1865,
+    "Medium": "Glazed earthenware",
+    "Dimensions": "confirmed: 3 1/4 × 19 5/8 × 15 15/16 in. (8.3 × 49.8 × 40.5 cm)",
+    "Credit Line": "Gift of Wallis Katz, in memory of Marshall Katz, and in celebration of the Museum's 150th anniversary, 2020",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Ceramics-Pottery",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/841267",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Frogs|Snakes|Insects|Lizards",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300250018|http://vocab.getty.edu/page/aat/300250870|http://vocab.getty.edu/page/aat/300310470|http://vocab.getty.edu/page/aat/300250295",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q3116510|https://www.wikidata.org/wiki/Q2102|https://www.wikidata.org/wiki/Q1390|https://www.wikidata.org/wiki/Q15629245"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP-19544-088.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/DP-19544-089.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP-19544-022.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP-19544-024.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP-19544-066.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP-19544-023.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 211550,
+        "role": "Maker",
+        "name": "Georges Pull",
+        "constituentULAN_URL": "(not assigned)",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q98642761",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": "confirmed",
+        "elementMeasurements": {
+          "Depth": 40.48133,
+          "Height": 8.255016,
+          "Width": 49.8476
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Frogs",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250018",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3116510"
+      },
+      {
+        "term": "Insects",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300310470",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q1390"
+      },
+      {
+        "term": "Lizards",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250295",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q15629245"
+      },
+      {
+        "term": "Snakes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250870",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q2102"
+      }
+    ]
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "object_id": 238634,
+  "excel_metadata": {
+    "Object Number": "07.225.127c",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 238634,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1907,
+    "Object Name": "Panel",
+    "Title": "Spring",
+    "Culture": "French",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 16282,
+    "Artist Role": "Maker",
+    "Artist Prefix": "Probably by",
+    "Artist Display Name": "François Joseph Belanger",
+    "Artist Display Bio": "French, Paris 1744–1818 Paris",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Belanger, François Joseph",
+    "Artist Nationality": "French",
+    "Artist Begin Date": 1744,
+    "Artist End Date": 1818,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500019469",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q327715",
+    "Object Date": "ca. 1775",
+    "Object Begin Date": 1770,
+    "Object End Date": 1780,
+    "Medium": "Wood, carved and gilt",
+    "Dimensions": "Overall: 24 1/2 × 52 3/4 in. (62.2 × 134 cm)",
+    "Credit Line": "Gift of J. Pierpont Morgan, 1906",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Woodwork",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/238634",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Faces|Flowers|Plants",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300251798|http://vocab.getty.edu/page/aat/300132399|http://vocab.getty.edu/page/aat/300132360",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q37017|https://www.wikidata.org/wiki/Q506|https://www.wikidata.org/wiki/Q756"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP105176.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162827,
+        "role": "Maker",
+        "name": "Probably by François Joseph Belanger",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500019469",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q327715",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 62.230125,
+          "Width": 133.98528
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Faces",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300251798",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q37017"
+      },
+      {
+        "term": "Flowers",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132399",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q506"
+      },
+      {
+        "term": "Plants",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132360",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q756"
+      }
+    ]
+  }
+}

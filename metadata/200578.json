@@ -1,0 +1,89 @@
+{
+  "object_id": 200578,
+  "excel_metadata": {
+    "Object Number": "49.7.90",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 200578,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1949,
+    "Object Name": "Charger",
+    "Title": "Charger",
+    "Culture": "British, London",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 3447,
+    "Artist Role": "Maker",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Paul de Lamerie",
+    "Artist Display Bio": "British, 1688–1751, active 1712–51",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Lamerie, Paul",
+    "Artist Nationality": "British",
+    "Artist Begin Date": 1688,
+    "Artist End Date": 1751,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500025790",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q1751768",
+    "Object Date": "1723–24",
+    "Object Begin Date": 1723,
+    "Object End Date": 1724,
+    "Medium": "Silver gilt",
+    "Dimensions": "Diameter: 23 3/4 in. (60.3 cm)",
+    "Credit Line": "The Jules Bache Collection, 1949",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Metalwork-Silver",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/200578",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Coat of Arms",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300126352",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q14659"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/147799.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 34470,
+        "role": "Maker",
+        "name": "Paul de Lamerie",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500025790",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1751768",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Diameter",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Diameter": 60.32512
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Coat of Arms",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300126352",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q14659"
+      }
+    ]
+  }
+}

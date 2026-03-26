@@ -1,0 +1,104 @@
+{
+  "object_id": 437835,
+  "excel_metadata": {
+    "Object Number": "67.187.108",
+    "Is Highlight": true,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 437835,
+    "Gallery Number": 817.0,
+    "Department": "European Paintings",
+    "AccessionYear": 1967.0,
+    "Object Name": "Painting",
+    "Title": "The Englishman (William Tom Warrener, 1861–1934) at the Moulin Rouge",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16256.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Henri de Toulouse-Lautrec",
+    "Artist Display Bio": "French, Albi 1864–1901 Saint-André-du-Bois",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Toulouse-Lautrec, Henri de",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1864",
+    "Artist End Date": "1901",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500029114",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q82445",
+    "Object Date": "1892",
+    "Object Begin Date": 1892,
+    "Object End Date": 1892,
+    "Medium": "Oil on cardboard",
+    "Dimensions": "33 3/4 x 26 in. (85.7 x 66 cm)",
+    "Credit Line": "Bequest of Miss Adelaide Milton de Groot (1876-1967), 1967",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437835",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19905264",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT1500.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162561,
+        "role": "Artist",
+        "name": "Henri de Toulouse-Lautrec",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500029114",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q82445",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 85.7,
+          "Width": 66
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 10.795,
+          "Height": 107.9502,
+          "Width": 86.3602
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

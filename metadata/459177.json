@@ -1,0 +1,94 @@
+{
+  "object_id": 459177,
+  "excel_metadata": {
+    "Object Number": "1975.1.3",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 459177,
+    "Gallery Number": NaN,
+    "Department": "Robert Lehman Collection",
+    "AccessionYear": 1975.0,
+    "Object Name": "Painting",
+    "Title": "Madonna and Child",
+    "Culture": "Italian, Tuscany",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 13535.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Italian [Tuscan] Painter, first quarter of 14th century",
+    "Artist Display Bio": " ",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Italian [Tuscan] Painter, first quarter of 14th century",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1300",
+    "Artist End Date": "1324",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": NaN,
+    "Artist Wikidata URL": NaN,
+    "Object Date": "first quarter 14th century",
+    "Object Begin Date": 1300,
+    "Object End Date": 1325,
+    "Medium": "Tempera on panel",
+    "Dimensions": "Overall: 6 3/8 x 4 5/8 in.(16.2 x 11.8 cm); Picture Surface: 4 7/8 x 3 1/2 in. (12.3 x 8.4 cm)",
+    "Credit Line": "Robert Lehman Collection, 1975",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/459177",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20187959",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Madonna and Child",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901000052",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q9309699"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/rl/original/DP317341.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/rl/original/240004.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/0011.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/ep1975.1.3.bw.R.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 135359,
+        "role": "Artist",
+        "name": "Italian [Tuscan] Painter, first quarter of 14th century",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 16.2,
+          "Width": 11.8
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Madonna and Child",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000052",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q9309699"
+      }
+    ]
+  }
+}

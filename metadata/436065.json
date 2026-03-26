@@ -1,0 +1,110 @@
+{
+  "object_id": 436065,
+  "excel_metadata": {
+    "Object Number": "34.83.1",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436065,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1934.0,
+    "Object Name": "Painting",
+    "Title": "Children and a Cow",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16386.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": "Attributed to",
+    "Artist Display Name": "Aelbert Cuyp",
+    "Artist Display Bio": "Dutch, Dordrecht 1620–1691 Dordrecht",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Cuyp, Aelbert",
+    "Artist Nationality": "Dutch",
+    "Artist Begin Date": "1620",
+    "Artist End Date": "1691",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500121064",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q313194",
+    "Object Date": "1635–39",
+    "Object Begin Date": 1635,
+    "Object End Date": 1639,
+    "Medium": "Oil on wood",
+    "Dimensions": "17 1/4 x 21 1/2 in. (43.8 x 54.6 cm)",
+    "Credit Line": "Bequest of Mariana Griswold Van Rensselaer, in memory of her father, George Griswold, 1934",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436065",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19913226",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Boys|Girls|Cows|Sheep|Dogs",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300247598|http://vocab.getty.edu/page/aat/300247581|http://vocab.getty.edu/page/aat/300250120|http://vocab.getty.edu/page/aat/300250284|http://vocab.getty.edu/page/aat/300265714",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q3010|https://www.wikidata.org/wiki/Q3031|https://www.wikidata.org/wiki/Q830|https://www.wikidata.org/wiki/Q7368|https://www.wikidata.org/wiki/Q144"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP146486.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 163861,
+        "role": "Artist",
+        "name": "Attributed to Aelbert Cuyp",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500121064",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q313194",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 43.8,
+          "Width": 54.6
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Boys",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300247598",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3010"
+      },
+      {
+        "term": "Girls",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300247581",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3031"
+      },
+      {
+        "term": "Cows",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250120",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q830"
+      },
+      {
+        "term": "Dogs",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300265714",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q144"
+      },
+      {
+        "term": "Sheep",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250284",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q7368"
+      }
+    ]
+  }
+}

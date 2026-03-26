@@ -1,0 +1,95 @@
+{
+  "object_id": 437649,
+  "excel_metadata": {
+    "Object Number": "65.181.2",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437649,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1965.0,
+    "Object Name": "Painting",
+    "Title": "Christ Blessing",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16240.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Segna di Buonaventura",
+    "Artist Display Bio": "Italian, active Siena by 1298–died 1326/31",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Segna di Buonaventura",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1298",
+    "Artist End Date": "1331",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500026523",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q929809",
+    "Object Date": "ca. 1311",
+    "Object Begin Date": 1306,
+    "Object End Date": 1316,
+    "Medium": "Tempera on wood, gold ground",
+    "Dimensions": "Overall, with shaped top, 15 1/2 x 9 1/2 in. (39.4 x 24.1 cm); painted surface 14 x 8 1/8 in. (35.6 x 20.6 cm)",
+    "Credit Line": "Bequest of Adele L. Lehman, in memory of Arthur Lehman, 1965",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437649",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19913287",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Christ|Books",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901000087|http://vocab.getty.edu/page/aat/300028051",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q642420|https://www.wikidata.org/wiki/Q571"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP367962.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162401,
+        "role": "Artist",
+        "name": "Segna di Buonaventura",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500026523",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q929809",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 39.4,
+          "Width": 24.1
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Books",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300028051",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q571"
+      },
+      {
+        "term": "Christ",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+      }
+    ]
+  }
+}

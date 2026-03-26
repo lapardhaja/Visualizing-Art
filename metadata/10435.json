@@ -1,0 +1,95 @@
+{
+  "object_id": 10435,
+  "excel_metadata": {
+    "Object Number": "67.54",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 10435,
+    "Gallery Number": NaN,
+    "Department": "The American Wing",
+    "AccessionYear": 1967.0,
+    "Object Name": "Painting",
+    "Title": "The Roman Campagna",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16334.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "John Gadsby Chapman",
+    "Artist Display Bio": "American, Alexandria, Virginia 1808–1889 New York",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Chapman, John Gadsby",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1808",
+    "Artist End Date": "1889",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500012614",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q2659120",
+    "Object Date": "1864",
+    "Object Begin Date": 1864,
+    "Object End Date": 1864,
+    "Medium": "Oil on canvas",
+    "Dimensions": "36 1/8 x 59 7/8 in. (91.8 x 152.1 cm)",
+    "Credit Line": "Gift of Mrs. John C. Newington, 1967",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/10435",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19925803",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Goats|Landscapes",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300250122|http://vocab.getty.edu/page/aat/300132294",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q2934|https://www.wikidata.org/wiki/Q191163"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/ap67.54.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 163340,
+        "role": "Artist",
+        "name": "John Gadsby Chapman",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500012614",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q2659120",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 91.8,
+          "Width": 152.1
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Goats",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250122",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q2934"
+      },
+      {
+        "term": "Landscapes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+      }
+    ]
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "object_id": 437899,
+  "excel_metadata": {
+    "Object Number": "49.7.53",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 437899,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1949.0,
+    "Object Name": "Painting",
+    "Title": "Alexandre Charles Emmanuel de Crussol-Florensac (1743–1815)",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16264.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Elisabeth Louise Vigée Le Brun",
+    "Artist Display Bio": "French, Paris 1755–1842 Paris",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Vigée Le Brun, Elisabeth Louise",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1755",
+    "Artist End Date": "1842",
+    "Artist Gender": "Female",
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500010070",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q213163",
+    "Object Date": "1787",
+    "Object Begin Date": 1787,
+    "Object End Date": 1787,
+    "Medium": "Oil on wood",
+    "Dimensions": "35 3/8 x 25 1/2 in. (89.9 x 64.8 cm)",
+    "Credit Line": "The Jules Bache Collection, 1949",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437899",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19905439",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP320090.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162647,
+        "role": "Artist",
+        "name": "Elisabeth Louise Vigée Le Brun",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500010070",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q213163",
+        "gender": "Female"
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 89.9,
+          "Width": 64.8
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 8.8900175,
+          "Height": 112.395226,
+          "Width": 86.360176
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

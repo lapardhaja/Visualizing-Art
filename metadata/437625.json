@@ -1,0 +1,100 @@
+{
+  "object_id": 437625,
+  "excel_metadata": {
+    "Object Number": "07.225.314a",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437625,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1907.0,
+    "Object Name": "Painting, grisaille overdoor",
+    "Title": "The Triumph of Bacchus",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16489.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Piat Joseph Sauvage",
+    "Artist Display Bio": "Flemish, Tournai 1744–1818 Tournai",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Sauvage, Piat Joseph",
+    "Artist Nationality": "Flemish",
+    "Artist Begin Date": "1744",
+    "Artist End Date": "1818",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500031952",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q3382227",
+    "Object Date": "1780s",
+    "Object Begin Date": 1780,
+    "Object End Date": 1789,
+    "Medium": "Oil on canvas",
+    "Dimensions": "14 x 32 7/8 in. (35.6 x 83.5 cm)",
+    "Credit Line": "Gift of J. Pierpont Morgan, 1906",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437625",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19913112",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Bacchus|Putti|Chariots",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901001409|http://vocab.getty.edu/page/aat/300250465|http://vocab.getty.edu/page/aat/300212699",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q645312|https://www.wikidata.org/wiki/Q284865|https://www.wikidata.org/wiki/Q203788"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-13513-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 164895,
+        "role": "Artist",
+        "name": "Piat Joseph Sauvage",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500031952",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3382227",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 35.6,
+          "Width": 83.5
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Putti",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250465",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q284865"
+      },
+      {
+        "term": "Bacchus",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901001409",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q645312"
+      },
+      {
+        "term": "Chariots",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300212699",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q203788"
+      }
+    ]
+  }
+}

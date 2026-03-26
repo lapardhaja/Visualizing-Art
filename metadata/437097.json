@@ -1,0 +1,123 @@
+{
+  "object_id": 437097,
+  "excel_metadata": {
+    "Object Number": "60.71.12",
+    "Is Highlight": true,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 437097,
+    "Gallery Number": 802.0,
+    "Department": "European Paintings",
+    "AccessionYear": 1960.0,
+    "Object Name": "Painting",
+    "Title": "Haystacks: Autumn",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16490.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Jean-François Millet",
+    "Artist Display Bio": "French, Gruchy 1814–1875 Barbizon",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Millet, Jean-François",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1814",
+    "Artist End Date": "1875",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500012529",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q148458",
+    "Object Date": "ca. 1874",
+    "Object Begin Date": 1869,
+    "Object End Date": 1875,
+    "Medium": "Oil on canvas",
+    "Dimensions": "33 1/2 x 43 3/8 in. (85.1 x 110.2 cm)",
+    "Credit Line": "Bequest of Lillian S. Timken, 1959",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437097",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19911604",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Sheep|Landscapes|Haystacks|Autumn",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300250284|http://vocab.getty.edu/page/aat/300132294|http://vocab.getty.edu/page/aat/300435325|http://vocab.getty.edu/page/aat/300133093",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q7368|https://www.wikidata.org/wiki/Q191163|https://www.wikidata.org/wiki/Q62577|https://www.wikidata.org/wiki/Q1314"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP124093.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 164909,
+        "role": "Artist",
+        "name": "Jean-François Millet",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500012529",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q148458",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Other",
+        "elementDescription": "Plexi",
+        "elementMeasurements": {
+          "Depth": 0.47625095,
+          "Height": 86.99517,
+          "Width": 111.76022
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 85.1,
+          "Width": 110.2
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 12.7,
+          "Height": 116.8402,
+          "Width": 142.8753
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Sheep",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250284",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q7368"
+      },
+      {
+        "term": "Landscapes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+      },
+      {
+        "term": "Autumn",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300133093",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q1314"
+      },
+      {
+        "term": "Haystacks",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300435325",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q62577"
+      }
+    ]
+  }
+}

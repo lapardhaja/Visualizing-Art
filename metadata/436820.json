@@ -1,0 +1,113 @@
+{
+  "object_id": 436820,
+  "excel_metadata": {
+    "Object Number": "1980.412",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436820,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1980.0,
+    "Object Name": "Painting",
+    "Title": "Serena Pulitzer Lederer (1867–1943)",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16203.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Gustav Klimt",
+    "Artist Display Bio": "Austrian, Baumgarten 1862–1918 Vienna",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Klimt, Gustav",
+    "Artist Nationality": "Austrian",
+    "Artist Begin Date": "1862",
+    "Artist End Date": "1918",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500030531",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q34661",
+    "Object Date": "1899",
+    "Object Begin Date": 1899,
+    "Object End Date": 1899,
+    "Medium": "Oil on canvas",
+    "Dimensions": "75 1/8 x 33 5/8 in. (190.8 x 85.4 cm)",
+    "Credit Line": "Purchase, Wolfe Fund, and Rogers and Munsey Funds, Gift of Henry Walters, and Bequests of Catharine Lorillard Wolfe and Collis P. Huntington, by exchange, 1980",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436820",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912226",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Portraits|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-18885-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162037,
+        "role": "Artist",
+        "name": "Gustav Klimt",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500030531",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q34661",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 190.8,
+          "Width": 85.4
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 4.7625,
+          "Height": 193.6754,
+          "Width": 87.9477
+        }
+      },
+      {
+        "elementName": "Glazing",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 190.50038,
+          "Thickness": 0.45,
+          "Width": 85.09017
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

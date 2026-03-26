@@ -1,0 +1,120 @@
+{
+  "object_id": 436636,
+  "excel_metadata": {
+    "Object Number": "71.78",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436636,
+    "Gallery Number": 964.0,
+    "Department": "European Paintings",
+    "AccessionYear": 1871.0,
+    "Object Name": "Painting",
+    "Title": "Still Life with a Glass and Oysters",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10777.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Jan Davidsz de Heem",
+    "Artist Display Bio": "Dutch, Utrecht 1606–1683/84 Antwerp",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Heem, Jan Davidsz de",
+    "Artist Nationality": "Dutch",
+    "Artist Begin Date": "1606",
+    "Artist End Date": "1684",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500029732",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q454656",
+    "Object Date": "ca. 1640",
+    "Object Begin Date": 1635,
+    "Object End Date": 1645,
+    "Medium": "Oil on wood",
+    "Dimensions": "9 7/8 x 7 1/2 in. (25.1 x 19.1 cm)",
+    "Credit Line": "Purchase, 1871",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436636",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912043",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Fruit|Grapes|Still Life|Lemons|Oysters",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300011868|http://vocab.getty.edu/page/aat/300379338|http://vocab.getty.edu/page/aat/300015638|http://vocab.getty.edu/page/aat/300266423|http://vocab.getty.edu/page/aat/300310174",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q1364|https://www.wikidata.org/wiki/Q10978|https://www.wikidata.org/wiki/Q170571|https://www.wikidata.org/wiki/Q1093742|https://www.wikidata.org/wiki/Q107411"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP147903.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 107771,
+        "role": "Artist",
+        "name": "Jan Davidsz de Heem",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500029732",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q454656",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 41,
+          "Height": 25.1,
+          "Width": 19.1
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 2.540005,
+          "Height": 36.830074,
+          "Width": 31.432564
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Fruit",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300011868",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q1364"
+      },
+      {
+        "term": "Grapes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379338",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q10978"
+      },
+      {
+        "term": "Lemons",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300266423",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q1093742"
+      },
+      {
+        "term": "Still Life",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015638",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q170571"
+      },
+      {
+        "term": "Oysters",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300310174",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q107411"
+      }
+    ]
+  }
+}

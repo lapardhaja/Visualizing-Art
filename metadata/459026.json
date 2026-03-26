@@ -1,0 +1,98 @@
+{
+  "object_id": 459026,
+  "excel_metadata": {
+    "Object Number": "1975.1.84",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 459026,
+    "Gallery Number": 954.0,
+    "Department": "Robert Lehman Collection",
+    "AccessionYear": 1975.0,
+    "Object Name": "Painting",
+    "Title": "An Apostle",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16179.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Carlo Crivelli",
+    "Artist Display Bio": "Italian, Venice (?), active by 1457–died 1494/95 Ascoli Piceno",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Crivelli, Carlo",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1457",
+    "Artist End Date": "1495",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500005092",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q348024",
+    "Object Date": "ca. 1471–73",
+    "Object Begin Date": 1468,
+    "Object End Date": 1476,
+    "Medium": "Tempera and gold on wood",
+    "Dimensions": "Arched top, 12 5/8 x 9 1/8 in. (32.1 x 23.2 cm)",
+    "Credit Line": "Robert Lehman Collection, 1975",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/459026",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q3620758",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Scrolls|Apostles",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300028629|http://vocab.getty.edu/page/aat/300343837",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q720106|https://www.wikidata.org/wiki/Q43412"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/rl/original/DT3059.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/rl/original/ep1975.1.84.bw.R.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/0337.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 161797,
+        "role": "Artist",
+        "name": "Carlo Crivelli",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500005092",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q348024",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 32.1,
+          "Width": 23.2
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Scrolls",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300028629",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q720106"
+      },
+      {
+        "term": "Apostles",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300343837",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q43412"
+      }
+    ]
+  }
+}

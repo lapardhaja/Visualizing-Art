@@ -1,0 +1,101 @@
+{
+  "object_id": 205713,
+  "excel_metadata": {
+    "Object Number": 1974.286,
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 205713,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1974,
+    "Object Name": "Plate",
+    "Title": "Plate with Jacob Is Shown Joseph’s Coat",
+    "Culture": "Italian, probably Urbino",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 19569116236,
+    "Artist Role": "Artist|Artist",
+    "Artist Prefix": "Probably painted by|Based on a woodcut by",
+    "Artist Display Name": "Gironimo Tomasi|Bernard Salomon",
+    "Artist Display Bio": "Italian, active Urbino, Albisola, and Lyons, died 1602|French, ca. 1508–ca. 1561",
+    "Artist Suffix": " | ",
+    "Artist Alpha Sort": "Tomasi, Gironimo|Salomon, Bernard",
+    "Artist Nationality": "Italian|French",
+    "Artist Begin Date": "1502      |1508      ",
+    "Artist End Date": "1602      |1561      ",
+    "Artist Gender": "|",
+    "Artist ULAN URL": "(not assigned)|http://vocab.getty.edu/page/ulan/500015400",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q21451244|https://www.wikidata.org/wiki/Q2898582",
+    "Object Date": "ca. 1560–75",
+    "Object Begin Date": 1555,
+    "Object End Date": 1580,
+    "Medium": "Maiolica (tin-glazed earthenware)",
+    "Dimensions": "Overall (confirmed): 1 1/4 × 10 7/8 in. (3.2 × 27.6 cm)",
+    "Credit Line": "Gift of Mrs. Francis P. Garvan, 1974",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Ceramics-Pottery",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/205713",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP326521.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/DP330351.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/203855.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 195691,
+        "role": "Artist",
+        "name": "Probably painted by Gironimo Tomasi",
+        "constituentULAN_URL": "(not assigned)",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q21451244",
+        "gender": ""
+      },
+      {
+        "constituentID": 162368,
+        "role": "Artist",
+        "name": "Based on a woodcut by Bernard Salomon",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500015400",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q2898582",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": "confirmed",
+        "elementMeasurements": {
+          "Diameter": 27.622555,
+          "Height": 3.1750064
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      }
+    ]
+  }
+}

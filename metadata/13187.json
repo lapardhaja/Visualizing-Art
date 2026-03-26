@@ -1,0 +1,109 @@
+{
+  "object_id": 13187,
+  "excel_metadata": {
+    "Object Number": "10.54",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 13187,
+    "Gallery Number": 774.0,
+    "Department": "The American Wing",
+    "AccessionYear": 1910.0,
+    "Object Name": "Painting",
+    "Title": "General Winfield Scott",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16270.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Robert Walter Weir",
+    "Artist Display Bio": "American, New Rochelle, New York 1803–1889 New York",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Weir, Robert Walter",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1803",
+    "Artist End Date": "1889",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500032615",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q3695965",
+    "Object Date": "ca. 1855",
+    "Object Begin Date": 1852,
+    "Object End Date": 1855,
+    "Medium": "Oil on canvas",
+    "Dimensions": "33 3/4 x 26 7/8 in. (85.7 x 68.3 cm)",
+    "Credit Line": "Gift of the heirs of William B. Isham, 1910",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/13187",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19923769",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits|Generals",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300236762",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q83460"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/ap10.54.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162708,
+        "role": "Artist",
+        "name": "Robert Walter Weir",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500032615",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3695965",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 85.7,
+          "Width": 68.3
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 11.2,
+          "Height": 117.5,
+          "Width": 100
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Generals",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300236762",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q83460"
+      }
+    ]
+  }
+}

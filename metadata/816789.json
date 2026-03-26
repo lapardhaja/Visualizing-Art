@@ -1,0 +1,95 @@
+{
+  "object_id": 816789,
+  "excel_metadata": {
+    "Object Number": "2019.8",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 816789,
+    "Gallery Number": NaN,
+    "Department": "The American Wing",
+    "AccessionYear": 2019.0,
+    "Object Name": "Painting",
+    "Title": "Sky – Northern Cuba",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 20610.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Charles Dewolf Brownell",
+    "Artist Display Bio": "American, Providence, Rhode Island 1822–1909 Bristol, Rhode Island",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Brownell, Charles Dewolf",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1822",
+    "Artist End Date": "1909",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500059967",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q1064076",
+    "Object Date": "ca. 1853–66",
+    "Object Begin Date": 1853,
+    "Object End Date": 1866,
+    "Medium": "Oil on academy board",
+    "Dimensions": "10 1/16 × 13 3/4 in. (25.5 × 35 cm)",
+    "Credit Line": "Maria DeWitt Jesup Fund, 2019",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/816789",
+    "Object Wikidata URL": NaN,
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Sky|Clouds",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300263064|http://vocab.getty.edu/page/aat/300343840",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q527|https://www.wikidata.org/wiki/Q8074"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DP-23090-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 206108,
+        "role": "Artist",
+        "name": "Charles Dewolf Brownell",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500059967",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1064076",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 25.5,
+          "Width": 35
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Sky",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300263064",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q527"
+      },
+      {
+        "term": "Clouds",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300343840",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8074"
+      }
+    ]
+  }
+}

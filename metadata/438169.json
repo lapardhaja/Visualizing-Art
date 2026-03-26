@@ -1,0 +1,103 @@
+{
+  "object_id": 438169,
+  "excel_metadata": {
+    "Object Number": "2007.91",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 438169,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 2007.0,
+    "Object Name": "Painting",
+    "Title": "Salvator Mundi",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16187.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Domenico Fetti",
+    "Artist Display Bio": "Italian, Rome (?) 1591/92–1623 Venice",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Fetti, Domenico",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1591",
+    "Artist End Date": "1623",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500115450",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q551695",
+    "Object Date": "ca. 1622–23",
+    "Object Begin Date": 1622,
+    "Object End Date": 1623,
+    "Medium": "Oil on wood",
+    "Dimensions": "23 1/2 x 17 1/4 in. (59.7 x 43.8 cm)",
+    "Credit Line": "Gift of Dianne Modestini, in loving memory of Mario Modestini, 2007",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/438169",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912373",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Putti|Clouds|Christ",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300250465|http://vocab.getty.edu/page/aat/300343840|http://vocab.getty.edu/page/ia/901000087",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q284865|https://www.wikidata.org/wiki/Q8074|https://www.wikidata.org/wiki/Q642420"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP148737.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-2007_91-2.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-2007_91-3.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 161876,
+        "role": "Artist",
+        "name": "Domenico Fetti",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115450",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q551695",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 59.7,
+          "Width": 43.8
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Putti",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250465",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q284865"
+      },
+      {
+        "term": "Clouds",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300343840",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8074"
+      },
+      {
+        "term": "Christ",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+      }
+    ]
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "object_id": 435923,
+  "excel_metadata": {
+    "Object Number": "26.128",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 435923,
+    "Gallery Number": 808.0,
+    "Department": "European Paintings",
+    "AccessionYear": 1926.0,
+    "Object Name": "Painting",
+    "Title": "Stoke-by-Nayland",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16623.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "John Constable",
+    "Artist Display Bio": "British, East Bergholt 1776–1837 Hampstead",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Constable, John",
+    "Artist Nationality": "British",
+    "Artist Begin Date": "1776",
+    "Artist End Date": "1837",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500115382",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q159297",
+    "Object Date": "ca. 1810–11",
+    "Object Begin Date": 1805,
+    "Object End Date": 1815,
+    "Medium": "Oil on canvas",
+    "Dimensions": "11 1/8 x 14 1/4 in. (28.3 x 36.2 cm)",
+    "Credit Line": "Charles B. Curtis Fund, 1926",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/435923",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19905306",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Landscapes",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300132294",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q191163"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP164805.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 166233,
+        "role": "Artist",
+        "name": "John Constable",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115382",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q159297",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 28.3,
+          "Width": 36.2
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 7.62,
+          "Height": 41.2751,
+          "Width": 48.8951
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Landscapes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+      }
+    ]
+  }
+}

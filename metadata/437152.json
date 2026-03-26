@@ -1,0 +1,120 @@
+{
+  "object_id": 437152,
+  "excel_metadata": {
+    "Object Number": "41.190.28a–d",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437152,
+    "Gallery Number": 305.0,
+    "Department": "European Paintings",
+    "AccessionYear": 1941.0,
+    "Object Name": "Painting, retable",
+    "Title": "Virgin and Child Enthroned with Scenes from the Life of the Virgin",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10807.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Morata Master",
+    "Artist Display Bio": "Spanish, Aragonese, late 15th century",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Morata Master",
+    "Artist Nationality": "Spanish",
+    "Artist Begin Date": "1470",
+    "Artist End Date": "1499",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500039615",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q21853443",
+    "Object Date": NaN,
+    "Object Begin Date": 1470,
+    "Object End Date": 1499,
+    "Medium": "Tempera and gold on wood",
+    "Dimensions": "Central panel, below, 52 x 34 5/8 in. (132.1 x 87.9 cm); central panel, above, 43 3/4 x 34 1/2 in. (111.1 x 87.6 cm); each side panel 84 1/2 x 22 3/4 in. (214.6 x 57.8 cm)",
+    "Credit Line": "Bequest of George Blumenthal, 1941",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437152",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19913277",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Madonna and Child|Saints|Adoration of the Magi|Nativity|Resurrection|Coronation of the Virgin|Angels",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901000052|http://vocab.getty.edu/page/aat/300150555|http://vocab.getty.edu/page/ia/901000083|http://vocab.getty.edu/page/ia/901000124|http://vocab.getty.edu/page/aat/300404323|http://vocab.getty.edu/page/ia/901000780|http://vocab.getty.edu/page/aat/300379004",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q9309699|https://www.wikidata.org/wiki/Q43115|https://www.wikidata.org/wiki/Q488841|https://www.wikidata.org/wiki/Q51628|https://www.wikidata.org/wiki/Q51624|https://www.wikidata.org/wiki/Q1093370|https://www.wikidata.org/wiki/Q235113"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-14826-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 108075,
+        "role": "Artist",
+        "name": "Morata Master",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500039615",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q21853443",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 132.1,
+          "Width": 87.9
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Angels",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379004",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q235113"
+      },
+      {
+        "term": "Madonna and Child",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000052",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q9309699"
+      },
+      {
+        "term": "Adoration of the Magi",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000083",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q488841"
+      },
+      {
+        "term": "Nativity",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000124",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q51628"
+      },
+      {
+        "term": "Saints",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300150555",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q43115"
+      },
+      {
+        "term": "Resurrection",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300404323",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q51624"
+      },
+      {
+        "term": "Coronation of the Virgin",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000780",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q1093370"
+      }
+    ]
+  }
+}

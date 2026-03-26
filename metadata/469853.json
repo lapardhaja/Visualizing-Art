@@ -1,0 +1,97 @@
+{
+  "object_id": 469853,
+  "excel_metadata": {
+    "Object Number": "1980.223.6",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 469853,
+    "Gallery Number": 10,
+    "Department": "The Cloisters",
+    "AccessionYear": 1980,
+    "Object Name": "Roundel",
+    "Title": "Roundel with Playing at Quintain",
+    "Culture": "French",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": null,
+    "Artist Role": null,
+    "Artist Prefix": null,
+    "Artist Display Name": null,
+    "Artist Display Bio": null,
+    "Artist Suffix": null,
+    "Artist Alpha Sort": null,
+    "Artist Nationality": null,
+    "Artist Begin Date": null,
+    "Artist End Date": null,
+    "Artist Gender": null,
+    "Artist ULAN URL": null,
+    "Artist Wikidata URL": null,
+    "Object Date": "ca. 1500",
+    "Object Begin Date": 1500,
+    "Object End Date": 1500,
+    "Medium": "Colorless glass, vitreous paint and silver stain",
+    "Dimensions": "Overall: 8 3/8 in. (21.3 cm)",
+    "Credit Line": "The Cloisters Collection, 1980",
+    "Geography Type": "Made in",
+    "City": "possibly Paris",
+    "State": null,
+    "County": null,
+    "Country": "France",
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Glass-Stained",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/469853",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20201369",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Women|Dogs|Sheep|Games",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/aat/300265714|http://vocab.getty.edu/page/aat/300250284|http://vocab.getty.edu/page/aat/300069657",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q144|https://www.wikidata.org/wiki/Q7368|https://www.wikidata.org/wiki/Q11410"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/cl/original/DP241185.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/cl/original/cdi1980-223-6.jpg"
+    ],
+    "constituents": null,
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Diameter": 21.2725
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Dogs",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300265714",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q144"
+      },
+      {
+        "term": "Sheep",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250284",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q7368"
+      },
+      {
+        "term": "Games",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300069657",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q11410"
+      }
+    ]
+  }
+}

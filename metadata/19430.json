@@ -1,0 +1,97 @@
+{
+  "object_id": 19430,
+  "excel_metadata": {
+    "Object Number": "2007.65",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 19430,
+    "Gallery Number": NaN,
+    "Department": "The American Wing",
+    "AccessionYear": 2007.0,
+    "Object Name": "Painting, miniature",
+    "Title": "Henrietta Middleton",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 547.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Mary Roberts",
+    "Artist Display Bio": "died 1761 Charleston, South Carolina",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Roberts, Mary",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "          ",
+    "Artist End Date": "1761",
+    "Artist Gender": "Female",
+    "Artist ULAN URL": NaN,
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q6780619",
+    "Object Date": "ca. 1752–58",
+    "Object Begin Date": 1752,
+    "Object End Date": 1758,
+    "Medium": "Watercolor on ivory",
+    "Dimensions": "1 1/2 x 1 in. (3.8 x 2.5 cm)",
+    "Credit Line": "Purchase, Dale T. Johnson Fund and Jan and Warren Adelson Gift, 2007",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/19430",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19923881",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Girls|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300247581|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q3031|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DP145444.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ad/original/DP162298.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 5470,
+        "role": "Artist",
+        "name": "Mary Roberts",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q6780619",
+        "gender": "Female"
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Other",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 3.81,
+          "Width": 2.54
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Girls",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300247581",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3031"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

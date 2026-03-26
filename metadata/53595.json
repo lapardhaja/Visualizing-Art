@@ -1,0 +1,84 @@
+{
+  "object_id": 53595,
+  "excel_metadata": {
+    "Object Number": "55.139.2",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": false,
+    "Object ID": 53595,
+    "Gallery Number": NaN,
+    "Department": "Asian Art",
+    "AccessionYear": 1955.0,
+    "Object Name": "Painting",
+    "Title": NaN,
+    "Culture": "China",
+    "Period": "Qing dynasty (1644–1911)",
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 3750.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Unidentified artist",
+    "Artist Display Bio": " ",
+    "Artist Suffix": "Chinese, 19th century",
+    "Artist Alpha Sort": "Unidentified artist",
+    "Artist Nationality": " ",
+    "Artist Begin Date": "          ",
+    "Artist End Date": "          ",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": NaN,
+    "Artist Wikidata URL": NaN,
+    "Object Date": "ca. 1830",
+    "Object Begin Date": 1820,
+    "Object End Date": 1840,
+    "Medium": "Watercolor on paper",
+    "Dimensions": "15 x 19 1/8 in. (38.1 x 48.6 cm)",
+    "Credit Line": "Purchase, Winfield Foundation Gift, 1955",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/53595",
+    "Object Wikidata URL": NaN,
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": NaN,
+    "Tags AAT URL": NaN,
+    "Tags Wikidata URL": NaN
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/as/original/DP-30503-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 37502,
+        "role": "Artist",
+        "name": "Unidentified artist",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 38.1,
+          "Width": 48.6
+        }
+      }
+    ],
+    "tags": null
+  }
+}

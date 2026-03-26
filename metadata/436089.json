@@ -1,0 +1,109 @@
+{
+  "object_id": 436089,
+  "excel_metadata": {
+    "Object Number": "11.45.3",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436089,
+    "Gallery Number": 812.0,
+    "Department": "European Paintings",
+    "AccessionYear": 1911.0,
+    "Object Name": "Painting",
+    "Title": "The Hamlet of Optevoz",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16180.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Charles-François Daubigny",
+    "Artist Display Bio": "French, Paris 1817–1878 Paris",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Daubigny, Charles-François",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1817",
+    "Artist End Date": "1878",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500115164",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q252357",
+    "Object Date": "ca. 1852",
+    "Object Begin Date": 1849,
+    "Object End Date": 1857,
+    "Medium": "Oil on canvas",
+    "Dimensions": "22 3/4 x 36 1/2 in. (57.8 x 92.7 cm)",
+    "Credit Line": "Bequest of Robert Graham Dun, 1900",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436089",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19905735",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Towns|Evening|Cows",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300008375|http://vocab.getty.edu/page/aat/300343633|http://vocab.getty.edu/page/aat/300250120",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q3957|https://www.wikidata.org/wiki/Q7725|https://www.wikidata.org/wiki/Q830"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT332111.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 161806,
+        "role": "Artist",
+        "name": "Charles-François Daubigny",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115164",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q252357",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 57.8,
+          "Width": 92.7
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 13.335,
+          "Height": 91.4402,
+          "Width": 124.4602
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Towns",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300008375",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3957"
+      },
+      {
+        "term": "Cows",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250120",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q830"
+      },
+      {
+        "term": "Evening",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300343633",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q7725"
+      }
+    ]
+  }
+}

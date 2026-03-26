@@ -1,0 +1,95 @@
+{
+  "object_id": 11284,
+  "excel_metadata": {
+    "Object Number": "95.23",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 11284,
+    "Gallery Number": 774.0,
+    "Department": "The American Wing",
+    "AccessionYear": 1895.0,
+    "Object Name": "Painting",
+    "Title": "John Grimes",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 265.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Matthew Harris Jouett",
+    "Artist Display Bio": "1788–1827",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Jouett, Matthew Harris",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1788",
+    "Artist End Date": "1827",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500017628",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q6790646",
+    "Object Date": "ca. 1824",
+    "Object Begin Date": 1821,
+    "Object End Date": 1824,
+    "Medium": "Oil on wood",
+    "Dimensions": "28 1/4 x 21 3/4 in. (71.8 x 55.2 cm)",
+    "Credit Line": "Gift of Mrs. Richard H. Menefee, 1895",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/11284",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20175073",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/ap95.23.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 2651,
+        "role": "Artist",
+        "name": "Matthew Harris Jouett",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500017628",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q6790646",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 71.8,
+          "Width": 55.2
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

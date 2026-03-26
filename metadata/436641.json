@@ -1,0 +1,95 @@
+{
+  "object_id": 436641,
+  "excel_metadata": {
+    "Object Number": "71.73",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436641,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1871.0,
+    "Object Name": "Painting",
+    "Title": "Portrait of a Man",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16198.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Bartholomeus van der Helst",
+    "Artist Display Bio": "Dutch, Haarlem, born ca. 1612–15, died 1670 Amsterdam",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Helst, Bartholomeus van der",
+    "Artist Nationality": "Dutch",
+    "Artist Begin Date": "1612",
+    "Artist End Date": "1670",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500115795",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q380704",
+    "Object Date": "1647",
+    "Object Begin Date": 1647,
+    "Object End Date": 1647,
+    "Medium": "Oil on wood",
+    "Dimensions": "Oval, 26 1/4 x 21 5/8 in. (66.7 x 54.9 cm)",
+    "Credit Line": "Purchase, 1871",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436641",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912623",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP143191.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 161987,
+        "role": "Artist",
+        "name": "Bartholomeus van der Helst",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115795",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q380704",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 66.7,
+          "Width": 54.9
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

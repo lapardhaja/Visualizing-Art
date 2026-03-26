@@ -1,0 +1,104 @@
+{
+  "object_id": 436910,
+  "excel_metadata": {
+    "Object Number": "43.86.5",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 436910,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1943.0,
+    "Object Name": "Painting",
+    "Title": "Portrait of a Young Woman",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16359.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Lorenzo di Credi (Lorenzo d'Andrea d'Oderigo)",
+    "Artist Display Bio": "Italian, Florence 1456/59–1536 Florence",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Lorenzo di Credi (Lorenzo d'Andrea d'Oderigo)",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1456",
+    "Artist End Date": "1536",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500115418",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q8511",
+    "Object Date": "ca. 1490–1500",
+    "Object Begin Date": 1490,
+    "Object End Date": 1500,
+    "Medium": "Oil on wood",
+    "Dimensions": "23 1/8 x 15 3/4 in. (58.7 x 40 cm)",
+    "Credit Line": "Bequest of Richard De Wolfe Brixey, 1943",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436910",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20166944",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Portraits|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP161260.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 163590,
+        "role": "Artist",
+        "name": "Lorenzo di Credi (Lorenzo d&#39;Andrea d&#39;Oderigo)",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115418",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q8511",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 58.7,
+          "Width": 40
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 6.985,
+          "Height": 81.2802,
+          "Width": 62.8651
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

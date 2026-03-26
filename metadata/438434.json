@@ -1,0 +1,114 @@
+{
+  "object_id": 438434,
+  "excel_metadata": {
+    "Object Number": "2005.186",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 438434,
+    "Gallery Number": 801.0,
+    "Department": "European Paintings",
+    "AccessionYear": 2005.0,
+    "Object Name": "Painting",
+    "Title": "The Virgin Adoring the Host",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16200.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Jean Auguste Dominique Ingres",
+    "Artist Display Bio": "French, Montauban 1780–1867 Paris",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Ingres, Jean Auguste Dominique",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1780",
+    "Artist End Date": "1867",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500028037",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q23380",
+    "Object Date": "1852",
+    "Object Begin Date": 1852,
+    "Object End Date": 1852,
+    "Medium": "Oil on canvas",
+    "Dimensions": "15 7/8 x 12 7/8 in. (40.3 x 32.7 cm)",
+    "Credit Line": "Gift of Lila and Herman Shickman, 2005\r\n",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/438434",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19905390",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Saints|Virgin Mary|Altars|Men",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300150555|http://vocab.getty.edu/page/ia/901000032|http://vocab.getty.edu/page/aat/300003725|http://vocab.getty.edu/page/aat/300025928",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q43115|https://www.wikidata.org/wiki/Q345|https://www.wikidata.org/wiki/Q101687|https://www.wikidata.org/wiki/Q8441"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP136074.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162005,
+        "role": "Artist",
+        "name": "Jean Auguste Dominique Ingres",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500028037",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q23380",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 40.3,
+          "Width": 32.7
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 3.81,
+          "Height": 53.3401,
+          "Width": 46.3551
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Altars",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300003725",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q101687"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Virgin Mary",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000032",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q345"
+      },
+      {
+        "term": "Saints",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300150555",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q43115"
+      }
+    ]
+  }
+}

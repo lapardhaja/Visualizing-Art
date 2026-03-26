@@ -1,0 +1,87 @@
+{
+  "object_id": 200415,
+  "excel_metadata": {
+    "Object Number": "48.187.456",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 200415,
+    "Gallery Number": NaN,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1948.0,
+    "Object Name": "Snuffbox, painting",
+    "Title": "Snuffbox with miniature depicting departure of Telemachus from Egypt",
+    "Culture": "French, Paris",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 3355.0,
+    "Artist Role": "Maker",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Charles Ouizille",
+    "Artist Display Bio": "born 1745, apprenticed 1760, master 1771, active 1809",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Ouizille Charles",
+    "Artist Nationality": " ",
+    "Artist Begin Date": "1745",
+    "Artist End Date": "1845",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500060985",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q29082464",
+    "Object Date": "1780–81",
+    "Object Begin Date": 1780,
+    "Object End Date": 1781,
+    "Medium": "Gold, enamel",
+    "Dimensions": "1-1/8 x 3-1/8 x 2-1/4 in.  (2.9 x 7.9 x 5.7 cm)",
+    "Credit Line": "Bequest of Catherine D. Wentworth, 1948",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Metalwork-Gold and Platinum|Miniatures",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/200415",
+    "Object Wikidata URL": NaN,
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": NaN,
+    "Tags AAT URL": NaN,
+    "Tags Wikidata URL": NaN
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/SF48_187_456.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/ES540.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 33551,
+        "role": "Maker",
+        "name": "Charles Ouizille",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500060985",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q29082464",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 5.7,
+          "Height": 2.9,
+          "Width": 7.9
+        }
+      }
+    ],
+    "tags": null
+  }
+}

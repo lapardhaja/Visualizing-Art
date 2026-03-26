@@ -1,0 +1,100 @@
+{
+  "object_id": 15917,
+  "excel_metadata": {
+    "Object Number": "2006.235.324",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 15917,
+    "Gallery Number": NaN,
+    "Department": "The American Wing",
+    "AccessionYear": 2006.0,
+    "Object Name": "Painting, miniature",
+    "Title": "Portrait of Three Boys",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 155.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Thomas Badger",
+    "Artist Display Bio": "1764–1826",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Badger, Thomas",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1764",
+    "Artist End Date": "1826",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": NaN,
+    "Artist Wikidata URL": NaN,
+    "Object Date": "1830s",
+    "Object Begin Date": 1830,
+    "Object End Date": 1839,
+    "Medium": "Watercolor on ivory",
+    "Dimensions": "4 15/16 x 3 5/8 in. (12.5 x 9.2 cm)",
+    "Credit Line": "Gift of Gloria Manney, 2006",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/15917",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19925549",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Boys|Portraits|Butterflies",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300247598|http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300417320",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q3010|https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q11946202"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/SFcs324.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 1558,
+        "role": "Artist",
+        "name": "Thomas Badger",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 12.5,
+          "Width": 9.2075
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Boys",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300247598",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3010"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Butterflies",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300417320",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q11946202"
+      }
+    ]
+  }
+}

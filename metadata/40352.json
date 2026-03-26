@@ -1,0 +1,95 @@
+{
+  "object_id": 40352,
+  "excel_metadata": {
+    "Object Number": "29.100.537",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 40352,
+    "Gallery Number": NaN,
+    "Department": "Asian Art",
+    "AccessionYear": 1929.0,
+    "Object Name": "Painting",
+    "Title": NaN,
+    "Culture": "Japan",
+    "Period": "Edo period (1615–1868)",
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 1183.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": "Attributed to",
+    "Artist Display Name": "Utagawa Kuniyoshi",
+    "Artist Display Bio": "Japanese, 1797–1861",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Utagawa Kuniyoshi",
+    "Artist Nationality": "Japanese",
+    "Artist Begin Date": "1797",
+    "Artist End Date": "1861",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500063102",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q317736",
+    "Object Date": "19th century",
+    "Object Begin Date": 1800,
+    "Object End Date": 1861,
+    "Medium": "Matted; ink and color on silk",
+    "Dimensions": "16 1/2 x 23 1/2 in. (41.9 x 59.7 cm)",
+    "Credit Line": "H. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/40352",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q78859227",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Musical Instruments|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300041620|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q34379|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/as/original/29_100_537_O.JPG",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 11838,
+        "role": "Artist",
+        "name": "Attributed to Utagawa Kuniyoshi",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500063102",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q317736",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 41.9,
+          "Width": 59.7
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Musical Instruments",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300041620",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q34379"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

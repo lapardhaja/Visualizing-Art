@@ -1,0 +1,100 @@
+{
+  "object_id": 435733,
+  "excel_metadata": {
+    "Object Number": "61.235",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 435733,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1961.0,
+    "Object Name": "Painting",
+    "Title": "Madonna and Child Enthroned with Saints and Angels",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10742.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Francesco Botticini (Francesco di Giovanni)",
+    "Artist Display Bio": "Italian, Florentine, ca. 1446–1497",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Botticini, Francesco (Francesco di Giovanni)",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1446",
+    "Artist End Date": "1497",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500010663",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q983275",
+    "Object Date": "1493–95",
+    "Object Begin Date": 1493,
+    "Object End Date": 1495,
+    "Medium": "Tempera on wood",
+    "Dimensions": "Arched top, 110 1/2 x 69 in. (280.7 x 175.3 cm)",
+    "Credit Line": "Gift of George R. Hann, in memory of his mother, Annie Sykes Hann, 1961",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/435733",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19905792",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Madonna and Child|Saints|Angels",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901000052|http://vocab.getty.edu/page/aat/300150555|http://vocab.getty.edu/page/aat/300379004",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q9309699|https://www.wikidata.org/wiki/Q43115|https://www.wikidata.org/wiki/Q235113"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT7233.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 107425,
+        "role": "Artist",
+        "name": "Francesco Botticini (Francesco di Giovanni)",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500010663",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q983275",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 280.7,
+          "Width": 175.3
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Angels",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379004",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q235113"
+      },
+      {
+        "term": "Madonna and Child",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000052",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q9309699"
+      },
+      {
+        "term": "Saints",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300150555",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q43115"
+      }
+    ]
+  }
+}

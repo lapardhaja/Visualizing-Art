@@ -1,0 +1,104 @@
+{
+  "object_id": 210207,
+  "excel_metadata": {
+    "Object Number": "37.20.118",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 210207,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1937,
+    "Object Name": "Fruit dish",
+    "Title": "Fruit dish (part of a service)",
+    "Culture": "French, Sèvres",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 1648563892,
+    "Artist Role": "Manufactory|Decorator",
+    "Artist Prefix": " | ",
+    "Artist Display Name": "Sèvres Manufactory|Nicolas Catrice",
+    "Artist Display Bio": "French, 1740–present|active 1757–74",
+    "Artist Suffix": " | ",
+    "Artist Alpha Sort": "Sèvres Manufactory|Catrice Nicolas",
+    "Artist Nationality": "French| ",
+    "Artist Begin Date": "1740      |1727      ",
+    "Artist End Date": "9999      |1804      ",
+    "Artist Gender": "|",
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500054661|http://vocab.getty.edu/page/ulan/500111948",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q653307|",
+    "Object Date": 1772,
+    "Object Begin Date": 1772,
+    "Object End Date": 1772,
+    "Medium": "Hard-paste porcelain",
+    "Dimensions": "H. 1 1/2 in. (3.8 cm.); W. 8 1/4 in. (21.0 cm.)",
+    "Credit Line": "Bequest of Emma T. Gary, 1934",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Ceramics-Porcelain",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/210207",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Flowers",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300132399",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q506"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/110607.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 164856,
+        "role": "Manufactory",
+        "name": "Sèvres Manufactory",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500054661",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q653307",
+        "gender": ""
+      },
+      {
+        "constituentID": 38920,
+        "role": "Decorator",
+        "name": "Nicolas Catrice",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500111948",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Other",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Diameter": 21
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 3.8
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Flowers",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132399",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q506"
+      }
+    ]
+  }
+}

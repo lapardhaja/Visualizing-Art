@@ -1,0 +1,90 @@
+{
+  "object_id": 12768,
+  "excel_metadata": {
+    "Object Number": "63.200.6",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 12768,
+    "Gallery Number": NaN,
+    "Department": "The American Wing",
+    "AccessionYear": 1963.0,
+    "Object Name": "Painting",
+    "Title": "Deer—Sketch from Nature",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16510.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Arthur Fitzwilliam Tait",
+    "Artist Display Bio": "American (born England), Liverpool 1819–1905 Yonkers, New York",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Tait, Arthur Fitzwilliam",
+    "Artist Nationality": "American, born England",
+    "Artist Begin Date": "1819",
+    "Artist End Date": "1905",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500023688",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q8205641",
+    "Object Date": "ca. 1882",
+    "Object Begin Date": 1879,
+    "Object End Date": 1882,
+    "Medium": "Oil on canvas",
+    "Dimensions": "11 1/2 x 14 in. (29.2 x 35.6 cm)",
+    "Credit Line": "Gift of Mrs. Darwin S. Morse, 1963",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/12768",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19925536",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Deer",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300250308",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q685795"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/ap63.200.6.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 165107,
+        "role": "Artist",
+        "name": "Arthur Fitzwilliam Tait",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500023688",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q8205641",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 29.2,
+          "Width": 35.6
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Deer",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250308",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q685795"
+      }
+    ]
+  }
+}

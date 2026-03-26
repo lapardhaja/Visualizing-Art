@@ -1,0 +1,97 @@
+{
+  "object_id": 200254,
+  "excel_metadata": {
+    "Object Number": "48.187.251, .252",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 200254,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1948,
+    "Object Name": "Candlesticks",
+    "Title": "Pair of candlesticks",
+    "Culture": "French, Paris",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 3486,
+    "Artist Role": "Maker",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Jacques Delavigne",
+    "Artist Display Bio": "master 1714, recorded 1722",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Delavigne, Jacques",
+    "Artist Nationality": " ",
+    "Artist Begin Date": 1684,
+    "Artist End Date": 1752,
+    "Artist Gender": null,
+    "Artist ULAN URL": null,
+    "Artist Wikidata URL": null,
+    "Object Date": "1723–25",
+    "Object Begin Date": 1723,
+    "Object End Date": 1725,
+    "Medium": "Silver",
+    "Dimensions": "Height (each): 8 3/8 in. (21.3 cm)",
+    "Credit Line": "Bequest of Catherine D. Wentworth, 1948",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Metalwork-Silver",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/200254",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": null,
+    "Tags AAT URL": null,
+    "Tags Wikidata URL": null
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/146575.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/146576.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/146577.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/146579.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/146581.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/146578.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/146580.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 34868,
+        "role": "Maker",
+        "name": "Jacques Delavigne",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Other",
+        "elementDescription": "historic dimension",
+        "elementMeasurements": {
+          "Weight": 0.9356394
+        }
+      },
+      {
+        "elementName": "Height",
+        "elementDescription": "each",
+        "elementMeasurements": {
+          "Height": 21.272543
+        }
+      }
+    ],
+    "tags": null
+  }
+}

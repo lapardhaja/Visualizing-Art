@@ -1,0 +1,109 @@
+{
+  "object_id": 436888,
+  "excel_metadata": {
+    "Object Number": "1991.443",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436888,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1991.0,
+    "Object Name": "Painting",
+    "Title": "Allegory of Avarice",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16207.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Jacopo Ligozzi",
+    "Artist Display Bio": "Italian, Verona 1547–1627 Florence",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Ligozzi, Jacopo",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1547",
+    "Artist End Date": "1627",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500011933",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q1337128",
+    "Object Date": NaN,
+    "Object Begin Date": 1567,
+    "Object End Date": 1626,
+    "Medium": "Oil on canvas",
+    "Dimensions": "54 7/8 x 33 1/4 in. (139.4 x 84.5 cm)",
+    "Credit Line": "Gift of Eric Seiler and Darcy Bradbury, and Edward A. and Karen S. W. Friedman, 1991",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436888",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19905097",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Skeletons|Women|Allegory",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300191778|http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/aat/300055866",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q7881|https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q18535"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-17371-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162072,
+        "role": "Artist",
+        "name": "Jacopo Ligozzi",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500011933",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1337128",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 139.4,
+          "Width": 84.5
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 6.350013,
+          "Height": 154.9403,
+          "Width": 97.7902
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Skeletons",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300191778",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q7881"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Allegory",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300055866",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q18535"
+      }
+    ]
+  }
+}

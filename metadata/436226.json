@@ -1,0 +1,109 @@
+{
+  "object_id": 436226,
+  "excel_metadata": {
+    "Object Number": "92.10.42",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436226,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1892.0,
+    "Object Name": "Painting",
+    "Title": "Homeward Bound: \"The Great Eastern\"",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16626.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Robert Charles Dudley",
+    "Artist Display Bio": "British, 1826–1909",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Dudley, Robert Charles",
+    "Artist Nationality": "British",
+    "Artist Begin Date": "1826",
+    "Artist End Date": "1909",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500121813",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q20830848",
+    "Object Date": "ca. 1866",
+    "Object Begin Date": 1861,
+    "Object End Date": 1871,
+    "Medium": "Oil on canvas",
+    "Dimensions": "44 3/4 x 67 1/4 in. (113.7 x 170.8 cm)",
+    "Credit Line": "Gift of Cyrus W. Field, 1892",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436226",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912704",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Boats|Ships|Transatlantic Cable",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300178749|http://vocab.getty.edu/page/aat/300082981| ",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q35872|https://www.wikidata.org/wiki/Q11446|https://www.wikidata.org/wiki/Q2395922"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/256657.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 166262,
+        "role": "Artist",
+        "name": "Robert Charles Dudley",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500121813",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q20830848",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 113.7,
+          "Width": 170.8
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 8.255016,
+          "Height": 110.49022,
+          "Width": 84.45517
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Boats",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300178749",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q35872"
+      },
+      {
+        "term": "Ships",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300082981",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q11446"
+      },
+      {
+        "term": "Transatlantic Cable",
+        "AAT_URL": null,
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q2395922"
+      }
+    ]
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "object_id": 64891,
+  "excel_metadata": {
+    "Object Number": "2002.177",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 64891,
+    "Gallery Number": NaN,
+    "Department": "Asian Art",
+    "AccessionYear": 2002.0,
+    "Object Name": "Painting",
+    "Title": NaN,
+    "Culture": "Western India, Rajasthan, Udaipur",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 1554.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": "Attributed to",
+    "Artist Display Name": "Stipple Master",
+    "Artist Display Bio": "Indian, active ca. 1690–1715",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Stipple Master",
+    "Artist Nationality": "Indian",
+    "Artist Begin Date": "1680",
+    "Artist End Date": "1725",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": NaN,
+    "Artist Wikidata URL": NaN,
+    "Object Date": "ca. 1700–1710",
+    "Object Begin Date": 1690,
+    "Object End Date": 1720,
+    "Medium": "Opaque watercolor and ink on paper",
+    "Dimensions": "Page: 14 11/16 x 12 1/8 in. (37.3 x 30.8 cm)\r\nImage: 13 3/16 x 10 3/4 in. (33.5 x 27.3 cm)",
+    "Credit Line": "Cynthia Hazen Polsky and Leon B. Polsky Fund, 2002",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/64891",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q78717387",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": NaN,
+    "Tags AAT URL": NaN,
+    "Tags Wikidata URL": NaN
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/as/original/DT5391.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/as/original/2002_177_B2.JPG"
+    ],
+    "constituents": [
+      {
+        "constituentID": 15542,
+        "role": "Artist",
+        "name": "Attributed to Stipple Master",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 53.0226,
+          "Width": 45.0851
+        }
+      },
+      {
+        "elementName": "Sheet",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 37.306324,
+          "Width": 30.797562
+        }
+      },
+      {
+        "elementName": "Image",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 33.49632,
+          "Width": 27.305054
+        }
+      }
+    ],
+    "tags": null
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "object_id": 193839,
+  "excel_metadata": {
+    "Object Number": "17.190.1157",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 193839,
+    "Gallery Number": NaN,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1917.0,
+    "Object Name": "Snuffbox, painting",
+    "Title": "Snuffbox with household scenes",
+    "Culture": "French, Paris",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 3412.0,
+    "Artist Role": "Maker",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Jean-Joseph Barrière",
+    "Artist Display Bio": "French, apprenticed 1750, master 1763, active 1793",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Barrière, Jean-Joseph",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1733",
+    "Artist End Date": "1833",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500524762",
+    "Artist Wikidata URL": NaN,
+    "Object Date": "1769–70",
+    "Object Begin Date": 1769,
+    "Object End Date": 1770,
+    "Medium": "Gold",
+    "Dimensions": "3 × 2 7/16 in. (7.6 × 6.2 cm)",
+    "Credit Line": "Gift of J. Pierpont Morgan, 1917",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Metalwork-Gold and Platinum|Miniatures",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/193839",
+    "Object Wikidata URL": NaN,
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Children|Men|Women|Genre Scene",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025945|http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/aat/300139140",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q7569|https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q214127"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/39617.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 34126,
+        "role": "Maker",
+        "name": "Jean-Joseph Barrière",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500524762",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 7.620015,
+          "Width": 6.1912622
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Children",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025945",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q7569"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Genre Scene",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300139140",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q214127"
+      }
+    ]
+  }
+}

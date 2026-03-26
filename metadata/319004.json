@@ -1,0 +1,93 @@
+{
+  "object_id": 319004,
+  "excel_metadata": {
+    "Object Number": "2005.255.3",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 319004,
+    "Gallery Number": null,
+    "Department": "Arts of Africa, Oceania, and the Americas",
+    "AccessionYear": 2005,
+    "Object Name": "Female figure",
+    "Title": "Female Ancestor Figure",
+    "Culture": "Nayarit",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": null,
+    "Artist Role": null,
+    "Artist Prefix": null,
+    "Artist Display Name": null,
+    "Artist Display Bio": null,
+    "Artist Suffix": null,
+    "Artist Alpha Sort": null,
+    "Artist Nationality": null,
+    "Artist Begin Date": null,
+    "Artist End Date": null,
+    "Artist Gender": null,
+    "Artist ULAN URL": null,
+    "Artist Wikidata URL": null,
+    "Object Date": "100 BCE–200 CE",
+    "Object Begin Date": -75,
+    "Object End Date": 225,
+    "Medium": "Ceramic",
+    "Dimensions": "H. 19 3/4 × W. 8 7/8 × D. 6 3/8 in. (50.2 × 22.5 × 16.2 cm)",
+    "Credit Line": "Gift of Jill and Alan Rappaport, 2005",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": "Nayarit",
+    "Country": "Mexico",
+    "Region": "Mesoamerica",
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Ceramics-Sculpture",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/319004",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Human Figures",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300404114",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q5937779"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ao/original/DP229190.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ao/original/DP230683.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 223227,
+        "role": "Artist",
+        "name": "Ixtlán del Río artist(s)",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 16.192532,
+          "Height": 50.1651,
+          "Width": 22.542545
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Human Figures",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300404114",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q5937779"
+      }
+    ]
+  }
+}

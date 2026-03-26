@@ -1,0 +1,109 @@
+{
+  "object_id": 437325,
+  "excel_metadata": {
+    "Object Number": "25.110.21",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437325,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1925.0,
+    "Object Name": "Painting",
+    "Title": "Margherita Gonzaga (1591–1632), Princess of Mantua",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16359.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Frans Pourbus the Younger",
+    "Artist Display Bio": "Netherlandish, Antwerp 1569–1622 Paris",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Pourbus, Frans, the Younger",
+    "Artist Nationality": "Netherlandish",
+    "Artist Begin Date": "1569",
+    "Artist End Date": "1622",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500008791",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q934540",
+    "Object Date": NaN,
+    "Object Begin Date": 1589,
+    "Object End Date": 1622,
+    "Medium": "Oil on canvas",
+    "Dimensions": "36 1/2 × 27 1/4 in. (92.7 × 69.2 cm)\r\n",
+    "Credit Line": "Bequest of Collis P. Huntington, 1900",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437325",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912649",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Princesses|Portraits|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300155241|http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q863048|https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-24151-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 163599,
+        "role": "Artist",
+        "name": "Frans Pourbus the Younger",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500008791",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q934540",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 92.7,
+          "Width": 69.2
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 5.7150116,
+          "Height": 111.76022,
+          "Width": 86.360176
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Princesses",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300155241",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q863048"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

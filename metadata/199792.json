@@ -1,0 +1,105 @@
+{
+  "object_id": 199792,
+  "excel_metadata": {
+    "Object Number": "47.51.1",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 199792,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1947,
+    "Object Name": "Coffeepot",
+    "Title": "Coffeepot (part of a set)",
+    "Culture": "Russian, St. Petersburg",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 3415716234,
+    "Artist Role": "Maker|Artist",
+    "Artist Prefix": " |After a painting by",
+    "Artist Display Name": "Johan Henrik Blom|Pietro Rotari",
+    "Artist Display Bio": "Finnish, master 1766, died 1805|Italian, Verona 1707–1762 St. Petersburg",
+    "Artist Suffix": " | ",
+    "Artist Alpha Sort": "Blom Johan Henrik|Rotari, Pietro",
+    "Artist Nationality": "Finish|Italian",
+    "Artist Begin Date": "1705      |1707      ",
+    "Artist End Date": "1805      |1762      ",
+    "Artist Gender": "|",
+    "Artist ULAN URL": "(not assigned)|http://vocab.getty.edu/page/ulan/500013152",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q4088391|https://www.wikidata.org/wiki/Q1361950",
+    "Object Date": 1773,
+    "Object Begin Date": 1773,
+    "Object End Date": 1773,
+    "Medium": "Silver, parcel gilt, enamel, wood",
+    "Dimensions": "Height: 10 1/4 in. (26 cm)",
+    "Credit Line": "Rogers Fund, 1947",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Metalwork-Silver In Combination",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/199792",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DT5156.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/ES7356.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/138427.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 34157,
+        "role": "Maker",
+        "name": "Johan Henrik Blom",
+        "constituentULAN_URL": "(not assigned)",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q4088391",
+        "gender": ""
+      },
+      {
+        "constituentID": 162343,
+        "role": "Artist",
+        "name": "After a painting by Pietro Rotari",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500013152",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1361950",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Height",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 26.035051
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "object_id": 441967,
+  "excel_metadata": {
+    "Object Number": "2012.447",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 441967,
+    "Gallery Number": 807.0,
+    "Department": "European Paintings",
+    "AccessionYear": 2012.0,
+    "Object Name": "Painting",
+    "Title": "View over Hallingdal",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16180.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Johan Christian Dahl",
+    "Artist Display Bio": "Norwegian, Bergen 1788–1857 Dresden",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Dahl, Johan Christian",
+    "Artist Nationality": "Norwegian",
+    "Artist Begin Date": "1788",
+    "Artist End Date": "1857",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500002468",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q164735",
+    "Object Date": "1844",
+    "Object Begin Date": 1844,
+    "Object End Date": 1844,
+    "Medium": "Oil on canvas",
+    "Dimensions": "9 1/2 x 14 3/8 in. (24.1 x 36.5 cm)",
+    "Credit Line": "Gift of Asbjorn R. Lunde, in memory of his brother, Karl Lunde, 2012",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/441967",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19913541",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Landscapes",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300132294",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q191163"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP278466.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 161802,
+        "role": "Artist",
+        "name": "Johan Christian Dahl",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500002468",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q164735",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 5.7150116,
+          "Height": 38.7,
+          "Width": 50.4826
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 24.1,
+          "Width": 36.5
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Landscapes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+      }
+    ]
+  }
+}

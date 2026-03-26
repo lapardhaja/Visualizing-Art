@@ -1,0 +1,84 @@
+{
+  "object_id": 466100,
+  "excel_metadata": {
+    "Object Number": 1982.48,
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 466100,
+    "Gallery Number": null,
+    "Department": "Medieval Art",
+    "AccessionYear": 1982,
+    "Object Name": "Plaque",
+    "Title": "The Man of Sorrows",
+    "Culture": "Italian",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": null,
+    "Artist Role": null,
+    "Artist Prefix": null,
+    "Artist Display Name": null,
+    "Artist Display Bio": null,
+    "Artist Suffix": null,
+    "Artist Alpha Sort": null,
+    "Artist Nationality": null,
+    "Artist Begin Date": null,
+    "Artist End Date": null,
+    "Artist Gender": null,
+    "Artist ULAN URL": null,
+    "Artist Wikidata URL": null,
+    "Object Date": "last quarter 14th century",
+    "Object Begin Date": 1375,
+    "Object End Date": 1400,
+    "Medium": "Champlevé enamel, gilded copper",
+    "Dimensions": "Overall: 4 1/8 x 3 1/8 x 1/16 in. (10.4 x 8 x 0.2 cm)",
+    "Credit Line": "Gift of Georges Seligmann, in memory of his wife, Edna, his father, Simon Seligmann, and his brother, René, 1982",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Enamels-Champlevé",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/466100",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Christ",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901000087",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q642420"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/md/original/DP-34058-001.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/md/original/sf1982-480s2.jpg"
+    ],
+    "constituents": null,
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 10.4,
+          "Thickness": 0.2,
+          "Width": 8
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Christ",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+      }
+    ]
+  }
+}

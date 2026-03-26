@@ -1,0 +1,104 @@
+{
+  "object_id": 13065,
+  "excel_metadata": {
+    "Object Number": "1976.106.1",
+    "Is Highlight": true,
+    "Is Timeline Work": false,
+    "Is Public Domain": false,
+    "Object ID": 13065,
+    "Gallery Number": 766.0,
+    "Department": "The American Wing",
+    "AccessionYear": 1976.0,
+    "Object Name": "Painting",
+    "Title": "Lair of the Sea Serpent",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16261.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Elihu Vedder",
+    "Artist Display Bio": "American, New York 1836–1923 Rome",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Vedder, Elihu",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1836",
+    "Artist End Date": "1923",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500032587",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q389726",
+    "Object Date": "ca. 1899",
+    "Object Begin Date": 1896,
+    "Object End Date": 1899,
+    "Medium": "Oil on canvas",
+    "Dimensions": "12 x 30 in. (30.5 x 76.2 cm)",
+    "Credit Line": "Gift of Mrs. Harold G. Henderson, 1976",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/13065",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20169678",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Serpents|Beaches",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300417734|http://vocab.getty.edu/page/aat/300008816",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q2102|https://www.wikidata.org/wiki/Q40080"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/ap1976.106.1.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162614,
+        "role": "Artist",
+        "name": "Elihu Vedder",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500032587",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q389726",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 30.5,
+          "Width": 76.2
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 9.3,
+          "Height": 62.2,
+          "Width": 106.7
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Serpents",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300417734",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q2102"
+      },
+      {
+        "term": "Beaches",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300008816",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q40080"
+      }
+    ]
+  }
+}

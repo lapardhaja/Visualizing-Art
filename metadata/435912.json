@@ -1,0 +1,122 @@
+{
+  "object_id": 435912,
+  "excel_metadata": {
+    "Object Number": "32.100.124",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 435912,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1932.0,
+    "Object Name": "Painting",
+    "Title": "Charles IX (1550–1574), King of France",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16330.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": "Style of",
+    "Artist Display Name": "François Clouet",
+    "Artist Display Bio": "French, painted shortly after 1561",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Clouet, François",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1536",
+    "Artist End Date": "1572",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500015977",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q336747",
+    "Object Date": NaN,
+    "Object Begin Date": 1561,
+    "Object End Date": 1566,
+    "Medium": "Oil on wood",
+    "Dimensions": "12 3/8 x 9 in. (31.4 x 22.9 cm)",
+    "Credit Line": "The Friedsam Collection, Bequest of Michael Friedsam, 1931",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/435912",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912319",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Charles IX|Kings|Men|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ulan/500241470|http://vocab.getty.edu/page/aat/300025481|http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q134309|https://www.wikidata.org/wiki/Q12097|https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-19300-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 163307,
+        "role": "Artist",
+        "name": "Style of François Clouet",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500015977",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q336747",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 31.4,
+          "Width": 22.9
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": "F.32.100.124",
+        "elementMeasurements": {
+          "Depth": 4.4450088,
+          "Height": 41.27508,
+          "Width": 33.337566
+        }
+      },
+      {
+        "elementName": "Glazing",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 31.908813,
+          "Width": 24.44755
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Charles IX",
+        "AAT_URL": "http://vocab.getty.edu/page/ulan/500241470",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134309"
+      },
+      {
+        "term": "Kings",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025481",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q12097"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

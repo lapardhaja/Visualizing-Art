@@ -1,0 +1,88 @@
+{
+  "object_id": 207700,
+  "excel_metadata": {
+    "Object Number": "1987.281a, b",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 207700,
+    "Gallery Number": 522,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1987,
+    "Object Name": "Side table",
+    "Title": "Side table",
+    "Culture": "French",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 3905,
+    "Artist Role": "Designer",
+    "Artist Prefix": "after a design by",
+    "Artist Display Name": "Charles Lebrun",
+    "Artist Display Bio": "1619–1690",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Lebrun Charles",
+    "Artist Nationality": " ",
+    "Artist Begin Date": 1619,
+    "Artist End Date": 1690,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500016215",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q271676",
+    "Object Date": "ca. 1685",
+    "Object Begin Date": 1680,
+    "Object End Date": 1690,
+    "Medium": "Carved and gilded oak, fleur-de-pêche marble top",
+    "Dimensions": "Overall: 31 1/2 × 77 × 32 1/4 in. (80 × 195.6 × 81.9 cm)",
+    "Credit Line": "Wrightsman Fund, 1987",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Woodwork-Furniture",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/207700",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q116307209",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": null,
+    "Tags AAT URL": null,
+    "Tags Wikidata URL": null
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DT5749.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/DT5750.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/ES5086.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 39054,
+        "role": "Designer",
+        "name": "after a design by Charles Lebrun",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500016215",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q271676",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 81.91516,
+          "Height": 80.01016,
+          "Width": 195.5804
+        }
+      }
+    ],
+    "tags": null
+  }
+}

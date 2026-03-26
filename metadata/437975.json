@@ -1,0 +1,105 @@
+{
+  "object_id": 437975,
+  "excel_metadata": {
+    "Object Number": "87.15.23",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437975,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1887.0,
+    "Object Name": "Painting",
+    "Title": "Sunset after a Storm on the Coast of Sicily",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16156.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Andreas Achenbach",
+    "Artist Display Bio": "German, Kassel 1815–1910 Düsseldorf",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Achenbach, Andreas",
+    "Artist Nationality": "German",
+    "Artist Begin Date": "1815",
+    "Artist End Date": "1910",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500025891",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q76416",
+    "Object Date": "1853",
+    "Object Begin Date": 1853,
+    "Object End Date": 1853,
+    "Medium": "Oil on canvas",
+    "Dimensions": "32 3/4 x 42 1/4 in. (83.2 x 107.3 cm)",
+    "Credit Line": "Catharine Lorillard Wolfe Collection, Bequest of Catharine Lorillard Wolfe, 1887",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437975",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912890",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Seas|Landscapes|Evening|Boats",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300008694|http://vocab.getty.edu/page/aat/300132294|http://vocab.getty.edu/page/aat/300343633|http://vocab.getty.edu/page/aat/300178749",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q165|https://www.wikidata.org/wiki/Q191163|https://www.wikidata.org/wiki/Q7725|https://www.wikidata.org/wiki/Q35872"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-34962-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 161567,
+        "role": "Artist",
+        "name": "Andreas Achenbach",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500025891",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q76416",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 83.2,
+          "Width": 107.3
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Seas",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300008694",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q165"
+      },
+      {
+        "term": "Landscapes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+      },
+      {
+        "term": "Evening",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300343633",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q7725"
+      },
+      {
+        "term": "Boats",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300178749",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q35872"
+      }
+    ]
+  }
+}

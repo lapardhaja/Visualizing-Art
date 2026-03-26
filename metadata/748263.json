@@ -1,0 +1,105 @@
+{
+  "object_id": 748263,
+  "excel_metadata": {
+    "Object Number": "2020.323.19a, b",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 748263,
+    "Gallery Number": NaN,
+    "Department": "Asian Art",
+    "AccessionYear": 2020.0,
+    "Object Name": "Paintings",
+    "Title": "長澤蘆雪筆　岩上猿・猿回し師唐子狗児図|Monkey on a Rock; Monkey Trainer with Chinese Children and Puppy",
+    "Culture": "Japan",
+    "Period": "Edo period (1615–1868)",
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 1148.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Nagasawa Rosetsu",
+    "Artist Display Bio": "Japanese, 1754–1799",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Nagasawa Rosetsu",
+    "Artist Nationality": "Japanese",
+    "Artist Begin Date": "1754",
+    "Artist End Date": "1799",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500323051",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q1632536",
+    "Object Date": "late 1790s",
+    "Object Begin Date": 1790,
+    "Object End Date": 1799,
+    "Medium": "Pair of paintings; ink and color on paper",
+    "Dimensions": "Image (each): 44 9/16 × 17 13/16 in. (113.2 × 45.2 cm)\r\nOverall with mounting (each): 76 in. × 21 9/16 in. (193 × 54.8 cm)\r\nOverall with knobs (each): 76 in. × 23 9/16 in. (193 × 59.8 cm)",
+    "Credit Line": "Gift of Florence and Herbert Irving, 2020",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/748263",
+    "Object Wikidata URL": NaN,
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": NaN,
+    "Tags AAT URL": NaN,
+    "Tags Wikidata URL": NaN
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/as/original/LC-TR_484_1a_c_2018-001.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/as/original/LC-TR_484_2ab_2018_sr1-006.jpg",
+      "https://images.metmuseum.org/CRDImages/as/original/LC-TR_484_2ab_2018_sr1-005.jpg",
+      "https://images.metmuseum.org/CRDImages/as/original/LC-TR_484_2ab_2018_sr1-008.jpg",
+      "https://images.metmuseum.org/CRDImages/as/original/LC-TR_484_2ab_2018_sr1-007.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 11487,
+        "role": "Artist",
+        "name": "Nagasawa Rosetsu",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500323051",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1632536",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Image",
+        "elementDescription": "each",
+        "elementMeasurements": {
+          "Height": 113.18898,
+          "Width": 45.24384
+        }
+      },
+      {
+        "elementName": "Overall with knobs",
+        "elementDescription": "each",
+        "elementMeasurements": {
+          "Height": 193.04039,
+          "Width": 59.84887
+        }
+      },
+      {
+        "elementName": "Overall with mounting",
+        "elementDescription": "each",
+        "elementMeasurements": {
+          "Height": 193.04039,
+          "Width": 54.76886
+        }
+      }
+    ],
+    "tags": null
+  }
+}

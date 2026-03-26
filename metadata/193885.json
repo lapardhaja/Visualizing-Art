@@ -1,0 +1,106 @@
+{
+  "object_id": 193885,
+  "excel_metadata": {
+    "Object Number": "17.190.1213",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 193885,
+    "Gallery Number": 545.0,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1917.0,
+    "Object Name": "Snuffbox, painting",
+    "Title": "Snuffbox with grisaille decoration of Cupid and Venus",
+    "Culture": "French, Paris",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 340633411.0,
+    "Artist Role": "Maker|Maker",
+    "Artist Prefix": " | ",
+    "Artist Display Name": "Jean-Baptiste Carnay|Jean-François Defer",
+    "Artist Display Bio": "master 1764, recorded 1793|master 1766, recorded 1789",
+    "Artist Suffix": " | ",
+    "Artist Alpha Sort": "Carnay Jean-Baptiste|DEFER JEAN-FRANÇOIS",
+    "Artist Nationality": " | ",
+    "Artist Begin Date": "1734      |1736      ",
+    "Artist End Date": "1823      |1819      ",
+    "Artist Gender": "|",
+    "Artist ULAN URL": "|",
+    "Artist Wikidata URL": "|",
+    "Object Date": "ca. 1766",
+    "Object Begin Date": 1761,
+    "Object End Date": 1771,
+    "Medium": "Gold, enamel",
+    "Dimensions": "Overall: 3 5/8 × 3 1/2 in. (9.2 × 8.9 cm)",
+    "Credit Line": "Gift of J. Pierpont Morgan, 1917",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Metalwork-Gold and Platinum|Miniatures",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/193885",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q116240812",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Cupid|Venus",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300380105|http://vocab.getty.edu/page/ia/901001064",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q5011|https://www.wikidata.org/wiki/Q47652"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/LC-17_190_1213-001.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/LC-17_190_1213-002.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/LC-17_190_1213-003.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 34063,
+        "role": "Maker",
+        "name": "Jean-Baptiste Carnay",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      },
+      {
+        "constituentID": 34115,
+        "role": "Maker",
+        "name": "Jean-François Defer",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 9.2,
+          "Width": 8.9
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Cupid",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300380105",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q5011"
+      },
+      {
+        "term": "Venus",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901001064",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q47652"
+      }
+    ]
+  }
+}

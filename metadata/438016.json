@@ -1,0 +1,104 @@
+{
+  "object_id": 438016,
+  "excel_metadata": {
+    "Object Number": "2003.20.13",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 438016,
+    "Gallery Number": 823.0,
+    "Department": "European Paintings",
+    "AccessionYear": 2003.0,
+    "Object Name": "Painting",
+    "Title": "The Streetwalker",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16256.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Henri de Toulouse-Lautrec",
+    "Artist Display Bio": "French, Albi 1864–1901 Saint-André-du-Bois",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Toulouse-Lautrec, Henri de",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1864",
+    "Artist End Date": "1901",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500029114",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q82445",
+    "Object Date": "ca. 1890–91",
+    "Object Begin Date": 1890,
+    "Object End Date": 1891,
+    "Medium": "Oil on cardboard",
+    "Dimensions": "25 1/2 x 21 in. (64.8 x 53.3 cm)",
+    "Credit Line": "The Walter H. and Leonore Annenberg Collection, Bequest of Walter H. Annenberg, 2002",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/438016",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912009",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Portraits|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT10262.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162561,
+        "role": "Artist",
+        "name": "Henri de Toulouse-Lautrec",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500029114",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q82445",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 10.795022,
+          "Height": 99.3777,
+          "Width": 86.67767
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 64.8,
+          "Width": 53.3
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

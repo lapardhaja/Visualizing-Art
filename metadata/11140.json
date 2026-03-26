@@ -1,0 +1,112 @@
+{
+  "object_id": 11140,
+  "excel_metadata": {
+    "Object Number": "50.41",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 11140,
+    "Gallery Number": 767.0,
+    "Department": "The American Wing",
+    "AccessionYear": 1950.0,
+    "Object Name": "Painting",
+    "Title": "Snap the Whip",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16199.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Winslow Homer",
+    "Artist Display Bio": "American, Boston, Massachusetts 1836–1910 Prouts Neck, Maine",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Homer, Winslow",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1836",
+    "Artist End Date": "1910",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500019202",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q344838",
+    "Object Date": "1872",
+    "Object Begin Date": 1872,
+    "Object End Date": 1872,
+    "Medium": "Oil on canvas",
+    "Dimensions": "12 x 20 in. (30.5 x 50.8 cm)\r\nFramed: 24 x 32 x 5 in. (61 x 81.3 x 12.7 cm)",
+    "Credit Line": "Gift of Christian A. Zabriskie, 1950",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/11140",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19925470",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Games|Boys|Playing",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300069657|http://vocab.getty.edu/page/aat/300247598| ",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q11410|https://www.wikidata.org/wiki/Q3010|https://www.wikidata.org/wiki/Q1150958"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DP-20820-001.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ad/original/DP-20820-002.jpg",
+      "https://images.metmuseum.org/CRDImages/ad/original/DT1395.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 161996,
+        "role": "Artist",
+        "name": "Winslow Homer",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500019202",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q344838",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 12.7,
+          "Height": 61,
+          "Width": 81.3
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 30.5,
+          "Width": 50.8
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Boys",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300247598",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3010"
+      },
+      {
+        "term": "Playing",
+        "AAT_URL": null,
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q1150958"
+      },
+      {
+        "term": "Games",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300069657",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q11410"
+      }
+    ]
+  }
+}

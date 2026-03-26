@@ -1,0 +1,105 @@
+{
+  "object_id": 438381,
+  "excel_metadata": {
+    "Object Number": "2001.652",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 438381,
+    "Gallery Number": 812.0,
+    "Department": "European Paintings",
+    "AccessionYear": 2001.0,
+    "Object Name": "Painting",
+    "Title": "View from the Quai d'Orsay",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16477.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Johan Barthold Jongkind",
+    "Artist Display Bio": "Dutch, Latrop 1819–1891 La-Côte-Saint-André",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Jongkind, Johan Barthold",
+    "Artist Nationality": "Dutch",
+    "Artist Begin Date": "1819",
+    "Artist End Date": "1891",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500028269",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q704585",
+    "Object Date": "1854",
+    "Object Begin Date": 1854,
+    "Object End Date": 1854,
+    "Medium": "Oil on canvas, mounted on wood",
+    "Dimensions": "17 1/4 x 26 in. (43.8 x 66 cm)",
+    "Credit Line": "Bequest of Meta Cecile Schwarz, 2001",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/438381",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912657",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Rivers|Boats|Paris",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300008707|http://vocab.getty.edu/page/aat/300178749|http://vocab.getty.edu/page/tgn/7008038",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q4022|https://www.wikidata.org/wiki/Q35872|https://www.wikidata.org/wiki/Q90"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT5338.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 164779,
+        "role": "Artist",
+        "name": "Johan Barthold Jongkind",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500028269",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q704585",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 43.8,
+          "Width": 66
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Rivers",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300008707",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q4022"
+      },
+      {
+        "term": "Boats",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300178749",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q35872"
+      },
+      {
+        "term": "Paris",
+        "AAT_URL": "http://vocab.getty.edu/page/tgn/7008038",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q90"
+      }
+    ]
+  }
+}

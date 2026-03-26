@@ -1,0 +1,104 @@
+{
+  "object_id": 464605,
+  "excel_metadata": {
+    "Object Number": "17.190.736",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 464605,
+    "Gallery Number": null,
+    "Department": "Medieval Art",
+    "AccessionYear": 1917,
+    "Object Name": "Relief",
+    "Title": "Scenes from the Life of Christ",
+    "Culture": "Spanish",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 16360,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Gil de Siloe",
+    "Artist Display Bio": "Spanish, active 1475–1505",
+    "Artist Suffix": "(?)",
+    "Artist Alpha Sort": "Siloe, Gil de",
+    "Artist Nationality": "Spanish",
+    "Artist Begin Date": 1475,
+    "Artist End Date": 1505,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500031391",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q1283976",
+    "Object Date": "15th–18th century",
+    "Object Begin Date": 1400,
+    "Object End Date": 1799,
+    "Medium": "Walnut",
+    "Dimensions": "Overall: 33 1/2 x 22 x 5 1/2 in. (85.1 x 55.9 x 14 cm)",
+    "Credit Line": "Gift of J. Pierpont Morgan, 1917",
+    "Geography Type": "Made in",
+    "City": null,
+    "State": null,
+    "County": "Castile-Burgos",
+    "Country": "Spain",
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Sculpture-Wood",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/464605",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Bearing the Cross|Crucifixion|Entombment",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901001193|http://vocab.getty.edu/page/aat/300404300|http://vocab.getty.edu/page/ia/901001053",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q3399226|https://www.wikidata.org/wiki/Q3235597|https://www.wikidata.org/wiki/Q51637"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/md/original/cdi17-190-736s1.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/md/original/cdi17-190-736d1.jpg",
+      "https://images.metmuseum.org/CRDImages/md/original/cdi17-190-736d2.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 163605,
+        "role": "Artist",
+        "name": "Gil de Siloe",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500031391",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1283976",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 13.97,
+          "Height": 85.0902,
+          "Width": 55.8801
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Bearing the Cross",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901001193",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3399226"
+      },
+      {
+        "term": "Crucifixion",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300404300",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3235597"
+      },
+      {
+        "term": "Entombment",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901001053",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q51637"
+      }
+    ]
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "object_id": 209579,
+  "excel_metadata": {
+    "Object Number": "35.80.1",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 209579,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1935,
+    "Object Name": "Fan",
+    "Title": "Brisé fan with depiction of allegorical figure of Music",
+    "Culture": "British",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 9132916427,
+    "Artist Role": "Artist|Artist",
+    "Artist Prefix": "After|Central engraving possibly",
+    "Artist Display Name": "Giovanni Battista Cipriani|Francesco Bartolozzi",
+    "Artist Display Bio": "Italian, Florence 1727–1785 Hammersmith (active London)|Italian, Florence 1728–1815 Lisbon",
+    "Artist Suffix": " | ",
+    "Artist Alpha Sort": "Cipriani, Giovanni Battista|Bartolozzi, Francesco",
+    "Artist Nationality": "Italian|Italian",
+    "Artist Begin Date": "1727      |1728      ",
+    "Artist End Date": "1785      |1815      ",
+    "Artist Gender": "|",
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500031736|http://vocab.getty.edu/page/ulan/500032318",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q2687759|https://www.wikidata.org/wiki/Q734889",
+    "Object Date": "last quarter 18th century",
+    "Object Begin Date": 1775,
+    "Object End Date": 1799,
+    "Medium": "Pierced, gilded, and painted ivory; painted paper; printed and painted silk ribbon; glass",
+    "Dimensions": "confirmed: 10 1/2 × 17 3/4 × 1 1/4 in. (26.7 × 45.1 × 3.2 cm)",
+    "Credit Line": "Bequest of Mary Strong Shattuck, 1935",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Fans",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/209579",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Musical Instruments|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300041620|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q34379|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP-12912-042.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 164276,
+        "role": "Artist",
+        "name": "Central engraving possibly Francesco Bartolozzi",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500032318",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q734889",
+        "gender": ""
+      },
+      {
+        "constituentID": 91329,
+        "role": "Artist",
+        "name": "After Giovanni Battista Cipriani",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500031736",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q2687759",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": "confirmed",
+        "elementMeasurements": {
+          "Depth": 3.1750064,
+          "Height": 26.7,
+          "Width": 45.1
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Musical Instruments",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300041620",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q34379"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

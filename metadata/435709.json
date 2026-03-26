@@ -1,0 +1,104 @@
+{
+  "object_id": 435709,
+  "excel_metadata": {
+    "Object Number": "80.8",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": false,
+    "Object ID": 435709,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1880.0,
+    "Object Name": "Painting",
+    "Title": "John Taylor Johnston (1820–1893)",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16558.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Léon Bonnat",
+    "Artist Display Bio": "French, Bayonne 1833–1922 Monchy-Saint-Eloi",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Bonnat, Léon",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1833",
+    "Artist End Date": "1922",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500016107",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q170259",
+    "Object Date": "1880",
+    "Object Begin Date": 1880,
+    "Object End Date": 1880,
+    "Medium": "Oil on canvas",
+    "Dimensions": "52 1/2 x 44 in. (133.4 x 111.8 cm)",
+    "Credit Line": "Gift of the Trustees, 1880",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/435709",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20168339",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-17011-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 165586,
+        "role": "Artist",
+        "name": "Léon Bonnat",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500016107",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q170259",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 133.4,
+          "Width": 111.8
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 17.780035,
+          "Height": 184.15038,
+          "Width": 163.83032
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

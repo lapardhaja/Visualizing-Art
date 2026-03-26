@@ -1,0 +1,105 @@
+{
+  "object_id": 11708,
+  "excel_metadata": {
+    "Object Number": "68.222.4",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 11708,
+    "Gallery Number": NaN,
+    "Department": "The American Wing",
+    "AccessionYear": 1968.0,
+    "Object Name": "Painting, miniature",
+    "Title": "James Peale",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16221016221.0,
+    "Artist Role": "Artist|Artist",
+    "Artist Prefix": " | ",
+    "Artist Display Name": "Charles Willson Peale|James Peale",
+    "Artist Display Bio": "American, Chester, Maryland 1741–1827 Philadelphia, Pennsylvania|American, Chestertown, Maryland 1749–1831 Philadelphia, Pennsylvania",
+    "Artist Suffix": " | ",
+    "Artist Alpha Sort": "Peale, Charles Willson|Peale, James",
+    "Artist Nationality": "American|American",
+    "Artist Begin Date": "1741      |1749      ",
+    "Artist End Date": "1827      |1831      ",
+    "Artist Gender": "|",
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500017914|http://vocab.getty.edu/page/ulan/500029852",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q454945|https://www.wikidata.org/wiki/Q3161332",
+    "Object Date": "ca. 1788",
+    "Object Begin Date": 1785,
+    "Object End Date": 1788,
+    "Medium": "Watercolor on ivory",
+    "Dimensions": "1 5/8 x 1 1/4 in. (4 x 3.1 cm)",
+    "Credit Line": "Gift of J. William Middendorf II, 1968",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/11708",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19924502",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/ap68.222.4.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ad/original/191268.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 162210,
+        "role": "Artist",
+        "name": "Charles Willson Peale",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500017914",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q454945",
+        "gender": ""
+      },
+      {
+        "constituentID": 162211,
+        "role": "Artist",
+        "name": "James Peale",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500029852",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3161332",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 4,
+          "Width": 3.1
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

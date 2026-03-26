@@ -1,0 +1,95 @@
+{
+  "object_id": 438824,
+  "excel_metadata": {
+    "Object Number": "2005.477",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 438824,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 2005.0,
+    "Object Name": "Painting",
+    "Title": "Saint John the Baptist Preaching",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16227.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Mattia Preti (Il Cavalier Calabrese)",
+    "Artist Display Bio": "Italian, Taverna 1613–1699 Valletta",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Preti, Mattia (Il Cavalier Calabrese)",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1613",
+    "Artist End Date": "1699",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500012806",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q468632",
+    "Object Date": "ca. 1650",
+    "Object Begin Date": 1645,
+    "Object End Date": 1655,
+    "Medium": "Oil on canvas",
+    "Dimensions": "68 x 47 3/4 in. (172.7 x 121.3 cm)",
+    "Credit Line": "Gift of Melissa O. Aronson, in memory of Thomas P. Miller, 2005",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/438824",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19914295",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Saint John the Baptist|Sheep",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901001056|http://vocab.getty.edu/page/aat/300250284",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q40662|https://www.wikidata.org/wiki/Q7368"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP152164.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162273,
+        "role": "Artist",
+        "name": "Mattia Preti (Il Cavalier Calabrese)",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500012806",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q468632",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 172.7203,
+          "Width": 121.2852
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Sheep",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250284",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q7368"
+      },
+      {
+        "term": "Saint John the Baptist",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901001056",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q40662"
+      }
+    ]
+  }
+}

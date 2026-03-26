@@ -1,0 +1,99 @@
+{
+  "object_id": 193950,
+  "excel_metadata": {
+    "Object Number": "17.190.1303a–c",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 193950,
+    "Gallery Number": NaN,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1917.0,
+    "Object Name": "Souvenir, painting",
+    "Title": "Souvenir with portrait of a man",
+    "Culture": "possibly French",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16241.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": "Miniature attributed to",
+    "Artist Display Name": "Louis Marie Sicardi",
+    "Artist Display Bio": "French, Avignon 1743–1825 Paris",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Sicardi, Louis Marie",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1743",
+    "Artist End Date": "1825",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500025578",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q18508479",
+    "Object Date": "possibly 18th century",
+    "Object Begin Date": 1700,
+    "Object End Date": 1799,
+    "Medium": "Gold, enamel, diamonds; ivory",
+    "Dimensions": "Souvenir: no dimensions recorded;\r\nminiature, oval, sight: 1 × 3/4 in. (2.5 × 1.9 cm)",
+    "Credit Line": "Gift of J. Pierpont Morgan, 1917",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Metalwork-Gold and Platinum|Miniatures",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/193950",
+    "Object Wikidata URL": NaN,
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/39154.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/99062.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/99063.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/213627.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 162414,
+        "role": "Artist",
+        "name": "Miniature attributed to Louis Marie Sicardi",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500025578",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q18508479",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": "miniature, oval",
+        "elementMeasurements": {
+          "Height": 2.540005,
+          "Width": 1.9050038
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

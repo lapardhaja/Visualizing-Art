@@ -1,0 +1,114 @@
+{
+  "object_id": 437246,
+  "excel_metadata": {
+    "Object Number": "71.31",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437246,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1871.0,
+    "Object Name": "Painting",
+    "Title": "Interior of Saint Peter's, Rome",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16219.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Giovanni Paolo Panini",
+    "Artist Display Bio": "Italian, Piacenza 1691–1765 Rome",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Panini, Giovanni Paolo",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1691",
+    "Artist End Date": "1765",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500018296",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q286670",
+    "Object Date": "after 1754",
+    "Object Begin Date": 1754,
+    "Object End Date": 1765,
+    "Medium": "Oil on canvas",
+    "Dimensions": "29 1/8 x 39 1/4 in. (74 x 99.7 cm)",
+    "Credit Line": "Purchase, 1871",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437246",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912593",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Interiors|Churches|Crowd|Rome",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300391239|http://vocab.getty.edu/page/aat/300007466| |http://vocab.getty.edu/page/tgn/7000874",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q2998430|https://www.wikidata.org/wiki/Q16970|https://www.wikidata.org/wiki/Q13430821|https://www.wikidata.org/wiki/Q220"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP123936.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162199,
+        "role": "Artist",
+        "name": "Giovanni Paolo Panini",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500018296",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q286670",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 74,
+          "Width": 99.7
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 10.16,
+          "Height": 100.3302,
+          "Width": 126.3653
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Interiors",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300391239",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q2998430"
+      },
+      {
+        "term": "Churches",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300007466",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q16970"
+      },
+      {
+        "term": "Crowd",
+        "AAT_URL": null,
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q13430821"
+      },
+      {
+        "term": "Rome",
+        "AAT_URL": "http://vocab.getty.edu/page/tgn/7000874",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q220"
+      }
+    ]
+  }
+}

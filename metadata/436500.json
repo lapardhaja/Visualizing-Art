@@ -1,0 +1,95 @@
+{
+  "object_id": 436500,
+  "excel_metadata": {
+    "Object Number": "24.80.509",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436500,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1924.0,
+    "Object Name": "Painting, miniature",
+    "Title": "Portrait of a Man, Said to Be John Cecil (1628–1678), Fourth Earl of Exeter",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16617.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": "Attributed to",
+    "Artist Display Name": "Richard Gibson",
+    "Artist Display Bio": "British, 1605/15?–1690 London",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Gibson, Richard",
+    "Artist Nationality": "British",
+    "Artist Begin Date": "1605",
+    "Artist End Date": "1690",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500027234",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q2779250",
+    "Object Date": "ca. 1670",
+    "Object Begin Date": 1665,
+    "Object End Date": 1675,
+    "Medium": "Vellum laid on card",
+    "Dimensions": "Oval, 2 7/8 x 2 3/8 in. (72 x 59 mm)",
+    "Credit Line": "Bequest of Mary Clark Thompson, 1923",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Miniatures",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436500",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19913820",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/57101.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 166173,
+        "role": "Artist",
+        "name": "Attributed to Richard Gibson",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500027234",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q2779250",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 7.3,
+          "Width": 6
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

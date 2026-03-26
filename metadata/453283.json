@@ -1,0 +1,104 @@
+{
+  "object_id": 453283,
+  "excel_metadata": {
+    "Object Number": "1987.355.1",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 453283,
+    "Gallery Number": NaN,
+    "Department": "Islamic Art",
+    "AccessionYear": 1987.0,
+    "Object Name": "Painting",
+    "Title": "Laila and Majnun",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": NaN,
+    "Artist Role": NaN,
+    "Artist Prefix": NaN,
+    "Artist Display Name": NaN,
+    "Artist Display Bio": NaN,
+    "Artist Suffix": NaN,
+    "Artist Alpha Sort": NaN,
+    "Artist Nationality": NaN,
+    "Artist Begin Date": NaN,
+    "Artist End Date": NaN,
+    "Artist Gender": NaN,
+    "Artist ULAN URL": NaN,
+    "Artist Wikidata URL": NaN,
+    "Object Date": "mid-18th century",
+    "Object Begin Date": 1725,
+    "Object End Date": 1775,
+    "Medium": "Oil on canvas",
+    "Dimensions": "H. 36 3/8 in. (92.4 cm)\r\nW. 33 7/8 in. (86 cm)\r\nD. 3/4 in. (1.9 cm)",
+    "Credit Line": "Bequest of Charles K. Wilkinson, 1986",
+    "Geography Type": "Attributed to",
+    "City": "Shiraz",
+    "State": NaN,
+    "County": NaN,
+    "Country": "Iran",
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/453283",
+    "Object Wikidata URL": NaN,
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Couples|Men|Women|Deer|Rabbits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300379217|http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/aat/300250308|http://vocab.getty.edu/page/aat/300250218",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q219160|https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q685795|https://www.wikidata.org/wiki/Q9394"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/is/original/DT5774.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/is/original/sf1987-355-1.jpg"
+    ],
+    "constituents": null,
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 1.9050038,
+          "Height": 92.392685,
+          "Width": 86.04267
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Couples",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379217",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q219160"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Deer",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250308",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q685795"
+      },
+      {
+        "term": "Rabbits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250218",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q9394"
+      }
+    ]
+  }
+}

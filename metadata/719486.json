@@ -1,0 +1,102 @@
+{
+  "object_id": 719486,
+  "excel_metadata": {
+    "Object Number": "2016.553",
+    "Is Highlight": true,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 719486,
+    "Gallery Number": 749.0,
+    "Department": "The American Wing",
+    "AccessionYear": 2016.0,
+    "Object Name": "Painting",
+    "Title": "The Marriage of the Virgin",
+    "Culture": "Mexican",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 19272.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "José Sánchez",
+    "Artist Display Bio": "Mexican, active 1686–95",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Sánchez, José",
+    "Artist Nationality": "Mexican",
+    "Artist Begin Date": "1686",
+    "Artist End Date": "1695",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": NaN,
+    "Artist Wikidata URL": NaN,
+    "Object Date": "ca. 1690",
+    "Object Begin Date": 1685,
+    "Object End Date": 1695,
+    "Medium": "Oil on canvas",
+    "Dimensions": "50 1/4 × 72 in. (127.6 × 182.9 cm)",
+    "Credit Line": "Maria DeWitt Jesup Fund, 2016",
+    "Geography Type": "Made in",
+    "City": "Mexico City",
+    "State": NaN,
+    "County": NaN,
+    "Country": "Mexico",
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/719486",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q78613399",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Angels|Virgin Mary",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300379004|http://vocab.getty.edu/page/ia/901000032",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q235113|https://www.wikidata.org/wiki/Q345"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DP-15281-001.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ad/original/DP-15281-003.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 192725,
+        "role": "Artist",
+        "name": "José Sánchez",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 127.635254,
+          "Width": 182.88037
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Angels",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379004",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q235113"
+      },
+      {
+        "term": "Virgin Mary",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000032",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q345"
+      }
+    ]
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "object_id": 40327,
+  "excel_metadata": {
+    "Object Number": "30.32.97",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 40327,
+    "Gallery Number": NaN,
+    "Department": "Asian Art",
+    "AccessionYear": 1930.0,
+    "Object Name": "Wall painting",
+    "Title": NaN,
+    "Culture": "Central Asia",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": NaN,
+    "Artist Role": NaN,
+    "Artist Prefix": NaN,
+    "Artist Display Name": NaN,
+    "Artist Display Bio": NaN,
+    "Artist Suffix": NaN,
+    "Artist Alpha Sort": NaN,
+    "Artist Nationality": NaN,
+    "Artist Begin Date": NaN,
+    "Artist End Date": NaN,
+    "Artist Gender": NaN,
+    "Artist ULAN URL": NaN,
+    "Artist Wikidata URL": NaN,
+    "Object Date": "ca. 7th century",
+    "Object Begin Date": 550,
+    "Object End Date": 750,
+    "Medium": "Tempera on wood",
+    "Dimensions": "H. 18 5/8 in. (47.3 cm); W. 6 in. (15.2 cm); D. 3 1/4 in. (8.3 cm)",
+    "Credit Line": "Rogers Fund, 1930",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/40327",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q78860720",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Buddha",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300262950",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q7055"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/as/original/30_32_97.JPG",
+    "additionalImages": [],
+    "constituents": null,
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 8.3,
+          "Height": 47.3,
+          "Width": 15.2
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Buddha",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300262950",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q7055"
+      }
+    ]
+  }
+}

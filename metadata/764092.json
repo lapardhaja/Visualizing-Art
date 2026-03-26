@@ -1,0 +1,105 @@
+{
+  "object_id": 764092,
+  "excel_metadata": {
+    "Object Number": "2018.652.4",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 764092,
+    "Gallery Number": 757.0,
+    "Department": "The American Wing",
+    "AccessionYear": 2018.0,
+    "Object Name": "Painting",
+    "Title": "Our Lady of Mercy, called “The Pilgrim of Quito”",
+    "Culture": "Peru (Cuzco)",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16998.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Unknown",
+    "Artist Display Bio": " ",
+    "Artist Suffix": "Cuzco artist, Peru, 18th Century",
+    "Artist Alpha Sort": "Unknown",
+    "Artist Nationality": " ",
+    "Artist Begin Date": "          ",
+    "Artist End Date": "          ",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500125274",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q24238356",
+    "Object Date": "ca. 1730–40",
+    "Object Begin Date": 1730,
+    "Object End Date": 1740,
+    "Medium": "Oil and gold on canvas",
+    "Dimensions": "49 1/4 × 61 in. (125.1 × 155 cm)",
+    "Credit Line": "Gift of James Kung Wei Li, in memory of Ambassador and Mme Ti-Tsun Li, Republic of China, 2018",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/764092",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q116444998",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Madonna and Child",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/ia/901000052",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q9309699"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DP-22602-001.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ad/original/DP-22602-003.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 169986,
+        "role": "Artist",
+        "name": "Unknown",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500125274",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q24238356",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 125.09525,
+          "Width": 155
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 174,
+          "Width": 208
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Madonna and Child",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000052",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q9309699"
+      }
+    ]
+  }
+}

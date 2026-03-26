@@ -1,0 +1,93 @@
+{
+  "object_id": 206344,
+  "excel_metadata": {
+    "Object Number": "1975.433.1",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 206344,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1975,
+    "Object Name": "Bust",
+    "Title": "Fernando VI of Spain",
+    "Culture": "Chinese or Philippine",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": null,
+    "Artist Role": null,
+    "Artist Prefix": null,
+    "Artist Display Name": null,
+    "Artist Display Bio": null,
+    "Artist Suffix": null,
+    "Artist Alpha Sort": null,
+    "Artist Nationality": null,
+    "Artist Begin Date": null,
+    "Artist End Date": null,
+    "Artist Gender": null,
+    "Artist ULAN URL": null,
+    "Artist Wikidata URL": null,
+    "Object Date": "18th century",
+    "Object Begin Date": 1700,
+    "Object End Date": 1799,
+    "Medium": "Ivory, on curved ebony base",
+    "Dimensions": "figure only, confirmed: 7 × 4 5/8 × 1 3/8 in. (17.8 × 11.7 × 3.5 cm)_x000D_\non base, confirmed: 8 13/16 × 4 7/8 × 2 5/8 in. (22.4 × 12.4 × 6.7 cm)",
+    "Credit Line": "Gift of Alfred and Victoria Harris, 1975",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Sculpture-Miniature",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/206344",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP-18801-001.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/DP-18801-002.jpg"
+    ],
+    "constituents": null,
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": "on base, confirmed",
+        "elementMeasurements": {
+          "Depth": 6.6675134,
+          "Height": 22.383795,
+          "Width": 12.3825245
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": "figure only, confirmed",
+        "elementMeasurements": {
+          "Depth": 3.492507,
+          "Height": 17.780035,
+          "Width": 11.747523
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      }
+    ]
+  }
+}

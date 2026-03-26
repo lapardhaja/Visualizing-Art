@@ -1,0 +1,99 @@
+{
+  "object_id": 11976,
+  "excel_metadata": {
+    "Object Number": "09.58.1",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 11976,
+    "Gallery Number": 774.0,
+    "Department": "The American Wing",
+    "AccessionYear": 1909.0,
+    "Object Name": "Painting",
+    "Title": "Curfew Hour",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16235.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Albert Pinkham Ryder",
+    "Artist Display Bio": "American, New Bedford, Massachusetts 1847–1917 Elmhurst, New York",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Ryder, Albert Pinkham",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1847",
+    "Artist End Date": "1917",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500030492",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q948598",
+    "Object Date": "by 1882",
+    "Object Begin Date": 1881,
+    "Object End Date": 1882,
+    "Medium": "Oil on wood",
+    "Dimensions": "7 1/2 x 10 in. (19.1 x 25.4 cm)",
+    "Credit Line": "Rogers Fund, 1909",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/11976",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20173314",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Landscapes",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300132294",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q191163"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DT2945.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162359,
+        "role": "Artist",
+        "name": "Albert Pinkham Ryder",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500030492",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q948598",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 19.1,
+          "Width": 25.4
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 8.5,
+          "Height": 43.3,
+          "Width": 49.7
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Landscapes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+      }
+    ]
+  }
+}

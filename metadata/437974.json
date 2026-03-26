@@ -1,0 +1,119 @@
+{
+  "object_id": 437974,
+  "excel_metadata": {
+    "Object Number": "1996.285",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 437974,
+    "Gallery Number": 804.0,
+    "Department": "European Paintings",
+    "AccessionYear": 1996.0,
+    "Object Name": "Painting",
+    "Title": "Scene in the Jewish Quarter of Constantine",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16176.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Théodore Chassériau",
+    "Artist Display Bio": "French, Le Limon, Saint-Domingue, West Indies 1819–1856 Paris",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Chassériau, Théodore",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1819",
+    "Artist End Date": "1856",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500115358",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q342467",
+    "Object Date": "1851",
+    "Object Begin Date": 1851,
+    "Object End Date": 1851,
+    "Medium": "Oil on canvas",
+    "Dimensions": "22 3/8 x 18 1/2 in. (56.8 x 47 cm)",
+    "Credit Line": "Purchase, The Annenberg Foundation Gift, 1996",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437974",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912561",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Infants|Women|Orientalist|Sleeping|Cradles",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300189561|http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/aat/300055784|http://vocab.getty.edu/page/aat/300375130|http://vocab.getty.edu/page/aat/300038847",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q998|https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q765606|https://www.wikidata.org/wiki/Q35831|https://www.wikidata.org/wiki/Q412770"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT1038.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 161768,
+        "role": "Artist",
+        "name": "Théodore Chassériau",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115358",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q342467",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 56.8,
+          "Width": 47
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 10.16,
+          "Height": 85.0902,
+          "Width": 74.9301
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Sleeping",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300375130",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q35831"
+      },
+      {
+        "term": "Infants",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300189561",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q998"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Cradles",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300038847",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q412770"
+      },
+      {
+        "term": "Orientalist",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300055784",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q765606"
+      }
+    ]
+  }
+}

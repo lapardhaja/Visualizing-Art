@@ -1,0 +1,125 @@
+{
+  "object_id": 193860,
+  "excel_metadata": {
+    "Object Number": "17.190.1183a, b",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 193860,
+    "Gallery Number": NaN,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1917.0,
+    "Object Name": "Snuffbox, painting",
+    "Title": "Snuffbox with scene of harvesting fruit",
+    "Culture": "Russian, St. Petersburg",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 3739113002016556.0,
+    "Artist Role": "Maker|Artist|Artist",
+    "Artist Prefix": " |Or in the style of the|Miniature probably by",
+    "Artist Display Name": "Johann Wilhelm Keibel|Van Blarenberghes|Henri Joseph van Blarenberghe",
+    "Artist Display Bio": "master 1812; died 1862| |French, Lille 1750–1826 Lille",
+    "Artist Suffix": " |, Continental ca. 1820| ",
+    "Artist Alpha Sort": "Keibel Johann Wilhelm|Blarenberghes, Van|Blarenberghe, Henri Joseph van",
+    "Artist Nationality": " |French|French",
+    "Artist Begin Date": "1762      |1716      |1750      ",
+    "Artist End Date": "1862      |1826      |1826      ",
+    "Artist Gender": "||",
+    "Artist ULAN URL": "(not assigned)||http://vocab.getty.edu/page/ulan/500020237",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q94936585||https://www.wikidata.org/wiki/Q16038756",
+    "Object Date": "ca. 1820",
+    "Object Begin Date": 1815,
+    "Object End Date": 1825,
+    "Medium": "Four-color gold, painting in gouache on vellum",
+    "Dimensions": "Overall: 1 × 4 1/8 in. (2.5 × 10.5 cm); Diameter (Miniature): 2 3/4 in. (7 cm)",
+    "Credit Line": "Gift of J. Pierpont Morgan, 1917",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Metalwork-Gold and Platinum|Miniatures",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/193860",
+    "Object Wikidata URL": NaN,
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Trees|Working",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300132410|http://vocab.getty.edu/page/aat/300412186",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q10884|https://www.wikidata.org/wiki/Q6958747"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/ES542.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/212132.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 37391,
+        "role": "Maker",
+        "name": "Johann Wilhelm Keibel",
+        "constituentULAN_URL": "(not assigned)",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q94936585",
+        "gender": ""
+      },
+      {
+        "constituentID": 165562,
+        "role": "Artist",
+        "name": "Miniature probably by Henri Joseph van Blarenberghe",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500020237",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q16038756",
+        "gender": ""
+      },
+      {
+        "constituentID": 130020,
+        "role": "Artist",
+        "name": "Or in the style of the Van Blarenberghes",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Diameter",
+        "elementDescription": "Miniature",
+        "elementMeasurements": {
+          "Diameter": 6.985014
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Diameter": 10.477521,
+          "Height": 2.540005
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Trees",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132410",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q10884"
+      },
+      {
+        "term": "Working",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300412186",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q6958747"
+      }
+    ]
+  }
+}

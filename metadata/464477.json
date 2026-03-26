@@ -1,0 +1,113 @@
+{
+  "object_id": 464477,
+  "excel_metadata": {
+    "Object Number": "17.190.510",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 464477,
+    "Gallery Number": null,
+    "Department": "Medieval Art",
+    "AccessionYear": 1917,
+    "Object Name": "Triptych",
+    "Title": "Triptych",
+    "Culture": "French",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": null,
+    "Artist Role": null,
+    "Artist Prefix": null,
+    "Artist Display Name": null,
+    "Artist Display Bio": null,
+    "Artist Suffix": null,
+    "Artist Alpha Sort": null,
+    "Artist Nationality": null,
+    "Artist Begin Date": null,
+    "Artist End Date": null,
+    "Artist Gender": null,
+    "Artist ULAN URL": null,
+    "Artist Wikidata URL": null,
+    "Object Date": "19th century",
+    "Object Begin Date": 1800,
+    "Object End Date": 1900,
+    "Medium": "Champlevé enamel, copper-gilt, silver, intaglios, cameos, textile on wood core",
+    "Dimensions": "Overall (closed wings): 19 1/8 x 18 1/2 x 3 3/4 in. (48.6 x 47 x 9.5 cm)_x000D_\nOverall (left wing): 19 1/8 x 9 3/8 x 1 1/2 in. (48.6 x 23.8 x 3.8 cm)_x000D_\nOverall (right wing): 19 1/8 x 9 1/4 x 1 1/2 in. (48.6 x 23.5 x 3.8 cm)_x000D_\nOverall (opened): 19 1/8 x 38 x 1 5/8 in. (48.6 x 96.5 x 4.1 cm)",
+    "Credit Line": "Gift of J. Pierpont Morgan, 1917",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Enamels-Champlevé",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/464477",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": null,
+    "Tags AAT URL": null,
+    "Tags Wikidata URL": null
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/md/original/sf17-190-510s2.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/md/original/sf17-190-510s1.jpg",
+      "https://images.metmuseum.org/CRDImages/md/original/sf17-190-510s3.jpg",
+      "https://images.metmuseum.org/CRDImages/md/original/sf17-190-510d7.jpg",
+      "https://images.metmuseum.org/CRDImages/md/original/sf17-190-510d6.jpg",
+      "https://images.metmuseum.org/CRDImages/md/original/sf17-190-510d5.jpg",
+      "https://images.metmuseum.org/CRDImages/md/original/sf17-190-510d4.jpg",
+      "https://images.metmuseum.org/CRDImages/md/original/sf17-190-510d3.jpg",
+      "https://images.metmuseum.org/CRDImages/md/original/sf17-190-510d2.jpg",
+      "https://images.metmuseum.org/CRDImages/md/original/sf17-190-510d1.jpg"
+    ],
+    "constituents": null,
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": "right wing",
+        "elementMeasurements": {
+          "Depth": 3.81,
+          "Height": 48.6,
+          "Width": 23.495
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": "left wing",
+        "elementMeasurements": {
+          "Depth": 3.81,
+          "Height": 48.6,
+          "Width": 23.8125
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": "closed wings",
+        "elementMeasurements": {
+          "Depth": 9.525019,
+          "Height": 48.5776,
+          "Width": 46.990093
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": "opened",
+        "elementMeasurements": {
+          "Depth": 4.127508,
+          "Height": 48.5776,
+          "Width": 96.520195
+        }
+      }
+    ],
+    "tags": null
+  }
+}

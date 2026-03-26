@@ -1,0 +1,119 @@
+{
+  "object_id": 438821,
+  "excel_metadata": {
+    "Object Number": "51.112.2",
+    "Is Highlight": true,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 438821,
+    "Gallery Number": 825.0,
+    "Department": "European Paintings",
+    "AccessionYear": 1951.0,
+    "Object Name": "Painting",
+    "Title": "Ia Orana Maria (Hail Mary)",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16192.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Paul Gauguin",
+    "Artist Display Bio": "French, Paris 1848–1903 Atuona, Hiva Oa, Marquesas Islands",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Gauguin, Paul",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1848",
+    "Artist End Date": "1903",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500011421",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q37693",
+    "Object Date": "1891",
+    "Object Begin Date": 1891,
+    "Object End Date": 1891,
+    "Medium": "Oil on canvas",
+    "Dimensions": "44 3/4 x 34 1/2 in. (113.7 x 87.6 cm)",
+    "Credit Line": "Bequest of Sam A. Lewisohn, 1951",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/438821",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q1118465",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Jesus|Women|Landscapes|Angels|Virgin Mary",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901000087|http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/aat/300132294|http://vocab.getty.edu/page/aat/300379004|http://vocab.getty.edu/page/ia/901000032",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q302|https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q191163|https://www.wikidata.org/wiki/Q235113|https://www.wikidata.org/wiki/Q345"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT1025.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 161924,
+        "role": "Artist",
+        "name": "Paul Gauguin",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500011421",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q37693",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 113.6652,
+          "Width": 87.6302
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 8.89,
+          "Height": 135.2553,
+          "Width": 109.8552
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Landscapes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+      },
+      {
+        "term": "Angels",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379004",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q235113"
+      },
+      {
+        "term": "Virgin Mary",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000032",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q345"
+      },
+      {
+        "term": "Jesus",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q302"
+      }
+    ]
+  }
+}

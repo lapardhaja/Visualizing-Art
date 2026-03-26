@@ -1,0 +1,100 @@
+{
+  "object_id": 437147,
+  "excel_metadata": {
+    "Object Number": "07.267",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437147,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1907.0,
+    "Object Name": "Painting",
+    "Title": "The Court of the Princess",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10807.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Adolphe Monticelli",
+    "Artist Display Bio": "French, Marseilles 1824–1886 Marseilles",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Monticelli, Adolphe",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1824",
+    "Artist End Date": "1886",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500000984",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q1152965",
+    "Object Date": NaN,
+    "Object Begin Date": 1844,
+    "Object End Date": 1886,
+    "Medium": "Oil on wood",
+    "Dimensions": "15 x 23 3/8 in. (38.1 x 59.4 cm)",
+    "Credit Line": "Catharine Lorillard Wolfe Collection, Wolfe Fund, 1907",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437147",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19913157",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Princesses|Men|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300155241|http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q863048|https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/ep7.267.R.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 108070,
+        "role": "Artist",
+        "name": "Adolphe Monticelli",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500000984",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1152965",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 38.1,
+          "Width": 59.4
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Princesses",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300155241",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q863048"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

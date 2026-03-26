@@ -1,0 +1,107 @@
+{
+  "object_id": 437327,
+  "excel_metadata": {
+    "Object Number": "1977.1.2",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 437327,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1977.0,
+    "Object Name": "Painting",
+    "Title": "The Companions of Rinaldo",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16227.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Nicolas Poussin",
+    "Artist Display Bio": "French, Les Andelys 1594–1665 Rome",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Poussin, Nicolas",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1594",
+    "Artist End Date": "1665",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500005036",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q41554",
+    "Object Date": "ca. 1633",
+    "Object Begin Date": 1628,
+    "Object End Date": 1638,
+    "Medium": "Oil on canvas",
+    "Dimensions": "46 1/2 x 40 1/4 in. (118.1 x 102.2 cm)",
+    "Credit Line": "Gift of Mr. and Mrs. Charles Wrightsman, 1977",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437327",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20167018",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Shields|Swords|Dragons|Men",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300036869|http://vocab.getty.edu/page/aat/300037048|http://vocab.getty.edu/page/aat/300375726|http://vocab.getty.edu/page/aat/300025928",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q131559|https://www.wikidata.org/wiki/Q12791|https://www.wikidata.org/wiki/Q7559|https://www.wikidata.org/wiki/Q8441"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT5182.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/SF Tempesta.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 162270,
+        "role": "Artist",
+        "name": "Nicolas Poussin",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500005036",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q41554",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 118.1,
+          "Width": 102.2
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Shields",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300036869",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q131559"
+      },
+      {
+        "term": "Swords",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300037048",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q12791"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Dragons",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300375726",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q7559"
+      }
+    ]
+  }
+}

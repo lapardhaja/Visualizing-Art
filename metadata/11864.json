@@ -1,0 +1,114 @@
+{
+  "object_id": 11864,
+  "excel_metadata": {
+    "Object Number": "62.241.3",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 11864,
+    "Gallery Number": NaN,
+    "Department": "The American Wing",
+    "AccessionYear": 1962.0,
+    "Object Name": "Painting",
+    "Title": "Pitched It Sheer into the River . . . Where It Still Is Seen in the Summer",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16229.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Frederic Remington",
+    "Artist Display Bio": "American, Canton, New York 1861–1909 Ridgefield, Connecticut",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Remington, Frederic",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1861",
+    "Artist End Date": "1909",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500024759",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q560787",
+    "Object Date": "1889",
+    "Object Begin Date": 1889,
+    "Object End Date": 1889,
+    "Medium": "Oil on canvas",
+    "Dimensions": "20 x 28 1/4in. (50.8 x 71.8cm)\r\n",
+    "Credit Line": "Anonymous Gift, 1962",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/11864",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20172851",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Women|Rivers|Boats",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/aat/300008707|http://vocab.getty.edu/page/aat/300178749",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q4022|https://www.wikidata.org/wiki/Q35872"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DP227348.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162299,
+        "role": "Artist",
+        "name": "Frederic Remington",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500024759",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q560787",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 50.8,
+          "Width": 71.8
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 10.16,
+          "Height": 66.99264,
+          "Width": 87.63017
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Rivers",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300008707",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q4022"
+      },
+      {
+        "term": "Boats",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300178749",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q35872"
+      }
+    ]
+  }
+}

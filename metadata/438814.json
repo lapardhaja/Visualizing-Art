@@ -1,0 +1,122 @@
+{
+  "object_id": 438814,
+  "excel_metadata": {
+    "Object Number": "03.30",
+    "Is Highlight": true,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 438814,
+    "Gallery Number": 801.0,
+    "Department": "European Paintings",
+    "AccessionYear": 1903.0,
+    "Object Name": "Painting",
+    "Title": "The Abduction of Rebecca",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16182.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Eugène Delacroix",
+    "Artist Display Bio": "French, Charenton-Saint-Maurice 1798–1863 Paris",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Delacroix, Eugène",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1798",
+    "Artist End Date": "1863",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500115509",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q33477",
+    "Object Date": "1846",
+    "Object Begin Date": 1846,
+    "Object End Date": 1846,
+    "Medium": "Oil on canvas",
+    "Dimensions": "39 1/2 x 32 1/4 in. (100.3 x 81.9 cm)",
+    "Credit Line": "Catharine Lorillard Wolfe Collection, Wolfe Fund, 1903",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/438814",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19911594",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Horses|Battles|Men|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300250148|http://vocab.getty.edu/page/aat/300185692|http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q726|https://www.wikidata.org/wiki/Q178561|https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-14344-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 161823,
+        "role": "Artist",
+        "name": "Eugène Delacroix",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115509",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q33477",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 13.970028,
+          "Height": 139.70029,
+          "Width": 121.28524
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 100.3302,
+          "Width": 81.91516
+        }
+      },
+      {
+        "elementName": "Rabbet",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 100.647705,
+          "Width": 82.232666
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Battles",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300185692",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q178561"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Horses",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250148",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q726"
+      }
+    ]
+  }
+}

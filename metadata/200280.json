@@ -1,0 +1,92 @@
+{
+  "object_id": 200280,
+  "excel_metadata": {
+    "Object Number": "48.187.283",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 200280,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1948,
+    "Object Name": "Egg cup",
+    "Title": "Egg cup",
+    "Culture": "French, Paris",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 3452,
+    "Artist Role": "Maker",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Pierre Soulaine",
+    "Artist Display Bio": "master 1718, died 1759",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Soulaine Pierre",
+    "Artist Nationality": " ",
+    "Artist Begin Date": 1659,
+    "Artist End Date": 1759,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500091843",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q94827215",
+    "Object Date": "1725–26",
+    "Object Begin Date": 1725,
+    "Object End Date": 1726,
+    "Medium": "Silver",
+    "Dimensions": "Height: 3 5/8 in. (9.2 cm)",
+    "Credit Line": "Bequest of Catherine D. Wentworth, 1948",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Metalwork-Silver",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/200280",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": null,
+    "Tags AAT URL": null,
+    "Tags Wikidata URL": null
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/143353.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/ES1428.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/143354.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/143357.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/163932.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/163933.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/163934.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/143355.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/143356.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 34525,
+        "role": "Maker",
+        "name": "Pierre Soulaine",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500091843",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q94827215",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Height",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 9.207519
+        }
+      }
+    ],
+    "tags": null
+  }
+}

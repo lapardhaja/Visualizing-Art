@@ -1,0 +1,105 @@
+{
+  "object_id": 436056,
+  "excel_metadata": {
+    "Object Number": "1982.60.6",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436056,
+    "Gallery Number": 537.0,
+    "Department": "European Paintings",
+    "AccessionYear": 1982.0,
+    "Object Name": "Painting",
+    "Title": "Madonna and Child with Two Angels",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16359.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Vittore Crivelli",
+    "Artist Display Bio": "Italian, Venice, active by 1465–died 1501/2 Fermo",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Crivelli, Vittore",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1465",
+    "Artist End Date": "1502",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500032229",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q1349738",
+    "Object Date": "ca. 1481–82",
+    "Object Begin Date": 1481,
+    "Object End Date": 1482,
+    "Medium": "Tempera and gold on wood",
+    "Dimensions": "21 7/8 x 16 in. (55.6 x 40.6 cm)",
+    "Credit Line": "The Jack and Belle Linsky Collection, 1982",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436056",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19913223",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Madonna and Child|Birds|Fruit|Angels",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901000052|http://vocab.getty.edu/page/aat/300266506|http://vocab.getty.edu/page/aat/300011868|http://vocab.getty.edu/page/aat/300379004",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q9309699|https://www.wikidata.org/wiki/Q5113|https://www.wikidata.org/wiki/Q1364|https://www.wikidata.org/wiki/Q235113"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT8828.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 163596,
+        "role": "Artist",
+        "name": "Vittore Crivelli",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500032229",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1349738",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 55.6,
+          "Width": 40.6
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Birds",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300266506",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q5113"
+      },
+      {
+        "term": "Fruit",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300011868",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q1364"
+      },
+      {
+        "term": "Angels",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379004",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q235113"
+      },
+      {
+        "term": "Madonna and Child",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000052",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q9309699"
+      }
+    ]
+  }
+}

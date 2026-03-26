@@ -1,0 +1,104 @@
+{
+  "object_id": 11674,
+  "excel_metadata": {
+    "Object Number": "25.85.2",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 11674,
+    "Gallery Number": 774.0,
+    "Department": "The American Wing",
+    "AccessionYear": 1925.0,
+    "Object Name": "Painting",
+    "Title": "Daughter of William Page (Possibly Anne Page)",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 277.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "William Page",
+    "Artist Display Bio": "American, Albany, New York 1811–1885 Staten Island, New York",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Page, William",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1811",
+    "Artist End Date": "1885",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500014639",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q8016524",
+    "Object Date": "ca. 1837–38",
+    "Object Begin Date": 1834,
+    "Object End Date": 1838,
+    "Medium": "Oil on canvas",
+    "Dimensions": "Oval: 14 x 12 in. (35.6 x 30.5 cm)",
+    "Credit Line": "Bequest of Emma A. Fortuna, 1925",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/11674",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20172661",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Girls|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300247581|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q3031|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/ap25.85.2.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 2772,
+        "role": "Artist",
+        "name": "William Page",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500014639",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q8016524",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 5.7,
+          "Height": 47.7,
+          "Width": 39.8
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 35.6,
+          "Width": 30.4801
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Girls",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300247581",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3031"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

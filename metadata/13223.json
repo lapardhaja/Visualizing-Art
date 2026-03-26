@@ -1,0 +1,111 @@
+{
+  "object_id": 13223,
+  "excel_metadata": {
+    "Object Number": "12.32",
+    "Is Highlight": true,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 13223,
+    "Gallery Number": 766.0,
+    "Department": "The American Wing",
+    "AccessionYear": 1912.0,
+    "Object Name": "Painting",
+    "Title": "Cremorne Gardens, No. 2",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16272.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "James McNeill Whistler",
+    "Artist Display Bio": "American, Lowell, Massachusetts 1834–1903 London",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Whistler, James McNeill",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1834",
+    "Artist End Date": "1903",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500012432",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q203643",
+    "Object Date": "ca. 1870–80",
+    "Object Begin Date": 1867,
+    "Object End Date": 1880,
+    "Medium": "Oil on canvas",
+    "Dimensions": "27 x 53 1/8 in. (68.6 x 134.9 cm)",
+    "Credit Line": "John Stewart Kennedy Fund, 1912",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/13223",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19924715",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Parks|Men|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300008187|http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q22698|https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DT2780.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ad/original/DP258208.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 162723,
+        "role": "Artist",
+        "name": "James McNeill Whistler",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500012432",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q203643",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 68.6,
+          "Width": 134.9
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 8.8,
+          "Height": 94,
+          "Width": 160
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Parks",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300008187",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q22698"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

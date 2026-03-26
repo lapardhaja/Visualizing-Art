@@ -1,0 +1,104 @@
+{
+  "object_id": 436926,
+  "excel_metadata": {
+    "Object Number": "04.29.1",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436926,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1904.0,
+    "Object Name": "Painting",
+    "Title": "Samuel P. Avery (1822–1904)",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16492.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Raimundo de Madrazo y Garreta",
+    "Artist Display Bio": "Spanish, Rome 1841–1920 Versailles",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Madrazo y Garreta, Raimundo de",
+    "Artist Nationality": "Spanish",
+    "Artist Begin Date": "1841",
+    "Artist End Date": "1920",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500001278",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q2506493",
+    "Object Date": "1876",
+    "Object Begin Date": 1876,
+    "Object End Date": 1876,
+    "Medium": "Oil on wood",
+    "Dimensions": "24 x 19 1/4 in. (61 x 48.9 cm)",
+    "Credit Line": "Gift of the family of Samuel P. Avery, 1904",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436926",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912633",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP354159.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 164920,
+        "role": "Artist",
+        "name": "Raimundo de Madrazo y Garreta",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500001278",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q2506493",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 61,
+          "Width": 48.9
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 7.620015,
+          "Height": 78.42265,
+          "Width": 68.58014
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

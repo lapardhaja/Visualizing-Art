@@ -1,0 +1,109 @@
+{
+  "object_id": 11227,
+  "excel_metadata": {
+    "Object Number": "87.8.8",
+    "Is Highlight": true,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 11227,
+    "Gallery Number": 761.0,
+    "Department": "The American Wing",
+    "AccessionYear": 1887.0,
+    "Object Name": "Painting",
+    "Title": "Autumn Oaks",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16200.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "George Inness",
+    "Artist Display Bio": "American, Newburgh, New York 1825–1894 Bridge of Allan, Scotland",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Inness, George",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1825",
+    "Artist End Date": "1894",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500013380",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q704868",
+    "Object Date": "ca. 1878",
+    "Object Begin Date": 1875,
+    "Object End Date": 1878,
+    "Medium": "Oil on canvas",
+    "Dimensions": "20 3/8 x 30 1/8 in. (54.3 x 76.5 cm)",
+    "Credit Line": "Gift of George I. Seney, 1887",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/11227",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19930575",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Cows|Landscapes|Autumn",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300250120|http://vocab.getty.edu/page/aat/300132294|http://vocab.getty.edu/page/aat/300133093",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q830|https://www.wikidata.org/wiki/Q191163|https://www.wikidata.org/wiki/Q1314"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DT264804.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162006,
+        "role": "Artist",
+        "name": "George Inness",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500013380",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q704868",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 51.8,
+          "Width": 76.5
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 13,
+          "Height": 79.3,
+          "Width": 104.5
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Cows",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250120",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q830"
+      },
+      {
+        "term": "Landscapes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+      },
+      {
+        "term": "Autumn",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300133093",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q1314"
+      }
+    ]
+  }
+}

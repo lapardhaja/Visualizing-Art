@@ -1,0 +1,87 @@
+{
+  "object_id": 207879,
+  "excel_metadata": {
+    "Object Number": "1990.268.3",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 207879,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1990,
+    "Object Name": "Table",
+    "Title": "Small table (table en chiffonière)",
+    "Culture": "French",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 3634,
+    "Artist Role": "Maker",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Jean-Charles Saunier",
+    "Artist Display Bio": "French, 1735–1807, master 1765",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Saunier Jean-Charles",
+    "Artist Nationality": "French",
+    "Artist Begin Date": 1735,
+    "Artist End Date": 1807,
+    "Artist Gender": null,
+    "Artist ULAN URL": null,
+    "Artist Wikidata URL": null,
+    "Object Date": "ca. 1755",
+    "Object Begin Date": 1750,
+    "Object End Date": 1760,
+    "Medium": "Walnut, oak and pine, purplewood, satiné wood, mahogany, engraved boxwood and stained woods, gilt-bronze",
+    "Dimensions": "26-1/8 x 16-1/2 x 13-1/4 in.  (66.4 x 41.9 x 33.7 cm)",
+    "Credit Line": "Bequest of Ruth Mabee Lachman, 1990",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Woodwork-Furniture",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/207879",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": null,
+    "Tags AAT URL": null,
+    "Tags Wikidata URL": null
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/ES3647.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/ES3648.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 36342,
+        "role": "Maker",
+        "name": "Jean-Charles Saunier",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 33.7,
+          "Height": 66.4,
+          "Width": 41.9
+        }
+      }
+    ],
+    "tags": null
+  }
+}

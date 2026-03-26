@@ -1,0 +1,95 @@
+{
+  "object_id": 438618,
+  "excel_metadata": {
+    "Object Number": "2003.42.1",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 438618,
+    "Gallery Number": 805.0,
+    "Department": "European Paintings",
+    "AccessionYear": 2003.0,
+    "Object Name": "Painting",
+    "Title": "Edge of a Wood",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10748.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Théodore Caruelle d'Aligny",
+    "Artist Display Bio": "French, Chaumes, Nièvre 1798–1871 Lyon",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Aligny, Théodore Caruelle d'",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1798",
+    "Artist End Date": "1871",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500028312",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q320899",
+    "Object Date": "ca. 1850",
+    "Object Begin Date": 1845,
+    "Object End Date": 1855,
+    "Medium": "Oil on canvas",
+    "Dimensions": "10 1/8 x 14 1/4 in. (25.7 x 36.2 cm)",
+    "Credit Line": "The Whitney Collection, Gift of Wheelock Whitney III, and Purchase, Gift of Mr. and Mrs. Charles S. McVeigh, by exchange, 2003",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/438618",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19911945",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Forests|Landscapes",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300387598|http://vocab.getty.edu/page/aat/300132294",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q4421|https://www.wikidata.org/wiki/Q191163"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP169441.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 107483,
+        "role": "Artist",
+        "name": "Théodore Caruelle d&#39;Aligny",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500028312",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q320899",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 25.7176,
+          "Width": 36.2
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Forests",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300387598",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q4421"
+      },
+      {
+        "term": "Landscapes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+      }
+    ]
+  }
+}

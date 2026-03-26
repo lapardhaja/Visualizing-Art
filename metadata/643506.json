@@ -1,0 +1,95 @@
+{
+  "object_id": 643506,
+  "excel_metadata": {
+    "Object Number": 2015.566,
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 643506,
+    "Gallery Number": null,
+    "Department": "Arts of Africa, Oceania, and the Americas",
+    "AccessionYear": 2015,
+    "Object Name": "Mask",
+    "Title": "Moon Mask",
+    "Culture": "Baule peoples",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": null,
+    "Artist Role": null,
+    "Artist Prefix": null,
+    "Artist Display Name": null,
+    "Artist Display Bio": null,
+    "Artist Suffix": null,
+    "Artist Alpha Sort": null,
+    "Artist Nationality": null,
+    "Artist Begin Date": null,
+    "Artist End Date": null,
+    "Artist Gender": null,
+    "Artist ULAN URL": null,
+    "Artist Wikidata URL": null,
+    "Object Date": "ca. 1880",
+    "Object Begin Date": 1875,
+    "Object End Date": 1885,
+    "Medium": "Wood",
+    "Dimensions": "H. 10 1/2 × W. 6 3/4 × D. 5 1/4 in. (26.7 × 17.1 × 13.3 cm)_x000D_\nHeight on stand: 13 1/4 (33.7 cm)",
+    "Credit Line": "Purchase, Mrs. Howard J. Barnet Gift, 2015",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": "Côte d'Ivoire",
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Wood-Sculpture",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/643506",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Faces",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300251798",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q37017"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ao/original/DP-892-001.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ao/original/DP-892-002.jpg",
+      "https://images.metmuseum.org/CRDImages/ao/original/DP-892-003.jpg",
+      "https://images.metmuseum.org/CRDImages/ao/original/DP-892-004.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 155514,
+        "role": "Artist",
+        "name": "Baule artist",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 13.335027,
+          "Height": 26.670053,
+          "Width": 17.145035
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Faces",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300251798",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q37017"
+      }
+    ]
+  }
+}

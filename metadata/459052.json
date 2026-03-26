@@ -1,0 +1,123 @@
+{
+  "object_id": 459052,
+  "excel_metadata": {
+    "Object Number": "1975.1.110",
+    "Is Highlight": true,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 459052,
+    "Gallery Number": 953.0,
+    "Department": "Robert Lehman Collection",
+    "AccessionYear": 1975.0,
+    "Object Name": "Painting",
+    "Title": "A Goldsmith in his Shop",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16177.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Petrus Christus",
+    "Artist Display Bio": "Netherlandish, Baarle-Hertog (Baerle-Duc), active by 1444–died 1475/76 Bruges",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Christus, Petrus",
+    "Artist Nationality": "Netherlandish",
+    "Artist Begin Date": "1444",
+    "Artist End Date": "1476",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500032549",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q312616",
+    "Object Date": "1449",
+    "Object Begin Date": 1449,
+    "Object End Date": 1449,
+    "Medium": "Oil on oak panel",
+    "Dimensions": "Overall 39 3/8 x 33 3/4 in. (100.1 x 85.8 cm); painted surface 38 5/8 x 33 1/2 in. (98 x 85.2 cm)",
+    "Credit Line": "Robert Lehman Collection, 1975",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/459052",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q2408910",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Interiors|Jewelry|Couples|Men|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300391239|http://vocab.getty.edu/page/aat/300209286|http://vocab.getty.edu/page/aat/300379217|http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q2998430|https://www.wikidata.org/wiki/Q161439|https://www.wikidata.org/wiki/Q219160|https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/rl/original/DT711.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/rl/original/DT7264.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/DT7265.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/DT7266.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/DT7267.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/257990.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/DT711r1_50V.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/ep1975.1.110.bw.R.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/DP266944.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/DP266945.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/DP171490.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/1232.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/rl1975.1.110.R.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 161771,
+        "role": "Artist",
+        "name": "Petrus Christus",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500032549",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q312616",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 100,
+          "Width": 85.8
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Interiors",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300391239",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q2998430"
+      },
+      {
+        "term": "Jewelry",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300209286",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q161439"
+      },
+      {
+        "term": "Couples",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379217",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q219160"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

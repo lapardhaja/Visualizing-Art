@@ -1,0 +1,113 @@
+{
+  "object_id": 436603,
+  "excel_metadata": {
+    "Object Number": "1984.459.2",
+    "Is Highlight": true,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 436603,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1984.0,
+    "Object Name": "Painting",
+    "Title": "Samson Captured by the Philistines",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16196.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Guercino (Giovanni Francesco Barbieri)",
+    "Artist Display Bio": "Italian, Cento 1591–1666 Bologna",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Guercino (Giovanni Francesco Barbieri)",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1591",
+    "Artist End Date": "1666",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500021925",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q334262",
+    "Object Date": "1619",
+    "Object Begin Date": 1619,
+    "Object End Date": 1619,
+    "Medium": "Oil on canvas",
+    "Dimensions": "75 1/4 x 93 1/4 in. (191.1 x 236.9 cm)",
+    "Credit Line": "Gift of Mr. and Mrs. Charles Wrightsman, 1984",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436603",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19911545",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Women|Samson",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/ia/901000362",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q214648"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT503.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-1984_459_2-2.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-1984_459_2-3.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 161968,
+        "role": "Artist",
+        "name": "Guercino (Giovanni Francesco Barbieri)",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500021925",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q334262",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 191.1,
+          "Width": 236.9
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 241.93549,
+          "Width": 287.65558
+        }
+      },
+      {
+        "elementName": "Other",
+        "elementDescription": "Picture + Frame (F.1984.459.2)",
+        "elementMeasurements": {
+          "Weight": 84.36905
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Samson",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000362",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q214648"
+      }
+    ]
+  }
+}

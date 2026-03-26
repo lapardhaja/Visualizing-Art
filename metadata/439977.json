@@ -1,0 +1,103 @@
+{
+  "object_id": 439977,
+  "excel_metadata": {
+    "Object Number": "2016.39",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 439977,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 2016.0,
+    "Object Name": "Painting",
+    "Title": "Christ Carrying the Cross",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16195.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Jan Gossart (called Mabuse)",
+    "Artist Display Bio": "Netherlandish, Maubeuge ca. 1478–1532 Antwerp (?)",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Gossart, Jan (called Mabuse)",
+    "Artist Nationality": "Netherlandish",
+    "Artist Begin Date": "1478",
+    "Artist End Date": "1532",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500009353",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q346952",
+    "Object Date": "ca. 1520–25",
+    "Object Begin Date": 1520,
+    "Object End Date": 1525,
+    "Medium": "Oil on oak",
+    "Dimensions": "9 7/8 × 7 1/2 in. (25.1 × 19 cm)",
+    "Credit Line": "Gift of Honorable J. William Middendorf II, and Purchase, Walter and Leonore Annenberg and The Annenberg Foundation Gift, Director's Fund, Gift of George A. Hearn, by exchange, and Marquand and The Alfred N. Punnett Endowment Funds, 2016",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/439977",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q55594040",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Cross|Christ|Bearing the Cross",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300235443|http://vocab.getty.edu/page/ia/901000087|http://vocab.getty.edu/page/ia/901001193",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q40843|https://www.wikidata.org/wiki/Q642420|https://www.wikidata.org/wiki/Q3399226"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP368972.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/Gossart Christ Carrying Cross x-ray christ.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/Gossart Christ IRR.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 161951,
+        "role": "Artist",
+        "name": "Jan Gossart (called Mabuse)",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500009353",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q346952",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 25.08255,
+          "Width": 19
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Christ",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+      },
+      {
+        "term": "Cross",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300235443",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q40843"
+      },
+      {
+        "term": "Bearing the Cross",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901001193",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3399226"
+      }
+    ]
+  }
+}

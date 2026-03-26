@@ -1,0 +1,104 @@
+{
+  "object_id": 10176,
+  "excel_metadata": {
+    "Object Number": "1979.196.2",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 10176,
+    "Gallery Number": 747.0,
+    "Department": "The American Wing",
+    "AccessionYear": 1979.0,
+    "Object Name": "Painting",
+    "Title": "Mrs. Samuel Cutts",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 234.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Joseph Blackburn",
+    "Artist Display Bio": "active 1752–ca. 1778",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Blackburn, Joseph",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1715",
+    "Artist End Date": "1815",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500021703",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q3184614",
+    "Object Date": "ca. 1762–63",
+    "Object Begin Date": 1759,
+    "Object End Date": 1763,
+    "Medium": "Oil on canvas",
+    "Dimensions": "50 1/4 x 40 1/2 in. (127.6 x 102.9 cm)",
+    "Credit Line": "Bequest of Clarence Dillon, 1979",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/10176",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19930568",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Portraits|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DT9848.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 2346,
+        "role": "Artist",
+        "name": "Joseph Blackburn",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500021703",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3184614",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 127.6,
+          "Width": 102.9
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 7.5,
+          "Height": 151.5,
+          "Width": 128.7
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

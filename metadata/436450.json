@@ -1,0 +1,109 @@
+{
+  "object_id": 436450,
+  "excel_metadata": {
+    "Object Number": "67.187.69",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436450,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1967.0,
+    "Object Name": "Painting",
+    "Title": "Still Life",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16192.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": "Style of",
+    "Artist Display Name": "Paul Gauguin",
+    "Artist Display Bio": "French, late 19th century",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Gauguin, Paul",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1848",
+    "Artist End Date": "1903",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500011421",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q37693",
+    "Object Date": NaN,
+    "Object Begin Date": 1870,
+    "Object End Date": 1899,
+    "Medium": "Oil on canvas",
+    "Dimensions": "15 1/8 x 18 1/4 in. (38.4 x 46.4 cm)",
+    "Credit Line": "Bequest of Miss Adelaide Milton de Groot (1876-1967), 1967",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436450",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912494",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Fruit|Still Life|Vases",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300011868|http://vocab.getty.edu/page/aat/300015638|http://vocab.getty.edu/page/aat/300132254",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q1364|https://www.wikidata.org/wiki/Q170571|https://www.wikidata.org/wiki/Q191851"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT1501.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 161924,
+        "role": "Artist",
+        "name": "Style of Paul Gauguin",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500011421",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q37693",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 38.4,
+          "Width": 46.4
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 8.8900175,
+          "Height": 60.32512,
+          "Width": 68.89764
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Fruit",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300011868",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q1364"
+      },
+      {
+        "term": "Still Life",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015638",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q170571"
+      },
+      {
+        "term": "Vases",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132254",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q191851"
+      }
+    ]
+  }
+}

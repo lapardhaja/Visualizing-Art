@@ -1,0 +1,112 @@
+{
+  "object_id": 437965,
+  "excel_metadata": {
+    "Object Number": "19.112",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437965,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1919.0,
+    "Object Name": "Painting",
+    "Title": "Edward R. Bacon (1846–1915)",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16278.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Anders Zorn",
+    "Artist Display Bio": "Swedish, Mora 1860–1920 Mora",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Zorn, Anders",
+    "Artist Nationality": "Swedish",
+    "Artist Begin Date": "1860",
+    "Artist End Date": "1920",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500002927",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q206820",
+    "Object Date": "1897",
+    "Object Begin Date": 1897,
+    "Object End Date": 1897,
+    "Medium": "Oil on canvas",
+    "Dimensions": "48 1/4 x 35 1/4 in. (122.6 x 89.5 cm)",
+    "Credit Line": "Bequest of Virginia Purdy Bacon, 1919",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437965",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19913260",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT239221.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162786,
+        "role": "Artist",
+        "name": "Anders Zorn",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500002927",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q206820",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Framed",
+        "elementDescription": "framed dimensions",
+        "elementMeasurements": {
+          "Depth": 8.255016,
+          "Height": 153.6703,
+          "Width": 121.92024
+        }
+      },
+      {
+        "elementName": "Other",
+        "elementDescription": "Plexi",
+        "elementMeasurements": {
+          "Height": 128.58775,
+          "Width": 95.56769
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 122.6,
+          "Width": 89.5
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

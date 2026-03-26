@@ -1,0 +1,107 @@
+{
+  "object_id": 436987,
+  "excel_metadata": {
+    "Object Number": "32.100.52",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436987,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1932.0,
+    "Object Name": "Painting",
+    "Title": "The Rest on the Flight into Egypt",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 21173711247.0,
+    "Artist Role": "Artist|Artist",
+    "Artist Prefix": " |and",
+    "Artist Display Name": "Jan Massys|Master of the Liège Disciples at Emmaus",
+    "Artist Display Bio": "Netherlandish, Antwerp ca. 1509–1573 Antwerp|Netherlandish, active mid-16th century",
+    "Artist Suffix": " | ",
+    "Artist Alpha Sort": "Massys, Jan|Master of the Liège Disciples at Emmaus",
+    "Artist Nationality": "Netherlandish|Netherlandish",
+    "Artist Begin Date": "1504      |1530      ",
+    "Artist End Date": "1573      |1569      ",
+    "Artist Gender": "|",
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500011809|http://vocab.getty.edu/page/ulan/500069611",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q431137|",
+    "Object Date": "1537–40",
+    "Object Begin Date": 1537,
+    "Object End Date": 1540,
+    "Medium": "Oil on wood",
+    "Dimensions": "37 1/2 x 30 1/4 in. (95.3 x 76.8 cm)",
+    "Credit Line": "The Friedsam Collection, Bequest of Michael Friedsam, 1931",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436987",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19905171",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Grapes|Madonna and Child",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300379338|http://vocab.getty.edu/page/ia/901000052",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q10978|https://www.wikidata.org/wiki/Q9309699"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-13614-001.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-32_100_52-6.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-32_100_52_xray.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-32_100_52-IRR.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 211737,
+        "role": "Artist",
+        "name": "Jan Massys",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500011809",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q431137",
+        "gender": ""
+      },
+      {
+        "constituentID": 112471,
+        "role": "Artist",
+        "name": "and Master of the Liège Disciples at Emmaus",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500069611",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 95.3,
+          "Width": 76.8
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Grapes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379338",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q10978"
+      },
+      {
+        "term": "Madonna and Child",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000052",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q9309699"
+      }
+    ]
+  }
+}

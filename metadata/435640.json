@@ -1,0 +1,112 @@
+{
+  "object_id": 435640,
+  "excel_metadata": {
+    "Object Number": "30.95.256",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 435640,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1930.0,
+    "Object Name": "Painting",
+    "Title": "Madonna Adoring the Sleeping Child",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16166.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Giovanni Bellini",
+    "Artist Display Bio": "Italian, Venice, active by 1459–died 1516 Venice",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Bellini, Giovanni",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1459",
+    "Artist End Date": "1516",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500019244",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q17169",
+    "Object Date": "early 1460s",
+    "Object Begin Date": 1460,
+    "Object End Date": 1463,
+    "Medium": "Tempera on wood",
+    "Dimensions": "28 1/2 x 18 1/4 in. (72.4 x 46.4 cm)",
+    "Credit Line": "Theodore M. Davis Collection, Bequest of Theodore M. Davis, 1915",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/435640",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19911532",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Madonna and Child|Sleeping",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901000052|http://vocab.getty.edu/page/aat/300375130",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q9309699|https://www.wikidata.org/wiki/Q35831"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT7219.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 161668,
+        "role": "Artist",
+        "name": "Giovanni Bellini",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500019244",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q17169",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 72.4,
+          "Width": 46.4
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 13.97,
+          "Height": 99.0602,
+          "Width": 77.4702
+        }
+      },
+      {
+        "elementName": "Rabbet",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 73.02515,
+          "Width": 46.990093
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Sleeping",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300375130",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q35831"
+      },
+      {
+        "term": "Madonna and Child",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000052",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q9309699"
+      }
+    ]
+  }
+}

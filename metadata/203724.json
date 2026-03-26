@@ -1,0 +1,105 @@
+{
+  "object_id": 203724,
+  "excel_metadata": {
+    "Object Number": "64.101.936, .937",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 203724,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1964,
+    "Object Name": "Side chairs",
+    "Title": "Pair of side chairs",
+    "Culture": "British",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 4469,
+    "Artist Role": "Maker",
+    "Artist Prefix": "Attributed to",
+    "Artist Display Name": "Thomas How",
+    "Artist Display Bio": "British, active 1710–33",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "How Thomas",
+    "Artist Nationality": "British",
+    "Artist Begin Date": 1710,
+    "Artist End Date": 1733,
+    "Artist Gender": null,
+    "Artist ULAN URL": null,
+    "Artist Wikidata URL": null,
+    "Object Date": "ca. 1724–36",
+    "Object Begin Date": 1719,
+    "Object End Date": 1741,
+    "Medium": "Walnut and walnut veneer, parcel-gilt, the seat rails of beech; gilded lead mounts on the knees and front rail; verre églomisé panel mounted on the splat; covered in contemporary tent stitch embroidery on canvas needlework not original to the chair",
+    "Dimensions": "Overall: 41 × 23 × 22 in. (104.1 × 58.4 × 55.9 cm)",
+    "Credit Line": "Gift of Irwin Untermyer, 1964",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Woodwork-Furniture",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/203724",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Flowers|Coat of Arms",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300132399|http://vocab.getty.edu/page/aat/300126352",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q506|https://www.wikidata.org/wiki/Q14659"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP-14129-191.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/DP110715.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP110716.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP110717.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP-14129-188.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP-14129-186.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP-14129-187.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP-14129-189.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP-14129-190.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 44698,
+        "role": "Maker",
+        "name": "Attributed to Thomas How",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 55.9,
+          "Height": 104.1,
+          "Width": 58.4
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Flowers",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132399",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q506"
+      },
+      {
+        "term": "Coat of Arms",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300126352",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q14659"
+      }
+    ]
+  }
+}

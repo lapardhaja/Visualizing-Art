@@ -1,0 +1,109 @@
+{
+  "object_id": 435599,
+  "excel_metadata": {
+    "Object Number": "87.4.7",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 435599,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1887.0,
+    "Object Name": "Painting",
+    "Title": "Boatmen of Barcelona",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10733.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Dionisio Baixeras y Verdaguer",
+    "Artist Display Bio": "Spanish, Barcelona 1862–1943 Barcelona",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Baixeras y Verdaguer, Dionisio",
+    "Artist Nationality": "Spanish",
+    "Artist Begin Date": "1862",
+    "Artist End Date": "1943",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500002359",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q3028747",
+    "Object Date": "1886",
+    "Object Begin Date": 1886,
+    "Object End Date": 1886,
+    "Medium": "Oil on canvas",
+    "Dimensions": "59 x 83 in. (149.9 x 210.8 cm)",
+    "Credit Line": "Gift of George I. Seney, 1886",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/435599",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912725",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Boats|Ships",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300178749|http://vocab.getty.edu/page/aat/300082981",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q35872|https://www.wikidata.org/wiki/Q11446"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/EP603.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 107333,
+        "role": "Artist",
+        "name": "Dionisio Baixeras y Verdaguer",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500002359",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3028747",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 149.9,
+          "Width": 210.8
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 14.605029,
+          "Height": 200.6604,
+          "Width": 262.89053
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Boats",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300178749",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q35872"
+      },
+      {
+        "term": "Ships",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300082981",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q11446"
+      }
+    ]
+  }
+}

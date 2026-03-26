@@ -1,0 +1,112 @@
+{
+  "object_id": 13312,
+  "excel_metadata": {
+    "Object Number": "13.39.1",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 13312,
+    "Gallery Number": 774.0,
+    "Department": "The American Wing",
+    "AccessionYear": 1913.0,
+    "Object Name": "Painting",
+    "Title": "The Camp Meeting",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 302.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Worthington Whittredge",
+    "Artist Display Bio": "Springfield, Ohio 1820–1910 Summit, New Jersey",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Whittredge, Worthington",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1820",
+    "Artist End Date": "1910",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500017639",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q1370512",
+    "Object Date": "1874",
+    "Object Begin Date": 1874,
+    "Object End Date": 1874,
+    "Medium": "Oil on canvas",
+    "Dimensions": "16 x 40 11/16 in. (40.6 x 103.3 cm)",
+    "Credit Line": "Amelia B. Lazarus Fund, 1913",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/13312",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20171945",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Landscapes|Trees",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300132294|http://vocab.getty.edu/page/aat/300132410",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q191163|https://www.wikidata.org/wiki/Q10884"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DT228976.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 3024,
+        "role": "Artist",
+        "name": "Worthington Whittredge",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500017639",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1370512",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 40.6,
+          "Width": 103.3
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 12.5,
+          "Height": 75,
+          "Width": 135.8
+        }
+      },
+      {
+        "elementName": "Glazing",
+        "elementDescription": "when needed",
+        "elementMeasurements": {
+          "Height": 42.227585,
+          "Width": 104.140205
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Landscapes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+      },
+      {
+        "term": "Trees",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132410",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q10884"
+      }
+    ]
+  }
+}

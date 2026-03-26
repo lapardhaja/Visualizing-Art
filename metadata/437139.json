@@ -1,0 +1,110 @@
+{
+  "object_id": 437139,
+  "excel_metadata": {
+    "Object Number": "48.187.740",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437139,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1948.0,
+    "Object Name": "Painting, miniature",
+    "Title": "An Artist Painting a Heraldic Shield in a Cabinet of Curiosities",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10852.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Monogrammist FA",
+    "Artist Display Bio": "Northern European, dated 1664",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Monogrammist FA",
+    "Artist Nationality": "Northern European",
+    "Artist Begin Date": "1664",
+    "Artist End Date": "1664",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": NaN,
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q21852999",
+    "Object Date": "1664",
+    "Object Begin Date": 1664,
+    "Object End Date": 1664,
+    "Medium": "Vellum laid on card",
+    "Dimensions": "4 1/4 x 6 in. (106 x 152 mm)",
+    "Credit Line": "Bequest of Catherine D. Wentworth, 1948",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Miniatures",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437139",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912896",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Painting|Men|Coat of Arms|Artists|Easels",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300054216|http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300126352|http://vocab.getty.edu/page/aat/300025103|http://vocab.getty.edu/page/aat/300079638",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q11629|https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q14659|https://www.wikidata.org/wiki/Q483501|https://www.wikidata.org/wiki/Q939611"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/150489.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 108529,
+        "role": "Artist",
+        "name": "Monogrammist FA",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q21852999",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 10.8,
+          "Width": 15.2
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Painting",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300054216",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q11629"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Coat of Arms",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300126352",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q14659"
+      },
+      {
+        "term": "Artists",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025103",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q483501"
+      },
+      {
+        "term": "Easels",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300079638",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q939611"
+      }
+    ]
+  }
+}

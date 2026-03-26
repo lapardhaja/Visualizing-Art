@@ -1,0 +1,106 @@
+{
+  "object_id": 20639,
+  "excel_metadata": {
+    "Object Number": "2014.59",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 20639,
+    "Gallery Number": 759.0,
+    "Department": "The American Wing",
+    "AccessionYear": 2014.0,
+    "Object Name": "Painting",
+    "Title": "Sketch for View from Mount Holyoke, Northampton, Massachusetts, after a Thunderstorm (The Oxbow)",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16178.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Thomas Cole",
+    "Artist Display Bio": "American, Lancashire 1801–1848 Catskill, New York",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Cole, Thomas",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1801",
+    "Artist End Date": "1848",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500028323",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q334001",
+    "Object Date": "1836",
+    "Object Begin Date": 1836,
+    "Object End Date": 1836,
+    "Medium": "Oil and pencil on composition board",
+    "Dimensions": "5 1/2 x 9 3/8 in. (14 x 23.8 cm)",
+    "Credit Line": "Purchase, Gift of Mrs. Delancey Thorn Grant, in memory of her mother, Louise Floyd-Jones Thorn, by exchange and Friends of the American Wing Fund, 2014",
+    "Geography Type": "Made in",
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": "United States",
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/20639",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20169452",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Rivers|Landscapes",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300008707|http://vocab.getty.edu/page/aat/300132294",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q4022|https://www.wikidata.org/wiki/Q191163"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DP325433.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ad/original/DP328398.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 161780,
+        "role": "Artist",
+        "name": "Thomas Cole",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500028323",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q334001",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 13.970028,
+          "Width": 23.812548
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 4.127508,
+          "Height": 23.971298,
+          "Width": 33.655067
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Rivers",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300008707",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q4022"
+      },
+      {
+        "term": "Landscapes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+      }
+    ]
+  }
+}

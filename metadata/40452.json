@@ -1,0 +1,99 @@
+{
+  "object_id": 40452,
+  "excel_metadata": {
+    "Object Number": "18.114",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 40452,
+    "Gallery Number": NaN,
+    "Department": "Asian Art",
+    "AccessionYear": 1918.0,
+    "Object Name": "Painting",
+    "Title": NaN,
+    "Culture": "Korea",
+    "Period": "Joseon dynasty (1392–1910)",
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": NaN,
+    "Artist Role": NaN,
+    "Artist Prefix": NaN,
+    "Artist Display Name": NaN,
+    "Artist Display Bio": NaN,
+    "Artist Suffix": NaN,
+    "Artist Alpha Sort": NaN,
+    "Artist Nationality": NaN,
+    "Artist Begin Date": NaN,
+    "Artist End Date": NaN,
+    "Artist Gender": NaN,
+    "Artist ULAN URL": NaN,
+    "Artist Wikidata URL": NaN,
+    "Object Date": "15th century",
+    "Object Begin Date": 1400,
+    "Object End Date": 1499,
+    "Medium": "Ink on silk",
+    "Dimensions": "Image: 27 3/4 × 24 3/4 in. (70.5 × 62.9 cm)\r\nOverall with mounting: 29 7/8 × 26 in. (75.9 × 66 cm)",
+    "Credit Line": "Gift of Maurice Abrams, in memory of Leo Stein, 1918",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/40452",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q78856343",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Lotuses|Buddhism|Bodhisattvas",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300375570|http://vocab.getty.edu/page/aat/300073738|http://vocab.getty.edu/page/aat/300264360",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q3645698|https://www.wikidata.org/wiki/Q748|https://www.wikidata.org/wiki/Q178149"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/as/original/18_114_sf.jpg",
+    "additionalImages": [],
+    "constituents": null,
+    "measurements": [
+      {
+        "elementName": "Image",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 70.48514,
+          "Width": 62.865128
+        }
+      },
+      {
+        "elementName": "Overall with mounting",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 75.88265,
+          "Width": 66.04013
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Lotuses",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300375570",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3645698"
+      },
+      {
+        "term": "Buddhism",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300073738",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q748"
+      },
+      {
+        "term": "Bodhisattvas",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300264360",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q178149"
+      }
+    ]
+  }
+}

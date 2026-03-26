@@ -1,0 +1,91 @@
+{
+  "object_id": 468515,
+  "excel_metadata": {
+    "Object Number": "56.171.119",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 468515,
+    "Gallery Number": null,
+    "Department": "The Cloisters",
+    "AccessionYear": 1956,
+    "Object Name": "Plate",
+    "Title": "Plate",
+    "Culture": "Spanish",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": null,
+    "Artist Role": null,
+    "Artist Prefix": null,
+    "Artist Display Name": null,
+    "Artist Display Bio": null,
+    "Artist Suffix": null,
+    "Artist Alpha Sort": null,
+    "Artist Nationality": null,
+    "Artist Begin Date": null,
+    "Artist End Date": null,
+    "Artist Gender": null,
+    "Artist ULAN URL": null,
+    "Artist Wikidata URL": null,
+    "Object Date": "1430–1470",
+    "Object Begin Date": 1430,
+    "Object End Date": 1470,
+    "Medium": "Tin-glazed earthenware",
+    "Dimensions": "Overall: 1 1/4 x 11 in. (3.2 x 27.9 cm)_x000D_\nDiameter of Foot: 3 1/4 in. (8.3 cm)",
+    "Credit Line": "The Cloisters Collection, 1956",
+    "Geography Type": "Made in",
+    "City": "probably Manises",
+    "State": null,
+    "County": "Valencia",
+    "Country": "Spain",
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Ceramics",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/468515",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Coat of Arms",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300126352",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q14659"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/cl/original/DP248477.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/cl/original/DP248478.jpg",
+      "https://images.metmuseum.org/CRDImages/cl/original/sf56-171-119s3.jpg"
+    ],
+    "constituents": null,
+    "measurements": [
+      {
+        "elementName": "Other",
+        "elementDescription": "Diameter of Foot",
+        "elementMeasurements": {
+          "Diameter": 8.255
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Diameter": 27.9401,
+          "Height": 3.175
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Coat of Arms",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300126352",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q14659"
+      }
+    ]
+  }
+}

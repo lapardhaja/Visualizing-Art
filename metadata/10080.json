@@ -1,0 +1,119 @@
+{
+  "object_id": 10080,
+  "excel_metadata": {
+    "Object Number": "40.4",
+    "Is Highlight": true,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 10080,
+    "Gallery Number": 762.0,
+    "Department": "The American Wing",
+    "AccessionYear": 1940.0,
+    "Object Name": "Painting",
+    "Title": "The Way They Live",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16161.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Thomas Anshutz",
+    "Artist Display Bio": "American, Newport, Kentucky 1851–1912 Fort Washington, Pennsylvania",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Anshutz, Thomas",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1851",
+    "Artist End Date": "1912",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500011734",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q2757568",
+    "Object Date": "1879",
+    "Object Begin Date": 1879,
+    "Object End Date": 1879,
+    "Medium": "Oil on canvas",
+    "Dimensions": "24 x 17 in. (61 x 43.2 cm)",
+    "Credit Line": "Morris K. Jesup Fund, 1940",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/10080",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q6067009",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Houses|Boys|Girls|Women|Working",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300005433|http://vocab.getty.edu/page/aat/300247598|http://vocab.getty.edu/page/aat/300247581|http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/aat/300412186",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q3947|https://www.wikidata.org/wiki/Q3010|https://www.wikidata.org/wiki/Q3031|https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q6958747"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DT105.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 161613,
+        "role": "Artist",
+        "name": "Thomas Anshutz",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500011734",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q2757568",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 61,
+          "Width": 43.2
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 9.5,
+          "Height": 90.3,
+          "Width": 72.2
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Houses",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300005433",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3947"
+      },
+      {
+        "term": "Boys",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300247598",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3010"
+      },
+      {
+        "term": "Girls",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300247581",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3031"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Working",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300412186",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q6958747"
+      }
+    ]
+  }
+}

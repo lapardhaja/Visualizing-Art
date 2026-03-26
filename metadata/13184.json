@@ -1,0 +1,109 @@
+{
+  "object_id": 13184,
+  "excel_metadata": {
+    "Object Number": "14.141",
+    "Is Highlight": true,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 13184,
+    "Gallery Number": 770.0,
+    "Department": "The American Wing",
+    "AccessionYear": 1914.0,
+    "Object Name": "Painting",
+    "Title": "The Red Bridge",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16270.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Julian Alden Weir",
+    "Artist Display Bio": "American, West Point, New York 1852–1919 New York",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Weir, Julian Alden",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1852",
+    "Artist End Date": "1919",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500020809",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q1284220",
+    "Object Date": "1895",
+    "Object Begin Date": 1895,
+    "Object End Date": 1895,
+    "Medium": "Oil on canvas",
+    "Dimensions": "24 1/4 x 33 3/4 in. (61.6 x 85.7 cm)",
+    "Credit Line": "Gift of Mrs. John A. Rutherfurd, 1914",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/13184",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19924750",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Bridges|Rivers|Trees",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300386855|http://vocab.getty.edu/page/aat/300008707|http://vocab.getty.edu/page/aat/300132410",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q12280|https://www.wikidata.org/wiki/Q4022|https://www.wikidata.org/wiki/Q10884"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DT202891.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162707,
+        "role": "Artist",
+        "name": "Julian Alden Weir",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500020809",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1284220",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 61.6,
+          "Width": 85.7
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 7.2,
+          "Height": 88,
+          "Width": 111.8
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Bridges",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300386855",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q12280"
+      },
+      {
+        "term": "Rivers",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300008707",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q4022"
+      },
+      {
+        "term": "Trees",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132410",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q10884"
+      }
+    ]
+  }
+}

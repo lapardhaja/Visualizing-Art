@@ -1,0 +1,104 @@
+{
+  "object_id": 11903,
+  "excel_metadata": {
+    "Object Number": "50.9",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 11903,
+    "Gallery Number": 774.0,
+    "Department": "The American Wing",
+    "AccessionYear": 1950.0,
+    "Object Name": "Painting",
+    "Title": "Near Land's End, Cornwall",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16230.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "William Trost Richards",
+    "Artist Display Bio": "American, Philadelphia, Pennsylvania 1833–1905 Newport, Rhode Island",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Richards, William Trost",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1833",
+    "Artist End Date": "1905",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500014455",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q1985982",
+    "Object Date": "1879",
+    "Object Begin Date": 1879,
+    "Object End Date": 1879,
+    "Medium": "Oil on canvas mounted on masonite",
+    "Dimensions": "23 1/4 x 44 1/4 in. (59.1 x 112.4 cm)",
+    "Credit Line": "Gift of T. S. Matthews, 1950",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/11903",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19924613",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Seascapes|Waves",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300117546|http://vocab.getty.edu/page/aat/300343616",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q158607|https://www.wikidata.org/wiki/Q165848"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/ap50.9.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162306,
+        "role": "Artist",
+        "name": "William Trost Richards",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500014455",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1985982",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 59.1,
+          "Width": 112.4
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 18,
+          "Height": 103.5,
+          "Width": 156.5
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Seascapes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300117546",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q158607"
+      },
+      {
+        "term": "Waves",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300343616",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q165848"
+      }
+    ]
+  }
+}

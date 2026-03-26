@@ -1,0 +1,116 @@
+{
+  "object_id": 11745,
+  "excel_metadata": {
+    "Object Number": "66.242.27",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 11745,
+    "Gallery Number": 736.0,
+    "Department": "The American Wing",
+    "AccessionYear": 1966.0,
+    "Object Name": "Painting",
+    "Title": "The Raymond Children",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 278.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Robert Peckham",
+    "Artist Display Bio": "1785–1877",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Peckham, Robert",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1785",
+    "Artist End Date": "1877",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500009849",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q20859501",
+    "Object Date": "ca. 1838",
+    "Object Begin Date": 1835,
+    "Object End Date": 1838,
+    "Medium": "Oil on canvas",
+    "Dimensions": "55 1/4 x 39 in. (140.3 x 99 cm)",
+    "Credit Line": "Gift of Edgar William and Bernice Chrysler Garbisch, 1966",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/11745",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20172761",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Toys|Boys|Girls|Dolls",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300211037|http://vocab.getty.edu/page/aat/300247598|http://vocab.getty.edu/page/aat/300247581|http://vocab.getty.edu/page/aat/300211087",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q11422|https://www.wikidata.org/wiki/Q3010|https://www.wikidata.org/wiki/Q3031|https://www.wikidata.org/wiki/Q168658"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/ap66.242.27.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ad/original/DT257907.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 2786,
+        "role": "Artist",
+        "name": "Robert Peckham",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500009849",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q20859501",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 10.5,
+          "Height": 157.5,
+          "Width": 116.5
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 140.3,
+          "Width": 99.1
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Boys",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300247598",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3010"
+      },
+      {
+        "term": "Girls",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300247581",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3031"
+      },
+      {
+        "term": "Dolls",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300211087",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q168658"
+      },
+      {
+        "term": "Toys",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300211037",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q11422"
+      }
+    ]
+  }
+}

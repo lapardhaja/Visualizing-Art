@@ -1,0 +1,109 @@
+{
+  "object_id": 11175,
+  "excel_metadata": {
+    "Object Number": "25.182",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 11175,
+    "Gallery Number": NaN,
+    "Department": "The American Wing",
+    "AccessionYear": 1925.0,
+    "Object Name": "Painting",
+    "Title": "Charles Sumner",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16458.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "William Morris Hunt",
+    "Artist Display Bio": "American, Brattleboro, Vermont 1824–1879 Appledore, New Hampshire",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Hunt, William Morris",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1824",
+    "Artist End Date": "1879",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500007307",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q527599",
+    "Object Date": "1875",
+    "Object Begin Date": 1875,
+    "Object End Date": 1875,
+    "Medium": "Oil on canvas",
+    "Dimensions": "22 x 27 in. (55.9 x 68.6 cm)",
+    "Credit Line": "Amelia B. Lazarus Fund, 1925",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/11175",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19924760",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits|Profiles",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300123319",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q4382010"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/ap25.182.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 164585,
+        "role": "Artist",
+        "name": "William Morris Hunt",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500007307",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q527599",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 55.9,
+          "Width": 68.6
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 11.7475,
+          "Height": 93.0277,
+          "Width": 80
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Profiles",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300123319",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q4382010"
+      }
+    ]
+  }
+}

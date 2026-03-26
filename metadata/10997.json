@@ -1,0 +1,114 @@
+{
+  "object_id": 10997,
+  "excel_metadata": {
+    "Object Number": "63.85",
+    "Is Highlight": true,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 10997,
+    "Gallery Number": 763.0,
+    "Department": "The American Wing",
+    "AccessionYear": 1963.0,
+    "Object Name": "Painting",
+    "Title": "Still Life—Violin and Music",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 257.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "William Michael Harnett",
+    "Artist Display Bio": "1848–1892",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Harnett, William Michael",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1848",
+    "Artist End Date": "1892",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500032464",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q935186",
+    "Object Date": "1888",
+    "Object Begin Date": 1888,
+    "Object End Date": 1888,
+    "Medium": "Oil on canvas",
+    "Dimensions": "40 x 30 in. (101.6 x 76.2 cm)",
+    "Credit Line": "Catharine Lorillard Wolfe Collection, Wolfe Fund, 1963",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/10997",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19924658",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Music|Flutes|Violins|Still Life",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300435214|http://vocab.getty.edu/page/aat/300042513|http://vocab.getty.edu/page/aat/300042215|http://vocab.getty.edu/page/aat/300015638",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q638|https://www.wikidata.org/wiki/Q11405|https://www.wikidata.org/wiki/Q8355|https://www.wikidata.org/wiki/Q170571"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DT2046.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 2573,
+        "role": "Artist",
+        "name": "William Michael Harnett",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500032464",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q935186",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 101.6,
+          "Width": 76.2
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 12.7,
+          "Height": 129.9,
+          "Width": 104.5
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Music",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300435214",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q638"
+      },
+      {
+        "term": "Flutes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300042513",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q11405"
+      },
+      {
+        "term": "Violins",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300042215",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8355"
+      },
+      {
+        "term": "Still Life",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015638",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q170571"
+      }
+    ]
+  }
+}

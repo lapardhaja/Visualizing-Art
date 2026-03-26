@@ -1,0 +1,89 @@
+{
+  "object_id": 208054,
+  "excel_metadata": {
+    "Object Number": 1992.14,
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 208054,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1992,
+    "Object Name": "Bowl",
+    "Title": "Bowl",
+    "Culture": "French",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 3339,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Alexandre-Louis-Marie Charpentier",
+    "Artist Display Bio": "French, Paris 1856–1909 Neuilly",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Charpentier, Alexandre-Louis-Marie",
+    "Artist Nationality": "French",
+    "Artist Begin Date": 1856,
+    "Artist End Date": 1909,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500020471",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q980735",
+    "Object Date": 1899,
+    "Object Begin Date": 1899,
+    "Object End Date": 1899,
+    "Medium": "Bronze",
+    "Dimensions": "Diameter: 7 3/8 in. (18.7 cm)",
+    "Credit Line": "Purchase, Gift of Gwynne M. Andrews, by exchange, 1992",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Sculpture-Bronze",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/208054",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Profiles",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300123319",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q4382010"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/254525.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 33396,
+        "role": "Artist",
+        "name": "Alexandre-Louis-Marie Charpentier",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500020471",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q980735",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Diameter",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Diameter": 18.732538
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Profiles",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300123319",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q4382010"
+      }
+    ]
+  }
+}

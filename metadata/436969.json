@@ -1,0 +1,95 @@
+{
+  "object_id": 436969,
+  "excel_metadata": {
+    "Object Number": "49.7.11",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436969,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1949.0,
+    "Object Name": "Painting",
+    "Title": "Rodolfo Gonzaga (1451–1495)",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16209.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": "Style of",
+    "Artist Display Name": "Andrea Mantegna",
+    "Artist Display Bio": "Italian, Mantuan, ca. 1490–95",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Mantegna, Andrea",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1430",
+    "Artist End Date": "1506",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500004218",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q5681",
+    "Object Date": NaN,
+    "Object Begin Date": 1490,
+    "Object End Date": 1495,
+    "Medium": "Tempera on wood",
+    "Dimensions": "4 1/4 x 3 1/4 in. (10.8 x 8.3 cm)",
+    "Credit Line": "The Jules Bache Collection, 1949",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436969",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912247",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/EP358.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162096,
+        "role": "Artist",
+        "name": "Style of Andrea Mantegna",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500004218",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5681",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 10.8,
+          "Width": 8.3
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

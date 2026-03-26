@@ -1,0 +1,83 @@
+{
+  "object_id": 198077,
+  "excel_metadata": {
+    "Object Number": "38.50.37a, b",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 198077,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1938,
+    "Object Name": "Étui",
+    "Title": "Étui",
+    "Culture": "French, Paris",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 3381,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Germain Chayé",
+    "Artist Display Bio": "born 1724; master 1755, active 1787",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "CHAYÉ GERMAIN",
+    "Artist Nationality": " ",
+    "Artist Begin Date": 1724,
+    "Artist End Date": 1824,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500077184",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q90426315",
+    "Object Date": "1764–65",
+    "Object Begin Date": 1764,
+    "Object End Date": 1765,
+    "Medium": "Gold",
+    "Dimensions": "Length: 4 3/4 in. (12.1 cm)",
+    "Credit Line": "Bequest of Kate Read Blacque, in memory of her husband, Valentine Alexander Blacque, 1937",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Metalwork-Gold and Platinum",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/198077",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": null,
+    "Tags AAT URL": null,
+    "Tags Wikidata URL": null
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/116431.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 33819,
+        "role": "Artist",
+        "name": "Germain Chayé",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500077184",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q90426315",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Length",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Length": 12.065024
+        }
+      }
+    ],
+    "tags": null
+  }
+}

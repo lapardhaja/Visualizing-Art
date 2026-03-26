@@ -1,0 +1,112 @@
+{
+  "object_id": 11209,
+  "excel_metadata": {
+    "Object Number": "1977.342.2",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 11209,
+    "Gallery Number": 738.0,
+    "Department": "The American Wing",
+    "AccessionYear": 1977.0,
+    "Object Name": "Painting",
+    "Title": "Mrs. Luman Reed",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16456916185.0,
+    "Artist Role": "Artist|Former Attribution",
+    "Artist Prefix": " |Formerly attributed to",
+    "Artist Display Name": "Charles Cromwell Ingham|Asher Brown Durand",
+    "Artist Display Bio": "American (born Ireland), Dublin 1786–1863 New York|American, Jefferson, New Jersey 1796–1886 Maplewood, New Jersey",
+    "Artist Suffix": " | ",
+    "Artist Alpha Sort": "Ingham, Charles Cromwell|Durand, Asher Brown",
+    "Artist Nationality": "American, born Ireland|American",
+    "Artist Begin Date": "1786      |1796      ",
+    "Artist End Date": "1863      |1886      ",
+    "Artist Gender": "|",
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500019611|http://vocab.getty.edu/page/ulan/500026080",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q5076001|https://www.wikidata.org/wiki/Q391608",
+    "Object Date": "ca. 1835",
+    "Object Begin Date": 1832,
+    "Object End Date": 1835,
+    "Medium": "Oil on canvas, laid down on composition board",
+    "Dimensions": "30 1/8 x 25 in. (76.5 x 63.5 cm)",
+    "Credit Line": "Bequest of Frederick Sturges Jr., 1977",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/11209",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20174697",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Portraits|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/ap1977.342.2.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 164569,
+        "role": "Artist",
+        "name": "Charles Cromwell Ingham",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500019611",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5076001",
+        "gender": ""
+      },
+      {
+        "constituentID": 161856,
+        "role": "Former Attribution",
+        "name": "Formerly attributed to Asher Brown Durand",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500026080",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q391608",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 76.5,
+          "Width": 63.5
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 11.5,
+          "Height": 99.3,
+          "Width": 86.7
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "object_id": 438543,
+  "excel_metadata": {
+    "Object Number": "2002.68",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 438543,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 2002.0,
+    "Object Name": "Painting",
+    "Title": "Still Life with Shells and a Chip-Wood Box",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 11811.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Sebastian Stoskopff",
+    "Artist Display Bio": "French, Strasbourg 1597–1657 Idstein",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Stoskopff, Sebastian",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1597",
+    "Artist End Date": "1657",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500022462",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q706913",
+    "Object Date": "late 1620s",
+    "Object Begin Date": 1626,
+    "Object End Date": 1629,
+    "Medium": "Oil on canvas",
+    "Dimensions": "18 1/2 x 23 3/8 in. (47 x 59.4 cm)",
+    "Credit Line": "Wrightsman Fund, 2002",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/438543",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912305",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Shells|Still Life|Boxes",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300011829|http://vocab.getty.edu/page/aat/300015638|http://vocab.getty.edu/page/aat/300045643",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q213096|https://www.wikidata.org/wiki/Q170571|https://www.wikidata.org/wiki/Q188075"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-25756-001.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-2002_68-2.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-2002_68-3.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 118118,
+        "role": "Artist",
+        "name": "Sebastian Stoskopff",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500022462",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q706913",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 46.9901,
+          "Width": 59.3726
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Shells",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300011829",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q213096"
+      },
+      {
+        "term": "Still Life",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015638",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q170571"
+      },
+      {
+        "term": "Boxes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300045643",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q188075"
+      }
+    ]
+  }
+}

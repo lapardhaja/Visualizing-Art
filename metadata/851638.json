@@ -1,0 +1,93 @@
+{
+  "object_id": 851638,
+  "excel_metadata": {
+    "Object Number": "2021.157",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 851638,
+    "Gallery Number": 759.0,
+    "Department": "The American Wing",
+    "AccessionYear": 2021.0,
+    "Object Name": "Painting",
+    "Title": "Summer Woodlands",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 21611.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Julie Hart Beers",
+    "Artist Display Bio": "American, 1835–1913",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Beers, Julie Hart",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1835",
+    "Artist End Date": "1913",
+    "Artist Gender": "Female",
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500032814",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q20440976",
+    "Object Date": "ca. 1870s",
+    "Object Begin Date": 1865,
+    "Object End Date": 1880,
+    "Medium": "Oil on paper mounted to board",
+    "Dimensions": "11 3/4 × 7 3/4 in. (29.8 × 19.7 cm)",
+    "Credit Line": "Purchase, Morse Family Foundation Fund, 2021",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/851638",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q116445555",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": NaN,
+    "Tags AAT URL": NaN,
+    "Tags Wikidata URL": NaN
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/After Conservation_Julie Hart Beers.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 216112,
+        "role": "Artist",
+        "name": "Julie Hart Beers",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500032814",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q20440976",
+        "gender": "Female"
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 6.508763,
+          "Height": 49.05385,
+          "Width": 38.417576
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 29.84506,
+          "Width": 19.68504
+        }
+      }
+    ],
+    "tags": null
+  }
+}

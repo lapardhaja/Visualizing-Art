@@ -1,0 +1,104 @@
+{
+  "object_id": 14399,
+  "excel_metadata": {
+    "Object Number": "1990.2",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 14399,
+    "Gallery Number": NaN,
+    "Department": "The American Wing",
+    "AccessionYear": 1990.0,
+    "Object Name": "Painting, miniature",
+    "Title": "Portrait of a Gentleman",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 230.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Alfred Thomas Agate",
+    "Artist Display Bio": "1812–1846",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Agate, Alfred T.",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1812",
+    "Artist End Date": "1846",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500116915",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q3373427",
+    "Object Date": "ca. 1835",
+    "Object Begin Date": 1832,
+    "Object End Date": 1835,
+    "Medium": "Watercolor on ivory",
+    "Dimensions": "Diam. 2 1/2 in. (6.4 cm)",
+    "Credit Line": "Maria DeWitt Jesup Fund, 1990",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/14399",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19924834",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DP168874.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ad/original/DP168874b.jpg",
+      "https://images.metmuseum.org/CRDImages/ad/original/DP168873.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 2302,
+        "role": "Artist",
+        "name": "Alfred Thomas Agate",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500116915",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3373427",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Other",
+        "elementDescription": "Object diameter",
+        "elementMeasurements": {
+          "Diameter": 6.4
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 6.4
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

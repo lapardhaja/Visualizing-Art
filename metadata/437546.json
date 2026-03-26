@@ -1,0 +1,95 @@
+{
+  "object_id": 437546,
+  "excel_metadata": {
+    "Object Number": "89.15.4",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437546,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1889.0,
+    "Object Name": "Painting",
+    "Title": "The Forest Stream",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16235.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Jacob van Ruisdael",
+    "Artist Display Bio": "Dutch, Haarlem 1628/29–1682 Amsterdam",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Ruisdael, Jacob van",
+    "Artist Nationality": "Dutch",
+    "Artist Begin Date": "1628",
+    "Artist End Date": "1682",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500027077",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q213612",
+    "Object Date": "ca. 1660",
+    "Object Begin Date": 1655,
+    "Object End Date": 1665,
+    "Medium": "Oil on canvas",
+    "Dimensions": "39 1/4 x 50 7/8 in. (99.7 x 129.2 cm)",
+    "Credit Line": "Marquand Collection, Gift of Henry G. Marquand, 1889",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437546",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q18686212",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Forests|Streams",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300387598|http://vocab.getty.edu/page/aat/300008699",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q4421|https://www.wikidata.org/wiki/Q47521"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP146457.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162354,
+        "role": "Artist",
+        "name": "Jacob van Ruisdael",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500027077",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q213612",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 99.7,
+          "Width": 129.2
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Forests",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300387598",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q4421"
+      },
+      {
+        "term": "Streams",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300008699",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q47521"
+      }
+    ]
+  }
+}

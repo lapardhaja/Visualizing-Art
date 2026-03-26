@@ -1,0 +1,117 @@
+{
+  "object_id": 10768,
+  "excel_metadata": {
+    "Object Number": "91.27.1",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 10768,
+    "Gallery Number": 730.0,
+    "Department": "The American Wing",
+    "AccessionYear": 1891.0,
+    "Object Name": "Painting",
+    "Title": "On the Hudson",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16388.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Thomas Doughty",
+    "Artist Display Bio": "American, Philadelphia, Pennsylvania 1793–1856 New York",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Doughty, Thomas",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1793",
+    "Artist End Date": "1856",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500031561",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q284954",
+    "Object Date": "1830–35",
+    "Object Begin Date": 1830,
+    "Object End Date": 1835,
+    "Medium": "Oil on canvas",
+    "Dimensions": "14 3/4 x 21 1/2 in. (37.5 x 54.6 cm)",
+    "Credit Line": "Gift of Samuel P. Avery, 1891",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/10768",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19924794",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Rivers|Mountains|Landscapes",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300008707|http://vocab.getty.edu/page/aat/300008795|http://vocab.getty.edu/page/aat/300132294",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q4022|https://www.wikidata.org/wiki/Q8502|https://www.wikidata.org/wiki/Q191163"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/ap91.27.1.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 163882,
+        "role": "Artist",
+        "name": "Thomas Doughty",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500031561",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q284954",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 37.5,
+          "Width": 54.6
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 9.84252,
+          "Height": 54,
+          "Width": 68.738884
+        }
+      },
+      {
+        "elementName": "Glazing",
+        "elementDescription": "when needed",
+        "elementMeasurements": {
+          "Height": 36.195072,
+          "Width": 51.7526
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Rivers",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300008707",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q4022"
+      },
+      {
+        "term": "Mountains",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300008795",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8502"
+      },
+      {
+        "term": "Landscapes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+      }
+    ]
+  }
+}

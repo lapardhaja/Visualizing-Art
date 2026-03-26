@@ -1,0 +1,116 @@
+{
+  "object_id": 458961,
+  "excel_metadata": {
+    "Object Number": "1975.1.21",
+    "Is Highlight": true,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 458961,
+    "Gallery Number": 952.0,
+    "Department": "Robert Lehman Collection",
+    "AccessionYear": 1975.0,
+    "Object Name": "Painting",
+    "Title": "The Coronation of the Virgin",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16216.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Niccolò di Buonaccorso",
+    "Artist Display Bio": "Italian, active Siena by 1372–died 1388 Siena",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Niccolò di Buonaccorso",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1372",
+    "Artist End Date": "1388",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500120787",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q3875919",
+    "Object Date": "ca. 1380",
+    "Object Begin Date": 1377,
+    "Object End Date": 1383,
+    "Medium": "Tempera on wood, gold ground",
+    "Dimensions": "Overall, with engaged frame, 20 x 12 7/8 in. (50.8 x 32.7 cm); painted surface 17 5/8 x 10 1/2 in. (44.8 x 26.7 cm)",
+    "Credit Line": "Robert Lehman Collection, 1975",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/458961",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20183589",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Angels|Virgin Mary|Musical Instruments|Saints",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300379004|http://vocab.getty.edu/page/ia/901000032|http://vocab.getty.edu/page/aat/300041620|http://vocab.getty.edu/page/aat/300150555",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q235113|https://www.wikidata.org/wiki/Q345|https://www.wikidata.org/wiki/Q34379|https://www.wikidata.org/wiki/Q43115"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/rl/original/DP-19531-102.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/rl/original/DP-19531-103.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/DT3012.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/227710.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/227711.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/227712.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/ep1975.1.21.r.bw.R.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/ep1975.1.21.v.bw.R.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/0218.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/sf-rlc-1975-1-21-r.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/sf-rlc-1975-1-21-v.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 162162,
+        "role": "Artist",
+        "name": "Niccolò di Buonaccorso",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500120787",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3875919",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 50.8,
+          "Width": 32.7
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Musical Instruments",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300041620",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q34379"
+      },
+      {
+        "term": "Angels",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379004",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q235113"
+      },
+      {
+        "term": "Virgin Mary",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000032",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q345"
+      },
+      {
+        "term": "Saints",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300150555",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q43115"
+      }
+    ]
+  }
+}

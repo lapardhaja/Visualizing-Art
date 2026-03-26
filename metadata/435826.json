@@ -1,0 +1,114 @@
+{
+  "object_id": 435826,
+  "excel_metadata": {
+    "Object Number": "47.26",
+    "Is Highlight": true,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 435826,
+    "Gallery Number": 800.0,
+    "Department": "European Paintings",
+    "AccessionYear": 1947.0,
+    "Object Name": "Painting",
+    "Title": "The Love Song",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16172.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Sir Edward Burne-Jones",
+    "Artist Display Bio": "British, Birmingham 1833–1898 Fulham",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Burne-Jones, Edward, Sir",
+    "Artist Nationality": "British",
+    "Artist Begin Date": "1833",
+    "Artist End Date": "1898",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500001381",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q216406",
+    "Object Date": "1868–77",
+    "Object Begin Date": 1868,
+    "Object End Date": 1877,
+    "Medium": "Oil on canvas",
+    "Dimensions": "45 x 61 3/8 in. (114.3 x 155.9 cm)",
+    "Credit Line": "The Alfred N. Punnett Endowment Fund, 1947",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/435826",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19822324",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Musical Instruments|Armor|Men|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300041620|http://vocab.getty.edu/page/aat/300226591|http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q34379|https://www.wikidata.org/wiki/Q20793164|https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP323394.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 161729,
+        "role": "Artist",
+        "name": "Sir Edward Burne-Jones",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500001381",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q216406",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 114.3,
+          "Width": 155.9
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 12.7,
+          "Height": 146.6853,
+          "Width": 187.9604
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Musical Instruments",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300041620",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q34379"
+      },
+      {
+        "term": "Armor",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300226591",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q20793164"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

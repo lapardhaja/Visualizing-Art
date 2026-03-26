@@ -1,0 +1,90 @@
+{
+  "object_id": 200374,
+  "excel_metadata": {
+    "Object Number": "48.187.415a, b",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 200374,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1948,
+    "Object Name": "Sugar caster",
+    "Title": "Sugar caster",
+    "Culture": "French, Toulouse",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 3488,
+    "Artist Role": "Maker",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Jean Lacère (Lasserre), père",
+    "Artist Display Bio": "master 1701, died 1756",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Lacère (Lasserre), père Jean",
+    "Artist Nationality": " ",
+    "Artist Begin Date": 1656,
+    "Artist End Date": 1756,
+    "Artist Gender": null,
+    "Artist ULAN URL": null,
+    "Artist Wikidata URL": null,
+    "Object Date": "possibly 1732",
+    "Object Begin Date": 1732,
+    "Object End Date": 1732,
+    "Medium": "Silver",
+    "Dimensions": "Height: 8 7/8 in. (22.5 cm)",
+    "Credit Line": "Bequest of Catherine D. Wentworth, 1948",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Metalwork-Silver",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/200374",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": null,
+    "Tags AAT URL": null,
+    "Tags Wikidata URL": null
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/164220.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/143788.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/143790.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/143791.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/154124.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/154125.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/143789.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 34889,
+        "role": "Maker",
+        "name": "Jean Lacère (Lasserre), père",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Height",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 22.542545
+        }
+      }
+    ],
+    "tags": null
+  }
+}

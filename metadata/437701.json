@@ -1,0 +1,102 @@
+{
+  "object_id": 437701,
+  "excel_metadata": {
+    "Object Number": "67.102",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437701,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1967.0,
+    "Object Name": "Painting, sketch",
+    "Title": "Diego Pignatelli d'Aragona (1687–1750) and an Enslaved African Servant",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16244.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Francesco Solimena",
+    "Artist Display Bio": "Italian, Canale di Serino 1657–1747 Barra",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Solimena, Francesco",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1657",
+    "Artist End Date": "1747",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500019310",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q736065",
+    "Object Date": "probably 1731 or 1732",
+    "Object Begin Date": 1731,
+    "Object End Date": 1732,
+    "Medium": "Oil on canvas",
+    "Dimensions": "23 1/4 x 18 1/4 in. (59.1 x 46.4 cm)",
+    "Credit Line": "Rogers Fund, 1967",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437701",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19913124",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits|Servants",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300025874",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q54128"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-14155-001.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/DP-14155-002.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 162443,
+        "role": "Artist",
+        "name": "Francesco Solimena",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500019310",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q736065",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 59.1,
+          "Width": 46.4
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Servants",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025874",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q54128"
+      }
+    ]
+  }
+}

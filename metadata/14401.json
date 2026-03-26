@@ -1,0 +1,95 @@
+{
+  "object_id": 14401,
+  "excel_metadata": {
+    "Object Number": "1989.228a, b",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 14401,
+    "Gallery Number": NaN,
+    "Department": "The American Wing",
+    "AccessionYear": 1989.0,
+    "Object Name": "Painting, miniature",
+    "Title": "Memorial to Peter Philip Walter",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16189.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Samuel Folwell",
+    "Artist Display Bio": "American, 1764–1813 Philadelphia, Pennsylvania",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Folwell, Samuel",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1764",
+    "Artist End Date": "1813",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500020122",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q22669631",
+    "Object Date": "1800–1805",
+    "Object Begin Date": 1813,
+    "Object End Date": 1819,
+    "Medium": "Watercolor on ivory rose gold locket with hair reserve verso",
+    "Dimensions": "2 1/16 x 1 3/4 in. (5.3 x 4.4 cm)",
+    "Credit Line": "Morris K. Jesup Fund, 1989",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/14401",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19925597",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Women|Boys",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/aat/300247598",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q3010"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/ap1989.228a,b.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 161890,
+        "role": "Artist",
+        "name": "Samuel Folwell",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500020122",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q22669631",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 5.2,
+          "Width": 4.4
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Boys",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300247598",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3010"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

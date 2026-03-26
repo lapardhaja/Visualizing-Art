@@ -1,0 +1,109 @@
+{
+  "object_id": 437497,
+  "excel_metadata": {
+    "Object Number": "1989.86",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 437497,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1989.0,
+    "Object Name": "Painting, processional banner",
+    "Title": "The Flagellation; (reverse) The Madonna of Mercy",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16233.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Girolamo Romanino",
+    "Artist Display Bio": "Italian, Brescia 1484/87–1560 Brescia",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Romanino, Girolamo",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1484",
+    "Artist End Date": "1560",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500025221",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q732766",
+    "Object Date": "ca. 1540",
+    "Object Begin Date": 1535,
+    "Object End Date": 1545,
+    "Medium": "Distemper and oil(?) on canvas",
+    "Dimensions": "70 7/8 x 47 1/2 in. (180 x 120.7 cm)",
+    "Credit Line": "Purchase, Anonymous Bequest, by exchange, 1989",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437497",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19911607",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Virgin Mary|Saints|Christ",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/ia/901000032|http://vocab.getty.edu/page/aat/300150555|http://vocab.getty.edu/page/ia/901000087",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q345|https://www.wikidata.org/wiki/Q43115|https://www.wikidata.org/wiki/Q642420"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT6075.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/DT6076.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-1989_86-2.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-1989_86-3.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 162332,
+        "role": "Artist",
+        "name": "Girolamo Romanino",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500025221",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q732766",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 180,
+          "Width": 120.7
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Christ",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+      },
+      {
+        "term": "Virgin Mary",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000032",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q345"
+      },
+      {
+        "term": "Saints",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300150555",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q43115"
+      }
+    ]
+  }
+}

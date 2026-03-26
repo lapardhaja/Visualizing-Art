@@ -1,0 +1,84 @@
+{
+  "object_id": 465930,
+  "excel_metadata": {
+    "Object Number": "18.145.9",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 465930,
+    "Gallery Number": 303,
+    "Department": "Medieval Art",
+    "AccessionYear": 1918,
+    "Object Name": "Cameo",
+    "Title": "Cameo with Saint Nicholas",
+    "Culture": "Byzantine or Italian",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": null,
+    "Artist Role": null,
+    "Artist Prefix": null,
+    "Artist Display Name": null,
+    "Artist Display Bio": null,
+    "Artist Suffix": null,
+    "Artist Alpha Sort": null,
+    "Artist Nationality": null,
+    "Artist Begin Date": null,
+    "Artist End Date": null,
+    "Artist Gender": null,
+    "Artist ULAN URL": null,
+    "Artist Wikidata URL": null,
+    "Object Date": "12th–13th century",
+    "Object Begin Date": 1100,
+    "Object End Date": 1300,
+    "Medium": "Moulded glass paste",
+    "Dimensions": "Overall: 1 x 13/16 x 5/16 in. (2.6 x 2 x 0.8 cm)",
+    "Credit Line": "Rogers Fund, 1918",
+    "Geography Type": "Made in",
+    "City": "Venice ?",
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Glass",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/465930",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q116246007",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Cameos",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300047261",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q28512"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/md/original/sf18-145-9s1.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/md/original/sf18-145-9s2.jpg"
+    ],
+    "constituents": null,
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 0.8,
+          "Height": 2.6,
+          "Width": 2
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Cameos",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300047261",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q28512"
+      }
+    ]
+  }
+}

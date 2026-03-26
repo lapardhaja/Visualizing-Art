@@ -1,0 +1,95 @@
+{
+  "object_id": 435625,
+  "excel_metadata": {
+    "Object Number": "32.75.15",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 435625,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1932.0,
+    "Object Name": "Painting, miniature",
+    "Title": "Portrait of a Woman",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10852.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "David Baudringhien",
+    "Artist Display Bio": "Dutch, ca. 1581–1650",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Baudringhien, David",
+    "Artist Nationality": "Dutch",
+    "Artist Begin Date": "1581",
+    "Artist End Date": "1650",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500006743",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q18516482",
+    "Object Date": NaN,
+    "Object Begin Date": 1601,
+    "Object End Date": 1650,
+    "Medium": "Oil on copper",
+    "Dimensions": "Oval, 3 3/4 x 3 in. (95 x 76 mm)",
+    "Credit Line": "The Collection of Giovanni P. Morosini, presented by his daughter Giulia, 1932",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Miniatures",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/435625",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19913679",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Portraits|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/257553.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 108524,
+        "role": "Artist",
+        "name": "David Baudringhien",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500006743",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q18516482",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 9.5,
+          "Width": 7.6
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

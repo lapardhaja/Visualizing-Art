@@ -1,0 +1,130 @@
+{
+  "object_id": 436106,
+  "excel_metadata": {
+    "Object Number": "1977.1",
+    "Is Highlight": true,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 436106,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1977.0,
+    "Object Name": "Painting",
+    "Title": "Antoine Laurent Lavoisier (1743–1794) and Marie Anne Lavoisier (Marie Anne Pierrette Paulze, 1758–1836)",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16181.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Jacques Louis David",
+    "Artist Display Bio": "French, Paris 1748–1825 Brussels",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "David, Jacques Louis",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1748",
+    "Artist End Date": "1825",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500115221",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q83155",
+    "Object Date": "1788",
+    "Object Begin Date": 1788,
+    "Object End Date": 1788,
+    "Medium": "Oil on canvas",
+    "Dimensions": "102 1/4 x 76 5/8 in. (259.7 x 194.6 cm)",
+    "Credit Line": "Purchase, Mr. and Mrs. Charles Wrightsman Gift, in honor of Everett Fahy, 1977",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436106",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q613928",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Couples|Men|Portraits|Women|Scientists|Chemistry",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300379217|http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/aat/300025788|http://vocab.getty.edu/page/aat/300054537",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q219160|https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q901|https://www.wikidata.org/wiki/Q2329"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-19709-001.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/DP-13140-002.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/DP-13140-003.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/DP-13140-004.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/DP-13140-001.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-1977_10-2.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-1977_10-3.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 161811,
+        "role": "Artist",
+        "name": "Jacques Louis David",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115221",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q83155",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 259.7,
+          "Width": 194.6
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 361.9507,
+          "Width": 250.5
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Couples",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379217",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q219160"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Chemistry",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300054537",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q2329"
+      },
+      {
+        "term": "Scientists",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025788",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q901"
+      }
+    ]
+  }
+}

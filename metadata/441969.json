@@ -1,0 +1,116 @@
+{
+  "object_id": 441969,
+  "excel_metadata": {
+    "Object Number": "2012.348",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 441969,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 2012.0,
+    "Object Name": "Painting",
+    "Title": "Charles Maurice de Talleyrand Périgord (1754–1838), Prince de Bénévent",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16357.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "baron François Gérard",
+    "Artist Display Bio": "French, Rome 1770–1837 Paris",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Gérard, François, baron",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1770",
+    "Artist End Date": "1837",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500115453",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q163543",
+    "Object Date": "1808",
+    "Object Begin Date": 1808,
+    "Object End Date": 1808,
+    "Medium": "Oil on canvas",
+    "Dimensions": "83 7/8 x 57 7/8 in. (213 x 147 cm)",
+    "Credit Line": "Purchase, Mrs. Charles Wrightsman Gift, 2012",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/441969",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19905615",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Princes|Men|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025482|http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q2747456|https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP277234.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/DP319487.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/DP319486.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/DP319496.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/DP319494.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/DP319477.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/DP319507.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-2012_348-2.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-2012_348-3.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 163574,
+        "role": "Artist",
+        "name": "baron François Gérard",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115453",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q163543",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 213.04292,
+          "Width": 147.00279
+        }
+      },
+      {
+        "elementName": "Other",
+        "elementDescription": "Picture + Frame",
+        "elementMeasurements": {
+          "Weight": 52.16366
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Princes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025482",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q2747456"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

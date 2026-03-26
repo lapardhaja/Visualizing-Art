@@ -1,0 +1,91 @@
+{
+  "object_id": 470,
+  "excel_metadata": {
+    "Object Number": "83.2.220",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 470,
+    "Gallery Number": NaN,
+    "Department": "The American Wing",
+    "AccessionYear": 1883.0,
+    "Object Name": "Painting",
+    "Title": "Plaque Portrait of Benjamin Franklin",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": NaN,
+    "Artist Role": NaN,
+    "Artist Prefix": NaN,
+    "Artist Display Name": NaN,
+    "Artist Display Bio": NaN,
+    "Artist Suffix": NaN,
+    "Artist Alpha Sort": NaN,
+    "Artist Nationality": NaN,
+    "Artist Begin Date": NaN,
+    "Artist End Date": NaN,
+    "Artist Gender": NaN,
+    "Artist ULAN URL": NaN,
+    "Artist Wikidata URL": NaN,
+    "Object Date": "1776–1883",
+    "Object Begin Date": 1776,
+    "Object End Date": 1883,
+    "Medium": "Probably porcelain",
+    "Dimensions": "3 x 2 3/8 in. (7.6 x 6 cm)",
+    "Credit Line": "Gift of William H. Huntington, 1883",
+    "Geography Type": "Made in",
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": "France",
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/470",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q79024432",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Benjamin Franklin|Men|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ulan/500331804|http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q34969|https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/25581.jpg",
+    "additionalImages": [],
+    "constituents": null,
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 7.6,
+          "Width": 6.0325
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Benjamin Franklin",
+        "AAT_URL": "http://vocab.getty.edu/page/ulan/500331804",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q34969"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "object_id": 459084,
+  "excel_metadata": {
+    "Object Number": "1975.1.142",
+    "Is Highlight": true,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 459084,
+    "Gallery Number": 964.0,
+    "Department": "Robert Lehman Collection",
+    "AccessionYear": 1975.0,
+    "Object Name": "Painting",
+    "Title": "Margaretha van Haexbergen (1614–1676)",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16169.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Gerard ter Borch the Younger",
+    "Artist Display Bio": "Dutch, Zwolle 1617–1681 Deventer",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Borch, Gerard ter, the Younger",
+    "Artist Nationality": "Dutch",
+    "Artist Begin Date": "1617",
+    "Artist End Date": "1681",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500017511",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q346808",
+    "Object Date": "ca. 1666–67",
+    "Object Begin Date": 1663,
+    "Object End Date": 1670,
+    "Medium": "Oil on canvas",
+    "Dimensions": "32 x 26 in. (81.3 x 65.1 cm)",
+    "Credit Line": "Robert Lehman Collection, 1975",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/459084",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20184548",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Portraits|Women|Chairs",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/aat/300037772",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q15026"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/rl/original/DP146504.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/rl/original/DT3100.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/ep1975.1.142.bw.R.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/1609.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 161698,
+        "role": "Artist",
+        "name": "Gerard ter Borch the Younger",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500017511",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q346808",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 81.3,
+          "Width": 65.1
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Chairs",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300037772",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q15026"
+      }
+    ]
+  }
+}

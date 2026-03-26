@@ -1,0 +1,124 @@
+{
+  "object_id": 436767,
+  "excel_metadata": {
+    "Object Number": "09.104",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436767,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1909.0,
+    "Object Name": "Painting, triptych",
+    "Title": "The Life of Christ",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 13009.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": "Attributed to",
+    "Artist Display Name": "Franceschino Zavattari",
+    "Artist Display Bio": "Italian, Milan, active 1414–53",
+    "Artist Suffix": "and Workshop",
+    "Artist Alpha Sort": "Zavattari, Franceschino",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1414",
+    "Artist End Date": "1453",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500002369",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q3080890",
+    "Object Date": NaN,
+    "Object Begin Date": 1400,
+    "Object End Date": 1449,
+    "Medium": "Tempera on wood, gold ground",
+    "Dimensions": "Central panel, overall, with engaged frame, 24 1/8 x 16 3/4 in. (61.3 x 42.5 cm), painted surface 20 5/8 x 14 3/4 in. (52.4 x 37.5 cm); left wing, overall, with engaged frame, 23 3/8 x 8 1/4 in. (59.4 x 21 cm), painted surface 21 1/2 x 6 1/2 in. (54.6 x 16.5 cm); right wing, overall, with engaged frame, 23 3/8 x 8 1/4 in. (59.4 x 21 cm), painted surface 21 1/2 x 6 1/4 in. (54.6 x 15.9 cm)",
+    "Credit Line": "Rogers Fund, 1909",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436767",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19905227",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Saint John the Baptist|Adoration of the Magi|Last Supper|Nativity|Flight Into Egypt|Christ",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901001056|http://vocab.getty.edu/page/ia/901000083|http://vocab.getty.edu/page/ia/901000357|http://vocab.getty.edu/page/ia/901000124|http://vocab.getty.edu/page/ia/901000391|http://vocab.getty.edu/page/ia/901000087",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q40662|https://www.wikidata.org/wiki/Q488841|https://www.wikidata.org/wiki/Q51633|https://www.wikidata.org/wiki/Q51628|https://www.wikidata.org/wiki/Q837143|https://www.wikidata.org/wiki/Q642420"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP228761.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 130093,
+        "role": "Artist",
+        "name": "Attributed to Franceschino Zavattari",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500002369",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3080890",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 61.3,
+          "Width": 42.5
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 5.08001,
+          "Height": 61.277622,
+          "Width": 85.09017
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Christ",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+      },
+      {
+        "term": "Saint John the Baptist",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901001056",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q40662"
+      },
+      {
+        "term": "Adoration of the Magi",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000083",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q488841"
+      },
+      {
+        "term": "Last Supper",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000357",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q51633"
+      },
+      {
+        "term": "Nativity",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000124",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q51628"
+      },
+      {
+        "term": "Flight Into Egypt",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000391",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q837143"
+      }
+    ]
+  }
+}

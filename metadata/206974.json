@@ -1,0 +1,87 @@
+{
+  "object_id": 206974,
+  "excel_metadata": {
+    "Object Number": "1982.60.59",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 206974,
+    "Gallery Number": 539,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1982,
+    "Object Name": "Commode",
+    "Title": "Commode",
+    "Culture": "French, Paris",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 3519,
+    "Artist Role": "Maker",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Roger Vandercruse, called Lacroix",
+    "Artist Display Bio": "French, 1727–1799",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Vandercruse Roger called Lacroix",
+    "Artist Nationality": "French",
+    "Artist Begin Date": 1727,
+    "Artist End Date": 1799,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500007075",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q3439532",
+    "Object Date": "ca. 1755–60",
+    "Object Begin Date": 1750,
+    "Object End Date": 1765,
+    "Medium": "Oak veneered with tulip-, rose-, and end cut kingwood, gilt bronze, rouge griotte marble",
+    "Dimensions": "32 1/4 x 28 1/4 x 16 3/4 in. (81.9 x 71.8 x 42.5cm)",
+    "Credit Line": "The Jack and Belle Linsky Collection, 1982",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Woodwork-Furniture",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/206974",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q116307576",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": null,
+    "Tags AAT URL": null,
+    "Tags Wikidata URL": null
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DT8890.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/232538.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 35199,
+        "role": "Maker",
+        "name": "Roger Vandercruse, called Lacroix",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500007075",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3439532",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 42.5,
+          "Height": 81.9,
+          "Width": 71.8
+        }
+      }
+    ],
+    "tags": null
+  }
+}

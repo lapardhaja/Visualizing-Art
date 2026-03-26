@@ -1,0 +1,91 @@
+{
+  "object_id": 207394,
+  "excel_metadata": {
+    "Object Number": 1983.356,
+    "Is Highlight": true,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 207394,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1983,
+    "Object Name": "Fountain statuette",
+    "Title": "Sprite",
+    "Culture": "Italian, Florence",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 16184,
+    "Artist Role": "Artist",
+    "Artist Prefix": "Sculptor/metalsmith close to",
+    "Artist Display Name": "Donatello",
+    "Artist Display Bio": "Italian, Florence ca. 1386–1466 Florence",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Donatello",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": 1386,
+    "Artist End Date": 1466,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500026022",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q37562",
+    "Object Date": 1432,
+    "Object Begin Date": 1432,
+    "Object End Date": 1432,
+    "Medium": "High-copper alloy, fire-gilt, brown natural patina where exposed",
+    "Dimensions": "Overall (confirmed): 24 1/4 × 8 1/8 × 11 3/4 in., 30 lb. (61.6 × 20.6 × 29.8 cm, 13.6 kg)",
+    "Credit Line": "Purchase, Mrs. Samuel Reed Gift, Rogers Fund, by exchange, and Louis V. Bell Fund, 1983",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Sculpture-Bronze",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/207394",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q29383657",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": null,
+    "Tags AAT URL": null,
+    "Tags Wikidata URL": null
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP242101.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/DP242100.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP242102.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP242103.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP236933.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 161842,
+        "role": "Artist",
+        "name": "Sculptor/metalsmith close to Donatello",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500026022",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q37562",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": "confirmed",
+        "elementMeasurements": {
+          "Depth": 29.84506,
+          "Height": 61.595123,
+          "Weight": 13.607911,
+          "Width": 20.63754
+        }
+      }
+    ],
+    "tags": null
+  }
+}

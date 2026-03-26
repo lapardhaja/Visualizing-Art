@@ -1,0 +1,116 @@
+{
+  "object_id": 458982,
+  "excel_metadata": {
+    "Object Number": "1975.1.42",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 458982,
+    "Gallery Number": NaN,
+    "Department": "Robert Lehman Collection",
+    "AccessionYear": 1975.0,
+    "Object Name": "Painting",
+    "Title": "Madonna and Child with Saints Jerome, Bernardino, John the Baptist, and Anthony of Padua and Two Angels",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16237.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Sano di Pietro (Ansano di Pietro di Mencio)",
+    "Artist Display Bio": "Italian, Siena 1405–1481 Siena",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Sano di Pietro (Ansano di Pietro di Mencio)",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1405",
+    "Artist End Date": "1481",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500115558",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q1379714",
+    "Object Date": "ca. 1465–70",
+    "Object Begin Date": 1462,
+    "Object End Date": 1473,
+    "Medium": "Tempera on wood, gold ground",
+    "Dimensions": "Overall, with engaged frame: 29 1/8 × 20 3/8 in. (74 × 51.8 cm)\r\npainted surface: 24 3/8 × 15 5/8 in. (61.9 × 39.7 cm)",
+    "Credit Line": "Robert Lehman Collection, 1975",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/458982",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20187969",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Angels|Madonna and Child|Saint Jerome|Saint John the Baptist",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300379004|http://vocab.getty.edu/page/ia/901000052|http://vocab.getty.edu/page/ulan/500060933|http://vocab.getty.edu/page/ia/901001056",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q235113|https://www.wikidata.org/wiki/Q9309699|https://www.wikidata.org/wiki/Q44248|https://www.wikidata.org/wiki/Q40662"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/rl/original/DT3031.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/rl/original/ep1975.1.42.bw.R.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/0264.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 162375,
+        "role": "Artist",
+        "name": "Sano di Pietro (Ansano di Pietro di Mencio)",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115558",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1379714",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": "Overall, with engaged frame",
+        "elementMeasurements": {
+          "Height": 74,
+          "Width": 51.8
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": "painted surface",
+        "elementMeasurements": {
+          "Height": 61.9,
+          "Width": 39.7
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Angels",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379004",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q235113"
+      },
+      {
+        "term": "Madonna and Child",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000052",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q9309699"
+      },
+      {
+        "term": "Saint Jerome",
+        "AAT_URL": "http://vocab.getty.edu/page/ulan/500060933",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q44248"
+      },
+      {
+        "term": "Saint John the Baptist",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901001056",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q40662"
+      }
+    ]
+  }
+}

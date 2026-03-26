@@ -1,0 +1,107 @@
+{
+  "object_id": 437286,
+  "excel_metadata": {
+    "Object Number": "69.129",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437286,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1969.0,
+    "Object Name": "Painting",
+    "Title": "The Death of Harmonia",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16508.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Jean-Baptiste Marie Pierre",
+    "Artist Display Bio": "French, Paris 1714–1789 Paris",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Pierre, Jean-Baptiste Marie",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1714",
+    "Artist End Date": "1789",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500001529",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q2327270",
+    "Object Date": "ca. 1740–41",
+    "Object Begin Date": 1740,
+    "Object End Date": 1741,
+    "Medium": "Oil on canvas",
+    "Dimensions": "77 1/2 x 58 1/4 in. (196.9 x 148 cm)",
+    "Credit Line": "Gift of Mr. and Mrs. Harry N. Abrams, by exchange, 1969",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437286",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912279",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Death|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300151836|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q4|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP335085.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 165086,
+        "role": "Artist",
+        "name": "Jean-Baptiste Marie Pierre",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500001529",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q2327270",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 196.9,
+          "Width": 148
+        }
+      },
+      {
+        "elementName": "Other",
+        "elementDescription": "Picture + Frame ",
+        "elementMeasurements": {
+          "Weight": 43.545315
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Death",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300151836",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q4"
+      }
+    ]
+  }
+}

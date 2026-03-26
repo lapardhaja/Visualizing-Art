@@ -1,0 +1,109 @@
+{
+  "object_id": 10468,
+  "excel_metadata": {
+    "Object Number": "13.9",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 10468,
+    "Gallery Number": 769.0,
+    "Department": "The American Wing",
+    "AccessionYear": 1913.0,
+    "Object Name": "Painting",
+    "Title": "For the Little One",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16176.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "William Merritt Chase",
+    "Artist Display Bio": "American, Williamsburg, Indiana 1849–1916 New York",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Chase, William Merritt",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1849",
+    "Artist End Date": "1916",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500115356",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q265820",
+    "Object Date": "ca. 1896",
+    "Object Begin Date": 1893,
+    "Object End Date": 1896,
+    "Medium": "Oil on canvas",
+    "Dimensions": "40 x 35 1/4 in. (101.6 x 89.5 cm)",
+    "Credit Line": "Amelia B. Lazarus Fund, by exchange, 1917",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/10468",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20170971",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Interiors|Women|Sewing",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300391239|http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/aat/300053658",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q2998430|https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q652122"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DP161212.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 161767,
+        "role": "Artist",
+        "name": "William Merritt Chase",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115356",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q265820",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 11.4,
+          "Height": 132.1,
+          "Width": 137.2
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 101.6,
+          "Width": 89.5
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Interiors",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300391239",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q2998430"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Sewing",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300053658",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q652122"
+      }
+    ]
+  }
+}

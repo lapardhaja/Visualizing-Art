@@ -1,0 +1,90 @@
+{
+  "object_id": 471856,
+  "excel_metadata": {
+    "Object Number": "67.155.25",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 471856,
+    "Gallery Number": 12,
+    "Department": "The Cloisters",
+    "AccessionYear": 1967,
+    "Object Name": "Capital",
+    "Title": "Double Capital",
+    "Culture": "French",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": null,
+    "Artist Role": null,
+    "Artist Prefix": null,
+    "Artist Display Name": null,
+    "Artist Display Bio": null,
+    "Artist Suffix": null,
+    "Artist Alpha Sort": null,
+    "Artist Nationality": null,
+    "Artist Begin Date": null,
+    "Artist End Date": null,
+    "Artist Gender": null,
+    "Artist ULAN URL": null,
+    "Artist Wikidata URL": null,
+    "Object Date": "late 15th century",
+    "Object Begin Date": 1471,
+    "Object End Date": 1499,
+    "Medium": "Marble",
+    "Dimensions": "Overall: 15 3/4 x 19 x 10 1/2 in. (40 x 48.3 x 26.7 cm)",
+    "Credit Line": "Bequest of Susan Vanderpoel Clark, 1967",
+    "Geography Type": "Made in",
+    "City": null,
+    "State": null,
+    "County": "Pyrénées",
+    "Country": "France",
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Sculpture-Architectural",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/471856",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q116247857",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Moses",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/ia/901000167",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q9077"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/cl/original/cds67-155-25fr.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/cl/original/cds67-155-25.jpg",
+      "https://images.metmuseum.org/CRDImages/cl/original/DP104561.jpg"
+    ],
+    "constituents": null,
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 26.6701,
+          "Height": 40.0051,
+          "Width": 48.2601
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Moses",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000167",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q9077"
+      }
+    ]
+  }
+}

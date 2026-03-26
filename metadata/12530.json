@@ -1,0 +1,95 @@
+{
+  "object_id": 12530,
+  "excel_metadata": {
+    "Object Number": "38.146.2",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 12530,
+    "Gallery Number": NaN,
+    "Department": "The American Wing",
+    "AccessionYear": 1938.0,
+    "Object Name": "Painting, miniature",
+    "Title": "Mrs. George M. Gill (Ann McKim Bowly)",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 287.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "George Lethbridge Saunders",
+    "Artist Display Bio": "British, Bristol 1807–1863 Bristol",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Saunders, George Lethbridge",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1807",
+    "Artist End Date": "1863",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500023648",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q16065986",
+    "Object Date": "1841",
+    "Object Begin Date": 1841,
+    "Object End Date": 1841,
+    "Medium": "Watercolor on ivory",
+    "Dimensions": "Sight: 5 x 3 7/8 in. (12.7 x 9.8 cm)",
+    "Credit Line": "Fletcher Fund, 1938",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/12530",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20173422",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Portraits|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/ap38.146.2.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 2878,
+        "role": "Artist",
+        "name": "George Lethbridge Saunders",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500023648",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q16065986",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Sight",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 12.7,
+          "Width": 9.8425
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

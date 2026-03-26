@@ -1,0 +1,122 @@
+{
+  "object_id": 209538,
+  "excel_metadata": {
+    "Object Number": "33.82.1",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 209538,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1933,
+    "Object Name": "Fan",
+    "Title": "Fan",
+    "Culture": "French",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 16357300000000000,
+    "Artist Role": "Artist|Artist|Artist",
+    "Artist Prefix": "after|after|after",
+    "Artist Display Name": "Pierre François Léonard Fontaine|Antoine Denis Chaudet|Charles Percier",
+    "Artist Display Bio": "French, Pontoise 1762–1853 Paris|French, Paris 1763–1810 Paris|French, Paris 1764–1838 Paris",
+    "Artist Suffix": " | | ",
+    "Artist Alpha Sort": "Fontaine, Pierre François Léonard|Chaudet, Antoine Denis|Percier, Charles",
+    "Artist Nationality": "French|French|French",
+    "Artist Begin Date": "1762      |1763      |1764      ",
+    "Artist End Date": "1853      |1810      |1838      ",
+    "Artist Gender": "||",
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500016389|http://vocab.getty.edu/page/ulan/500003453|http://vocab.getty.edu/page/ulan/500012660",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q652952|https://www.wikidata.org/wiki/Q601065|https://www.wikidata.org/wiki/Q969714",
+    "Object Date": "ca. 1797–99",
+    "Object Begin Date": 1792,
+    "Object End Date": 1804,
+    "Medium": "Paper, wood, bone",
+    "Dimensions": "9 1/4 x 17 1/4in. (23.5 x 43.8cm)_x000D_\nopened to extent condition allows, confirmed: 9 1/2 × 15 in. (24.1 × 38.1 cm)",
+    "Credit Line": "Gift of Mrs. Thomas Hunt, 1933",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Fans",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/209538",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Napoleon I",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ulan/500122388",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q517"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP-314-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162225,
+        "role": "Designer",
+        "name": "Designed by Charles Percier",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500012660",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q969714",
+        "gender": ""
+      },
+      {
+        "constituentID": 163573,
+        "role": "Designer",
+        "name": "Designed by Pierre François Léonard Fontaine",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500016389",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q652952",
+        "gender": ""
+      },
+      {
+        "constituentID": 165570,
+        "role": "Artist",
+        "name": "Portrait medallion after Antoine Denis Chaudet",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500003453",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q601065",
+        "gender": ""
+      },
+      {
+        "constituentID": 229083,
+        "role": "Printmaker",
+        "name": "Printed by Jean Godefroy",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 23.5,
+          "Width": 43.8
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": "opened to extent condition allows, confirmed",
+        "elementMeasurements": {
+          "Height": 24.130049,
+          "Width": 38.100075
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Napoleon I",
+        "AAT_URL": "http://vocab.getty.edu/page/ulan/500122388",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q517"
+      }
+    ]
+  }
+}

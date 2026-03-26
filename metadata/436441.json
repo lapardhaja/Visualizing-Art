@@ -1,0 +1,104 @@
+{
+  "object_id": 436441,
+  "excel_metadata": {
+    "Object Number": "06.1279",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 436441,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1906.0,
+    "Object Name": "Painting",
+    "Title": "Wooded Upland Landscape",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16619.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Thomas Gainsborough",
+    "Artist Display Bio": "British, Sudbury 1727–1788 London",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Gainsborough, Thomas",
+    "Artist Nationality": "British",
+    "Artist Begin Date": "1727",
+    "Artist End Date": "1788",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500115200",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q192720",
+    "Object Date": "probably 1783",
+    "Object Begin Date": 1783,
+    "Object End Date": 1783,
+    "Medium": "Oil on canvas",
+    "Dimensions": "47 3/8 x 58 1/8 in. (120.3 x 147.6 cm)",
+    "Credit Line": "Gift of George A. Hearn, 1906",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436441",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19911808",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Landscapes|Wagons",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300132294|http://vocab.getty.edu/page/aat/300215710",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q191163|https://www.wikidata.org/wiki/Q859281"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP123922.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 166194,
+        "role": "Artist",
+        "name": "Thomas Gainsborough",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115200",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q192720",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 120.3,
+          "Width": 147.6
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 8.89,
+          "Height": 139.7003,
+          "Width": 170.1803
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Landscapes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+      },
+      {
+        "term": "Wagons",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300215710",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q859281"
+      }
+    ]
+  }
+}

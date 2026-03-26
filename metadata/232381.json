@@ -1,0 +1,88 @@
+{
+  "object_id": 232381,
+  "excel_metadata": {
+    "Object Number": "2007.90.7",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 232381,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 2007,
+    "Object Name": "Slant-top desk",
+    "Title": "Slant-top desk (secrétaire en pente)",
+    "Culture": "French",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 3350,
+    "Artist Role": "Maker",
+    "Artist Prefix": "Attributed to",
+    "Artist Display Name": "Bernard II van Risenburgh",
+    "Artist Display Bio": "ca. 1696–ca. 1767",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Risenburgh, Bernard II van",
+    "Artist Nationality": " ",
+    "Artist Begin Date": 1696,
+    "Artist End Date": 1767,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500003055",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q9169348",
+    "Object Date": "ca. 1745–49",
+    "Object Begin Date": 1740,
+    "Object End Date": 1754,
+    "Medium": "Oak veneered with bois satiné and end cut wood, leather, gilt bronze",
+    "Dimensions": "Overall, at widest points: 31 3/8 x 34 1/2 x 19 3/4 in. (79.7 x 87.6 x 50.2 cm)",
+    "Credit Line": "Bequest of Mrs. Robert Lehman, 2006",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Woodwork-Furniture",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/232381",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Flowers|Leaves|Desks",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300132399|http://vocab.getty.edu/page/aat/300011892|http://vocab.getty.edu/page/aat/300039338",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q506|https://www.wikidata.org/wiki/Q33971|https://www.wikidata.org/wiki/Q1064858"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/SF2007_90_7_img1.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/SF2007_90_7_img2.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/SF2007_90_7_img3.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 33507,
+        "role": "Maker",
+        "name": "Attributed to Bernard II van Risenburgh",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500003055",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q9169348",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 50.1651,
+          "Height": 79.6927,
+          "Width": 87.6302
+        }
+      }
+    ],
+    "tags": null
+  }
+}

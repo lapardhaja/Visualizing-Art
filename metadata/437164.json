@@ -1,0 +1,99 @@
+{
+  "object_id": 437164,
+  "excel_metadata": {
+    "Object Number": "13.177",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437164,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1913.0,
+    "Object Name": "Painting",
+    "Title": "Bartolomeo Bonghi (died 1584)",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10808.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Giovanni Battista Moroni",
+    "Artist Display Bio": "Italian, Albino, no later than 1524–1578 Albino",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Moroni, Giovanni Battista",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1524",
+    "Artist End Date": "1578",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500011118",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q504949",
+    "Object Date": "shortly after 1553",
+    "Object Begin Date": 1553,
+    "Object End Date": 1559,
+    "Medium": "Oil on canvas",
+    "Dimensions": "40 x 32 1/4 in. (101.6 x 81.9 cm)",
+    "Credit Line": "Purchase, Joseph Pulitzer Bequest, 1913",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437164",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20166980",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-25740-001.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/19082.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-13_177-2.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-13_177-3.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 108085,
+        "role": "Artist",
+        "name": "Giovanni Battista Moroni",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500011118",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q504949",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 101.6,
+          "Width": 81.9
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

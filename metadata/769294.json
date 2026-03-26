@@ -1,0 +1,115 @@
+{
+  "object_id": 769294,
+  "excel_metadata": {
+    "Object Number": "2017.651",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 769294,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 2017.0,
+    "Object Name": "Painting",
+    "Title": "The Adoration of the Shepherds",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 7163.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Girolamo da Carpi (Girolamo Sellari)",
+    "Artist Display Bio": "Italian, Ferrara 1501–1556 Ferrara",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Sellari, Girolamo",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1501",
+    "Artist End Date": "1556",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500003965",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q2701846",
+    "Object Date": "ca. 1535–40",
+    "Object Begin Date": 1535,
+    "Object End Date": 1540,
+    "Medium": "Oil on wood",
+    "Dimensions": "12 3/8 × 16 1/8 in. (31.4 × 41 cm)",
+    "Credit Line": "Gift of Maurizio and Dominique Canesso, in honor of Keith Christiansen, 2017",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/769294",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q78611674",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Cows|Donkeys|Virgin Mary|Jesus|Adoration of the Shepherds|Joseph",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300250120|http://vocab.getty.edu/page/aat/300265959|http://vocab.getty.edu/page/ia/901000032|http://vocab.getty.edu/page/ia/901000087|http://vocab.getty.edu/page/ia/901000229|http://vocab.getty.edu/page/ia/901000953",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q830|https://www.wikidata.org/wiki/Q3537778|https://www.wikidata.org/wiki/Q345|https://www.wikidata.org/wiki/Q302|https://www.wikidata.org/wiki/Q1029715|https://www.wikidata.org/wiki/Q128267"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-14870-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 71631,
+        "role": "Artist",
+        "name": "Girolamo da Carpi (Girolamo Sellari)",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500003965",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q2701846",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 31.432564,
+          "Width": 40.95758
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Cows",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250120",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q830"
+      },
+      {
+        "term": "Donkeys",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300265959",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3537778"
+      },
+      {
+        "term": "Virgin Mary",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000032",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q345"
+      },
+      {
+        "term": "Jesus",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q302"
+      },
+      {
+        "term": "Adoration of the Shepherds",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000229",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q1029715"
+      },
+      {
+        "term": "Joseph",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000953",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q128267"
+      }
+    ]
+  }
+}

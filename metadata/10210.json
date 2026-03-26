@@ -1,0 +1,114 @@
+{
+  "object_id": 10210,
+  "excel_metadata": {
+    "Object Number": "66.242.23",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 10210,
+    "Gallery Number": 732.0,
+    "Department": "The American Wing",
+    "AccessionYear": 1966.0,
+    "Object Name": "Painting",
+    "Title": "Emma Homan",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 236.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "John Bradley",
+    "Artist Display Bio": "active 1832–47",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Bradley, John",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1790",
+    "Artist End Date": "1890",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500032317",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q16197540",
+    "Object Date": "ca. 1844",
+    "Object Begin Date": 1841,
+    "Object End Date": 1844,
+    "Medium": "Oil on canvas",
+    "Dimensions": "34 x 27 1/8 in. (86.4 x 68.9 cm)",
+    "Credit Line": "Gift of Edgar William and Bernice Chrysler Garbisch, 1966",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/10210",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20175484",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Portraits|Girls|Cats|Flowers",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300247581|http://vocab.getty.edu/page/aat/300265960|http://vocab.getty.edu/page/aat/300132399",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q3031|https://www.wikidata.org/wiki/Q146|https://www.wikidata.org/wiki/Q506"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DT2024.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 2363,
+        "role": "Artist",
+        "name": "John Bradley",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500032317",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q16197540",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 7,
+          "Height": 101.6,
+          "Width": 85.1
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 86.4,
+          "Width": 68.9
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Girls",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300247581",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3031"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Cats",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300265960",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q146"
+      },
+      {
+        "term": "Flowers",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132399",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q506"
+      }
+    ]
+  }
+}

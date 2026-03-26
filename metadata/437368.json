@@ -1,0 +1,100 @@
+{
+  "object_id": 437368,
+  "excel_metadata": {
+    "Object Number": "14.40.641",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437368,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1914.0,
+    "Object Name": "Painting",
+    "Title": "Holy Family with an Angel",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16228.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Raffaellino del Garbo (also known as Raffaelle de' Capponi and Raffaelle de' Carli)",
+    "Artist Display Bio": "Italian, San Lorenzo a Vigliano, near Florence, ca. 1470–after 1527 Florence",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Raffaellino del Garbo",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1465",
+    "Artist End Date": "1527",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500002831",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q954072",
+    "Object Date": "ca. 1490",
+    "Object Begin Date": 1485,
+    "Object End Date": 1495,
+    "Medium": "Tempera on canvas, transferred from wood",
+    "Dimensions": "22 x 15 in. (55.9 x 38.1 cm)",
+    "Credit Line": "Bequest of Benjamin Altman, 1913",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437368",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19906273",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Madonna and Child|Saint Joseph|Angels",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901000052|http://vocab.getty.edu/page/ia/901000953|http://vocab.getty.edu/page/aat/300379004",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q9309699|https://www.wikidata.org/wiki/Q128267|https://www.wikidata.org/wiki/Q235113"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-15089-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162285,
+        "role": "Artist",
+        "name": "Raffaellino del Garbo (also known as Raffaelle de&#39; Capponi and Raffaelle de&#39; Carli)",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500002831",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q954072",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 55.9,
+          "Width": 38.1
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Angels",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379004",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q235113"
+      },
+      {
+        "term": "Madonna and Child",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000052",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q9309699"
+      },
+      {
+        "term": "Saint Joseph",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000953",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q128267"
+      }
+    ]
+  }
+}

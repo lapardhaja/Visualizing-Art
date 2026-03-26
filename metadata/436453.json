@@ -1,0 +1,125 @@
+{
+  "object_id": 436453,
+  "excel_metadata": {
+    "Object Number": "69.281",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 436453,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1969.0,
+    "Object Name": "Painting",
+    "Title": "Esther before Ahasuerus",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10769.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Artemisia Gentileschi",
+    "Artist Display Bio": "Italian, born Rome 1593–died Naples 1654 or later",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Gentileschi, Artemisia",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1593",
+    "Artist End Date": "1654",
+    "Artist Gender": "Female",
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500011658",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q212657",
+    "Object Date": "1620s",
+    "Object Begin Date": 1620,
+    "Object End Date": 1629,
+    "Medium": "Oil on canvas",
+    "Dimensions": "82 in. × 8 ft. 11 3/4 in. (208.3 × 273.7 cm)\r\n",
+    "Credit Line": "Gift of Elinor Dorrance Ingersoll, 1969",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436453",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q3733425",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Women|Esther|Ahasuerus",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/ia/901000951|http://vocab.getty.edu/page/ia/901001013",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q732413|https://www.wikidata.org/wiki/Q1370497"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-20748-001.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/Gentileschi Esther x-raynocap.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-69_281-2.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-69_281-3.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 107691,
+        "role": "Artist",
+        "name": "Artemisia Gentileschi",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500011658",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q212657",
+        "gender": "Female"
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 208.3,
+          "Width": 273.7
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 10.16002,
+          "Height": 233.04547,
+          "Width": 299.0856
+        }
+      },
+      {
+        "elementName": "Other",
+        "elementDescription": "Picture + Frame",
+        "elementMeasurements": {
+          "Weight": 58.06042
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Esther",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000951",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q732413"
+      },
+      {
+        "term": "Ahasuerus",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901001013",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q1370497"
+      }
+    ]
+  }
+}

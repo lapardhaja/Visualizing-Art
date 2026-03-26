@@ -1,0 +1,98 @@
+{
+  "object_id": 209513,
+  "excel_metadata": {
+    "Object Number": "24.80.28",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 209513,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1924,
+    "Object Name": "Fan",
+    "Title": "Fan",
+    "Culture": "possibly Dutch",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": null,
+    "Artist Role": null,
+    "Artist Prefix": null,
+    "Artist Display Name": null,
+    "Artist Display Bio": null,
+    "Artist Suffix": null,
+    "Artist Alpha Sort": null,
+    "Artist Nationality": null,
+    "Artist Begin Date": null,
+    "Artist End Date": null,
+    "Artist Gender": null,
+    "Artist ULAN URL": null,
+    "Artist Wikidata URL": null,
+    "Object Date": "1750–60",
+    "Object Begin Date": 1750,
+    "Object End Date": 1760,
+    "Medium": "Skin and ivory",
+    "Dimensions": "12 1/2 x 23 1/2 in.  (31.8 x 59.7 cm)",
+    "Credit Line": "Bequest of Mary Clark Thompson, 1923",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Fans",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/209513",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Battles|Cannons|Ships",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300185692|http://vocab.getty.edu/page/aat/300036936|http://vocab.getty.edu/page/aat/300082981",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q178561|https://www.wikidata.org/wiki/Q81103|https://www.wikidata.org/wiki/Q11446"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP-41198-001.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/DP-41198-002.jpg"
+    ],
+    "constituents": null,
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 31.8,
+          "Width": 59.7
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Battles",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300185692",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q178561"
+      },
+      {
+        "term": "Cannons",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300036936",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q81103"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Ships",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300082981",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q11446"
+      }
+    ]
+  }
+}

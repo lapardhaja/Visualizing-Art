@@ -1,0 +1,109 @@
+{
+  "object_id": 11181,
+  "excel_metadata": {
+    "Object Number": "06.170",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 11181,
+    "Gallery Number": 774.0,
+    "Department": "The American Wing",
+    "AccessionYear": 1906.0,
+    "Object Name": "Painting",
+    "Title": "Landscape",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16458.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "William Morris Hunt",
+    "Artist Display Bio": "American, Brattleboro, Vermont 1824–1879 Appledore, New Hampshire",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Hunt, William Morris",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1824",
+    "Artist End Date": "1879",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500007307",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q527599",
+    "Object Date": "ca. 1852–53",
+    "Object Begin Date": 1849,
+    "Object End Date": 1853,
+    "Medium": "Oil on pressboard mounted on wood",
+    "Dimensions": "12 1/2 × 19 1/2 in. (31.8 × 49.5 cm)\r\nFramed: 20 1/2 × 27 3/16 × 3 1/8 in. (52 × 69 × 8 cm)",
+    "Credit Line": "Rogers Fund, 1906",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/11181",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19924593",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Dogs|Landscapes",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300265714|http://vocab.getty.edu/page/aat/300132294",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q144|https://www.wikidata.org/wiki/Q191163"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/06.170.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 164585,
+        "role": "Artist",
+        "name": "William Morris Hunt",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500007307",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q527599",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 31.8,
+          "Width": 49.5
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 8,
+          "Height": 52,
+          "Width": 69
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Dogs",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300265714",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q144"
+      },
+      {
+        "term": "Landscapes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+      }
+    ]
+  }
+}

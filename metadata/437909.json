@@ -1,0 +1,100 @@
+{
+  "object_id": 437909,
+  "excel_metadata": {
+    "Object Number": "37.163.4",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437909,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1937.0,
+    "Object Name": "Painting",
+    "Title": "Saint Peter Martyr Healing the Leg of a Young Man",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16265.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Antonio Vivarini",
+    "Artist Display Bio": "Italian, Venice, active by 1440–died 1476/84",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Vivarini, Antonio",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1440",
+    "Artist End Date": "1484",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500010947",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q935534",
+    "Object Date": "ca. 1450",
+    "Object Begin Date": 1445,
+    "Object End Date": 1455,
+    "Medium": "Tempera and gold on wood",
+    "Dimensions": "20 7/8 x 13 1/8 in. (53 x 33.3 cm)",
+    "Credit Line": "Gift of Samuel H. Kress Foundation, 1937",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437909",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19905430",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Women|Saint Peter",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/ia/901000056",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q33923"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP154560.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162659,
+        "role": "Artist",
+        "name": "Antonio Vivarini",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500010947",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q935534",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 53,
+          "Width": 33.3
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Saint Peter",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000056",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q33923"
+      }
+    ]
+  }
+}

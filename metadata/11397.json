@@ -1,0 +1,104 @@
+{
+  "object_id": 11397,
+  "excel_metadata": {
+    "Object Number": "77.3.4",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 11397,
+    "Gallery Number": NaN,
+    "Department": "The American Wing",
+    "AccessionYear": 1877.0,
+    "Object Name": "Painting",
+    "Title": "The Basket Maker",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 267.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Louis Lang",
+    "Artist Display Bio": "American, Bad Waldsee, Germany 1814–1893 New York",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Lang, Louis",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1814",
+    "Artist End Date": "1893",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500007910",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q6687620",
+    "Object Date": "1853",
+    "Object Begin Date": 1853,
+    "Object End Date": 1853,
+    "Medium": "Oil on canvas",
+    "Dimensions": "27 1/4 x 34 1/4 in. (69.2 x 87 cm)",
+    "Credit Line": "Bequest of Sarah Ann Ludlum, 1877",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/11397",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19925364",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Girls|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300247581|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q3031|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/ap77.3.4.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 2677,
+        "role": "Artist",
+        "name": "Louis Lang",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500007910",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q6687620",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 69.2,
+          "Width": 87
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 15.24,
+          "Height": 95.5677,
+          "Width": 113
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Girls",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300247581",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3031"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

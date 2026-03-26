@@ -1,0 +1,88 @@
+{
+  "object_id": 231574,
+  "excel_metadata": {
+    "Object Number": "2005.364.10",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 231574,
+    "Gallery Number": 551,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 2005,
+    "Object Name": "Toilet box",
+    "Title": "Toilet box (one of a pair)",
+    "Culture": "German, Augsburg",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 4390,
+    "Artist Role": "Maker",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Johann Conrad Lotter",
+    "Artist Display Bio": "German, active 1738–79",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Lotter Johann Conrad",
+    "Artist Nationality": "German",
+    "Artist Begin Date": 1738,
+    "Artist End Date": 1779,
+    "Artist Gender": null,
+    "Artist ULAN URL": null,
+    "Artist Wikidata URL": null,
+    "Object Date": "ca. 1743–45",
+    "Object Begin Date": 1738,
+    "Object End Date": 1750,
+    "Medium": "Silver gilt",
+    "Dimensions": "Overall: H. 3 15/16 x W. 5 15/16 x D. 4 3/4 in. (10 x 15.1 x 12.1 cm)",
+    "Credit Line": "Purchase, Anna-Maria and Stephen Kellen Foundation Gift, in memory of Stephen M. Kellen, 2005",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Metalwork-Silver",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/231574",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q116306544",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": null,
+    "Tags AAT URL": null,
+    "Tags Wikidata URL": null
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/SF2005_364_10.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/SF2005_364_10_marks.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP137849.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 43900,
+        "role": "Maker",
+        "name": "Johann Conrad Lotter",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 12.065,
+          "Height": 10.0013,
+          "Width": 15.0813
+        }
+      }
+    ],
+    "tags": null
+  }
+}

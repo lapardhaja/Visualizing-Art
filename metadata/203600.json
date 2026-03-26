@@ -1,0 +1,97 @@
+{
+  "object_id": 203600,
+  "excel_metadata": {
+    "Object Number": "64.101.779",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 203600,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1964,
+    "Object Name": "Figure",
+    "Title": "Companion (one of a pair)",
+    "Culture": "British",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 3511,
+    "Artist Role": "Factory",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Worcester factory",
+    "Artist Display Bio": "British, 1751–2008",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Worcester factory",
+    "Artist Nationality": "British",
+    "Artist Begin Date": 1751,
+    "Artist End Date": 2008,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500332804",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q668894",
+    "Object Date": "ca. 1770",
+    "Object Begin Date": 1765,
+    "Object End Date": 1775,
+    "Medium": "Soft-paste porcelain",
+    "Dimensions": "Overall: 6 1/4 × 3 in. (15.9 × 7.6 cm)",
+    "Credit Line": "Gift of Irwin Untermyer, 1964",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Ceramics-Porcelain",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/203600",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Women|Flowers",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/aat/300132399",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q506"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP-39378-001.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/DP-39377-002.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 35110,
+        "role": "Factory",
+        "name": "Worcester factory",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500332804",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q668894",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 15.875031,
+          "Width": 7.620015
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

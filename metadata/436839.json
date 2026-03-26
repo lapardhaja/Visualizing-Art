@@ -1,0 +1,105 @@
+{
+  "object_id": 436839,
+  "excel_metadata": {
+    "Object Number": "1978.517",
+    "Is Highlight": true,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436839,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1978.0,
+    "Object Name": "Painting",
+    "Title": "The Penitent Magdalen",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16204.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Georges de La Tour",
+    "Artist Display Bio": "French, Vic-sur-Seille 1593–1652 Lunéville",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "La Tour, Georges de",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1593",
+    "Artist End Date": "1652",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500012114",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q203371",
+    "Object Date": "ca. 1640",
+    "Object Begin Date": 1635,
+    "Object End Date": 1645,
+    "Medium": "Oil on canvas",
+    "Dimensions": "52 1/2 x 40 1/4 in. (133.4 x 102.2 cm)",
+    "Credit Line": "Gift of Mr. and Mrs. Charles Wrightsman, 1978",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436839",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q3210251",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Mary Magdalene|Candles|Mirrors|Skulls",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901000161|http://vocab.getty.edu/page/aat/300037654|http://vocab.getty.edu/page/aat/300037682|http://vocab.getty.edu/page/aat/300191856",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q63070|https://www.wikidata.org/wiki/Q12888135|https://www.wikidata.org/wiki/Q35197|https://www.wikidata.org/wiki/Q13147"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-27910-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162046,
+        "role": "Artist",
+        "name": "Georges de La Tour",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500012114",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q203371",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 133.4,
+          "Width": 102.2
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Skulls",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300191856",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q13147"
+      },
+      {
+        "term": "Mary Magdalene",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000161",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q63070"
+      },
+      {
+        "term": "Candles",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300037654",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q12888135"
+      },
+      {
+        "term": "Mirrors",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300037682",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q35197"
+      }
+    ]
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "object_id": 435659,
+  "excel_metadata": {
+    "Object Number": "41.100.13",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 435659,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1941.0,
+    "Object Name": "Painting",
+    "Title": "Madonna and Child with Angels",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10737.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Bernardino da Genoa",
+    "Artist Display Bio": "Italian, Genoese, active in 1515",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Bernardino da Genoa",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1515",
+    "Artist End Date": "1515",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500044738",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q21852646",
+    "Object Date": "1515",
+    "Object Begin Date": 1515,
+    "Object End Date": 1515,
+    "Medium": "Oil on wood",
+    "Dimensions": "29 3/8 x 22 5/8 in. (74.6 x 57.5 cm)",
+    "Credit Line": "Gift of George Blumenthal, 1941",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/435659",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912361",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Birds|Lutes|Madonna and Child|Angels",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300266506|http://vocab.getty.edu/page/aat/300042101|http://vocab.getty.edu/page/ia/901000052|http://vocab.getty.edu/page/aat/300379004",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q5113|https://www.wikidata.org/wiki/Q180733|https://www.wikidata.org/wiki/Q9309699|https://www.wikidata.org/wiki/Q235113"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-25352-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 107372,
+        "role": "Artist",
+        "name": "Bernardino da Genoa",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500044738",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q21852646",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 74.6,
+          "Width": 57.5
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Birds",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300266506",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q5113"
+      },
+      {
+        "term": "Lutes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300042101",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q180733"
+      },
+      {
+        "term": "Angels",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379004",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q235113"
+      },
+      {
+        "term": "Madonna and Child",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000052",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q9309699"
+      }
+    ]
+  }
+}

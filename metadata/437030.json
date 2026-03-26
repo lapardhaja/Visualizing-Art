@@ -1,0 +1,119 @@
+{
+  "object_id": 437030,
+  "excel_metadata": {
+    "Object Number": "50.145.27",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 437030,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1950.0,
+    "Object Name": "Painting",
+    "Title": "Young Man Holding a Book",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10799.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Master of the View of Saint Gudula",
+    "Artist Display Bio": "Netherlandish, active ca. 1485",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Master of the View of Saint Gudula",
+    "Artist Nationality": "Netherlandish",
+    "Artist Begin Date": "1485",
+    "Artist End Date": "1485",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500018237",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q1918711",
+    "Object Date": "ca. 1480",
+    "Object Begin Date": 1475,
+    "Object End Date": 1485,
+    "Medium": "Oil on wood",
+    "Dimensions": "Overall, with arched top, 8 1/4 x 5 1/8 in. (21 x 13 cm); painted surface 8 1/8 x 5 in. (20.6 x 12.6 cm)",
+    "Credit Line": "Bequest of Mary Stillman Harkness, 1950",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437030",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912121",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Books|Churches|Men|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300028051|http://vocab.getty.edu/page/aat/300007466|http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q571|https://www.wikidata.org/wiki/Q16970|https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP282434.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-50_145_27-4.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-50_145_27-IRR.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-50_145_27-7.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-50_145_27-XRAY.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 107995,
+        "role": "Artist",
+        "name": "Master of the View of Saint Gudula",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500018237",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1918711",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 21,
+          "Width": 13
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 2.2225044,
+          "Height": 25.400051,
+          "Width": 17.462536
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Books",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300028051",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q571"
+      },
+      {
+        "term": "Churches",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300007466",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q16970"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

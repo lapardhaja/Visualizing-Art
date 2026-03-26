@@ -1,0 +1,89 @@
+{
+  "object_id": 205831,
+  "excel_metadata": {
+    "Object Number": "1974.356.252a, b",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 205831,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1974,
+    "Object Name": "Figure",
+    "Title": "Parrot with spread wings",
+    "Culture": "German, Strasbourg",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 3417,
+    "Artist Role": "Decorator",
+    "Artist Prefix": "Decoration by",
+    "Artist Display Name": "Johannes Zeschinger",
+    "Artist Display Bio": "born 1723, active 1748, 1753",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Zeschinger Johannes",
+    "Artist Nationality": " ",
+    "Artist Begin Date": 1723,
+    "Artist End Date": 1823,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500058334",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q95338874",
+    "Object Date": "1750–55",
+    "Object Begin Date": 1750,
+    "Object End Date": 1755,
+    "Medium": "Faience (tin-glazed earthenware)",
+    "Dimensions": "Height: 6 3/4 in. (17.1 cm)",
+    "Credit Line": "The Lesley and Emma Sheafer Collection, Bequest of Emma A. Sheafer, 1973",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Ceramics-Pottery",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/205831",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Parrots",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300250076",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q15548309"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/205015.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 34177,
+        "role": "Decorator",
+        "name": "Decoration by Johannes Zeschinger",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500058334",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q95338874",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Height",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 17.145035
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Parrots",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250076",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q15548309"
+      }
+    ]
+  }
+}

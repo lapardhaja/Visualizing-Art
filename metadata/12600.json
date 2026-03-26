@@ -1,0 +1,104 @@
+{
+  "object_id": 12600,
+  "excel_metadata": {
+    "Object Number": "62.79.1",
+    "Is Highlight": true,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 12600,
+    "Gallery Number": 747.0,
+    "Department": "The American Wing",
+    "AccessionYear": 1962.0,
+    "Object Name": "Painting",
+    "Title": "Francis Brinley",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16535.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "John Smibert",
+    "Artist Display Bio": "American, Edinburgh, Scotland 1688–1751 Boston, Massachusetts",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Smibert, John",
+    "Artist Nationality": "American, Scottish",
+    "Artist Begin Date": "1688",
+    "Artist End Date": "1751",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500006043",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q3182482",
+    "Object Date": "1729",
+    "Object Begin Date": 1729,
+    "Object End Date": 1729,
+    "Medium": "Oil on canvas",
+    "Dimensions": "50 x 39 1/4 in. (127 x 99.7 cm)",
+    "Credit Line": "Rogers Fund, 1962",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/12600",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19925258",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DT53.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 165357,
+        "role": "Artist",
+        "name": "John Smibert",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500006043",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3182482",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 127,
+          "Width": 99.7
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 10,
+          "Height": 144.5,
+          "Width": 119.4
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "object_id": 437651,
+  "excel_metadata": {
+    "Object Number": "41.100.22",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 437651,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1941.0,
+    "Object Name": "Painting, part of a polyptych",
+    "Title": "Saint John the Evangelist",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16240.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Segna di Buonaventura",
+    "Artist Display Bio": "Italian, active Siena by 1298–died 1326/31",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Segna di Buonaventura",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1298",
+    "Artist End Date": "1331",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500026523",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q929809",
+    "Object Date": "ca. 1320",
+    "Object Begin Date": 1315,
+    "Object End Date": 1325,
+    "Medium": "Tempera on wood, gold ground",
+    "Dimensions": "Overall, with engaged (largely modern) frame, 35 x 22 in. (88.9 x 55.9 cm); painted surface 27 1/4 x 16 1/2 in. (69.2 x 41.9 cm)",
+    "Credit Line": "Gift of George Blumenthal, 1941",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437651",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19911773",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Saint John the Evangelist|Men",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901001171|http://vocab.getty.edu/page/aat/300025928",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q328804|https://www.wikidata.org/wiki/Q8441"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/EP310a.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162401,
+        "role": "Artist",
+        "name": "Segna di Buonaventura",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500026523",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q929809",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 88.9,
+          "Width": 55.9
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Saint John the Evangelist",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901001171",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q328804"
+      }
+    ]
+  }
+}

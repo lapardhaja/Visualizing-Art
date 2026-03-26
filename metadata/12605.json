@@ -1,0 +1,107 @@
+{
+  "object_id": 12605,
+  "excel_metadata": {
+    "Object Number": "20.87",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 12605,
+    "Gallery Number": NaN,
+    "Department": "The American Wing",
+    "AccessionYear": 1920.0,
+    "Object Name": "Painting",
+    "Title": "East Hampton Meadows",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16242.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "George Henry Smillie",
+    "Artist Display Bio": "American, New York 1840–1920 New York",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Smillie, George Henry",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1840",
+    "Artist End Date": "1920",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500002005",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q5540480",
+    "Object Date": "1883",
+    "Object Begin Date": 1883,
+    "Object End Date": 1883,
+    "Medium": "Oil on canvas",
+    "Dimensions": "15 x 23 3/4 in. (38.1 x 60.3 cm)",
+    "Credit Line": "Gift of James B. Ford, 1920",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/12605",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20173492",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Landscapes",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300132294",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q191163"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/ap20.87.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162428,
+        "role": "Artist",
+        "name": "George Henry Smillie",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500002005",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5540480",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 9.2075,
+          "Height": 56.5151,
+          "Width": 78.7402
+        }
+      },
+      {
+        "elementName": "Glazing",
+        "elementDescription": "when needed",
+        "elementMeasurements": {
+          "Height": 38.735077,
+          "Width": 60.64262
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 38.1,
+          "Width": 60.3
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Landscapes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+      }
+    ]
+  }
+}

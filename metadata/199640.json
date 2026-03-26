@@ -1,0 +1,95 @@
+{
+  "object_id": 199640,
+  "excel_metadata": {
+    "Object Number": "45.60.32",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 199640,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1945,
+    "Object Name": "Mirror back",
+    "Title": "God the Father Appearing to Christ",
+    "Culture": "French, Limoges",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 3980,
+    "Artist Role": "Enameler",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Jean Limosin",
+    "Artist Display Bio": "recorded 1615–35",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Limosin Jean",
+    "Artist Nationality": " ",
+    "Artist Begin Date": 1615,
+    "Artist End Date": 1635,
+    "Artist Gender": null,
+    "Artist ULAN URL": null,
+    "Artist Wikidata URL": null,
+    "Object Date": "early 17th century",
+    "Object Begin Date": 1600,
+    "Object End Date": 1615,
+    "Medium": "Painted enamel on copper, partly gilt",
+    "Dimensions": "4 3/4 × 3 1/4 in. (12.1 × 8.3 cm)",
+    "Credit Line": "Fletcher Fund, 1945",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Enamels",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/199640",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Christ|God the Father",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901000087|http://vocab.getty.edu/page/ia/901000593",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q642420|https://www.wikidata.org/wiki/Q186350"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/135074.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 39802,
+        "role": "Enameler",
+        "name": "Jean Limosin",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 12.065024,
+          "Width": 8.255016
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Christ",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+      },
+      {
+        "term": "God the Father",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000593",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q186350"
+      }
+    ]
+  }
+}

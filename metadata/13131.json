@@ -1,0 +1,119 @@
+{
+  "object_id": 13131,
+  "excel_metadata": {
+    "Object Number": "67.155.2",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 13131,
+    "Gallery Number": 774.0,
+    "Department": "The American Wing",
+    "AccessionYear": 1967.0,
+    "Object Name": "Painting",
+    "Title": "Coming Events Cast Their Shadows Before",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 300.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Charles Caleb Ward",
+    "Artist Display Bio": "ca. 1831–1896",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Ward, Charles Caleb",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1831",
+    "Artist End Date": "1896",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500033014",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q21497714",
+    "Object Date": "1871",
+    "Object Begin Date": 1871,
+    "Object End Date": 1871,
+    "Medium": "Oil on wood",
+    "Dimensions": "10 1/8 x 8 in. (25.7 x 20.3 cm)",
+    "Credit Line": "Bequest of Susan Vanderpoel Clark, 1967",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/13131",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20170108",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Advertisements|Boys|Girls|Dogs|Horses",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300193993|http://vocab.getty.edu/page/aat/300247598|http://vocab.getty.edu/page/aat/300247581|http://vocab.getty.edu/page/aat/300265714|http://vocab.getty.edu/page/aat/300250148",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q39911916|https://www.wikidata.org/wiki/Q3010|https://www.wikidata.org/wiki/Q3031|https://www.wikidata.org/wiki/Q144|https://www.wikidata.org/wiki/Q726"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DT2091.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 3002,
+        "role": "Artist",
+        "name": "Charles Caleb Ward",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500033014",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q21497714",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 25.7,
+          "Width": 20.3
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 5.5,
+          "Height": 40.8,
+          "Width": 36
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Boys",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300247598",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3010"
+      },
+      {
+        "term": "Girls",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300247581",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3031"
+      },
+      {
+        "term": "Dogs",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300265714",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q144"
+      },
+      {
+        "term": "Horses",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250148",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q726"
+      },
+      {
+        "term": "Advertisements",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300193993",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q39911916"
+      }
+    ]
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "object_id": 436950,
+  "excel_metadata": {
+    "Object Number": "29.100.51",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 436950,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1929.0,
+    "Object Name": "Painting",
+    "Title": "The Dead Christ with Angels",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16209.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Edouard Manet",
+    "Artist Display Bio": "French, Paris 1832–1883 Paris",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Manet, Edouard",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1832",
+    "Artist End Date": "1883",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500010363",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q40599",
+    "Object Date": "1864",
+    "Object Begin Date": 1864,
+    "Object End Date": 1864,
+    "Medium": "Oil on canvas",
+    "Dimensions": "70 5/8 x 59 in. (179.4 x 149.9 cm)",
+    "Credit Line": "H. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436950",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q2752079",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Snakes|Angels|Christ",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300250870|http://vocab.getty.edu/page/aat/300379004|http://vocab.getty.edu/page/ia/901000087",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q2102|https://www.wikidata.org/wiki/Q235113|https://www.wikidata.org/wiki/Q642420"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-17679-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162094,
+        "role": "Artist",
+        "name": "Edouard Manet",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500010363",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q40599",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 179.4,
+          "Width": 149.9
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 8.89,
+          "Height": 213.3604,
+          "Width": 181.6104
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Snakes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250870",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q2102"
+      },
+      {
+        "term": "Angels",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379004",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q235113"
+      },
+      {
+        "term": "Christ",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+      }
+    ]
+  }
+}

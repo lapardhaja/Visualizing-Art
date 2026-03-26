@@ -1,0 +1,182 @@
+{
+  "object_id": 471901,
+  "excel_metadata": {
+    "Object Number": 61.113,
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 471901,
+    "Gallery Number": null,
+    "Department": "The Cloisters",
+    "AccessionYear": 1961,
+    "Object Name": "Relief",
+    "Title": "Crucifixion Group",
+    "Culture": "German",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 14151,
+    "Artist Role": "Artist",
+    "Artist Prefix": "Attributed to an associate of",
+    "Artist Display Name": "Hans Wydytz I",
+    "Artist Display Bio": "German, Strasbourg ca. 1475–ca. 1516 Strasbourg",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Wydytz, Hans I",
+    "Artist Nationality": "German",
+    "Artist Begin Date": 1470,
+    "Artist End Date": 1521,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500115683",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q1583215",
+    "Object Date": "1490–1510",
+    "Object Begin Date": 1490,
+    "Object End Date": 1510,
+    "Medium": "Limewood",
+    "Dimensions": "Overall (with framing elements): 37 × 27 1/4 × 9 in. (94 × 69.2 × 22.9 cm)_x000D_\nOverall (without framing elements): 34 3/4 × 26 × 5 7/8 in. (88.3 × 66 × 14.9 cm)",
+    "Credit Line": "The Cloisters Collection, 1961",
+    "Geography Type": "Made in",
+    "City": "Freiburg im Breisgau(?)",
+    "State": null,
+    "County": "Upper Rhineland",
+    "Country": "Germany",
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Sculpture-Wood",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/471901",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Horses|Spears|Men|Women|Crucifixion",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300250148|http://vocab.getty.edu/page/aat/300037038|http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/aat/300404300",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q726|https://www.wikidata.org/wiki/Q44475|https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q3235597"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/cl/original/DP366888.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/cl/original/DP366889.jpg",
+      "https://images.metmuseum.org/CRDImages/cl/original/DP366890.jpg",
+      "https://images.metmuseum.org/CRDImages/cl/original/DP366896.jpg",
+      "https://images.metmuseum.org/CRDImages/cl/original/DP366893.jpg",
+      "https://images.metmuseum.org/CRDImages/cl/original/DP366895.jpg",
+      "https://images.metmuseum.org/CRDImages/cl/original/DP366892.jpg",
+      "https://images.metmuseum.org/CRDImages/cl/original/DP366894.jpg",
+      "https://images.metmuseum.org/CRDImages/cl/original/DP366891.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 141518,
+        "role": "Artist",
+        "name": "Attributed to an associate of Hans Wydytz I",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115683",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1583215",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Other",
+        "elementDescription": "Left-Ground",
+        "elementMeasurements": {
+          "Height": 46.9901,
+          "Width": 15.24
+        }
+      },
+      {
+        "elementName": "Other",
+        "elementDescription": "Center-Christ",
+        "elementMeasurements": {
+          "Height": 27.3051,
+          "Width": 26.6701
+        }
+      },
+      {
+        "elementName": "Other",
+        "elementDescription": "Center-Ground",
+        "elementMeasurements": {
+          "Height": 45.7201,
+          "Width": 19.685
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": "Overall (with framing elements)",
+        "elementMeasurements": {
+          "Depth": 22.860046,
+          "Height": 93.98019,
+          "Width": 69.21514
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": "Overall (without framing elements)",
+        "elementMeasurements": {
+          "Depth": 14.92253,
+          "Height": 88.265175,
+          "Width": 66.04013
+        }
+      },
+      {
+        "elementName": "Other",
+        "elementDescription": "Right-Ground",
+        "elementMeasurements": {
+          "Height": 47.6251,
+          "Width": 22.86
+        }
+      },
+      {
+        "elementName": "Other",
+        "elementDescription": "Left-Good Thief",
+        "elementMeasurements": {
+          "Height": 17.145
+        }
+      },
+      {
+        "elementName": "Other",
+        "elementDescription": "Left-Fainting Virgin",
+        "elementMeasurements": {
+          "Height": 19.685
+        }
+      },
+      {
+        "elementName": "Other",
+        "elementDescription": "Right-Bad Thief",
+        "elementMeasurements": {
+          "Height": 14.9225
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Spears",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300037038",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q44475"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Horses",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250148",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q726"
+      },
+      {
+        "term": "Crucifixion",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300404300",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3235597"
+      }
+    ]
+  }
+}

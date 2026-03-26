@@ -1,0 +1,110 @@
+{
+  "object_id": 459022,
+  "excel_metadata": {
+    "Object Number": "1975.1.80",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 459022,
+    "Gallery Number": NaN,
+    "Department": "Robert Lehman Collection",
+    "AccessionYear": 1975.0,
+    "Object Name": "Painting",
+    "Title": "The Entombment",
+    "Culture": "Italian, Romagna",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16541.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Master of Forlì",
+    "Artist Display Bio": "Italian, Romagna, active first half 14th century",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Master of Forlì",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1300",
+    "Artist End Date": "1350",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500013046",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q21793405",
+    "Object Date": "first half 14th century",
+    "Object Begin Date": 1300,
+    "Object End Date": 1349,
+    "Medium": "Tempera on wood, gold ground",
+    "Dimensions": "Overall: 8 x 5 1/8 in. (20.3 x 13 cm); Painted Surface (excluding painted borders): 7 3/8 x 4 7/8 in. (18.7 x 12.4 cm)",
+    "Credit Line": "Robert Lehman Collection, 1975",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/459022",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20188046",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Angels|Christ|Virgin Mary|Entombment",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300379004|http://vocab.getty.edu/page/ia/901000087|http://vocab.getty.edu/page/ia/901000032|http://vocab.getty.edu/page/ia/901001053",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q235113|https://www.wikidata.org/wiki/Q642420|https://www.wikidata.org/wiki/Q345|https://www.wikidata.org/wiki/Q51637"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/rl/original/DP328377.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/rl/original/DP335162.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/ep1975.1.80.bw.R.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/DT3054.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/0546.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 165412,
+        "role": "Artist",
+        "name": "Master of Forlì",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500013046",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q21793405",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 20.3,
+          "Width": 13
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Angels",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379004",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q235113"
+      },
+      {
+        "term": "Christ",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+      },
+      {
+        "term": "Virgin Mary",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000032",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q345"
+      },
+      {
+        "term": "Entombment",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901001053",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q51637"
+      }
+    ]
+  }
+}

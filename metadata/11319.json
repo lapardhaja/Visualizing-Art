@@ -1,0 +1,111 @@
+{
+  "object_id": 11319,
+  "excel_metadata": {
+    "Object Number": "74.27",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 11319,
+    "Gallery Number": 761.0,
+    "Department": "The American Wing",
+    "AccessionYear": 1874.0,
+    "Object Name": "Painting",
+    "Title": "Passing off of the Storm",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16202.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "John Frederick Kensett",
+    "Artist Display Bio": "American, Cheshire, Connecticut 1816–1872 New York",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Kensett, John Frederick",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1816",
+    "Artist End Date": "1872",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500030726",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q982284",
+    "Object Date": "1872",
+    "Object Begin Date": 1872,
+    "Object End Date": 1872,
+    "Medium": "Oil on canvas",
+    "Dimensions": "11 3/8 x 24 1/2 in. (28.9 x 62.2 cm)",
+    "Credit Line": "Gift of Thomas Kensett, 1874",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/11319",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19924569",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Seascapes|Storms|Boats",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300117546|http://vocab.getty.edu/page/aat/300054734|http://vocab.getty.edu/page/aat/300178749",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q158607|https://www.wikidata.org/wiki/Q81054|https://www.wikidata.org/wiki/Q35872"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/ap74.27.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ad/original/CT_607.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 162027,
+        "role": "Artist",
+        "name": "John Frederick Kensett",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500030726",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q982284",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 10.2,
+          "Height": 54.6,
+          "Width": 87
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 28.9,
+          "Width": 62.2
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Seascapes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300117546",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q158607"
+      },
+      {
+        "term": "Storms",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300054734",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q81054"
+      },
+      {
+        "term": "Boats",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300178749",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q35872"
+      }
+    ]
+  }
+}

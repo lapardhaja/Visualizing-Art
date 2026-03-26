@@ -1,0 +1,107 @@
+{
+  "object_id": 11975,
+  "excel_metadata": {
+    "Object Number": "09.72.8",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 11975,
+    "Gallery Number": 773.0,
+    "Department": "The American Wing",
+    "AccessionYear": 1909.0,
+    "Object Name": "Painting",
+    "Title": "The Bridge",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16235.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Albert Pinkham Ryder",
+    "Artist Display Bio": "American, New Bedford, Massachusetts 1847–1917 Elmhurst, New York",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Ryder, Albert Pinkham",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1847",
+    "Artist End Date": "1917",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500030492",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q948598",
+    "Object Date": "ca. 1880",
+    "Object Begin Date": 1877,
+    "Object End Date": 1883,
+    "Medium": "Oil on gilt leather",
+    "Dimensions": "10 x 26 3/4 in. (25.4 x 67.9 cm)",
+    "Credit Line": "Gift of George A. Hearn, 1909",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/11975",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20170396",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Landscapes|Bridges",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300132294|http://vocab.getty.edu/page/aat/300386855",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q191163|https://www.wikidata.org/wiki/Q12280"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DP-23325-001.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ad/original/ap09.72.8.jpg",
+      "https://images.metmuseum.org/CRDImages/ad/original/DP-23325-002.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 162359,
+        "role": "Artist",
+        "name": "Albert Pinkham Ryder",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500030492",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q948598",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 25.4,
+          "Width": 67.9
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 11,
+          "Height": 53,
+          "Width": 96.7
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Bridges",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300386855",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q12280"
+      },
+      {
+        "term": "Landscapes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+      }
+    ]
+  }
+}

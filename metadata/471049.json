@@ -1,0 +1,86 @@
+{
+  "object_id": 471049,
+  "excel_metadata": {
+    "Object Number": "30.77.5",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 471049,
+    "Gallery Number": 9,
+    "Department": "The Cloisters",
+    "AccessionYear": 1930,
+    "Object Name": "Tomb slab",
+    "Title": "Tomb Slab of a Monk (Father Louis)",
+    "Culture": "French",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": null,
+    "Artist Role": null,
+    "Artist Prefix": null,
+    "Artist Display Name": null,
+    "Artist Display Bio": null,
+    "Artist Suffix": null,
+    "Artist Alpha Sort": null,
+    "Artist Nationality": null,
+    "Artist Begin Date": null,
+    "Artist End Date": null,
+    "Artist Gender": null,
+    "Artist ULAN URL": null,
+    "Artist Wikidata URL": null,
+    "Object Date": "14th century",
+    "Object Begin Date": 1300,
+    "Object End Date": 1399,
+    "Medium": "Stone",
+    "Dimensions": "Overall: 66 x 26 1/2 in. (167.6 x 67.3 cm)",
+    "Credit Line": "The Cloisters Collection,1930",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Sculpture",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/471049",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q116373798",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Monks",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300025765",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q733786"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/cl/original/cdi30-77-5.jpg",
+    "additionalImages": [],
+    "constituents": null,
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 167.64034,
+          "Width": 67.310135
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Monks",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025765",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q733786"
+      }
+    ]
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "object_id": 436656,
+  "excel_metadata": {
+    "Object Number": "36.111",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 436656,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1936.0,
+    "Object Name": "Painting",
+    "Title": "The Wedding of Stephen Beckingham and Mary Cox",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16508.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "William Hogarth",
+    "Artist Display Bio": "British, London 1697–1764 London",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Hogarth, William",
+    "Artist Nationality": "British",
+    "Artist Begin Date": "1697",
+    "Artist End Date": "1764",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500004242",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q171344",
+    "Object Date": "1729",
+    "Object Begin Date": 1729,
+    "Object End Date": 1729,
+    "Medium": "Oil on canvas",
+    "Dimensions": "50 1/2 x 40 1/2 in. (128.3 x 102.9 cm)",
+    "Credit Line": "Marquand Fund, 1936",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436656",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19911587",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Women|Interiors|Weddings",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/aat/300391239|http://vocab.getty.edu/page/aat/300069158",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q2998430|https://www.wikidata.org/wiki/Q49836"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP159333.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/36 Beckingham.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/38 Beckingham 2.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 165083,
+        "role": "Artist",
+        "name": "William Hogarth",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500004242",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q171344",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 128.3,
+          "Width": 102.9
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 7.3025,
+          "Height": 140.9703,
+          "Width": 115.5702
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Interiors",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300391239",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q2998430"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Weddings",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300069158",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q49836"
+      }
+    ]
+  }
+}

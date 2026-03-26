@@ -1,0 +1,104 @@
+{
+  "object_id": 198187,
+  "excel_metadata": {
+    "Object Number": "38.145.157",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 198187,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1938,
+    "Object Name": "Medallion",
+    "Title": "Alexander I of Russia",
+    "Culture": "French, Paris",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 3868916283,
+    "Artist Role": "Maker|Artist",
+    "Artist Prefix": " |After a model by",
+    "Artist Display Name": "Désprez|Bertrand Andrieu",
+    "Artist Display Bio": "active 1773–after 1815|French, Bordeaux 1761–1822 Paris",
+    "Artist Suffix": " | ",
+    "Artist Alpha Sort": "Désprez|Andrieu, Bertrand",
+    "Artist Nationality": " |French",
+    "Artist Begin Date": "1773      |1761      ",
+    "Artist End Date": "1815      |1822      ",
+    "Artist Gender": "|",
+    "Artist ULAN URL": "|http://vocab.getty.edu/page/ulan/500069164",
+    "Artist Wikidata URL": "|https://www.wikidata.org/wiki/Q2073102",
+    "Object Date": "19th century",
+    "Object Begin Date": 1800,
+    "Object End Date": 1899,
+    "Medium": "Glass, porcelain; gilt bronze",
+    "Dimensions": "Diameter: 3 3/8 in. (8.6 cm)",
+    "Credit Line": "Bequest of Mary Martin, 1938",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Glass",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/198187",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Profiles",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300123319",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q4382010"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/LC-38_145_157.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/130333.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 38689,
+        "role": "Maker",
+        "name": "Désprez",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      },
+      {
+        "constituentID": 162830,
+        "role": "Artist",
+        "name": "After a model by Bertrand Andrieu",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500069164",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q2073102",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Diameter",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Diameter": 8.572517
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Profiles",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300123319",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q4382010"
+      }
+    ]
+  }
+}

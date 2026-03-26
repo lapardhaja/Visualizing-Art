@@ -1,0 +1,90 @@
+{
+  "object_id": 437017,
+  "excel_metadata": {
+    "Object Number": "21.134.2",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437017,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1921.0,
+    "Object Name": "Painting",
+    "Title": "Virgin and Child",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10801.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Master of the Mansi Magdalen",
+    "Artist Display Bio": "Netherlandish, active first quarter 16th century",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Master of the Mansi Magdalen",
+    "Artist Nationality": "Netherlandish",
+    "Artist Begin Date": "1500",
+    "Artist End Date": "1524",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500008477",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q1918409",
+    "Object Date": NaN,
+    "Object Begin Date": 1500,
+    "Object End Date": 1524,
+    "Medium": "Oil on wood",
+    "Dimensions": "19 1/8 x 15 1/4 in. (48.6 x 38.7 cm)",
+    "Credit Line": "Bequest of William H. Herriman, 1920",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437017",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912248",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Madonna and Child",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901000052",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q9309699"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-23269-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 108013,
+        "role": "Artist",
+        "name": "Master of the Mansi Magdalen",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500008477",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1918409",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 48.6,
+          "Width": 38.7
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Madonna and Child",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000052",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q9309699"
+      }
+    ]
+  }
+}

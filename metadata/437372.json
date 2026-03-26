@@ -1,0 +1,125 @@
+{
+  "object_id": 437372,
+  "excel_metadata": {
+    "Object Number": "16.30ab",
+    "Is Highlight": true,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 437372,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1916.0,
+    "Object Name": "Painting, altarpiece",
+    "Title": "Madonna and Child Enthroned with Saints",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16229.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Raphael (Raffaello Sanzio or Santi)",
+    "Artist Display Bio": "Italian, Urbino 1483–1520 Rome",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Raphael (Raffaello Sanzio or Santi)",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1483",
+    "Artist End Date": "1520",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500023578",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q5597",
+    "Object Date": "ca. 1504",
+    "Object Begin Date": 1499,
+    "Object End Date": 1509,
+    "Medium": "Oil and gold on wood",
+    "Dimensions": "Main panel, overall 67 7/8 x 67 7/8 in. (172.4 x 172.4 cm), painted surface 66 3/4 x 66 1/2 in. (169.5 x 168.9 cm); lunette, overall 29 1/2 x 70 7/8 in. (74.9 x 180 cm), painted surface 25 1/2 x 67 1/2 in. (64.8 x 171.5 cm)",
+    "Credit Line": "Gift of J. Pierpont Morgan, 1916",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437372",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q27033728",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Madonna and Child|Saint Catherine|Saint John the Baptist|Saint Paul|Saint Peter|Angels",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901000052| |http://vocab.getty.edu/page/ia/901001056|http://vocab.getty.edu/page/ia/901001058|http://vocab.getty.edu/page/ia/901000056|http://vocab.getty.edu/page/aat/300379004",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q9309699| |https://www.wikidata.org/wiki/Q40662|https://www.wikidata.org/wiki/Q9200|https://www.wikidata.org/wiki/Q33923|https://www.wikidata.org/wiki/Q235113"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT13.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/75E_42R4.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/75E_46R3.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/75E_44R5.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/75E_45R4.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/75E_48R4.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/75E_49R4.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/Raphael in frame1nocap.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/Raphael in frame2nocap.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/Raphael in frame3nocap.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 162291,
+        "role": "Artist",
+        "name": "Raphael (Raffaello Sanzio or Santi)",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500023578",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5597",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 172.4,
+          "Width": 172.4
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Angels",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379004",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q235113"
+      },
+      {
+        "term": "Madonna and Child",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000052",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q9309699"
+      },
+      {
+        "term": "Saint Catherine",
+        "AAT_URL": null,
+        "Wikidata_URL": null
+      },
+      {
+        "term": "Saint John the Baptist",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901001056",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q40662"
+      },
+      {
+        "term": "Saint Paul",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901001058",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q9200"
+      },
+      {
+        "term": "Saint Peter",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000056",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q33923"
+      }
+    ]
+  }
+}

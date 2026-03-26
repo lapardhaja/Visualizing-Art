@@ -1,0 +1,95 @@
+{
+  "object_id": 435615,
+  "excel_metadata": {
+    "Object Number": "1982.60.8",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 435615,
+    "Gallery Number": 537.0,
+    "Department": "European Paintings",
+    "AccessionYear": 1982.0,
+    "Object Name": "Painting",
+    "Title": "Portrait of a Man",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16165.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Fra Bartolomeo (Bartolomeo di Paolo del Fattorino)",
+    "Artist Display Bio": "Italian, Florence 1473–1517 Florence",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Bartolomeo, Fra (Bartolomeo di Paolo del Fattorino)",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1473",
+    "Artist End Date": "1517",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500115575",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q7780",
+    "Object Date": "shortly after 1497",
+    "Object Begin Date": 1497,
+    "Object End Date": 1517,
+    "Medium": "Oil on wood",
+    "Dimensions": "Overall 15 5/8 x 12 1/8 in. (39.7 x 30.8 cm); painted surface 15 1/2 x 11 3/4 in. (39.4 x 29.8 cm)",
+    "Credit Line": "The Jack and Belle Linsky Collection, 1982",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/435615",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19911987",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT8842.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 161655,
+        "role": "Artist",
+        "name": "Fra Bartolomeo (Bartolomeo di Paolo del Fattorino)",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115575",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q7780",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 39.7,
+          "Width": 30.8
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

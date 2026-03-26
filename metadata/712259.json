@@ -1,0 +1,85 @@
+{
+  "object_id": 712259,
+  "excel_metadata": {
+    "Object Number": "26.260.97a, b",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 712259,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1926,
+    "Object Name": "Column with Base",
+    "Title": "Column with base",
+    "Culture": "Italian",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": null,
+    "Artist Role": null,
+    "Artist Prefix": null,
+    "Artist Display Name": null,
+    "Artist Display Bio": null,
+    "Artist Suffix": null,
+    "Artist Alpha Sort": null,
+    "Artist Nationality": null,
+    "Artist Begin Date": null,
+    "Artist End Date": null,
+    "Artist Gender": null,
+    "Artist ULAN URL": null,
+    "Artist Wikidata URL": null,
+    "Object Date": "16th century",
+    "Object Begin Date": 1500,
+    "Object End Date": 1599,
+    "Medium": "Marble",
+    "Dimensions": "column: 54 1/4 × 18 1/4 × 18 1/4 in. (137.8 × 46.4 × 46.4 cm)_x000D_\nbase: 6 3/4 × 22 × 22 in. (17.1 × 55.9 × 55.9 cm)",
+    "Credit Line": "Bequest to Mrs. Annie C. Kane, 1926",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Sculpture-Architectural",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/712259",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": null,
+    "Tags AAT URL": null,
+    "Tags Wikidata URL": null
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/LC-26_260_97ab.jpg",
+    "additionalImages": [],
+    "constituents": null,
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": "base",
+        "elementMeasurements": {
+          "Depth": 55.88011,
+          "Height": 17.145035,
+          "Width": 55.88011
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": "column",
+        "elementMeasurements": {
+          "Depth": 46.35509,
+          "Height": 137.79527,
+          "Width": 46.35509
+        }
+      }
+    ],
+    "tags": null
+  }
+}

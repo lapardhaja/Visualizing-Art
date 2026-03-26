@@ -1,0 +1,110 @@
+{
+  "object_id": 436426,
+  "excel_metadata": {
+    "Object Number": "32.100.141",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436426,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1932.0,
+    "Object Name": "Painting",
+    "Title": "A Hare, Partridges, and Fruit",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10767.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Jan Fyt",
+    "Artist Display Bio": "Flemish, 1611–1661",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Fyt, Jan",
+    "Artist Nationality": "Flemish",
+    "Artist Begin Date": "1611",
+    "Artist End Date": "1661",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500115452",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q624802",
+    "Object Date": NaN,
+    "Object Begin Date": 1611,
+    "Object End Date": 1661,
+    "Medium": "Oil on canvas",
+    "Dimensions": "37 1/2 x 43 1/2 in. (95.3 x 110.5 cm)",
+    "Credit Line": "The Friedsam Collection, Bequest of Michael Friedsam, 1931",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436426",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912853",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Fruit|Birds|Dogs|Rabbits|Still Life",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300011868|http://vocab.getty.edu/page/aat/300266506|http://vocab.getty.edu/page/aat/300265714|http://vocab.getty.edu/page/aat/300250218|http://vocab.getty.edu/page/aat/300015638",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q1364|https://www.wikidata.org/wiki/Q5113|https://www.wikidata.org/wiki/Q144|https://www.wikidata.org/wiki/Q9394|https://www.wikidata.org/wiki/Q170571"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/ep32.100.141.bw.R.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 107678,
+        "role": "Artist",
+        "name": "Jan Fyt",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115452",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q624802",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 95.3,
+          "Width": 110.5
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Birds",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300266506",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q5113"
+      },
+      {
+        "term": "Fruit",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300011868",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q1364"
+      },
+      {
+        "term": "Dogs",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300265714",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q144"
+      },
+      {
+        "term": "Rabbits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250218",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q9394"
+      },
+      {
+        "term": "Still Life",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015638",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q170571"
+      }
+    ]
+  }
+}

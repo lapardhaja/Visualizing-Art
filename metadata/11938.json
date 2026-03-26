@@ -1,0 +1,114 @@
+{
+  "object_id": 11938,
+  "excel_metadata": {
+    "Object Number": "67.111",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 11938,
+    "Gallery Number": 736.0,
+    "Department": "The American Wing",
+    "AccessionYear": 1967.0,
+    "Object Name": "Painting",
+    "Title": "Still Life: Flowers and Fruit",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 284.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Severin Roesen",
+    "Artist Display Bio": "American (born Prussia), Boppard-am-Rhein 1816–72?",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Roesen, Severin",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1816",
+    "Artist End Date": "1872",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500030413",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q88498",
+    "Object Date": "1850–55",
+    "Object Begin Date": 1850,
+    "Object End Date": 1855,
+    "Medium": "Oil on canvas",
+    "Dimensions": "40 x 50 3/8 in. (101.6 x 128 cm)",
+    "Credit Line": "Purchase, Bequest of Charles Allen Munn, by exchange, Fosburgh Fund Inc. and Mr. and Mrs. J. William Middendorf II Gifts, and Henry G. Keasbey Bequest, 1967",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/11938",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19924124",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Eggs|Fruit|Flowers|Still Life",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300395680|http://vocab.getty.edu/page/aat/300011868|http://vocab.getty.edu/page/aat/300132399|http://vocab.getty.edu/page/aat/300015638",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q93189|https://www.wikidata.org/wiki/Q1364|https://www.wikidata.org/wiki/Q506|https://www.wikidata.org/wiki/Q170571"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DT2133.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 2846,
+        "role": "Artist",
+        "name": "Severin Roesen",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500030413",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q88498",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 101.6,
+          "Width": 128
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 10.5,
+          "Height": 127.5,
+          "Width": 155.3
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Fruit",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300011868",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q1364"
+      },
+      {
+        "term": "Flowers",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132399",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q506"
+      },
+      {
+        "term": "Still Life",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015638",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q170571"
+      },
+      {
+        "term": "Eggs",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300395680",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q93189"
+      }
+    ]
+  }
+}

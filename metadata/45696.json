@@ -1,0 +1,112 @@
+{
+  "object_id": 45696,
+  "excel_metadata": {
+    "Object Number": "29.100.450",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 45696,
+    "Gallery Number": NaN,
+    "Department": "Asian Art",
+    "AccessionYear": 1929.0,
+    "Object Name": "Painting",
+    "Title": NaN,
+    "Culture": "Japan",
+    "Period": "Muromachi period (1392–1573)",
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 1706.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Isei",
+    "Artist Display Bio": "Japanese, mid-16th century",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Isei",
+    "Artist Nationality": "Japanese",
+    "Artist Begin Date": "1536",
+    "Artist End Date": "1570",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": NaN,
+    "Artist Wikidata URL": NaN,
+    "Object Date": NaN,
+    "Object Begin Date": 1534,
+    "Object End Date": 1566,
+    "Medium": "Framed painting; ink and color on paper",
+    "Dimensions": "Image: 15 5/16 × 13 1/16 in. (38.9 × 33.1 cm)",
+    "Credit Line": "H. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/45696",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q78842337",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Boys|Men|Playing|Animals",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300247598|http://vocab.getty.edu/page/aat/300025928| |http://vocab.getty.edu/page/aat/300249525",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q3010|https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q1150958|https://www.wikidata.org/wiki/Q729"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/as/original/LC-29_100_450_jps-003.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/as/original/LC-29_100_450_jps-008.jpg",
+      "https://images.metmuseum.org/CRDImages/as/original/LC-29_100_450_jps-007.jpg",
+      "https://images.metmuseum.org/CRDImages/as/original/LC-29_100_450_jps-006.jpg",
+      "https://images.metmuseum.org/CRDImages/as/original/LC-29_100_450_jps-005.jpg",
+      "https://images.metmuseum.org/CRDImages/as/original/LC-29_100_450_jps-004.jpg",
+      "https://images.metmuseum.org/CRDImages/as/original/LC-29_100_450_jps-002.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 17062,
+        "role": "Artist",
+        "name": "Isei",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Image",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 38.9,
+          "Width": 33.1
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Animals",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300249525",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q729"
+      },
+      {
+        "term": "Boys",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300247598",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3010"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Playing",
+        "AAT_URL": null,
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q1150958"
+      }
+    ]
+  }
+}

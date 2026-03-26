@@ -1,0 +1,97 @@
+{
+  "object_id": 200702,
+  "excel_metadata": {
+    "Object Number": "50.187.27",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 200702,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1950,
+    "Object Name": "Medallion",
+    "Title": "Member of the Willoughby de Broke Family",
+    "Culture": "British",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 3392,
+    "Artist Role": "Artist",
+    "Artist Prefix": "Probably by",
+    "Artist Display Name": "Isaac Gosset",
+    "Artist Display Bio": "British, St. Helier, Jersey 1713–1799 London",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Gosset, Isaac",
+    "Artist Nationality": "British",
+    "Artist Begin Date": 1713,
+    "Artist End Date": 1799,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500018888",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q18576359",
+    "Object Date": "18th century",
+    "Object Begin Date": 1700,
+    "Object End Date": 1799,
+    "Medium": "Colorless wax on red velvet under glass; frame: black wood",
+    "Dimensions": "Framed: 7 1/8 × 6 in. (18.1 × 15.2 cm)",
+    "Credit Line": "The Glenn Tilley Morse Collection, Bequest of Glenn Tilley Morse, 1950",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Sculpture-Miniature",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/200702",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Profiles",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300123319",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q4382010"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP-13721-027.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/DP-13721-028.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 33928,
+        "role": "Artist",
+        "name": "Probably by Isaac Gosset",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500018888",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q18576359",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Diameter": 18.097536,
+          "Height": 15.24003
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Profiles",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300123319",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q4382010"
+      }
+    ]
+  }
+}

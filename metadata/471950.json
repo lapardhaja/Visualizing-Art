@@ -1,0 +1,88 @@
+{
+  "object_id": 471950,
+  "excel_metadata": {
+    "Object Number": "69.238.1",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 471950,
+    "Gallery Number": 14,
+    "Department": "The Cloisters",
+    "AccessionYear": 1969,
+    "Object Name": "Plaque",
+    "Title": "Plaque from a Reliquary",
+    "Culture": "German",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 14114,
+    "Artist Role": "Artist",
+    "Artist Prefix": "Workshop of",
+    "Artist Display Name": "Master of the Virgin Mary's Reliquary Casket",
+    "Artist Display Bio": "German, Aachen",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Master of the Virgin Mary's Reliquary Casket",
+    "Artist Nationality": "German",
+    "Artist Begin Date": "          ",
+    "Artist End Date": "          ",
+    "Artist Gender": null,
+    "Artist ULAN URL": null,
+    "Artist Wikidata URL": null,
+    "Object Date": "early 13th century",
+    "Object Begin Date": 1200,
+    "Object End Date": 1240,
+    "Medium": "Champlevé and cloisonné enamel, copper-gilt",
+    "Dimensions": "Overall: 3 7/16 x 1 9/16 x 5/16 in. (8.7 x 4 x 0.8 cm)",
+    "Credit Line": "The Cloisters Collection, 1969",
+    "Geography Type": "Made in",
+    "City": "Cologne",
+    "State": null,
+    "County": null,
+    "Country": "Germany",
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Enamels",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/471950",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q116247624",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": null,
+    "Tags AAT URL": null,
+    "Tags Wikidata URL": null
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/cl/original/DP226847crop2.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/cl/original/DP226847.jpg",
+      "https://images.metmuseum.org/CRDImages/cl/original/DP227014.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 141146,
+        "role": "Artist",
+        "name": "Workshop of Master of the Virgin Mary&#39;s Reliquary Casket",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 0.8,
+          "Length": 8.7,
+          "Width": 4
+        }
+      }
+    ],
+    "tags": null
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "object_id": 11015,
+  "excel_metadata": {
+    "Object Number": "32.75.13",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 11015,
+    "Gallery Number": NaN,
+    "Department": "The American Wing",
+    "AccessionYear": 1932.0,
+    "Object Name": "Painting, miniature",
+    "Title": "Portrait of a Lady",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 258.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "George Harvey",
+    "Artist Display Bio": "1800–1878",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Harvey, George",
+    "Artist Nationality": " ",
+    "Artist Begin Date": "1800",
+    "Artist End Date": "1878",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500010862",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q21152710",
+    "Object Date": "ca. 1830",
+    "Object Begin Date": 1827,
+    "Object End Date": 1830,
+    "Medium": "Watercolor on ivory",
+    "Dimensions": "2 5/16 x 1 7/8 in. (5.9 x 4.8 cm)",
+    "Credit Line": "The Collection of Giovanni P. Morosini, presented by his daughter Giulia, 1932",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/11015",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19924638",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Portraits|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/ap32.75.13.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 2582,
+        "role": "Artist",
+        "name": "George Harvey",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500010862",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q21152710",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 5.9,
+          "Width": 4.8
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

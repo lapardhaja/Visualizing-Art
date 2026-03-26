@@ -1,0 +1,105 @@
+{
+  "object_id": 769297,
+  "excel_metadata": {
+    "Object Number": "2017.422",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 769297,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 2017.0,
+    "Object Name": "Painting",
+    "Title": "Pope Clement X (1590–1676)",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16543.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Giovanni Battista Gaulli (Il Baciccio)",
+    "Artist Display Bio": "Italian, Genoa 1639–1709 Rome",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Gaulli, Giovanni Battista",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1639",
+    "Artist End Date": "1709",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500000833",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q520573",
+    "Object Date": "ca. 1670–71",
+    "Object Begin Date": 1670,
+    "Object End Date": 1671,
+    "Medium": "Oil on canvas",
+    "Dimensions": "30 1/2 × 24 1/4 in. (77.5 × 61.6 cm)",
+    "Credit Line": "Purchase, Friends of European Paintings Gifts, 2017\r\n",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/769297",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q78611598",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits|Popes",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300025773",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q19546"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-15413-001.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-2017_422_suppl_002_2.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-2017_422_suppl_003_2.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-2017_422_suppl_004.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/DP-15417-001.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 165439,
+        "role": "Artist",
+        "name": "Giovanni Battista Gaulli (Il Baciccio)",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500000833",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q520573",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 77.47015,
+          "Width": 61.595123
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Popes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025773",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q19546"
+      }
+    ]
+  }
+}

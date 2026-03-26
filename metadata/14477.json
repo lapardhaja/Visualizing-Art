@@ -1,0 +1,119 @@
+{
+  "object_id": 14477,
+  "excel_metadata": {
+    "Object Number": "1992.205.4",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": false,
+    "Object ID": 14477,
+    "Gallery Number": 774.0,
+    "Department": "The American Wing",
+    "AccessionYear": 1992.0,
+    "Object Name": "Painting",
+    "Title": "The Fable of the Miller, His Son, and the Donkey No. 4",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16261.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Elihu Vedder",
+    "Artist Display Bio": "American, New York 1836–1923 Rome",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Vedder, Elihu",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1836",
+    "Artist End Date": "1923",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500032587",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q389726",
+    "Object Date": "ca. 1867–68",
+    "Object Begin Date": 1864,
+    "Object End Date": 1868,
+    "Medium": "Oil on canvas",
+    "Dimensions": "6 1/2 x 10 3/4 in. (16.5 x 27.3 cm)",
+    "Credit Line": "Gift of John V. and Enza Tomassi Kiskis, 1992",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/14477",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19924831",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Infants|Men|Mothers|Dogs|Donkeys",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300189561|http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300025932|http://vocab.getty.edu/page/aat/300265714|http://vocab.getty.edu/page/aat/300265959",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q998|https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q7560|https://www.wikidata.org/wiki/Q144|https://www.wikidata.org/wiki/Q3537778"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DP105668.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162614,
+        "role": "Artist",
+        "name": "Elihu Vedder",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500032587",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q389726",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 16.5,
+          "Width": 27.3
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": "Overall 3 x 3 grouping .1 - .9",
+        "elementMeasurements": {
+          "Depth": 6,
+          "Height": 77.7,
+          "Width": 110
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Infants",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300189561",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q998"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Mothers",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025932",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q7560"
+      },
+      {
+        "term": "Dogs",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300265714",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q144"
+      },
+      {
+        "term": "Donkeys",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300265959",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3537778"
+      }
+    ]
+  }
+}

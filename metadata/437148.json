@@ -1,0 +1,100 @@
+{
+  "object_id": 437148,
+  "excel_metadata": {
+    "Object Number": "56.183",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437148,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1956.0,
+    "Object Name": "Painting",
+    "Title": "Flowers in a Blue Vase",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10807.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Adolphe Monticelli",
+    "Artist Display Bio": "French, Marseilles 1824–1886 Marseilles",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Monticelli, Adolphe",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1824",
+    "Artist End Date": "1886",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500000984",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q1152965",
+    "Object Date": "1879–1883",
+    "Object Begin Date": 1879,
+    "Object End Date": 1883,
+    "Medium": "Oil on wood",
+    "Dimensions": "Overall, with added strip at right, 26 1/2 x 19 1/4 in. (67.3 x 48.9 cm)",
+    "Credit Line": "Gift of Mr. and Mrs. Werner E. Josten, 1956",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437148",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912169",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Flowers|Vases|Still Life",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300132399|http://vocab.getty.edu/page/aat/300132254|http://vocab.getty.edu/page/aat/300015638",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q506|https://www.wikidata.org/wiki/Q191851|https://www.wikidata.org/wiki/Q170571"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT2791.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 108070,
+        "role": "Artist",
+        "name": "Adolphe Monticelli",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500000984",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1152965",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 67.3,
+          "Width": 48.9
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Flowers",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132399",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q506"
+      },
+      {
+        "term": "Still Life",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015638",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q170571"
+      },
+      {
+        "term": "Vases",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132254",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q191851"
+      }
+    ]
+  }
+}

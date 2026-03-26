@@ -1,0 +1,84 @@
+{
+  "object_id": 209232,
+  "excel_metadata": {
+    "Object Number": "13.42.100b",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 209232,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1913,
+    "Object Name": "Spoon",
+    "Title": "Seal-top spoon",
+    "Culture": "British, London",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 3976,
+    "Artist Role": "Maker",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Daniel Cary",
+    "Artist Display Bio": "active 1604–40",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Cary Daniel",
+    "Artist Nationality": " ",
+    "Artist Begin Date": 1604,
+    "Artist End Date": 1640,
+    "Artist Gender": null,
+    "Artist ULAN URL": null,
+    "Artist Wikidata URL": null,
+    "Object Date": "1633–34",
+    "Object Begin Date": 1633,
+    "Object End Date": 1634,
+    "Medium": "Silver, originally gilt",
+    "Dimensions": "6 1/2 x 2 1/2 in.  (16.5 x 6.4 cm)",
+    "Credit Line": "Rogers Fund, 1913",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Metalwork-Silver",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/209232",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": null,
+    "Tags AAT URL": null,
+    "Tags Wikidata URL": null
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/15518.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 39769,
+        "role": "Maker",
+        "name": "Daniel Cary",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 16.5,
+          "Width": 6.4
+        }
+      }
+    ],
+    "tags": null
+  }
+}

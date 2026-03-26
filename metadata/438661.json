@@ -1,0 +1,90 @@
+{
+  "object_id": 438661,
+  "excel_metadata": {
+    "Object Number": "2003.42.38",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 438661,
+    "Gallery Number": 809.0,
+    "Department": "European Paintings",
+    "AccessionYear": 2003.0,
+    "Object Name": "Painting",
+    "Title": "Study of a Female Nude",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16205.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Henri Lehmann",
+    "Artist Display Bio": "French, Kiel 1814–1882 Paris",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Lehmann, Henri",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1814",
+    "Artist End Date": "1882",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500032345",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q240483",
+    "Object Date": "1840",
+    "Object Begin Date": 1840,
+    "Object End Date": 1840,
+    "Medium": "Oil on canvas",
+    "Dimensions": "14 x 8 3/4 in. (35.5 x 22.3 cm)",
+    "Credit Line": "The Whitney Collection, Gift of Wheelock Whitney III, and Purchase, Gift of Mr. and Mrs. Charles S. McVeigh, by exchange, 2003\r\n\r\n",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/438661",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20167232",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Female Nudes",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300189568",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q40446"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP103071.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162058,
+        "role": "Artist",
+        "name": "Henri Lehmann",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500032345",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q240483",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 35.5,
+          "Width": 22.3
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Female Nudes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300189568",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q40446"
+      }
+    ]
+  }
+}

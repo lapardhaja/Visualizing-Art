@@ -1,0 +1,99 @@
+{
+  "object_id": 437512,
+  "excel_metadata": {
+    "Object Number": "39.15",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437512,
+    "Gallery Number": 825.0,
+    "Department": "European Paintings",
+    "AccessionYear": 1939.0,
+    "Object Name": "Painting",
+    "Title": "The Banks of the Bièvre near Bicêtre",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16511.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Henri Rousseau (le Douanier)",
+    "Artist Display Bio": "French, Laval 1844–1910 Paris",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Rousseau, Henri (le Douanier)",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1844",
+    "Artist End Date": "1910",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500115462",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q156386",
+    "Object Date": "ca. 1908–09",
+    "Object Begin Date": 1903,
+    "Object End Date": 1913,
+    "Medium": "Oil on canvas",
+    "Dimensions": "21 1/2 x 18 in. (54.6 x 45.7 cm)",
+    "Credit Line": "Gift of Marshall Field, 1939",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437512",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912798",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Forests",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300387598",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q4421"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT232877.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 165114,
+        "role": "Artist",
+        "name": "Henri Rousseau (le Douanier)",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115462",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q156386",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 54.6,
+          "Width": 45.7
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 6.35,
+          "Height": 71.1201,
+          "Width": 62.2301
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Forests",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300387598",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q4421"
+      }
+    ]
+  }
+}

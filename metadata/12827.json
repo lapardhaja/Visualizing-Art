@@ -1,0 +1,104 @@
+{
+  "object_id": 12827,
+  "excel_metadata": {
+    "Object Number": "22.76.2",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 12827,
+    "Gallery Number": 774.0,
+    "Department": "The American Wing",
+    "AccessionYear": 1922.0,
+    "Object Name": "Painting",
+    "Title": "Mrs. John Murray",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16256.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "John Trumbull",
+    "Artist Display Bio": "American, Lebanon, Connecticut 1756–1843 New York",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Trumbull, John",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1756",
+    "Artist End Date": "1843",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500016000",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q369263",
+    "Object Date": "ca. 1806",
+    "Object Begin Date": 1803,
+    "Object End Date": 1806,
+    "Medium": "Oil on canvas",
+    "Dimensions": "30 x 24 in. (76.2 x 61 cm)",
+    "Credit Line": "Morris K. Jesup Fund, 1922",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/12827",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20171393",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Portraits|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/ap22.76.2.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162569,
+        "role": "Artist",
+        "name": "John Trumbull",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500016000",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q369263",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 76.2,
+          "Width": 61
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 9.2075,
+          "Height": 96.8377,
+          "Width": 81.9152
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

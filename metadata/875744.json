@@ -1,0 +1,100 @@
+{
+  "object_id": 875744,
+  "excel_metadata": {
+    "Object Number": 2023.153,
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": false,
+    "Object ID": 875744,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 2023,
+    "Object Name": "Cup",
+    "Title": "Cup with the Triumph of Galatea",
+    "Culture": "French, Paris",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 4550021961,
+    "Artist Role": "Retailer|Artist",
+    "Artist Prefix": " | ",
+    "Artist Display Name": "Maison Ferdinand Barbedienne|Charles-Ludovic Crétineau-Joly",
+    "Artist Display Bio": "French, 1834–1954|French, born Fontenay-le-Comte 1831",
+    "Artist Suffix": " | ",
+    "Artist Alpha Sort": "Maison Ferdinand Barbedienne|Crétineau-Joly, Charles-Ludovic",
+    "Artist Nationality": "French|French",
+    "Artist Begin Date": "1834      |1831      ",
+    "Artist End Date": "1954      |          ",
+    "Artist Gender": "|",
+    "Artist ULAN URL": "|",
+    "Artist Wikidata URL": "|",
+    "Object Date": 1863,
+    "Object Begin Date": 1863,
+    "Object End Date": 1863,
+    "Medium": "Painted enamel on copper",
+    "Dimensions": "confirmed: 4 15/16 × 7 7/8 in. (12.5 × 20 cm)",
+    "Credit Line": "Purchase, Juliet Flynt Marillonnet Gift and funds from various donors, 2022",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Enamels-Painted",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/875744",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": null,
+    "Tags AAT URL": null,
+    "Tags Wikidata URL": null
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP-30435-020.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/DP-30435-021.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP-30435-025.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/LC-2023_153-002.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/LC-2023_153-001.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/LC-2023_153-003.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/LC-2023_153-004.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/LC-2023_153-marks.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 219611,
+        "role": "Artist",
+        "name": "Charles-Ludovic Crétineau-Joly",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      },
+      {
+        "constituentID": 45500,
+        "role": "Retailer",
+        "name": "Maison Ferdinand Barbedienne",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": "confirmed",
+        "elementMeasurements": {
+          "Height": 12.5,
+          "Length": 20.00254
+        }
+      }
+    ],
+    "tags": null
+  }
+}

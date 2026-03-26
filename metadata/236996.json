@@ -1,0 +1,90 @@
+{
+  "object_id": 236996,
+  "excel_metadata": {
+    "Object Number": "2010.110.14",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 236996,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 2010,
+    "Object Name": "Dish",
+    "Title": "Hexagonal dish (part of a set)",
+    "Culture": "Hungarian, Brassó",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 4587,
+    "Artist Role": "Maker",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Paulus Roth",
+    "Artist Display Bio": "active 1646–89",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Roth, Paulus",
+    "Artist Nationality": " ",
+    "Artist Begin Date": 1589,
+    "Artist End Date": 1689,
+    "Artist Gender": null,
+    "Artist ULAN URL": null,
+    "Artist Wikidata URL": null,
+    "Object Date": "second half 17th century",
+    "Object Begin Date": 1650,
+    "Object End Date": 1699,
+    "Medium": "Gilded silver",
+    "Dimensions": "Overall: 10 1/2 x 9 5/16 in. (26.6 x 23.6 cm)",
+    "Credit Line": "Gift of The Salgo Trust for Education, New York, in memory of Nicolas M. Salgo, 2010",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Metalwork-Silver",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/236996",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Flowers",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300132399",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q506"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP347632.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 45871,
+        "role": "Maker",
+        "name": "Paulus Roth",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 23.6,
+          "Width": 26.6
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Flowers",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132399",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q506"
+      }
+    ]
+  }
+}

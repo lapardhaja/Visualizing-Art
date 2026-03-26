@@ -1,0 +1,95 @@
+{
+  "object_id": 436515,
+  "excel_metadata": {
+    "Object Number": "88.3.111",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436515,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1888.0,
+    "Object Name": "Painting",
+    "Title": "Saints Matthew and Francis",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16193.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Giovanni di Paolo (Giovanni di Paolo di Grazia)",
+    "Artist Display Bio": "Italian, Siena 1398–1482 Siena",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Giovanni di Paolo (Giovanni di Paolo di Grazia)",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1398",
+    "Artist End Date": "1482",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500116438",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q946420",
+    "Object Date": "ca. 1435",
+    "Object Begin Date": 1430,
+    "Object End Date": 1440,
+    "Medium": "Tempera on wood, gold ground",
+    "Dimensions": "Overall, with added strips, 54 5/8 x 34 3/4 in. (138.7 x 88.3 cm); painted surface 52 7/8 x 33 1/2 in. (134.3 x 85.1 cm)",
+    "Credit Line": "Gift of Coudert Brothers, 1888",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436515",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19905072",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Saint Francis|Saint Matthew",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ulan/500349636|http://vocab.getty.edu/page/ia/901000497",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q676555|https://www.wikidata.org/wiki/Q43600"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-19499-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 161939,
+        "role": "Artist",
+        "name": "Giovanni di Paolo (Giovanni di Paolo di Grazia)",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500116438",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q946420",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 138.7,
+          "Width": 88.3
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Saint Francis",
+        "AAT_URL": "http://vocab.getty.edu/page/ulan/500349636",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q676555"
+      },
+      {
+        "term": "Saint Matthew",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000497",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q43600"
+      }
+    ]
+  }
+}

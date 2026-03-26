@@ -1,0 +1,97 @@
+{
+  "object_id": 841283,
+  "excel_metadata": {
+    "Object Number": "2020.86.19",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 841283,
+    "Gallery Number": 530,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 2020,
+    "Object Name": "Figure",
+    "Title": "Snake",
+    "Culture": "French, possibly St. Honoré-les-Bains",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 21697,
+    "Artist Role": "Manufactory",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Saint-Honoré-les-Bains",
+    "Artist Display Bio": "French, ca. 1820–1914",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Saint-Honoré-les-Bains",
+    "Artist Nationality": "French",
+    "Artist Begin Date": 1820,
+    "Artist End Date": 1914,
+    "Artist Gender": null,
+    "Artist ULAN URL": null,
+    "Artist Wikidata URL": null,
+    "Object Date": "ca. 1870–1880",
+    "Object Begin Date": 1865,
+    "Object End Date": 1880,
+    "Medium": "Glazed earthenware",
+    "Dimensions": "confirmed: 2 1/16 × 6 5/8 × 3 5/8 in. (5.2 × 16.8 × 9.2 cm)",
+    "Credit Line": "Gift of Wallis Katz, in memory of Marshall Katz, and in celebration of the Museum's 150th anniversary, 2020",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Ceramics-Pottery",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/841283",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q116445496",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Snakes",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300250870",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q2102"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP-19544-052.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/DP-19544-053.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/LC-2020_86_19-001.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/LC-2020_86_19-002.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/LC-2020_86_19-003.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/LC-2020_86_19-004.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 216970,
+        "role": "Manufactory",
+        "name": "Saint-Honoré-les-Bains",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": "confirmed",
+        "elementMeasurements": {
+          "Depth": 9.207519,
+          "Height": 5.2387605,
+          "Width": 16.827534
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Snakes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250870",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q2102"
+      }
+    ]
+  }
+}

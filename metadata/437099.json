@@ -1,0 +1,114 @@
+{
+  "object_id": 437099,
+  "excel_metadata": {
+    "Object Number": "38.75",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 437099,
+    "Gallery Number": 802.0,
+    "Department": "European Paintings",
+    "AccessionYear": 1938.0,
+    "Object Name": "Painting",
+    "Title": "Woman with a Rake",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16490.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Jean-François Millet",
+    "Artist Display Bio": "French, Gruchy 1814–1875 Barbizon",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Millet, Jean-François",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1814",
+    "Artist End Date": "1875",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500012529",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q148458",
+    "Object Date": "probably 1856–57",
+    "Object Begin Date": 1856,
+    "Object End Date": 1857,
+    "Medium": "Oil on canvas",
+    "Dimensions": "15 5/8 x 13 1/2 in. (39.7 x 34.3 cm)",
+    "Credit Line": "Gift of Stephen C. Clark, 1938",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437099",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912019",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Women|Working|Farms|Haystacks",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/aat/300412186|http://vocab.getty.edu/page/aat/300000206|http://vocab.getty.edu/page/aat/300435325",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q6958747|https://www.wikidata.org/wiki/Q131596|https://www.wikidata.org/wiki/Q62577"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT1978.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 164909,
+        "role": "Artist",
+        "name": "Jean-François Millet",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500012529",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q148458",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 39.7,
+          "Width": 34.3
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 7.62,
+          "Height": 57.7851,
+          "Width": 52.7051
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Farms",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300000206",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q131596"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Working",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300412186",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q6958747"
+      },
+      {
+        "term": "Haystacks",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300435325",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q62577"
+      }
+    ]
+  }
+}

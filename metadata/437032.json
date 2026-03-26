@@ -1,0 +1,131 @@
+{
+  "object_id": 437032,
+  "excel_metadata": {
+    "Object Number": "32.100.63ab",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437032,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1932.0,
+    "Object Name": "Painting, wings of an altarpiece",
+    "Title": "Saint Paul with a Donor; Christ Appearing to His Mother",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16529.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Master of the Saint Ursula Legend",
+    "Artist Display Bio": "Netherlandish, active late 15th century",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Master of the Saint Ursula Legend",
+    "Artist Nationality": "Netherlandish",
+    "Artist Begin Date": "1400",
+    "Artist End Date": "1499",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500022289",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q1918313",
+    "Object Date": "ca. 1485",
+    "Object Begin Date": 1480,
+    "Object End Date": 1490,
+    "Medium": "Oil on wood",
+    "Dimensions": "(a) overall 37 3/8 x 11 3/8 in. (94.9 x 28.9 cm), painted surface 36 3/4 x 10 7/8 in. (93.4 x 27.6 cm); (b) overall 37 1/4 x 11 1/4 in. (94.6 x 28.6 cm), painted surface 36 3/4 x 10 3/4 in. (93.4 x 27.3 cm)",
+    "Credit Line": "The Friedsam Collection, Bequest of Michael Friedsam, 1931",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437032",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19905349",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Saint Paul|Christ|Virgin Mary",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/ia/901001058|http://vocab.getty.edu/page/ia/901000087|http://vocab.getty.edu/page/ia/901000032",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q9200|https://www.wikidata.org/wiki/Q642420|https://www.wikidata.org/wiki/Q345"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT262309.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-32_100_63a-IRR.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-32_100_63b-IRR.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-32_100_63a_Paul_Xray.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-32_100_63b-XRAY.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-32_100_63ab-10.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-32_100_63ab-11.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-32_100_63ab-12.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 165291,
+        "role": "Artist",
+        "name": "Master of the Saint Ursula Legend",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500022289",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1918313",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 94.9,
+          "Width": 28.9
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 4.7625,
+          "Height": 116.5227,
+          "Width": 37.7826
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 4.4450088,
+          "Height": 116.522736,
+          "Width": 37.782574
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Christ",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+      },
+      {
+        "term": "Saint Paul",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901001058",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q9200"
+      },
+      {
+        "term": "Virgin Mary",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000032",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q345"
+      }
+    ]
+  }
+}

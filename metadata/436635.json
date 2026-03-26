@@ -1,0 +1,95 @@
+{
+  "object_id": 436635,
+  "excel_metadata": {
+    "Object Number": "45.95",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436635,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1945.0,
+    "Object Name": "Painting, miniature",
+    "Title": "Agnes Sewell",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10865.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Thomas Hazlehurst",
+    "Artist Display Bio": "British, ca. 1740–ca. 1821",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Hazlehurst, Thomas",
+    "Artist Nationality": "British",
+    "Artist Begin Date": "1740",
+    "Artist End Date": "1821",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500009091",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q7790538",
+    "Object Date": "possibly ca. 1800",
+    "Object Begin Date": 1795,
+    "Object End Date": 1805,
+    "Medium": "Ivory",
+    "Dimensions": "Oval, 3 x 2 3/8 in. (75 x 60 mm)",
+    "Credit Line": "Gift of Elise Shackelford Black, 1945",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Miniatures",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436635",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19913918",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Portraits|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/135216.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 108656,
+        "role": "Artist",
+        "name": "Thomas Hazlehurst",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500009091",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q7790538",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 7.6,
+          "Width": 6
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

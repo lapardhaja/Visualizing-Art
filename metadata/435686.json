@@ -1,0 +1,95 @@
+{
+  "object_id": 435686,
+  "excel_metadata": {
+    "Object Number": "40.186.2",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 435686,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1940.0,
+    "Object Name": "Painting, miniature",
+    "Title": "A Woman with the Initials MCC",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10672.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "John Bogle",
+    "Artist Display Bio": "British, Glasgow, Scotland 1746–1804 Edinburgh",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Bogle, John",
+    "Artist Nationality": "British, Scottish",
+    "Artist Begin Date": "1746",
+    "Artist End Date": "1803",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500010200",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q6222351",
+    "Object Date": "1773",
+    "Object Begin Date": 1773,
+    "Object End Date": 1773,
+    "Medium": "Ivory",
+    "Dimensions": "Oval, 1 5/8 x 1 3/8 in. (41 x 34 mm)",
+    "Credit Line": "Gift of Mrs. S. M. Breckenridge Long, 1940",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Miniatures",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/435686",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19913683",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Portraits|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/228819.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 106727,
+        "role": "Artist",
+        "name": "John Bogle",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500010200",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q6222351",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 4.1,
+          "Width": 3.5
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

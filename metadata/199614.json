@@ -1,0 +1,110 @@
+{
+  "object_id": 199614,
+  "excel_metadata": {
+    "Object Number": "45.60.5",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 199614,
+    "Gallery Number": 544,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1945,
+    "Object Name": "Plaque",
+    "Title": "Turnus, Overwhelmed by the Trojans, Crosses the River to Return to His Companions (Aeneid, Book IX)",
+    "Culture": "French, Limoges",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 3893,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Master of the Aeneid",
+    "Artist Display Bio": "active ca. 1530–40",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Master of the Aeneid",
+    "Artist Nationality": " ",
+    "Artist Begin Date": 1525,
+    "Artist End Date": 1545,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500104550",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q18587838",
+    "Object Date": "ca. 1530–35",
+    "Object Begin Date": 1525,
+    "Object End Date": 1540,
+    "Medium": "Painted enamel on copper, partly gilt",
+    "Dimensions": "8 3/4 x 7 3/4 in. (22.2 x 19.7 cm)",
+    "Credit Line": "Fletcher Fund, 1945",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Enamels",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/199614",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q116310224",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Castles|Soldiers|Kings|Rivers|Horses",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300006891|http://vocab.getty.edu/page/aat/300185678|http://vocab.getty.edu/page/aat/300025481|http://vocab.getty.edu/page/aat/300008707|http://vocab.getty.edu/page/aat/300250148",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q23413|https://www.wikidata.org/wiki/Q4991371|https://www.wikidata.org/wiki/Q12097|https://www.wikidata.org/wiki/Q4022|https://www.wikidata.org/wiki/Q726"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/ES5303.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 38938,
+        "role": "Artist",
+        "name": "Master of the Aeneid",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500104550",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q18587838",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 22.2,
+          "Width": 19.7
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Castles",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300006891",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q23413"
+      },
+      {
+        "term": "Soldiers",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300185678",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q4991371"
+      },
+      {
+        "term": "Kings",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025481",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q12097"
+      },
+      {
+        "term": "Horses",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250148",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q726"
+      },
+      {
+        "term": "Rivers",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300008707",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q4022"
+      }
+    ]
+  }
+}

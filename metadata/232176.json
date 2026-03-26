@@ -1,0 +1,147 @@
+{
+  "object_id": 232176,
+  "excel_metadata": {
+    "Object Number": "45.60.45",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 232176,
+    "Gallery Number": 526,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1945,
+    "Object Name": "Side chair",
+    "Title": "Side chair (Chaise à la reine) (part of a set)",
+    "Culture": "French, Paris",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 3404640000000000284818527146213376,
+    "Artist Role": "Maker|Maker|Maker|Maker|Maker|Maker|Maker",
+    "Artist Prefix": "under the direction of| |Carved by|or|or|Gilded by|or",
+    "Artist Display Name": "Jean Hauré|Jean Baptiste Boulard|Nicolas François Vallois|Guintrange|Julliac|Louis-François Chatard|Lambert Charny",
+    "Artist Display Bio": "born 1739, active 1774–after 1796|French, 1725–1789|1738–1788| | |ca. 1749–1819|French, active 1756–86",
+    "Artist Suffix": " | | | | | | ",
+    "Artist Alpha Sort": "Hauré Jean|Boulard, Jean Baptiste|Vallois Nicolas François|GUINTRANGE|JULLIAC|Chatard Louis-François|Charny, Lambert",
+    "Artist Nationality": " |French| | | | |French",
+    "Artist Begin Date": "1739      |1725      |1738      |1725      |1725      |1749      |1756      ",
+    "Artist End Date": "1839      |1789      |1788      |1825      |1825      |1819      |1786      ",
+    "Artist Gender": "||||||",
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500030549|http://vocab.getty.edu/page/ulan/500095117|http://vocab.getty.edu/page/ulan/500054525||||",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q98140051|https://www.wikidata.org/wiki/Q54865058|https://www.wikidata.org/wiki/Q26203764||||",
+    "Object Date": "1786–87",
+    "Object Begin Date": 1786,
+    "Object End Date": 1787,
+    "Medium": "Carved and gilded beech; silk damask (not original)",
+    "Dimensions": "H. 36 1/2 × W. 22 1/2 × D. 19 3/4 in. (92.7 × 57.2 × 50.2 cm)",
+    "Credit Line": "Fletcher Fund, 1945",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Woodwork-Furniture",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/232176",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q116305648",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Buildings|Flowers",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300004789|http://vocab.getty.edu/page/aat/300132399",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q41176|https://www.wikidata.org/wiki/Q506"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/134549.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/163247.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/138722.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 36396,
+        "role": "Maker",
+        "name": "Jean Baptiste Boulard",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500095117",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q54865058",
+        "gender": ""
+      },
+      {
+        "constituentID": 36397,
+        "role": "Maker",
+        "name": "Carved by Nicolas François Vallois",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500054525",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q26203764",
+        "gender": ""
+      },
+      {
+        "constituentID": 48872,
+        "role": "Maker",
+        "name": "or Lambert Charny",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      },
+      {
+        "constituentID": 34046,
+        "role": "Maker",
+        "name": "under the direction of Jean Hauré",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500030549",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q98140051",
+        "gender": ""
+      },
+      {
+        "constituentID": 36401,
+        "role": "Maker",
+        "name": "Gilded by Louis-François Chatard",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      },
+      {
+        "constituentID": 36400,
+        "role": "Maker",
+        "name": "or Julliac",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      },
+      {
+        "constituentID": 36399,
+        "role": "Maker",
+        "name": "or Guintrange",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 50.1651,
+          "Height": 92.7,
+          "Width": 57.150116
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Buildings",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300004789",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q41176"
+      },
+      {
+        "term": "Flowers",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132399",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q506"
+      }
+    ]
+  }
+}

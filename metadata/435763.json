@@ -1,0 +1,107 @@
+{
+  "object_id": 435763,
+  "excel_metadata": {
+    "Object Number": "71.156–57",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 435763,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1871.0,
+    "Object Name": "Painting",
+    "Title": "The Mourning Virgin; Christ Crowned with Thorns",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16171.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": "Posthumous Workshop Copy after",
+    "Artist Display Name": "Dieric Bouts",
+    "Artist Display Bio": "Netherlandish, Leuven, ca. 1525",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Bouts, Dieric",
+    "Artist Nationality": "Netherlandish",
+    "Artist Begin Date": "1457",
+    "Artist End Date": "1475",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500024814",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q313561",
+    "Object Date": NaN,
+    "Object Begin Date": 1520,
+    "Object End Date": 1530,
+    "Medium": "Oil on oak",
+    "Dimensions": "Each 16 x 12 1/2 in. (40.6 x 31.8 cm)",
+    "Credit Line": "Purchase, 1871",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/435763",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19905244",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Sadness|Christ|Virgin Mary",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300055166|http://vocab.getty.edu/page/ia/901000087|http://vocab.getty.edu/page/ia/901000032",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q169251|https://www.wikidata.org/wiki/Q642420|https://www.wikidata.org/wiki/Q345"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT241954.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/Bouts_copy_diptych_Virgin_IRR.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/Bouts_copy_diptych_Virgin_XrayNEW.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/Bouts_copy_diptych_Figure1.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/Bouts_copy_diptych_Christ_IRR.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/Bouts_copy_diptych_Figure2.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/Bouts_copy_diptych_Christ_Xray.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 161710,
+        "role": "Artist",
+        "name": "Posthumous Workshop Copy after Dieric Bouts",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500024814",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q313561",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 40.6,
+          "Width": 31.8
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Sadness",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300055166",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q169251"
+      },
+      {
+        "term": "Christ",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+      },
+      {
+        "term": "Virgin Mary",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000032",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q345"
+      }
+    ]
+  }
+}

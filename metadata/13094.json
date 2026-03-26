@@ -1,0 +1,103 @@
+{
+  "object_id": 13094,
+  "excel_metadata": {
+    "Object Number": "36.114",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 13094,
+    "Gallery Number": 774.0,
+    "Department": "The American Wing",
+    "AccessionYear": 1936.0,
+    "Object Name": "Painting",
+    "Title": "Henry La Tourette de Groot",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 2993299.0,
+    "Artist Role": "Artist|Artist",
+    "Artist Prefix": " | ",
+    "Artist Display Name": "Samuel Lovett Waldo|William Jewett",
+    "Artist Display Bio": "1783–1861|1792–1874",
+    "Artist Suffix": " | ",
+    "Artist Alpha Sort": "Waldo, Samuel Lovett|Jewett, William",
+    "Artist Nationality": "American|American",
+    "Artist Begin Date": "1783      |1792      ",
+    "Artist End Date": "1861      |1874      ",
+    "Artist Gender": "|",
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500026386|http://vocab.getty.edu/page/ulan/500003558",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q390073|https://www.wikidata.org/wiki/Q5837162",
+    "Object Date": "1825–30",
+    "Object Begin Date": 1825,
+    "Object End Date": 1830,
+    "Medium": "Oil on wood",
+    "Dimensions": "33 x 25 5/8 in. (83.8 x 65.1 cm)",
+    "Credit Line": "Bequest of Mrs. Thomas Hastings, 1936",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/13094",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20171823",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/ap36.114.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 2993,
+        "role": "Artist",
+        "name": "Samuel Lovett Waldo",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500026386",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q390073",
+        "gender": ""
+      },
+      {
+        "constituentID": 2994,
+        "role": "Artist",
+        "name": "William Jewett",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500003558",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5837162",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 83.8,
+          "Width": 65.1
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

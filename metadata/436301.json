@@ -1,0 +1,98 @@
+{
+  "object_id": 436301,
+  "excel_metadata": {
+    "Object Number": "1991.153",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436301,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1991.0,
+    "Object Name": "Painting",
+    "Title": "The Parable of the Mote and the Beam",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16187.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Domenico Fetti",
+    "Artist Display Bio": "Italian, Rome (?) 1591/92–1623 Venice",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Fetti, Domenico",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1591",
+    "Artist End Date": "1623",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500115450",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q551695",
+    "Object Date": "ca. 1619",
+    "Object Begin Date": 1614,
+    "Object End Date": 1624,
+    "Medium": "Oil on wood",
+    "Dimensions": "24 1/8 x 17 3/8 in. (61.3 x 44.1 cm)",
+    "Credit Line": "Rogers Fund, 1991",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436301",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19905324",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Parables",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300185342",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q208555"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT6682.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-1991_153-2.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-1991_153-3.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 161876,
+        "role": "Artist",
+        "name": "Domenico Fetti",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115450",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q551695",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 61.3,
+          "Width": 44.1
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Parables",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300185342",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q208555"
+      }
+    ]
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "object_id": 235836,
+  "excel_metadata": {
+    "Object Number": "2007.299.2",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 235836,
+    "Gallery Number": 556,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 2007,
+    "Object Name": "Brooch",
+    "Title": "Brooch",
+    "Culture": "Italian, Rome",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 3308,
+    "Artist Role": "Maker",
+    "Artist Prefix": "Firm of",
+    "Artist Display Name": "Castellani",
+    "Artist Display Bio": " ",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Castellani",
+    "Artist Nationality": " ",
+    "Artist Begin Date": "          ",
+    "Artist End Date": "          ",
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500065470",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q3662238",
+    "Object Date": "ca. 1860",
+    "Object Begin Date": 1855,
+    "Object End Date": 1865,
+    "Medium": "Agate, gold",
+    "Dimensions": "Overall: 1 1/8 x 2 13/16 in. (2.9 x 7.1 cm)",
+    "Credit Line": "Gift of Jacqueline Loewe Fowler, 2007",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Jewelry",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/235836",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q116306671",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": null,
+    "Tags AAT URL": null,
+    "Tags Wikidata URL": null
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP-35192-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 33083,
+        "role": "Maker",
+        "name": "Firm of Castellani",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500065470",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3662238",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 2.8575,
+          "Width": 7.1438
+        }
+      }
+    ],
+    "tags": null
+  }
+}

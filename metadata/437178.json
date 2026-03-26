@@ -1,0 +1,114 @@
+{
+  "object_id": 437178,
+  "excel_metadata": {
+    "Object Number": "71.16",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437178,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1871.0,
+    "Object Name": "Painting",
+    "Title": "The Newborn Baby",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10809.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Matthijs Naiveu",
+    "Artist Display Bio": "Dutch, Leiden 1647–1726 Amsterdam",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Naiveu, Matthijs",
+    "Artist Nationality": "Dutch",
+    "Artist Begin Date": "1647",
+    "Artist End Date": "1726",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500017478",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q708036",
+    "Object Date": "1675",
+    "Object Begin Date": 1675,
+    "Object End Date": 1675,
+    "Medium": "Oil on canvas",
+    "Dimensions": "25 1/4 x 31 1/2 in. (64.1 x 80 cm)",
+    "Credit Line": "Purchase, 1871",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437178",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19913159",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Bedrooms|Children|Infants|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300004364|http://vocab.getty.edu/page/aat/300025945|http://vocab.getty.edu/page/aat/300189561|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q193837|https://www.wikidata.org/wiki/Q7569|https://www.wikidata.org/wiki/Q998|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP146497.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 108096,
+        "role": "Artist",
+        "name": "Matthijs Naiveu",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500017478",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q708036",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 64.1,
+          "Width": 80
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 6.985014,
+          "Height": 95.88519,
+          "Width": 80.01016
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Bedrooms",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300004364",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q193837"
+      },
+      {
+        "term": "Children",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025945",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q7569"
+      },
+      {
+        "term": "Infants",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300189561",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q998"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

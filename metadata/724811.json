@@ -1,0 +1,108 @@
+{
+  "object_id": 724811,
+  "excel_metadata": {
+    "Object Number": "2016.394",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 724811,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 2016.0,
+    "Object Name": "Painting, oil sketch",
+    "Title": "A Miracle of Saint Joseph of Cupertino (1603–1663)",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 7325.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Placido Costanzi",
+    "Artist Display Bio": "Italian, Rome 1702–1759 Rome",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Costanzi, Placido",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1702",
+    "Artist End Date": "1759",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500028648",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q4231486",
+    "Object Date": "1750",
+    "Object Begin Date": 1750,
+    "Object End Date": 1750,
+    "Medium": "Oil on canvas",
+    "Dimensions": "20 7/8 × 14 7/8 in. (53 × 37.8 cm)",
+    "Credit Line": "Gift of Everett Fahy, 2016",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/724811",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q78613331",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Children|Men|Women|Saints",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025945|http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/aat/300150555",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q7569|https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q43115"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-12357-001.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/DP-12357-002.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/2016_394_suppl_001.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 73258,
+        "role": "Artist",
+        "name": "Placido Costanzi",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500028648",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q4231486",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 53.022606,
+          "Width": 37.782574
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Children",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025945",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q7569"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Saints",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300150555",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q43115"
+      }
+    ]
+  }
+}

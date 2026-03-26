@@ -1,0 +1,95 @@
+{
+  "object_id": 436193,
+  "excel_metadata": {
+    "Object Number": "14.40.819",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436193,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1914.0,
+    "Object Name": "Painting",
+    "Title": "The Edge of the Woods",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16183.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Narcisse-Virgile Diaz de la Peña",
+    "Artist Display Bio": "French, Bordeaux 1808–1876 Menton",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Diaz de la Peña, Narcisse-Virgile",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1808",
+    "Artist End Date": "1876",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500008285",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q724140",
+    "Object Date": "1872",
+    "Object Begin Date": 1872,
+    "Object End Date": 1872,
+    "Medium": "Oil on wood",
+    "Dimensions": "14 7/8 x 18 1/2 in. (37.8 x 47 cm)",
+    "Credit Line": "Bequest of Benjamin Altman, 1913",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436193",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19913227",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Forests|Landscapes",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300387598|http://vocab.getty.edu/page/aat/300132294",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q4421|https://www.wikidata.org/wiki/Q191163"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-20595-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 161832,
+        "role": "Artist",
+        "name": "Narcisse-Virgile Diaz de la Peña",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500008285",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q724140",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 37.8,
+          "Width": 47
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Forests",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300387598",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q4421"
+      },
+      {
+        "term": "Landscapes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+      }
+    ]
+  }
+}

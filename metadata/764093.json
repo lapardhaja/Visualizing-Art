@@ -1,0 +1,106 @@
+{
+  "object_id": 764093,
+  "excel_metadata": {
+    "Object Number": "2018.836.2",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 764093,
+    "Gallery Number": 757.0,
+    "Department": "The American Wing",
+    "AccessionYear": 2018.0,
+    "Object Name": "Painting",
+    "Title": "Saint Barbara",
+    "Culture": "Ecuador (Quito)",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16998.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Unknown",
+    "Artist Display Bio": " ",
+    "Artist Suffix": "artist, Ecuador (Quito), 18th century",
+    "Artist Alpha Sort": "Unknown",
+    "Artist Nationality": " ",
+    "Artist Begin Date": "          ",
+    "Artist End Date": "          ",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500125274",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q24238356",
+    "Object Date": "last quarter 18th century",
+    "Object Begin Date": 1775,
+    "Object End Date": 1799,
+    "Medium": "Oil on canvas",
+    "Dimensions": "41 1/4 × 35 in. (104.8 × 88.9 cm)",
+    "Credit Line": "Gift of Warren Ming Tao Li, in honor of James Kung Wei Li and Julie Chu Lu Li, 2018",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/764093",
+    "Object Wikidata URL": NaN,
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Women|Saint Barbara",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/ia/901000589",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q25212897"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DP-18755-011.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ad/original/DP-26765-001.jpg",
+      "https://images.metmuseum.org/CRDImages/ad/original/DP-26765-002.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 169986,
+        "role": "Artist",
+        "name": "Unknown",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500125274",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q24238356",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 106,
+          "Width": 90
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 104.77521,
+          "Width": 88.90018
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Saint Barbara",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000589",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q25212897"
+      }
+    ]
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "object_id": 19014,
+  "excel_metadata": {
+    "Object Number": "2006.1",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 19014,
+    "Gallery Number": NaN,
+    "Department": "The American Wing",
+    "AccessionYear": 2006.0,
+    "Object Name": "Painting, miniature",
+    "Title": "Moses Gill",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16178.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "John Singleton Copley",
+    "Artist Display Bio": "American, Boston, Massachusetts 1738–1815 London",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Copley, John Singleton",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1738",
+    "Artist End Date": "1815",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500009177",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q316016",
+    "Object Date": "ca. 1759",
+    "Object Begin Date": 1756,
+    "Object End Date": 1762,
+    "Medium": "Oil and gold leaf on copper",
+    "Dimensions": "1 5/8 × 1 1/8 in. (4.1 × 2.9 cm)",
+    "Credit Line": "Purchase, Martha J. Fleischman Gift, in memory of her father, Lawrence A. Fleischman, 2006\r\n",
+    "Geography Type": "Made in",
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": "United States",
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/19014",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20172871",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DP132145.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ad/original/DP161506.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 161784,
+        "role": "Artist",
+        "name": "John Singleton Copley",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500009177",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q316016",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 4.127508,
+          "Width": 2.8575058
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

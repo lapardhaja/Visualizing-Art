@@ -1,0 +1,105 @@
+{
+  "object_id": 459063,
+  "excel_metadata": {
+    "Object Number": "1975.1.121",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 459063,
+    "Gallery Number": NaN,
+    "Department": "Robert Lehman Collection",
+    "AccessionYear": 1975.0,
+    "Object Name": "Painting",
+    "Title": "Virgin and Child with Saint Joseph",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 13541.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Netherlandish Painter, second half of 16th century",
+    "Artist Display Bio": " ",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Netherlandish Painter, second half of 16th century",
+    "Artist Nationality": "Netherlandish",
+    "Artist Begin Date": "1550",
+    "Artist End Date": "1599",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": NaN,
+    "Artist Wikidata URL": NaN,
+    "Object Date": "second half 16th century",
+    "Object Begin Date": 1550,
+    "Object End Date": 1599,
+    "Medium": "Oil on oak panel",
+    "Dimensions": "8 3/4 x 8 11/16 in.  (22.3 x 22 cm)",
+    "Credit Line": "Robert Lehman Collection, 1975",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/459063",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20187062",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Bread|Madonna and Child|Saint Joseph|Dining",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300262820|http://vocab.getty.edu/page/ia/901000052|http://vocab.getty.edu/page/ia/901000953|http://vocab.getty.edu/page/aat/300379052",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q7802|https://www.wikidata.org/wiki/Q9309699|https://www.wikidata.org/wiki/Q128267|https://www.wikidata.org/wiki/Q661199"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/rl/original/DT3084.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 135418,
+        "role": "Artist",
+        "name": "Netherlandish Painter, second half of 16th century",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 22.3,
+          "Width": 22
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Bread",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300262820",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q7802"
+      },
+      {
+        "term": "Madonna and Child",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000052",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q9309699"
+      },
+      {
+        "term": "Saint Joseph",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000953",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q128267"
+      },
+      {
+        "term": "Dining",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379052",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q661199"
+      }
+    ]
+  }
+}

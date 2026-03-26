@@ -1,0 +1,119 @@
+{
+  "object_id": 436791,
+  "excel_metadata": {
+    "Object Number": "32.100.60",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436791,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1932.0,
+    "Object Name": "Painting",
+    "Title": "The Annunciation",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16201.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Joos van Cleve",
+    "Artist Display Bio": "Netherlandish, Cleve ca. 1485–1540/41 Antwerp",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Joos van Cleve",
+    "Artist Nationality": "Netherlandish",
+    "Artist Begin Date": "1485",
+    "Artist End Date": "1541",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500007799",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q153472",
+    "Object Date": "ca. 1525",
+    "Object Begin Date": 1520,
+    "Object End Date": 1530,
+    "Medium": "Oil on wood",
+    "Dimensions": "34 x 31 1/2 in. (86.4 x 80 cm)",
+    "Credit Line": "The Friedsam Collection, Bequest of Michael Friedsam, 1931",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436791",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19905169",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Archangel Gabriel|Annunciation|Doves|Bedrooms|Beds|Virgin Mary",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901000493|http://vocab.getty.edu/page/aat/300412102|http://vocab.getty.edu/page/aat/300250045|http://vocab.getty.edu/page/aat/300004364|http://vocab.getty.edu/page/aat/300038697|http://vocab.getty.edu/page/ia/901000032",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q81989|https://www.wikidata.org/wiki/Q154326|https://www.wikidata.org/wiki/Q2984138|https://www.wikidata.org/wiki/Q193837|https://www.wikidata.org/wiki/Q42177|https://www.wikidata.org/wiki/Q345"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-19433-001.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-32_100_60_IRR.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-32_100_60_XRAY.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-32_100_60-1.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 162015,
+        "role": "Artist",
+        "name": "Joos van Cleve",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500007799",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q153472",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 86.4,
+          "Width": 80
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Doves",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250045",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q2984138"
+      },
+      {
+        "term": "Bedrooms",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300004364",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q193837"
+      },
+      {
+        "term": "Virgin Mary",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000032",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q345"
+      },
+      {
+        "term": "Archangel Gabriel",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000493",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q81989"
+      },
+      {
+        "term": "Annunciation",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300412102",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q154326"
+      },
+      {
+        "term": "Beds",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300038697",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q42177"
+      }
+    ]
+  }
+}

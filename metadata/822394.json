@@ -1,0 +1,103 @@
+{
+  "object_id": 822394,
+  "excel_metadata": {
+    "Object Number": "2019.283.19",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 822394,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 2019,
+    "Object Name": "Chair",
+    "Title": "Chair (chaise à la Reine) (one of a set of four)",
+    "Culture": "French, Paris",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 3410,
+    "Artist Role": "Maker",
+    "Artist Prefix": "Probably by",
+    "Artist Display Name": "Jean-Baptiste I Tilliard",
+    "Artist Display Bio": "French, 1686–1766",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Tilliard Jean-Baptiste I",
+    "Artist Nationality": "French",
+    "Artist Begin Date": 1686,
+    "Artist End Date": 1766,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500010817",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q3164166",
+    "Object Date": "ca. 1745–1750",
+    "Object Begin Date": 1740,
+    "Object End Date": 1750,
+    "Medium": "Beechwood unusually richly carved and gilded; previously upholstered with coral colored velvet attached with brass-headed nails, now upholstered in yellow petit point",
+    "Dimensions": "confirmed: 38 1/4 × 23 7/8 × 23 7/8 in. (97.2 × 60.6 × 60.6 cm)_x000D_\nHeight of upholstered seat: 18 1/2 in. (47 cm)",
+    "Credit Line": "Bequest of Mrs. Charles Wrightsman, 2019",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Woodwork-Furniture",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/822394",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": null,
+    "Tags AAT URL": null,
+    "Tags Wikidata URL": null
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP-20703-033.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/DP-20703-034.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 34106,
+        "role": "Maker",
+        "name": "Probably by Jean-Baptiste I Tilliard",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500010817",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3164166",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": "Height of upholstered seat",
+        "elementMeasurements": {
+          "Height": 46.990093
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 52.705105,
+          "Height": 96.520195,
+          "Width": 58.420116
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": "confirmed",
+        "elementMeasurements": {
+          "Depth": 60.64262,
+          "Height": 97.1552,
+          "Width": 60.64262
+        }
+      }
+    ],
+    "tags": null
+  }
+}

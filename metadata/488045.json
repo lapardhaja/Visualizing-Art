@@ -1,0 +1,99 @@
+{
+  "object_id": 488045,
+  "excel_metadata": {
+    "Object Number": "42.169",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 488045,
+    "Gallery Number": NaN,
+    "Department": "Modern and Contemporary Art",
+    "AccessionYear": 1942.0,
+    "Object Name": "Painting",
+    "Title": "Waterfront Mill",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 14705.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Niles Spencer",
+    "Artist Display Bio": "American, Pawtucket, Rhode Island 1893–1952 Dingman's Ferry, Pennsylvania",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Spencer, Niles",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1893",
+    "Artist End Date": "1952",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500030928",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q20825697",
+    "Object Date": "1940",
+    "Object Begin Date": 1940,
+    "Object End Date": 1940,
+    "Medium": "Oil on canvas",
+    "Dimensions": "30 × 36 in. (76.2 × 91.4 cm)",
+    "Credit Line": "Arthur Hoppock Hearn Fund, 1942",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/488045",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20190792",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Factories",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300006232",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q83405"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ma/original/DP-13011-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 147051,
+        "role": "Artist",
+        "name": "Niles Spencer",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500030928",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q20825697",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 76.2,
+          "Width": 91.4
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": "F.42.169 Black wood frame w/ AR plexi",
+        "elementMeasurements": {
+          "Depth": 5.08001,
+          "Height": 87.94768,
+          "Width": 103.187706
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Factories",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300006232",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q83405"
+      }
+    ]
+  }
+}

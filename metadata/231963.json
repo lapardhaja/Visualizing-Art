@@ -1,0 +1,88 @@
+{
+  "object_id": 231963,
+  "excel_metadata": {
+    "Object Number": "53.2.9",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 231963,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1953,
+    "Object Name": "Frame and headboard",
+    "Title": "Frame and headboard for a bed",
+    "Culture": "French",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": null,
+    "Artist Role": null,
+    "Artist Prefix": null,
+    "Artist Display Name": null,
+    "Artist Display Bio": null,
+    "Artist Suffix": null,
+    "Artist Alpha Sort": null,
+    "Artist Nationality": null,
+    "Artist Begin Date": null,
+    "Artist End Date": null,
+    "Artist Gender": null,
+    "Artist ULAN URL": null,
+    "Artist Wikidata URL": null,
+    "Object Date": "early 18th century",
+    "Object Begin Date": 1700,
+    "Object End Date": 1715,
+    "Medium": "Plain wood, silk damask; silk",
+    "Dimensions": "Headboard: 69 1/2 × 65 in. (176.5 × 165.1 cm);_x000D_\nFrame: 18 1/4 × 65 × 31 3/4 in. (46.4 × 165.1 × 80.6 cm)",
+    "Credit Line": "Gift of Irwin Untermyer, 1953",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Woodwork-Furniture",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/231963",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": null,
+    "Tags AAT URL": null,
+    "Tags Wikidata URL": null
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP154559.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/LC-53_2_9.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP155164.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP155163.jpg"
+    ],
+    "constituents": null,
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": "Frame",
+        "elementMeasurements": {
+          "Depth": 80.645164,
+          "Height": 46.35509,
+          "Width": 165.10033
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": "Headboard",
+        "elementMeasurements": {
+          "Height": 176.53035,
+          "Width": 165.10033
+        }
+      }
+    ],
+    "tags": null
+  }
+}

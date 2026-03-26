@@ -1,0 +1,114 @@
+{
+  "object_id": 436833,
+  "excel_metadata": {
+    "Object Number": "1974.1",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436833,
+    "Gallery Number": 800.0,
+    "Department": "European Paintings",
+    "AccessionYear": 1974.0,
+    "Object Name": "Painting",
+    "Title": "Red Sunset",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10787.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Arkhyp Kuindzhi (Arkhip Ivanovich Kuindzhi)",
+    "Artist Display Bio": "Ukrainian, born Russian Empire, Mariupol 1841–1910 St. Petersburg",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Kuindzhi, Arkhyp",
+    "Artist Nationality": "Ukrainian, born Russian Empire",
+    "Artist Begin Date": "1841",
+    "Artist End Date": "1910",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500003860",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q353628",
+    "Object Date": "1905–8",
+    "Object Begin Date": 1905,
+    "Object End Date": 1908,
+    "Medium": "Oil on canvas",
+    "Dimensions": "53 x 74 in. (134.6 x 188 cm)",
+    "Credit Line": "Rogers Fund, 1974",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436833",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q16667013",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Rivers|Sun|Landscapes|Evening",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300008707|http://vocab.getty.edu/page/aat/300379806|http://vocab.getty.edu/page/aat/300132294|http://vocab.getty.edu/page/aat/300343633",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q4022|https://www.wikidata.org/wiki/Q525|https://www.wikidata.org/wiki/Q191163|https://www.wikidata.org/wiki/Q7725"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT2557.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 107877,
+        "role": "Artist",
+        "name": "Arkhyp Kuindzhi (Arkhip Ivanovich Kuindzhi)",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500003860",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q353628",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 134.6,
+          "Width": 188
+        }
+      },
+      {
+        "elementName": "Glazing",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 136.52527,
+          "Thickness": 0.6,
+          "Width": 190.50038
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Rivers",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300008707",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q4022"
+      },
+      {
+        "term": "Sun",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379806",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q525"
+      },
+      {
+        "term": "Landscapes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+      },
+      {
+        "term": "Evening",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300343633",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q7725"
+      }
+    ]
+  }
+}

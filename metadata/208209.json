@@ -1,0 +1,93 @@
+{
+  "object_id": 208209,
+  "excel_metadata": {
+    "Object Number": 1995.164,
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 208209,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1995,
+    "Object Name": "Armchair",
+    "Title": "Armchair",
+    "Culture": "French, Paris",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 342473651,
+    "Artist Role": "Maker|Maker",
+    "Artist Prefix": "Chair frame by the firm of|Upholstery by the firm of",
+    "Artist Display Name": "Joseph-Pierre- François Jeanselme|Jacques-Michel Dulud",
+    "Artist Display Bio": "1824–1860| ",
+    "Artist Suffix": " | ",
+    "Artist Alpha Sort": "JEANSELME JOSEPH-PIERRE- FRANÇOIS|DULUD JACQUES-MICHEL",
+    "Artist Nationality": " | ",
+    "Artist Begin Date": "1824      |1800      ",
+    "Artist End Date": "1860      |1900      ",
+    "Artist Gender": "|",
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500080057|",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q54086735|",
+    "Object Date": "ca. 1850",
+    "Object Begin Date": 1845,
+    "Object End Date": 1855,
+    "Medium": "Carved rosewood, leather, silk, serge",
+    "Dimensions": "Overall: 51 1/2 × 25 5/8 × 24 1/2 in. (130.8 × 65.1 × 62.2 cm)",
+    "Credit Line": "Purchase, Friends of European Sculpture and Decorative Arts Gifts and Director's Discretionary Fund, 1995",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Woodwork-Furniture",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/208209",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": null,
+    "Tags AAT URL": null,
+    "Tags Wikidata URL": null
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DT3866.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 34247,
+        "role": "Maker",
+        "name": "Chair frame by the firm of Joseph-Pierre- François Jeanselme",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500080057",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q54086735",
+        "gender": ""
+      },
+      {
+        "constituentID": 36517,
+        "role": "Maker",
+        "name": "Upholstery by the firm of Jacques-Michel Dulud",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 62.230125,
+          "Height": 130.81026,
+          "Width": 65.08763
+        }
+      }
+    ],
+    "tags": null
+  }
+}

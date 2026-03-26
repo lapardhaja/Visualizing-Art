@@ -1,0 +1,112 @@
+{
+  "object_id": 437046,
+  "excel_metadata": {
+    "Object Number": "43.101",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437046,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1943.0,
+    "Object Name": "Painting",
+    "Title": "María Teresa (1638–1683), Infanta of Spain",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10802.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Juan Bautista Martínez del Mazo",
+    "Artist Display Bio": "Spanish, Cuenca ca. 1612–1667 Madrid",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Mazo, Juan Bautista Martínez del",
+    "Artist Nationality": "Spanish",
+    "Artist Begin Date": "1612",
+    "Artist End Date": "1667",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500031769",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q771658",
+    "Object Date": "ca. 1645",
+    "Object Begin Date": 1640,
+    "Object End Date": 1650,
+    "Medium": "Oil on canvas",
+    "Dimensions": "58 1/4 x 40 1/2 in. (148 x 102.9 cm)",
+    "Credit Line": "Rogers Fund, 1943",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437046",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19905348",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Girls|Portraits|Dogs",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300247581|http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300265714",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q3031|https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q144"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP340924.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-43_101-2.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-43_101-3.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 108021,
+        "role": "Artist",
+        "name": "Juan Bautista Martínez del Mazo",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500031769",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q771658",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 148,
+          "Width": 102.9
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 8.255016,
+          "Height": 177.80035,
+          "Width": 134.62027
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Girls",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300247581",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3031"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Dogs",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300265714",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q144"
+      }
+    ]
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "object_id": 459037,
+  "excel_metadata": {
+    "Object Number": "1975.1.95",
+    "Is Highlight": true,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 459037,
+    "Gallery Number": NaN,
+    "Department": "Robert Lehman Collection",
+    "AccessionYear": 1975.0,
+    "Object Name": "Painting",
+    "Title": "Portrait of a Man, possibly Matteo di Sebastiano di Bernardino Gozzadini",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 13690.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": "Attributed to the",
+    "Artist Display Name": "Maestro delle Storie del Pane",
+    "Artist Display Bio": "Italian (Emilian), active late 15th century",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Maestro delle Storie del Pane",
+    "Artist Nationality": " ",
+    "Artist Begin Date": "1470",
+    "Artist End Date": "1500",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500371698",
+    "Artist Wikidata URL": NaN,
+    "Object Date": "1494(?)",
+    "Object Begin Date": 1494,
+    "Object End Date": 1494,
+    "Medium": "Tempera on wood",
+    "Dimensions": "Overall 20 3/4 x 14 5/8 in. (52.7 x 37.1 cm); painted surface 19 3/8 x 14 in. (49.2 x 35.6 cm)",
+    "Credit Line": "Robert Lehman Collection, 1975",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/459037",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20185431",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits|Profiles",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300123319",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q4382010"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/rl/original/DT3065.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/rl/original/DP158338.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/209_50N.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/22R4M_50B.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/ep1975.1.95.bw.R.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/124a.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/0557.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 136907,
+        "role": "Artist",
+        "name": "Attributed to the Maestro delle Storie del Pane",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500371698",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q21285511",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 52.7,
+          "Width": 37.1
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Profiles",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300123319",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q4382010"
+      }
+    ]
+  }
+}

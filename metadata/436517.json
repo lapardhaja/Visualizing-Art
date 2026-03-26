@@ -1,0 +1,105 @@
+{
+  "object_id": 436517,
+  "excel_metadata": {
+    "Object Number": "49.7.8",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 436517,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1949.0,
+    "Object Name": "Painting, drawing",
+    "Title": "Descent from the Cross",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16194.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Girolamo da Cremona",
+    "Artist Display Bio": "Italian, active 1451–83",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Girolamo da Cremona",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1451",
+    "Artist End Date": "1481",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500017653",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q2485838",
+    "Object Date": NaN,
+    "Object Begin Date": 1451,
+    "Object End Date": 1483,
+    "Medium": "Tempera on parchment, laid down on wood",
+    "Dimensions": "6 1/4 x 4 1/2 in. (15.9 x 11.4 cm)",
+    "Credit Line": "The Jules Bache Collection, 1949",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Manuscripts and Illuminations",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436517",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19913069",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Descent from the Cross|Mary Magdalene|Saint John the Evangelist|Christ",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901000462|http://vocab.getty.edu/page/ia/901000161|http://vocab.getty.edu/page/ia/901001171|http://vocab.getty.edu/page/ia/901000087",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q13365963|https://www.wikidata.org/wiki/Q63070|https://www.wikidata.org/wiki/Q328804|https://www.wikidata.org/wiki/Q642420"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT200204.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 161940,
+        "role": "Artist",
+        "name": "Girolamo da Cremona",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500017653",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q2485838",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 15.9,
+          "Width": 11.4
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Christ",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+      },
+      {
+        "term": "Mary Magdalene",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000161",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q63070"
+      },
+      {
+        "term": "Saint John the Evangelist",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901001171",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q328804"
+      },
+      {
+        "term": "Descent from the Cross",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000462",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q13365963"
+      }
+    ]
+  }
+}

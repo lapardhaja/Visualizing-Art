@@ -1,0 +1,100 @@
+{
+  "object_id": 436514,
+  "excel_metadata": {
+    "Object Number": "32.100.83a–d",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436514,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1932.0,
+    "Object Name": "Painting, pilasters of an altarpiece",
+    "Title": "Saints Catherine of Alexandria, Barbara, Agatha, and Margaret",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16193.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Giovanni di Paolo (Giovanni di Paolo di Grazia)",
+    "Artist Display Bio": "Italian, Siena 1398–1482 Siena",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Giovanni di Paolo (Giovanni di Paolo di Grazia)",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1398",
+    "Artist End Date": "1482",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500116438",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q946420",
+    "Object Date": "ca. 1470",
+    "Object Begin Date": 1465,
+    "Object End Date": 1475,
+    "Medium": "Tempera on wood, gold ground",
+    "Dimensions": "(a) overall 18 3/4 x 6 in. (47.6 x 15.2 cm), painted surface 18 1/4 x 5 1/2 in. (46.4 x 14 cm); (b) overall 18 3/4 x 6 in. (47.6 x 15.2 cm), painted surface 18 3/8 x 5 5/8 in. (46.7 x 14.3 cm); (c) overall 18 3/4 x 6 in. (47.6 x 15.2 cm), painted surface 18 3/8 x 5 3/8 in. (46.7 x 13.7 cm); (d) overall 18 3/4 x 6 in. (47.6 x 15.2 cm), painted surface 18 1/4 x 5 5/8 in. (46.4 x 14.3 cm)",
+    "Credit Line": "The Friedsam Collection, Bequest of Michael Friedsam, 1931",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436514",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19911997",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Saint Catherine|Saints|Saint Barbara",
+    "Tags AAT URL": " |http://vocab.getty.edu/page/aat/300150555|http://vocab.getty.edu/page/ia/901000589",
+    "Tags Wikidata URL": " |https://www.wikidata.org/wiki/Q43115|https://www.wikidata.org/wiki/Q25212897"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT2830.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 161939,
+        "role": "Artist",
+        "name": "Giovanni di Paolo (Giovanni di Paolo di Grazia)",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500116438",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q946420",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 47.6,
+          "Width": 15.2
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Saint Catherine",
+        "AAT_URL": null,
+        "Wikidata_URL": null
+      },
+      {
+        "term": "Saints",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300150555",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q43115"
+      },
+      {
+        "term": "Saint Barbara",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000589",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q25212897"
+      }
+    ]
+  }
+}

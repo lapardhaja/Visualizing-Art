@@ -1,0 +1,113 @@
+{
+  "object_id": 10186,
+  "excel_metadata": {
+    "Object Number": "04.31",
+    "Is Highlight": true,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 10186,
+    "Gallery Number": 766.0,
+    "Department": "The American Wing",
+    "AccessionYear": 1904.0,
+    "Object Name": "Painting",
+    "Title": "The Ameya",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16317.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Robert Frederick Blum",
+    "Artist Display Bio": "American, Cincinnati, Ohio 1857–1903 New York",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Blum, Robert Frederick",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1857",
+    "Artist End Date": "1903",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500003750",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q3592147",
+    "Object Date": "by 1893",
+    "Object Begin Date": 1892,
+    "Object End Date": 1893,
+    "Medium": "Oil on canvas",
+    "Dimensions": "25 1/16 x 31 1/16 in. (63.7 x 78.9 cm)",
+    "Credit Line": "Gift of Estate of Alfred Corning Clark, 1904",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/10186",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20170852",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Infants|Women|Street Scene|Working",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300189561|http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/aat/300386103|http://vocab.getty.edu/page/aat/300412186",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q998|https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q7766995|https://www.wikidata.org/wiki/Q6958747"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DT222052.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 163173,
+        "role": "Artist",
+        "name": "Robert Frederick Blum",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500003750",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3592147",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 117.5,
+          "Width": 130.1753
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 63.7,
+          "Width": 78.9
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Infants",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300189561",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q998"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Street Scene",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300386103",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q7766995"
+      },
+      {
+        "term": "Working",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300412186",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q6958747"
+      }
+    ]
+  }
+}

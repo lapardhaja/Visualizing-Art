@@ -1,0 +1,119 @@
+{
+  "object_id": 436107,
+  "excel_metadata": {
+    "Object Number": "65.14.5",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436107,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1965.0,
+    "Object Name": "Painting",
+    "Title": "General Étienne-Maurice Gérard (1773–1852)",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16181.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Jacques Louis David",
+    "Artist Display Bio": "French, Paris 1748–1825 Brussels",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "David, Jacques Louis",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1748",
+    "Artist End Date": "1825",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500115221",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q83155",
+    "Object Date": "1816",
+    "Object Begin Date": 1816,
+    "Object End Date": 1816,
+    "Medium": "Oil on canvas",
+    "Dimensions": "77 5/8 x 53 5/8 in. (197.2 x 136.2 cm)",
+    "Credit Line": "Purchase, Rogers and Fletcher Funds, and Mary Wetmore Shively Bequest, in memory of her husband, Henry L. Shively, M.D., 1965",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436107",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19911964",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits|Generals",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300236762",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q83460"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-13141-001.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-65_14_5-2.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-65_14_5-3.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 161811,
+        "role": "Artist",
+        "name": "Jacques Louis David",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115221",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q83155",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 197.2,
+          "Width": 136.2
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 17.145,
+          "Height": 238.7605,
+          "Width": 172.0853
+        }
+      },
+      {
+        "elementName": "Other",
+        "elementDescription": "Picture + Frame (F.65.14.5)",
+        "elementMeasurements": {
+          "Weight": 73.48272
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Generals",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300236762",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q83460"
+      }
+    ]
+  }
+}

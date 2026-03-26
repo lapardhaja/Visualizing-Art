@@ -1,0 +1,114 @@
+{
+  "object_id": 436293,
+  "excel_metadata": {
+    "Object Number": "1980.3",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436293,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1980.0,
+    "Object Name": "Painting",
+    "Title": "Still Life with Flowers and Fruit",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16558.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Henri Fantin-Latour",
+    "Artist Display Bio": "French, Grenoble 1836–1904 Buré",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Fantin-Latour, Henri",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1836",
+    "Artist End Date": "1904",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500025754",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q310715",
+    "Object Date": "1866",
+    "Object Begin Date": 1866,
+    "Object End Date": 1866,
+    "Medium": "Oil on canvas",
+    "Dimensions": "28 3/4 x 23 5/8 in. (73 x 60 cm)",
+    "Credit Line": "Purchase, Mr. and Mrs. Richard J. Bernhard Gift, by exchange, 1980",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436293",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912712",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Fruit|Flowers|Still Life|Vases",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300011868|http://vocab.getty.edu/page/aat/300132399|http://vocab.getty.edu/page/aat/300015638|http://vocab.getty.edu/page/aat/300132254",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q1364|https://www.wikidata.org/wiki/Q506|https://www.wikidata.org/wiki/Q170571|https://www.wikidata.org/wiki/Q191851"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT1980.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 165587,
+        "role": "Artist",
+        "name": "Henri Fantin-Latour",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500025754",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q310715",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 73,
+          "Width": 60
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 10.16,
+          "Height": 96.5202,
+          "Width": 82.5502
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Fruit",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300011868",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q1364"
+      },
+      {
+        "term": "Flowers",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132399",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q506"
+      },
+      {
+        "term": "Still Life",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015638",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q170571"
+      },
+      {
+        "term": "Vases",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132254",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q191851"
+      }
+    ]
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "object_id": 471910,
+  "excel_metadata": {
+    "Object Number": 62.169,
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 471910,
+    "Gallery Number": null,
+    "Department": "The Cloisters",
+    "AccessionYear": 1962,
+    "Object Name": "Statue",
+    "Title": "Standing Virgin and Child",
+    "Culture": "Austrian",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 14104,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Circle of Jakob Kaschauer",
+    "Artist Display Bio": " ",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Kaschauer Jakob Circle of",
+    "Artist Nationality": "Austrian",
+    "Artist Begin Date": "          ",
+    "Artist End Date": "          ",
+    "Artist Gender": null,
+    "Artist ULAN URL": null,
+    "Artist Wikidata URL": null,
+    "Object Date": "ca. 1440",
+    "Object Begin Date": 1437,
+    "Object End Date": 1443,
+    "Medium": "Limewood with paint",
+    "Dimensions": "Overall: 66 in. (167.6 cm)---without modern crown",
+    "Credit Line": "The Cloisters Collection, 1962",
+    "Geography Type": "Made in",
+    "City": null,
+    "State": null,
+    "County": "Tyrol",
+    "Country": "Austria",
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Sculpture-Wood",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/471910",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20201751",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Madonna and Child",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901000052",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q9309699"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/cl/original/cdi62-169.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/cl/original/cds180267.jpg",
+      "https://images.metmuseum.org/CRDImages/cl/original/cds180266.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 141044,
+        "role": "Artist",
+        "name": "Circle of Jakob Kaschauer",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 167.6403
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Madonna and Child",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000052",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q9309699"
+      }
+    ]
+  }
+}

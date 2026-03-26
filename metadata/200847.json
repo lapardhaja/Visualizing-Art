@@ -1,0 +1,110 @@
+{
+  "object_id": 200847,
+  "excel_metadata": {
+    "Object Number": "50.211.147a, b, .148",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 200847,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1950,
+    "Object Name": "Bowl with cover and tray",
+    "Title": "Bowl with cover (écuelle) and tray",
+    "Culture": "French, Sèvres",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 1648563548,
+    "Artist Role": "Manufactory|Decorator",
+    "Artist Prefix": " | ",
+    "Artist Display Name": "Sèvres Manufactory|Etienne Evans",
+    "Artist Display Bio": "French, 1740–present|active 1752–1807",
+    "Artist Suffix": " | ",
+    "Artist Alpha Sort": "Sèvres Manufactory|EVANS ETIENNE",
+    "Artist Nationality": "French| ",
+    "Artist Begin Date": "1740      |1752      ",
+    "Artist End Date": "9999      |1807      ",
+    "Artist Gender": "|",
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500054661|http://vocab.getty.edu/page/ulan/500093537",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q653307|https://www.wikidata.org/wiki/Q58071458",
+    "Object Date": 1760,
+    "Object Begin Date": 1760,
+    "Object End Date": 1760,
+    "Medium": "Soft-paste porcelain",
+    "Dimensions": "Overall (écuelle [a, b]): 4 × 5 7/8 in. (10.2 × 14.9 cm); Diameter (tray [c]): 6 1/4 in. (15.9 cm)",
+    "Credit Line": "Gift of R. Thornton Wilson, in memory of Florence Ellsworth Wilson, 1950",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Ceramics-Porcelain",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/200847",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Birds|Flowers",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300266506|http://vocab.getty.edu/page/aat/300132399",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q5113|https://www.wikidata.org/wiki/Q506"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/149477.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 164856,
+        "role": "Manufactory",
+        "name": "Sèvres Manufactory",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500054661",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q653307",
+        "gender": ""
+      },
+      {
+        "constituentID": 35486,
+        "role": "Decorator",
+        "name": "Etienne Evans",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500093537",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q58071458",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Diameter",
+        "elementDescription": "tray [c]",
+        "elementMeasurements": {
+          "Diameter": 15.875031
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": "écuelle [a, b]",
+        "elementMeasurements": {
+          "Height": 10.16002,
+          "Width": 14.92253
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Birds",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300266506",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q5113"
+      },
+      {
+        "term": "Flowers",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132399",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q506"
+      }
+    ]
+  }
+}

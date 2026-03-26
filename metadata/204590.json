@@ -1,0 +1,110 @@
+{
+  "object_id": 204590,
+  "excel_metadata": {
+    "Object Number": "65.221.1",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 204590,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1965,
+    "Object Name": "Bed",
+    "Title": "Bed from the Davanzati Palace",
+    "Culture": "Italian, Florence",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": null,
+    "Artist Role": null,
+    "Artist Prefix": null,
+    "Artist Display Name": null,
+    "Artist Display Bio": null,
+    "Artist Suffix": null,
+    "Artist Alpha Sort": null,
+    "Artist Nationality": null,
+    "Artist Begin Date": null,
+    "Artist End Date": null,
+    "Artist Gender": null,
+    "Artist ULAN URL": null,
+    "Artist Wikidata URL": null,
+    "Object Date": "second half 15th century",
+    "Object Begin Date": 1450,
+    "Object End Date": 1499,
+    "Medium": "Walnut",
+    "Dimensions": "H. (bed and dais):  56-3/4 in. (144.1 cm);_x000D_\nW. (dais) 85-1/2 in. (217.2 cm);_x000D_\nL. (dais) 102-7/8 in. (261.3 cm);_x000D_\nH. (dais) 15-7/8 in. (40.3 cm);_x000D_\nGr. H. (bed at headboard) 40-7/8 in.  (103.8 cm);_x000D_\nGr. W. (bed at headboard) 58-1/2 in. (148.6 cm);_x000D_\nL. (bed) 88-1/2 in. (224.8 cm)",
+    "Credit Line": "Gift of George R. Hann, 1965",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Woodwork-Furniture",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/204590",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Beds",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300038697",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q42177"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/184024.jpg",
+    "additionalImages": [],
+    "constituents": null,
+    "measurements": [
+      {
+        "elementName": "Other",
+        "elementDescription": "bed",
+        "elementMeasurements": {
+          "Length": 224.8
+        }
+      },
+      {
+        "elementName": "Other",
+        "elementDescription": "Gr. W. (bed at headboard)",
+        "elementMeasurements": {
+          "Width": 148.6
+        }
+      },
+      {
+        "elementName": "Other",
+        "elementDescription": "Gr. H. (bed at headboard)",
+        "elementMeasurements": {
+          "Height": 103.8
+        }
+      },
+      {
+        "elementName": "Other",
+        "elementDescription": "dais",
+        "elementMeasurements": {
+          "Height": 40.3,
+          "Length": 261.3,
+          "Width": 217.2
+        }
+      },
+      {
+        "elementName": "Other",
+        "elementDescription": "bed and dais",
+        "elementMeasurements": {
+          "Height": 144.1
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Beds",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300038697",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q42177"
+      }
+    ]
+  }
+}

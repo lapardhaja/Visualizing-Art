@@ -1,0 +1,127 @@
+{
+  "object_id": 436209,
+  "excel_metadata": {
+    "Object Number": "40.64",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 436209,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1940.0,
+    "Object Name": "Painting",
+    "Title": "An Evening School",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16386.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Gerrit Dou",
+    "Artist Display Bio": "Dutch, Leiden 1613–1675 Leiden",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Dou, Gerrit",
+    "Artist Nationality": "Dutch",
+    "Artist Begin Date": "1613",
+    "Artist End Date": "1675",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500115513",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q335927",
+    "Object Date": "ca. 1655–57",
+    "Object Begin Date": 1655,
+    "Object End Date": 1657,
+    "Medium": "Oil on wood",
+    "Dimensions": "Arched top, 10 x 9 in. (25.4 x 22.9 cm)",
+    "Credit Line": "Bequest of Lillian M. Ellis, 1940",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436209",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19911973",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Girls|Men|Reading|Students|Teachers|Boys",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300247581|http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300248178|http://vocab.getty.edu/page/aat/300025909|http://vocab.getty.edu/page/aat/300025529|http://vocab.getty.edu/page/aat/300247598",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q3031|https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q199657|https://www.wikidata.org/wiki/Q48282|https://www.wikidata.org/wiki/Q37226|https://www.wikidata.org/wiki/Q3010"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP101529.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-40_64-2.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-40_64-3.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 163860,
+        "role": "Artist",
+        "name": "Gerrit Dou",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115513",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q335927",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 25.4,
+          "Width": 22.9
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 7.62,
+          "Height": 40.6401,
+          "Width": 38.1001
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Boys",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300247598",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3010"
+      },
+      {
+        "term": "Girls",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300247581",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3031"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Reading",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300248178",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q199657"
+      },
+      {
+        "term": "Students",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025909",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q48282"
+      },
+      {
+        "term": "Teachers",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025529",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q37226"
+      }
+    ]
+  }
+}

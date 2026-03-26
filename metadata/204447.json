@@ -1,0 +1,99 @@
+{
+  "object_id": 204447,
+  "excel_metadata": {
+    "Object Number": "64.174.48",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 204447,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1964,
+    "Object Name": "Platter",
+    "Title": "Oval platter",
+    "Culture": "French, Sèvres",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 1648563546,
+    "Artist Role": "Manufactory|Decorator",
+    "Artist Prefix": " | ",
+    "Artist Display Name": "Sèvres Manufactory|Edme François Bouillat père",
+    "Artist Display Bio": "French, 1740–present|French,1739/40–1810, active 1758–1800",
+    "Artist Suffix": " | ",
+    "Artist Alpha Sort": "Sèvres Manufactory|Bouillat père, Edme François",
+    "Artist Nationality": "French|French",
+    "Artist Begin Date": "1740      |1739      ",
+    "Artist End Date": "9999      |1810      ",
+    "Artist Gender": "|",
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500054661|http://vocab.getty.edu/page/ulan/500077186",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q653307|https://www.wikidata.org/wiki/Q97340245",
+    "Object Date": 1771,
+    "Object Begin Date": 1771,
+    "Object End Date": 1771,
+    "Medium": "Soft-paste porcelain",
+    "Dimensions": "Overall: 2 × 12 1/4 × 9 1/8 in. (5.1 × 31.1 × 23.2 cm)",
+    "Credit Line": "Gift of Mrs. William C. Breed, 1964",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Ceramics-Porcelain",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/204447",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Flowers",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300132399",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q506"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP-17143-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 164856,
+        "role": "Manufactory",
+        "name": "Sèvres Manufactory",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500054661",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q653307",
+        "gender": ""
+      },
+      {
+        "constituentID": 35463,
+        "role": "Decorator",
+        "name": "Edme François Bouillat père",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500077186",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q97340245",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 23.177546,
+          "Height": 5.08001,
+          "Width": 31.115063
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Flowers",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132399",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q506"
+      }
+    ]
+  }
+}

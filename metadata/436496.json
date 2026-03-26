@@ -1,0 +1,100 @@
+{
+  "object_id": 436496,
+  "excel_metadata": {
+    "Object Number": "69.280.2",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436496,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1969.0,
+    "Object Name": "Painting",
+    "Title": "Saint John the Evangelist with Acteus and Eugenius",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10769.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Francescuccio Ghissi (Francesco di Cecco Ghissi)",
+    "Artist Display Bio": "Italian, Marchigian, active 1359–74",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Ghissi, Francescuccio (Francesco di Cecco Ghissi)",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1359",
+    "Artist End Date": "1374",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500028548",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q3081147",
+    "Object Date": "ca. 1370",
+    "Object Begin Date": 1365,
+    "Object End Date": 1374,
+    "Medium": "Tempera on wood, gold ground",
+    "Dimensions": "14 3/8 x 16 1/4 in. (36.5 x 41.3 cm)",
+    "Credit Line": "Gift of Mrs. W. Murray Crane, 1969",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436496",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19911980",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Women|Saint John the Evangelist",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/ia/901001171",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q328804"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP375435.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 107699,
+        "role": "Artist",
+        "name": "Francescuccio Ghissi (Francesco di Cecco Ghissi)",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500028548",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3081147",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 36.5,
+          "Width": 41.3
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Saint John the Evangelist",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901001171",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q328804"
+      }
+    ]
+  }
+}

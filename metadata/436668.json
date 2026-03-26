@@ -1,0 +1,107 @@
+{
+  "object_id": 436668,
+  "excel_metadata": {
+    "Object Number": "49.7.28",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436668,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1949.0,
+    "Object Name": "Painting",
+    "Title": "Portrait of a Man (Sir Ralph Sadler?)",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16199.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": "Workshop of",
+    "Artist Display Name": "Hans Holbein the Younger",
+    "Artist Display Bio": "German, Augsburg 1497/98–1543 London",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Holbein, Hans, the Younger",
+    "Artist Nationality": "German",
+    "Artist Begin Date": "1497",
+    "Artist End Date": "1543",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500005259",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q48319",
+    "Object Date": "1535",
+    "Object Begin Date": 1535,
+    "Object End Date": 1535,
+    "Medium": "Oil and gold on oak",
+    "Dimensions": "Diameter 12 in. (30.5 cm)",
+    "Credit Line": "The Jules Bache Collection, 1949",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436668",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19911434",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP278970.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/GermanCat34_Xraynocap.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/GermanCat34_IRRnocap.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 161994,
+        "role": "Artist",
+        "name": "Workshop of Hans Holbein the Younger",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500005259",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q48319",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 30.5,
+          "Width": 30.5
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 5.08,
+          "Height": 40.9576,
+          "Width": 40.9576
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

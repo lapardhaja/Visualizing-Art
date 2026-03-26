@@ -1,0 +1,103 @@
+{
+  "object_id": 459131,
+  "excel_metadata": {
+    "Object Number": "1975.1.7",
+    "Is Highlight": true,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 459131,
+    "Gallery Number": 952.0,
+    "Department": "Robert Lehman Collection",
+    "AccessionYear": 1975.0,
+    "Object Name": "Painting",
+    "Title": "The Last Supper",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16258.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Ugolino da Siena (Ugolino di Nerio)",
+    "Artist Display Bio": "Italian, Siena, active by 1317–died ?1339/49",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Ugolino da Siena (Ugolino di Nerio)",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1317",
+    "Artist End Date": "1349",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500008502",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q1357686",
+    "Object Date": "ca. 1325–30",
+    "Object Begin Date": 1322,
+    "Object End Date": 1333,
+    "Medium": "Tempera and gold on wood",
+    "Dimensions": "Overall, with engaged (modern) frame, 15 x 22 1/4 in. (38.1 x 56.5 cm); painted surface 13 1/2 x 20 3/4 in. (34.3 x 52.7 cm)",
+    "Credit Line": "Robert Lehman Collection, 1975",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/459131",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20185471",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Last Supper|Saints",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/ia/901000357|http://vocab.getty.edu/page/aat/300150555",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q51633|https://www.wikidata.org/wiki/Q43115"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/rl/original/DT3003.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/rl/original/TheLastSupper0195.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/ep1975.1.7.bw.R.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 162582,
+        "role": "Artist",
+        "name": "Ugolino da Siena (Ugolino di Nerio)",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500008502",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1357686",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 38.1,
+          "Width": 56.5
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Last Supper",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000357",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q51633"
+      },
+      {
+        "term": "Saints",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300150555",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q43115"
+      }
+    ]
+  }
+}

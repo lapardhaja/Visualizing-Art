@@ -1,0 +1,112 @@
+{
+  "object_id": 435980,
+  "excel_metadata": {
+    "Object Number": "29.100.564",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 435980,
+    "Gallery Number": 803.0,
+    "Department": "European Paintings",
+    "AccessionYear": 1929.0,
+    "Object Name": "Painting",
+    "Title": "Portrait of a Child",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16178.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Camille Corot",
+    "Artist Display Bio": "French, Paris 1796–1875 Paris",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Corot, Camille",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1796",
+    "Artist End Date": "1875",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500115390",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q148475",
+    "Object Date": "ca. 1835",
+    "Object Begin Date": 1830,
+    "Object End Date": 1840,
+    "Medium": "Oil on wood",
+    "Dimensions": "12 5/8 x 9 1/4 in. (32.1 x 23.5 cm)",
+    "Credit Line": "H. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/435980",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19913197",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Boys|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300247598|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q3010|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT872.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 161787,
+        "role": "Artist",
+        "name": "Camille Corot",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115390",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q148475",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 4.445,
+          "Height": 49.5301,
+          "Width": 40.6401
+        }
+      },
+      {
+        "elementName": "Glazing",
+        "elementDescription": "Correct Dimensions ",
+        "elementMeasurements": {
+          "Height": 32.385063,
+          "Width": 24.2888
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 32.1,
+          "Width": 23.5
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Boys",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300247598",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3010"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

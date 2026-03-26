@@ -1,0 +1,97 @@
+{
+  "object_id": 436520,
+  "excel_metadata": {
+    "Object Number": "63.12",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436520,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1963.0,
+    "Object Name": "Painting",
+    "Title": "Marie Adélaïde de Savoie (1685–1712), Duchesse de Bourgogne",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16454.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Pierre Gobert",
+    "Artist Display Bio": "French, Fontainebleau 1662–1744 Paris",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Gobert, Pierre",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1662",
+    "Artist End Date": "1744",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500028944",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q762544",
+    "Object Date": "1710",
+    "Object Begin Date": 1710,
+    "Object End Date": 1710,
+    "Medium": "Oil on canvas",
+    "Dimensions": "Oval, 28 3/4 x 23 1/4 in. (73 x 59.1 cm)",
+    "Credit Line": "Gift of the Marquis de La Bégassière, 1963",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436520",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912365",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Portraits|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP317663.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/DP317661.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 164546,
+        "role": "Artist",
+        "name": "Pierre Gobert",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500028944",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q762544",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 73,
+          "Width": 59.1
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

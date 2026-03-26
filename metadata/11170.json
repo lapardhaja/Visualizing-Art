@@ -1,0 +1,109 @@
+{
+  "object_id": 11170,
+  "excel_metadata": {
+    "Object Number": "20.189.2",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 11170,
+    "Gallery Number": NaN,
+    "Department": "The American Wing",
+    "AccessionYear": 1920.0,
+    "Object Name": "Painting",
+    "Title": "Morning on the Mountain",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 262.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Richard William Hubbard",
+    "Artist Display Bio": "1816–1888",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Hubbard, Richard William",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1816",
+    "Artist End Date": "1888",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500016900",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q20174687",
+    "Object Date": "1856",
+    "Object Begin Date": 1856,
+    "Object End Date": 1856,
+    "Medium": "Oil on canvas",
+    "Dimensions": "14 1/4 x 12 1/4 in. (36.2 x 31.1 cm)",
+    "Credit Line": "Gift of Samuel P. Avery, 1920",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/11170",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20174626",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Landscapes|Trees|Morning",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300132294|http://vocab.getty.edu/page/aat/300132410|http://vocab.getty.edu/page/aat/300343630",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q191163|https://www.wikidata.org/wiki/Q10884|https://www.wikidata.org/wiki/Q7722"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/ap20.189.2.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 2626,
+        "role": "Artist",
+        "name": "Richard William Hubbard",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500016900",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q20174687",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 36.2,
+          "Width": 31.1
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 10,
+          "Height": 62.4,
+          "Width": 57.3
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Landscapes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+      },
+      {
+        "term": "Trees",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132410",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q10884"
+      },
+      {
+        "term": "Morning",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300343630",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q7722"
+      }
+    ]
+  }
+}

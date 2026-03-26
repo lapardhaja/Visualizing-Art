@@ -1,0 +1,120 @@
+{
+  "object_id": 13104,
+  "excel_metadata": {
+    "Object Number": "29.148.1",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 13104,
+    "Gallery Number": NaN,
+    "Department": "The American Wing",
+    "AccessionYear": 1929.0,
+    "Object Name": "Painting",
+    "Title": "The Reverend John Brodhead Romeyn",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 2993299.0,
+    "Artist Role": "Artist|Artist",
+    "Artist Prefix": " | ",
+    "Artist Display Name": "Samuel Lovett Waldo|William Jewett",
+    "Artist Display Bio": "1783–1861|1792–1874",
+    "Artist Suffix": " | ",
+    "Artist Alpha Sort": "Waldo, Samuel Lovett|Jewett, William",
+    "Artist Nationality": "American|American",
+    "Artist Begin Date": "1783      |1792      ",
+    "Artist End Date": "1861      |1874      ",
+    "Artist Gender": "|",
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500026386|http://vocab.getty.edu/page/ulan/500003558",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q390073|https://www.wikidata.org/wiki/Q5837162",
+    "Object Date": "ca. 1817–20",
+    "Object Begin Date": 1814,
+    "Object End Date": 1820,
+    "Medium": "Oil on canvas",
+    "Dimensions": "30 1/4 x 25 1/4 in. (76.8 x 64.1 cm)",
+    "Credit Line": "Bequest of Elizabeth H. J. Cowdrey, 1929",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/13104",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19925566",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/ap29.148.1.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 2993,
+        "role": "Artist",
+        "name": "Samuel Lovett Waldo",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500026386",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q390073",
+        "gender": ""
+      },
+      {
+        "constituentID": 2994,
+        "role": "Artist",
+        "name": "William Jewett",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500003558",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5837162",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 76.8,
+          "Width": 64.1
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 13.335,
+          "Height": 103.1877,
+          "Width": 91.7577
+        }
+      },
+      {
+        "elementName": "Glazing",
+        "elementDescription": "when needed",
+        "elementMeasurements": {
+          "Height": 76.83515,
+          "Width": 65.56388
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

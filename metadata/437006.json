@@ -1,0 +1,100 @@
+{
+  "object_id": 437006,
+  "excel_metadata": {
+    "Object Number": "41.48",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 437006,
+    "Gallery Number": 544.0,
+    "Department": "European Paintings",
+    "AccessionYear": 1941.0,
+    "Object Name": "Painting",
+    "Title": "The Birth of Cupid",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16210.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Master of Flora",
+    "Artist Display Bio": "Italian, Fontainebleau, second half 16th century",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Master of Flora",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1550",
+    "Artist End Date": "1599",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500020227",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q1918369",
+    "Object Date": NaN,
+    "Object Begin Date": 1550,
+    "Object End Date": 1599,
+    "Medium": "Oil on wood",
+    "Dimensions": "Overall 42 1/2 x 51 3/8 in. (108 x 130.5 cm), including added strip of 3 1/2 in. (8.9 cm) at top",
+    "Credit Line": "Rogers Fund, 1941",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437006",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912377",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Female Nudes|Cupid|Venus",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300189568|http://vocab.getty.edu/page/aat/300380105|http://vocab.getty.edu/page/ia/901001064",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q40446|https://www.wikidata.org/wiki/Q5011|https://www.wikidata.org/wiki/Q47652"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT1298.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162109,
+        "role": "Artist",
+        "name": "Master of Flora",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500020227",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1918369",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 108,
+          "Width": 130.5
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Female Nudes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300189568",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q40446"
+      },
+      {
+        "term": "Cupid",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300380105",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q5011"
+      },
+      {
+        "term": "Venus",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901001064",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q47652"
+      }
+    ]
+  }
+}

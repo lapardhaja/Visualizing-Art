@@ -1,0 +1,103 @@
+{
+  "object_id": 459132,
+  "excel_metadata": {
+    "Object Number": "1975.1.8",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 459132,
+    "Gallery Number": 952.0,
+    "Department": "Robert Lehman Collection",
+    "AccessionYear": 1975.0,
+    "Object Name": "Painting",
+    "Title": "Saints Matthias and Thomas",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16329.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Bartolomeo Bulgarini",
+    "Artist Display Bio": "Italian, Siena, active 1337–78",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Bulgarini, Bartolomeo",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1337",
+    "Artist End Date": "1378",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500016602",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q809491",
+    "Object Date": "ca. 1350",
+    "Object Begin Date": 1347,
+    "Object End Date": 1353,
+    "Medium": "Tempera on wood, gold ground",
+    "Dimensions": "Overall, exclusive of modern frame additions, 20 7/8 x 18 1/8 in. (53 x 46 cm); painted surface 17 1/2 x 16 3/4 in. (44.5 x 42.5 cm)",
+    "Credit Line": "Robert Lehman Collection, 1975",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/459132",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20188060",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Books|Men|Saints",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300028051|http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300150555",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q571|https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q43115"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/rl/original/DT3004.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/rl/original/Saints0204.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/ep1975.1.8.bw.R.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 163299,
+        "role": "Artist",
+        "name": "Bartolomeo Bulgarini",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500016602",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q809491",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 53,
+          "Width": 46
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Books",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300028051",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q571"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Saints",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300150555",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q43115"
+      }
+    ]
+  }
+}

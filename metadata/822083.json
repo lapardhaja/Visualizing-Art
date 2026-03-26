@@ -1,0 +1,96 @@
+{
+  "object_id": 822083,
+  "excel_metadata": {
+    "Object Number": "2022.46",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": false,
+    "Object ID": 822083,
+    "Gallery Number": 503.0,
+    "Department": "European Paintings",
+    "AccessionYear": 2022.0,
+    "Object Name": "Painting",
+    "Title": "Bindo Altoviti (1491–1557)",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16236.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Francesco Salviati (Francesco de' Rossi)",
+    "Artist Display Bio": "Italian, Florence 1510–1563 Rome",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Salviati, Francesco (Francesco de' Rossi)",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1510",
+    "Artist End Date": "1563",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500002852",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q704594",
+    "Object Date": "ca. 1545",
+    "Object Begin Date": 1540,
+    "Object End Date": 1550,
+    "Medium": "Oil on marble",
+    "Dimensions": "34 5/8 × 28 3/4 in.  (88 × 73 cm)",
+    "Credit Line": "Gift of the Assadour O. Tavitian Trust, 2022",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/822083",
+    "Object Wikidata URL": NaN,
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": NaN,
+    "Tags AAT URL": NaN,
+    "Tags Wikidata URL": NaN
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-34698-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162369,
+        "role": "Artist",
+        "name": "Francesco Salviati (Francesco de&#39; Rossi)",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500002852",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q704594",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 88,
+          "Weight": 55.792435,
+          "Width": 73
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

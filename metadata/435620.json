@@ -1,0 +1,105 @@
+{
+  "object_id": 435620,
+  "excel_metadata": {
+    "Object Number": "58.87.2",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 435620,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1958.0,
+    "Object Name": "Painting, predella panel",
+    "Title": "The Lamentation and the Entombment",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10734.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Bartolomeo di Tommaso",
+    "Artist Display Bio": "Italian, Umbrian, active by 1425–died 1453/54",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Bartolomeo di Tommaso",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1425",
+    "Artist End Date": "1454",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500010103",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q2886111",
+    "Object Date": "ca. 1445–50",
+    "Object Begin Date": 1445,
+    "Object End Date": 1450,
+    "Medium": "Tempera on wood, gold ground",
+    "Dimensions": "Overall 8 3/4 x 17 1/8 in. (22.2 x 43.5 cm); irregular painted surface 8 x 16 1/8 in. (20.3 x 41 cm)",
+    "Credit Line": "Gwynne Andrews Fund, 1958",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/435620",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912856",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Sadness|Entombment|Lamentation|Christ|Virgin Mary",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300055166|http://vocab.getty.edu/page/ia/901001053|http://vocab.getty.edu/page/ia/901001196|http://vocab.getty.edu/page/ia/901000087|http://vocab.getty.edu/page/ia/901000032",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q169251|https://www.wikidata.org/wiki/Q51637|https://www.wikidata.org/wiki/Q3155356|https://www.wikidata.org/wiki/Q642420|https://www.wikidata.org/wiki/Q345"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/EP588.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 107348,
+        "role": "Artist",
+        "name": "Bartolomeo di Tommaso",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500010103",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q2886111",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 22.2,
+          "Width": 43.5
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Christ",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+      },
+      {
+        "term": "Virgin Mary",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000032",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q345"
+      },
+      {
+        "term": "Entombment",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901001053",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q51637"
+      },
+      {
+        "term": "Lamentation",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901001196",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3155356"
+      }
+    ]
+  }
+}

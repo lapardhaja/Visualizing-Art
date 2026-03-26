@@ -1,0 +1,104 @@
+{
+  "object_id": 10946,
+  "excel_metadata": {
+    "Object Number": "15.30.62",
+    "Is Highlight": true,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 10946,
+    "Gallery Number": 761.0,
+    "Department": "The American Wing",
+    "AccessionYear": 1915.0,
+    "Object Name": "Painting",
+    "Title": "A Gorge in the Mountains (Kauterskill Clove)",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 254.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Sanford Robinson Gifford",
+    "Artist Display Bio": "Greenfield, New York 1823–1880 New York, New York",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Gifford, Sanford Robinson",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1823",
+    "Artist End Date": "1880",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500019147",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q615161",
+    "Object Date": "1862",
+    "Object Begin Date": 1862,
+    "Object End Date": 1862,
+    "Medium": "Oil on canvas",
+    "Dimensions": "48 x 39 7/8 in. (121.9 x 101.3 cm)",
+    "Credit Line": "Bequest of Maria DeWitt Jesup, from the collection of her husband, Morris K. Jesup, 1914",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/10946",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20169888",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Mountains|Landscapes",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300008795|http://vocab.getty.edu/page/aat/300132294",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8502|https://www.wikidata.org/wiki/Q191163"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DT81.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 2546,
+        "role": "Artist",
+        "name": "Sanford Robinson Gifford",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500019147",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q615161",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 12.1,
+          "Height": 157.5,
+          "Width": 139.1
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 121.9,
+          "Width": 101.3
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Mountains",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300008795",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8502"
+      },
+      {
+        "term": "Landscapes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+      }
+    ]
+  }
+}

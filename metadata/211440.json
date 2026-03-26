@@ -1,0 +1,97 @@
+{
+  "object_id": 211440,
+  "excel_metadata": {
+    "Object Number": "2002.265.1a, b",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 211440,
+    "Gallery Number": 553,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 2002,
+    "Object Name": "Wine cooler ",
+    "Title": "Wine cooler (one of a pair)",
+    "Culture": "Austrian, Vienna",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 4104,
+    "Artist Role": "Maker",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Ignaz Joseph Würth",
+    "Artist Display Bio": "Austrian, first mentioned 1769, died 1792",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Würth Ignaz Joseph",
+    "Artist Nationality": "Austrian",
+    "Artist Begin Date": 1692,
+    "Artist End Date": 1792,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500109858",
+    "Artist Wikidata URL": null,
+    "Object Date": 1781,
+    "Object Begin Date": 1781,
+    "Object End Date": 1781,
+    "Medium": "Silver",
+    "Dimensions": "Overall (wt confirmed): 11 15/16 x 9 7/8 in., 6000g (30.3 x 25.1 cm, 6kg)",
+    "Credit Line": "Purchase, Anna-Maria and Stephen Kellen Foundation Gift, 2002",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Metalwork-Silver",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/211440",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q116242315",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Lions",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300310388",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q140"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP105451.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/2002.265.1a, b; .2a, b.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/3_32A_34K.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/3_33R2_34D.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/COVERr1_80K.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DirectfrtsR2_34K.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 41046,
+        "role": "Maker",
+        "name": "Ignaz Joseph Würth",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500109858",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": "wt confirmed",
+        "elementMeasurements": {
+          "Height": 30.3213,
+          "Weight": 6,
+          "Width": 25.0826
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Lions",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300310388",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q140"
+      }
+    ]
+  }
+}

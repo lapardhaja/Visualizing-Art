@@ -1,0 +1,104 @@
+{
+  "object_id": 436686,
+  "excel_metadata": {
+    "Object Number": "01.20",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436686,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1901.0,
+    "Object Name": "Painting",
+    "Title": "Mrs. Richard Bache (Sarah Franklin, 1743–1808)",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16621.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "John Hoppner",
+    "Artist Display Bio": "British, London 1758–1810 London",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Hoppner, John",
+    "Artist Nationality": "British",
+    "Artist Begin Date": "1758",
+    "Artist End Date": "1810",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500013173",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q326066",
+    "Object Date": "1793",
+    "Object Begin Date": 1793,
+    "Object End Date": 1793,
+    "Medium": "Oil on canvas",
+    "Dimensions": "30 1/8 x 24 7/8 in. (76.5 x 63.2 cm)",
+    "Credit Line": "Catharine Lorillard Wolfe Collection, Wolfe Fund, 1901",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436686",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19905381",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Portraits|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP162138.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 166219,
+        "role": "Artist",
+        "name": "John Hoppner",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500013173",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q326066",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 76.5,
+          "Width": 63.2
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 9.525,
+          "Height": 97.7902,
+          "Width": 85.0902
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

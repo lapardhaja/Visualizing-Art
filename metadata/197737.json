@@ -1,0 +1,93 @@
+{
+  "object_id": 197737,
+  "excel_metadata": {
+    "Object Number": 35.132,
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 197737,
+    "Gallery Number": 556,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1935,
+    "Object Name": "Casket",
+    "Title": "Presentation casket",
+    "Culture": "Austrian",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 404184041,
+    "Artist Role": "Designer|Maker",
+    "Artist Prefix": " | ",
+    "Artist Display Name": "Josef Ritter von Storck|Rodeck Brothers (Gebrüder Rodeck)",
+    "Artist Display Bio": "1830–1902| ",
+    "Artist Suffix": " | ",
+    "Artist Alpha Sort": "Ritter von Storck Josef|Rodeck Brothers (Gebrüder Rodeck)",
+    "Artist Nationality": " | ",
+    "Artist Begin Date": "1830      |          ",
+    "Artist End Date": "1902      |          ",
+    "Artist Gender": "|",
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500326528|",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q34778314|",
+    "Object Date": 1867,
+    "Object Begin Date": 1867,
+    "Object End Date": 1867,
+    "Medium": "Silver gilt, enamel, leather, lapis lazuli",
+    "Dimensions": "Overall: 6 1/2 × 18 3/4 × 22 3/4 in. (16.5 × 47.6 × 57.8 cm)",
+    "Credit Line": "Gift of Gabriel Wells, 1935",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Metalwork-Silver",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/197737",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q116311339",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": null,
+    "Tags AAT URL": null,
+    "Tags Wikidata URL": null
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/ES1089.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 40418,
+        "role": "Designer",
+        "name": "Josef Ritter von Storck",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500326528",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q34778314",
+        "gender": ""
+      },
+      {
+        "constituentID": 40419,
+        "role": "Maker",
+        "name": "Rodeck Brothers (Gebrüder Rodeck)",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 57.8,
+          "Height": 16.5,
+          "Width": 47.6
+        }
+      }
+    ],
+    "tags": null
+  }
+}

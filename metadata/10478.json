@@ -1,0 +1,115 @@
+{
+  "object_id": 10478,
+  "excel_metadata": {
+    "Object Number": "41.160.405",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 10478,
+    "Gallery Number": 774.0,
+    "Department": "The American Wing",
+    "AccessionYear": 1941.0,
+    "Object Name": "Painting",
+    "Title": "Houqua",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16623117619.0,
+    "Artist Role": "Artist|Artist",
+    "Artist Prefix": "Style of| ",
+    "Artist Display Name": "George Chinnery|Ester Speakman",
+    "Artist Display Bio": "British, London 1774–1852 Macau|American, 1832–1875",
+    "Artist Suffix": " | ",
+    "Artist Alpha Sort": "Chinnery, George|Speakman, Ester",
+    "Artist Nationality": "British|American",
+    "Artist Begin Date": "1774      |1832      ",
+    "Artist End Date": "1852      |1875      ",
+    "Artist Gender": "|Female",
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500124758|",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q3089402|https://www.wikidata.org/wiki/Q78163102",
+    "Object Date": "ca. 1843",
+    "Object Begin Date": 1838,
+    "Object End Date": 1848,
+    "Medium": "Oil on canvas",
+    "Dimensions": "25 x 18 5/8 in. (63.5 x 46.3 cm)",
+    "Credit Line": "Bequest of W. Gedney Beatty, 1941",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/10478",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19925394",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DT220319.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ad/original/DP276512.jpg",
+      "https://images.metmuseum.org/CRDImages/ad/original/DP276519.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 166231,
+        "role": "Artist",
+        "name": "Style of George Chinnery",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500124758",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3089402",
+        "gender": ""
+      },
+      {
+        "constituentID": 176193,
+        "role": "Artist",
+        "name": "Ester Speakman",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q78163102",
+        "gender": "Female"
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 5.7150116,
+          "Height": 69.21514,
+          "Width": 53.657608
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 63.5,
+          "Width": 47.3
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

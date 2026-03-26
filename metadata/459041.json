@@ -1,0 +1,113 @@
+{
+  "object_id": 459041,
+  "excel_metadata": {
+    "Object Number": "1975.1.99",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 459041,
+    "Gallery Number": 952.0,
+    "Department": "Robert Lehman Collection",
+    "AccessionYear": 1975.0,
+    "Object Name": "Painting",
+    "Title": "The Last Judgment; The Virgin and Child with a Bishop-Saint and Saint Peter Martyr; The Crucifixion; The Glorification of Saint Thomas Aquinas; The Nativity",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16528.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Master of the Dominican Effigies",
+    "Artist Display Bio": "Italian, active Florence, ca. 1325–ca. 1355",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Master of the Dominican Effigies",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1325",
+    "Artist End Date": "1355",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500004900",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q1918357",
+    "Object Date": "ca. 1325",
+    "Object Begin Date": 1320,
+    "Object End Date": 1330,
+    "Medium": "Tempera on wood, gold ground",
+    "Dimensions": "Overall 26 3/8 x 18 5/8 in. (67 x 47.3 cm); painted surface 23 1/4 x 16 5/8 in. (59.1 x 42.2 cm)",
+    "Credit Line": "Robert Lehman Collection, 1975",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/459041",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20188036",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Madonna and Child|Saint Peter|Crucifixion|Last Judgement|Nativity",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901000052|http://vocab.getty.edu/page/ia/901000056|http://vocab.getty.edu/page/aat/300404300|http://vocab.getty.edu/page/ia/901001027|http://vocab.getty.edu/page/ia/901000124",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q9309699|https://www.wikidata.org/wiki/Q33923|https://www.wikidata.org/wiki/Q3235597|https://www.wikidata.org/wiki/Q1821239|https://www.wikidata.org/wiki/Q51628"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/rl/original/DT3069.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/rl/original/ep1975.1.99.bw.R.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/0014.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 165287,
+        "role": "Artist",
+        "name": "Master of the Dominican Effigies",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500004900",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1918357",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 67,
+          "Width": 47.3
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Madonna and Child",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000052",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q9309699"
+      },
+      {
+        "term": "Saint Peter",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000056",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q33923"
+      },
+      {
+        "term": "Crucifixion",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300404300",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3235597"
+      },
+      {
+        "term": "Last Judgement",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901001027",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q1821239"
+      },
+      {
+        "term": "Nativity",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000124",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q51628"
+      }
+    ]
+  }
+}

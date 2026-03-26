@@ -1,0 +1,101 @@
+{
+  "object_id": 872016,
+  "excel_metadata": {
+    "Object Number": "2022.308",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 872016,
+    "Gallery Number": 815.0,
+    "Department": "European Paintings",
+    "AccessionYear": 2022.0,
+    "Object Name": "Painting",
+    "Title": "A Man Seated and Asleep",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 21947.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Giuseppe Abbati",
+    "Artist Display Bio": "Italian, Naples 1836–1868 Florence",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Abbati, Giuseppe",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1836",
+    "Artist End Date": "1868",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": NaN,
+    "Artist Wikidata URL": NaN,
+    "Object Date": "ca. 1865",
+    "Object Begin Date": 1860,
+    "Object End Date": 1870,
+    "Medium": "Oil on wood",
+    "Dimensions": "10 3/16 × 4 13/16 in. (25.8 × 12.2 cm)",
+    "Credit Line": "Purchase, Friends of European Paintings Gifts, 2022",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/872016",
+    "Object Wikidata URL": NaN,
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Sleeping|Men|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300375130|http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q35831|https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-26583-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 219479,
+        "role": "Artist",
+        "name": "Giuseppe Abbati",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 25.8,
+          "Thickness": 0.5,
+          "Width": 12.2
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Sleeping",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300375130",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q35831"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

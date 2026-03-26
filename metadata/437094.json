@@ -1,0 +1,109 @@
+{
+  "object_id": 437094,
+  "excel_metadata": {
+    "Object Number": "17.120.209",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437094,
+    "Gallery Number": 802.0,
+    "Department": "European Paintings",
+    "AccessionYear": 1917.0,
+    "Object Name": "Painting",
+    "Title": "Autumn Landscape with a Flock of Turkeys",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16490.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Jean-François Millet",
+    "Artist Display Bio": "French, Gruchy 1814–1875 Barbizon",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Millet, Jean-François",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1814",
+    "Artist End Date": "1875",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500012529",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q148458",
+    "Object Date": "1872–73",
+    "Object Begin Date": 1872,
+    "Object End Date": 1873,
+    "Medium": "Oil on canvas",
+    "Dimensions": "31 7/8 x 39 in. (81 x 99.1 cm)",
+    "Credit Line": "Mr. and Mrs. Isaac D. Fletcher Collection, Bequest of Isaac D. Fletcher, 1917",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437094",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912159",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Turkeys|Landscapes|Autumn",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300266497|http://vocab.getty.edu/page/aat/300132294|http://vocab.getty.edu/page/aat/300133093",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q848706|https://www.wikidata.org/wiki/Q191163|https://www.wikidata.org/wiki/Q1314"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT1982.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 164909,
+        "role": "Artist",
+        "name": "Jean-François Millet",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500012529",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q148458",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 81,
+          "Width": 99.1
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 16.51,
+          "Height": 125.7303,
+          "Width": 144.7803
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Turkeys",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300266497",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q848706"
+      },
+      {
+        "term": "Landscapes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+      },
+      {
+        "term": "Autumn",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300133093",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q1314"
+      }
+    ]
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "object_id": 436855,
+  "excel_metadata": {
+    "Object Number": "26.168.9",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436855,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1926.0,
+    "Object Name": "Painting, miniature",
+    "Title": "Portrait of a Woman",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16456.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Etienne Charles Le Guay",
+    "Artist Display Bio": "French, 1762–1846",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Le Guay, Etienne Charles",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1762",
+    "Artist End Date": "1846",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500010866",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q21997260",
+    "Object Date": "ca. 1800",
+    "Object Begin Date": 1795,
+    "Object End Date": 1805,
+    "Medium": "Ivory",
+    "Dimensions": "Oval, 3 1/2 x 3 in. (90 x 75 mm)",
+    "Credit Line": "Bequest of Collis P. Huntington, 1900",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Miniatures",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436855",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19913817",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Portraits|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP327727.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 164561,
+        "role": "Artist",
+        "name": "Etienne Charles Le Guay",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500010866",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q21997260",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 8.9,
+          "Width": 7.6
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

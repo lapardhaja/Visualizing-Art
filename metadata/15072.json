@@ -1,0 +1,95 @@
+{
+  "object_id": 15072,
+  "excel_metadata": {
+    "Object Number": "2006.235.78",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 15072,
+    "Gallery Number": 754.0,
+    "Department": "The American Wing",
+    "AccessionYear": 2006.0,
+    "Object Name": "Painting, miniature",
+    "Title": "Charles Henry Hall",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 256.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Anne Hall",
+    "Artist Display Bio": "1792–1863",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Hall, Anne",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1792",
+    "Artist End Date": "1863",
+    "Artist Gender": "Female",
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500001614",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q17423465",
+    "Object Date": "ca. 1820",
+    "Object Begin Date": 1817,
+    "Object End Date": 1823,
+    "Medium": "Watercolor on ivory",
+    "Dimensions": "2 x 1 9/16 in. (5.1 x 4 cm)",
+    "Credit Line": "Dale T. Johnson Fund, 2006",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/15072",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20177379",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/APS6859.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 2566,
+        "role": "Artist",
+        "name": "Anne Hall",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500001614",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q17423465",
+        "gender": "Female"
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 5.1,
+          "Width": 4
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

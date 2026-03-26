@@ -1,0 +1,95 @@
+{
+  "object_id": 437485,
+  "excel_metadata": {
+    "Object Number": "95.14.72",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437485,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1895.0,
+    "Object Name": "Painting, miniature",
+    "Title": "Portrait of a Girl",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10866.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Sampson Towgood Roch",
+    "Artist Display Bio": "Irish, 1759–1847",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Roch, Sampson Towgood",
+    "Artist Nationality": "Irish",
+    "Artist Begin Date": "1759",
+    "Artist End Date": "1847",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500003907",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q7410252",
+    "Object Date": "ca. 1790",
+    "Object Begin Date": 1785,
+    "Object End Date": 1795,
+    "Medium": "Ivory",
+    "Dimensions": "Oval, 2 1/4 x 1 7/8 in. (58 x 48 mm)",
+    "Credit Line": "The Moses Lazarus Collection, Gift of Josephine and Sarah Lazarus, in memory of their father, 1888–95",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Miniatures",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437485",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19913903",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Girls|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300247581|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q3031|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-31482-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 108661,
+        "role": "Artist",
+        "name": "Sampson Towgood Roch",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500003907",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q7410252",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 5.7,
+          "Width": 4.8
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Girls",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300247581",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3031"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

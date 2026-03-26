@@ -1,0 +1,105 @@
+{
+  "object_id": 437591,
+  "excel_metadata": {
+    "Object Number": "71.13",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437591,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1871.0,
+    "Object Name": "Painting",
+    "Title": "Rustic Interior",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10826.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "David Ryckaert III",
+    "Artist Display Bio": "Flemish, 1612–1661",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Ryckaert, David, III",
+    "Artist Nationality": "Flemish",
+    "Artist Begin Date": "1612",
+    "Artist End Date": "1661",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500116871",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q323932",
+    "Object Date": NaN,
+    "Object Begin Date": 1632,
+    "Object End Date": 1661,
+    "Medium": "Oil on canvas",
+    "Dimensions": "36 3/8 x 45 5/8 in. (92.4 x 115.9 cm)",
+    "Credit Line": "Purchase, 1871",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437591",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912906",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Dogs|Barrels|Interiors|Men",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300265714|http://vocab.getty.edu/page/aat/300194514|http://vocab.getty.edu/page/aat/300391239|http://vocab.getty.edu/page/aat/300025928",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q144|https://www.wikidata.org/wiki/Q10289|https://www.wikidata.org/wiki/Q2998430|https://www.wikidata.org/wiki/Q8441"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-22531-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 108265,
+        "role": "Artist",
+        "name": "David Ryckaert III",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500116871",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q323932",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 92.4,
+          "Width": 115.9
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Interiors",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300391239",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q2998430"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Dogs",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300265714",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q144"
+      },
+      {
+        "term": "Barrels",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300194514",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q10289"
+      }
+    ]
+  }
+}

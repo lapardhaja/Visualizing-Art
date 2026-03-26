@@ -1,0 +1,110 @@
+{
+  "object_id": 436772,
+  "excel_metadata": {
+    "Object Number": "97.4",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436772,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1897.0,
+    "Object Name": "Painting",
+    "Title": "The Sheepfold",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10782.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Charles Jacque",
+    "Artist Display Bio": "French, Paris 1813–1894 Paris",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Jacque, Charles",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1813",
+    "Artist End Date": "1894",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500027865",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q125409",
+    "Object Date": "1857",
+    "Object Begin Date": 1857,
+    "Object End Date": 1857,
+    "Medium": "Oil on wood",
+    "Dimensions": "18 1/8 x 36 1/8 in. (46 x 91.8 cm)",
+    "Credit Line": "Catharine Lorillard Wolfe Collection, Wolfe Fund, 1897",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436772",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912635",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Chickens|Men|Sheep|Working|Farmers",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300250037|http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300250284|http://vocab.getty.edu/page/aat/300412186|http://vocab.getty.edu/page/aat/300025607",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q780|https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q7368|https://www.wikidata.org/wiki/Q6958747|https://www.wikidata.org/wiki/Q131512"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-22553-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 107822,
+        "role": "Artist",
+        "name": "Charles Jacque",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500027865",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q125409",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 46,
+          "Width": 91.8
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Chickens",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250037",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q780"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Sheep",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250284",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q7368"
+      },
+      {
+        "term": "Working",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300412186",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q6958747"
+      },
+      {
+        "term": "Farmers",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025607",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q131512"
+      }
+    ]
+  }
+}

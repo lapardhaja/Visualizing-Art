@@ -1,0 +1,109 @@
+{
+  "object_id": 204634,
+  "excel_metadata": {
+    "Object Number": "66.59.1",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 204634,
+    "Gallery Number": 525,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1966,
+    "Object Name": "Settee",
+    "Title": "Settee (part of a set)",
+    "Culture": "French, Paris",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 3443920000000000,
+    "Artist Role": "Artist|Manufactory|Designer",
+    "Artist Prefix": "Frame by|Tapestry by|after designs by",
+    "Artist Display Name": "Nicolas-Quinibert Foliot|Beauvais|Jean-Baptiste Oudry",
+    "Artist Display Bio": "1706–1776, warden 1750/52| |French, Paris 1686–1755 Beauvais",
+    "Artist Suffix": " | |(Director of Beauvais:  1726 - 1755)",
+    "Artist Alpha Sort": "FOLIOT NICOLAS-QUINIBERT|Beauvais|Oudry, Jean-Baptiste",
+    "Artist Nationality": " | |French",
+    "Artist Begin Date": "1706      |          |1686      ",
+    "Artist End Date": "1776      |          |1755      ",
+    "Artist Gender": "||",
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500008751|http://vocab.getty.edu/page/ulan/500110803|http://vocab.getty.edu/page/ulan/500021906",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q3339997|https://www.wikidata.org/wiki/Q2566130|https://www.wikidata.org/wiki/Q737137",
+    "Object Date": "ca. 1754–56",
+    "Object Begin Date": 1749,
+    "Object End Date": 1761,
+    "Medium": "Beechwood, gilded",
+    "Dimensions": "Overall: 43 1/8 × 92 × 43 in. (109.5 × 233.7 × 109.2 cm)",
+    "Credit Line": "Gift of Martha Baird Rockefeller, 1966",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Woodwork-Furniture",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/204634",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q116310336",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Birds|Couches",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300266506|http://vocab.getty.edu/page/aat/300038634",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q5113|https://www.wikidata.org/wiki/Q131514"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DT4845.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/DP221524.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 34439,
+        "role": "Artist",
+        "name": "Frame by Nicolas-Quinibert Foliot",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500008751",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3339997",
+        "gender": ""
+      },
+      {
+        "constituentID": 162822,
+        "role": "Manufactory",
+        "name": "Tapestry by Beauvais",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500110803",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q2566130",
+        "gender": ""
+      },
+      {
+        "constituentID": 165080,
+        "role": "Designer",
+        "name": "after designs by Jean-Baptiste Oudry",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500021906",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q737137",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 109.220215,
+          "Height": 109.53772,
+          "Width": 233.68047
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Birds",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300266506",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q5113"
+      }
+    ]
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "object_id": 436330,
+  "excel_metadata": {
+    "Object Number": "20.182",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436330,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1920.0,
+    "Object Name": "Painting, fragment of a cassone panel",
+    "Title": "Goddess of Chaste Love",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16189.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Francesco di Giorgio Martini",
+    "Artist Display Bio": "Italian, Siena 1439–1501 Siena",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Francesco di Giorgio Martini",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1439",
+    "Artist End Date": "1501",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500115162",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q434425",
+    "Object Date": "1468–75",
+    "Object Begin Date": 1468,
+    "Object End Date": 1475,
+    "Medium": "Tempera and gold on wood",
+    "Dimensions": "15 1/2 x 17 1/4 in. (39.4 x 43.8 cm)",
+    "Credit Line": "Marquand Fund, 1920",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436330",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912210",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Women|Griffins|Goddess|Chariots",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/aat/300379594|http://vocab.getty.edu/page/aat/300343852|http://vocab.getty.edu/page/aat/300212699",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q130223|https://www.wikidata.org/wiki/Q205985|https://www.wikidata.org/wiki/Q203788"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT229670.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 161897,
+        "role": "Artist",
+        "name": "Francesco di Giorgio Martini",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115162",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q434425",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 39.4,
+          "Width": 43.8
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Griffins",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379594",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q130223"
+      },
+      {
+        "term": "Goddess",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300343852",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q205985"
+      },
+      {
+        "term": "Chariots",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300212699",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q203788"
+      }
+    ]
+  }
+}

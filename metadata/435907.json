@@ -1,0 +1,114 @@
+{
+  "object_id": 435907,
+  "excel_metadata": {
+    "Object Number": "47.12",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 435907,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1947.0,
+    "Object Name": "Painting",
+    "Title": "Sunrise",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16177.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Claude Lorrain (Claude Gellée)",
+    "Artist Display Bio": "French, Chamagne 1604/5?–1682 Rome",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Claude Lorrain (Claude Gellée)",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1604",
+    "Artist End Date": "1682",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500115366",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q214074",
+    "Object Date": "possibly 1646–47",
+    "Object Begin Date": 1646,
+    "Object End Date": 1647,
+    "Medium": "Oil on canvas",
+    "Dimensions": "40 1/2 x 52 3/4 in. (102.9 x 134 cm)",
+    "Credit Line": "Fletcher Fund, 1947",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/435907",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19904837",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Cows|Landscapes|Dawn|Human Figures",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300250120|http://vocab.getty.edu/page/aat/300132294|http://vocab.getty.edu/page/aat/300343621|http://vocab.getty.edu/page/aat/300404114",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q830|https://www.wikidata.org/wiki/Q191163|https://www.wikidata.org/wiki/Q11326182|https://www.wikidata.org/wiki/Q5937779"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-14936-013.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 161774,
+        "role": "Artist",
+        "name": "Claude Lorrain (Claude Gellée)",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115366",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q214074",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 102.9,
+          "Width": 134
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 11.430023,
+          "Height": 130.81026,
+          "Width": 162.56032
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Human Figures",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300404114",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q5937779"
+      },
+      {
+        "term": "Cows",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250120",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q830"
+      },
+      {
+        "term": "Landscapes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+      },
+      {
+        "term": "Dawn",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300343621",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q11326182"
+      }
+    ]
+  }
+}

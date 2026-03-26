@@ -1,0 +1,110 @@
+{
+  "object_id": 436598,
+  "excel_metadata": {
+    "Object Number": "71.12",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436598,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1871.0,
+    "Object Name": "Painting",
+    "Title": "Santa Maria della Salute",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16196.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Francesco Guardi",
+    "Artist Display Bio": "Italian, Venice 1712–1793 Venice",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Guardi, Francesco",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1712",
+    "Artist End Date": "1793",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500017409",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q318769",
+    "Object Date": "mid- to late 1760s",
+    "Object Begin Date": 1763,
+    "Object End Date": 1769,
+    "Medium": "Oil on canvas",
+    "Dimensions": "21 x 33 3/4 in. (53.3 x 85.7 cm)",
+    "Credit Line": "Purchase, 1871",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436598",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912421",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Buildings|Churches|Canals|Boats|Venice",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300004789|http://vocab.getty.edu/page/aat/300007466|http://vocab.getty.edu/page/aat/300006075|http://vocab.getty.edu/page/aat/300178749|http://vocab.getty.edu/page/tgn/7018159",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q41176|https://www.wikidata.org/wiki/Q16970|https://www.wikidata.org/wiki/Q12284|https://www.wikidata.org/wiki/Q35872|https://www.wikidata.org/wiki/Q641"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-28008-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 161967,
+        "role": "Artist",
+        "name": "Francesco Guardi",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500017409",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q318769",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 53.3,
+          "Width": 85.7
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Buildings",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300004789",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q41176"
+      },
+      {
+        "term": "Churches",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300007466",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q16970"
+      },
+      {
+        "term": "Canals",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300006075",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q12284"
+      },
+      {
+        "term": "Boats",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300178749",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q35872"
+      },
+      {
+        "term": "Venice",
+        "AAT_URL": "http://vocab.getty.edu/page/tgn/7018159",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q641"
+      }
+    ]
+  }
+}

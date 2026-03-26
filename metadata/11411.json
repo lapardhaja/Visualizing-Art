@@ -1,0 +1,104 @@
+{
+  "object_id": 11411,
+  "excel_metadata": {
+    "Object Number": "06.1323",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 11411,
+    "Gallery Number": NaN,
+    "Department": "The American Wing",
+    "AccessionYear": 1906.0,
+    "Object Name": "Painting",
+    "Title": "William Cullen Bryant",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 268.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Thomas Le Clear",
+    "Artist Display Bio": "1818–1882",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Le Clear, Thomas",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1818",
+    "Artist End Date": "1882",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500125339",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q7791757",
+    "Object Date": "1876 (?)",
+    "Object Begin Date": 1876,
+    "Object End Date": 1876,
+    "Medium": "Oil on canvas",
+    "Dimensions": "27 3/8 x 22 1/4in. (69.5 x 56.5cm)\r\nFramed: 34 7/16 x 29 5/16 x 3 1/8 in. (87.5 x 74.5 x 8 cm)",
+    "Credit Line": "Rogers Fund, 1906",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/11411",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19923880",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/ap06.1323.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 2684,
+        "role": "Artist",
+        "name": "Thomas Le Clear",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500125339",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q7791757",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 69.5,
+          "Width": 56.5
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 8,
+          "Height": 87.5,
+          "Width": 74.5
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "object_id": 10464,
+  "excel_metadata": {
+    "Object Number": "67.187.123",
+    "Is Highlight": true,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 10464,
+    "Gallery Number": NaN,
+    "Department": "The American Wing",
+    "AccessionYear": 1967.0,
+    "Object Name": "Painting",
+    "Title": "At the Seaside",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16176.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "William Merritt Chase",
+    "Artist Display Bio": "American, Williamsburg, Indiana 1849–1916 New York",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Chase, William Merritt",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1849",
+    "Artist End Date": "1916",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500115356",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q265820",
+    "Object Date": "ca. 1892",
+    "Object Begin Date": 1889,
+    "Object End Date": 1892,
+    "Medium": "Oil on canvas",
+    "Dimensions": "20 × 34 in. (50.8 × 86.4 cm)\r\n",
+    "Credit Line": "Bequest of Miss Adelaide Milton de Groot (1876-1967), 1967",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/10464",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19924646",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Summer|Beaches|Seascapes",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300133099|http://vocab.getty.edu/page/aat/300008816|http://vocab.getty.edu/page/aat/300117546",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q1313|https://www.wikidata.org/wiki/Q40080|https://www.wikidata.org/wiki/Q158607"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DT95.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 161767,
+        "role": "Artist",
+        "name": "William Merritt Chase",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115356",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q265820",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 50.8,
+          "Width": 86.4
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 10,
+          "Height": 74.3,
+          "Width": 109.5
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Beaches",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300008816",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q40080"
+      },
+      {
+        "term": "Seascapes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300117546",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q158607"
+      },
+      {
+        "term": "Summer",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300133099",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q1313"
+      }
+    ]
+  }
+}

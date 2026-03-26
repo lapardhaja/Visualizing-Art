@@ -1,0 +1,119 @@
+{
+  "object_id": 12802,
+  "excel_metadata": {
+    "Object Number": "1984.252.1",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 12802,
+    "Gallery Number": NaN,
+    "Department": "The American Wing",
+    "AccessionYear": 1984.0,
+    "Object Name": "Painting",
+    "Title": "Summer Flowers",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 295.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Jerome B. Thompson",
+    "Artist Display Bio": "1814–1886",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Thompson, Jerome B.",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1814",
+    "Artist End Date": "1886",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500001254",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q11724276",
+    "Object Date": "1859",
+    "Object Begin Date": 1859,
+    "Object End Date": 1859,
+    "Medium": "Oil on canvas",
+    "Dimensions": "36 x 23 1/2 in. (91.4 x 59.7 cm)",
+    "Credit Line": "Gift of Madeleine T. Edmonds, 1984",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/12802",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20171336",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Children|Men|Women|Landscapes|Houses",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025945|http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/aat/300132294|http://vocab.getty.edu/page/aat/300005433",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q7569|https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q191163|https://www.wikidata.org/wiki/Q3947"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/ap1984.252.1.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 2958,
+        "role": "Artist",
+        "name": "Jerome B. Thompson",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500001254",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q11724276",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 12.8,
+          "Height": 86.1,
+          "Width": 117.6
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 91.4,
+          "Width": 59.7
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Houses",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300005433",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3947"
+      },
+      {
+        "term": "Children",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025945",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q7569"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Landscapes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+      }
+    ]
+  }
+}

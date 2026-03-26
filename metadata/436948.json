@@ -1,0 +1,119 @@
+{
+  "object_id": 436948,
+  "excel_metadata": {
+    "Object Number": "89.21.2",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436948,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1889.0,
+    "Object Name": "Painting",
+    "Title": "Boy with a Sword",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16209.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Edouard Manet",
+    "Artist Display Bio": "French, Paris 1832–1883 Paris",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Manet, Edouard",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1832",
+    "Artist End Date": "1883",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500010363",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q40599",
+    "Object Date": "1861",
+    "Object Begin Date": 1861,
+    "Object End Date": 1861,
+    "Medium": "Oil on canvas",
+    "Dimensions": "51 5/8 x 36 3/4 in. (131.1 x 93.4 cm)",
+    "Credit Line": "Gift of Erwin Davis, 1889",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436948",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q1844748",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Swords|Boys|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300037048|http://vocab.getty.edu/page/aat/300247598|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q12791|https://www.wikidata.org/wiki/Q3010|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-14936-027.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-davis_letter.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 162094,
+        "role": "Artist",
+        "name": "Edouard Manet",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500010363",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q40599",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Glazing",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 131.76276,
+          "Width": 94.29769
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 131.1,
+          "Width": 93.3
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 10.16,
+          "Height": 157.4803,
+          "Width": 120.0152
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Swords",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300037048",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q12791"
+      },
+      {
+        "term": "Boys",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300247598",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3010"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

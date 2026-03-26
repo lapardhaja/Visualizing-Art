@@ -1,0 +1,105 @@
+{
+  "object_id": 193975,
+  "excel_metadata": {
+    "Object Number": "17.190.1351a–c",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 193975,
+    "Gallery Number": NaN,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1917.0,
+    "Object Name": "Souvenir, painting",
+    "Title": "Souvenir",
+    "Culture": "French, Paris",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16354.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": "Miniatures in the manner of",
+    "Artist Display Name": "Jacques Joseph de Gault ",
+    "Artist Display Bio": "French, 1738–after 1812",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Gault, Jacques Joseph de",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1738",
+    "Artist End Date": "1812",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500405372",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q21997158",
+    "Object Date": "1789",
+    "Object Begin Date": 1789,
+    "Object End Date": 1789,
+    "Medium": "Gold, mother-of-pearl, enamel; ivory",
+    "Dimensions": "3 5/8 × 2 1/8 in. (9.2 × 5.4 cm)",
+    "Credit Line": "Gift of J. Pierpont Morgan, 1917",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Metalwork-Gold and Platinum|Miniatures",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/193975",
+    "Object Wikidata URL": NaN,
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Female Nudes|Dancing|Cupid|Angels",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300189568|http://vocab.getty.edu/page/aat/300389779|http://vocab.getty.edu/page/aat/300380105|http://vocab.getty.edu/page/aat/300379004",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q40446|https://www.wikidata.org/wiki/Q43393537|https://www.wikidata.org/wiki/Q5011|https://www.wikidata.org/wiki/Q235113"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/39007.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 163543,
+        "role": "Artist",
+        "name": "Miniatures in the manner of Jacques Joseph de Gault ",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500405372",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q21997158",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 9.207519,
+          "Width": 5.397511
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Female Nudes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300189568",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q40446"
+      },
+      {
+        "term": "Dancing",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300389779",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q43393537"
+      },
+      {
+        "term": "Cupid",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300380105",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q5011"
+      },
+      {
+        "term": "Angels",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379004",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q235113"
+      }
+    ]
+  }
+}

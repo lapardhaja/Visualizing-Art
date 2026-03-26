@@ -1,0 +1,104 @@
+{
+  "object_id": 436427,
+  "excel_metadata": {
+    "Object Number": "71.45",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 436427,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1871.0,
+    "Object Name": "Painting",
+    "Title": "A Partridge and Small Game Birds",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10767.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Jan Fyt",
+    "Artist Display Bio": "Flemish, 1611–1661",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Fyt, Jan",
+    "Artist Nationality": "Flemish",
+    "Artist Begin Date": "1611",
+    "Artist End Date": "1661",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500115452",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q624802",
+    "Object Date": "1650s",
+    "Object Begin Date": 1650,
+    "Object End Date": 1659,
+    "Medium": "Oil on canvas",
+    "Dimensions": "18 1/4 x 14 1/4 in. (46.4 x 36.2 cm)",
+    "Credit Line": "Purchase, 1871",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436427",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19913057",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Birds|Still Life",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300266506|http://vocab.getty.edu/page/aat/300015638",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q5113|https://www.wikidata.org/wiki/Q170571"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP104991.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 107678,
+        "role": "Artist",
+        "name": "Jan Fyt",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115452",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q624802",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 46.4,
+          "Width": 36.2
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 7.620015,
+          "Height": 63.500126,
+          "Width": 53.340107
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Birds",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300266506",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q5113"
+      },
+      {
+        "term": "Still Life",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015638",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q170571"
+      }
+    ]
+  }
+}

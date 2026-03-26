@@ -1,0 +1,105 @@
+{
+  "object_id": 437014,
+  "excel_metadata": {
+    "Object Number": "65.181.5",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437014,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1965.0,
+    "Object Name": "Painting",
+    "Title": "Madonna and Child with the Donor, Pietro de' Lardi, Presented by Saint Nicholas",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10801.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Master G.Z. (possibly Michele dai Carri, Italian, Ferrara, active by 1405–died 1441 Ferrara)",
+    "Artist Display Bio": " ",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Master G.Z.",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1405",
+    "Artist End Date": "1441",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "(not assigned)",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q21850319",
+    "Object Date": "ca. 1420–30",
+    "Object Begin Date": 1420,
+    "Object End Date": 1430,
+    "Medium": "Tempera and gold on wood",
+    "Dimensions": "Overall 45 7/8 x 43 5/8 in. (116.5 x 110.8 cm); painted surface 44 1/8 x 41 3/4 in. (112.1 x 106 cm)",
+    "Credit Line": "Bequest of Adele L. Lehman, in memory of Arthur Lehman, 1965",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437014",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19911674",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Madonna and Child|Coat of Arms|Saint Nicholas",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/ia/901000052|http://vocab.getty.edu/page/aat/300126352|http://vocab.getty.edu/page/ulan/500353854",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q9309699|https://www.wikidata.org/wiki/Q14659|https://www.wikidata.org/wiki/Q44269"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT255392.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 108011,
+        "role": "Artist",
+        "name": "Master G.Z. (possibly Michele dai Carri, Italian, Ferrara, active by 1405–died 1441 Ferrara)",
+        "constituentULAN_URL": "(not assigned)",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q21850319",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 116.5,
+          "Width": 110.8
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Madonna and Child",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000052",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q9309699"
+      },
+      {
+        "term": "Coat of Arms",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300126352",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q14659"
+      },
+      {
+        "term": "Saint Nicholas",
+        "AAT_URL": "http://vocab.getty.edu/page/ulan/500353854",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q44269"
+      }
+    ]
+  }
+}

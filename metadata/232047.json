@@ -1,0 +1,134 @@
+{
+  "object_id": 232047,
+  "excel_metadata": {
+    "Object Number": "2006.113a–c",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 232047,
+    "Gallery Number": 556,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 2006,
+    "Object Name": "Bust",
+    "Title": "Woman of Algiers [originally titled \"The Jewish Woman of Algiers\"]",
+    "Culture": "French, Paris",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 442774492,
+    "Artist Role": "Artist|Maker",
+    "Artist Prefix": " |Pedestal attributed to designs by",
+    "Artist Display Name": "Charles-Henri-Joseph Cordier|Charles-François Rossigneux",
+    "Artist Display Bio": "French, 1827–1905|French, 1818–afer 1909",
+    "Artist Suffix": " | ",
+    "Artist Alpha Sort": "Cordier Charles-Henri-Joseph|Rossigneux Charles-François",
+    "Artist Nationality": "French|French",
+    "Artist Begin Date": "1827      |1818      ",
+    "Artist End Date": "1905      |1909      ",
+    "Artist Gender": "|",
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500062076|",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q714875|",
+    "Object Date": 1862,
+    "Object Begin Date": 1862,
+    "Object End Date": 1862,
+    "Medium": "Algerian onyx-marble, bronze, gilt bronze, enamel, and amethyst eyes; white marble socle",
+    "Dimensions": "Overall on socle (confirmed): H. 35 1/2 x W. 25 1/4 x D. 13 3/4 in., 265lb. (90.2 x 64.1 x 34.9 cm, 120.2032kg) [Weight breakdown: head 37 lbs, marble bust 228 lbs; marble socle 100.7 lbs]; Pedestal (confirmed): H. 41 3/8 x W. 18 1/4 x D. 18 1/4 x 11 3/4 in., 551.2lb. (105.1 x 46.4 x 46.4 x 29.8 cm, 250kg)",
+    "Credit Line": "European Sculpture and Decorative Arts Fund, 2006",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Sculpture",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/232047",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q116250450",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP250149.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/DP137401.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP250150.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 44277,
+        "role": "Artist",
+        "name": "Charles-Henri-Joseph Cordier",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500062076",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q714875",
+        "gender": ""
+      },
+      {
+        "constituentID": 44925,
+        "role": "Maker",
+        "name": "Pedestal attributed to designs by Charles-François Rossigneux",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Pedestal",
+        "elementDescription": "confirmed",
+        "elementMeasurements": {
+          "(not specified)": 29.8451,
+          "Depth": 46.35509,
+          "Height": 105.0927,
+          "Weight": 250,
+          "Width": 46.3551
+        }
+      },
+      {
+        "elementName": "Stand",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 37.1476,
+          "Height": 17.145,
+          "Weight": 45.6772,
+          "Width": 37.1476
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": "confirmed",
+        "elementMeasurements": {
+          "Depth": 34.92507,
+          "Height": 90.17018,
+          "Weight": 120.20321,
+          "Width": 64.13513
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": "historic dimensions, superceded",
+        "elementMeasurements": {
+          "Depth": 27.9401,
+          "Height": 99.3777,
+          "Weight": 120.2032,
+          "Width": 60.9601
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

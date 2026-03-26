@@ -1,0 +1,94 @@
+{
+  "object_id": 764089,
+  "excel_metadata": {
+    "Object Number": "2018.836.1",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": false,
+    "Object ID": 764089,
+    "Gallery Number": 757.0,
+    "Department": "The American Wing",
+    "AccessionYear": 2018.0,
+    "Object Name": "Painting",
+    "Title": "Emblem of Folly",
+    "Culture": "Peru (Cuzco)",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 7631516998.0,
+    "Artist Role": "Artist|Artist",
+    "Artist Prefix": "After| ",
+    "Artist Display Name": "Boetius Adams Bolswert|Unknown",
+    "Artist Display Bio": "Netherlandish, Bolsward ca. 1580–1633 Brussels| ",
+    "Artist Suffix": " |artist, Peru (Cuzco)",
+    "Artist Alpha Sort": "Bolswert, Boetius Adams|Unknown",
+    "Artist Nationality": "Netherlandish| ",
+    "Artist Begin Date": "1580      |          ",
+    "Artist End Date": "1633      |          ",
+    "Artist Gender": "|",
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500023653|http://vocab.getty.edu/page/ulan/500125274",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q2121061|https://www.wikidata.org/wiki/Q24238356",
+    "Object Date": "18th Century",
+    "Object Begin Date": 1700,
+    "Object End Date": 1799,
+    "Medium": "Oil on canvas",
+    "Dimensions": "49 5/8 × 43 5/16 in. (126 × 110 cm)",
+    "Credit Line": "Gift of Clifford Ming Teh Li, in honor of James Kung Wei Li and Julie Chu Lu Li, 2018",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/764089",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q116444997",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": NaN,
+    "Tags AAT URL": NaN,
+    "Tags Wikidata URL": NaN
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DP-30708-001.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ad/original/DP-30708-002.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 169986,
+        "role": "Artist",
+        "name": "Unknown",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500125274",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q24238356",
+        "gender": ""
+      },
+      {
+        "constituentID": 76315,
+        "role": "Artist",
+        "name": "After Boetius Adams Bolswert",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500023653",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q2121061",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 126,
+          "Width": 110
+        }
+      }
+    ],
+    "tags": null
+  }
+}

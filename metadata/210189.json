@@ -1,0 +1,109 @@
+{
+  "object_id": 210189,
+  "excel_metadata": {
+    "Object Number": "1981.279.2",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 210189,
+    "Gallery Number": 512,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1981,
+    "Object Name": "Snuffbox",
+    "Title": "Snuffbox",
+    "Culture": "British, Bilston, South Staffordshire",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": null,
+    "Artist Role": null,
+    "Artist Prefix": null,
+    "Artist Display Name": null,
+    "Artist Display Bio": null,
+    "Artist Suffix": null,
+    "Artist Alpha Sort": null,
+    "Artist Nationality": null,
+    "Artist Begin Date": null,
+    "Artist End Date": null,
+    "Artist Gender": null,
+    "Artist ULAN URL": null,
+    "Artist Wikidata URL": null,
+    "Object Date": "ca. 1760–61",
+    "Object Begin Date": 1755,
+    "Object End Date": 1766,
+    "Medium": "Enameled copper",
+    "Dimensions": "Overall (confirmed): 2 1/4 × 2 3/4 × 2 1/16 in. (5.7 × 7 × 5.2 cm)",
+    "Credit Line": "Bequest of Louise Coleman, 1981",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Enamels-Painted",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/210189",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q116401100",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Birds|Fruit|Flowers|Trees",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300266506|http://vocab.getty.edu/page/aat/300011868|http://vocab.getty.edu/page/aat/300132399|http://vocab.getty.edu/page/aat/300132410",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q5113|https://www.wikidata.org/wiki/Q1364|https://www.wikidata.org/wiki/Q506|https://www.wikidata.org/wiki/Q10884"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP-17012-021.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/DP-17012-022.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP-17012-043.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 39327,
+        "role": "Engraver",
+        "name": "parrot and fruit on base possibly after Robert Hancock",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500143867",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q17309113",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": "confirmed",
+        "elementMeasurements": {
+          "Depth": 5.2387605,
+          "Height": 5.7,
+          "Width": 7
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Birds",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300266506",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q5113"
+      },
+      {
+        "term": "Fruit",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300011868",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q1364"
+      },
+      {
+        "term": "Flowers",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132399",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q506"
+      },
+      {
+        "term": "Trees",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132410",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q10884"
+      }
+    ]
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "object_id": 11437,
+  "excel_metadata": {
+    "Object Number": "11.33",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 11437,
+    "Gallery Number": NaN,
+    "Department": "The American Wing",
+    "AccessionYear": 1911.0,
+    "Object Name": "Painting",
+    "Title": "Peonies",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 269.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Wilton Lockwood",
+    "Artist Display Bio": "1861–1914",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Lockwood, Wilton",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1861",
+    "Artist End Date": "1914",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500017121",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q8023386",
+    "Object Date": "ca. 1910",
+    "Object Begin Date": 1907,
+    "Object End Date": 1910,
+    "Medium": "Oil on canvas",
+    "Dimensions": "30 x 30 1/8 in. (76.2 x 76.5 cm)",
+    "Credit Line": "George A. Hearn Fund, 1911",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/11437",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19930596",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Still Life|Peonies",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300015638|http://vocab.getty.edu/page/aat/300380052",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q170571|https://www.wikidata.org/wiki/Q147105"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/ap11.33.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 2696,
+        "role": "Artist",
+        "name": "Wilton Lockwood",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500017121",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q8023386",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 76.2,
+          "Width": 76.5
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Peonies",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300380052",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q147105"
+      },
+      {
+        "term": "Still Life",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015638",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q170571"
+      }
+    ]
+  }
+}

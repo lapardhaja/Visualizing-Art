@@ -1,0 +1,99 @@
+{
+  "object_id": 436195,
+  "excel_metadata": {
+    "Object Number": "17.120.230",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436195,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1917.0,
+    "Object Name": "Painting",
+    "Title": "A Vista through Trees: Fontainebleau",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16183.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Narcisse-Virgile Diaz de la Peña",
+    "Artist Display Bio": "French, Bordeaux 1808–1876 Menton",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Diaz de la Peña, Narcisse-Virgile",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1808",
+    "Artist End Date": "1876",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500008285",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q724140",
+    "Object Date": "1873",
+    "Object Begin Date": 1873,
+    "Object End Date": 1873,
+    "Medium": "Oil on wood",
+    "Dimensions": "12 3/4 x 17 1/4 in. (32.4 x 43.8 cm)",
+    "Credit Line": "Mr. and Mrs. Isaac D. Fletcher Collection, Bequest of Isaac D. Fletcher, 1917",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436195",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19913389",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Forests",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300387598",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q4421"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP366369.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 161832,
+        "role": "Artist",
+        "name": "Narcisse-Virgile Diaz de la Peña",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500008285",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q724140",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 32.4,
+          "Width": 43.8
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 6.35,
+          "Height": 46.9901,
+          "Width": 59.6901
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Forests",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300387598",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q4421"
+      }
+    ]
+  }
+}

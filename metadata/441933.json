@@ -1,0 +1,108 @@
+{
+  "object_id": 441933,
+  "excel_metadata": {
+    "Object Number": "2012.203",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 441933,
+    "Gallery Number": 829.0,
+    "Department": "European Paintings",
+    "AccessionYear": 2012.0,
+    "Object Name": "Painting",
+    "Title": "Moonlight, Strandgade 30",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16522.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Vilhelm Hammershøi",
+    "Artist Display Bio": "Danish, Copenhagen 1864–1916 Copenhagen",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Hammershøi, Vilhelm",
+    "Artist Nationality": "Danish",
+    "Artist Begin Date": "1864",
+    "Artist End Date": "1916",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500000827",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q380706",
+    "Object Date": "1900–1906",
+    "Object Begin Date": 1900,
+    "Object End Date": 1906,
+    "Medium": "Oil on canvas",
+    "Dimensions": "16 1/8 x 20 1/8 in. (41 x 51.1 cm)",
+    "Credit Line": "Purchase, European Paintings Funds, and Annette de la Renta Gift, 2012",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/441933",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20168270",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Doors|Windows|Interiors",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300002803|http://vocab.getty.edu/page/aat/300002944|http://vocab.getty.edu/page/aat/300391239",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q36794|https://www.wikidata.org/wiki/Q35473|https://www.wikidata.org/wiki/Q2998430"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP273105.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 165225,
+        "role": "Artist",
+        "name": "Vilhelm Hammershøi",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500000827",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q380706",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 40.95758,
+          "Width": 51.117603
+        }
+      },
+      {
+        "elementName": "Glazing",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 42.227585,
+          "Width": 53.022606
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Doors",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300002803",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q36794"
+      },
+      {
+        "term": "Windows",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300002944",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q35473"
+      },
+      {
+        "term": "Interiors",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300391239",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q2998430"
+      }
+    ]
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "object_id": 701989,
+  "excel_metadata": {
+    "Object Number": "2016.116",
+    "Is Highlight": true,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 701989,
+    "Gallery Number": 723.0,
+    "Department": "The American Wing",
+    "AccessionYear": 2016.0,
+    "Object Name": "Painting",
+    "Title": "Emma Van Name",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16477.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Joshua Johnson",
+    "Artist Display Bio": "American, ca. 1763–ca. 1824",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Johnson, Joshua",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1758",
+    "Artist End Date": "1829",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500121295",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q958068",
+    "Object Date": "ca. 1805",
+    "Object Begin Date": 1805,
+    "Object End Date": 1805,
+    "Medium": "Oil on canvasPainting",
+    "Dimensions": "29 × 23 in. (73.7 × 58.4 cm)",
+    "Credit Line": "Purchase, Nancy Dunn Revocable Trust Gift, 2016",
+    "Geography Type": "Made in",
+    "City": "Baltimore",
+    "State": NaN,
+    "County": NaN,
+    "Country": "United States",
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/701989",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q28811053",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Girls|Portraits|Strawberries|Goblets",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300247581|http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300375414|http://vocab.getty.edu/page/aat/300043236",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q3031|https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q745|https://www.wikidata.org/wiki/Q18451251"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DP-952-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 164777,
+        "role": "Artist",
+        "name": "Joshua Johnson",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500121295",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q958068",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 73.66015,
+          "Width": 58.420116
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Strawberries",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300375414",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q745"
+      },
+      {
+        "term": "Girls",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300247581",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3031"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Goblets",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300043236",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q18451251"
+      }
+    ]
+  }
+}

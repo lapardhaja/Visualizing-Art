@@ -1,0 +1,104 @@
+{
+  "object_id": 437647,
+  "excel_metadata": {
+    "Object Number": "49.114",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437647,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1949.0,
+    "Object Name": "Painting",
+    "Title": "Spring in Brittany",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10829.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Paul Sébillot",
+    "Artist Display Bio": "French, Matignon 1843–1918 Paris",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Sébillot, Paul",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1843",
+    "Artist End Date": "1918",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500092669",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q1352158",
+    "Object Date": "1874",
+    "Object Begin Date": 1874,
+    "Object End Date": 1874,
+    "Medium": "Oil on wood",
+    "Dimensions": "14 x 10 3/4 in. (35.6 x 27.3 cm)",
+    "Credit Line": "Gift of Paul-Yves Sébillot, 1949",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437647",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19913448",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Landscapes|Spring",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300132294|http://vocab.getty.edu/page/aat/300133097",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q191163|https://www.wikidata.org/wiki/Q1312"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-17429-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 108298,
+        "role": "Artist",
+        "name": "Paul Sébillot",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500092669",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1352158",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 35.6,
+          "Width": 27.3
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 6.6675134,
+          "Height": 55.88011,
+          "Width": 47.942596
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Landscapes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+      },
+      {
+        "term": "Spring",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300133097",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q1312"
+      }
+    ]
+  }
+}

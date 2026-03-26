@@ -1,0 +1,104 @@
+{
+  "object_id": 201433,
+  "excel_metadata": {
+    "Object Number": "52.189.2",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 201433,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1952,
+    "Object Name": "Medallion",
+    "Title": "Marie Antoinette, Queen of France",
+    "Culture": "French, Chaumont-sur-Loire",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 16427,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Jean-Baptiste Nini",
+    "Artist Display Bio": "Italian, Urbino 1717–1786 Chaumont-sur-Loire",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Nini, Jean-Baptiste",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": 1717,
+    "Artist End Date": 1786,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500109368",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q3164318",
+    "Object Date": 1780,
+    "Object Begin Date": 1780,
+    "Object End Date": 1780,
+    "Medium": "Cast terracotta (terre de Chaumont); wood frame",
+    "Dimensions": "Diameter (without frame): 6 1/8 in. (15.6 cm)",
+    "Credit Line": "Gift of James Hazen Hyde, 1952",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Sculpture-Miniature",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/201433",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Queens|Profiles|Marie Antoinette|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025483|http://vocab.getty.edu/page/aat/300123319|http://vocab.getty.edu/page/ulan/500122363|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q16511993|https://www.wikidata.org/wiki/Q4382010|https://www.wikidata.org/wiki/Q47365|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/154393.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 164273,
+        "role": "Artist",
+        "name": "Jean-Baptiste Nini",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500109368",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3164318",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Diameter",
+        "elementDescription": "without frame",
+        "elementMeasurements": {
+          "Diameter": 15.557531
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Marie Antoinette",
+        "AAT_URL": "http://vocab.getty.edu/page/ulan/500122363",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q47365"
+      },
+      {
+        "term": "Queens",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025483",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q16511993"
+      },
+      {
+        "term": "Profiles",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300123319",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q4382010"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

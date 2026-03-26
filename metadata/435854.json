@@ -1,0 +1,95 @@
+{
+  "object_id": 435854,
+  "excel_metadata": {
+    "Object Number": "49.122.2",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 435854,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1949.0,
+    "Object Name": "Painting, miniature",
+    "Title": "Portrait of a Man",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16175.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Rosalba Carriera",
+    "Artist Display Bio": "Italian, Venice 1673–1757 Venice",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Carriera, Rosalba",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1673",
+    "Artist End Date": "1757",
+    "Artist Gender": "Female",
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500115351",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q237726",
+    "Object Date": "ca. 1710",
+    "Object Begin Date": 1705,
+    "Object End Date": 1715,
+    "Medium": "Ivory",
+    "Dimensions": "Oval, 3 x 2 1/4 in. (76 x 59 mm)",
+    "Credit Line": "Rogers Fund, 1949",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Miniatures",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/435854",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19913749",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT200586.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 161750,
+        "role": "Artist",
+        "name": "Rosalba Carriera",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115351",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q237726",
+        "gender": "Female"
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 7.6,
+          "Width": 5.7
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "object_id": 822852,
+  "excel_metadata": {
+    "Object Number": "2019.123",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 822852,
+    "Gallery Number": NaN,
+    "Department": "Asian Art",
+    "AccessionYear": 2019.0,
+    "Object Name": "Painting",
+    "Title": NaN,
+    "Culture": "India, Udaipur, Mewar, Rajasthan",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 20774.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Ambav",
+    "Artist Display Bio": "Indian, active 1860s",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Ambav",
+    "Artist Nationality": "Indian",
+    "Artist Begin Date": "1860",
+    "Artist End Date": "1869",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": NaN,
+    "Artist Wikidata URL": NaN,
+    "Object Date": "ca. 1868",
+    "Object Begin Date": 1858,
+    "Object End Date": 1878,
+    "Medium": "Opaque watercolor with gold on paper, inscribed in devanagari on the reverse",
+    "Dimensions": "Image: 8 3/4 × 11 15/16 in. (22.3 × 30.3 cm)\r\nSheet: 10 × 13 5/16 in. (25.4 × 33.9 cm)",
+    "Credit Line": "Cynthia Hazen Polsky and Leon B. Polsky Fund, 2019",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/822852",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q78607477",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": NaN,
+    "Tags AAT URL": NaN,
+    "Tags Wikidata URL": NaN
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/as/original/DP-18170-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 207742,
+        "role": "Artist",
+        "name": "Ambav",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Image",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 22.3,
+          "Width": 30.3
+        }
+      },
+      {
+        "elementName": "Sheet",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 25.400051,
+          "Width": 33.866734
+        }
+      }
+    ],
+    "tags": null
+  }
+}

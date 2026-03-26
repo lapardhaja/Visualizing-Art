@@ -1,0 +1,104 @@
+{
+  "object_id": 11264,
+  "excel_metadata": {
+    "Object Number": "47.128",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 11264,
+    "Gallery Number": 774.0,
+    "Department": "The American Wing",
+    "AccessionYear": 1947.0,
+    "Object Name": "Painting",
+    "Title": "Lewis Einstein",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16201.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Eastman Johnson",
+    "Artist Display Bio": "American, Lovell, Maine 1824–1906 New York",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Johnson, Eastman",
+    "Artist Nationality": "American ",
+    "Artist Begin Date": "1824",
+    "Artist End Date": "1906",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500008685",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q1278282",
+    "Object Date": "1882",
+    "Object Begin Date": 1882,
+    "Object End Date": 1882,
+    "Medium": "Oil on canvas",
+    "Dimensions": "54 x 40 in. (137.2 x 101.6 cm)",
+    "Credit Line": "Gift of the Honorable Lewis Einstein, 1947",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/11264",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19923850",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Portraits|Boys",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300247598",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q3010"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/ap47.128.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162014,
+        "role": "Artist",
+        "name": "Eastman Johnson",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500008685",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1278282",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 137.2,
+          "Width": 101.6
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 8.5,
+          "Height": 168,
+          "Width": 133
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Boys",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300247598",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3010"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

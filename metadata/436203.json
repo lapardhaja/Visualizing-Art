@@ -1,0 +1,95 @@
+{
+  "object_id": 436203,
+  "excel_metadata": {
+    "Object Number": "06.1335.1b",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436203,
+    "Gallery Number": 507.0,
+    "Department": "European Paintings",
+    "AccessionYear": 1906.0,
+    "Object Name": "Painting, ceiling decoration",
+    "Title": "Dawn",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16184.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Gaspare Diziani",
+    "Artist Display Bio": "Italian, Belluno 1689–1767 Venice",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Diziani, Gaspare",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1689",
+    "Artist End Date": "1767",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500018106",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q744250",
+    "Object Date": NaN,
+    "Object Begin Date": 1709,
+    "Object End Date": 1767,
+    "Medium": "Oil on canvas",
+    "Dimensions": "78 x 94 1/2 in. (198.1 x 240 cm)",
+    "Credit Line": "Rogers Fund, 1906",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436203",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912495",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Dawn|Putti",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300343621|http://vocab.getty.edu/page/aat/300250465",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q11326182|https://www.wikidata.org/wiki/Q284865"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT11667.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 161840,
+        "role": "Artist",
+        "name": "Gaspare Diziani",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500018106",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q744250",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 198.1,
+          "Width": 240
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Putti",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250465",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q284865"
+      },
+      {
+        "term": "Dawn",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300343621",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q11326182"
+      }
+    ]
+  }
+}

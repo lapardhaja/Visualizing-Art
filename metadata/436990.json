@@ -1,0 +1,106 @@
+{
+  "object_id": 436990,
+  "excel_metadata": {
+    "Object Number": "1981.365.1",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436990,
+    "Gallery Number": 537.0,
+    "Department": "European Paintings",
+    "AccessionYear": 1981.0,
+    "Object Name": "Painting",
+    "Title": "The Martyrdom of Saint Lawrence; (reverse) Giving Drink to the Thirsty",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16542.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Master of the Acts of Mercy",
+    "Artist Display Bio": "Austrian, Salzburg, ca. 1465",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Master of the Acts of Mercy",
+    "Artist Nationality": "Austrian",
+    "Artist Begin Date": "1460",
+    "Artist End Date": "1470",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500005656",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q1277376",
+    "Object Date": NaN,
+    "Object Begin Date": 1460,
+    "Object End Date": 1470,
+    "Medium": "Oil on fir, (obverse) gold ground",
+    "Dimensions": "Painted surface 29 x 18 3/8 in. (73.7 x 46.7 cm)",
+    "Credit Line": "Gift of The Jack and Belle Linsky Foundation, 1981",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436990",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19911480",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Suffering|Men|Saint Lawrence",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300055184|http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/ia/901001055",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q5780945|https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q17590"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT8702.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/DT8703.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/GermanCat44_IRR_Martyrdom.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/GermanCat44_Xray.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/GermanCat44_IRR_GivingDrink.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/GermanCat44_IRR_GivingDrink_Detail.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 165425,
+        "role": "Artist",
+        "name": "Master of the Acts of Mercy",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500005656",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1277376",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 73.7,
+          "Width": 46.7
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Suffering",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300055184",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q5780945"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Saint Lawrence",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901001055",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q17590"
+      }
+    ]
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "object_id": 437849,
+  "excel_metadata": {
+    "Object Number": "49.7.17",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 437849,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1949.0,
+    "Object Name": "Painting",
+    "Title": "The Flight into Egypt",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16257.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Cosmè Tura (Cosimo di Domenico di Bonaventura)",
+    "Artist Display Bio": "Italian, Ferrara ca. 1433–1495 Ferrara",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Tura, Cosmè (Cosimo di Domenico di Bonaventura)",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1433",
+    "Artist End Date": "1495",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500022434",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q7129",
+    "Object Date": "1470s",
+    "Object Begin Date": 1470,
+    "Object End Date": 1479,
+    "Medium": "Tempera on wood",
+    "Dimensions": "Overall, with corners made up, 15 5/8 x 15 1/8 in. (39.7 x 38.4 cm); painted surface, diameter 15 1/4 in. (38.7 cm)",
+    "Credit Line": "The Jules Bache Collection, 1949",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437849",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19911686",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Donkeys|Virgin Mary|Jesus|Flight Into Egypt|Joseph",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300265959|http://vocab.getty.edu/page/ia/901000032|http://vocab.getty.edu/page/ia/901000087|http://vocab.getty.edu/page/ia/901000391|http://vocab.getty.edu/page/ia/901000953",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q3537778|https://www.wikidata.org/wiki/Q345|https://www.wikidata.org/wiki/Q302|https://www.wikidata.org/wiki/Q837143|https://www.wikidata.org/wiki/Q128267"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-19503-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162572,
+        "role": "Artist",
+        "name": "Cosmè Tura (Cosimo di Domenico di Bonaventura)",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500022434",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q7129",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 39.7,
+          "Width": 38.4
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 17.78,
+          "Height": 80.0102,
+          "Width": 72.3901
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Donkeys",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300265959",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3537778"
+      },
+      {
+        "term": "Virgin Mary",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000032",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q345"
+      },
+      {
+        "term": "Jesus",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q302"
+      },
+      {
+        "term": "Flight Into Egypt",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000391",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q837143"
+      },
+      {
+        "term": "Joseph",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000953",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q128267"
+      }
+    ]
+  }
+}

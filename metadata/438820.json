@@ -1,0 +1,129 @@
+{
+  "object_id": 438820,
+  "excel_metadata": {
+    "Object Number": "40.175",
+    "Is Highlight": true,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 438820,
+    "Gallery Number": 812.0,
+    "Department": "European Paintings",
+    "AccessionYear": 1940.0,
+    "Object Name": "Painting",
+    "Title": "Young Ladies of the Village",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16179.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Gustave Courbet",
+    "Artist Display Bio": "French, Ornans 1819–1877 La Tour-de-Peilz",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Courbet, Gustave",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1819",
+    "Artist End Date": "1877",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500010927",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q34618",
+    "Object Date": "1851–52",
+    "Object Begin Date": 1851,
+    "Object End Date": 1852,
+    "Medium": "Oil on canvas",
+    "Dimensions": "76 3/4 x 102 3/4 in. (194.9 x 261 cm)",
+    "Credit Line": "Gift of Harry Payne Bingham, 1940",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/438820",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19911495",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Baskets|Landscapes|Parasols|Girls|Women|Cows|Dogs",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300194498|http://vocab.getty.edu/page/aat/300132294|http://vocab.getty.edu/page/aat/300046218|http://vocab.getty.edu/page/aat/300247581|http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/aat/300250120|http://vocab.getty.edu/page/aat/300265714",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q201097|https://www.wikidata.org/wiki/Q191163|https://www.wikidata.org/wiki/Q1762975|https://www.wikidata.org/wiki/Q3031|https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q830|https://www.wikidata.org/wiki/Q144"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT1967.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 161790,
+        "role": "Artist",
+        "name": "Gustave Courbet",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500010927",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q34618",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 15.24,
+          "Height": 233.0455,
+          "Width": 296.5456
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 194.9454,
+          "Width": 260.9855
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Girls",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300247581",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3031"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Cows",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250120",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q830"
+      },
+      {
+        "term": "Dogs",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300265714",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q144"
+      },
+      {
+        "term": "Landscapes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+      },
+      {
+        "term": "Baskets",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300194498",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q201097"
+      },
+      {
+        "term": "Parasols",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300046218",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q1762975"
+      }
+    ]
+  }
+}

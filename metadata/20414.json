@@ -1,0 +1,92 @@
+{
+  "object_id": 20414,
+  "excel_metadata": {
+    "Object Number": "2009.243",
+    "Is Highlight": true,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 20414,
+    "Gallery Number": NaN,
+    "Department": "The American Wing",
+    "AccessionYear": 2009.0,
+    "Object Name": "Painting, miniature",
+    "Title": "Eye of Maria Miles Heyward",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 153.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Edward Greene Malbone",
+    "Artist Display Bio": "1777–1807",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Malbone, Edward Greene",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1777",
+    "Artist End Date": "1807",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500023492",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q1292928",
+    "Object Date": "ca. 1802",
+    "Object Begin Date": 1797,
+    "Object End Date": 1807,
+    "Medium": "Watercolor on ivory",
+    "Dimensions": "3/8 in. (1 cm)",
+    "Credit Line": "Dale T. Johnson Fund, 2009",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/20414",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20177846",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Eyes",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300400484",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q7364"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DP-40088-001.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ad/original/DP218200.jpg",
+      "https://images.metmuseum.org/CRDImages/ad/original/DP-41259-001.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 1530,
+        "role": "Artist",
+        "name": "Edward Greene Malbone",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500023492",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1292928",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 0.9525019
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Eyes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300400484",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q7364"
+      }
+    ]
+  }
+}

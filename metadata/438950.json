@@ -1,0 +1,100 @@
+{
+  "object_id": 438950,
+  "excel_metadata": {
+    "Object Number": "2007.164.5",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 438950,
+    "Gallery Number": 802.0,
+    "Department": "European Paintings",
+    "AccessionYear": 2007.0,
+    "Object Name": "Painting",
+    "Title": "A Storm off the Normandy Coast",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 3651.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Eugène Isabey",
+    "Artist Display Bio": "French, Paris 1803–1886 Lagny",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Isabey, Eugène",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1803",
+    "Artist End Date": "1886",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500007382",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q714341",
+    "Object Date": "probably 1850s",
+    "Object Begin Date": 1850,
+    "Object End Date": 1860,
+    "Medium": "Oil on paper, laid down on canvas",
+    "Dimensions": "13 x 20 in. (33 x 50.8 cm)",
+    "Credit Line": "Gift of The Eugene Victor Thaw Art Foundation, 2007",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/438950",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19913036",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Storms|Seascapes|Waves",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300054734|http://vocab.getty.edu/page/aat/300117546|http://vocab.getty.edu/page/aat/300343616",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q81054|https://www.wikidata.org/wiki/Q158607|https://www.wikidata.org/wiki/Q165848"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP169472.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 36514,
+        "role": "Artist",
+        "name": "Eugène Isabey",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500007382",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q714341",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 33.0201,
+          "Width": 50.8001
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Seascapes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300117546",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q158607"
+      },
+      {
+        "term": "Waves",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300343616",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q165848"
+      },
+      {
+        "term": "Storms",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300054734",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q81054"
+      }
+    ]
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "object_id": 437937,
+  "excel_metadata": {
+    "Object Number": "50.55",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 437937,
+    "Gallery Number": 965.0,
+    "Department": "European Paintings",
+    "AccessionYear": 1950.0,
+    "Object Name": "Painting",
+    "Title": "Gamepiece with a Dead Heron",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10845.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Jan Weenix",
+    "Artist Display Bio": "Dutch, Amsterdam ca. 1641?–1719 Amsterdam",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Weenix, Jan",
+    "Artist Nationality": "Dutch",
+    "Artist Begin Date": "1641",
+    "Artist End Date": "1719",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500010753",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q1346044",
+    "Object Date": "1695",
+    "Object Begin Date": 1695,
+    "Object End Date": 1695,
+    "Medium": "Oil on canvas",
+    "Dimensions": "52 3/4 x 43 3/4 in. (134 x 111.1 cm)",
+    "Credit Line": "Rogers Fund, 1950",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437937",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912005",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Birds|Flowers|Death",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300266506|http://vocab.getty.edu/page/aat/300132399|http://vocab.getty.edu/page/aat/300151836",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q5113|https://www.wikidata.org/wiki/Q506|https://www.wikidata.org/wiki/Q4"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP145930.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-50_55-2.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-50_55-3.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 108455,
+        "role": "Artist",
+        "name": "Jan Weenix",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500010753",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1346044",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 134,
+          "Width": 111.1
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Birds",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300266506",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q5113"
+      },
+      {
+        "term": "Flowers",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132399",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q506"
+      },
+      {
+        "term": "Death",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300151836",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q4"
+      }
+    ]
+  }
+}

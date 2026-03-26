@@ -1,0 +1,95 @@
+{
+  "object_id": 435757,
+  "excel_metadata": {
+    "Object Number": "49.7.39",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 435757,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1949.0,
+    "Object Name": "Painting",
+    "Title": "Portrait of a Young Boy",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16170.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": "Attributed to",
+    "Artist Display Name": "Sébastien Bourdon",
+    "Artist Display Bio": "French, Montpellier 1616–1671 Paris",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Bourdon, Sébastien",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1616",
+    "Artist End Date": "1671",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500006900",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q553795",
+    "Object Date": NaN,
+    "Object Begin Date": 1636,
+    "Object End Date": 1671,
+    "Medium": "Oil on canvas",
+    "Dimensions": "23 1/4 x 19 3/4 in. (59.1 x 50.2 cm)",
+    "Credit Line": "The Jules Bache Collection, 1949",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/435757",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912189",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Boys|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300247598|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q3010|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/ep49.7.39.bw.R.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 161707,
+        "role": "Artist",
+        "name": "Attributed to Sébastien Bourdon",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500006900",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q553795",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 59.1,
+          "Width": 50.2
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Boys",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300247598",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3010"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

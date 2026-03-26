@@ -1,0 +1,100 @@
+{
+  "object_id": 435998,
+  "excel_metadata": {
+    "Object Number": "39.65.5",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 435998,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1939.0,
+    "Object Name": "Painting",
+    "Title": "Admiral Harry Paulet (1719/20–1794), Sixth Duke of Bolton",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16619.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Francis Cotes",
+    "Artist Display Bio": "British, London 1726–1770 Richmond",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Cotes, Francis",
+    "Artist Nationality": "British",
+    "Artist Begin Date": "1726",
+    "Artist End Date": "1770",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500115400",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q632772",
+    "Object Date": NaN,
+    "Object Begin Date": 1760,
+    "Object End Date": 1770,
+    "Medium": "Oil on canvas",
+    "Dimensions": "50 x 40 in. (127 x 101.6 cm)",
+    "Credit Line": "Bequest of Jacob Ruppert, 1939",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/435998",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19913383",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits|Admirals",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300236014",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q132851"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP168993.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 166193,
+        "role": "Artist",
+        "name": "Francis Cotes",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115400",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q632772",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 127,
+          "Width": 101.6
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Admirals",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300236014",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q132851"
+      }
+    ]
+  }
+}

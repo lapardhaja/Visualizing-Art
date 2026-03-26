@@ -1,0 +1,121 @@
+{
+  "object_id": 440393,
+  "excel_metadata": {
+    "Object Number": "2012.99",
+    "Is Highlight": true,
+    "Is Timeline Work": true,
+    "Is Public Domain": false,
+    "Object ID": 440393,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 2012.0,
+    "Object Name": "Painting",
+    "Title": "The Baptism of Christ",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16416.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Jacopo Bassano (Jacopo da Ponte)",
+    "Artist Display Bio": "Italian, Bassano del Grappa ca. 1510–1592 Bassano del Grappa",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Bassano, Jacopo (Jacopo da Ponte)",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1510",
+    "Artist End Date": "1592",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500003126",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q346502",
+    "Object Date": "ca. 1590",
+    "Object Begin Date": 1585,
+    "Object End Date": 1595,
+    "Medium": "Oil on canvas",
+    "Dimensions": "75 1/2 x 63 1/8 in. (191.8 x 160.3 cm)",
+    "Credit Line": "Gift of Mr. and Mrs. Mark Fisch, 2012",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/440393",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19911654",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Saint John the Baptist|Baptism of Christ|Angels",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/ia/901001056|http://vocab.getty.edu/page/ia/901001066|http://vocab.getty.edu/page/aat/300379004",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q40662|https://www.wikidata.org/wiki/Q217048|https://www.wikidata.org/wiki/Q235113"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP276931.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 164169,
+        "role": "Artist",
+        "name": "Jacopo Bassano (Jacopo da Ponte)",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500003126",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q346502",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 191.7704,
+          "Width": 160.33781
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 11.430023,
+          "Height": 248.9205,
+          "Width": 213.99542
+        }
+      },
+      {
+        "elementName": "Other",
+        "elementDescription": "Picture + Frame",
+        "elementMeasurements": {
+          "Weight": 74.389915
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Angels",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379004",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q235113"
+      },
+      {
+        "term": "Saint John the Baptist",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901001056",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q40662"
+      },
+      {
+        "term": "Baptism of Christ",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901001066",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q217048"
+      }
+    ]
+  }
+}

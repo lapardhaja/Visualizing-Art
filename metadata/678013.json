@@ -1,0 +1,92 @@
+{
+  "object_id": 678013,
+  "excel_metadata": {
+    "Object Number": "2015.438",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 678013,
+    "Gallery Number": 801.0,
+    "Department": "European Paintings",
+    "AccessionYear": 2015.0,
+    "Object Name": "Painting",
+    "Title": "Tiger in Repose",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16165.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Antoine-Louis Barye",
+    "Artist Display Bio": "French, Paris 1795–1875 Paris",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Barye, Antoine-Louis",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1795",
+    "Artist End Date": "1875",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500007044",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q451489",
+    "Object Date": "ca. 1850–65",
+    "Object Begin Date": 1845,
+    "Object End Date": 1870,
+    "Medium": "Oil on canvas",
+    "Dimensions": "10 3/4 × 14 in. (27.3 × 35.6 cm)",
+    "Credit Line": "Gift of Eugene V. Thaw, 2015",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/678013",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q55594053",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Tigers",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300249063",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q19939"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP348637.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/02_Barye_TR 90 2015_Tiger_IRR_FINAL.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 161656,
+        "role": "Artist",
+        "name": "Antoine-Louis Barye",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500007044",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q451489",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 27.305054,
+          "Width": 35.56007
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Tigers",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300249063",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q19939"
+      }
+    ]
+  }
+}

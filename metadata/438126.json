@@ -1,0 +1,100 @@
+{
+  "object_id": 438126,
+  "excel_metadata": {
+    "Object Number": "2019.141.22",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 438126,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 2019.0,
+    "Object Name": "Painting",
+    "Title": "The Garter",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16356.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Jean François de Troy",
+    "Artist Display Bio": "French, Paris 1679–1752 Rome",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Troy, Jean François de",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1679",
+    "Artist End Date": "1752",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500022010",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q707729",
+    "Object Date": "1724",
+    "Object Begin Date": 1724,
+    "Object End Date": 1724,
+    "Medium": "Oil on canvas",
+    "Dimensions": "25 1/2 × 21 1/8 in. (64.8 × 53.7 cm)",
+    "Credit Line": "Bequest of Mrs. Charles Wrightsman, 2019",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/438126",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q78638736",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Interiors|Men|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300391239|http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q2998430|https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-26939-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 163563,
+        "role": "Artist",
+        "name": "Jean François de Troy",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500022010",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q707729",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 64.77013,
+          "Width": 53.657608
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Interiors",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300391239",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q2998430"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "object_id": 437248,
+  "excel_metadata": {
+    "Object Number": "41.190.13",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 437248,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1941.0,
+    "Object Name": "Painting",
+    "Title": "Madonna and Child",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16187.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Paolo di Giovanni Fei",
+    "Artist Display Bio": "Italian, San Quirico, active by 1369–died 1411",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Fei, Paolo di Giovanni",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1369",
+    "Artist End Date": "1411",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500013966",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q1361116",
+    "Object Date": "1370s",
+    "Object Begin Date": 1370,
+    "Object End Date": 1379,
+    "Medium": "Tempera on wood, gold ground",
+    "Dimensions": "Overall, with engaged frame, 34 1/4 x 23 1/4 in. (87 x 59.1 cm); painted surface 27 x 16 7/8 in. (68.6 x 42.9 cm)",
+    "Credit Line": "Bequest of George Blumenthal, 1941",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437248",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19905216",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Madonna and Child|Nursing",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901000052|http://vocab.getty.edu/page/aat/300379905",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q9309699|https://www.wikidata.org/wiki/Q174876"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP293270.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 161873,
+        "role": "Artist",
+        "name": "Paolo di Giovanni Fei",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500013966",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1361116",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 87,
+          "Width": 59.1
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Madonna and Child",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000052",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q9309699"
+      },
+      {
+        "term": "Nursing",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379905",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q174876"
+      }
+    ]
+  }
+}

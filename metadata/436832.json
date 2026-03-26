@@ -1,0 +1,100 @@
+{
+  "object_id": 436832,
+  "excel_metadata": {
+    "Object Number": "63.43.2",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436832,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1963.0,
+    "Object Name": "Painting",
+    "Title": "Wide River Landscape",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16479.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Philips Koninck",
+    "Artist Display Bio": "Dutch, Amsterdam 1619–1688 Amsterdam",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Koninck, Philips",
+    "Artist Nationality": "Dutch",
+    "Artist Begin Date": "1619",
+    "Artist End Date": "1688",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500000351",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q166379",
+    "Object Date": "ca. 1648–49",
+    "Object Begin Date": 1648,
+    "Object End Date": 1649,
+    "Medium": "Oil on canvas",
+    "Dimensions": "16 1/4 x 22 7/8 in. (41.3 x 58.1 cm)",
+    "Credit Line": "Gift of Edith Neuman de Végvár, in honor of her husband, Charles Neuman de Végvár, 1963",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436832",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912296",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Rivers|Landscapes|Boats",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300008707|http://vocab.getty.edu/page/aat/300132294|http://vocab.getty.edu/page/aat/300178749",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q4022|https://www.wikidata.org/wiki/Q191163|https://www.wikidata.org/wiki/Q35872"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP146493.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 164798,
+        "role": "Artist",
+        "name": "Philips Koninck",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500000351",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q166379",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 41.3,
+          "Width": 58.1
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Rivers",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300008707",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q4022"
+      },
+      {
+        "term": "Landscapes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+      },
+      {
+        "term": "Boats",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300178749",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q35872"
+      }
+    ]
+  }
+}

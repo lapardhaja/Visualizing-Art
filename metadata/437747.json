@@ -1,0 +1,130 @@
+{
+  "object_id": 437747,
+  "excel_metadata": {
+    "Object Number": "1982.60.31",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 437747,
+    "Gallery Number": 964.0,
+    "Department": "European Paintings",
+    "AccessionYear": 1982.0,
+    "Object Name": "Painting",
+    "Title": "The Dissolute Household",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16246.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Jan Steen",
+    "Artist Display Bio": "Dutch, Leiden 1626–1679 Leiden",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Steen, Jan",
+    "Artist Nationality": "Dutch",
+    "Artist Begin Date": "1626",
+    "Artist End Date": "1679",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500115664",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q205863",
+    "Object Date": "ca. 1663–64",
+    "Object Begin Date": 1663,
+    "Object End Date": 1664,
+    "Medium": "Oil on canvas",
+    "Dimensions": "42 1/2 x 35 1/2 in. (108 x 90.2 cm)",
+    "Credit Line": "The Jack and Belle Linsky Collection, 1982",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437747",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19905263",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Food|Interiors|Men|Women|Lutes|Cats|Drinking|Sleeping|Games",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300254496|http://vocab.getty.edu/page/aat/300391239|http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/aat/300042101|http://vocab.getty.edu/page/aat/300265960|http://vocab.getty.edu/page/aat/300379698|http://vocab.getty.edu/page/aat/300375130|http://vocab.getty.edu/page/aat/300069657",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q2095|https://www.wikidata.org/wiki/Q2998430|https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q180733|https://www.wikidata.org/wiki/Q146|https://www.wikidata.org/wiki/Q876776|https://www.wikidata.org/wiki/Q35831|https://www.wikidata.org/wiki/Q11410"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP146465.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162465,
+        "role": "Artist",
+        "name": "Jan Steen",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115664",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q205863",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 108,
+          "Width": 90.2
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Food",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300254496",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q2095"
+      },
+      {
+        "term": "Interiors",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300391239",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q2998430"
+      },
+      {
+        "term": "Sleeping",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300375130",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q35831"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Lutes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300042101",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q180733"
+      },
+      {
+        "term": "Cats",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300265960",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q146"
+      },
+      {
+        "term": "Drinking",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379698",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q876776"
+      },
+      {
+        "term": "Games",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300069657",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q11410"
+      }
+    ]
+  }
+}

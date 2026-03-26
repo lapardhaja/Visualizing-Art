@@ -1,0 +1,89 @@
+{
+  "object_id": 205309,
+  "excel_metadata": {
+    "Object Number": "1971.4.1",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 205309,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1971,
+    "Object Name": "Harpsichord",
+    "Title": "Harpsichord (part of a set)",
+    "Culture": "Italian",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 16488,
+    "Artist Role": "Artist",
+    "Artist Prefix": "Painting under the lid attributed to",
+    "Artist Display Name": "Crescenzio Onofri",
+    "Artist Display Bio": "Italian, Rome after 1632–after 1712 Florence",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Onofri, Crescenzio",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": 1632,
+    "Artist End Date": 1712,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500025313",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q18596481",
+    "Object Date": "possibly 19th–20th century",
+    "Object Begin Date": 1800,
+    "Object End Date": 1999,
+    "Medium": "Gilded and painted wood",
+    "Dimensions": "H. (with top raised) 66-1/2 x W. (of keyboard) 34 x D. 51-1/2 in.  (168.9 x 86.4 x 130.8 cm)",
+    "Credit Line": "Gift of Madame Lilliana Teruzzi, 1971",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Woodwork-Furniture|Chordophone-Zither-plucked-harpsichord|Paintings",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/205309",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": null,
+    "Tags AAT URL": null,
+    "Tags Wikidata URL": null
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/196239.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/196245.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/196244.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/196243.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 164885,
+        "role": "Artist",
+        "name": "Painting under the lid attributed to Crescenzio Onofri",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500025313",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q18596481",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 130.8,
+          "Height": 168.9,
+          "Width": 86.4
+        }
+      }
+    ],
+    "tags": null
+  }
+}

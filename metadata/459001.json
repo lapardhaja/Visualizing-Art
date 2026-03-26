@@ -1,0 +1,104 @@
+{
+  "object_id": 459001,
+  "excel_metadata": {
+    "Object Number": "1975.1.61",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 459001,
+    "Gallery Number": NaN,
+    "Department": "Robert Lehman Collection",
+    "AccessionYear": 1975.0,
+    "Object Name": "Painting",
+    "Title": "The Nativity",
+    "Culture": "Italian, Florence",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 13536.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Workshop of Botticelli",
+    "Artist Display Bio": "Italian, Florentine, 1444/45–1510",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Botticelli, Workshop of",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1444",
+    "Artist End Date": "1510",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": NaN,
+    "Artist Wikidata URL": NaN,
+    "Object Date": "late 15th century",
+    "Object Begin Date": 1471,
+    "Object End Date": 1500,
+    "Medium": "Tempera and gold on wood",
+    "Dimensions": "Overall: 30 1/2 × 22 1/2 in. (77.5 × 57.2 cm)",
+    "Credit Line": "Robert Lehman Collection, 1975",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/459001",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20188007",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Virgin Mary|Jesus|Nativity",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901000032|http://vocab.getty.edu/page/ia/901000087|http://vocab.getty.edu/page/ia/901000124",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q345|https://www.wikidata.org/wiki/Q302|https://www.wikidata.org/wiki/Q51628"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/rl/original/DP318246.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/rl/original/DP318251.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/ep1975.1.61.bw.R.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/TheNativity0129.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 135369,
+        "role": "Artist",
+        "name": "Workshop of Botticelli",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": "Overall",
+        "elementMeasurements": {
+          "Height": 77.5,
+          "Width": 57.2
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Virgin Mary",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000032",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q345"
+      },
+      {
+        "term": "Jesus",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q302"
+      },
+      {
+        "term": "Nativity",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000124",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q51628"
+      }
+    ]
+  }
+}

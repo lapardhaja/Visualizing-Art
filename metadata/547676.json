@@ -1,0 +1,105 @@
+{
+  "object_id": 547676,
+  "excel_metadata": {
+    "Object Number": "31.3.98",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 547676,
+    "Gallery Number": 117.0,
+    "Department": "Egyptian Art",
+    "AccessionYear": 1931.0,
+    "Object Name": "Painting, erotic",
+    "Title": "Fragment of a Leather Hanging(?) with an Erotic Scene",
+    "Culture": NaN,
+    "Period": "New Kingdom",
+    "Dynasty": "Dynasty 18",
+    "Reign": "reign of Ahmose I to Hatshepsut",
+    "Portfolio": NaN,
+    "Constituent ID": NaN,
+    "Artist Role": NaN,
+    "Artist Prefix": NaN,
+    "Artist Display Name": NaN,
+    "Artist Display Bio": NaN,
+    "Artist Suffix": NaN,
+    "Artist Alpha Sort": NaN,
+    "Artist Nationality": NaN,
+    "Artist Begin Date": NaN,
+    "Artist End Date": NaN,
+    "Artist Gender": NaN,
+    "Artist ULAN URL": NaN,
+    "Artist Wikidata URL": NaN,
+    "Object Date": "ca. 1550–1458 B.C.",
+    "Object Begin Date": -1550,
+    "Object End Date": -1550,
+    "Medium": "Leather (probably goat), paint",
+    "Dimensions": "leather: H. 16 × W. 18 cm (6 5/16 × 7 1/16 in.); frame: H. 21.5 × W. 24.4 × Th. 1.3 cm (8 7/16 × 9 5/8 × 1/2 in.)",
+    "Credit Line": "Rogers Fund, 1931",
+    "Geography Type": "From",
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": "Egypt",
+    "Region": "Upper Egypt, Thebes",
+    "Subregion": "Asasif",
+    "Locale": "Tomb MMA 815",
+    "Locus": "found in debris during clearance",
+    "Excavation": "MMA excavations, 1929–30",
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/547676",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q116276493",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Male Nudes|Women|Harps|Musicians",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300189568|http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/aat/300042047|http://vocab.getty.edu/page/aat/300025666",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q40446|https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q47369|https://www.wikidata.org/wiki/Q639669"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/eg/original/DP115784.jpg",
+    "additionalImages": [],
+    "constituents": null,
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": "leather",
+        "elementMeasurements": {
+          "Height": 16,
+          "Width": 18
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": "frame",
+        "elementMeasurements": {
+          "Height": 21.5,
+          "Thickness": 1.3,
+          "Width": 24.4
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Male Nudes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300189568",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q40446"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Harps",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300042047",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q47369"
+      },
+      {
+        "term": "Musicians",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025666",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q639669"
+      }
+    ]
+  }
+}

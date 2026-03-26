@@ -1,0 +1,110 @@
+{
+  "object_id": 437238,
+  "excel_metadata": {
+    "Object Number": "22.45.10",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437238,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1922.0,
+    "Object Name": "Painting",
+    "Title": "Still Life of Fruit and Game",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10812.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Pieter van Overschee",
+    "Artist Display Bio": "Flemish, active ca. 1645–61",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Overschee, Pieter van",
+    "Artist Nationality": "Flemish",
+    "Artist Begin Date": "1645",
+    "Artist End Date": "1661",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500004094",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q21853726",
+    "Object Date": "1645",
+    "Object Begin Date": 1645,
+    "Object End Date": 1645,
+    "Medium": "Oil on wood",
+    "Dimensions": "32 7/8 x 46 3/4 in. (83.5 x 118.7 cm)",
+    "Credit Line": "Bequest of Grace Wilkes, 1921",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437238",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19913434",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Birds|Fruit|Still Life|Grapes|Rabbits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300266506|http://vocab.getty.edu/page/aat/300011868|http://vocab.getty.edu/page/aat/300015638|http://vocab.getty.edu/page/aat/300379338|http://vocab.getty.edu/page/aat/300250218",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q5113|https://www.wikidata.org/wiki/Q1364|https://www.wikidata.org/wiki/Q170571|https://www.wikidata.org/wiki/Q10978|https://www.wikidata.org/wiki/Q9394"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/ep22.45.10.bw.R.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 108128,
+        "role": "Artist",
+        "name": "Pieter van Overschee",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500004094",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q21853726",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 83.5,
+          "Width": 118.7
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Birds",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300266506",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q5113"
+      },
+      {
+        "term": "Fruit",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300011868",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q1364"
+      },
+      {
+        "term": "Grapes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379338",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q10978"
+      },
+      {
+        "term": "Rabbits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250218",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q9394"
+      },
+      {
+        "term": "Still Life",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015638",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q170571"
+      }
+    ]
+  }
+}

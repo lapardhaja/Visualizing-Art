@@ -1,0 +1,107 @@
+{
+  "object_id": 470921,
+  "excel_metadata": {
+    "Object Number": "25.120.929",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 470921,
+    "Gallery Number": NaN,
+    "Department": "The Cloisters",
+    "AccessionYear": 1925.0,
+    "Object Name": "Painting",
+    "Title": "Panel with the Angel Appearing to Zacharias (from a Retable depicting Saint John the Baptist and scenes from his life)",
+    "Culture": "Spanish",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16506.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Domingo Ram",
+    "Artist Display Bio": "Spanish, Aragon, active 1464–1507",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Ram, Domingo",
+    "Artist Nationality": "Spanish",
+    "Artist Begin Date": "1464",
+    "Artist End Date": "1507",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500014489",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q20829680",
+    "Object Date": "1464–1507",
+    "Object Begin Date": 1464,
+    "Object End Date": 1507,
+    "Medium": "Tempera on wood, gold ground",
+    "Dimensions": "37 1/2 x 27 1/4 in. (95.3 x 69.2 cm)\r\nEntire Retable: 139 x 100 in. (353.1 x 254 cm)",
+    "Credit Line": "The Cloisters Collection, 1925",
+    "Geography Type": "Made in",
+    "City": NaN,
+    "State": NaN,
+    "County": "Aragon",
+    "Country": "Spain",
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings-Panels",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/470921",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20200973",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Angels|Men|Saint John the Baptist|Saints",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300379004|http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/ia/901001056|http://vocab.getty.edu/page/aat/300150555",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q235113|https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q40662|https://www.wikidata.org/wiki/Q43115"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/cl/original/DP-29633-001.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/cl/original/ep25.120.668.bw.R.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 165060,
+        "role": "Artist",
+        "name": "Domingo Ram",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500014489",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q20829680",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 95.3,
+          "Width": 69.2
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Angels",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379004",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q235113"
+      },
+      {
+        "term": "Saint John the Baptist",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901001056",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q40662"
+      },
+      {
+        "term": "Saints",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300150555",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q43115"
+      }
+    ]
+  }
+}

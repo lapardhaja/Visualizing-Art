@@ -1,0 +1,114 @@
+{
+  "object_id": 437641,
+  "excel_metadata": {
+    "Object Number": "87.15.127",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437641,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1887.0,
+    "Object Name": "Painting",
+    "Title": "Arabs on the March",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16423.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Adolf Schreyer",
+    "Artist Display Bio": "German, Frankfurt 1828–1899 Kronberg",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Schreyer, Adolf",
+    "Artist Nationality": "German",
+    "Artist Begin Date": "1828",
+    "Artist End Date": "1899",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500024778",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q364184",
+    "Object Date": NaN,
+    "Object Begin Date": 1848,
+    "Object End Date": 1899,
+    "Medium": "Oil on canvas",
+    "Dimensions": "22 5/8 x 37 3/4 in. (57.5 x 95.9 cm)",
+    "Credit Line": "Catharine Lorillard Wolfe Collection, Bequest of Catharine Lorillard Wolfe, 1887",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437641",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19913447",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Horses|Men|Orientalist|Hills",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300250148|http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300055784|http://vocab.getty.edu/page/aat/300008777",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q726|https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q765606|https://www.wikidata.org/wiki/Q54050"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-23078-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 164239,
+        "role": "Artist",
+        "name": "Adolf Schreyer",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500024778",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q364184",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 57.5,
+          "Width": 95.9
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 12.700026,
+          "Height": 95.25019,
+          "Width": 133.03276
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Horses",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250148",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q726"
+      },
+      {
+        "term": "Hills",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300008777",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q54050"
+      },
+      {
+        "term": "Orientalist",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300055784",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q765606"
+      }
+    ]
+  }
+}

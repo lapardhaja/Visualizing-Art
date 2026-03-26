@@ -1,0 +1,103 @@
+{
+  "object_id": 438139,
+  "excel_metadata": {
+    "Object Number": "2012.451",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 438139,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 2012.0,
+    "Object Name": "Painting",
+    "Title": "Madonna and Child with the Infant Saint John the Baptist",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16539.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Santi di Tito",
+    "Artist Display Bio": "Italian, Sansepolcro 1536–1603 Florence",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Santi di Tito",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1536",
+    "Artist End Date": "1603",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500118930",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q206697",
+    "Object Date": "early 1570s",
+    "Object Begin Date": 1570,
+    "Object End Date": 1573,
+    "Medium": "Oil on wood",
+    "Dimensions": "40 7/8 x 33 3/4 in. (103.8 x 85.7 cm)\r\n",
+    "Credit Line": "Gift of Jules Fisher, in memory of Roy Fisher, and Purchase, Friends of European Paintings Gifts, 2012",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/438139",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19905083",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Madonna and Child|Saint John the Baptist|Sheep",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901000052|http://vocab.getty.edu/page/ia/901001056|http://vocab.getty.edu/page/aat/300250284",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q9309699|https://www.wikidata.org/wiki/Q40662|https://www.wikidata.org/wiki/Q7368"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP322017.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-2012_451-2.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-2012_451-3.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 165397,
+        "role": "Artist",
+        "name": "Santi di Tito",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500118930",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q206697",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 103.82271,
+          "Width": 85.725174
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Sheep",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250284",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q7368"
+      },
+      {
+        "term": "Madonna and Child",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000052",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q9309699"
+      },
+      {
+        "term": "Saint John the Baptist",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901001056",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q40662"
+      }
+    ]
+  }
+}

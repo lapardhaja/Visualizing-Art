@@ -1,0 +1,86 @@
+{
+  "object_id": 474462,
+  "excel_metadata": {
+    "Object Number": "12.180.49",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 474462,
+    "Gallery Number": null,
+    "Department": "Medieval Art",
+    "AccessionYear": 1912,
+    "Object Name": "Ostrakon",
+    "Title": "Ostrakon",
+    "Culture": "Coptic",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": null,
+    "Artist Role": null,
+    "Artist Prefix": null,
+    "Artist Display Name": null,
+    "Artist Display Bio": null,
+    "Artist Suffix": null,
+    "Artist Alpha Sort": null,
+    "Artist Nationality": null,
+    "Artist Begin Date": null,
+    "Artist End Date": null,
+    "Artist Gender": null,
+    "Artist ULAN URL": null,
+    "Artist Wikidata URL": null,
+    "Object Date": "7th century",
+    "Object Begin Date": 600,
+    "Object End Date": 700,
+    "Medium": "Pottery fragment with ink inscription",
+    "Dimensions": "Overall: 5 3/16 x 6 11/16 x 2 3/4 in. (13.1 x 17 x 7 cm)_x000D_\n12.180.49 only: 4 7/16 x 3 11/16 in. (11.2 x 9.4 cm)",
+    "Credit Line": "Rogers Fund, 1912",
+    "Geography Type": "Made in",
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": "Byzantine Egypt",
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Ceramics",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/474462",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Correspondence",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300026877",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q1784733"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/md/original/sf12-180-49_77s1.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/md/original/sf12-180-49_77s2.jpg"
+    ],
+    "constituents": null,
+    "measurements": [
+      {
+        "elementName": "Other",
+        "elementDescription": "12.180.49 only",
+        "elementMeasurements": {
+          "Height": 11.2,
+          "Width": 9.4
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 7,
+          "Height": 13.1,
+          "Width": 17
+        }
+      }
+    ],
+    "tags": null
+  }
+}

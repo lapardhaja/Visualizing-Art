@@ -1,0 +1,92 @@
+{
+  "object_id": 245686,
+  "excel_metadata": {
+    "Object Number": "91.1.1298a, b",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 245686,
+    "Gallery Number": 162,
+    "Department": "Greek and Roman Art",
+    "AccessionYear": 1891,
+    "Object Name": "Urn with two handles and lid",
+    "Title": "Glass cinerary urn with lid",
+    "Culture": "Roman",
+    "Period": "Early Imperial",
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": null,
+    "Artist Role": null,
+    "Artist Prefix": null,
+    "Artist Display Name": null,
+    "Artist Display Bio": null,
+    "Artist Suffix": null,
+    "Artist Alpha Sort": null,
+    "Artist Nationality": null,
+    "Artist Begin Date": null,
+    "Artist End Date": null,
+    "Artist Gender": null,
+    "Artist ULAN URL": null,
+    "Artist Wikidata URL": null,
+    "Object Date": "mid-1st century CE",
+    "Object Begin Date": 40,
+    "Object End Date": 80,
+    "Medium": "Glass",
+    "Dimensions": "Height: 12 5/16 in. (31.3 cm)_x000D_\nDiameter: 9 1/16 in. (23 cm)_x000D_\nDiameter (with handle): 10 1/2 in. (26.7 cm)",
+    "Credit Line": "Edward C. Moore Collection, Bequest of Edward C. Moore, 1891",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Glass",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/245686",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q116402250",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": null,
+    "Tags AAT URL": null,
+    "Tags Wikidata URL": null
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/gr/original/DP-15454-005.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/gr/original/DP-15454-006.jpg",
+      "https://images.metmuseum.org/CRDImages/gr/original/DP-15454-007.jpg",
+      "https://images.metmuseum.org/CRDImages/gr/original/DP-15454-008.jpg"
+    ],
+    "constituents": null,
+    "measurements": [
+      {
+        "elementName": "Height",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 31.273813
+        }
+      },
+      {
+        "elementName": "Diameter",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Diameter": 23.018797
+        }
+      },
+      {
+        "elementName": "Diameter",
+        "elementDescription": "with handle",
+        "elementMeasurements": {
+          "Diameter": 26.670053
+        }
+      }
+    ],
+    "tags": null
+  }
+}

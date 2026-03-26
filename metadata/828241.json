@@ -1,0 +1,109 @@
+{
+  "object_id": 828241,
+  "excel_metadata": {
+    "Object Number": "2020.22",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 828241,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 2020.0,
+    "Object Name": "Painting",
+    "Title": "The Temptation of Saint Mary Magdalen",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16417.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Johann Liss",
+    "Artist Display Bio": "German, Oldenburg ca. 1595/1600–1631 Verona",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Liss, Johann",
+    "Artist Nationality": "German",
+    "Artist Begin Date": "1595",
+    "Artist End Date": "1631",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500024913",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q700279",
+    "Object Date": "ca. 1626",
+    "Object Begin Date": 1621,
+    "Object End Date": 1631,
+    "Medium": "Oil on canvas",
+    "Dimensions": "38 7/8 × 49 1/2 in. (98.8 × 125.8 cm)",
+    "Credit Line": "Purchase, Walter and Leonore Annenberg Acquisitions Endowment Fund; Gifts of Irma N. Straus and Lionel F. Straus Jr., in memory of his parents, and Bequests of Milena Jurzykowski and Theodore M. Davis, by exchange; Gwynne Andrews and Victor Wilbour Memorial Funds; Charles and Jessie Price Gift, and funds from various donors, 2020",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/828241",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q111272644",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Mary Magdalene|Angels|Skulls",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901000161|http://vocab.getty.edu/page/aat/300379004|http://vocab.getty.edu/page/aat/300191856",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q63070|https://www.wikidata.org/wiki/Q235113|https://www.wikidata.org/wiki/Q13147"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-19542-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 164178,
+        "role": "Artist",
+        "name": "Johann Liss",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500024913",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q700279",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 98.8,
+          "Width": 125.8
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 8.572517,
+          "Height": 121.28524,
+          "Width": 147.3203
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Skulls",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300191856",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q13147"
+      },
+      {
+        "term": "Angels",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379004",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q235113"
+      },
+      {
+        "term": "Mary Magdalene",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000161",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q63070"
+      }
+    ]
+  }
+}

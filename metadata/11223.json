@@ -1,0 +1,109 @@
+{
+  "object_id": 11223,
+  "excel_metadata": {
+    "Object Number": "06.195",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 11223,
+    "Gallery Number": 774.0,
+    "Department": "The American Wing",
+    "AccessionYear": 1906.0,
+    "Object Name": "Painting",
+    "Title": "William Charles Macready as William Tell",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16457.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Henry Inman",
+    "Artist Display Bio": "American, Utica, New York 1801–1846 New York",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Inman, Henry",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1801",
+    "Artist End Date": "1846",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500021656",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q3132855",
+    "Object Date": "1826–27",
+    "Object Begin Date": 1826,
+    "Object End Date": 1827,
+    "Medium": "Oil on canvas",
+    "Dimensions": "30 1/4 x 25 in. (76.8 x 63.5 cm)",
+    "Credit Line": "Rogers Fund, 1906",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/11223",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20174803",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits|Actors",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300025658",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q33999"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/ap06.195.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 164576,
+        "role": "Artist",
+        "name": "Henry Inman",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500021656",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3132855",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 76.8,
+          "Width": 63.5
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 9.2,
+          "Height": 96.2,
+          "Width": 83.5
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Actors",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025658",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q33999"
+      }
+    ]
+  }
+}

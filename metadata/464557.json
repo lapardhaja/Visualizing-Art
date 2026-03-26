@@ -1,0 +1,94 @@
+{
+  "object_id": 464557,
+  "excel_metadata": {
+    "Object Number": "17.190.683",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 464557,
+    "Gallery Number": 303,
+    "Department": "Medieval Art",
+    "AccessionYear": 1917,
+    "Object Name": "Enamel halo",
+    "Title": "Halo from an Icon Cover",
+    "Culture": "Byzantine",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": null,
+    "Artist Role": null,
+    "Artist Prefix": null,
+    "Artist Display Name": null,
+    "Artist Display Bio": null,
+    "Artist Suffix": null,
+    "Artist Alpha Sort": null,
+    "Artist Nationality": null,
+    "Artist Begin Date": null,
+    "Artist End Date": null,
+    "Artist Gender": null,
+    "Artist ULAN URL": null,
+    "Artist Wikidata URL": null,
+    "Object Date": "10th–early 11th century",
+    "Object Begin Date": 900,
+    "Object End Date": 1025,
+    "Medium": "Cloisonné enamel, gold",
+    "Dimensions": "Overall: 4 1/2 x 5 1/16 x 1/16 in. (11.5 x 12.8 x 0.2 cm)_x000D_\nwith of band: 1 in. (2.5 cm)_x000D_\nMount: 6 x 6 x 7/8 in. (15.2 x 15.2 x 2.2 cm)",
+    "Credit Line": "Gift of J. Pierpont Morgan, 1917",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Enamels-Cloisonné",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/464557",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q116255982",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": null,
+    "Tags AAT URL": null,
+    "Tags Wikidata URL": null
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/md/original/sf17-190-683s1.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/md/original/sf17-190-683s2.jpg"
+    ],
+    "constituents": null,
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 11.5,
+          "Thickness": 0.2,
+          "Width": 12.8
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": "Mount",
+        "elementMeasurements": {
+          "Depth": 2.2225,
+          "Height": 15.24,
+          "Width": 15.24
+        }
+      },
+      {
+        "elementName": "Other",
+        "elementDescription": "with of band",
+        "elementMeasurements": {
+          "Width": 2.5
+        }
+      }
+    ],
+    "tags": null
+  }
+}

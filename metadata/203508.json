@@ -1,0 +1,97 @@
+{
+  "object_id": 203508,
+  "excel_metadata": {
+    "Object Number": "64.101.666",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 203508,
+    "Gallery Number": 512,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1964,
+    "Object Name": "Toy",
+    "Title": "Lion and cock",
+    "Culture": "British, Chelsea",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 3509,
+    "Artist Role": "Factory",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Chelsea Porcelain Manufactory",
+    "Artist Display Bio": "British, 1745–1784, Gold Anchor Period, 1759–69",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Chelsea Porcelain Manufactory",
+    "Artist Nationality": "British",
+    "Artist Begin Date": 1744,
+    "Artist End Date": 1784,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500371694",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q2072152",
+    "Object Date": "ca. 1760",
+    "Object Begin Date": 1755,
+    "Object End Date": 1765,
+    "Medium": "Soft-paste porcelain, agate, gold",
+    "Dimensions": "2 × 2 5/8 in. (5.1 × 6.7 cm)",
+    "Credit Line": "Gift of Irwin Untermyer, 1964",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Ceramics-Porcelain",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/203508",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q116400092",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Lions|Roosters",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300310388|http://vocab.getty.edu/page/aat/300380127",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q140|https://www.wikidata.org/wiki/Q2216236"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP-17550-035.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/DP-17550-036.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 35094,
+        "role": "Factory",
+        "name": "Chelsea Porcelain Manufactory",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500371694",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q2072152",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 5.08001,
+          "Width": 6.6675134
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Roosters",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300380127",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q2216236"
+      },
+      {
+        "term": "Lions",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300310388",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q140"
+      }
+    ]
+  }
+}

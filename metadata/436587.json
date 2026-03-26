@@ -1,0 +1,104 @@
+{
+  "object_id": 436587,
+  "excel_metadata": {
+    "Object Number": "56.55.3",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436587,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1956.0,
+    "Object Name": "Painting",
+    "Title": "Jean Jacques Caffiéri (1725–1792)",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16555.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Jean-Baptiste Greuze",
+    "Artist Display Bio": "French, Tournus 1725–1805 Paris",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Greuze, Jean-Baptiste",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1725",
+    "Artist End Date": "1805",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500000119",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q347139",
+    "Object Date": "ca. 1765",
+    "Object Begin Date": 1760,
+    "Object End Date": 1770,
+    "Medium": "Oil on canvas",
+    "Dimensions": "Oval, 25 1/4 x 20 3/4 in. (64.1 x 52.7 cm)",
+    "Credit Line": "Bequest of Ethel Tod Humphrys, 1956",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436587",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912919",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP123933.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 165551,
+        "role": "Artist",
+        "name": "Jean-Baptiste Greuze",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500000119",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q347139",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 64.1,
+          "Width": 52.7
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 6.35,
+          "Height": 86.3602,
+          "Width": 68.5801
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "object_id": 501240,
+  "excel_metadata": {
+    "Object Number": "89.4.624",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 501240,
+    "Gallery Number": null,
+    "Department": "Musical Instruments",
+    "AccessionYear": 1889,
+    "Object Name": "So-He-De-Dan",
+    "Title": "So-He-De-Dan (strung rattle)",
+    "Culture": "Native American (Salish)",
+    "Period": "Native American",
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 15545,
+    "Artist Role": "Maker",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Salish Indians",
+    "Artist Display Bio": " ",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Salish Indians",
+    "Artist Nationality": " ",
+    "Artist Begin Date": "          ",
+    "Artist End Date": "          ",
+    "Artist Gender": null,
+    "Artist ULAN URL": null,
+    "Artist Wikidata URL": null,
+    "Object Date": "19th century",
+    "Object Begin Date": 1801,
+    "Object End Date": 1900,
+    "Medium": "(scallop) pecten shells, cloth-covered wire",
+    "Dimensions": "Diam. or shells: 15.9cm (6 1/4in.)",
+    "Credit Line": "The Crosby Brown Collection of Musical Instruments, 1889",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": "Alaska",
+    "Country": "United States",
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Idiophone-Shaken-rattle",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/501240",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Shells",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300011829",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q213096"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/mi/original/midp89.4.624.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/mi/original/MUS823A6.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 155450,
+        "role": "Maker",
+        "name": "Salish Indians",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Other",
+        "elementDescription": "shells",
+        "elementMeasurements": {
+          "Diameter": 15.875
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Shells",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300011829",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q213096"
+      }
+    ]
+  }
+}

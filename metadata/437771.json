@@ -1,0 +1,115 @@
+{
+  "object_id": 437771,
+  "excel_metadata": {
+    "Object Number": "71.33ab",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437771,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1871.0,
+    "Object Name": "Painting",
+    "Title": "Saint Remigius Replenishing the Barrel of Wine; (interior) Saint Remigius and the Burning Wheat",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 12878.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Swiss Painter",
+    "Artist Display Bio": " ",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Swiss Painter",
+    "Artist Nationality": "Swiss",
+    "Artist Begin Date": "          ",
+    "Artist End Date": "          ",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500125269",
+    "Artist Wikidata URL": NaN,
+    "Object Date": "ca. 1500–1505",
+    "Object Begin Date": 1500,
+    "Object End Date": 1505,
+    "Medium": "Oil, gold, and white metal on wood",
+    "Dimensions": "54 1/4 x 30 1/2 in. (137.8 x 77.5 cm)",
+    "Credit Line": "Purchase, 1871",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437771",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19911553",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Wine|Girls|Men|Women|Saints",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300379442|http://vocab.getty.edu/page/aat/300247581|http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/aat/300150555",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q282|https://www.wikidata.org/wiki/Q3031|https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q43115"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT256630.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/DT256631.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/GermanCat60b_Xray_detail2.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/GermanCat60B_Xray_detl.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/GermanCat60b_IRP_detail_StRemigius.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 128783,
+        "role": "Artist",
+        "name": "Swiss Painter",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500125269",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 137.8,
+          "Width": 77.5
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Wine",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379442",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q282"
+      },
+      {
+        "term": "Girls",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300247581",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3031"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Saints",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300150555",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q43115"
+      }
+    ]
+  }
+}

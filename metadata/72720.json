@@ -1,0 +1,116 @@
+{
+  "object_id": 72720,
+  "excel_metadata": {
+    "Object Number": "2005.36",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 72720,
+    "Gallery Number": NaN,
+    "Department": "Asian Art",
+    "AccessionYear": 2005.0,
+    "Object Name": "Painting",
+    "Title": NaN,
+    "Culture": "India (Rajasthan, Junia)",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 1705.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": "Attributed to",
+    "Artist Display Name": "Nihal Chand",
+    "Artist Display Bio": " ",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Nihal Chand",
+    "Artist Nationality": " ",
+    "Artist Begin Date": "          ",
+    "Artist End Date": "          ",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": NaN,
+    "Artist Wikidata URL": NaN,
+    "Object Date": "ca. 1700",
+    "Object Begin Date": 1650,
+    "Object End Date": 1750,
+    "Medium": "Ink, opaque watercolor, and gold on paper",
+    "Dimensions": "Image: 8 1/4 x 12 3/4 in. (21 x 32.4 cm)",
+    "Credit Line": "Cynthia Hazen Polsky and Leon B. Polsky Fund, 2005",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/72720",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q78713583",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Processions|Men|Elephants|Horses",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300069290|http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300250160|http://vocab.getty.edu/page/aat/300250148",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q898830|https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q7378|https://www.wikidata.org/wiki/Q726"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/as/original/DP152347.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/as/original/2005_360_recto.jpg",
+      "https://images.metmuseum.org/CRDImages/as/original/2005_360_verso.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 17051,
+        "role": "Artist",
+        "name": "Attributed to Nihal Chand",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Mount",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 33.8,
+          "Width": 44.9
+        }
+      },
+      {
+        "elementName": "Image",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 20.955,
+          "Width": 32.3851
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Elephants",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250160",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q7378"
+      },
+      {
+        "term": "Horses",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250148",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q726"
+      },
+      {
+        "term": "Processions",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300069290",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q898830"
+      }
+    ]
+  }
+}

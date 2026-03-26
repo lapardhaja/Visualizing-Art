@@ -1,0 +1,95 @@
+{
+  "object_id": 12947,
+  "excel_metadata": {
+    "Object Number": "64.309.4",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 12947,
+    "Gallery Number": NaN,
+    "Department": "The American Wing",
+    "AccessionYear": 1964.0,
+    "Object Name": "Painting",
+    "Title": "Memorial to Jane Amanda Fenn",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": NaN,
+    "Artist Role": NaN,
+    "Artist Prefix": NaN,
+    "Artist Display Name": NaN,
+    "Artist Display Bio": NaN,
+    "Artist Suffix": NaN,
+    "Artist Alpha Sort": NaN,
+    "Artist Nationality": NaN,
+    "Artist Begin Date": NaN,
+    "Artist End Date": NaN,
+    "Artist Gender": NaN,
+    "Artist ULAN URL": NaN,
+    "Artist Wikidata URL": NaN,
+    "Object Date": "ca. 1843",
+    "Object Begin Date": 1840,
+    "Object End Date": 1843,
+    "Medium": "Oil on glass",
+    "Dimensions": "10 3/4 x 13 1/2 in. (27.3 x 34.3 cm)",
+    "Credit Line": "Gift of Edgar William and Bernice Chrysler Garbisch, 1964",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/12947",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q79016123",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Cemeteries|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300266755|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q39614|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/181609.jpg",
+    "additionalImages": [],
+    "constituents": null,
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 27.3,
+          "Width": 34.2901
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 3.175,
+          "Height": 40.6401,
+          "Width": 48.2601
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Cemeteries",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300266755",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q39614"
+      }
+    ]
+  }
+}

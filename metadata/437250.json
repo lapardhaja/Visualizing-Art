@@ -1,0 +1,120 @@
+{
+  "object_id": 437250,
+  "excel_metadata": {
+    "Object Number": "1982.319",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 437250,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1982.0,
+    "Object Name": "Painting",
+    "Title": "The Annunciation",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 9655.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": "Attributed to",
+    "Artist Display Name": "Girolamo Mazzola Bedoli",
+    "Artist Display Bio": "Italian, Viadana ca. 1505–ca. 1570 Parma",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Bedoli, Girolamo Mazzola",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1505",
+    "Artist End Date": "1570",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500029049",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q1527051",
+    "Object Date": NaN,
+    "Object Begin Date": 1523,
+    "Object End Date": 1540,
+    "Medium": "Oil on wood",
+    "Dimensions": "33 3/8 x 23 1/8 in. (84.8 x 58.7 cm)",
+    "Credit Line": "Purchase, Gwynne Andrews Fund, James S. Deely Gift, special funds, and other gifts and bequests, by exchange, 1982",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437250",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19911516",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Jesus|Annunciation|Angels|Virgin Mary|Doves|Archangel Gabriel",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901000087|http://vocab.getty.edu/page/aat/300412102|http://vocab.getty.edu/page/aat/300379004|http://vocab.getty.edu/page/ia/901000032|http://vocab.getty.edu/page/aat/300250045|http://vocab.getty.edu/page/ia/901000493",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q302|https://www.wikidata.org/wiki/Q154326|https://www.wikidata.org/wiki/Q235113|https://www.wikidata.org/wiki/Q345|https://www.wikidata.org/wiki/Q2984138|https://www.wikidata.org/wiki/Q81989"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-18296-031.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-1982_319.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/Bedoli sealsnocap.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-1982_319-2.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-1982_319-3.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 96550,
+        "role": "Artist",
+        "name": "Attributed to Girolamo Mazzola Bedoli",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500029049",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1527051",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 84.8,
+          "Width": 58.7
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Doves",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250045",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q2984138"
+      },
+      {
+        "term": "Angels",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379004",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q235113"
+      },
+      {
+        "term": "Virgin Mary",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000032",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q345"
+      },
+      {
+        "term": "Archangel Gabriel",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000493",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q81989"
+      },
+      {
+        "term": "Jesus",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q302"
+      },
+      {
+        "term": "Annunciation",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300412102",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q154326"
+      }
+    ]
+  }
+}

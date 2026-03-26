@@ -1,0 +1,124 @@
+{
+  "object_id": 11160,
+  "excel_metadata": {
+    "Object Number": "97.5",
+    "Is Highlight": true,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 11160,
+    "Gallery Number": 762.0,
+    "Department": "The American Wing",
+    "AccessionYear": 1897.0,
+    "Object Name": "Painting",
+    "Title": "The Last Moments of John Brown",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16458.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Thomas Hovenden",
+    "Artist Display Bio": "American (born Ireland), Dunmanway 1840–1895 Plymouth Meeting, Pennsylvania",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Hovenden, Thomas",
+    "Artist Nationality": "American, born Ireland",
+    "Artist Begin Date": "1840",
+    "Artist End Date": "1895",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500030718",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q3525211",
+    "Object Date": "1882–84",
+    "Object Begin Date": 1882,
+    "Object End Date": 1884,
+    "Medium": "Oil on canvas",
+    "Dimensions": "77 3/8 x 66 1/4 in. (196.5 x 168.3 cm)",
+    "Credit Line": "Gift of Mr. and Mrs. Carl Stoeckel, 1897",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/11160",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20174584",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "American Civil War|Soldiers|Firearms|Infants|Men|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901000030|http://vocab.getty.edu/page/aat/300185678|http://vocab.getty.edu/page/aat/300037148|http://vocab.getty.edu/page/aat/300189561|http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8676|https://www.wikidata.org/wiki/Q4991371|https://www.wikidata.org/wiki/Q12796|https://www.wikidata.org/wiki/Q998|https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/ap97.5.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 164588,
+        "role": "Artist",
+        "name": "Thomas Hovenden",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500030718",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3525211",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 196.5,
+          "Width": 168.3
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 15.6,
+          "Height": 235.6,
+          "Width": 199.1
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Soldiers",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300185678",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q4991371"
+      },
+      {
+        "term": "Firearms",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300037148",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q12796"
+      },
+      {
+        "term": "American Civil War",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000030",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8676"
+      },
+      {
+        "term": "Infants",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300189561",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q998"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

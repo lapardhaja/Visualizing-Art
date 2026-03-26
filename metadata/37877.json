@@ -1,0 +1,92 @@
+{
+  "object_id": 37877,
+  "excel_metadata": {
+    "Object Number": "18.85.2",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 37877,
+    "Gallery Number": NaN,
+    "Department": "Asian Art",
+    "AccessionYear": 1918.0,
+    "Object Name": "Painting",
+    "Title": NaN,
+    "Culture": "India (Rajasthan, Jaipur)",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 1135.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": "Attributed to",
+    "Artist Display Name": "Sahib Ram",
+    "Artist Display Bio": "active reign of Maharaja Sawai Pratap Singh, 1778–1803",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "SAHIB RAM",
+    "Artist Nationality": " ",
+    "Artist Begin Date": "1778",
+    "Artist End Date": "1803",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "(not assigned)",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q20972077",
+    "Object Date": "ca. 1800",
+    "Object Begin Date": 1790,
+    "Object End Date": 1810,
+    "Medium": "Ink and opaque watercolor on paper",
+    "Dimensions": "27 1/4 × 18 1/2 in. (69.2 × 47 cm)",
+    "Credit Line": "Rogers Fund, 1918",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/37877",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q78883959",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Krishna",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901000876",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q42891"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/as/original/DP153194.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/as/original/LC-18_85_2_001.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 11358,
+        "role": "Artist",
+        "name": "Attributed to Sahib Ram",
+        "constituentULAN_URL": "(not assigned)",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q20972077",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 69.22,
+          "Width": 46.99
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Krishna",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000876",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q42891"
+      }
+    ]
+  }
+}

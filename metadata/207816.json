@@ -1,0 +1,119 @@
+{
+  "object_id": 207816,
+  "excel_metadata": {
+    "Object Number": 1990.84,
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 207816,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1990,
+    "Object Name": "Celestial globe",
+    "Title": "Celestial globe",
+    "Culture": "Dutch, Amsterdam",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 3505,
+    "Artist Role": "Maker",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Willem Jansz Blaeu",
+    "Artist Display Bio": "Dutch, Alkmaar 1571–1638 Amsterdam",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Blaeu, Willem Jansz",
+    "Artist Nationality": "Dutch",
+    "Artist Begin Date": 1571,
+    "Artist End Date": 1638,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500175604",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q520327",
+    "Object Date": "after 1621",
+    "Object Begin Date": 1621,
+    "Object End Date": 1699,
+    "Medium": "Paper, brass, oak and stained, light-colored wood",
+    "Dimensions": "Overall: 20 1/2 × 18 5/8 in. (52.1 × 47.3 cm);_x000D_\nDiameter (globe): 13 3/8 in. (34 cm)",
+    "Credit Line": "Purchase, Friends of European Sculpture and Decorative Arts Gifts, 1990",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Woodwork-Furniture",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/207816",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Lions|Elephants|Scorpions|Snakes|Globes",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300310388|http://vocab.getty.edu/page/aat/300250160|http://vocab.getty.edu/page/aat/300311341|http://vocab.getty.edu/page/aat/300250870|http://vocab.getty.edu/page/aat/300028089",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q140|https://www.wikidata.org/wiki/Q7378|https://www.wikidata.org/wiki/Q19125|https://www.wikidata.org/wiki/Q2102|https://www.wikidata.org/wiki/Q133792"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP-12901-001.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/DP-12901-002.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 35053,
+        "role": "Maker",
+        "name": "Willem Jansz Blaeu",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500175604",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q520327",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Diameter",
+        "elementDescription": "globe",
+        "elementMeasurements": {
+          "Diameter": 33.97257
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 52.070103,
+          "Width": 47.307594
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Elephants",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250160",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q7378"
+      },
+      {
+        "term": "Scorpions",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300311341",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q19125"
+      },
+      {
+        "term": "Lions",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300310388",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q140"
+      },
+      {
+        "term": "Snakes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250870",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q2102"
+      },
+      {
+        "term": "Globes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300028089",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q133792"
+      }
+    ]
+  }
+}

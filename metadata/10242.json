@@ -1,0 +1,95 @@
+{
+  "object_id": 10242,
+  "excel_metadata": {
+    "Object Number": "68.222.16",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 10242,
+    "Gallery Number": NaN,
+    "Department": "The American Wing",
+    "AccessionYear": 1968.0,
+    "Object Name": "Painting, miniature",
+    "Title": "Portrait of a Gentleman",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 237.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "John Henry Brown",
+    "Artist Display Bio": "1818–1891",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Brown, John Henry",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1818",
+    "Artist End Date": "1891",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500007666",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q20127273",
+    "Object Date": "ca. 1845",
+    "Object Begin Date": 1842,
+    "Object End Date": 1845,
+    "Medium": "Watercolor on ivory",
+    "Dimensions": "2 7/8 x 2 3/8 in. (7.3 x 6 cm)",
+    "Credit Line": "Gift of J. William Middendorf II, 1968",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/10242",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20177939",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/ap68.222.16.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 2374,
+        "role": "Artist",
+        "name": "John Henry Brown",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500007666",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q20127273",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 7.3025,
+          "Width": 6.0325
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

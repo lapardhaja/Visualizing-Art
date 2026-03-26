@@ -1,0 +1,95 @@
+{
+  "object_id": 437454,
+  "excel_metadata": {
+    "Object Number": "06.1241",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437454,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1906.0,
+    "Object Name": "Painting",
+    "Title": "Mrs. George Baldwin (Jane Maltass, 1763–1839)",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16508.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": "Workshop of",
+    "Artist Display Name": "Sir Joshua Reynolds",
+    "Artist Display Bio": "British, Plympton 1723–1792 London",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Reynolds, Joshua, Sir",
+    "Artist Nationality": "British",
+    "Artist Begin Date": "1723",
+    "Artist End Date": "1792",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500004539",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q194402",
+    "Object Date": "1782 or later",
+    "Object Begin Date": 1782,
+    "Object End Date": 1792,
+    "Medium": "Oil on canvas",
+    "Dimensions": "36 1/8 x 29 1/8 in. (91.8 x 74 cm)",
+    "Credit Line": "Gift of William T. Blodgett and his sister Eleanor Blodgett, in memory of their father, William T. Blodgett, one of the founders of the Museum, 1906",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437454",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912619",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Portraits|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP169212.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 165087,
+        "role": "Artist",
+        "name": "Workshop of Sir Joshua Reynolds",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500004539",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q194402",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 91.8,
+          "Width": 74
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

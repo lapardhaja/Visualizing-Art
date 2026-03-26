@@ -1,0 +1,98 @@
+{
+  "object_id": 436260,
+  "excel_metadata": {
+    "Object Number": "22.221",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436260,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1922.0,
+    "Object Name": "Painting",
+    "Title": "Study Head of an Old Man with a White Beard",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16185.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Anthony van Dyck",
+    "Artist Display Bio": "Flemish, Antwerp 1599–1641 London",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Dyck, Anthony van",
+    "Artist Nationality": "Flemish",
+    "Artist Begin Date": "1599",
+    "Artist End Date": "1641",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500115190",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q150679",
+    "Object Date": "ca. 1617–20",
+    "Object Begin Date": 1617,
+    "Object End Date": 1620,
+    "Medium": "Oil on wood",
+    "Dimensions": "26 x 20 1/4 in. (66 x 51.4 cm)",
+    "Credit Line": "Egleston Fund, 1922",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436260",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19905420",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-18296-015.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-22_221-2.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-22_221-3.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 161858,
+        "role": "Artist",
+        "name": "Anthony van Dyck",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115190",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q150679",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 66,
+          "Width": 51.4
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

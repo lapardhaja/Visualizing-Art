@@ -1,0 +1,114 @@
+{
+  "object_id": 436658,
+  "excel_metadata": {
+    "Object Number": "50.135.4",
+    "Is Highlight": true,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 436658,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1950.0,
+    "Object Name": "Painting",
+    "Title": "Hermann von Wedigh III (died 1560)",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16199.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Hans Holbein the Younger",
+    "Artist Display Bio": "German, Augsburg 1497/98–1543 London",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Holbein, Hans, the Younger",
+    "Artist Nationality": "German",
+    "Artist Begin Date": "1497",
+    "Artist End Date": "1543",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500005259",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q48319",
+    "Object Date": "1532",
+    "Object Begin Date": 1532,
+    "Object End Date": 1532,
+    "Medium": "Oil and gold on oak",
+    "Dimensions": "16 5/8 x 12 3/4 in. (42.2 x 32.4 cm), with added strip of 1/2 in. (1.3 cm) at bottom",
+    "Credit Line": "Bequest of Edward S. Harkness, 1940",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436658",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19911428",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits|Latin",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300388693",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q397"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP164836.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/GermanCat30_IRRnocap.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/GermanCat30_Xraynocap.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-50_135_4-2.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-50_135_4-3.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 161994,
+        "role": "Artist",
+        "name": "Hans Holbein the Younger",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500005259",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q48319",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 42.2,
+          "Width": 32.4
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 5.3975,
+          "Height": 54.6101,
+          "Width": 45.7201
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Latin",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300388693",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q397"
+      }
+    ]
+  }
+}

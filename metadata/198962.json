@@ -1,0 +1,93 @@
+{
+  "object_id": 198962,
+  "excel_metadata": {
+    "Object Number": "41.190.269",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 198962,
+    "Gallery Number": 534,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1941,
+    "Object Name": "Statue",
+    "Title": "Bacchus",
+    "Culture": "Italian, Florence",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 3362,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Domenico Poggini",
+    "Artist Display Bio": "Italian, Florence 1520–1590 Rome",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Poggini, Domenico",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": 1520,
+    "Artist End Date": 1590,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500000281",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q3713189",
+    "Object Date": 1554,
+    "Object Begin Date": 1554,
+    "Object End Date": 1554,
+    "Medium": "Marble",
+    "Dimensions": "Overall (confirmed): 54 × 21 × 18 in. (137.2 × 53.3 × 45.7 cm)",
+    "Credit Line": "Bequest of George Blumenthal, 1941",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Sculpture",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/198962",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q116240786",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Bacchus",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901001409",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q645312"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP-13510-001.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/DP-13510-002.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 33627,
+        "role": "Artist",
+        "name": "Domenico Poggini",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500000281",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3713189",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": "confirmed",
+        "elementMeasurements": {
+          "Depth": 45.720093,
+          "Height": 137.16028,
+          "Width": 53.340107
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Bacchus",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901001409",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q645312"
+      }
+    ]
+  }
+}

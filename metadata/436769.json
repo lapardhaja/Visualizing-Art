@@ -1,0 +1,106 @@
+{
+  "object_id": 436769,
+  "excel_metadata": {
+    "Object Number": "49.7.3",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436769,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1949.0,
+    "Object Name": "Painting",
+    "Title": "Portrait of a Young Man",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16201.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Jacometto (Jacometto Veneziano)",
+    "Artist Display Bio": "Italian, active Venice by ca. 1472–died before 1498",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Jacometto (Jacometto Veneziano)",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1472",
+    "Artist End Date": "1498",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500020119",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q6223610",
+    "Object Date": "1480s",
+    "Object Begin Date": 1480,
+    "Object End Date": 1489,
+    "Medium": "Oil on wood",
+    "Dimensions": "11 x 8 1/4 in. (27.9 x 21 cm)",
+    "Credit Line": "The Jules Bache Collection, 1949",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436769",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19906042",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP243725.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-49_7_3-2.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 162010,
+        "role": "Artist",
+        "name": "Jacometto (Jacometto Veneziano)",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500020119",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q6223610",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 27.9,
+          "Width": 21
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 7.3025146,
+          "Height": 51.117603,
+          "Width": 44.45009
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

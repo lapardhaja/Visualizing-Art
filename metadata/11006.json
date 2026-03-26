@@ -1,0 +1,99 @@
+{
+  "object_id": 11006,
+  "excel_metadata": {
+    "Object Number": "1973.14.4",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 11006,
+    "Gallery Number": NaN,
+    "Department": "The American Wing",
+    "AccessionYear": 1973.0,
+    "Object Name": "Painting",
+    "Title": "Godesberg",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 257.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "James M. Hart",
+    "Artist Display Bio": "American (born Scotland), Kilmarnock 1828–1901 New York",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Hart, James M.",
+    "Artist Nationality": " ",
+    "Artist Begin Date": "1828",
+    "Artist End Date": "1901",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500015240",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q724069",
+    "Object Date": "1852",
+    "Object Begin Date": 1852,
+    "Object End Date": 1852,
+    "Medium": "Oil on wove paper",
+    "Dimensions": "12 1/4 x 9 1/2 in. (31.1 x 24.1 cm)",
+    "Credit Line": "Rogers Fund, 1973",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/11006",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19925115",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Landscapes",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300132294",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q191163"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DT11076.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 2578,
+        "role": "Artist",
+        "name": "James M. Hart",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500015240",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q724069",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 31.1,
+          "Width": 24.1
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 6.5,
+          "Height": 50.5,
+          "Width": 43.3
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Landscapes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+      }
+    ]
+  }
+}

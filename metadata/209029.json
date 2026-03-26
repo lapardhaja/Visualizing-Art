@@ -1,0 +1,94 @@
+{
+  "object_id": 209029,
+  "excel_metadata": {
+    "Object Number": "64.128.2, .3",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 209029,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1964,
+    "Object Name": "Side chairs",
+    "Title": "Miniature side chairs (part of a set)",
+    "Culture": "French",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 3491,
+    "Artist Role": "Maker",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Pierre-Eloi Langlois",
+    "Artist Display Bio": "1738–1805, master 1774",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "LANGLOIS PIERRE-ELOI",
+    "Artist Nationality": " ",
+    "Artist Begin Date": 1738,
+    "Artist End Date": 1805,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500010479",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q55110516",
+    "Object Date": "ca. 1795",
+    "Object Begin Date": 1790,
+    "Object End Date": 1800,
+    "Medium": "Mahogany veneer on beechwood",
+    "Dimensions": "Overall (.2): 28 3/4 × 15 1/2 × 14 1/2 in. (73 × 39.4 × 36.8 cm);_x000D_\nOverall (.3): 29 × 15 3/4 × 14 1/4 in. (73.7 × 40 × 36.2 cm)",
+    "Credit Line": "Gift of Mr. and Mrs. Daniel H. Silberberg, 1964",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Woodwork-Furniture",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/209029",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": null,
+    "Tags AAT URL": null,
+    "Tags Wikidata URL": null
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/180663.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 34915,
+        "role": "Maker",
+        "name": "Pierre-Eloi Langlois",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500010479",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q55110516",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": ".3",
+        "elementMeasurements": {
+          "Depth": 36.195072,
+          "Height": 73.66015,
+          "Width": 40.00508
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": ".2",
+        "elementMeasurements": {
+          "Depth": 36.830074,
+          "Height": 73.02515,
+          "Width": 39.37008
+        }
+      }
+    ],
+    "tags": null
+  }
+}

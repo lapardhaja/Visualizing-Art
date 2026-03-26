@@ -1,0 +1,100 @@
+{
+  "object_id": 15074,
+  "excel_metadata": {
+    "Object Number": "2006.235.77",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 15074,
+    "Gallery Number": NaN,
+    "Department": "The American Wing",
+    "AccessionYear": 2006.0,
+    "Object Name": "Painting, miniature",
+    "Title": "Anne Catherine Ward and John Ward",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 256.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Anne Hall",
+    "Artist Display Bio": "1792–1863",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Hall, Anne",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1792",
+    "Artist End Date": "1863",
+    "Artist Gender": "Female",
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500001614",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q17423465",
+    "Object Date": "ca. 1840",
+    "Object Begin Date": 1837,
+    "Object End Date": 1843,
+    "Medium": "Watercolor on ivory",
+    "Dimensions": "3 1/8 x 2 5/8 in. (7.9 x 6.8 cm)",
+    "Credit Line": "Gift of Gloria Manney, 2006",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/15074",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20177390",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Boys|Girls|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300247598|http://vocab.getty.edu/page/aat/300247581|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q3010|https://www.wikidata.org/wiki/Q3031|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/APS6887.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 2566,
+        "role": "Artist",
+        "name": "Anne Hall",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500001614",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q17423465",
+        "gender": "Female"
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 7.9,
+          "Width": 6.7
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Boys",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300247598",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3010"
+      },
+      {
+        "term": "Girls",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300247581",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3031"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

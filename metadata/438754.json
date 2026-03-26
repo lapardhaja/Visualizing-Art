@@ -1,0 +1,95 @@
+{
+  "object_id": 438754,
+  "excel_metadata": {
+    "Object Number": "2004.442",
+    "Is Highlight": true,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 438754,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 2004.0,
+    "Object Name": "Painting",
+    "Title": "Madonna and Child",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16184.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Duccio di Buoninsegna",
+    "Artist Display Bio": "Italian, active by 1278–died 1318 Siena",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Duccio di Buoninsegna",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1278",
+    "Artist End Date": "1318",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500029165",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q15792",
+    "Object Date": "ca. 1290–1300",
+    "Object Begin Date": 1290,
+    "Object End Date": 1300,
+    "Medium": "Tempera and gold on wood",
+    "Dimensions": "Overall, with engaged frame, 11 x 8 1/4 in. (27.9 x 21 cm); painted surface 9 3/8 x 6 1/2 in. (23.8 x 16.5 cm)",
+    "Credit Line": "Purchase, Rogers Fund, Walter and Leonore Annenberg and The Annenberg Foundation Gift, Lila Acheson Wallace Gift, Annette de la Renta Gift, Harris Brisbane Dick, Fletcher, Louis V. Bell, and Dodge Funds, Joseph Pulitzer Bequest, several members of The Chairman's Council Gifts, Elaine L. Rosenberg and Stephenson Family Foundation Gifts, 2003 Benefit Fund, and other gifts and funds from various donors, 2004",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/438754",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q6728394",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Madonna and Child",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901000052",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q9309699"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP142735.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/Duccio IR.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-2004_442-2.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-2004_442-3.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 161849,
+        "role": "Artist",
+        "name": "Duccio di Buoninsegna",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500029165",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q15792",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 2.3812547,
+          "Height": 27.9401,
+          "Width": 20.955
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Madonna and Child",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000052",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q9309699"
+      }
+    ]
+  }
+}

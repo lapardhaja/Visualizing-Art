@@ -1,0 +1,89 @@
+{
+  "object_id": 203826,
+  "excel_metadata": {
+    "Object Number": "64.101.1099",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 203826,
+    "Gallery Number": 512,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1964,
+    "Object Name": "China table",
+    "Title": "China table",
+    "Culture": "British",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 16143,
+    "Artist Role": "Designer",
+    "Artist Prefix": "After a design by",
+    "Artist Display Name": "Thomas Chippendale",
+    "Artist Display Bio": "British, baptised Otley, West Yorkshire 1718–1779 London",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Chippendale, Thomas",
+    "Artist Nationality": "British",
+    "Artist Begin Date": 1718,
+    "Artist End Date": 1779,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500015768",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q314278",
+    "Object Date": "ca. 1755",
+    "Object Begin Date": 1750,
+    "Object End Date": 1760,
+    "Medium": "Mahogany",
+    "Dimensions": "Overall: 28 1/4 × 37 3/4 × 26 1/2 in. (71.8 × 95.9 × 67.3 cm)",
+    "Credit Line": "Gift of Irwin Untermyer, 1964",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Woodwork-Furniture",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/203826",
+    "Object Wikidata URL": "http://www.wikidata.org/entity/Q113179959",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": null,
+    "Tags AAT URL": null,
+    "Tags Wikidata URL": null
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP105783.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/DP107112.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP105784.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP105785.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 161434,
+        "role": "Designer",
+        "name": "After a design by Thomas Chippendale",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500015768",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q314278",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 67.310135,
+          "Height": 71.75514,
+          "Width": 95.88519
+        }
+      }
+    ],
+    "tags": null
+  }
+}

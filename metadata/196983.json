@@ -1,0 +1,100 @@
+{
+  "object_id": 196983,
+  "excel_metadata": {
+    "Object Number": "32.75.48",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 196983,
+    "Gallery Number": NaN,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1932.0,
+    "Object Name": "Snuffbox, painting",
+    "Title": "Snuffbox with portrait of Christian VII (1749-1808)",
+    "Culture": "British",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 20591.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": "After",
+    "Artist Display Name": "Georg Christian Seiptius",
+    "Artist Display Bio": "Danish, Dresden 1744–1795 Copenhagen",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Seiptius, Georg Christian",
+    "Artist Nationality": "Danish",
+    "Artist Begin Date": "1744",
+    "Artist End Date": "1795",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500112700",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q109886128",
+    "Object Date": "ca. 1780–1800",
+    "Object Begin Date": 1775,
+    "Object End Date": 1805,
+    "Medium": "Gold, enamel",
+    "Dimensions": "Overall: 3/4 × 2 5/8 × 1 5/8 in. (1.9 × 6.7 × 4.1 cm)",
+    "Credit Line": "The Collection of Giovanni P. Morosini, presented by his daughter Giulia, 1932",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Metalwork-Gold and Platinum|Miniatures",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/196983",
+    "Object Wikidata URL": NaN,
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP-16097-065.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/DP-16097-138.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP-16097-066.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/32-75-48.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 205917,
+        "role": "Artist",
+        "name": "After Georg Christian Seiptius",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500112700",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q109886128",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 4.127508,
+          "Height": 1.9050038,
+          "Width": 6.6675134
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "object_id": 209104,
+  "excel_metadata": {
+    "Object Number": "1974.356.120a",
+    "Is Highlight": true,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 209104,
+    "Gallery Number": 533,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1974,
+    "Object Name": "Settee",
+    "Title": "Settee (one of a pair) (part of a set)",
+    "Culture": "German, Würzberg",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 4811,
+    "Artist Role": "Maker",
+    "Artist Prefix": "Attributed to",
+    "Artist Display Name": "Johann Michael Bauer",
+    "Artist Display Bio": "German, Westheim 1710–1779 Bamberg",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Bauer, Johann Michael",
+    "Artist Nationality": "German (born Westheim)",
+    "Artist Begin Date": 1710,
+    "Artist End Date": 1779,
+    "Artist Gender": null,
+    "Artist ULAN URL": null,
+    "Artist Wikidata URL": null,
+    "Object Date": "ca. 1763–64",
+    "Object Begin Date": 1758,
+    "Object End Date": 1769,
+    "Medium": "Carved, painted and gilded linden wood; squab pillow in silk velvet (not original)",
+    "Dimensions": "43 x 54 1/2 x 25 1/4 in. (109.2 x 138.4 x 64.1cm)",
+    "Credit Line": "The Lesley and Emma Sheafer Collection, Bequest of Emma A. Sheafer, 1973",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Woodwork-Lacquer",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/209104",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q29383680",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": null,
+    "Tags AAT URL": null,
+    "Tags Wikidata URL": null
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP105733.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/DP105734.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP105735.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP109224.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/204811.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 48114,
+        "role": "Maker",
+        "name": "Attributed to Johann Michael Bauer",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 64.1,
+          "Height": 109.2,
+          "Width": 138.4
+        }
+      }
+    ],
+    "tags": null
+  }
+}

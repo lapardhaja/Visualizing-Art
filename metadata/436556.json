@@ -1,0 +1,95 @@
+{
+  "object_id": 436556,
+  "excel_metadata": {
+    "Object Number": "32.100.6",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436556,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1932.0,
+    "Object Name": "Painting",
+    "Title": "Country House near the Water",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16521.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Jan van Goyen",
+    "Artist Display Bio": "Dutch, Leiden 1596–1656 The Hague",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Goyen, Jan van",
+    "Artist Nationality": "Dutch",
+    "Artist Begin Date": "1596",
+    "Artist End Date": "1656",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500115612",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q315996",
+    "Object Date": "1646",
+    "Object Begin Date": 1646,
+    "Object End Date": 1646,
+    "Medium": "Oil on wood",
+    "Dimensions": "14 3/8 x 13 in. (36.5 x 33 cm)",
+    "Credit Line": "The Friedsam Collection, Bequest of Michael Friedsam, 1931",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436556",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19914230",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Boats|Houses",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300178749|http://vocab.getty.edu/page/aat/300005433",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q35872|https://www.wikidata.org/wiki/Q3947"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP145923.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 165218,
+        "role": "Artist",
+        "name": "Jan van Goyen",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115612",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q315996",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 36.5,
+          "Width": 33
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Houses",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300005433",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3947"
+      },
+      {
+        "term": "Boats",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300178749",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q35872"
+      }
+    ]
+  }
+}

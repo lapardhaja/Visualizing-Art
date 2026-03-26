@@ -1,0 +1,116 @@
+{
+  "object_id": 10833,
+  "excel_metadata": {
+    "Object Number": "17.87.1",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 10833,
+    "Gallery Number": 753.0,
+    "Department": "The American Wing",
+    "AccessionYear": 1917.0,
+    "Object Name": "Painting",
+    "Title": "Marinus Willett",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16352.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Ralph Earl",
+    "Artist Display Bio": "American, Worcester County, Massachusetts 1751–1801 Bolton, Connecticut",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Earl, Ralph",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1751",
+    "Artist End Date": "1801",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500116241",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q1350959",
+    "Object Date": "ca. 1791",
+    "Object Begin Date": 1788,
+    "Object End Date": 1791,
+    "Medium": "Oil on canvas",
+    "Dimensions": "91 1/4 x 56 in.  (231.8 x 142.2 cm)",
+    "Credit Line": "Bequest of George Willett Van Nest, 1916",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/10833",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19924519",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Soldiers|Swords|Men|Trees",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300185678|http://vocab.getty.edu/page/aat/300037048|http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300132410",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q4991371|https://www.wikidata.org/wiki/Q12791|https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q10884"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DT2936.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ad/original/DP275095.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 163522,
+        "role": "Artist",
+        "name": "Ralph Earl",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500116241",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1350959",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 231.8,
+          "Width": 142.2
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 14.605,
+          "Height": 251.4605,
+          "Width": 160.0203
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Soldiers",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300185678",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q4991371"
+      },
+      {
+        "term": "Swords",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300037048",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q12791"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Trees",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132410",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q10884"
+      }
+    ]
+  }
+}

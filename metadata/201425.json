@@ -1,0 +1,90 @@
+{
+  "object_id": 201425,
+  "excel_metadata": {
+    "Object Number": 52.153,
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 201425,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1952,
+    "Object Name": "Statuette",
+    "Title": "Nude woman",
+    "Culture": "French",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 3338,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Aimé-Jules Dalou",
+    "Artist Display Bio": "French, Paris 1838–1902 Paris",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Dalou, Aimé-Jules",
+    "Artist Nationality": "French",
+    "Artist Begin Date": 1838,
+    "Artist End Date": 1902,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500115274",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q551648",
+    "Object Date": 1899,
+    "Object Begin Date": 1899,
+    "Object End Date": 1899,
+    "Medium": "White marble; base: green marble",
+    "Dimensions": "22 1/2 × 11 1/2 in. (57.2 × 29.2 cm)",
+    "Credit Line": "Gift of Mr. and Mrs. Frank Altschul, 1952",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Sculpture",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/201425",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Female Nudes",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300189568",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q40446"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/154101.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 33381,
+        "role": "Artist",
+        "name": "Aimé-Jules Dalou",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115274",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q551648",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 57.150116,
+          "Width": 29.210058
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Female Nudes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300189568",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q40446"
+      }
+    ]
+  }
+}

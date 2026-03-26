@@ -1,0 +1,107 @@
+{
+  "object_id": 459121,
+  "excel_metadata": {
+    "Object Number": "1975.1.211",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 459121,
+    "Gallery Number": NaN,
+    "Department": "Robert Lehman Collection",
+    "AccessionYear": 1975.0,
+    "Object Name": "Painting",
+    "Title": "Allée of Chestnut Trees",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16511.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Alfred Sisley",
+    "Artist Display Bio": "British, Paris 1839–1899 Moret-sur-Loing",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Sisley, Alfred",
+    "Artist Nationality": "British",
+    "Artist Begin Date": "1839",
+    "Artist End Date": "1899",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500027485",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q175130",
+    "Object Date": "1878",
+    "Object Begin Date": 1878,
+    "Object End Date": 1878,
+    "Medium": "Oil on canvas",
+    "Dimensions": "19 3/4 x 24 in. (50.2 x 61 cm)",
+    "Credit Line": "Robert Lehman Collection, 1975",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/459121",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20182109",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Trees|Rivers",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300132410|http://vocab.getty.edu/page/aat/300008707",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q10884|https://www.wikidata.org/wiki/Q4022"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/rl/original/DP-34504-001.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/rl/original/2330.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/DT3139.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/ep1975.1.211.bw.R.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 165111,
+        "role": "Artist",
+        "name": "Alfred Sisley",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500027485",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q175130",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 50.2,
+          "Width": 61
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 69.53264,
+          "Width": 79.69266
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Rivers",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300008707",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q4022"
+      },
+      {
+        "term": "Trees",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132410",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q10884"
+      }
+    ]
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "object_id": 202946,
+  "excel_metadata": {
+    "Object Number": "63.70.7a, b, .8a, b",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 202946,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1963,
+    "Object Name": "Candlesticks",
+    "Title": "Pair of candlesticks (part of a toilet service)",
+    "Culture": "British, London",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 3491,
+    "Artist Role": "Maker",
+    "Artist Prefix": " ",
+    "Artist Display Name": "William Fowle",
+    "Artist Display Bio": "1658–1684, active 1681–84",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Fowle William",
+    "Artist Nationality": " ",
+    "Artist Begin Date": 1658,
+    "Artist End Date": 1684,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500330613",
+    "Artist Wikidata URL": null,
+    "Object Date": "1683–84",
+    "Object Begin Date": 1683,
+    "Object End Date": 1684,
+    "Medium": "Silver gilt",
+    "Dimensions": "Overall (confirmed): H. 6 7/16 x W. 4 3/4 x D. 4 3/4 in., 14 oz. 9 dwt. (16.4 x 12.1 x 12.1 cm, 0.45kg)",
+    "Credit Line": "Fletcher Fund, 1963",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Metalwork-Silver",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/202946",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": null,
+    "Tags AAT URL": null,
+    "Tags Wikidata URL": null
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP-13265-145.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/DP-13265-059.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP-13265-060.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP242393.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 34910,
+        "role": "Maker",
+        "name": "William Fowle",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500330613",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": "confirmed",
+        "elementMeasurements": {
+          "Depth": 12.065024,
+          "Height": 16.351282,
+          "Weight": 0.45,
+          "Width": 12.065024
+        }
+      }
+    ],
+    "tags": null
+  }
+}

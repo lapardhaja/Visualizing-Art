@@ -1,0 +1,107 @@
+{
+  "object_id": 436541,
+  "excel_metadata": {
+    "Object Number": "06.289",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 436541,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1906.0,
+    "Object Name": "Painting",
+    "Title": "Sebastián Martínez y Pérez (1747–1800)",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16195.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Goya (Francisco de Goya y Lucientes)",
+    "Artist Display Bio": "Spanish, Fuendetodos 1746–1828 Bordeaux",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Goya (Francisco de Goya y Lucientes)",
+    "Artist Nationality": "Spanish",
+    "Artist Begin Date": "1746",
+    "Artist End Date": "1828",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500118936",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q5432",
+    "Object Date": "1792",
+    "Object Begin Date": 1792,
+    "Object End Date": 1792,
+    "Medium": "Oil on canvas",
+    "Dimensions": "36 5/8 x 26 5/8 in. (93 x 67.6 cm)",
+    "Credit Line": "Rogers Fund, 1906",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436541",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q9638626",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-28009-001.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-06_289-2.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-06_289-3.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 161953,
+        "role": "Artist",
+        "name": "Goya (Francisco de Goya y Lucientes)",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500118936",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5432",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 93,
+          "Width": 67.6
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 7.62,
+          "Height": 109.2202,
+          "Width": 82.5502
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

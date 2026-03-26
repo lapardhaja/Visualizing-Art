@@ -1,0 +1,105 @@
+{
+  "object_id": 435573,
+  "excel_metadata": {
+    "Object Number": "1985.5",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 435573,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1985.0,
+    "Object Name": "Painting",
+    "Title": "Flora and Zephyr",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16159.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Jacopo Amigoni",
+    "Artist Display Bio": "Italian, Venice 1682–1752 Madrid",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Amigoni, Jacopo",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1682",
+    "Artist End Date": "1752",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500016473",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q380897",
+    "Object Date": "1730s",
+    "Object Begin Date": 1730,
+    "Object End Date": 1739,
+    "Medium": "Oil on canvas",
+    "Dimensions": "84 x 58 in. (213.4 x 147.3 cm)",
+    "Credit Line": "Purchase, Rudolph and Lentilhon G. von Fluegge Foundation Inc. Gift, 1985",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/435573",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912099",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Goddess|Putti|Flowers|Landscapes",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300343852|http://vocab.getty.edu/page/aat/300250465|http://vocab.getty.edu/page/aat/300132399|http://vocab.getty.edu/page/aat/300132294",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q205985|https://www.wikidata.org/wiki/Q284865|https://www.wikidata.org/wiki/Q506|https://www.wikidata.org/wiki/Q191163"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT8028.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 161598,
+        "role": "Artist",
+        "name": "Jacopo Amigoni",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500016473",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q380897",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 213.4,
+          "Width": 147.3
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Putti",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250465",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q284865"
+      },
+      {
+        "term": "Flowers",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132399",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q506"
+      },
+      {
+        "term": "Landscapes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+      },
+      {
+        "term": "Goddess",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300343852",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q205985"
+      }
+    ]
+  }
+}

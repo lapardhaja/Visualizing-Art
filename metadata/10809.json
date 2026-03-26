@@ -1,0 +1,104 @@
+{
+  "object_id": 10809,
+  "excel_metadata": {
+    "Object Number": "1972.263.1",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 10809,
+    "Gallery Number": 713.0,
+    "Department": "The American Wing",
+    "AccessionYear": 1972.0,
+    "Object Name": "Painting",
+    "Title": "Portrait of a Lady",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 248.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": "Attributed to",
+    "Artist Display Name": "Gerrit Duyckinck",
+    "Artist Display Bio": "1660–ca. 1712",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Duyckinck, Gerrit",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1660",
+    "Artist End Date": "1712",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500013714",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q55578528",
+    "Object Date": "ca. 1710",
+    "Object Begin Date": 1705,
+    "Object End Date": 1715,
+    "Medium": "Oil on wood",
+    "Dimensions": "41 1/4 x 32 3/4 in. (104.8 x 83.2 cm)",
+    "Credit Line": "Gift of Edgar William and Bernice Chrysler Garbisch, 1972",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/10809",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20171041",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Portraits|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/ap1972.263.1.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 2488,
+        "role": "Artist",
+        "name": "Attributed to Gerrit Duyckinck",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500013714",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q55578528",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 104.8,
+          "Width": 83.2
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 13.3,
+          "Height": 112.5,
+          "Width": 93
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

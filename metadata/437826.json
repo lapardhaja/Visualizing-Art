@@ -1,0 +1,118 @@
+{
+  "object_id": 437826,
+  "excel_metadata": {
+    "Object Number": "49.7.16",
+    "Is Highlight": true,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 437826,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1949.0,
+    "Object Name": "Painting",
+    "Title": "Venus and Adonis",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16255.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Titian (Tiziano Vecellio)",
+    "Artist Display Bio": "Italian, Pieve di Cadore ca. 1485/90?–1576 Venice",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Titian (Tiziano Vecellio)",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1485",
+    "Artist End Date": "1576",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500031075",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q47551",
+    "Object Date": "1550s",
+    "Object Begin Date": 1550,
+    "Object End Date": 1559,
+    "Medium": "Oil on canvas",
+    "Dimensions": "42 x 52 1/2 in. (106.7 x 133.4 cm)",
+    "Credit Line": "The Jules Bache Collection, 1949",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437826",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q4009570",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Cupid|Adonis|Venus|Dogs",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300380105|http://vocab.getty.edu/page/ia/901000521|http://vocab.getty.edu/page/ia/901001064|http://vocab.getty.edu/page/aat/300265714",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q5011|https://www.wikidata.org/wiki/Q163920|https://www.wikidata.org/wiki/Q47652|https://www.wikidata.org/wiki/Q144"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-19299-001.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-49_7_16_xray.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-49_7_16-2.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-49_7_16-3.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 162552,
+        "role": "Artist",
+        "name": "Titian (Tiziano Vecellio)",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500031075",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q47551",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 106.7,
+          "Width": 133.4
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 8.89,
+          "Height": 128.2703,
+          "Width": 154.3053
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Cupid",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300380105",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q5011"
+      },
+      {
+        "term": "Adonis",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000521",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q163920"
+      },
+      {
+        "term": "Venus",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901001064",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q47652"
+      },
+      {
+        "term": "Dogs",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300265714",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q144"
+      }
+    ]
+  }
+}

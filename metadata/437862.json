@@ -1,0 +1,108 @@
+{
+  "object_id": 437862,
+  "excel_metadata": {
+    "Object Number": "54.168",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437862,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1954.0,
+    "Object Name": "Painting",
+    "Title": "Pietà",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16507.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Juan de Valdés Leal",
+    "Artist Display Bio": "Spanish, Seville 1622–1690 Seville",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Valdés Leal, Juan de",
+    "Artist Nationality": "Spanish",
+    "Artist Begin Date": "1622",
+    "Artist End Date": "1690",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500025701",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q518898",
+    "Object Date": "ca. 1657–60",
+    "Object Begin Date": 1657,
+    "Object End Date": 1660,
+    "Medium": "Oil on canvas",
+    "Dimensions": "63 1/4 x 56 1/2 in. (160.7 x 143.5 cm)",
+    "Credit Line": "Victor Wilbour Memorial Fund, 1954",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437862",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912239",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Sadness|Death|Christ|Virgin Mary",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300055166|http://vocab.getty.edu/page/aat/300151836|http://vocab.getty.edu/page/ia/901000087|http://vocab.getty.edu/page/ia/901000032",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q169251|https://www.wikidata.org/wiki/Q4|https://www.wikidata.org/wiki/Q642420|https://www.wikidata.org/wiki/Q345"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-25350-001.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-54_168-2.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-54_168-3.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 165072,
+        "role": "Artist",
+        "name": "Juan de Valdés Leal",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500025701",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q518898",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 160.7,
+          "Width": 143.5
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Sadness",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300055166",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q169251"
+      },
+      {
+        "term": "Christ",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+      },
+      {
+        "term": "Virgin Mary",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000032",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q345"
+      },
+      {
+        "term": "Death",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300151836",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q4"
+      }
+    ]
+  }
+}

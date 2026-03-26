@@ -1,0 +1,111 @@
+{
+  "object_id": 436628,
+  "excel_metadata": {
+    "Object Number": "71.76",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436628,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1871.0,
+    "Object Name": "Painting",
+    "Title": "Malle Babbe",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16197.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": "Style of",
+    "Artist Display Name": "Frans Hals",
+    "Artist Display Bio": "Dutch, second quarter 17th century",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Hals, Frans",
+    "Artist Nationality": "Dutch",
+    "Artist Begin Date": "1582",
+    "Artist End Date": "1666",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500027794",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q167654",
+    "Object Date": NaN,
+    "Object Begin Date": 1625,
+    "Object End Date": 1649,
+    "Medium": "Oil on canvas",
+    "Dimensions": "29 1/2 x 24 in. (74.9 x 61 cm)",
+    "Credit Line": "Purchase, 1871",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436628",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19911627",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Portraits|Women|Owls",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/aat/300310290",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q8021345"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-22962-001.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/DP145941.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 161974,
+        "role": "Artist",
+        "name": "Style of Frans Hals",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500027794",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q167654",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 74.9,
+          "Width": 61
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 10.16002,
+          "Height": 101.9177,
+          "Width": 86.67767
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Owls",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300310290",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8021345"
+      }
+    ]
+  }
+}

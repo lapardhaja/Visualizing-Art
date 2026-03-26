@@ -1,0 +1,105 @@
+{
+  "object_id": 38016,
+  "excel_metadata": {
+    "Object Number": "1995.39",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 38016,
+    "Gallery Number": NaN,
+    "Department": "Asian Art",
+    "AccessionYear": 1995.0,
+    "Object Name": "Painting",
+    "Title": NaN,
+    "Culture": "India (Himachal Pradesh, Mandi)",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 1953.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "A Master of the Mandi atelier",
+    "Artist Display Bio": "Indian",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "A Master of the Mandi atelier",
+    "Artist Nationality": "Indian",
+    "Artist Begin Date": "          ",
+    "Artist End Date": "          ",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": NaN,
+    "Artist Wikidata URL": NaN,
+    "Object Date": "ca. 1700–10",
+    "Object Begin Date": 1690,
+    "Object End Date": 1720,
+    "Medium": "Ink and opaque watercolor on paper",
+    "Dimensions": "Image: 14 1/2 × 10 1/8 in. (36.8 × 25.7 cm)\r\nSheet: 14 3/4 × 10 11/16 in. (37.5 × 27.1 cm)",
+    "Credit Line": "Purchase, Florence and Herbert Irving Gift and Rogers Fund, 1995",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/38016",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q78875989",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Horses",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300250148",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q726"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/as/original/DT3844.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/as/original/LC-1995_39_001.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 19539,
+        "role": "Artist",
+        "name": "A Master of the Mandi atelier",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Sheet",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 37.465076,
+          "Width": 27.146305
+        }
+      },
+      {
+        "elementName": "Image",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 36.830074,
+          "Width": 25.717552
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Horses",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250148",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q726"
+      }
+    ]
+  }
+}

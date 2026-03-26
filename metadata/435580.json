@@ -1,0 +1,99 @@
+{
+  "object_id": 435580,
+  "excel_metadata": {
+    "Object Number": "32.100.82",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 435580,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1932.0,
+    "Object Name": "Painting",
+    "Title": "Christ Crowned with Thorns",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10731.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Antonello da Messina (Antonello di Giovanni d'Antonio)",
+    "Artist Display Bio": "Italian, Messina ca. 1430–1479 Messina",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Antonello da Messina (Antonello di Giovanni d'Antonio)",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1430",
+    "Artist End Date": "1479",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500007324",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q5594",
+    "Object Date": NaN,
+    "Object Begin Date": 1450,
+    "Object End Date": 1479,
+    "Medium": "Oil, possibly over tempera, on wood",
+    "Dimensions": "16 3/4 x 12 in. (42.5 x 30.5 cm)",
+    "Credit Line": "The Friedsam Collection, Bequest of Michael Friedsam, 1931",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/435580",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19911551",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Christ",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901000087",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q642420"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT285189.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 107311,
+        "role": "Artist",
+        "name": "Antonello da Messina (Antonello di Giovanni d&#39;Antonio)",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500007324",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5594",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 42.5,
+          "Width": 30.5
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 12.7,
+          "Height": 71.7551,
+          "Width": 55.8801
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Christ",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+      }
+    ]
+  }
+}

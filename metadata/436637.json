@@ -1,0 +1,105 @@
+{
+  "object_id": 436637,
+  "excel_metadata": {
+    "Object Number": "12.195",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 436637,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1912.0,
+    "Object Name": "Painting",
+    "Title": "Still Life: A Banqueting Scene",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10777.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Jan Davidsz de Heem",
+    "Artist Display Bio": "Dutch, Utrecht 1606–1683/84 Antwerp",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Heem, Jan Davidsz de",
+    "Artist Nationality": "Dutch",
+    "Artist Begin Date": "1606",
+    "Artist End Date": "1684",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500029732",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q454656",
+    "Object Date": "probably ca. 1640–41",
+    "Object Begin Date": 1640,
+    "Object End Date": 1641,
+    "Medium": "Oil on canvas",
+    "Dimensions": "53 1/4 x 73 in. (135.3 x 185.4 cm)",
+    "Credit Line": "Charles B. Curtis Fund, 1912",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436637",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19911905",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Utilitarian Objects|Fruit|Grapes|Lobsters|Still Life",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300404591|http://vocab.getty.edu/page/aat/300011868|http://vocab.getty.edu/page/aat/300379338|http://vocab.getty.edu/page/aat/300249724|http://vocab.getty.edu/page/aat/300015638",
+    "Tags Wikidata URL": " |https://www.wikidata.org/wiki/Q1364|https://www.wikidata.org/wiki/Q10978|https://www.wikidata.org/wiki/Q61864890|https://www.wikidata.org/wiki/Q170571"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP104986.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 107771,
+        "role": "Artist",
+        "name": "Jan Davidsz de Heem",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500029732",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q454656",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 135.3,
+          "Width": 185.4
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Fruit",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300011868",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q1364"
+      },
+      {
+        "term": "Grapes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379338",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q10978"
+      },
+      {
+        "term": "Lobsters",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300249724",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q61864890"
+      },
+      {
+        "term": "Still Life",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015638",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q170571"
+      }
+    ]
+  }
+}

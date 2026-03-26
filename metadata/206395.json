@@ -1,0 +1,99 @@
+{
+  "object_id": 206395,
+  "excel_metadata": {
+    "Object Number": "1976.71.24",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 206395,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1976,
+    "Object Name": "Cup",
+    "Title": "Cup",
+    "Culture": "German, Fulda",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 3792,
+    "Artist Role": "Manufactory",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Fulda Pottery and Porcelain Manufactory",
+    "Artist Display Bio": "German, 1764–1789",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Fulda Pottery and Porcelain Manufactory",
+    "Artist Nationality": "German",
+    "Artist Begin Date": 1764,
+    "Artist End Date": 1789,
+    "Artist Gender": null,
+    "Artist ULAN URL": null,
+    "Artist Wikidata URL": null,
+    "Object Date": "ca. 1780",
+    "Object Begin Date": 1775,
+    "Object End Date": 1785,
+    "Medium": "Hard-paste porcelain",
+    "Dimensions": "Height: 2 5/8 in. (6.7 cm)",
+    "Credit Line": "Gift of Mr. and Mrs. Rafi Y. Mottahedeh, 1976",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Ceramics-Porcelain",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/206395",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Human Figures|Profiles|Flowers",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300404114|http://vocab.getty.edu/page/aat/300123319|http://vocab.getty.edu/page/aat/300132399",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q5937779|https://www.wikidata.org/wiki/Q4382010|https://www.wikidata.org/wiki/Q506"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/208608.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 37926,
+        "role": "Manufactory",
+        "name": "Fulda Pottery and Porcelain Manufactory",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Height",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 6.6675134
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Human Figures",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300404114",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q5937779"
+      },
+      {
+        "term": "Profiles",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300123319",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q4382010"
+      },
+      {
+        "term": "Flowers",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132399",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q506"
+      }
+    ]
+  }
+}

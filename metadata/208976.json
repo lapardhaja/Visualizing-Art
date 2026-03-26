@@ -1,0 +1,92 @@
+{
+  "object_id": 208976,
+  "excel_metadata": {
+    "Object Number": 1998.65,
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 208976,
+    "Gallery Number": 552,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1998,
+    "Object Name": "Statuette",
+    "Title": "Victory Alighting on Earth",
+    "Culture": "Belgian, Brussels",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 3556,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Gilles-Lambert Godecharle",
+    "Artist Display Bio": "Brussels, Belgium 1750–1835 Brussels, Belgium",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "GODECHARLE GILLES-LAMBERT",
+    "Artist Nationality": " ",
+    "Artist Begin Date": 1750,
+    "Artist End Date": 1835,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500119939",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q2320449",
+    "Object Date": 1809,
+    "Object Begin Date": 1809,
+    "Object End Date": 1809,
+    "Medium": "Terracotta",
+    "Dimensions": "Height: 21 5/8 in. (54.9 cm)",
+    "Credit Line": "Purchase, Gift of Irwin Untermyer, by exchange, 1998",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Sculpture",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/208976",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q116373911",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Victory",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901000289",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q308902"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DT4268.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/DT4270.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DT4269.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 35569,
+        "role": "Artist",
+        "name": "Gilles-Lambert Godecharle",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500119939",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q2320449",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Height",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 54.92761
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Victory",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000289",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q308902"
+      }
+    ]
+  }
+}

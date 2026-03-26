@@ -1,0 +1,119 @@
+{
+  "object_id": 10534,
+  "excel_metadata": {
+    "Object Number": "59.198",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 10534,
+    "Gallery Number": 717.0,
+    "Department": "The American Wing",
+    "AccessionYear": 1959.0,
+    "Object Name": "Painting",
+    "Title": "The Return of Neptune",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16178.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "John Singleton Copley",
+    "Artist Display Bio": "American, Boston, Massachusetts 1738–1815 London",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Copley, John Singleton",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1738",
+    "Artist End Date": "1815",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500009177",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q316016",
+    "Object Date": "ca. 1754",
+    "Object Begin Date": 1751,
+    "Object End Date": 1754,
+    "Medium": "Oil on canvas",
+    "Dimensions": "27 1/2 x 44 1/2 in. (69.9 x 113 cm)",
+    "Credit Line": "Gift of Mrs. Orme Wilson, in memory of her parents, Mr. and Mrs. J. Nelson Borland, 1959",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/10534",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19924591",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Mermaids|Female Nudes|Centaurs|Neptune|Horses",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300379596|http://vocab.getty.edu/page/aat/300189568|http://vocab.getty.edu/page/aat/300379740|http://vocab.getty.edu/page/ia/901000243|http://vocab.getty.edu/page/aat/300250148",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q182559|https://www.wikidata.org/wiki/Q40446|https://www.wikidata.org/wiki/Q83203|https://www.wikidata.org/wiki/Q3954|https://www.wikidata.org/wiki/Q726"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DT201337.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 161784,
+        "role": "Artist",
+        "name": "John Singleton Copley",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500009177",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q316016",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 69.9,
+          "Width": 113
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 5,
+          "Height": 80.5,
+          "Width": 123.4
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Female Nudes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300189568",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q40446"
+      },
+      {
+        "term": "Centaurs",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379740",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q83203"
+      },
+      {
+        "term": "Mermaids",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379596",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q182559"
+      },
+      {
+        "term": "Neptune",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000243",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3954"
+      },
+      {
+        "term": "Horses",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250148",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q726"
+      }
+    ]
+  }
+}

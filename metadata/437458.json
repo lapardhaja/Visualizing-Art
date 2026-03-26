@@ -1,0 +1,115 @@
+{
+  "object_id": 437458,
+  "excel_metadata": {
+    "Object Number": "1986.347",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437458,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1986.0,
+    "Object Name": "Painting",
+    "Title": "The Holy Family with Angels",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16230.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Sebastiano Ricci",
+    "Artist Display Bio": "Italian, Belluno 1659–1734 Venice",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Ricci, Sebastiano",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1659",
+    "Artist End Date": "1734",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500028857",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q506483",
+    "Object Date": "ca. 1700",
+    "Object Begin Date": 1695,
+    "Object End Date": 1705,
+    "Medium": "Oil on canvas",
+    "Dimensions": "50 x 45 1/2 in. (127 x 115.6 cm)",
+    "Credit Line": "Gift of Mr. and Mrs. Piero Corsini, 1986",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437458",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912030",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Reading|Holy Family|Saint Joseph|Angels|Christ|Virgin Mary",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300248178|http://vocab.getty.edu/page/ia/901001175|http://vocab.getty.edu/page/ia/901000953|http://vocab.getty.edu/page/aat/300379004|http://vocab.getty.edu/page/ia/901000087|http://vocab.getty.edu/page/ia/901000032",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q199657|https://www.wikidata.org/wiki/Q618057|https://www.wikidata.org/wiki/Q128267|https://www.wikidata.org/wiki/Q235113|https://www.wikidata.org/wiki/Q642420|https://www.wikidata.org/wiki/Q345"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-17632-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162305,
+        "role": "Artist",
+        "name": "Sebastiano Ricci",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500028857",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q506483",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 127,
+          "Width": 115.6
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Reading",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300248178",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q199657"
+      },
+      {
+        "term": "Angels",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379004",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q235113"
+      },
+      {
+        "term": "Christ",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+      },
+      {
+        "term": "Holy Family",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901001175",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q618057"
+      },
+      {
+        "term": "Saint Joseph",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000953",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q128267"
+      },
+      {
+        "term": "Virgin Mary",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000032",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q345"
+      }
+    ]
+  }
+}

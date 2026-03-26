@@ -1,0 +1,103 @@
+{
+  "object_id": 13097,
+  "excel_metadata": {
+    "Object Number": "99.29.2",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 13097,
+    "Gallery Number": NaN,
+    "Department": "The American Wing",
+    "AccessionYear": 1899.0,
+    "Object Name": "Painting",
+    "Title": "Mrs. Edward Kellogg",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 2993299.0,
+    "Artist Role": "Artist|Artist",
+    "Artist Prefix": " | ",
+    "Artist Display Name": "Samuel Lovett Waldo|William Jewett",
+    "Artist Display Bio": "1783–1861|1792–1874",
+    "Artist Suffix": " | ",
+    "Artist Alpha Sort": "Waldo, Samuel Lovett|Jewett, William",
+    "Artist Nationality": "American|American",
+    "Artist Begin Date": "1783      |1792      ",
+    "Artist End Date": "1861      |1874      ",
+    "Artist Gender": "|",
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500026386|http://vocab.getty.edu/page/ulan/500003558",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q390073|https://www.wikidata.org/wiki/Q5837162",
+    "Object Date": "1831–32",
+    "Object Begin Date": 1831,
+    "Object End Date": 1832,
+    "Medium": "Oil on wood",
+    "Dimensions": "33 3/8 x 25 3/8 in. (84.8 x 64.5 cm)",
+    "Credit Line": "Gift of Mrs. Mary E. Kellogg Putnam, 1899",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/13097",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20171844",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Portraits|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/ap99.29.2.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 2993,
+        "role": "Artist",
+        "name": "Samuel Lovett Waldo",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500026386",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q390073",
+        "gender": ""
+      },
+      {
+        "constituentID": 2994,
+        "role": "Artist",
+        "name": "William Jewett",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500003558",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5837162",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 84.8,
+          "Width": 64.5
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "object_id": 239508,
+  "excel_metadata": {
+    "Object Number": 2013.616,
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 239508,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 2013,
+    "Object Name": "Stool",
+    "Title": "Stool (tabouret)",
+    "Culture": "German, Berlin",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 7612,
+    "Artist Role": "Designer",
+    "Artist Prefix": "After a design by",
+    "Artist Display Name": "Friedrich Gilly",
+    "Artist Display Bio": "German, Szczecin, Poland 1772–1800 Carlsbad, Czech Republic",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Gilly, Friedrich",
+    "Artist Nationality": "German",
+    "Artist Begin Date": 1772,
+    "Artist End Date": 1800,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500023936",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q62973",
+    "Object Date": "ca. 1805–10",
+    "Object Begin Date": 1800,
+    "Object End Date": 1810,
+    "Medium": "Pine, birch, mahogany; silk, lampas",
+    "Dimensions": "Overall (confirmed, ht. with current upholstery profile): 20 3/8 × 19 1/8 × 19 1/8 in. (51.8 × 48.6 × 48.6 cm)",
+    "Credit Line": "Purchase, Friends of European Sculpture and Decorative Arts Gifts, 2013",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Woodwork-Furniture",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/239508",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Flowers|Leaves|Stools",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300132399|http://vocab.getty.edu/page/aat/300011892|http://vocab.getty.edu/page/aat/300038418",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q506|https://www.wikidata.org/wiki/Q33971|https://www.wikidata.org/wiki/Q33163"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP-14532-002.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/DP-14532-001.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP-14532-020.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/SF2013_616_marks1.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/SF2013_616_marks2.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/SF2013_616_marks3.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/SF2013_616_marks4.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 76123,
+        "role": "Designer",
+        "name": "After a design by Friedrich Gilly",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500023936",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q62973",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": "confirmed, ht. with current upholstery profile",
+        "elementMeasurements": {
+          "Depth": 48.5776,
+          "Height": 51.816105,
+          "Width": 48.5776
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Flowers",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132399",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q506"
+      },
+      {
+        "term": "Leaves",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300011892",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q33971"
+      },
+      {
+        "term": "Stools",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300038418",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q33163"
+      }
+    ]
+  }
+}

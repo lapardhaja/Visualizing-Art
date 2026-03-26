@@ -1,0 +1,93 @@
+{
+  "object_id": 202151,
+  "excel_metadata": {
+    "Object Number": "58.75.43",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 202151,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1958,
+    "Object Name": "Desk",
+    "Title": "Desk",
+    "Culture": "possibly British with French, Sèvres porcelain",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 16485,
+    "Artist Role": "Manufactory",
+    "Artist Prefix": "Porcelain plaques by",
+    "Artist Display Name": "Sèvres Manufactory",
+    "Artist Display Bio": "French, 1740–present",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Sèvres Manufactory",
+    "Artist Nationality": "French",
+    "Artist Begin Date": 1740,
+    "Artist End Date": 9999,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500054661",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q653307",
+    "Object Date": "ca. 1790–95",
+    "Object Begin Date": 1785,
+    "Object End Date": 1800,
+    "Medium": "Oak, pine, satinwood, tulipwood, green-stained wood, purplewood, marble, soft-paste porcelain",
+    "Dimensions": "Overall: 44 3/8 × 30 3/4 × 19 5/8 in. (112.7 × 78.1 × 49.8 cm)",
+    "Credit Line": "Gift of Samuel H. Kress Foundation, 1958",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Woodwork-Furniture",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/202151",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Flowers|Desks",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300132399|http://vocab.getty.edu/page/aat/300039338",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q506|https://www.wikidata.org/wiki/Q1064858"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/ES6868.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/166272.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/166271.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/166270.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/166269.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/166268.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/166267.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/166266.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 164856,
+        "role": "Manufactory",
+        "name": "Porcelain plaques by Sèvres Manufactory",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500054661",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q653307",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 49.8476,
+          "Height": 112.71272,
+          "Width": 78.105156
+        }
+      }
+    ],
+    "tags": null
+  }
+}

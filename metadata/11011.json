@@ -1,0 +1,115 @@
+{
+  "object_id": 11011,
+  "excel_metadata": {
+    "Object Number": "97.6",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 11011,
+    "Gallery Number": 774.0,
+    "Department": "The American Wing",
+    "AccessionYear": 1897.0,
+    "Object Name": "Painting",
+    "Title": "Scene at Napanoch",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16458.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "William Hart",
+    "Artist Display Bio": "American, Paisley, Scotland 1823–1894 Mount Vernon, New York",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Hart, William",
+    "Artist Nationality": "American, Scottish",
+    "Artist Begin Date": "1823",
+    "Artist End Date": "1894",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500005878",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q650080",
+    "Object Date": "1883",
+    "Object Begin Date": 1883,
+    "Object End Date": 1883,
+    "Medium": "Oil on canvas",
+    "Dimensions": "23 1/2 x 33 3/8 in. (59.7 x 84.8 cm)",
+    "Credit Line": "Gift of the descendants of the artist, 1897",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/11011",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20174441",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Cows|Landscapes",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300250120|http://vocab.getty.edu/page/aat/300132294",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q830|https://www.wikidata.org/wiki/Q191163"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DP-15991-001.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ad/original/DP-15991-002.jpg",
+      "https://images.metmuseum.org/CRDImages/ad/original/ap97.6.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 164584,
+        "role": "Artist",
+        "name": "William Hart",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500005878",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q650080",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 59.7,
+          "Width": 84.8
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 12.700026,
+          "Height": 106.04521,
+          "Width": 131.44527
+        }
+      },
+      {
+        "elementName": "Glazing",
+        "elementDescription": "when needed",
+        "elementMeasurements": {
+          "Height": 60.801373,
+          "Width": 86.360176
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Cows",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250120",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q830"
+      },
+      {
+        "term": "Landscapes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+      }
+    ]
+  }
+}

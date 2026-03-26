@@ -1,0 +1,133 @@
+{
+  "object_id": 436793,
+  "excel_metadata": {
+    "Object Number": "32.100.57",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 436793,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1932.0,
+    "Object Name": "Painting",
+    "Title": "The Holy Family",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16201.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Joos van Cleve",
+    "Artist Display Bio": "Netherlandish, Cleve ca. 1485–1540/41 Antwerp",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Joos van Cleve",
+    "Artist Nationality": "Netherlandish",
+    "Artist Begin Date": "1485",
+    "Artist End Date": "1541",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500007799",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q153472",
+    "Object Date": "ca. 1512–13",
+    "Object Begin Date": 1512,
+    "Object End Date": 1513,
+    "Medium": "Oil on wood",
+    "Dimensions": "16 3/4 x 12 1/2 in. (42.5 x 31.8 cm)",
+    "Credit Line": "The Friedsam Collection, Bequest of Michael Friedsam, 1931",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436793",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19911535",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Grapes|Women|Holy Family|Nursing|Fruit|Jesus|Virgin Mary",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300379338|http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/ia/901001175|http://vocab.getty.edu/page/aat/300379905|http://vocab.getty.edu/page/aat/300011868|http://vocab.getty.edu/page/ia/901000087|http://vocab.getty.edu/page/ia/901000032",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q10978|https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q618057|https://www.wikidata.org/wiki/Q174876|https://www.wikidata.org/wiki/Q1364|https://www.wikidata.org/wiki/Q302|https://www.wikidata.org/wiki/Q345"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-25890-001.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-32_100_57_Suppl_1.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-32_100_57_IRR.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-32_100_57_verso.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 162015,
+        "role": "Artist",
+        "name": "Joos van Cleve",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500007799",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q153472",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 42.5,
+          "Width": 31.8
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 5.397511,
+          "Height": 50.4826,
+          "Width": 39.37008
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Fruit",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300011868",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q1364"
+      },
+      {
+        "term": "Grapes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379338",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q10978"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Holy Family",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901001175",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q618057"
+      },
+      {
+        "term": "Virgin Mary",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000032",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q345"
+      },
+      {
+        "term": "Jesus",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q302"
+      },
+      {
+        "term": "Nursing",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379905",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q174876"
+      }
+    ]
+  }
+}

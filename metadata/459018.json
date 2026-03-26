@@ -1,0 +1,104 @@
+{
+  "object_id": 459018,
+  "excel_metadata": {
+    "Object Number": "1975.1.76",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 459018,
+    "Gallery Number": NaN,
+    "Department": "Robert Lehman Collection",
+    "AccessionYear": 1975.0,
+    "Object Name": "Painting",
+    "Title": "The Funeral of Lucretia",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16543.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Master of Marradi",
+    "Artist Display Bio": "Italian, Florence, active late 15th/early 16th century",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Master of Marradi",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1475",
+    "Artist End Date": "1525",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500120306",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q1689515",
+    "Object Date": "late 15th–early 16th century",
+    "Object Begin Date": 1471,
+    "Object End Date": 1535,
+    "Medium": "Tempera and gold on wood",
+    "Dimensions": "Overall 15 5/8 x 27 1/2 in. (39.7 x 69.9 cm); painted surface 15 x 27 1/8 in. (38.1 x 68.9 cm)",
+    "Credit Line": "Robert Lehman Collection, 1975",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/459018",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20188034",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Women|Funerals",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/aat/300069162",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q201676"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/rl/original/DP328375.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/rl/original/DP335158.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/ep1975.1.76.bw.R.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/0155.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 165435,
+        "role": "Artist",
+        "name": "Master of Marradi",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500120306",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1689515",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 39.7,
+          "Width": 69.9
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Funerals",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300069162",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q201676"
+      }
+    ]
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "object_id": 436940,
+  "excel_metadata": {
+    "Object Number": "21.184",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436940,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1921.0,
+    "Object Name": "Painting",
+    "Title": "David at the Cave of Adullam",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10796.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Giovanni Maldura",
+    "Artist Display Bio": "Italian, active by 1810, died 1849 Rome",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Maldura, Giovanni",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1810",
+    "Artist End Date": "1849",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500007591",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q21850154",
+    "Object Date": NaN,
+    "Object Begin Date": 1810,
+    "Object End Date": 1849,
+    "Medium": "Oil on canvas",
+    "Dimensions": "45 3/4 x 76 in. (116.2 x 193 cm)",
+    "Credit Line": "Kretschmar Fund, 1921",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436940",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19905376",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Soldiers|Men|Caves|Landscapes|David",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300185678|http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300008746|http://vocab.getty.edu/page/aat/300132294|http://vocab.getty.edu/page/ia/901001014",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q4991371|https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q35509|https://www.wikidata.org/wiki/Q191163|https://www.wikidata.org/wiki/Q41370"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-22749-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 107960,
+        "role": "Artist",
+        "name": "Giovanni Maldura",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500007591",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q21850154",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 116.2,
+          "Width": 193
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Soldiers",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300185678",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q4991371"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Caves",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300008746",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q35509"
+      },
+      {
+        "term": "Landscapes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+      },
+      {
+        "term": "David",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901001014",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q41370"
+      }
+    ]
+  }
+}

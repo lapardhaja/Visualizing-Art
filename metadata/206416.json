@@ -1,0 +1,107 @@
+{
+  "object_id": 206416,
+  "excel_metadata": {
+    "Object Number": "1976.155.16",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 206416,
+    "Gallery Number": 545,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1976,
+    "Object Name": "Snuffbox",
+    "Title": "Snuffbox",
+    "Culture": "French, Paris",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 3404016480,
+    "Artist Role": "Maker|Artist",
+    "Artist Prefix": " |Miniature based on portrait by",
+    "Artist Display Name": "Jean Ducrollay|Maurice Quentin de La Tour",
+    "Artist Display Bio": "French, born 1709, master 1734, recorded 1760|French, Saint-Quentin 1704–1788 Saint-Quentin",
+    "Artist Suffix": " | ",
+    "Artist Alpha Sort": "DUCROLLAY JEAN|La Tour, Maurice Quentin de",
+    "Artist Nationality": " |French",
+    "Artist Begin Date": "1709      |1704      ",
+    "Artist End Date": "1760      |1788      ",
+    "Artist Gender": "|",
+    "Artist ULAN URL": "(not assigned)|http://vocab.getty.edu/page/ulan/500001160",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q62592156|https://www.wikidata.org/wiki/Q314655",
+    "Object Date": "1754–55",
+    "Object Begin Date": 1754,
+    "Object End Date": 1755,
+    "Medium": "Gold, enamel, tortoiseshell inlaid (piqué) with gold",
+    "Dimensions": "Overall: 1 9/16 × 3 1/8 × 2 1/4 in. (4 × 7.9 × 5.7 cm)",
+    "Credit Line": "Gift of Mr. and Mrs. Charles Wrightsman, 1976",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Metalwork-Gold and Platinum",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/206416",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q116307017",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Birds|Trees",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300266506|http://vocab.getty.edu/page/aat/300132410",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q5113|https://www.wikidata.org/wiki/Q10884"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP170832.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/DP170833.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/SF1976_155_16_interior.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 34040,
+        "role": "Maker",
+        "name": "Jean Ducrollay",
+        "constituentULAN_URL": "(not assigned)",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q62592156",
+        "gender": ""
+      },
+      {
+        "constituentID": 164803,
+        "role": "Artist",
+        "name": "Miniature based on portrait by Maurice Quentin de La Tour",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500001160",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q314655",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 5.7150116,
+          "Height": 3.9687579,
+          "Width": 7.9375157
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Birds",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300266506",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q5113"
+      },
+      {
+        "term": "Trees",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132410",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q10884"
+      }
+    ]
+  }
+}

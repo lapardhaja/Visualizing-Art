@@ -1,0 +1,85 @@
+{
+  "object_id": 770939,
+  "excel_metadata": {
+    "Object Number": "2018.62.1",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 770939,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 2018,
+    "Object Name": "Moon flask",
+    "Title": "Moon flask with stylized floral decoration",
+    "Culture": "British, Stoke-on-Trent, Staffordshire",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 3518,
+    "Artist Role": "Maker",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Minton(s)",
+    "Artist Display Bio": "British, Stoke-on-Trent, 1793–present",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Minton",
+    "Artist Nationality": "British",
+    "Artist Begin Date": 1793,
+    "Artist End Date": 2001,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500276237",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q6869688",
+    "Object Date": 1867,
+    "Object Begin Date": 1867,
+    "Object End Date": 1867,
+    "Medium": "Bone china with enamel decoration and gilding",
+    "Dimensions": "confirmed: 7 5/8 × 5 7/8 × 3 1/8 in. (19.4 × 14.9 × 7.9 cm)",
+    "Credit Line": "Gift of Helene Fortunoff and Robert Grossman, 2017",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Ceramics-Porcelain",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/770939",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": null,
+    "Tags AAT URL": null,
+    "Tags Wikidata URL": null
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP-16489-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 35185,
+        "role": "Maker",
+        "name": "Minton(s)",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500276237",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q6869688",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": "confirmed",
+        "elementMeasurements": {
+          "Depth": 7.9375157,
+          "Height": 19.367538,
+          "Width": 14.92253
+        }
+      }
+    ],
+    "tags": null
+  }
+}

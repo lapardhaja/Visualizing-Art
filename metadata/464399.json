@@ -1,0 +1,104 @@
+{
+  "object_id": 464399,
+  "excel_metadata": {
+    "Object Number": "17.190.413",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 464399,
+    "Gallery Number": 304,
+    "Department": "Medieval Art",
+    "AccessionYear": 1917,
+    "Object Name": "Plaque",
+    "Title": "Plaque from a Portable Altar with Scenes from the Life of Jesus",
+    "Culture": "German",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": null,
+    "Artist Role": null,
+    "Artist Prefix": null,
+    "Artist Display Name": null,
+    "Artist Display Bio": null,
+    "Artist Suffix": null,
+    "Artist Alpha Sort": null,
+    "Artist Nationality": null,
+    "Artist Begin Date": null,
+    "Artist End Date": null,
+    "Artist Gender": null,
+    "Artist ULAN URL": null,
+    "Artist Wikidata URL": null,
+    "Object Date": "ca. 1160–80",
+    "Object Begin Date": 1160,
+    "Object End Date": 1180,
+    "Medium": "Champlevé enamel, copper-gilt",
+    "Dimensions": "Overall: 1 3/4 x 5 1/16 x 1/16 in. (4.5 x 12.9 x 0.2 cm)_x000D_\ngrouped with 17.190.410-.413: 6 3/8 x 10 1/4 x 1/16 in. (16.2 x 26.1 x 0.2 cm)",
+    "Credit Line": "Gift of J. Pierpont Morgan, 1917",
+    "Geography Type": "Made in",
+    "City": "Cologne",
+    "State": null,
+    "County": null,
+    "Country": "Germany",
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Enamels-Champlevé",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/464399",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q116272732",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Jesus|Men|Donkeys",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901000087|http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300265959",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q302|https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q3537778"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/md/original/sf17-190-413s1.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/md/original/sf17-190-410-413s1.jpg",
+      "https://images.metmuseum.org/CRDImages/md/original/sf17-190-413s2.jpg"
+    ],
+    "constituents": null,
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 4.5,
+          "Thickness": 0.2,
+          "Width": 12.9
+        }
+      },
+      {
+        "elementName": "Other",
+        "elementDescription": "grouped with 17.190.410-.413",
+        "elementMeasurements": {
+          "Height": 16.2,
+          "Thickness": 0.2,
+          "Width": 26.1
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Donkeys",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300265959",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3537778"
+      },
+      {
+        "term": "Jesus",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q302"
+      }
+    ]
+  }
+}

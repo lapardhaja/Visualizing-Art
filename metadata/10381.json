@@ -1,0 +1,109 @@
+{
+  "object_id": 10381,
+  "excel_metadata": {
+    "Object Number": "1979.272",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 10381,
+    "Gallery Number": 737.0,
+    "Department": "The American Wing",
+    "AccessionYear": 1979.0,
+    "Object Name": "Painting",
+    "Title": "Mountain Lake Scene",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16334.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "John William Casilear",
+    "Artist Display Bio": "American, New York 1811–1893 Saratoga Springs, New York",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Casilear, John William",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1811",
+    "Artist End Date": "1893",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500013823",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q2700128",
+    "Object Date": "1883",
+    "Object Begin Date": 1883,
+    "Object End Date": 1883,
+    "Medium": "Oil on canvas",
+    "Dimensions": "12 1/8 x 20 1/16 in. (30.8 x 51 cm)",
+    "Credit Line": "Gift of Wendell S. Arrington, in honor of his parents, J. Earl Arrington and Genevieve T. Arrington, 1979",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/10381",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20175600",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Lakes|Mountains|Boats",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300008680|http://vocab.getty.edu/page/aat/300008795|http://vocab.getty.edu/page/aat/300178749",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q23397|https://www.wikidata.org/wiki/Q8502|https://www.wikidata.org/wiki/Q35872"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/APS1620.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 163341,
+        "role": "Artist",
+        "name": "John William Casilear",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500013823",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q2700128",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 30.8,
+          "Width": 51
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 9,
+          "Height": 57.2,
+          "Width": 77.7
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Lakes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300008680",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q23397"
+      },
+      {
+        "term": "Mountains",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300008795",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8502"
+      },
+      {
+        "term": "Boats",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300178749",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q35872"
+      }
+    ]
+  }
+}

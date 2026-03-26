@@ -1,0 +1,104 @@
+{
+  "object_id": 436524,
+  "excel_metadata": {
+    "Object Number": "49.41",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436524,
+    "Gallery Number": 825.0,
+    "Department": "European Paintings",
+    "AccessionYear": 1949.0,
+    "Object Name": "Painting",
+    "Title": "Sunflowers",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16194.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Vincent van Gogh",
+    "Artist Display Bio": "Dutch, Zundert 1853–1890 Auvers-sur-Oise",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Gogh, Vincent van",
+    "Artist Nationality": "Dutch",
+    "Artist Begin Date": "1853",
+    "Artist End Date": "1890",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500115588",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q5582",
+    "Object Date": "1887",
+    "Object Begin Date": 1887,
+    "Object End Date": 1887,
+    "Medium": "Oil on canvas",
+    "Dimensions": "17 x 24 in. (43.2 x 61 cm)",
+    "Credit Line": "Rogers Fund, 1949",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436524",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q9213165",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Sunflowers|Still Life",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300404749|http://vocab.getty.edu/page/aat/300015638",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q171497|https://www.wikidata.org/wiki/Q170571"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP229743.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 161947,
+        "role": "Artist",
+        "name": "Vincent van Gogh",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115588",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5582",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 6.35,
+          "Height": 66.6751,
+          "Width": 85.0902
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 43.2,
+          "Width": 61
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Sunflowers",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300404749",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q171497"
+      },
+      {
+        "term": "Still Life",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015638",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q170571"
+      }
+    ]
+  }
+}

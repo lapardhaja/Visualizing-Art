@@ -1,0 +1,93 @@
+{
+  "object_id": 208541,
+  "excel_metadata": {
+    "Object Number": "1996.79.1, .2",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 208541,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1996,
+    "Object Name": "Cup and saucer",
+    "Title": "Cup and saucer",
+    "Culture": "British, Stoke-on-Trent, Staffordshire",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 3513,
+    "Artist Role": "Factory",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Copeland",
+    "Artist Display Bio": "British, 1833–1970",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Copeland",
+    "Artist Nationality": "British",
+    "Artist Begin Date": 1833,
+    "Artist End Date": 1970,
+    "Artist Gender": null,
+    "Artist ULAN URL": null,
+    "Artist Wikidata URL": null,
+    "Object Date": 1871,
+    "Object Begin Date": 1871,
+    "Object End Date": 1871,
+    "Medium": "Bone china",
+    "Dimensions": "Height (cup [.1]): 2 3/8 in. (6 cm);_x000D_\nLength (saucer [.2]): 8 1/8 in. (20.6 cm)",
+    "Credit Line": "Purchase, Friends of European Sculpture and Decorative Arts Gifts, 1996",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Ceramics-Porcelain",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/208541",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": null,
+    "Tags AAT URL": null,
+    "Tags Wikidata URL": null
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP-40242-003.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/DP-40242-001.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP-40242-002.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 35134,
+        "role": "Factory",
+        "name": "Copeland",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Length",
+        "elementDescription": "saucer [.2]",
+        "elementMeasurements": {
+          "Length": 20.63754
+        }
+      },
+      {
+        "elementName": "Height",
+        "elementDescription": "cup [.1]",
+        "elementMeasurements": {
+          "Height": 6.032512
+        }
+      }
+    ],
+    "tags": null
+  }
+}

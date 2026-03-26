@@ -1,0 +1,109 @@
+{
+  "object_id": 437868,
+  "excel_metadata": {
+    "Object Number": "52.125",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 437868,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1952.0,
+    "Object Name": "Painting",
+    "Title": "Don Gaspar de Guzmán (1587–1645), Count-Duke of Olivares",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10802.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Juan Bautista Martínez del Mazo",
+    "Artist Display Bio": "Spanish, Cuenca ca. 1612–1667 Madrid",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Mazo, Juan Bautista Martínez del",
+    "Artist Nationality": "Spanish",
+    "Artist Begin Date": "1612",
+    "Artist End Date": "1667",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500031769",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q771658",
+    "Object Date": "ca. 1636 or later",
+    "Object Begin Date": 1631,
+    "Object End Date": 1660,
+    "Medium": "Oil on canvas",
+    "Dimensions": "50 1/4 x 41 in. (127.6 x 104.1 cm)",
+    "Credit Line": "Fletcher Fund, 1952",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437868",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19904792",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Horses|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300250148|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q726|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-14936-011.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 108021,
+        "role": "Artist",
+        "name": "Juan Bautista Martínez del Mazo",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500031769",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q771658",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 127.6,
+          "Width": 104.1
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 13.97,
+          "Height": 173.9903,
+          "Width": 151.1303
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Horses",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250148",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q726"
+      }
+    ]
+  }
+}

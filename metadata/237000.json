@@ -1,0 +1,97 @@
+{
+  "object_id": 237000,
+  "excel_metadata": {
+    "Object Number": "2010.110.18",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 237000,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 2010,
+    "Object Name": "Tankard",
+    "Title": "Tankard",
+    "Culture": "Hungarian, Debrecen",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 4587,
+    "Artist Role": "Maker",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Michael Beri",
+    "Artist Display Bio": "active ca. 1627",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Beri, Michael",
+    "Artist Nationality": " ",
+    "Artist Begin Date": 1622,
+    "Artist End Date": 1632,
+    "Artist Gender": null,
+    "Artist ULAN URL": null,
+    "Artist Wikidata URL": null,
+    "Object Date": "ca. 1627",
+    "Object Begin Date": 1622,
+    "Object End Date": 1632,
+    "Medium": "Gilded silver",
+    "Dimensions": "Overall: 7 1/16 x 4 7/8 in. (18 x 12.4 cm)",
+    "Credit Line": "Gift of The Salgo Trust for Education, New York, in memory of Nicolas M. Salgo, 2010",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Metalwork-Silver",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/237000",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Horses|Human Figures",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300250148|http://vocab.getty.edu/page/aat/300404114",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q726|https://www.wikidata.org/wiki/Q5937779"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP339960.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/DP344989.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 45872,
+        "role": "Maker",
+        "name": "Michael Beri",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 18,
+          "Width": 12.4
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Human Figures",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300404114",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q5937779"
+      },
+      {
+        "term": "Horses",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250148",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q726"
+      }
+    ]
+  }
+}

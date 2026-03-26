@@ -1,0 +1,95 @@
+{
+  "object_id": 437828,
+  "excel_metadata": {
+    "Object Number": "27.56",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437828,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1927.0,
+    "Object Name": "Painting",
+    "Title": "Alfonso d'Este (1486–1534), Duke of Ferrara",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16255.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": "Copy after",
+    "Artist Display Name": "Titian",
+    "Artist Display Bio": "late 16th or early 17th century",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Titian",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1485",
+    "Artist End Date": "1576",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500031075",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q47551",
+    "Object Date": NaN,
+    "Object Begin Date": 1570,
+    "Object End Date": 1629,
+    "Medium": "Oil on canvas",
+    "Dimensions": "50 x 38 3/4 in. (127 x 98.4 cm)",
+    "Credit Line": "Munsey Fund, 1927",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437828",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20166957",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT226035.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162552,
+        "role": "Artist",
+        "name": "Copy after Titian",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500031075",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q47551",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 127,
+          "Width": 98.4
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

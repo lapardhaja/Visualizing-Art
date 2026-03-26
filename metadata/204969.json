@@ -1,0 +1,100 @@
+{
+  "object_id": 204969,
+  "excel_metadata": {
+    "Object Number": "68.141.178",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 204969,
+    "Gallery Number": 521,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1968,
+    "Object Name": "Tankard",
+    "Title": "Tankard",
+    "Culture": "Swiss, Zurich",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 3827,
+    "Artist Role": "Artist",
+    "Artist Prefix": "Images based on printed designs by",
+    "Artist Display Name": "Dietrich Mayer",
+    "Artist Display Bio": "Swiss, 1572–1658",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Mayer, Dietrich",
+    "Artist Nationality": "Swiss",
+    "Artist Begin Date": 1572,
+    "Artist End Date": 1658,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500015993",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q21714500",
+    "Object Date": 1649,
+    "Object Begin Date": 1649,
+    "Object End Date": 1649,
+    "Medium": "Gilded silver, reverse-painted glass (verre églomisé)",
+    "Dimensions": "Overall (with handle): 7 1/8 × 6 5/8 × 5 1/2 in. (18.1 × 16.8 × 14 cm)",
+    "Credit Line": "Gift of Irwin Untermyer, 1968",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Metalwork-Silver In Combination",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/204969",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP-24640-003.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/DP-24640-002.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP-24640-001.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP-24640-004.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/237046.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/237047.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/237048.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/237049.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/237050.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 38278,
+        "role": "Artist",
+        "name": "Images based on printed designs by Dietrich Mayer",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500015993",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q21714500",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": "with handle",
+        "elementMeasurements": {
+          "Diameter": 13.970028,
+          "Height": 18.097536,
+          "Width": 16.827534
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "object_id": 13401,
+  "excel_metadata": {
+    "Object Number": "96.25",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 13401,
+    "Gallery Number": NaN,
+    "Department": "The American Wing",
+    "AccessionYear": 1896.0,
+    "Object Name": "Painting",
+    "Title": "Dr. John Wakefield Francis",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16490.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Charles Robert Leslie",
+    "Artist Display Bio": "British, London 1794–1859 London",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Leslie, Charles Robert",
+    "Artist Nationality": "British",
+    "Artist Begin Date": "1794",
+    "Artist End Date": "1859",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500025044",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q325633",
+    "Object Date": NaN,
+    "Object Begin Date": 1800,
+    "Object End Date": 1859,
+    "Medium": "Oil on wood",
+    "Dimensions": "15 1/2 x 11 1/2 in. (39.4 x 29.2 cm)",
+    "Credit Line": "Gift of John L. Cadwalader, 1896",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/13401",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19925315",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/ap96.25.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 164900,
+        "role": "Artist",
+        "name": "Charles Robert Leslie",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500025044",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q325633",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 39.4,
+          "Width": 29.2
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 8.89,
+          "Height": 56.8326,
+          "Width": 46.0376
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "object_id": 437284,
+  "excel_metadata": {
+    "Object Number": "75.7.1",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437284,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1875.0,
+    "Object Name": "Painting",
+    "Title": "The Return from the Hunt",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16224.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Piero di Cosimo (Piero di Lorenzo di Piero d'Antonio)",
+    "Artist Display Bio": "Italian, Florence 1462–1522 Florence",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Piero di Cosimo (Piero di Lorenzo di Piero d'Antonio)",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1462",
+    "Artist End Date": "1522",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500007508",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q280851",
+    "Object Date": "ca. 1494–1500",
+    "Object Begin Date": 1494,
+    "Object End Date": 1500,
+    "Medium": "Tempera and oil on wood",
+    "Dimensions": "27 3/4 x 66 1/2 in. (70.5 x 168.9 cm)",
+    "Credit Line": "Gift of Robert Gordon, 1875",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437284",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q3937360",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Women|Female Nudes|Centaurs|Satyrs|Pigs|Boats",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/aat/300189568|http://vocab.getty.edu/page/aat/300379740|http://vocab.getty.edu/page/aat/300379732|http://vocab.getty.edu/page/aat/300250114|http://vocab.getty.edu/page/aat/300178749",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q40446|https://www.wikidata.org/wiki/Q83203|https://www.wikidata.org/wiki/Q163709|https://www.wikidata.org/wiki/Q58697|https://www.wikidata.org/wiki/Q35872"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-24048-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162247,
+        "role": "Artist",
+        "name": "Piero di Cosimo (Piero di Lorenzo di Piero d&#39;Antonio)",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500007508",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q280851",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Glazing",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 71.913895,
+          "Width": 169.38658
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 70.5,
+          "Width": 168.9
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 15.875031,
+          "Height": 106.680214,
+          "Width": 205.74042
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Female Nudes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300189568",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q40446"
+      },
+      {
+        "term": "Centaurs",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379740",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q83203"
+      },
+      {
+        "term": "Satyrs",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379732",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q163709"
+      },
+      {
+        "term": "Pigs",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250114",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q58697"
+      },
+      {
+        "term": "Boats",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300178749",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q35872"
+      }
+    ]
+  }
+}

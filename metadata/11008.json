@@ -1,0 +1,104 @@
+{
+  "object_id": 11008,
+  "excel_metadata": {
+    "Object Number": "21.115.2",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 11008,
+    "Gallery Number": 774.0,
+    "Department": "The American Wing",
+    "AccessionYear": 1921.0,
+    "Object Name": "Painting",
+    "Title": "Pasture Scene",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 257.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "James M. Hart",
+    "Artist Display Bio": "American (born Scotland), Kilmarnock 1828–1901 New York",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Hart, James M.",
+    "Artist Nationality": " ",
+    "Artist Begin Date": "1828",
+    "Artist End Date": "1901",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500015240",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q724069",
+    "Object Date": "1876",
+    "Object Begin Date": 1876,
+    "Object End Date": 1876,
+    "Medium": "Oil on canvas",
+    "Dimensions": "20 x 34 in. (50.8 x 86.4 cm)",
+    "Credit Line": "Gift of Colonel Charles A. Fowler, 1921",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/11008",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20174425",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Cows|Landscapes",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300250120|http://vocab.getty.edu/page/aat/300132294",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q830|https://www.wikidata.org/wiki/Q191163"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/ap21.115.2.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 2578,
+        "role": "Artist",
+        "name": "James M. Hart",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500015240",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q724069",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 50.8,
+          "Width": 86.4
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 7.62,
+          "Height": 70.4851,
+          "Width": 106.204
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Cows",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250120",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q830"
+      },
+      {
+        "term": "Landscapes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+      }
+    ]
+  }
+}

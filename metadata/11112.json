@@ -1,0 +1,114 @@
+{
+  "object_id": 11112,
+  "excel_metadata": {
+    "Object Number": "27.181",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 11112,
+    "Gallery Number": 767.0,
+    "Department": "The American Wing",
+    "AccessionYear": 1927.0,
+    "Object Name": "Painting",
+    "Title": "Camp Fire",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16199.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Winslow Homer",
+    "Artist Display Bio": "American, Boston, Massachusetts 1836–1910 Prouts Neck, Maine",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Homer, Winslow",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1836",
+    "Artist End Date": "1910",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500019202",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q344838",
+    "Object Date": "1880",
+    "Object Begin Date": 1880,
+    "Object End Date": 1880,
+    "Medium": "Oil on canvas",
+    "Dimensions": "23 3/4 x 38 1/8 in. (60.3 x 96.8 cm)",
+    "Credit Line": "Gift of Josephine Pomeroy Hendrick, in the name of Henry Keney Pomeroy, 1927",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/11112",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19924694",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Camps|Tents|Men|Fire",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300257104|http://vocab.getty.edu/page/aat/300005694|http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300417275",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q455550|https://www.wikidata.org/wiki/Q170544|https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q3196"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DT2829.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 161996,
+        "role": "Artist",
+        "name": "Winslow Homer",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500019202",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q344838",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 17.5,
+          "Height": 109.8552,
+          "Width": 145.4153
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 60.3,
+          "Width": 96.8
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Tents",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300005694",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q170544"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Fire",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300417275",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3196"
+      },
+      {
+        "term": "Camps",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300257104",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q455550"
+      }
+    ]
+  }
+}

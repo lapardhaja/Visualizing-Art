@@ -1,0 +1,104 @@
+{
+  "object_id": 10155,
+  "excel_metadata": {
+    "Object Number": "1979.490.4",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 10155,
+    "Gallery Number": 774.0,
+    "Department": "The American Wing",
+    "AccessionYear": 1979.0,
+    "Object Name": "Painting",
+    "Title": "Sea Cove",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16168.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Albert Bierstadt",
+    "Artist Display Bio": "American, Solingen 1830–1902 New York",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Bierstadt, Albert",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1830",
+    "Artist End Date": "1902",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500001248",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q77132",
+    "Object Date": "ca. 1880–90",
+    "Object Begin Date": 1877,
+    "Object End Date": 1890,
+    "Medium": "Oil on wood",
+    "Dimensions": "14 x 19 in. (35.6 x 48.3 cm)",
+    "Credit Line": "Gift of Mrs. J. Augustus Barnard, 1979",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/10155",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20171204",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Beaches|Trees",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300008816|http://vocab.getty.edu/page/aat/300132410",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q40080|https://www.wikidata.org/wiki/Q10884"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DT9508.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 161685,
+        "role": "Artist",
+        "name": "Albert Bierstadt",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500001248",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q77132",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 10.5,
+          "Height": 51.5,
+          "Width": 65
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 35.6,
+          "Width": 48.3
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Beaches",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300008816",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q40080"
+      },
+      {
+        "term": "Trees",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132410",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q10884"
+      }
+    ]
+  }
+}

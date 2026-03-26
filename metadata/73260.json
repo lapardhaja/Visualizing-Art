@@ -1,0 +1,107 @@
+{
+  "object_id": 73260,
+  "excel_metadata": {
+    "Object Number": "2006.475",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 73260,
+    "Gallery Number": NaN,
+    "Department": "Asian Art",
+    "AccessionYear": 2006.0,
+    "Object Name": "Painting",
+    "Title": NaN,
+    "Culture": "India (Rajasthan, Mewar)",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 1731.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Ghasi",
+    "Artist Display Bio": "Indian",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Ghasi",
+    "Artist Nationality": "Indian",
+    "Artist Begin Date": "          ",
+    "Artist End Date": "          ",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": NaN,
+    "Artist Wikidata URL": NaN,
+    "Object Date": "ca. 1825",
+    "Object Begin Date": 1815,
+    "Object End Date": 1835,
+    "Medium": "Opaque watercolor and gold on paper",
+    "Dimensions": "Overall: 25 1/2 x 20 1/8 in. (64.8 x 51.1 cm)",
+    "Credit Line": "Purchase, Gift of Paul E. Manheim and Bequest of Nina Bunshaft, by exchange, 2006",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/73260",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q78712392",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Horses|Kings|Men|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300250148|http://vocab.getty.edu/page/aat/300025481|http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q726|https://www.wikidata.org/wiki/Q12097|https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/as/original/2006_475_O.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/as/original/2006_475_B.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 17311,
+        "role": "Artist",
+        "name": "Ghasi",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 64.7701,
+          "Width": 51.1176
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Kings",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025481",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q12097"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Horses",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250148",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q726"
+      }
+    ]
+  }
+}

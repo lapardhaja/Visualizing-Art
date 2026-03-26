@@ -1,0 +1,119 @@
+{
+  "object_id": 684606,
+  "excel_metadata": {
+    "Object Number": "2015.757",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 684606,
+    "Gallery Number": 774.0,
+    "Department": "The American Wing",
+    "AccessionYear": 2015.0,
+    "Object Name": "Painting",
+    "Title": "Boys Fishing",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 268.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Thomas Le Clear",
+    "Artist Display Bio": "1818–1882",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Le Clear, Thomas",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1818",
+    "Artist End Date": "1882",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500125339",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q7791757",
+    "Object Date": "1846",
+    "Object Begin Date": 1846,
+    "Object End Date": 1846,
+    "Medium": "Oil on canvas",
+    "Dimensions": "26 × 21 in. (66 × 53.3 cm)",
+    "Credit Line": "Gift of George Maxwell, in memory of his friend and mentor, John K. Howat, 2015",
+    "Geography Type": "Made in",
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": "United States",
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/684606",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q78614665",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Fish|Fishing|Boys",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300266085|http://vocab.getty.edu/page/aat/300239470|http://vocab.getty.edu/page/aat/300247598",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q152|https://www.wikidata.org/wiki/Q14373|https://www.wikidata.org/wiki/Q3010"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DP-14224-001.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ad/original/DP-14224-002.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 2684,
+        "role": "Artist",
+        "name": "Thomas Le Clear",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500125339",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q7791757",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 66.04013,
+          "Width": 53.340107
+        }
+      },
+      {
+        "elementName": "Other",
+        "elementDescription": "glazing (when needed)",
+        "elementMeasurements": {
+          "Height": 67.310135,
+          "Width": 55.721363
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 8.572517,
+          "Height": 86.360176,
+          "Width": 74.29515
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Boys",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300247598",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3010"
+      },
+      {
+        "term": "Fishing",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300239470",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q14373"
+      },
+      {
+        "term": "Fish",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300266085",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q152"
+      }
+    ]
+  }
+}

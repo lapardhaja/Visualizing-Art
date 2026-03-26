@@ -1,0 +1,95 @@
+{
+  "object_id": 199615,
+  "excel_metadata": {
+    "Object Number": "45.60.6",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 199615,
+    "Gallery Number": 544,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1945,
+    "Object Name": "Plaque",
+    "Title": "Juno, Seated on a Golden Throne, Asks Alecto to Confuse the Trojans (Aeneid, Book VI)",
+    "Culture": "French, Limoges",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 3893,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Master of the Aeneid",
+    "Artist Display Bio": "active ca. 1530–40",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Master of the Aeneid",
+    "Artist Nationality": " ",
+    "Artist Begin Date": 1525,
+    "Artist End Date": 1545,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500104550",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q18587838",
+    "Object Date": "ca. 1530–35",
+    "Object Begin Date": 1525,
+    "Object End Date": 1540,
+    "Medium": "Painted enamel on copper, partly gilt",
+    "Dimensions": "9 x 8 in. (22.9 x 20.3 cm)",
+    "Credit Line": "Fletcher Fund, 1945",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Enamels",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/199615",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q116310217",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Juno|Female Nudes",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901001346|http://vocab.getty.edu/page/aat/300189568",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q125046|https://www.wikidata.org/wiki/Q40446"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP279577.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 38938,
+        "role": "Artist",
+        "name": "Master of the Aeneid",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500104550",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q18587838",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 22.9,
+          "Width": 20.3
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Female Nudes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300189568",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q40446"
+      },
+      {
+        "term": "Juno",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901001346",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q125046"
+      }
+    ]
+  }
+}

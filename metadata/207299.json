@@ -1,0 +1,94 @@
+{
+  "object_id": 207299,
+  "excel_metadata": {
+    "Object Number": "1982.97.18a, b",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 207299,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1982,
+    "Object Name": "Standing cup with cover",
+    "Title": "Standing cup with cover",
+    "Culture": "Austrian or Bohemian",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 3346,
+    "Artist Role": "Engraver",
+    "Artist Prefix": "Engraved by",
+    "Artist Display Name": "August Böhm",
+    "Artist Display Bio": "1812–1890",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "BÖHM AUGUST",
+    "Artist Nationality": " ",
+    "Artist Begin Date": 1812,
+    "Artist End Date": 1890,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500329456",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q98136264",
+    "Object Date": "ca. 1840–50",
+    "Object Begin Date": 1835,
+    "Object End Date": 1855,
+    "Medium": "Glass",
+    "Dimensions": "Height: 14 1/8 in. (35.9 cm)",
+    "Credit Line": "Gift of Dr. Eugen Grabscheid, 1982",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Glass",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/207299",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Deer|Trees",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300250308|http://vocab.getty.edu/page/aat/300132410",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q685795|https://www.wikidata.org/wiki/Q10884"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/228132.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 33465,
+        "role": "Engraver",
+        "name": "Engraved by August Böhm",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500329456",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q98136264",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Height",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 35.87757
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Deer",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250308",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q685795"
+      },
+      {
+        "term": "Trees",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132410",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q10884"
+      }
+    ]
+  }
+}

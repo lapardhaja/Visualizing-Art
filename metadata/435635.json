@@ -1,0 +1,99 @@
+{
+  "object_id": 435635,
+  "excel_metadata": {
+    "Object Number": "12.194",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 435635,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1912.0,
+    "Object Name": "Painting",
+    "Title": "Chancellor Leonhard von Eck (1480–1550)",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16166.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Barthel Beham",
+    "Artist Display Bio": "German, Nuremberg ca. 1502–1540 Italy",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Beham, Barthel",
+    "Artist Nationality": "German",
+    "Artist Begin Date": "1502",
+    "Artist End Date": "1540",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500010818",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q499934",
+    "Object Date": "1527",
+    "Object Begin Date": 1527,
+    "Object End Date": 1527,
+    "Medium": "Oil on spruce",
+    "Dimensions": "22 1/8 x 14 7/8 in. (56.2 x 37.8 cm)",
+    "Credit Line": "John Stewart Kennedy Fund, 1912",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/435635",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19911424",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP280850.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/GermanCat3_IRRnocap.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-12_194-2.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-12_194-3.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 161666,
+        "role": "Artist",
+        "name": "Barthel Beham",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500010818",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q499934",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 56.2,
+          "Width": 37.8
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

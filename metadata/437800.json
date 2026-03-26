@@ -1,0 +1,114 @@
+{
+  "object_id": 437800,
+  "excel_metadata": {
+    "Object Number": "71.121",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 437800,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1871.0,
+    "Object Name": "Painting, sketch",
+    "Title": "The Investiture of Bishop Harold as Duke of Franconia",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16253.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Giovanni Battista Tiepolo",
+    "Artist Display Bio": "Italian, Venice 1696–1770 Madrid",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Tiepolo, Giovanni Battista",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1696",
+    "Artist End Date": "1770",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500018523",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q186202",
+    "Object Date": "ca. 1751–52",
+    "Object Begin Date": 1751,
+    "Object End Date": 1752,
+    "Medium": "Oil on canvas",
+    "Dimensions": "28 1/4 x 20 1/4 in. (71.8 x 51.4 cm)",
+    "Credit Line": "Purchase, 1871",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437800",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19911623",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Musical Instruments|Arches|Men|Bishops",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300041620|http://vocab.getty.edu/page/aat/300001062|http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300025756",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q34379|https://www.wikidata.org/wiki/Q12277|https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q29182"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP123856.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162537,
+        "role": "Artist",
+        "name": "Giovanni Battista Tiepolo",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500018523",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q186202",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 71.8,
+          "Width": 51.4
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 10.16,
+          "Height": 99.0602,
+          "Width": 77.4702
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Musical Instruments",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300041620",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q34379"
+      },
+      {
+        "term": "Arches",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300001062",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q12277"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Bishops",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025756",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q29182"
+      }
+    ]
+  }
+}

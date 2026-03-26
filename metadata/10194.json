@@ -1,0 +1,114 @@
+{
+  "object_id": 10194,
+  "excel_metadata": {
+    "Object Number": "54.90.295",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 10194,
+    "Gallery Number": NaN,
+    "Department": "The American Wing",
+    "AccessionYear": 1954.0,
+    "Object Name": "Painting",
+    "Title": "Seventh Regiment on Review, Washington Square, New York",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 235.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Otto Boetticher",
+    "Artist Display Bio": "ca. 1816–after 1864",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Boetticher, Otto",
+    "Artist Nationality": "German",
+    "Artist Begin Date": "1816",
+    "Artist End Date": "1865",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500056794",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q22673609",
+    "Object Date": "1851",
+    "Object Begin Date": 1851,
+    "Object End Date": 1851,
+    "Medium": "Oil on canvas",
+    "Dimensions": "24 x 36 in. (61 x 91.4 cm)",
+    "Credit Line": "The Edward W. C. Arnold Collection of New York Prints, Maps, and Pictures, Bequest of Edward W. C. Arnold, 1954",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/10194",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20170883",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "New York City|Horses|Military|Soldiers",
+    "Tags AAT URL": "http://vocab.getty.edu/page/tgn/7007567|http://vocab.getty.edu/page/aat/300250148|http://vocab.getty.edu/page/aat/300137540|http://vocab.getty.edu/page/aat/300185678",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q60|https://www.wikidata.org/wiki/Q726|https://www.wikidata.org/wiki/Q8473|https://www.wikidata.org/wiki/Q4991371"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DT2023.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 2353,
+        "role": "Artist",
+        "name": "Otto Boetticher",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500056794",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q22673609",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 12.065,
+          "Height": 83.1852,
+          "Width": 113.6652
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 61,
+          "Width": 91.4
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Military",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300137540",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8473"
+      },
+      {
+        "term": "Soldiers",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300185678",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q4991371"
+      },
+      {
+        "term": "Horses",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250148",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q726"
+      },
+      {
+        "term": "New York City",
+        "AAT_URL": "http://vocab.getty.edu/page/tgn/7007567",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q60"
+      }
+    ]
+  }
+}

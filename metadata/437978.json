@@ -1,0 +1,124 @@
+{
+  "object_id": 437978,
+  "excel_metadata": {
+    "Object Number": "1996.261",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437978,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1996.0,
+    "Object Name": "Painting",
+    "Title": "Christ Presented to the People (Ecce Homo)",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16244.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Sodoma (Giovanni Antonio Bazzi)",
+    "Artist Display Bio": "Italian, Vercelli 1477–1549 Siena",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Sodoma (Giovanni Antonio Bazzi)",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1477",
+    "Artist End Date": "1549",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500015183",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q8506",
+    "Object Date": "ca. 1540–49",
+    "Object Begin Date": 1540,
+    "Object End Date": 1549,
+    "Medium": "Oil on canvas",
+    "Dimensions": "23 5/8 x 23 1/4 in. (60 x 59.1 cm)",
+    "Credit Line": "Gift of Asbjorn R. Lunde, in memory of his parents, Karl and Elisa Lunde, 1996",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437978",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19913422",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Christ",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/ia/901000087",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q642420"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT4034.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-1996_261-2.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-1996_261-3.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 162440,
+        "role": "Artist",
+        "name": "Sodoma (Giovanni Antonio Bazzi)",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500015183",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q8506",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Glazing",
+        "elementDescription": "F.1996.261 + F.41.100.2A",
+        "elementMeasurements": {
+          "Height": 61.595123,
+          "Width": 59.69012
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": "F.1996.261",
+        "elementMeasurements": {
+          "Depth": 7.620015,
+          "Height": 94.13894,
+          "Width": 92.07519
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": "Travel Frame F.41.100.2A",
+        "elementMeasurements": {
+          "Depth": 7.620015,
+          "Height": 80.645164,
+          "Width": 78.42265
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 60,
+          "Width": 59.1
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Christ",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+      }
+    ]
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "object_id": 447912,
+  "excel_metadata": {
+    "Object Number": "26.77a–f",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 447912,
+    "Gallery Number": null,
+    "Department": "Islamic Art",
+    "AccessionYear": 1926,
+    "Object Name": "Bowl with lid",
+    "Title": "Bowl with Lid",
+    "Culture": null,
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": null,
+    "Artist Role": null,
+    "Artist Prefix": null,
+    "Artist Display Name": null,
+    "Artist Display Bio": null,
+    "Artist Suffix": null,
+    "Artist Alpha Sort": null,
+    "Artist Nationality": null,
+    "Artist Begin Date": null,
+    "Artist End Date": null,
+    "Artist Gender": null,
+    "Artist ULAN URL": null,
+    "Artist Wikidata URL": null,
+    "Object Date": "second half 13th century",
+    "Object Begin Date": 1250,
+    "Object End Date": 1299,
+    "Medium": "Glass, reddish-purple; blown, applied marvered opaque decoration, applied opaque white rim",
+    "Dimensions": "A - bowl: _x000D_\n  H. 4 in. (10.2 cm)_x000D_\n  W. 8 in. (20.3 cm)_x000D_\n  D. 6 1/2 in. (16.5 cm)_x000D_\n  Wt. 21.2 oz. (601.1 g)_x000D_\nB - cover:_x000D_\n  H. 4 in. (10.2 cm)_x000D_\n  W. 6 5/8 in. (16.8 cm)_x000D_\n  D. 5 5/8 in. (14.3 cm)_x000D_\n  Wt. 11.5 oz. (326.1 g)_x000D_\nC - fragment:_x000D_\n  H. 7/16 in. (1.1 cm)_x000D_\n  W. 1 1/4 in. (3.2 cm)_x000D_\n  D. 1/8 in. (0.3 cm)_x000D_\n  Wt. 0.07 oz. (2 g)_x000D_\nD - fragment:_x000D_\n  H. 11/16 in. (1.7 cm)_x000D_\n  W. 3.4 in. (1.9 cm)_x000D_\n  D. 1/8 in. (0.3 cm)_x000D_\n  Wt. 0.04 oz. (1.13 g)_x000D_\nE - fragment:_x000D_\n  H. 5/16 in. (0.8 cm)_x000D_\n  W. 9/16 in. (1.4 cm)_x000D_\n  D. 1/8 in. (0.3 cm)_x000D_\n  Wt. 0.02 oz. (0.57 g)_x000D_\nF - fragment:_x000D_\n  H. 1 3/16 in. (3 cm)_x000D_\n  W. 1 1/2 in. (3.8 cm)_x000D_\n  D. 1/4 in. (0.6 cm)_x000D_\n  Wt. 0.2 oz. 5.67 g)",
+    "Credit Line": "Funds from various donors, 1926",
+    "Geography Type": "Attributed to",
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": "Syria",
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Glass",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/447912",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": null,
+    "Tags AAT URL": null,
+    "Tags Wikidata URL": null
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/is/original/sf26-277a.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/is/original/267791.jpg",
+      "https://images.metmuseum.org/CRDImages/is/original/267792.jpg",
+      "https://images.metmuseum.org/CRDImages/is/original/sf26-277b.jpg"
+    ],
+    "constituents": null,
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": "D - fragment",
+        "elementMeasurements": {
+          "Depth": 0.31750062,
+          "Height": 1.7462535,
+          "Weight": 0.0011341083,
+          "Width": 1.9050038
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": "C - fragment",
+        "elementMeasurements": {
+          "Depth": 0.31750062,
+          "Height": 1.1112522,
+          "Weight": 0.0019846894,
+          "Width": 3.1750064
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": "B - cover",
+        "elementMeasurements": {
+          "Depth": 14.287529,
+          "Height": 10.16002,
+          "Weight": 0.32605615,
+          "Width": 16.827534
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": "A - bowl",
+        "elementMeasurements": {
+          "Depth": 16.510033,
+          "Height": 10.16002,
+          "Weight": 0.6010774,
+          "Width": 20.32004
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": "F - fragment",
+        "elementMeasurements": {
+          "Depth": 0.63500124,
+          "Height": 3.016256,
+          "Weight": 0.0056705414,
+          "Width": 3.8100076
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": "E - fragment",
+        "elementMeasurements": {
+          "Depth": 0.31750062,
+          "Height": 0.7937516,
+          "Weight": 0.0005670542,
+          "Width": 1.4287529
+        }
+      }
+    ],
+    "tags": null
+  }
+}

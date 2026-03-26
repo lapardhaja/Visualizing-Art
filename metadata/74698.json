@@ -1,0 +1,101 @@
+{
+  "object_id": 74698,
+  "excel_metadata": {
+    "Object Number": "2008.359.37",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 74698,
+    "Gallery Number": NaN,
+    "Department": "Asian Art",
+    "AccessionYear": 2008.0,
+    "Object Name": "Painting",
+    "Title": NaN,
+    "Culture": "India (Rajasthan)",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": NaN,
+    "Artist Role": NaN,
+    "Artist Prefix": NaN,
+    "Artist Display Name": NaN,
+    "Artist Display Bio": NaN,
+    "Artist Suffix": NaN,
+    "Artist Alpha Sort": NaN,
+    "Artist Nationality": NaN,
+    "Artist Begin Date": NaN,
+    "Artist End Date": NaN,
+    "Artist Gender": NaN,
+    "Artist ULAN URL": NaN,
+    "Artist Wikidata URL": NaN,
+    "Object Date": "late 19th century",
+    "Object Begin Date": 1867,
+    "Object End Date": 1899,
+    "Medium": "Ink, transparent, and translucent watercolor on paper",
+    "Dimensions": "Image (sight): 18 1/2 x 25 3/4 in. (47 x 65.4 cm)\r\nFramed: 28 x 36 in. (71.1 x 91.4 cm)",
+    "Credit Line": "Gift of Subhash Kapoor, in memory of his parents, Smt Shashi Kanta and Shree Parshotam Ram Kapoor, 2008",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/74698",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q78708490",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Fans|Illness|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300258857|http://vocab.getty.edu/page/aat/300189799|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q193220|https://www.wikidata.org/wiki/Q814207|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/as/original/DP166104.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/as/original/LC-2008_359_37_002.jpg"
+    ],
+    "constituents": null,
+    "measurements": [
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 71.1201,
+          "Width": 91.4402
+        }
+      },
+      {
+        "elementName": "Image",
+        "elementDescription": "sight",
+        "elementMeasurements": {
+          "Height": 46.9901,
+          "Width": 65.4051
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Fans",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300258857",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q193220"
+      },
+      {
+        "term": "Illness",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300189799",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q814207"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

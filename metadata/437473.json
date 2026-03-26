@@ -1,0 +1,119 @@
+{
+  "object_id": 437473,
+  "excel_metadata": {
+    "Object Number": "17.190.29",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437473,
+    "Gallery Number": 524.0,
+    "Department": "European Paintings",
+    "AccessionYear": 1917.0,
+    "Object Name": "Painting",
+    "Title": "The Bathing Pool",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16231.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Hubert Robert",
+    "Artist Display Bio": "French, Paris 1733–1808 Paris",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Robert, Hubert",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1733",
+    "Artist End Date": "1808",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500009558",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q548205",
+    "Object Date": "1777–79",
+    "Object Begin Date": 1777,
+    "Object End Date": 1779,
+    "Medium": "Oil on canvas",
+    "Dimensions": "68 3/4 x 48 3/4 in. (174.6 x 123.8 cm)",
+    "Credit Line": "Gift of J. Pierpont Morgan, 1917",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437473",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20167269",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Temples|Women|Bathing|Fountains|Gardens",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300007595|http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/aat/300343854|http://vocab.getty.edu/page/aat/300006179|http://vocab.getty.edu/page/aat/300008090",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q44539|https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q327651|https://www.wikidata.org/wiki/Q483453|https://www.wikidata.org/wiki/Q1107656"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP264496.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162316,
+        "role": "Artist",
+        "name": "Hubert Robert",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500009558",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q548205",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 5.7150116,
+          "Height": 183.19786,
+          "Width": 134.62027
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 174.6,
+          "Width": 123.8
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Fountains",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300006179",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q483453"
+      },
+      {
+        "term": "Gardens",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300008090",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q1107656"
+      },
+      {
+        "term": "Temples",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300007595",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q44539"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Bathing",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300343854",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q327651"
+      }
+    ]
+  }
+}

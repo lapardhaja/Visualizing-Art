@@ -1,0 +1,88 @@
+{
+  "object_id": 198953,
+  "excel_metadata": {
+    "Object Number": "41.190.197",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 198953,
+    "Gallery Number": 547,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1941,
+    "Object Name": "Armchair",
+    "Title": "Armchair (part of a set)",
+    "Culture": "French, Paris",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 3381,
+    "Artist Role": "Maker",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Georges Jacob",
+    "Artist Display Bio": "French, Cheny 1739–1814 Paris",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Jacob, Georges",
+    "Artist Nationality": "French",
+    "Artist Begin Date": 1739,
+    "Artist End Date": 1814,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500115031",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q503567",
+    "Object Date": "ca. 1780–90",
+    "Object Begin Date": 1775,
+    "Object End Date": 1795,
+    "Medium": "Carved and gilded walnut; velvet",
+    "Dimensions": "Overall: 36 1/8 × 23 × 20 3/4 in. (91.8 × 58.4 × 52.7 cm)",
+    "Credit Line": "Bequest of George Blumenthal, 1941",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Woodwork-Furniture",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/198953",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q116310091",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": null,
+    "Tags AAT URL": null,
+    "Tags Wikidata URL": null
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/SF41_190_197.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/ES6867.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/127129.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 33813,
+        "role": "Maker",
+        "name": "Georges Jacob",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115031",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q503567",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 52.705105,
+          "Height": 91.75768,
+          "Width": 58.420116
+        }
+      }
+    ],
+    "tags": null
+  }
+}

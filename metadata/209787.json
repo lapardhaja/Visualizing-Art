@@ -1,0 +1,94 @@
+{
+  "object_id": 209787,
+  "excel_metadata": {
+    "Object Number": "63.90.123",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 209787,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1963,
+    "Object Name": "Fan",
+    "Title": "Fan",
+    "Culture": "French",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": null,
+    "Artist Role": null,
+    "Artist Prefix": null,
+    "Artist Display Name": null,
+    "Artist Display Bio": null,
+    "Artist Suffix": null,
+    "Artist Alpha Sort": null,
+    "Artist Nationality": null,
+    "Artist Begin Date": null,
+    "Artist End Date": null,
+    "Artist Gender": null,
+    "Artist ULAN URL": null,
+    "Artist Wikidata URL": null,
+    "Object Date": "ca. 1821",
+    "Object Begin Date": 1816,
+    "Object End Date": 1826,
+    "Medium": "Paper, parchment, paint, mother-of-pearl, gold, beads",
+    "Dimensions": "8 7/8 × 17 in. (22.5 × 43.2 cm)",
+    "Credit Line": "Gift of Mrs. William Randolph Hearst, 1963",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Fans",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/209787",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Napoleon I",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ulan/500122388",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q517"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/LC-63_90_123-001.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/LC-63_90_123-002.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/LC-63_90_123-003.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/LC-63_90_123-004.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/LC-63_90_123-005.jpg"
+    ],
+    "constituents": null,
+    "measurements": [
+      {
+        "elementName": "Other",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Length": 22.5425,
+          "Width": 43.1801
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 22.542545,
+          "Width": 43.180088
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Napoleon I",
+        "AAT_URL": "http://vocab.getty.edu/page/ulan/500122388",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q517"
+      }
+    ]
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "object_id": 17517,
+  "excel_metadata": {
+    "Object Number": "2002.508",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 17517,
+    "Gallery Number": 774.0,
+    "Department": "The American Wing",
+    "AccessionYear": 2002.0,
+    "Object Name": "Painting",
+    "Title": "Portrait of a Lady and Child",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 421.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "George W. Twibill Jr.",
+    "Artist Display Bio": "1806–1836",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Twibill, George W. Jr.",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1806",
+    "Artist End Date": "1836",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": NaN,
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q22341565",
+    "Object Date": "1833",
+    "Object Begin Date": 1833,
+    "Object End Date": 1833,
+    "Medium": "Oil on canvas",
+    "Dimensions": "36 3/8 x 29 3/16 in. (90.2 x 72.4 cm)",
+    "Credit Line": "Gift of Susan Spalding Munroe, in memory of Andrew Trowbridge Hall Munroe, 1941-1978, and in honor of his children, Antonio Whitney and Nicoletta Louise, 2002",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/17517",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19923923",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Children|Portraits|Women|Trees",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025945|http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/aat/300132410",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q7569|https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q10884"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/APS3468.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 4211,
+        "role": "Artist",
+        "name": "George W. Twibill Jr.",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q22341565",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 92.3927,
+          "Width": 74.1364
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 5.3975,
+          "Height": 100.1715,
+          "Width": 82.5502
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Children",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025945",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q7569"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Trees",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132410",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q10884"
+      }
+    ]
+  }
+}

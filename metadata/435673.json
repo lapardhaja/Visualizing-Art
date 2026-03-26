@@ -1,0 +1,105 @@
+{
+  "object_id": 435673,
+  "excel_metadata": {
+    "Object Number": "1978.493",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 435673,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1978.0,
+    "Object Name": "Painting",
+    "Title": "The Outer Harbor of Brest",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16556.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Henri Joseph van Blarenberghe",
+    "Artist Display Bio": "French, Lille 1750–1826 Lille",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Blarenberghe, Henri Joseph van",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1750",
+    "Artist End Date": "1826",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500020237",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q16038756",
+    "Object Date": "1773",
+    "Object Begin Date": 1773,
+    "Object End Date": 1773,
+    "Medium": "Oil on canvas",
+    "Dimensions": "29 1/4 x 42 1/8 in. (74.3 x 107 cm)",
+    "Credit Line": "Gift of Mrs. Vincent Astor, 1978",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/435673",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19905254",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Cities|Boats|Ships|Harbors",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300008389|http://vocab.getty.edu/page/aat/300178749|http://vocab.getty.edu/page/aat/300082981|http://vocab.getty.edu/page/aat/300008678",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q515|https://www.wikidata.org/wiki/Q35872|https://www.wikidata.org/wiki/Q11446|https://www.wikidata.org/wiki/Q283202"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP316906.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 165562,
+        "role": "Artist",
+        "name": "Henri Joseph van Blarenberghe",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500020237",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q16038756",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 74.3,
+          "Width": 107
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Cities",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300008389",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q515"
+      },
+      {
+        "term": "Boats",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300178749",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q35872"
+      },
+      {
+        "term": "Ships",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300082981",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q11446"
+      },
+      {
+        "term": "Harbors",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300008678",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q283202"
+      }
+    ]
+  }
+}

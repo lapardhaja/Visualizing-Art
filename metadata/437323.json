@@ -1,0 +1,99 @@
+{
+  "object_id": 437323,
+  "excel_metadata": {
+    "Object Number": "1981.318",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437323,
+    "Gallery Number": 965.0,
+    "Department": "European Paintings",
+    "AccessionYear": 1981.0,
+    "Object Name": "Painting",
+    "Title": "A Brazilian Landscape",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16604.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Frans Post",
+    "Artist Display Bio": "Dutch, Haarlem 1612–1680 Haarlem",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Post, Frans",
+    "Artist Nationality": "Dutch",
+    "Artist Begin Date": "1612",
+    "Artist End Date": "1680",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500017077",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q577489",
+    "Object Date": "1650",
+    "Object Begin Date": 1650,
+    "Object End Date": 1650,
+    "Medium": "Oil on wood",
+    "Dimensions": "24 x 36 in. (61 x 91.4 cm)",
+    "Credit Line": "Purchase, Rogers Fund, special funds, James S. Deely Gift, and Gift of Edna H. Sachs and other gifts and bequests, by exchange, 1981",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437323",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19906272",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Landscapes",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300132294",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q191163"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP145952.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 166041,
+        "role": "Artist",
+        "name": "Frans Post",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500017077",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q577489",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 61,
+          "Width": 91.4
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 6.6675,
+          "Height": 86.0427,
+          "Width": 117.1577
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Landscapes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+      }
+    ]
+  }
+}

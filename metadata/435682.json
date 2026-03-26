@@ -1,0 +1,95 @@
+{
+  "object_id": 435682,
+  "excel_metadata": {
+    "Object Number": "30.95.289",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 435682,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1930.0,
+    "Object Name": "Painting",
+    "Title": "Madonna and Child",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10740.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Boccaccio Boccaccino",
+    "Artist Display Bio": "Italian, Ferrara, before 1466–1524/25 Cremona",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Boccaccino, Boccaccio",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1466",
+    "Artist End Date": "1525",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500012359",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q721349",
+    "Object Date": "1506–1518",
+    "Object Begin Date": 1506,
+    "Object End Date": 1518,
+    "Medium": "Oil on wood",
+    "Dimensions": "Overall 20 3/8 x 14 5/8 in. (51.8 x 37.1 cm); painted surface 20 x 14 in. (50.8 x 35.6 cm)",
+    "Credit Line": "Theodore M. Davis Collection, Bequest of Theodore M. Davis, 1915",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/435682",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912516",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Madonna and Child|Birds",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901000052|http://vocab.getty.edu/page/aat/300266506",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q9309699|https://www.wikidata.org/wiki/Q5113"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/EP258.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 107405,
+        "role": "Artist",
+        "name": "Boccaccio Boccaccino",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500012359",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q721349",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 51.8,
+          "Width": 37.1
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Birds",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300266506",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q5113"
+      },
+      {
+        "term": "Madonna and Child",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000052",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q9309699"
+      }
+    ]
+  }
+}

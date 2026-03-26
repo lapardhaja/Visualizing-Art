@@ -1,0 +1,107 @@
+{
+  "object_id": 207544,
+  "excel_metadata": {
+    "Object Number": "1985.384.2",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 207544,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1985,
+    "Object Name": "Wine bottle cooler",
+    "Title": "Wine bottle cooler (one of a pair)",
+    "Culture": "Italian, Florence",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 3505,
+    "Artist Role": "Manufactory",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Doccia Porcelain Manufactory",
+    "Artist Display Bio": "Italian, 1737–1896",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Doccia Porcelain Manufactory",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": 1737,
+    "Artist End Date": 1896,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500055347",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q1061931",
+    "Object Date": "ca. 1760–70",
+    "Object Begin Date": 1755,
+    "Object End Date": 1775,
+    "Medium": "Tin-glazed hard-paste porcelain",
+    "Dimensions": "H. 7 7/16 in. (18.9 cm.); Diam. foot 5 1/16 in. (12.9 cm.)",
+    "Credit Line": "Gift of Mrs. Nereo Fioratti, in memory of her mother, Ruth Costantino, 1985",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Ceramics-Porcelain",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/207544",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Flowers",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300132399",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q506"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/ES3272.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/ES3273.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/ES3274.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/ES3275.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 35058,
+        "role": "Manufactory",
+        "name": "Doccia Porcelain Manufactory",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500055347",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1061931",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Other",
+        "elementDescription": "1985.384.2 (foot)",
+        "elementMeasurements": {
+          "Diameter": 12.9
+        }
+      },
+      {
+        "elementName": "Other",
+        "elementDescription": "1985.384.2",
+        "elementMeasurements": {
+          "Height": 18.9
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 0.1
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Flowers",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132399",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q506"
+      }
+    ]
+  }
+}

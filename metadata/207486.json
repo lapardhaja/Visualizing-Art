@@ -1,0 +1,111 @@
+{
+  "object_id": 207486,
+  "excel_metadata": {
+    "Object Number": "1984.364.3",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 207486,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1984,
+    "Object Name": "Bust",
+    "Title": "Pope Benedict XV (1854–1922)",
+    "Culture": "French",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 1623253971,
+    "Artist Role": "Artist|Founder",
+    "Artist Prefix": " |Cast by",
+    "Artist Display Name": "Auguste Rodin|Alexis Rudier",
+    "Artist Display Bio": "French, Paris 1840–1917 Meudon|French",
+    "Artist Suffix": " |, Paris",
+    "Artist Alpha Sort": "Rodin, Auguste|Rudier Alexis",
+    "Artist Nationality": "French|French",
+    "Artist Begin Date": "1840      |          ",
+    "Artist End Date": "1917      |          ",
+    "Artist Gender": "|",
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500016619|http://vocab.getty.edu/page/ulan/500331542",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q30755|https://www.wikidata.org/wiki/Q56246396",
+    "Object Date": "modeled 1915, cast probably before 1950",
+    "Object Begin Date": 1915,
+    "Object End Date": 1950,
+    "Medium": "Bronze, marble base",
+    "Dimensions": "Overall: 9 7/8 × 7 3/8 × 10 in. (25.1 × 18.7 × 25.4 cm);_x000D_\nHeight (with base): 15 5/8 in. (39.7 cm)",
+    "Credit Line": "Gift of Iris and B. Gerald Cantor Foundation, 1984",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Sculpture-Bronze",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/207486",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Heads|Popes",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300375054|http://vocab.getty.edu/page/aat/300025773",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q3409626|https://www.wikidata.org/wiki/Q19546"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/241972.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162325,
+        "role": "Artist",
+        "name": "Auguste Rodin",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500016619",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q30755",
+        "gender": ""
+      },
+      {
+        "constituentID": 39712,
+        "role": "Founder",
+        "name": "Cast by Alexis Rudier",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500331542",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q56246396",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Height",
+        "elementDescription": "with base",
+        "elementMeasurements": {
+          "Height": 39.68758
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 25.400051,
+          "Height": 25.08255,
+          "Width": 18.732538
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Heads",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300375054",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3409626"
+      },
+      {
+        "term": "Popes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025773",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q19546"
+      }
+    ]
+  }
+}

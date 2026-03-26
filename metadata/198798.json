@@ -1,0 +1,95 @@
+{
+  "object_id": 198798,
+  "excel_metadata": {
+    "Object Number": "41.100.304",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 198798,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1941,
+    "Object Name": "Plaque",
+    "Title": "The Education of the Virgin",
+    "Culture": "French, Limoges",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 3405,
+    "Artist Role": "Enameler",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Jean II Pénicaud",
+    "Artist Display Bio": "French, working ca. 1531/32–1549",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Pénicaud Jean II",
+    "Artist Nationality": "French",
+    "Artist Begin Date": 1524,
+    "Artist End Date": 1554,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500003312",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q18508363",
+    "Object Date": "mid-16th century, with later additions",
+    "Object Begin Date": 1530,
+    "Object End Date": 1565,
+    "Medium": "Painted enamel on copper, partly gilt",
+    "Dimensions": "8 7/8 × 6 5/8 in. (22.5 × 16.8 cm)",
+    "Credit Line": "Gift of George Blumenthal, 1941",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Enamels",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/198798",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Reading|Virgin Mary",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300248178|http://vocab.getty.edu/page/ia/901000032",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q199657|https://www.wikidata.org/wiki/Q345"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/124730.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 34053,
+        "role": "Enameler",
+        "name": "Jean II Pénicaud",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500003312",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q18508363",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 22.542545,
+          "Width": 16.827534
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Reading",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300248178",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q199657"
+      },
+      {
+        "term": "Virgin Mary",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000032",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q345"
+      }
+    ]
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "object_id": 11758,
+  "excel_metadata": {
+    "Object Number": "1980.361",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 11758,
+    "Gallery Number": 763.0,
+    "Department": "The American Wing",
+    "AccessionYear": 1980.0,
+    "Object Name": "Painting",
+    "Title": "Talking It Over",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 279.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Enoch Wood Perry",
+    "Artist Display Bio": "1831–1915",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Perry, Enoch Wood",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1831",
+    "Artist End Date": "1915",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500028627",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q5379343",
+    "Object Date": "1872",
+    "Object Begin Date": 1872,
+    "Object End Date": 1872,
+    "Medium": "Oil on canvas",
+    "Dimensions": "22 1/4 x 29 1/4 in. (56.5 x 74.3 cm)",
+    "Credit Line": "Gift of Erving and Joyce Wolf, in memory of Diane R. Wolf, 1980",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/11758",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19930497",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Horses",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300250148",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q726"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DT9052.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 2791,
+        "role": "Artist",
+        "name": "Enoch Wood Perry",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500028627",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5379343",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 56.5,
+          "Width": 74.3
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 14.3,
+          "Height": 86.4,
+          "Width": 104.4
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Horses",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250148",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q726"
+      }
+    ]
+  }
+}

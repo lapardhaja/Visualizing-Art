@@ -1,0 +1,104 @@
+{
+  "object_id": 11054,
+  "excel_metadata": {
+    "Object Number": "61.7",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 11054,
+    "Gallery Number": NaN,
+    "Department": "The American Wing",
+    "AccessionYear": 1961.0,
+    "Object Name": "Painting",
+    "Title": "Alexander Van Rensselaer",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 259.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "George P. A. Healy",
+    "Artist Display Bio": "1813–1894",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Healy, George P. A.",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1813",
+    "Artist End Date": "1894",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500022150",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q64633",
+    "Object Date": "1837",
+    "Object Begin Date": 1837,
+    "Object End Date": 1837,
+    "Medium": "Oil on canvas",
+    "Dimensions": "36 1/4 x 28 3/8 in. (91.7 x 71.5 cm)",
+    "Credit Line": "Bequest of Mabel Van Rensselaer Johnson, 1959",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/11054",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20174474",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/ap61.70.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 2594,
+        "role": "Artist",
+        "name": "George P. A. Healy",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500022150",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q64633",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 92.1,
+          "Width": 72.1
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 6.8,
+          "Height": 104,
+          "Width": 84.2
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "object_id": 436630,
+  "excel_metadata": {
+    "Object Number": "89.15.27",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436630,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1889.0,
+    "Object Name": "Painting",
+    "Title": "Portrait of a Woman",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16197.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Adriaen Hanneman",
+    "Artist Display Bio": "Dutch, The Hague 1603/4–1671 The Hague",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Hanneman, Adriaen",
+    "Artist Nationality": "Dutch",
+    "Artist Begin Date": "1603",
+    "Artist End Date": "1671",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500005407",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q864279",
+    "Object Date": "ca. 1653",
+    "Object Begin Date": 1648,
+    "Object End Date": 1658,
+    "Medium": "Oil on canvas",
+    "Dimensions": "31 1/2 x 25 in. (80 x 63.5 cm)",
+    "Credit Line": "Marquand Collection, Gift of Henry G. Marquand, 1889",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436630",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912035",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Portraits|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP146498.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 161975,
+        "role": "Artist",
+        "name": "Adriaen Hanneman",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500005407",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q864279",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 80,
+          "Width": 63.5
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 10.795022,
+          "Height": 105.41021,
+          "Width": 89.53518
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

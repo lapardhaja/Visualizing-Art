@@ -1,0 +1,118 @@
+{
+  "object_id": 437700,
+  "excel_metadata": {
+    "Object Number": "07.66",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 437700,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1907.0,
+    "Object Name": "Painting",
+    "Title": "The Birth of the Virgin",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16244.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Francesco Solimena",
+    "Artist Display Bio": "Italian, Canale di Serino 1657–1747 Barra",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Solimena, Francesco",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1657",
+    "Artist End Date": "1747",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500019310",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q736065",
+    "Object Date": "ca. 1690",
+    "Object Begin Date": 1685,
+    "Object End Date": 1695,
+    "Medium": "Oil on canvas",
+    "Dimensions": "80 1/2 x 67 1/4 in. (204.5 x 170.8 cm)",
+    "Credit Line": "Rogers Fund, 1906",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437700",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19906266",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Women|Birth|Virgin Mary|Infants",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/aat/300069672|http://vocab.getty.edu/page/ia/901000032|http://vocab.getty.edu/page/aat/300189561",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q34581|https://www.wikidata.org/wiki/Q345|https://www.wikidata.org/wiki/Q998"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT11676.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162443,
+        "role": "Artist",
+        "name": "Francesco Solimena",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500019310",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q736065",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 204.5,
+          "Width": 170.8
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 234.95047,
+          "Width": 201.29541
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Infants",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300189561",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q998"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Virgin Mary",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000032",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q345"
+      },
+      {
+        "term": "Birth",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300069672",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q34581"
+      }
+    ]
+  }
+}

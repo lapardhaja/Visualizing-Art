@@ -1,0 +1,112 @@
+{
+  "object_id": 437744,
+  "excel_metadata": {
+    "Object Number": "13.175",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437744,
+    "Gallery Number": 305.0,
+    "Department": "European Paintings",
+    "AccessionYear": 1913.0,
+    "Object Name": "Painting, processional banner",
+    "Title": "Saint Mary Magdalen Holding a Crucifix; (reverse) The Flagellation",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16245.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Spinello Aretino (Spinello di Luca Spinelli)",
+    "Artist Display Bio": "Italian, born Arezzo 1345–52, died 1410 Arezzo",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Spinello Aretino (Spinello di Luca Spinelli)",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1345",
+    "Artist End Date": "1410",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500030643",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q287934",
+    "Object Date": "ca. 1395–1400",
+    "Object Begin Date": 1395,
+    "Object End Date": 1400,
+    "Medium": "Tempera on canvas, gold ground",
+    "Dimensions": "69 1/2 x 47 1/4 in. (176.5 x 120 cm)",
+    "Credit Line": "Gift of the family of Francis M. Bacon, 1914",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437744",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19911536",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Saints|Angels|Christ|Musical Instruments|Mary Magdalene",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300150555|http://vocab.getty.edu/page/aat/300379004|http://vocab.getty.edu/page/ia/901000087|http://vocab.getty.edu/page/aat/300041620|http://vocab.getty.edu/page/ia/901000161",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q43115|https://www.wikidata.org/wiki/Q235113|https://www.wikidata.org/wiki/Q642420|https://www.wikidata.org/wiki/Q34379|https://www.wikidata.org/wiki/Q63070"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP296527.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/DP296526.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 162459,
+        "role": "Artist",
+        "name": "Spinello Aretino (Spinello di Luca Spinelli)",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500030643",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q287934",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 176.5,
+          "Width": 120
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Musical Instruments",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300041620",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q34379"
+      },
+      {
+        "term": "Angels",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379004",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q235113"
+      },
+      {
+        "term": "Christ",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+      },
+      {
+        "term": "Mary Magdalene",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000161",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q63070"
+      },
+      {
+        "term": "Saints",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300150555",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q43115"
+      }
+    ]
+  }
+}

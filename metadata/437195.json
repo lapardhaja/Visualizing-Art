@@ -1,0 +1,102 @@
+{
+  "object_id": 437195,
+  "excel_metadata": {
+    "Object Number": "61.43",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 437195,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1961.0,
+    "Object Name": "Painting",
+    "Title": "Madonna and Child with Saints Jerome and Mary Magdalen",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16552.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Neroccio de' Landi",
+    "Artist Display Bio": "Italian, Siena 1447–1500 Siena",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Neroccio de' Landi",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1447",
+    "Artist End Date": "1500",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500007415",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q1398270",
+    "Object Date": "ca. 1490",
+    "Object Begin Date": 1485,
+    "Object End Date": 1495,
+    "Medium": "Tempera on wood",
+    "Dimensions": "24 x 17 1/4 in. (61 x 43.8 cm)",
+    "Credit Line": "Gift of Samuel H. Kress Foundation, by exchange, 1961",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437195",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912258",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Madonna and Child|Mary Magdalene|Saint Jerome",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901000052|http://vocab.getty.edu/page/ia/901000161|http://vocab.getty.edu/page/ulan/500060933",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q9309699|https://www.wikidata.org/wiki/Q63070|https://www.wikidata.org/wiki/Q44248"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT5277.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-61_43-2.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 165528,
+        "role": "Artist",
+        "name": "Neroccio de&#39; Landi",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500007415",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1398270",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 61,
+          "Width": 43.8
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Madonna and Child",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000052",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q9309699"
+      },
+      {
+        "term": "Mary Magdalene",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000161",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q63070"
+      },
+      {
+        "term": "Saint Jerome",
+        "AAT_URL": "http://vocab.getty.edu/page/ulan/500060933",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q44248"
+      }
+    ]
+  }
+}

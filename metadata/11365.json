@@ -1,0 +1,104 @@
+{
+  "object_id": 11365,
+  "excel_metadata": {
+    "Object Number": "95.2",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 11365,
+    "Gallery Number": NaN,
+    "Department": "The American Wing",
+    "AccessionYear": 1895.0,
+    "Object Name": "Painting",
+    "Title": "Portrait of a Lady",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 267.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Joseph Kyle",
+    "Artist Display Bio": "1815–1863",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Kyle, Joseph",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1815",
+    "Artist End Date": "1863",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500015996",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q20127345",
+    "Object Date": "1861",
+    "Object Begin Date": 1861,
+    "Object End Date": 1861,
+    "Medium": "Oil on canvas",
+    "Dimensions": "12 7/8 x 11 in. (32.7 x 27.8 cm)",
+    "Credit Line": "Gift of William Magrath, 1895",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/11365",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20172279",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Portraits|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/ap95.20.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 2673,
+        "role": "Artist",
+        "name": "Joseph Kyle",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500015996",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q20127345",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 32.7,
+          "Width": 27.9
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 4.1,
+          "Height": 47.3,
+          "Width": 42.2
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

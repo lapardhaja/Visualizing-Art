@@ -1,0 +1,102 @@
+{
+  "object_id": 38031,
+  "excel_metadata": {
+    "Object Number": "1979.12.1",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 38031,
+    "Gallery Number": NaN,
+    "Department": "Asian Art",
+    "AccessionYear": 1979.0,
+    "Object Name": "Painting",
+    "Title": NaN,
+    "Culture": "India (Rajasthan)",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 1891.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Sri Prathi Singh of Ratlam",
+    "Artist Display Bio": "Indian",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Singh Prathi Sri",
+    "Artist Nationality": "Indian",
+    "Artist Begin Date": "          ",
+    "Artist End Date": "          ",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": NaN,
+    "Artist Wikidata URL": NaN,
+    "Object Date": "late 18th–early 19th century",
+    "Object Begin Date": 1767,
+    "Object End Date": 1833,
+    "Medium": "Ink and opaque watercolor on paper",
+    "Dimensions": "Overall: 11 9/16 x 8 9/16 in. (29.4 x 21.8cm)",
+    "Credit Line": "Purchase, Mrs. Peter Findlay Gift, 1979",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/38031",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q78875195",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Swords|Princes|Men",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300037048|http://vocab.getty.edu/page/aat/300025482|http://vocab.getty.edu/page/aat/300025928",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q12791|https://www.wikidata.org/wiki/Q2747456|https://www.wikidata.org/wiki/Q8441"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/as/original/DP152295.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/as/original/LC-1979_12_1_001.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 18910,
+        "role": "Artist",
+        "name": "Sri Prathi Singh of Ratlam",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 29.37,
+          "Width": 21.82
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Swords",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300037048",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q12791"
+      },
+      {
+        "term": "Princes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025482",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q2747456"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      }
+    ]
+  }
+}

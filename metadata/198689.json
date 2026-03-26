@@ -1,0 +1,91 @@
+{
+  "object_id": 198689,
+  "excel_metadata": {
+    "Object Number": "41.24.3",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 198689,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1941,
+    "Object Name": "Figure",
+    "Title": "Cock (one of a pair)",
+    "Culture": "British, Staffordshire",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 3481,
+    "Artist Role": "Maker",
+    "Artist Prefix": "Style of",
+    "Artist Display Name": "Whieldon type",
+    "Artist Display Bio": " ",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Whieldon type",
+    "Artist Nationality": " ",
+    "Artist Begin Date": "          ",
+    "Artist End Date": "          ",
+    "Artist Gender": null,
+    "Artist ULAN URL": "(not assigned)",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q98514877",
+    "Object Date": "ca. 1750–60",
+    "Object Begin Date": 1745,
+    "Object End Date": 1765,
+    "Medium": "Lead-glazed earthenware",
+    "Dimensions": "Height: 7 1/8 in. (18.1 cm)",
+    "Credit Line": "Gift of R. Thornton Wilson, 1941",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Ceramics-Pottery",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/198689",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Roosters",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300380127",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q2216236"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP-15624-053.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/DP-15624-054.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 34810,
+        "role": "Maker",
+        "name": "Style of Whieldon type",
+        "constituentULAN_URL": "(not assigned)",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q98514877",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Height",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 18.097536
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Roosters",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300380127",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q2216236"
+      }
+    ]
+  }
+}

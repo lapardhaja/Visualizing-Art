@@ -1,0 +1,94 @@
+{
+  "object_id": 198163,
+  "excel_metadata": {
+    "Object Number": "38.145.36",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 198163,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1938,
+    "Object Name": "Portrait medallion",
+    "Title": "Felix Baciocchi, Prince of Lucca and Piombino",
+    "Culture": "Italian, Florence",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 3384,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Giovanni Antonio Santarelli",
+    "Artist Display Bio": "Italian, Manopello 1758–1826 Florence",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Santarelli, Giovanni Antonio",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": 1758,
+    "Artist End Date": 1826,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500112171",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q3766470",
+    "Object Date": "ca. 1809",
+    "Object Begin Date": 1804,
+    "Object End Date": 1814,
+    "Medium": "Pink wax on glass painted dark blue; frame: moulded gilt plaster",
+    "Dimensions": "Diameter: 4 1/4 in. (10.8 cm)",
+    "Credit Line": "Bequest of Mary Martin, 1938",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Sculpture-Miniature",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/198163",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Profiles",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300123319",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q4382010"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/116279.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 33846,
+        "role": "Artist",
+        "name": "Giovanni Antonio Santarelli",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500112171",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3766470",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Diameter",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Diameter": 10.795022
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Profiles",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300123319",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q4382010"
+      }
+    ]
+  }
+}

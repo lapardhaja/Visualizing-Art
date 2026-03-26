@@ -1,0 +1,95 @@
+{
+  "object_id": 438510,
+  "excel_metadata": {
+    "Object Number": "2002.151",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 438510,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 2002.0,
+    "Object Name": "Painting",
+    "Title": "The Outskirts of a Village",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16284.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Edmond-François Aman-Jean",
+    "Artist Display Bio": "French, Chevry-Cossigny 1858–1936 Paris",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Aman-Jean, Edmond-François",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1858",
+    "Artist End Date": "1936",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500012380",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q576570",
+    "Object Date": "ca. 1880",
+    "Object Begin Date": 1875,
+    "Object End Date": 1885,
+    "Medium": "Oil on panel",
+    "Dimensions": "4 7/8 x 8 9/16 in. (12.4 x 21.7 cm)",
+    "Credit Line": "Catharine Lorillard Wolfe Collection, Wolfe Fund, 2002",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/438510",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19913592",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Villages|Landscapes",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300008372|http://vocab.getty.edu/page/aat/300132294",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q532|https://www.wikidata.org/wiki/Q191163"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/ep2002.151.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162847,
+        "role": "Artist",
+        "name": "Edmond-François Aman-Jean",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500012380",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q576570",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 12.3825,
+          "Width": 21.7488
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Villages",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300008372",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q532"
+      },
+      {
+        "term": "Landscapes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+      }
+    ]
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "object_id": 193912,
+  "excel_metadata": {
+    "Object Number": "17.190.1242",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 193912,
+    "Gallery Number": 533.0,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1917.0,
+    "Object Name": "Snuffbox, painting",
+    "Title": "Snuffbox with portrait of Frederick the Great (1712–1786), King of Prussia",
+    "Culture": "German, Berlin",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 3718816332.0,
+    "Artist Role": "Maker|Artist",
+    "Artist Prefix": " |Miniature attributed to",
+    "Artist Display Name": "Daniel Baudesson|Daniel Nikolaus Chodowiecki",
+    "Artist Display Bio": "1716–1785, working 1730–80|German, Danzig 1726–1801 Berlin",
+    "Artist Suffix": " | ",
+    "Artist Alpha Sort": "Baudesson Daniel|Chodowiecki, Daniel Nikolaus",
+    "Artist Nationality": " |German",
+    "Artist Begin Date": "1716      |1726      ",
+    "Artist End Date": "1785      |1801      ",
+    "Artist Gender": "|",
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500100787|http://vocab.getty.edu/page/ulan/500014861",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q50338700|https://www.wikidata.org/wiki/Q696720",
+    "Object Date": "1745–55",
+    "Object Begin Date": 1745,
+    "Object End Date": 1755,
+    "Medium": "Gold, enamel, diamonds; ivory",
+    "Dimensions": "1 1/2 x 3 3/8 x 2 1/2 in. (3.8 x 8.6 x 6.4cm); Miniature: 2 3/8 x 3 1/4 in. (60 x 83 mm)",
+    "Credit Line": "Gift of J. Pierpont Morgan, 1917",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Metalwork-Gold and Platinum|Miniatures",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/193912",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q116310703",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Infants|Female Nudes|Swans|Flowers",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300189561|http://vocab.getty.edu/page/aat/300189568|http://vocab.getty.edu/page/aat/300250103|http://vocab.getty.edu/page/aat/300132399",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q998|https://www.wikidata.org/wiki/Q40446|https://www.wikidata.org/wiki/Q34384|https://www.wikidata.org/wiki/Q506"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP285555.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/ES5701.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 37188,
+        "role": "Maker",
+        "name": "Daniel Baudesson",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500100787",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q50338700",
+        "gender": ""
+      },
+      {
+        "constituentID": 163325,
+        "role": "Artist",
+        "name": "Miniature attributed to Daniel Nikolaus Chodowiecki",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500014861",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q696720",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 6.4,
+          "Height": 3.8,
+          "Width": 8.6
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Infants",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300189561",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q998"
+      },
+      {
+        "term": "Female Nudes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300189568",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q40446"
+      },
+      {
+        "term": "Swans",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250103",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q34384"
+      },
+      {
+        "term": "Flowers",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132399",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q506"
+      }
+    ]
+  }
+}

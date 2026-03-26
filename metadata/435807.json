@@ -1,0 +1,109 @@
+{
+  "object_id": 435807,
+  "excel_metadata": {
+    "Object Number": "32.100.21",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 435807,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1932.0,
+    "Object Name": "Painting",
+    "Title": "The Smokers",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16172.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Adriaen Brouwer",
+    "Artist Display Bio": "Flemish, Oudenaarde 1605/6–1638 Antwerp",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Brouwer, Adriaen",
+    "Artist Nationality": "Flemish",
+    "Artist Begin Date": "1605",
+    "Artist End Date": "1638",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500012394",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q364139",
+    "Object Date": "ca. 1636",
+    "Object Begin Date": 1631,
+    "Object End Date": 1638,
+    "Medium": "Oil on wood",
+    "Dimensions": "18 1/4 × 14 1/2 in. (46.4 × 36.8 cm)\r\n",
+    "Credit Line": "The Friedsam Collection, Bequest of Michael Friedsam, 1931",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/435807",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q17183419",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Smoking|Tankards",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300380156|http://vocab.getty.edu/page/aat/300043256",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q662860|https://www.wikidata.org/wiki/Q3446398"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-15904-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 161725,
+        "role": "Artist",
+        "name": "Adriaen Brouwer",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500012394",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q364139",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 10.16,
+          "Height": 66.6751,
+          "Width": 58.4201
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 46.4,
+          "Width": 36.8
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Smoking",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300380156",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q662860"
+      },
+      {
+        "term": "Tankards",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300043256",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3446398"
+      }
+    ]
+  }
+}

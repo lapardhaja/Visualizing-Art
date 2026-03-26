@@ -1,0 +1,87 @@
+{
+  "object_id": 207575,
+  "excel_metadata": {
+    "Object Number": 1986.26,
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 207575,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1986,
+    "Object Name": "Side chair",
+    "Title": "Side chair (voyeuse à genoux)",
+    "Culture": "French",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 3325,
+    "Artist Role": "Maker",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Louis Magdeleine Pluvinet",
+    "Artist Display Bio": "French, master 1775–85",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Pluvinet, Louis Magdeleine",
+    "Artist Nationality": "French",
+    "Artist Begin Date": 1745,
+    "Artist End Date": 1815,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500109150",
+    "Artist Wikidata URL": null,
+    "Object Date": "ca. 1785",
+    "Object Begin Date": 1780,
+    "Object End Date": 1790,
+    "Medium": "Carved and gilded wood, light blue silk upholstery (not original)",
+    "Dimensions": "Overall: 35 1/4 × 20 3/8 × 16 3/4 in. (89.5 × 51.8 × 42.5 cm)",
+    "Credit Line": "Purchase, Mrs. Charles Wrightsman Gift, 1986",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Woodwork-Furniture",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/207575",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": null,
+    "Tags AAT URL": null,
+    "Tags Wikidata URL": null
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/246744.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/246745.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 33258,
+        "role": "Maker",
+        "name": "Louis Magdeleine Pluvinet",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500109150",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 42.545086,
+          "Height": 89.5,
+          "Width": 51.8
+        }
+      }
+    ],
+    "tags": null
+  }
+}

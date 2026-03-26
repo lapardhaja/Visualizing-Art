@@ -1,0 +1,120 @@
+{
+  "object_id": 437156,
+  "excel_metadata": {
+    "Object Number": "12.61",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 437156,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1912.0,
+    "Object Name": "Painting",
+    "Title": "The Entombment",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16214.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Moretto da Brescia (Alessandro Bonvicino)",
+    "Artist Display Bio": "Italian, Brescia ca. 1498–1554 Brescia",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Moretto da Brescia (Alessandro Bonvicino)",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1498",
+    "Artist End Date": "1554",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500007609",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q954504",
+    "Object Date": "1554",
+    "Object Begin Date": 1554,
+    "Object End Date": 1554,
+    "Medium": "Oil on canvas",
+    "Dimensions": "94 1/2 x 74 1/2 in. (240 x 189.2 cm)",
+    "Credit Line": "John Stewart Kennedy Fund, 1912",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437156",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19904833",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Sadness|Mary Magdalene|Entombment|Christ|Virgin Mary",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300055166|http://vocab.getty.edu/page/ia/901000161|http://vocab.getty.edu/page/ia/901001053|http://vocab.getty.edu/page/ia/901000087|http://vocab.getty.edu/page/ia/901000032",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q169251|https://www.wikidata.org/wiki/Q63070|https://www.wikidata.org/wiki/Q51637|https://www.wikidata.org/wiki/Q642420|https://www.wikidata.org/wiki/Q345"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-15282-001.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-12_61-2.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-12_61-3.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 162141,
+        "role": "Artist",
+        "name": "Moretto da Brescia (Alessandro Bonvicino)",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500007609",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q954504",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 240,
+          "Width": 189.2
+        }
+      },
+      {
+        "elementName": "Other",
+        "elementDescription": "Picture + Frame ",
+        "elementMeasurements": {
+          "Weight": 70.30754
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Sadness",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300055166",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q169251"
+      },
+      {
+        "term": "Christ",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+      },
+      {
+        "term": "Mary Magdalene",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000161",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q63070"
+      },
+      {
+        "term": "Virgin Mary",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000032",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q345"
+      },
+      {
+        "term": "Entombment",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901001053",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q51637"
+      }
+    ]
+  }
+}

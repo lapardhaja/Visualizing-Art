@@ -1,0 +1,100 @@
+{
+  "object_id": 437789,
+  "excel_metadata": {
+    "Object Number": "37.165.1",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437789,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1937.0,
+    "Object Name": "Painting, sketch",
+    "Title": "The Adoration of the Magi",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16253.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Giovanni Battista Tiepolo",
+    "Artist Display Bio": "Italian, Venice 1696–1770 Madrid",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Tiepolo, Giovanni Battista",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1696",
+    "Artist End Date": "1770",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500018523",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q186202",
+    "Object Date": "late 1750s",
+    "Object Begin Date": 1757,
+    "Object End Date": 1759,
+    "Medium": "Oil on canvas",
+    "Dimensions": "23 3/4 x 18 3/4 in. (60.3 x 47.6 cm)",
+    "Credit Line": "Rogers Fund, 1937",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437789",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19905125",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Madonna and Child|Adoration of the Magi|Angels",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901000052|http://vocab.getty.edu/page/ia/901000083|http://vocab.getty.edu/page/aat/300379004",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q9309699|https://www.wikidata.org/wiki/Q488841|https://www.wikidata.org/wiki/Q235113"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT1202.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162537,
+        "role": "Artist",
+        "name": "Giovanni Battista Tiepolo",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500018523",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q186202",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 60.3,
+          "Width": 47.6
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Angels",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379004",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q235113"
+      },
+      {
+        "term": "Madonna and Child",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000052",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q9309699"
+      },
+      {
+        "term": "Adoration of the Magi",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000083",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q488841"
+      }
+    ]
+  }
+}

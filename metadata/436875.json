@@ -1,0 +1,129 @@
+{
+  "object_id": 436875,
+  "excel_metadata": {
+    "Object Number": "57.103",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 436875,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1957.0,
+    "Object Name": "Painting",
+    "Title": "The Interior of an Atelier of a Woman Painter",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16551.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Marie Victoire Lemoine",
+    "Artist Display Bio": "French, Paris 1754–1820 Paris",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Lemoine, Marie Victoire",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1754",
+    "Artist End Date": "1820",
+    "Artist Gender": "Female",
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500000538",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q529270",
+    "Object Date": "1789",
+    "Object Begin Date": 1789,
+    "Object End Date": 1789,
+    "Medium": "Oil on canvas",
+    "Dimensions": "45 7/8 x 35 in. (116.5 x 88.9 cm)",
+    "Credit Line": "Gift of Mrs. Thorneycroft Ryle, 1957",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436875",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19905461",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Painting|Interiors|Women|Artists|Easels|Palettes",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300054216|http://vocab.getty.edu/page/aat/300391239|http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/aat/300025103|http://vocab.getty.edu/page/aat/300079638|http://vocab.getty.edu/page/aat/300022625",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q11629|https://www.wikidata.org/wiki/Q2998430|https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q483501|https://www.wikidata.org/wiki/Q939611|https://www.wikidata.org/wiki/Q425548"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP320098.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/Lemoine signature.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/DP-29640-002.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/DP-29640-003.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/DP-29640-009.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 165511,
+        "role": "Artist",
+        "name": "Marie Victoire Lemoine",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500000538",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q529270",
+        "gender": "Female"
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 116.5,
+          "Width": 88.9
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 17.780035,
+          "Height": 148.5903,
+          "Width": 123.19025
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Painting",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300054216",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q11629"
+      },
+      {
+        "term": "Interiors",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300391239",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q2998430"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Artists",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025103",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q483501"
+      },
+      {
+        "term": "Easels",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300079638",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q939611"
+      },
+      {
+        "term": "Palettes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300022625",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q425548"
+      }
+    ]
+  }
+}

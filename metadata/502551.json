@@ -1,0 +1,111 @@
+{
+  "object_id": 502551,
+  "excel_metadata": {
+    "Object Number": "89.4.1972",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": false,
+    "Object ID": 502551,
+    "Gallery Number": 681,
+    "Department": "Musical Instruments",
+    "AccessionYear": 1889,
+    "Object Name": "Truh-kun-pi",
+    "Title": "Truh-kun-pi",
+    "Culture": "Native American (Hopi)",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 15624,
+    "Artist Role": "Maker",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Hopi Indians",
+    "Artist Display Bio": " ",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Hopi Indians",
+    "Artist Nationality": " ",
+    "Artist Begin Date": "          ",
+    "Artist End Date": "          ",
+    "Artist Gender": null,
+    "Artist ULAN URL": null,
+    "Artist Wikidata URL": null,
+    "Object Date": "19th century",
+    "Object Begin Date": 1801,
+    "Object End Date": 1900,
+    "Medium": "Bone, gourd, wood",
+    "Dimensions": "Gourd: H. 6 3/16 × L. 14 3/8 × W. 6 5/16 in. (15.7 × 36.5 × 16 cm)_x000D_\nRasp: L. 16 5/8 x D. 7/8 in. (42.3 x 2.3 cm)_x000D_\nBone: L. 6 11/16 x W. 4 5/16 x H. 1 15/16 (17 x 11 x 5 cm)",
+    "Credit Line": "The Crosby Brown Collection of Musical Instruments, 1889",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": "Arizona",
+    "Country": "United States",
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Idiophone-Scraped",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/502551",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q116413040",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": null,
+    "Tags AAT URL": null,
+    "Tags Wikidata URL": null
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/mi/original/midp89.4.1972.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/mi/original/MUS802A10.jpg",
+      "https://images.metmuseum.org/CRDImages/mi/original/MUS1439A1.jpg",
+      "https://images.metmuseum.org/CRDImages/mi/original/MMA_89.4.1972A.jpg",
+      "https://images.metmuseum.org/CRDImages/mi/original/MMA_89.4.1972AB.jpg",
+      "https://images.metmuseum.org/CRDImages/mi/original/MMA_89.4.1972ABC.jpg",
+      "https://images.metmuseum.org/CRDImages/mi/original/MMA_89.4.1972B_1.jpg",
+      "https://images.metmuseum.org/CRDImages/mi/original/MMA_89.4.1972B_2.jpg",
+      "https://images.metmuseum.org/CRDImages/mi/original/meas89.4.1972.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 156245,
+        "role": "Maker",
+        "name": "Hopi Indians",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Height",
+        "elementDescription": "Of gourd",
+        "elementMeasurements": {
+          "Height": 15.7,
+          "Length": 36.5,
+          "Width": 16
+        }
+      },
+      {
+        "elementName": "Height",
+        "elementDescription": "Of bone",
+        "elementMeasurements": {
+          "Height": 5,
+          "Length": 17,
+          "Width": 11
+        }
+      },
+      {
+        "elementName": "Height",
+        "elementDescription": "Of Rasp",
+        "elementMeasurements": {
+          "Depth": 2.3,
+          "Height": 42.3
+        }
+      }
+    ],
+    "tags": null
+  }
+}

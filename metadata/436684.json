@@ -1,0 +1,95 @@
+{
+  "object_id": 436684,
+  "excel_metadata": {
+    "Object Number": "46.13.3",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436684,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1946.0,
+    "Object Name": "Painting",
+    "Title": "Major Thomas Pechell (1753–1826)",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16621.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "John Hoppner",
+    "Artist Display Bio": "British, London 1758–1810 London",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Hoppner, John",
+    "Artist Nationality": "British",
+    "Artist Begin Date": "1758",
+    "Artist End Date": "1810",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500013173",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q326066",
+    "Object Date": "1799",
+    "Object Begin Date": 1799,
+    "Object End Date": 1799,
+    "Medium": "Oil on canvas",
+    "Dimensions": "30 x 24 7/8 in. (76.2 x 63.2 cm)",
+    "Credit Line": "Bequest of Helen Swift Neilson, 1945",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436684",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912422",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP162152.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 166219,
+        "role": "Artist",
+        "name": "John Hoppner",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500013173",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q326066",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 76.2,
+          "Width": 63.2
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "object_id": 11407,
+  "excel_metadata": {
+    "Object Number": "96.23",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 11407,
+    "Gallery Number": NaN,
+    "Department": "The American Wing",
+    "AccessionYear": 1896.0,
+    "Object Name": "Painting",
+    "Title": "Joseph W. Drexel",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 268.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Jacob Hart Lazarus",
+    "Artist Display Bio": "1822–1891",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Lazarus, Jacob Hart",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1822",
+    "Artist End Date": "1891",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500003636",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q21009925",
+    "Object Date": "1877",
+    "Object Begin Date": 1877,
+    "Object End Date": 1877,
+    "Medium": "Oil on canvas",
+    "Dimensions": "30 1/8 x 25 1/2 in. (76.5 x 64.8 cm)",
+    "Credit Line": "Gift of Mrs. Joseph W. Drexel, 1896",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/11407",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20172300",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/ap96.23.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 2683,
+        "role": "Artist",
+        "name": "Jacob Hart Lazarus",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500003636",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q21009925",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 76.5,
+          "Width": 64.8
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 10.795,
+          "Height": 110.8077,
+          "Width": 98.1077
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

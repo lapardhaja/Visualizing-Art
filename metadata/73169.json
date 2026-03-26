@@ -1,0 +1,106 @@
+{
+  "object_id": 73169,
+  "excel_metadata": {
+    "Object Number": "2005.436.2",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 73169,
+    "Gallery Number": NaN,
+    "Department": "Asian Art",
+    "AccessionYear": 2005.0,
+    "Object Name": "Painting",
+    "Title": NaN,
+    "Culture": "India, Guler, Himachal Pradesh",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": NaN,
+    "Artist Role": NaN,
+    "Artist Prefix": NaN,
+    "Artist Display Name": NaN,
+    "Artist Display Bio": NaN,
+    "Artist Suffix": NaN,
+    "Artist Alpha Sort": NaN,
+    "Artist Nationality": NaN,
+    "Artist Begin Date": NaN,
+    "Artist End Date": NaN,
+    "Artist Gender": NaN,
+    "Artist ULAN URL": NaN,
+    "Artist Wikidata URL": NaN,
+    "Object Date": "ca. 1780",
+    "Object Begin Date": 1770,
+    "Object End Date": 1790,
+    "Medium": "Ink and opaque watercolor on paper",
+    "Dimensions": "Page: 7 5/8 x 11 9/16 in. (19.4 x 29.4 cm)\r\nImage: 5 3/4 x 9 7/8 in. (14.6 x 25.1 cm)",
+    "Credit Line": "Gift of Cynthia Hazen Polsky, 2005",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/73169",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q78712868",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Demons|Lions|Buffalos|Durga",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300379730|http://vocab.getty.edu/page/aat/300310388|http://vocab.getty.edu/page/aat/300250108|http://vocab.getty.edu/page/ia/901001417",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q177413|https://www.wikidata.org/wiki/Q140|https://www.wikidata.org/wiki/Q82728|https://www.wikidata.org/wiki/Q382973"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/as/original/DP153193.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/as/original/LC-2005_436_2_001.jpg"
+    ],
+    "constituents": null,
+    "measurements": [
+      {
+        "elementName": "Image",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 14.605,
+          "Width": 25.0826
+        }
+      },
+      {
+        "elementName": "Sheet",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 19.3675,
+          "Width": 29.3688
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Buffalos",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250108",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q82728"
+      },
+      {
+        "term": "Lions",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300310388",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q140"
+      },
+      {
+        "term": "Demons",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379730",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q177413"
+      },
+      {
+        "term": "Durga",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901001417",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q382973"
+      }
+    ]
+  }
+}

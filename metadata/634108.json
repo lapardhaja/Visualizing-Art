@@ -1,0 +1,95 @@
+{
+  "object_id": 634108,
+  "excel_metadata": {
+    "Object Number": "2013.1134",
+    "Is Highlight": true,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 634108,
+    "Gallery Number": 800.0,
+    "Department": "European Paintings",
+    "AccessionYear": 2013.0,
+    "Object Name": "Painting",
+    "Title": "The Dream of the Shepherd (Der Traum des Hirten)",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 9037.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Ferdinand Hodler",
+    "Artist Display Bio": "Swiss, Bern 1853–1918 Geneva",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Hodler, Ferdinand",
+    "Artist Nationality": "Swiss",
+    "Artist Begin Date": "1853",
+    "Artist End Date": "1918",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500027184",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q214564",
+    "Object Date": "1896",
+    "Object Begin Date": 1896,
+    "Object End Date": 1896,
+    "Medium": "Oil on canvas",
+    "Dimensions": "98 1/2 × 51 3/8 in. (250.2 × 130.5 cm)",
+    "Credit Line": "Purchase, European Paintings Funds, Lila Acheson Wallace Gift, Catharine Lorillard Wolfe Collection, Wolfe Fund, Charles and Jessie Price Gift, funds from various donors, and Bequests of Collis P. Huntington and Isaac D. Fletcher, by exchange, 2013 \r\n\r\n",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/634108",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19904853",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Female Nudes|Shepherds",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300189568|http://vocab.getty.edu/page/aat/300025617",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q40446|https://www.wikidata.org/wiki/Q81710"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP318843.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 90378,
+        "role": "Artist",
+        "name": "Ferdinand Hodler",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500027184",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q214564",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 250.1905,
+          "Width": 130.49277
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Female Nudes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300189568",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q40446"
+      },
+      {
+        "term": "Shepherds",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025617",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q81710"
+      }
+    ]
+  }
+}

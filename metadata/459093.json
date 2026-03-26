@@ -1,0 +1,114 @@
+{
+  "object_id": 459093,
+  "excel_metadata": {
+    "Object Number": "1975.1.162",
+    "Is Highlight": true,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 459093,
+    "Gallery Number": 957.0,
+    "Department": "Robert Lehman Collection",
+    "AccessionYear": 1975.0,
+    "Object Name": "Painting",
+    "Title": "Diana and Actaeon (Diana Surprised in Her Bath)",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16178.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Camille Corot",
+    "Artist Display Bio": "French, Paris 1796–1875 Paris",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Corot, Camille",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1796",
+    "Artist End Date": "1875",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500115390",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q148475",
+    "Object Date": "1836",
+    "Object Begin Date": 1836,
+    "Object End Date": 1836,
+    "Medium": "Oil on canvas",
+    "Dimensions": "61 5/8 x 44 3/8 in. (156.5 x 112.7 cm)",
+    "Credit Line": "Robert Lehman Collection, 1975",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/459093",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20184292",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Actaeon|Nymphs|Diana|Forests|Bathing",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901002182|http://vocab.getty.edu/page/aat/300379159|http://vocab.getty.edu/page/ia/901000118|http://vocab.getty.edu/page/aat/300387598|http://vocab.getty.edu/page/aat/300343854",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q208531|https://www.wikidata.org/wiki/Q373916|https://www.wikidata.org/wiki/Q132543|https://www.wikidata.org/wiki/Q4421|https://www.wikidata.org/wiki/Q327651"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/rl/original/DT718.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/rl/original/ep1975.1.162.bw.R.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/2018.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/rl1975.1.162.R.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 161787,
+        "role": "Artist",
+        "name": "Camille Corot",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115390",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q148475",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 156.5,
+          "Width": 112.7
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Actaeon",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901002182",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q208531"
+      },
+      {
+        "term": "Nymphs",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379159",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q373916"
+      },
+      {
+        "term": "Diana",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000118",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q132543"
+      },
+      {
+        "term": "Forests",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300387598",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q4421"
+      },
+      {
+        "term": "Bathing",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300343854",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q327651"
+      }
+    ]
+  }
+}

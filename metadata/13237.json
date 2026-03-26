@@ -1,0 +1,103 @@
+{
+  "object_id": 13237,
+  "excel_metadata": {
+    "Object Number": "11.32",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 13237,
+    "Gallery Number": NaN,
+    "Department": "The American Wing",
+    "AccessionYear": 1911.0,
+    "Object Name": "Painting",
+    "Title": "Harmony in Yellow and Gold: The Gold Girl—Connie Gilchrist",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16272.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "James McNeill Whistler",
+    "Artist Display Bio": "American, Lowell, Massachusetts 1834–1903 London",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Whistler, James McNeill",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1834",
+    "Artist End Date": "1903",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500012432",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q203643",
+    "Object Date": "ca. 1876–77",
+    "Object Begin Date": 1876,
+    "Object End Date": 1877,
+    "Medium": "Oil on canvas",
+    "Dimensions": "85 3/4 x 43 1/8 in. (217.8 x 109.5 cm)",
+    "Credit Line": "Gift of George A. Hearn, 1911",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/13237",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20170123",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Performance|Girls",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300069200|http://vocab.getty.edu/page/aat/300247581",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q35140|https://www.wikidata.org/wiki/Q3031"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DP166780.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162723,
+        "role": "Artist",
+        "name": "James McNeill Whistler",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500012432",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q203643",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 246.4,
+          "Width": 140.3
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 217.8,
+          "Width": 109.5
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Performance",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300069200",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q35140"
+      },
+      {
+        "term": "Girls",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300247581",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3031"
+      }
+    ]
+  }
+}

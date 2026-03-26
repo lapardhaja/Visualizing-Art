@@ -1,0 +1,108 @@
+{
+  "object_id": 15582,
+  "excel_metadata": {
+    "Object Number": "1996.433",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": false,
+    "Object ID": 15582,
+    "Gallery Number": 774.0,
+    "Department": "The American Wing",
+    "AccessionYear": 1996.0,
+    "Object Name": "Painting",
+    "Title": "San Gimignano",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16261.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Elihu Vedder",
+    "Artist Display Bio": "American, New York 1836–1923 Rome",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Vedder, Elihu",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1836",
+    "Artist End Date": "1923",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500032587",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q389726",
+    "Object Date": NaN,
+    "Object Begin Date": 1836,
+    "Object End Date": 1923,
+    "Medium": "Oil on canvas",
+    "Dimensions": "13 7/8 x 10 3/4 in. (35.2 x 27.3 cm)",
+    "Credit Line": "Gift of John V. Kiskis and Enza Tomassi Kiskis, in memory of  Nadine Bretschneider Tomassi, 1996",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/15582",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19925131",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Towers|Towns|Buildings",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300004847|http://vocab.getty.edu/page/aat/300008375|http://vocab.getty.edu/page/aat/300004789",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q12518|https://www.wikidata.org/wiki/Q3957|https://www.wikidata.org/wiki/Q41176"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DP105594.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162614,
+        "role": "Artist",
+        "name": "Elihu Vedder",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500032587",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q389726",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 41.1,
+          "Width": 32.7
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 35.2,
+          "Width": 27.3
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Buildings",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300004789",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q41176"
+      },
+      {
+        "term": "Towers",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300004847",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q12518"
+      },
+      {
+        "term": "Towns",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300008375",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3957"
+      }
+    ]
+  }
+}

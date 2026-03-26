@@ -1,0 +1,104 @@
+{
+  "object_id": 441755,
+  "excel_metadata": {
+    "Object Number": "2011.597",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 441755,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 2011.0,
+    "Object Name": "Painting",
+    "Title": "Landscape Study with Clouds",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 12928.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Emile Loubon",
+    "Artist Display Bio": "French, Aix-en-Provence 1809–1863 Marseilles",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Loubon, Emile",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1809",
+    "Artist End Date": "1863",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500002875",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q1530172",
+    "Object Date": "ca. 1829–31",
+    "Object Begin Date": 1829,
+    "Object End Date": 1831,
+    "Medium": "Oil on cardboard",
+    "Dimensions": "5 7/8 x 9 1/16 in. (15 x 23 cm)",
+    "Credit Line": "Catharine Lorillard Wolfe Collection, Wolfe Fund, 2011",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/441755",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19913538",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Landscapes|Clouds",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300132294|http://vocab.getty.edu/page/aat/300343840",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q191163|https://www.wikidata.org/wiki/Q8074"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP281416.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 129287,
+        "role": "Artist",
+        "name": "Emile Loubon",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500002875",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1530172",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 15,
+          "Width": 23
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 2.8575058,
+          "Height": 21.590044,
+          "Width": 33.337566
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Landscapes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+      },
+      {
+        "term": "Clouds",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300343840",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8074"
+      }
+    ]
+  }
+}

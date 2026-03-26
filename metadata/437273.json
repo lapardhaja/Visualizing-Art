@@ -1,0 +1,107 @@
+{
+  "object_id": 437273,
+  "excel_metadata": {
+    "Object Number": "1981.293.1–2",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437273,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1981.0,
+    "Object Name": "Painting",
+    "Title": "Saint John the Baptist; Saint Lucy",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16223.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Perugino (Pietro di Cristoforo Vannucci)",
+    "Artist Display Bio": "Italian, Città della Pieve, active by 1469–died 1523 Fontignano",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Perugino (Pietro di Cristoforo Vannucci)",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1469",
+    "Artist End Date": "1523",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500024544",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q5827",
+    "Object Date": NaN,
+    "Object Begin Date": 1469,
+    "Object End Date": 1523,
+    "Medium": "Oil(?) on wood",
+    "Dimensions": "Each 63 x 26 3/8 in. (160 x 67 cm)",
+    "Credit Line": "Gift of The Jack and Belle Linsky Foundation, 1981",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437273",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19911537",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Saint John the Baptist|Men|Women|Saint Lucy",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901001056|http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/ia/901001253",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q40662|https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q183240"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-18296-029.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/DP-18296-039.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 162230,
+        "role": "Artist",
+        "name": "Perugino (Pietro di Cristoforo Vannucci)",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500024544",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5827",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 160,
+          "Width": 67
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Saint John the Baptist",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901001056",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q40662"
+      },
+      {
+        "term": "Saint Lucy",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901001253",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q183240"
+      }
+    ]
+  }
+}

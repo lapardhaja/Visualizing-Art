@@ -1,0 +1,90 @@
+{
+  "object_id": 437011,
+  "excel_metadata": {
+    "Object Number": "30.95.254",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 437011,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1930.0,
+    "Object Name": "Painting",
+    "Title": "Madonna and Child",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10800.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Master of the Lanckoronski Annunciation",
+    "Artist Display Bio": "Italian, Florentine, second quarter 15th century",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Master of the Lanckoronski Annunciation",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1425",
+    "Artist End Date": "1449",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500029534",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q21852728",
+    "Object Date": NaN,
+    "Object Begin Date": 1425,
+    "Object End Date": 1449,
+    "Medium": "Tempera and gold on wood",
+    "Dimensions": "29 5/8 x 22 1/4 in. (75.2 x 56.5 cm)",
+    "Credit Line": "Theodore M. Davis Collection, Bequest of Theodore M. Davis, 1915",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437011",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912427",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Madonna and Child",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901000052",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q9309699"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP368622.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 108009,
+        "role": "Artist",
+        "name": "Master of the Lanckoronski Annunciation",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500029534",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q21852728",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 75.2,
+          "Width": 56.5
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Madonna and Child",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000052",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q9309699"
+      }
+    ]
+  }
+}

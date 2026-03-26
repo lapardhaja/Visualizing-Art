@@ -1,0 +1,112 @@
+{
+  "object_id": 13060,
+  "excel_metadata": {
+    "Object Number": "1976.106.2",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": false,
+    "Object ID": 13060,
+    "Gallery Number": 773.0,
+    "Department": "The American Wing",
+    "AccessionYear": 1976.0,
+    "Object Name": "Painting",
+    "Title": "The Cup of Love",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16261.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Elihu Vedder",
+    "Artist Display Bio": "American, New York 1836–1923 Rome",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Vedder, Elihu",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1836",
+    "Artist End Date": "1923",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500032587",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q389726",
+    "Object Date": "1887",
+    "Object Begin Date": 1887,
+    "Object End Date": 1887,
+    "Medium": "Oil on wood",
+    "Dimensions": "12 x 10 in. (25.4 x 30.5 cm)",
+    "Credit Line": "Gift of Mrs. Harold G. Henderson, 1976",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/13060",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19930567",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Female Nudes|Cupid",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300189568|http://vocab.getty.edu/page/aat/300380105",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q40446|https://www.wikidata.org/wiki/Q5011"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DP-19084-001.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ad/original/DP-19084-002.jpg",
+      "https://images.metmuseum.org/CRDImages/ad/original/ap1976.106.2.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 162614,
+        "role": "Artist",
+        "name": "Elihu Vedder",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500032587",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q389726",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 30.5,
+          "Width": 25.4
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 9.3,
+          "Height": 71.5,
+          "Width": 52.3
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Female Nudes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300189568",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q40446"
+      },
+      {
+        "term": "Cupid",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300380105",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q5011"
+      }
+    ]
+  }
+}

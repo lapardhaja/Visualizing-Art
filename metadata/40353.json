@@ -1,0 +1,99 @@
+{
+  "object_id": 40353,
+  "excel_metadata": {
+    "Object Number": "29.100.453",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 40353,
+    "Gallery Number": NaN,
+    "Department": "Asian Art",
+    "AccessionYear": 1929.0,
+    "Object Name": "Painting",
+    "Title": NaN,
+    "Culture": "Japan",
+    "Period": "Edo period (1615–1868)",
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 1180.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": "After",
+    "Artist Display Name": "Sesson Shūkei",
+    "Artist Display Bio": "ca. 1504–ca. 1589",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Sesson Shūkei",
+    "Artist Nationality": "Japanese",
+    "Artist Begin Date": "1504",
+    "Artist End Date": "1589",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500121057",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q3480606",
+    "Object Date": "probably 19th century",
+    "Object Begin Date": 1800,
+    "Object End Date": 1868,
+    "Medium": "Matted painting; ink on paper",
+    "Dimensions": "Image: 16 9/16 × 19 7/8 in. (42 × 50.5 cm)",
+    "Credit Line": "H. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/40353",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q78859110",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Owls|Birds",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300310290|http://vocab.getty.edu/page/aat/300266506",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8021345|https://www.wikidata.org/wiki/Q5113"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/as/original/LC-29_100_453_jps-003.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/as/original/LC-29_100_453_jps-001.jpg",
+      "https://images.metmuseum.org/CRDImages/as/original/LC-29_100_453_jps-005.jpg",
+      "https://images.metmuseum.org/CRDImages/as/original/LC-29_100_453_jps-006.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 11803,
+        "role": "Artist",
+        "name": "After Sesson Shūkei",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500121057",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3480606",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Image",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 42,
+          "Width": 50.5
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Birds",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300266506",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q5113"
+      },
+      {
+        "term": "Owls",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300310290",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8021345"
+      }
+    ]
+  }
+}

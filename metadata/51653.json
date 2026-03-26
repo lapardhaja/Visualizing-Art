@@ -1,0 +1,176 @@
+{
+  "object_id": 51653,
+  "excel_metadata": {
+    "Object Number": "47.18.26a–h",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 51653,
+    "Gallery Number": NaN,
+    "Department": "Asian Art",
+    "AccessionYear": 1947.0,
+    "Object Name": "Paintings",
+    "Title": "唐(?)　佚名　佛畫八幅　散頁|Eight Buddhist Paintings",
+    "Culture": "China",
+    "Period": "Tang dynasty (618–907) (?)",
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 3750.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Unidentified artist",
+    "Artist Display Bio": " ",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Unidentified artist",
+    "Artist Nationality": " ",
+    "Artist Begin Date": "          ",
+    "Artist End Date": "          ",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": NaN,
+    "Artist Wikidata URL": NaN,
+    "Object Date": NaN,
+    "Object Begin Date": 618,
+    "Object End Date": 907,
+    "Medium": "Eight leaves; ink and color on paper",
+    "Dimensions": "Image (a): 10 3/4 x 7 1/2 in. (27.3 x 19.1 cm)\r\nImage (b): 30 x 21 in. (76.2 x 53.3 cm); Framed (b): 35 × 25 3/4 in. (88.9 × 65.4 cm)\r\nImage (c): 7 1/4 x 5 1/2 in. (18.4 x 14 cm)\r\nImage (d): 10 3/16 x 7 7/8 in. (25.9 x 20 cm)\r\nImage (e): 12 3/4 x 8 5/16 in. (32.4 x 21.1 cm)\r\nImage (f): 13 7/8 x 10 3/4 in. (35.2 x 27.3 cm)\r\nImage (g): 10 7/8 x 7 1/2 in. (27.6 x 19.1 cm)\r\nImage (h): 13 1/8 x 11 1/2 in. (33.3 x 29.2 cm)",
+    "Credit Line": "From the Collection of A. W. Bahr, Purchase, Fletcher Fund, 1947",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/51653",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q78805079",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Buddhism",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300073738",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q748"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/as/original/DP159111.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/as/original/47_18_26b.JPG",
+      "https://images.metmuseum.org/CRDImages/as/original/DP159113.jpg",
+      "https://images.metmuseum.org/CRDImages/as/original/DP159114.jpg",
+      "https://images.metmuseum.org/CRDImages/as/original/DP159116.jpg",
+      "https://images.metmuseum.org/CRDImages/as/original/DP159085.jpg",
+      "https://images.metmuseum.org/CRDImages/as/original/DP159119.jpg",
+      "https://images.metmuseum.org/CRDImages/as/original/DP159121.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 37502,
+        "role": "Artist",
+        "name": "Unidentified artist",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Image",
+        "elementDescription": "h",
+        "elementMeasurements": {
+          "Height": 33.3376,
+          "Width": 29.2101
+        }
+      },
+      {
+        "elementName": "Image",
+        "elementDescription": "d",
+        "elementMeasurements": {
+          "Height": 25.8763,
+          "Width": 20.0025
+        }
+      },
+      {
+        "elementName": "Image",
+        "elementDescription": "c",
+        "elementMeasurements": {
+          "Height": 18.415,
+          "Width": 13.97
+        }
+      },
+      {
+        "elementName": "Image",
+        "elementDescription": "b",
+        "elementMeasurements": {
+          "Height": 76.2002,
+          "Width": 53.3401
+        }
+      },
+      {
+        "elementName": "Image",
+        "elementDescription": "g",
+        "elementMeasurements": {
+          "Height": 27.6226,
+          "Width": 19.05
+        }
+      },
+      {
+        "elementName": "Image",
+        "elementDescription": "f",
+        "elementMeasurements": {
+          "Height": 35.2426,
+          "Width": 27.3051
+        }
+      },
+      {
+        "elementName": "Image",
+        "elementDescription": "e",
+        "elementMeasurements": {
+          "Height": 32.3851,
+          "Width": 21.1138
+        }
+      },
+      {
+        "elementName": "Image",
+        "elementDescription": "a",
+        "elementMeasurements": {
+          "Height": 27.3051,
+          "Width": 19.05
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": "b",
+        "elementMeasurements": {
+          "Depth": 1.9050038,
+          "Height": 88.90018,
+          "Width": 65.40513
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 33.3,
+          "Width": 29.2
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Buddhism",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300073738",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q748"
+      }
+    ]
+  }
+}

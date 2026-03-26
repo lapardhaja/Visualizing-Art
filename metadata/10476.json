@@ -1,0 +1,120 @@
+{
+  "object_id": 10476,
+  "excel_metadata": {
+    "Object Number": "08.139.2",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 10476,
+    "Gallery Number": 774.0,
+    "Department": "The American Wing",
+    "AccessionYear": 1908.0,
+    "Object Name": "Painting",
+    "Title": "Still Life: Fish",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16176.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "William Merritt Chase",
+    "Artist Display Bio": "American, Williamsburg, Indiana 1849–1916 New York",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Chase, William Merritt",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1849",
+    "Artist End Date": "1916",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500115356",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q265820",
+    "Object Date": "by 1908",
+    "Object Begin Date": 1907,
+    "Object End Date": 1908,
+    "Medium": "Oil on canvas",
+    "Dimensions": "40 1/8 x 45 1/16 in. (101.9 x 114.5 cm)",
+    "Credit Line": "George A. Hearn Fund, 1908",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/10476",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19924871",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Vegetables|Fish|Still Life",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300380162|http://vocab.getty.edu/page/aat/300266085|http://vocab.getty.edu/page/aat/300015638",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q11004|https://www.wikidata.org/wiki/Q152|https://www.wikidata.org/wiki/Q170571"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DP361299.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ad/original/DP366788.jpg",
+      "https://images.metmuseum.org/CRDImages/ad/original/DT374.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 161767,
+        "role": "Artist",
+        "name": "William Merritt Chase",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115356",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q265820",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 101.9,
+          "Width": 114.5
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 17,
+          "Height": 137.5,
+          "Width": 150.5
+        }
+      },
+      {
+        "elementName": "Other",
+        "elementDescription": "glazing (when needed)",
+        "elementMeasurements": {
+          "Height": 102.552704,
+          "Width": 115.09398
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Vegetables",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300380162",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q11004"
+      },
+      {
+        "term": "Fish",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300266085",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q152"
+      },
+      {
+        "term": "Still Life",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015638",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q170571"
+      }
+    ]
+  }
+}

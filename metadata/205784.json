@@ -1,0 +1,93 @@
+{
+  "object_id": 205784,
+  "excel_metadata": {
+    "Object Number": "1974.356.191",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 205784,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1974,
+    "Object Name": "Armchair ",
+    "Title": "Armchair (one of a pair)",
+    "Culture": "French",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 16488,
+    "Artist Role": "Manufactory",
+    "Artist Prefix": "Tapestry woven at",
+    "Artist Display Name": "Savonnerie Manufactory",
+    "Artist Display Bio": "Manufactory, established 1626; Manufacture Royale, established 1663",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Savonnerie Manufactory",
+    "Artist Nationality": " ",
+    "Artist Begin Date": 1626,
+    "Artist End Date": 2050,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500034087",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q3287048",
+    "Object Date": "ca. 1725",
+    "Object Begin Date": 1720,
+    "Object End Date": 1730,
+    "Medium": "Carved beechwood; Savonnerie tapestry upholstery",
+    "Dimensions": "Overall: 43 × 28 × 30 3/4 in. (109.2 × 71.1 × 78.1 cm)",
+    "Credit Line": "The Lesley and Emma Sheafer Collection, Bequest of Emma A. Sheafer, 1973",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Woodwork-Furniture",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/205784",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Flowers",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300132399",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q506"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/204833.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/207937.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 164883,
+        "role": "Manufactory",
+        "name": "Tapestry woven at Savonnerie Manufactory",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500034087",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3287048",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 78.105156,
+          "Height": 109.220215,
+          "Width": 71.12014
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Flowers",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132399",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q506"
+      }
+    ]
+  }
+}

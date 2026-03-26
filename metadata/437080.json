@@ -1,0 +1,100 @@
+{
+  "object_id": 437080,
+  "excel_metadata": {
+    "Object Number": "25.110.8",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 437080,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1925.0,
+    "Object Name": "Painting",
+    "Title": "The Mill of Montmartre",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16489.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Georges Michel",
+    "Artist Display Bio": "French, Paris 1763–1843 Paris",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Michel, Georges",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1763",
+    "Artist End Date": "1843",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500021197",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q2028017",
+    "Object Date": "probably ca. 1820",
+    "Object Begin Date": 1815,
+    "Object End Date": 1825,
+    "Medium": "Oil on canvas",
+    "Dimensions": "29 x 40 in. (73.7 x 101.6 cm)",
+    "Credit Line": "Bequest of Collis P. Huntington, 1900",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437080",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912893",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Windmills|Landscapes|Paris",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300006273|http://vocab.getty.edu/page/aat/300132294|http://vocab.getty.edu/page/tgn/7008038",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q38720|https://www.wikidata.org/wiki/Q191163|https://www.wikidata.org/wiki/Q90"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-17611-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 164897,
+        "role": "Artist",
+        "name": "Georges Michel",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500021197",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q2028017",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 73.7,
+          "Width": 101.6
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Windmills",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300006273",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q38720"
+      },
+      {
+        "term": "Landscapes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+      },
+      {
+        "term": "Paris",
+        "AAT_URL": "http://vocab.getty.edu/page/tgn/7008038",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q90"
+      }
+    ]
+  }
+}

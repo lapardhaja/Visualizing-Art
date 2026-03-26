@@ -1,0 +1,104 @@
+{
+  "object_id": 436970,
+  "excel_metadata": {
+    "Object Number": "17.138.2",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436970,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1917.0,
+    "Object Name": "Painting",
+    "Title": "Penelope",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10796.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Charles-François Marchal",
+    "Artist Display Bio": "French, Paris 1825–1877 Paris",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Marchal, Charles-François",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1825",
+    "Artist End Date": "1877",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500010079",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q16538493",
+    "Object Date": "ca. 1868",
+    "Object Begin Date": 1845,
+    "Object End Date": 1877,
+    "Medium": "Oil on canvas",
+    "Dimensions": "43 1/2 x 19 1/2 in. (110.5 x 49.5 cm)",
+    "Credit Line": "Gift of Mrs. Adolf Obrig, in memory of her husband, 1917",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436970",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19911823",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Women|Needlework",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/aat/300053652",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q28966125"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT224757.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 107966,
+        "role": "Artist",
+        "name": "Charles-François Marchal",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500010079",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q16538493",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 110.5,
+          "Width": 49.5
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 12.700026,
+          "Height": 144.46278,
+          "Width": 83.185165
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Needlework",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300053652",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q28966125"
+      }
+    ]
+  }
+}

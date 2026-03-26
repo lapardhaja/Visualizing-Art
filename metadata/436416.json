@@ -1,0 +1,105 @@
+{
+  "object_id": 436416,
+  "excel_metadata": {
+    "Object Number": "1982.60.40",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436416,
+    "Gallery Number": 537.0,
+    "Department": "European Paintings",
+    "AccessionYear": 1982.0,
+    "Object Name": "Painting",
+    "Title": "The Resurrection",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10727.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Spanish (Aragonese) Painter",
+    "Artist Display Bio": "mid-15th century",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Spanish (Aragonese) Painter",
+    "Artist Nationality": "Spanish",
+    "Artist Begin Date": "          ",
+    "Artist End Date": "          ",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": NaN,
+    "Artist Wikidata URL": NaN,
+    "Object Date": NaN,
+    "Object Begin Date": 1470,
+    "Object End Date": 1499,
+    "Medium": "Oil and silver on wood, gold ground",
+    "Dimensions": "31 x 24 7/8 in. (78.7 x 63.2 cm)",
+    "Credit Line": "The Jack and Belle Linsky Collection, 1982",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436416",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912344",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Soldiers|Shields|Resurrection|Christ",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300185678|http://vocab.getty.edu/page/aat/300036869|http://vocab.getty.edu/page/aat/300404323|http://vocab.getty.edu/page/ia/901000087",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q4991371|https://www.wikidata.org/wiki/Q131559|https://www.wikidata.org/wiki/Q51624|https://www.wikidata.org/wiki/Q642420"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT8870.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 107279,
+        "role": "Artist",
+        "name": "Spanish (Aragonese) Painter",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 78.7,
+          "Width": 63.2
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Soldiers",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300185678",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q4991371"
+      },
+      {
+        "term": "Shields",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300036869",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q131559"
+      },
+      {
+        "term": "Christ",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+      },
+      {
+        "term": "Resurrection",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300404323",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q51624"
+      }
+    ]
+  }
+}

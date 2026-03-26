@@ -1,0 +1,93 @@
+{
+  "object_id": 742693,
+  "excel_metadata": {
+    "Object Number": 2017.285,
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 742693,
+    "Gallery Number": 533,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 2017,
+    "Object Name": "Statuette",
+    "Title": "Christ at the Column",
+    "Culture": "Austrian, Vienna",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 19627,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Johann Baptist Hagenauer",
+    "Artist Display Bio": "Austrian, Ainring near Freilassing 1732–1810 Vienna",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Hagenauer, Johann Baptist",
+    "Artist Nationality": "Austrian",
+    "Artist Begin Date": 1732,
+    "Artist End Date": 1810,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500088852",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q1692538",
+    "Object Date": "ca. 1754–56",
+    "Object Begin Date": 1749,
+    "Object End Date": 1761,
+    "Medium": "Alabaster, polychromed and gilded",
+    "Dimensions": "Overall (confirmed): 7 7/8 × 5 1/8 × 3 3/8 in. (20 × 13 × 8.6 cm)",
+    "Credit Line": "Gift of Sascha Mehringer and Filippo Benappi, in honor of Luke Syson, 2017",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Sculpture",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/742693",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q116234932",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Christ",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901000087",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q642420"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP-14557.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/DP-14458.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 196279,
+        "role": "Artist",
+        "name": "Johann Baptist Hagenauer",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500088852",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1692538",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": "confirmed",
+        "elementMeasurements": {
+          "Depth": 8.572517,
+          "Height": 20.00254,
+          "Width": 13.017526
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Christ",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+      }
+    ]
+  }
+}

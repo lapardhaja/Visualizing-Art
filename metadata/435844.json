@@ -1,0 +1,138 @@
+{
+  "object_id": 435844,
+  "excel_metadata": {
+    "Object Number": "52.81",
+    "Is Highlight": true,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 435844,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1952.0,
+    "Object Name": "Painting",
+    "Title": "The Musicians",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16174.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Caravaggio (Michelangelo Merisi)",
+    "Artist Display Bio": "Italian, Milan or Caravaggio 1571–1610 Porto Ercole",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Caravaggio (Michelangelo Merisi)",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1571",
+    "Artist End Date": "1610",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500115312",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q42207",
+    "Object Date": "1597",
+    "Object Begin Date": 1597,
+    "Object End Date": 1597,
+    "Medium": "Oil on canvas",
+    "Dimensions": "36 1/4 x 46 5/8 in. (92.1 x 118.4 cm)",
+    "Credit Line": "Rogers Fund, 1952",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/435844",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q655705",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Grapes|Men|Music|Lutes|Violins|Cupid|Musicians",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300379338|http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300435214|http://vocab.getty.edu/page/aat/300042101|http://vocab.getty.edu/page/aat/300042215|http://vocab.getty.edu/page/aat/300380105|http://vocab.getty.edu/page/aat/300025666",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q10978|https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q638|https://www.wikidata.org/wiki/Q180733|https://www.wikidata.org/wiki/Q8355|https://www.wikidata.org/wiki/Q5011|https://www.wikidata.org/wiki/Q639669"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-687-001.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/Caravaggio_Xraynocap.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 161744,
+        "role": "Artist",
+        "name": "Caravaggio (Michelangelo Merisi)",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115312",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q42207",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 92.1,
+          "Width": 118.4
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 8.255,
+          "Height": 122.5552,
+          "Width": 149.8603
+        }
+      },
+      {
+        "elementName": "Other",
+        "elementDescription": "Picture + Frame (F.52.81A)",
+        "elementMeasurements": {
+          "Weight": 23.587046
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Grapes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379338",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q10978"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Music",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300435214",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q638"
+      },
+      {
+        "term": "Lutes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300042101",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q180733"
+      },
+      {
+        "term": "Violins",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300042215",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8355"
+      },
+      {
+        "term": "Cupid",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300380105",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q5011"
+      },
+      {
+        "term": "Musicians",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025666",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q639669"
+      }
+    ]
+  }
+}

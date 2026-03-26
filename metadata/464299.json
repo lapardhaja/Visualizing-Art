@@ -1,0 +1,114 @@
+{
+  "object_id": 464299,
+  "excel_metadata": {
+    "Object Number": "17.190.305",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 464299,
+    "Gallery Number": 307,
+    "Department": "Medieval Art",
+    "AccessionYear": 1917,
+    "Object Name": "Rosary terminal bead",
+    "Title": "Rosary Terminal Bead with Lovers and Death's Head",
+    "Culture": "North French or South Netherlandish",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": null,
+    "Artist Role": null,
+    "Artist Prefix": null,
+    "Artist Display Name": null,
+    "Artist Display Bio": null,
+    "Artist Suffix": null,
+    "Artist Alpha Sort": null,
+    "Artist Nationality": null,
+    "Artist Begin Date": null,
+    "Artist End Date": null,
+    "Artist Gender": null,
+    "Artist ULAN URL": null,
+    "Artist Wikidata URL": null,
+    "Object Date": "ca. 1500–1525",
+    "Object Begin Date": 1500,
+    "Object End Date": 1525,
+    "Medium": "Ivory, with emerald pendant, silver-gilt mount",
+    "Dimensions": "Overall: 5 3/8 x 1 9/16 x 1 11/16 in. (13.6 x 4 x 4.3 cm)_x000D_\nivory only: 2 13/16 x 1 9/16 x 1 11/16 in. (7.2 x 4 x 4.3 cm)",
+    "Credit Line": "Gift of J. Pierpont Morgan, 1917",
+    "Geography Type": "Made in",
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": "North France or South Netherlands",
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Ivories",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/464299",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q116273321",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Skeletons|Men|Lovers|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300191778|http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300188621|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q7881|https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q219160|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/md/original/DT357629.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/md/original/DT357630.jpg",
+      "https://images.metmuseum.org/CRDImages/md/original/sf17-190-305s2.jpg",
+      "https://images.metmuseum.org/CRDImages/md/original/sf17-190-305s3.jpg",
+      "https://images.metmuseum.org/CRDImages/md/original/sf17-190-305s4.jpg",
+      "https://images.metmuseum.org/CRDImages/md/original/sf17-190-305d7.jpg",
+      "https://images.metmuseum.org/CRDImages/md/original/sf17-190-305d8.jpg",
+      "https://images.metmuseum.org/CRDImages/md/original/sf17-190-305s1.jpg"
+    ],
+    "constituents": null,
+    "measurements": [
+      {
+        "elementName": "Other",
+        "elementDescription": "ivory only",
+        "elementMeasurements": {
+          "Depth": 4.3,
+          "Height": 7.2,
+          "Width": 4
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 4.3,
+          "Height": 13.6,
+          "Width": 4
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Skeletons",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300191778",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q7881"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Lovers",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300188621",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q219160"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

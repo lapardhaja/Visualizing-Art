@@ -1,0 +1,108 @@
+{
+  "object_id": 198058,
+  "excel_metadata": {
+    "Object Number": "38.50.14",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 198058,
+    "Gallery Number": NaN,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1938.0,
+    "Object Name": "Snuffbox, painting",
+    "Title": "Snuffbox with domestic scenes",
+    "Culture": "French, Paris",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 3437.0,
+    "Artist Role": "Maker",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Mathieu Coiny fils",
+    "Artist Display Bio": "born 1723, master 1755, recorded 1788",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Coiny Mathieu",
+    "Artist Nationality": " ",
+    "Artist Begin Date": "1723",
+    "Artist End Date": "1823",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": NaN,
+    "Artist Wikidata URL": NaN,
+    "Object Date": "1757–58",
+    "Object Begin Date": 1757,
+    "Object End Date": 1758,
+    "Medium": "Gold, enamel",
+    "Dimensions": "1 1/4 × 2 1/4 × 1 3/4 in. (3.2 × 5.7 × 4.4 cm)",
+    "Credit Line": "Bequest of Kate Read Blacque, in memory of her husband, Valentine Alexander Blacque, 1937",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Metalwork-Gold and Platinum|Miniatures",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/198058",
+    "Object Wikidata URL": NaN,
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Women|Smoking|Drinking",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/aat/300380156|http://vocab.getty.edu/page/aat/300379698",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q662860|https://www.wikidata.org/wiki/Q876776"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/116405.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/116406.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 34375,
+        "role": "Maker",
+        "name": "Mathieu Coiny fils",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 4.4450088,
+          "Height": 3.1750064,
+          "Width": 5.7150116
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Smoking",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300380156",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q662860"
+      },
+      {
+        "term": "Drinking",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379698",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q876776"
+      }
+    ]
+  }
+}

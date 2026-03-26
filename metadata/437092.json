@@ -1,0 +1,97 @@
+{
+  "object_id": 437092,
+  "excel_metadata": {
+    "Object Number": "06.1328",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 437092,
+    "Gallery Number": 516.0,
+    "Department": "European Paintings",
+    "AccessionYear": 1906.0,
+    "Object Name": "Painting",
+    "Title": "Portia",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16491.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Sir John Everett Millais",
+    "Artist Display Bio": "British, Southampton 1829–1896 London",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Millais, John Everett, Sir",
+    "Artist Nationality": "British",
+    "Artist Begin Date": "1829",
+    "Artist End Date": "1896",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500031367",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q159606",
+    "Object Date": "1886",
+    "Object Begin Date": 1886,
+    "Object End Date": 1886,
+    "Medium": "Oil on canvas",
+    "Dimensions": "49 1/4 x 33 in. (125.1 x 83.8 cm)",
+    "Credit Line": "Catharine Lorillard Wolfe Collection, Wolfe Fund, 1906",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437092",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19905273",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Portraits|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP169564.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/fig.198.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 164915,
+        "role": "Artist",
+        "name": "Sir John Everett Millais",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500031367",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q159606",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 125.1,
+          "Width": 83.8
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

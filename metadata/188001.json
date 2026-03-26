@@ -1,0 +1,105 @@
+{
+  "object_id": 188001,
+  "excel_metadata": {
+    "Object Number": "95.14.10a, b",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 188001,
+    "Gallery Number": NaN,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1895.0,
+    "Object Name": "Box, painting",
+    "Title": "Box with portrait of a woman, said to be Princesse de Ligne",
+    "Culture": "French, Paris",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 3749312709.0,
+    "Artist Role": "Maker|Artist",
+    "Artist Prefix": " |Miniature attributed to a",
+    "Artist Display Name": "Jean-Baptiste Gillet|French Painter",
+    "Artist Display Bio": "1709–1786, master 1734| ",
+    "Artist Suffix": " |, ca. 1790",
+    "Artist Alpha Sort": "Gillet Jean-Baptiste|French Painter",
+    "Artist Nationality": " |French",
+    "Artist Begin Date": "1709      |          ",
+    "Artist End Date": "1786      |          ",
+    "Artist Gender": "|",
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500059660|",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q12024350|",
+    "Object Date": "1768–75",
+    "Object Begin Date": 1768,
+    "Object End Date": 1775,
+    "Medium": "Tortoiseshell, gold, ivory",
+    "Dimensions": "1 1/4 × 3 in. (3.2 × 7.6 cm)",
+    "Credit Line": "The Moses Lazarus Collection, Gift of Josephine and Sarah Lazarus, in memory of their father, 1888-95",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Metalwork-Gold and Platinum|Miniatures",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/188001",
+    "Object Wikidata URL": NaN,
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Princesses|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300155241|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q863048|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/SF95_14_10 ab.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/43170.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 37493,
+        "role": "Maker",
+        "name": "Jean-Baptiste Gillet",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500059660",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q12024350",
+        "gender": ""
+      },
+      {
+        "constituentID": 127098,
+        "role": "Artist",
+        "name": "Miniature attributed to a French Painter",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Diameter": 7.620015,
+          "Height": 3.1750064
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Princesses",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300155241",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q863048"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

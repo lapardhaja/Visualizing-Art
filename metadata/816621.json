@@ -1,0 +1,100 @@
+{
+  "object_id": 816621,
+  "excel_metadata": {
+    "Object Number": "2020.263.4",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 816621,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 2020.0,
+    "Object Name": "Painting",
+    "Title": "Roman Landscape with a Shepherd and Sheep",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16175.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Giovanni Benedetto Castiglione (Il Grechetto)",
+    "Artist Display Bio": "Italian, Genoa 1609–1664 Mantua",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Castiglione, Giovanni Benedetto (Il Grechetto)",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1609",
+    "Artist End Date": "1664",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500115299",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q40823",
+    "Object Date": "late 1640s",
+    "Object Begin Date": 1647,
+    "Object End Date": 1649,
+    "Medium": "Oil on copper",
+    "Dimensions": "19 × 17 in. (48.3 × 43.2 cm)",
+    "Credit Line": "Bequest of Errol M. Rudman, 2020",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/816621",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q111272656",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Shepherds|Rome|Sheep",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025617|http://vocab.getty.edu/page/tgn/7000874|http://vocab.getty.edu/page/aat/300250284",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q81710|https://www.wikidata.org/wiki/Q220|https://www.wikidata.org/wiki/Q7368"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-19710-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 161758,
+        "role": "Artist",
+        "name": "Giovanni Benedetto Castiglione (Il Grechetto)",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115299",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q40823",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 48.260098,
+          "Width": 43.180088
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Sheep",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250284",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q7368"
+      },
+      {
+        "term": "Shepherds",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025617",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q81710"
+      },
+      {
+        "term": "Rome",
+        "AAT_URL": "http://vocab.getty.edu/page/tgn/7000874",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q220"
+      }
+    ]
+  }
+}

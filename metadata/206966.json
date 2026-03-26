@@ -1,0 +1,85 @@
+{
+  "object_id": 206966,
+  "excel_metadata": {
+    "Object Number": "1982.60.51",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 206966,
+    "Gallery Number": 540,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1982,
+    "Object Name": "Commode",
+    "Title": "Commode",
+    "Culture": "French",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 3412,
+    "Artist Role": "Maker",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Jean Henri Riesener",
+    "Artist Display Bio": "French, Gladbeck, North Rhine-Westphalia 1734–1806 Paris",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Riesener, Jean Henri",
+    "Artist Nationality": "French",
+    "Artist Begin Date": 1734,
+    "Artist End Date": 1806,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500024826",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q69566",
+    "Object Date": "ca. 1780–90",
+    "Object Begin Date": 1775,
+    "Object End Date": 1795,
+    "Medium": "Oak, veneered with mahogany, gilt-bronze mounts, marble top",
+    "Dimensions": "34 x 36 1/2 x 17 3/4 in. (86.4 x 92.7 x 45.1 cm)",
+    "Credit Line": "The Jack and Belle Linsky Collection, 1982",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Woodwork-Furniture",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/206966",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q116308151",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": null,
+    "Tags AAT URL": null,
+    "Tags Wikidata URL": null
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/232469.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 34120,
+        "role": "Maker",
+        "name": "Jean Henri Riesener",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500024826",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q69566",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 45.1,
+          "Height": 86.4,
+          "Width": 92.7
+        }
+      }
+    ],
+    "tags": null
+  }
+}

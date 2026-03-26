@@ -1,0 +1,120 @@
+{
+  "object_id": 10806,
+  "excel_metadata": {
+    "Object Number": "66.19",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 10806,
+    "Gallery Number": 774.0,
+    "Department": "The American Wing",
+    "AccessionYear": 1966.0,
+    "Object Name": "Painting",
+    "Title": "Lady with Fan",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16391.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Frank Duveneck",
+    "Artist Display Bio": "American, Covington, Kentucky 1848–1919 Cincinnati, Ohio",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Duveneck, Frank",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1848",
+    "Artist End Date": "1919",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500006974",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q660767",
+    "Object Date": "1873",
+    "Object Begin Date": 1873,
+    "Object End Date": 1873,
+    "Medium": "Oil on canvas",
+    "Dimensions": "42 3/4 x 32 1/4 in. (108.6 x 81.9 cm)",
+    "Credit Line": "Gift of the Charles F. Williams family, 1966",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/10806",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20176148",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Fans|Portraits|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300258857|http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q193220|https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DP-2886-001.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ad/original/DP-2886-002.jpg",
+      "https://images.metmuseum.org/CRDImages/ad/original/ap66.19.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 163911,
+        "role": "Artist",
+        "name": "Frank Duveneck",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500006974",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q660767",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 108.6,
+          "Width": 81.9
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 10.1,
+          "Height": 129,
+          "Width": 102.7
+        }
+      },
+      {
+        "elementName": "Glazing",
+        "elementDescription": "when needed",
+        "elementMeasurements": {
+          "Height": 108.90272,
+          "Width": 82.232666
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Fans",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300258857",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q193220"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "object_id": 468881,
+  "excel_metadata": {
+    "Object Number": "87.11.691a",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 468881,
+    "Gallery Number": null,
+    "Department": "Medieval Art",
+    "AccessionYear": 1887,
+    "Object Name": "Door handle",
+    "Title": "Door Handle",
+    "Culture": "German",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": null,
+    "Artist Role": null,
+    "Artist Prefix": null,
+    "Artist Display Name": null,
+    "Artist Display Bio": null,
+    "Artist Suffix": null,
+    "Artist Alpha Sort": null,
+    "Artist Nationality": null,
+    "Artist Begin Date": null,
+    "Artist End Date": null,
+    "Artist Gender": null,
+    "Artist ULAN URL": null,
+    "Artist Wikidata URL": null,
+    "Object Date": "16th century",
+    "Object Begin Date": 1500,
+    "Object End Date": 1599,
+    "Medium": "Iron",
+    "Dimensions": "Overall (installed with plate-b): 7 1/4 x 5 1/2 x 1 1/16 in. (18.4 x 13.9 x 2.7 cm)_x000D_\nHandle-a: 7 1/16 x 5 1/2 x 1 in. (18 x 13.9 x 2.6 cm)",
+    "Credit Line": "Gift of Henry G. Marquand, 1887",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Metalwork-Iron",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/468881",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": null,
+    "Tags AAT URL": null,
+    "Tags Wikidata URL": null
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/md/original/sf87-11-691as1.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/md/original/sf87-11-691abs1.jpg",
+      "https://images.metmuseum.org/CRDImages/md/original/sf87-11-691abs2.jpg",
+      "https://images.metmuseum.org/CRDImages/md/original/sf87-11-691as2.jpg"
+    ],
+    "constituents": null,
+    "measurements": [
+      {
+        "elementName": "Other",
+        "elementDescription": "Handle-a",
+        "elementMeasurements": {
+          "Depth": 2.6,
+          "Height": 18,
+          "Width": 13.9
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": "installed with plate-b",
+        "elementMeasurements": {
+          "Depth": 2.7,
+          "Height": 18.4,
+          "Width": 13.9
+        }
+      }
+    ],
+    "tags": null
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "object_id": 437288,
+  "excel_metadata": {
+    "Object Number": "39.42",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437288,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1939.0,
+    "Object Name": "Painting, fragment of a crucifix",
+    "Title": "The Crucified Christ",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10816.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Pietro da Rimini",
+    "Artist Display Bio": "Italian, Riminese, active 1324–33",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Pietro da Rimini",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1324",
+    "Artist End Date": "1333",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500032373",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q1982374",
+    "Object Date": NaN,
+    "Object Begin Date": 1324,
+    "Object End Date": 1333,
+    "Medium": "Tempera and gold on wood",
+    "Dimensions": "40 7/8 x 18 in. (103.8 x 45.7 cm)",
+    "Credit Line": "Gift of Mrs. W. Murray Crane, 1939",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437288",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19904875",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Crucifixion|Christ",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300404300|http://vocab.getty.edu/page/ia/901000087",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q3235597|https://www.wikidata.org/wiki/Q642420"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-12211-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 108166,
+        "role": "Artist",
+        "name": "Pietro da Rimini",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500032373",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1982374",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 103.8,
+          "Width": 45.7
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Christ",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+      },
+      {
+        "term": "Crucifixion",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300404300",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3235597"
+      }
+    ]
+  }
+}

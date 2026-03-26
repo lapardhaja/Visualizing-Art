@@ -1,0 +1,95 @@
+{
+  "object_id": 435919,
+  "excel_metadata": {
+    "Object Number": "62.122.36",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 435919,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1962.0,
+    "Object Name": "Painting, miniature",
+    "Title": "George Howard (1773–1848), Lord Morpeth",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10860.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Richard Collins",
+    "Artist Display Bio": "British, 1755–1831",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Collins, Richard",
+    "Artist Nationality": "British",
+    "Artist Begin Date": "1755",
+    "Artist End Date": "1831",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500006276",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q13426391",
+    "Object Date": NaN,
+    "Object Begin Date": 1775,
+    "Object End Date": 1831,
+    "Medium": "Ivory",
+    "Dimensions": "Oval, 2 x 1 5/8 in. (52 x 41 mm)",
+    "Credit Line": "Bequest of Millie Bruhl Fredrick, 1962",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Miniatures",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/435919",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19914014",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Boys|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300247598|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q3010|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/175487.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 108605,
+        "role": "Artist",
+        "name": "Richard Collins",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500006276",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q13426391",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 5.1,
+          "Width": 4.1
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Boys",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300247598",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3010"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

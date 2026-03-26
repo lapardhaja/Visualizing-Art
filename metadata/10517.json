@@ -1,0 +1,104 @@
+{
+  "object_id": 10517,
+  "excel_metadata": {
+    "Object Number": "31.29.2",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 10517,
+    "Gallery Number": NaN,
+    "Department": "The American Wing",
+    "AccessionYear": 1931.0,
+    "Object Name": "Painting",
+    "Title": "Mrs. James Merrill Cook",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 243.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Nelson Cook",
+    "Artist Display Bio": "1808–1892",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Cook, Nelson",
+    "Artist Nationality": " ",
+    "Artist Begin Date": "1808",
+    "Artist End Date": "1892",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500011238",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q16955578",
+    "Object Date": "1840",
+    "Object Begin Date": 1840,
+    "Object End Date": 1840,
+    "Medium": "Oil on canvas",
+    "Dimensions": "48 1/8 x 24 1/2 in. (122.2 x 62.2 cm)",
+    "Credit Line": "Gift of Katherine Batcheller, 1931",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/10517",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19923981",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Portraits|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/ap31.29.2.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 2432,
+        "role": "Artist",
+        "name": "Nelson Cook",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500011238",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q16955578",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 122.2,
+          "Width": 62.2
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 17,
+          "Height": 160,
+          "Width": 126
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

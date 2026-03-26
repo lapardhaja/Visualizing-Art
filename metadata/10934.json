@@ -1,0 +1,99 @@
+{
+  "object_id": 10934,
+  "excel_metadata": {
+    "Object Number": "87.18",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 10934,
+    "Gallery Number": NaN,
+    "Department": "The American Wing",
+    "AccessionYear": 1887.0,
+    "Object Name": "Painting",
+    "Title": "Broad Acres",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 254.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Edward Gay",
+    "Artist Display Bio": "1837–1928",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Gay, Edward",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1837",
+    "Artist End Date": "1928",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500017974",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q5343075",
+    "Object Date": "1887",
+    "Object Begin Date": 1887,
+    "Object End Date": 1887,
+    "Medium": "Oil on canvas",
+    "Dimensions": "47 3/4 x 71 1/4 in. (121.9 x 181 cm)",
+    "Credit Line": "Gift of Several Gentlemen, 1887",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/10934",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20174281",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Landscapes",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300132294",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q191163"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/ap87.18.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 2542,
+        "role": "Artist",
+        "name": "Edward Gay",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500017974",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5343075",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 121.3,
+          "Width": 181
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 13.5,
+          "Height": 166,
+          "Width": 226
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Landscapes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+      }
+    ]
+  }
+}

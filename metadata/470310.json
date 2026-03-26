@@ -1,0 +1,127 @@
+{
+  "object_id": 470310,
+  "excel_metadata": {
+    "Object Number": 62.96,
+    "Is Highlight": true,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 470310,
+    "Gallery Number": 14,
+    "Department": "The Cloisters",
+    "AccessionYear": 1962,
+    "Object Name": "Reliquary",
+    "Title": "Reliquary Shrine",
+    "Culture": "French",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 13949,
+    "Artist Role": "Artist",
+    "Artist Prefix": "Attributed to",
+    "Artist Display Name": "Jean de Touyl",
+    "Artist Display Bio": "French, died 1349/50",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "de Touyl Jean",
+    "Artist Nationality": "French",
+    "Artist Begin Date": 1270,
+    "Artist End Date": 1350,
+    "Artist Gender": null,
+    "Artist ULAN URL": null,
+    "Artist Wikidata URL": null,
+    "Object Date": "ca. 1325–50",
+    "Object Begin Date": 1325,
+    "Object End Date": 1350,
+    "Medium": "Gilded silver, translucent enamel, paint",
+    "Dimensions": "open: 10 × 16 × 3 5/8 in. (25.4 × 40.6 × 9.2 cm)_x000D_\nclosed: 10 × 6 9/16 × 3 5/8 in. (25.4 × 16.7 × 9.2 cm)",
+    "Credit Line": "The Cloisters Collection, 1962",
+    "Geography Type": "Made in",
+    "City": "Paris",
+    "State": null,
+    "County": null,
+    "Country": "France",
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Enamels-Translucent",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/470310",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20201477",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Angels|Virgin Mary|Madonna and Child|Jesus|Nursing",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300379004|http://vocab.getty.edu/page/ia/901000032|http://vocab.getty.edu/page/ia/901000052|http://vocab.getty.edu/page/ia/901000087|http://vocab.getty.edu/page/aat/300379905",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q235113|https://www.wikidata.org/wiki/Q345|https://www.wikidata.org/wiki/Q9309699|https://www.wikidata.org/wiki/Q302|https://www.wikidata.org/wiki/Q174876"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/cl/original/DP102915.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/cl/original/DT201067.jpg",
+      "https://images.metmuseum.org/CRDImages/cl/original/DT201068.jpg",
+      "https://images.metmuseum.org/CRDImages/cl/original/DP360458.jpg",
+      "https://images.metmuseum.org/CRDImages/cl/original/DP360459.jpg",
+      "https://images.metmuseum.org/CRDImages/cl/original/DP360460.jpg",
+      "https://images.metmuseum.org/CRDImages/cl/original/LC-62_96-1.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 139493,
+        "role": "Artist",
+        "name": "Attributed to Jean de Touyl",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": "closed",
+        "elementMeasurements": {
+          "Depth": 9.2,
+          "Height": 25.400051,
+          "Width": 16.7
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": "open",
+        "elementMeasurements": {
+          "Depth": 9.207519,
+          "Height": 25.400051,
+          "Width": 40.64008
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Angels",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379004",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q235113"
+      },
+      {
+        "term": "Madonna and Child",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000052",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q9309699"
+      },
+      {
+        "term": "Virgin Mary",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000032",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q345"
+      },
+      {
+        "term": "Jesus",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q302"
+      },
+      {
+        "term": "Nursing",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379905",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q174876"
+      }
+    ]
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "object_id": 437340,
+  "excel_metadata": {
+    "Object Number": "1994.19",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 437340,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1994.0,
+    "Object Name": "Painting",
+    "Title": "Charles Maurice de Talleyrand Périgord (1754–1838), Prince de Talleyrand",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16509.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Pierre Paul Prud'hon",
+    "Artist Display Bio": "French, Cluny 1758–1823 Paris",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Prud'hon, Pierre Paul",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1758",
+    "Artist End Date": "1823",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500003716",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q469056",
+    "Object Date": "1817",
+    "Object Begin Date": 1817,
+    "Object End Date": 1817,
+    "Medium": "Oil on canvas",
+    "Dimensions": "85 x 55 7/8 in. (215.9 x 141.9 cm)",
+    "Credit Line": "Purchase, Mrs. Charles Wrightsman Gift, in memory of Jacqueline Bouvier Kennedy Onassis, 1994",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437340",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19905232",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP148275.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-1994_190-2.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-1994_190-3.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 165096,
+        "role": "Artist",
+        "name": "Pierre Paul Prud&#39;hon",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500003716",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q469056",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 20.32,
+          "Height": 255.2705,
+          "Width": 181.6104
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 215.9,
+          "Width": 141.9
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

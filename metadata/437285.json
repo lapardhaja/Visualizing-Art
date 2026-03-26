@@ -1,0 +1,106 @@
+{
+  "object_id": 437285,
+  "excel_metadata": {
+    "Object Number": "22.60.52",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437285,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1922.0,
+    "Object Name": "Painting",
+    "Title": "The Young Saint John the Baptist",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16224.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Piero di Cosimo (Piero di Lorenzo di Piero d'Antonio)",
+    "Artist Display Bio": "Italian, Florence 1462–1522 Florence",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Piero di Cosimo (Piero di Lorenzo di Piero d'Antonio)",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1462",
+    "Artist End Date": "1522",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500007508",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q280851",
+    "Object Date": "ca. 1480–82",
+    "Object Begin Date": 1480,
+    "Object End Date": 1482,
+    "Medium": "Tempera and oil on wood",
+    "Dimensions": "11 1/2 x 9 1/4 in. (29.2 x 23.5 cm)",
+    "Credit Line": "The Bequest of Michael Dreicer, 1921",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437285",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19905292",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Profiles|Saint John the Baptist",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300123319|http://vocab.getty.edu/page/ia/901001056",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q4382010|https://www.wikidata.org/wiki/Q40662"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-25978-001.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-22_60_52-2.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 162247,
+        "role": "Artist",
+        "name": "Piero di Cosimo (Piero di Lorenzo di Piero d&#39;Antonio)",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500007508",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q280851",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 6.985,
+          "Height": 45.0851,
+          "Width": 40.0051
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 29.2,
+          "Width": 23.5
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Profiles",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300123319",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q4382010"
+      },
+      {
+        "term": "Saint John the Baptist",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901001056",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q40662"
+      }
+    ]
+  }
+}

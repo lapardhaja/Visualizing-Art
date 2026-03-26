@@ -1,0 +1,113 @@
+{
+  "object_id": 441351,
+  "excel_metadata": {
+    "Object Number": "2017.202.6",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": false,
+    "Object ID": 441351,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 2017.0,
+    "Object Name": "Painting",
+    "Title": "The Opium Smokers",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16335.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Georges Clairin",
+    "Artist Display Bio": "French, Paris 1843–1919 Belle-Île-en-Mer",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Clairin, Georges",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1843",
+    "Artist End Date": "1919",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500021209",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q1398223",
+    "Object Date": "1872",
+    "Object Begin Date": 1872,
+    "Object End Date": 1872,
+    "Medium": "Oil on canvas",
+    "Dimensions": "42 1/2 x 39 1/2 in. (108 x 100.3 cm)",
+    "Credit Line": "Gift of Kenneth Jay Lane, 2017",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/441351",
+    "Object Wikidata URL": NaN,
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Interiors|Men|Smoking|Orientalist",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300391239|http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300380156|http://vocab.getty.edu/page/aat/300055784",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q2998430|https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q662860|https://www.wikidata.org/wiki/Q765606"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-14274-005.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 163350,
+        "role": "Artist",
+        "name": "Georges Clairin",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500021209",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1398223",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 107.95022,
+          "Width": 100.3302
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": "approximate",
+        "elementMeasurements": {
+          "Height": 120.65024,
+          "Width": 112.07772
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Interiors",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300391239",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q2998430"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Smoking",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300380156",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q662860"
+      },
+      {
+        "term": "Orientalist",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300055784",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q765606"
+      }
+    ]
+  }
+}

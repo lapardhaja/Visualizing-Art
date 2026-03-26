@@ -1,0 +1,114 @@
+{
+  "object_id": 11495,
+  "excel_metadata": {
+    "Object Number": "87.3",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 11495,
+    "Gallery Number": NaN,
+    "Department": "The American Wing",
+    "AccessionYear": 1887.0,
+    "Object Name": "Painting",
+    "Title": "On the Old Sod",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 271.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "William Magrath",
+    "Artist Display Bio": "1838–1918",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Magrath, William",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1838",
+    "Artist End Date": "1918",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500096486",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q21995355",
+    "Object Date": "1879",
+    "Object Begin Date": 1879,
+    "Object End Date": 1879,
+    "Medium": "Oil on canvas",
+    "Dimensions": "38 3/8 x 28 in. (97.5 x 71.1 cm)",
+    "Credit Line": "Gift of William Carr, 1887",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/11495",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19925705",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Ducks|Smoking|Sheep|Men",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300250047|http://vocab.getty.edu/page/aat/300380156|http://vocab.getty.edu/page/aat/300250284|http://vocab.getty.edu/page/aat/300025928",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q3736439|https://www.wikidata.org/wiki/Q662860|https://www.wikidata.org/wiki/Q7368|https://www.wikidata.org/wiki/Q8441"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/ap87.3.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 2713,
+        "role": "Artist",
+        "name": "William Magrath",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500096486",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q21995355",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 8.89,
+          "Height": 116.2,
+          "Width": 90.1
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 97.5,
+          "Width": 71.1
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Ducks",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250047",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3736439"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Smoking",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300380156",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q662860"
+      },
+      {
+        "term": "Sheep",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250284",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q7368"
+      }
+    ]
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "object_id": 647338,
+  "excel_metadata": {
+    "Object Number": "2014.27",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 647338,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 2014.0,
+    "Object Name": "Painting",
+    "Title": "Saint Francis in Ecstasy",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16175.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Giovanni Benedetto Castiglione (Il Grechetto)",
+    "Artist Display Bio": "Italian, Genoa 1609–1664 Mantua",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Castiglione, Giovanni Benedetto (Il Grechetto)",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1609",
+    "Artist End Date": "1664",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500115299",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q40823",
+    "Object Date": "ca. 1650",
+    "Object Begin Date": 1645,
+    "Object End Date": 1655,
+    "Medium": "Oil on canvas",
+    "Dimensions": "77 × 53 1/4 in. (195.6 × 135.3 cm)",
+    "Credit Line": "Purchase, Lila Acheson Wallace Gift; Gwynne Andrews Fund; and Gift in memory of Felix M. Warburg from his wife and children, Bequest and Gift of George Blumenthal, Bequests of Theodore M. Davis, Adele L. Lehman, in memory of Arthur Lehman, Helen Hay Whitney, Jean Fowles, in memory of her first husband, R. Langton Douglas, and Gifts of Coudert Brothers and Harry Payne Bingham Jr., by exchange, 2014",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/647338",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19911615",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Skulls|Saint Francis|Cross",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300191856|http://vocab.getty.edu/page/ulan/500349636|http://vocab.getty.edu/page/aat/300235443",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q13147|https://www.wikidata.org/wiki/Q676555|https://www.wikidata.org/wiki/Q40843"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP328663.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 161758,
+        "role": "Artist",
+        "name": "Giovanni Benedetto Castiglione (Il Grechetto)",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115299",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q40823",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 195.5804,
+          "Width": 135.25526
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 222.25044,
+          "Width": 167.64034
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Skulls",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300191856",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q13147"
+      },
+      {
+        "term": "Saint Francis",
+        "AAT_URL": "http://vocab.getty.edu/page/ulan/500349636",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q676555"
+      },
+      {
+        "term": "Cross",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300235443",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q40843"
+      }
+    ]
+  }
+}

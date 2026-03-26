@@ -1,0 +1,93 @@
+{
+  "object_id": 197861,
+  "excel_metadata": {
+    "Object Number": "37.20.36a, b",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 197861,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1937,
+    "Object Name": "Sugar bowl",
+    "Title": "Sugar bowl (one of four) (part of a service)",
+    "Culture": "French, Sèvres",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 16485,
+    "Artist Role": "Manufactory",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Sèvres Manufactory",
+    "Artist Display Bio": "French, 1740–present",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Sèvres Manufactory",
+    "Artist Nationality": "French",
+    "Artist Begin Date": 1740,
+    "Artist End Date": 9999,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500054661",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q653307",
+    "Object Date": "ca. 1775",
+    "Object Begin Date": 1770,
+    "Object End Date": 1780,
+    "Medium": "Soft-paste porcelain",
+    "Dimensions": "Overall: 4 5/8 × 6 × 9 1/4 in. (11.7 × 15.2 × 23.5 cm)",
+    "Credit Line": "Bequest of Emma T. Gary, 1934",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Ceramics-Porcelain",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/197861",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Roses",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300266246",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q102231"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP-22669-004.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/DP-22669-003.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 164856,
+        "role": "Manufactory",
+        "name": "Sèvres Manufactory",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500054661",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q653307",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 23.495047,
+          "Height": 11.747523,
+          "Width": 15.24003
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Roses",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300266246",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q102231"
+      }
+    ]
+  }
+}

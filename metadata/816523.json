@@ -1,0 +1,107 @@
+{
+  "object_id": 816523,
+  "excel_metadata": {
+    "Object Number": "2020.263.2",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 816523,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 2020.0,
+    "Object Name": "Painting",
+    "Title": "Fruit and Flowers",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 20607.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Orsola Maddalena Caccia",
+    "Artist Display Bio": "Italian, Moncalvo 1596–1676 Moncalvo",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Caccia, Orsola Maddalena",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1596",
+    "Artist End Date": "1676",
+    "Artist Gender": "Female",
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500024887",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q3356695",
+    "Object Date": "ca. 1630",
+    "Object Begin Date": 1625,
+    "Object End Date": 1635,
+    "Medium": "Oil on canvas",
+    "Dimensions": "30 × 39 in. (76.2 × 99.1 cm)",
+    "Credit Line": "Bequest of Errol M. Rudman, 2020",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/816523",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q111272637",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Tulips|Fruit|Still Life|Apples",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300379705|http://vocab.getty.edu/page/aat/300011868|http://vocab.getty.edu/page/aat/300015638|http://vocab.getty.edu/page/aat/300266417",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q30345409|https://www.wikidata.org/wiki/Q1364|https://www.wikidata.org/wiki/Q170571|https://www.wikidata.org/wiki/Q89"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-19715-001.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/DP-19715-002.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 206072,
+        "role": "Artist",
+        "name": "Orsola Maddalena Caccia",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500024887",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3356695",
+        "gender": "Female"
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 76.20015,
+          "Width": 99.060196
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Fruit",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300011868",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q1364"
+      },
+      {
+        "term": "Apples",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300266417",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q89"
+      },
+      {
+        "term": "Tulips",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379705",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q30345409"
+      },
+      {
+        "term": "Still Life",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015638",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q170571"
+      }
+    ]
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "object_id": 436542,
+  "excel_metadata": {
+    "Object Number": "55.145.1",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 436542,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1955.0,
+    "Object Name": "Painting",
+    "Title": "Ignacio Garcini y Queralt (1752–1825), Brigadier of Engineers",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16195.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Goya (Francisco de Goya y Lucientes)",
+    "Artist Display Bio": "Spanish, Fuendetodos 1746–1828 Bordeaux",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Goya (Francisco de Goya y Lucientes)",
+    "Artist Nationality": "Spanish",
+    "Artist Begin Date": "1746",
+    "Artist End Date": "1828",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500118936",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q5432",
+    "Object Date": "1804",
+    "Object Begin Date": 1804,
+    "Object End Date": 1804,
+    "Medium": "Oil on canvas",
+    "Dimensions": "41 x 32 3/4 in. (104.1 x 83.2 cm)",
+    "Credit Line": "Bequest of Harry Payne Bingham, 1955",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436542",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912222",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-28010-001.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-55_145_1-2.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-55_145_1-3.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 161953,
+        "role": "Artist",
+        "name": "Goya (Francisco de Goya y Lucientes)",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500118936",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5432",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 104.1,
+          "Width": 83.2
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

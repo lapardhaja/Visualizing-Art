@@ -1,0 +1,95 @@
+{
+  "object_id": 15166,
+  "excel_metadata": {
+    "Object Number": "2006.235.171",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 15166,
+    "Gallery Number": NaN,
+    "Department": "The American Wing",
+    "AccessionYear": 2006.0,
+    "Object Name": "Painting, miniature",
+    "Title": "Portrait of a Lady",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16232.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Nathaniel Rogers",
+    "Artist Display Bio": "American, Bridgehampton, New York 1788–1844 Bridgehampton, New York",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Rogers, Nathaniel",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1788",
+    "Artist End Date": "1844",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500014728",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q20823779",
+    "Object Date": NaN,
+    "Object Begin Date": 1787,
+    "Object End Date": 1844,
+    "Medium": "Watercolor on ivory",
+    "Dimensions": "3 x 2 3/8 in. (7.6 x 6 cm)",
+    "Credit Line": "Gift of Gloria Manney, 2006",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/15166",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20177569",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Portraits|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/APS6547.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162327,
+        "role": "Artist",
+        "name": "Nathaniel Rogers",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500014728",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q20823779",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 7.6,
+          "Width": 6
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "object_id": 437265,
+  "excel_metadata": {
+    "Object Number": "26.260.9",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437265,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1926.0,
+    "Object Name": "Painting",
+    "Title": "Maria Luisa of Parma (1751–1819), Later Queen of Spain",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16221.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Laurent Pécheux",
+    "Artist Display Bio": "French, Lyons 1729–1821 Turin",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Pécheux, Laurent",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1729",
+    "Artist End Date": "1821",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500030196",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q3219465",
+    "Object Date": "1765",
+    "Object Begin Date": 1765,
+    "Object End Date": 1765,
+    "Medium": "Oil on canvas",
+    "Dimensions": "90 7/8 x 64 3/4 in. (230.8 x 164.5 cm)",
+    "Credit Line": "Bequest of Annie C. Kane, 1926",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437265",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19905451",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Portraits|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP120724.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162215,
+        "role": "Artist",
+        "name": "Laurent Pécheux",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500030196",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3219465",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 230.8,
+          "Width": 164.5
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 10.16002,
+          "Height": 267.97055,
+          "Width": 203.20041
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

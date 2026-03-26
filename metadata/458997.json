@@ -1,0 +1,111 @@
+{
+  "object_id": 458997,
+  "excel_metadata": {
+    "Object Number": "1975.1.57",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 458997,
+    "Gallery Number": NaN,
+    "Department": "Robert Lehman Collection",
+    "AccessionYear": 1975.0,
+    "Object Name": "Painting",
+    "Title": "Madonna and Child with Saints Mary Magdalen and Sebastian",
+    "Culture": "Italian",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16200.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Icilio Federico Ioni",
+    "Artist Display Bio": "Italian, Siena 1866–1946 Siena",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Ioni, Icilio Federico",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1866",
+    "Artist End Date": "1946",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500002604",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q3791696",
+    "Object Date": "15th century style, made in the late 19th to early 20th century",
+    "Object Begin Date": 1880,
+    "Object End Date": 1946,
+    "Medium": "Tempera on wood, gold ground",
+    "Dimensions": "Overall: 43 1/8 × 28 1/2 in. (109.5 × 72.4 cm)\r\nPainted surface: 39 1/4 × 24 5/8 in. (99.7 × 62.5 cm)",
+    "Credit Line": "Robert Lehman Collection, 1975",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/458997",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20187997",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Madonna and Child|Mary Magdalene|Saints",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901000052|http://vocab.getty.edu/page/ia/901000161|http://vocab.getty.edu/page/aat/300150555",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q9309699|https://www.wikidata.org/wiki/Q63070|https://www.wikidata.org/wiki/Q43115"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/rl/original/DT3041.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/rl/original/ep1975.1.57.bw.R.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/0290.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 162007,
+        "role": "Artist",
+        "name": "Icilio Federico Ioni",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500002604",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3791696",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": "Overall",
+        "elementMeasurements": {
+          "Height": 109.5,
+          "Width": 72.4
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": "Painted surface",
+        "elementMeasurements": {
+          "Height": 99.7,
+          "Width": 62.5
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Madonna and Child",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000052",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q9309699"
+      },
+      {
+        "term": "Mary Magdalene",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000161",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q63070"
+      },
+      {
+        "term": "Saints",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300150555",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q43115"
+      }
+    ]
+  }
+}

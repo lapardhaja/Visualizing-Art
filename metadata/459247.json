@@ -1,0 +1,103 @@
+{
+  "object_id": 459247,
+  "excel_metadata": {
+    "Object Number": "1975.1.1234",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 459247,
+    "Gallery Number": 958,
+    "Department": "Robert Lehman Collection",
+    "AccessionYear": 1975,
+    "Object Name": "Ewer",
+    "Title": "Triumph of Ceres",
+    "Culture": null,
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 16354,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Suzanne de Court",
+    "Artist Display Bio": "French, active 1575–1625",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Court, Suzanne de",
+    "Artist Nationality": "French",
+    "Artist Begin Date": 1575,
+    "Artist End Date": 1625,
+    "Artist Gender": "Female",
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500316249",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q18508663",
+    "Object Date": "probably late 16th–early 17th century",
+    "Object Begin Date": 1575,
+    "Object End Date": 1635,
+    "Medium": "Painted enamel, partly gilt and partly silvered, on copper",
+    "Dimensions": "H. 28.7 cm, w. 17.8 cm, d. 12.1 cm",
+    "Credit Line": "Robert Lehman Collection, 1975",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Enamels",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/459247",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20188322",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Ceres|Men|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901000735|http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q32102|https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/rl/original/SLP1234-1.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/rl/original/SLP1234-2.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/SF-1975-1-1234b.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/SF-1975-1-1234a.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 163547,
+        "role": "Artist",
+        "name": "Suzanne de Court",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500316249",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q18508663",
+        "gender": "Female"
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 28.6
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Ceres",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000735",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q32102"
+      }
+    ]
+  }
+}

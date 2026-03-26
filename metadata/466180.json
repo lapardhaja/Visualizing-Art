@@ -1,0 +1,95 @@
+{
+  "object_id": 466180,
+  "excel_metadata": {
+    "Object Number": "1990.235a, b",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 466180,
+    "Gallery Number": 300,
+    "Department": "Medieval Art",
+    "AccessionYear": 1990,
+    "Object Name": "Pendant and stick",
+    "Title": "Temple Pendant and Stick",
+    "Culture": "Byzantine",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": null,
+    "Artist Role": null,
+    "Artist Prefix": null,
+    "Artist Display Name": null,
+    "Artist Display Bio": null,
+    "Artist Suffix": null,
+    "Artist Alpha Sort": null,
+    "Artist Nationality": null,
+    "Artist Begin Date": null,
+    "Artist End Date": null,
+    "Artist Gender": null,
+    "Artist ULAN URL": null,
+    "Artist Wikidata URL": null,
+    "Object Date": "ca. 1080–1150",
+    "Object Begin Date": 1080,
+    "Object End Date": 1150,
+    "Medium": "Cloisonné enamel, gold",
+    "Dimensions": "Overall: 1 15/16 × 15/16 in. (4.9 × 2.4 cm)_x000D_\nLength stick: 2 × 1/16 in. (5.1 × 0.2 cm)",
+    "Credit Line": "Rogers Fund, 1990 _x000D_\n_x000D_\n",
+    "Geography Type": "Made in",
+    "City": "Constantinople",
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Enamels-Cloisonné",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/466180",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q96756196",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/md/original/sf1990-235abs1.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/md/original/sf1990-235abs2.jpg",
+      "https://images.metmuseum.org/CRDImages/md/original/sf1990-235ad1a.jpg",
+      "https://images.metmuseum.org/CRDImages/md/original/sf1990-235ad2.jpg",
+      "https://images.metmuseum.org/CRDImages/md/original/sf1990-235bs1.jpg",
+      "https://images.metmuseum.org/CRDImages/md/original/sf1990-235bd1.jpg"
+    ],
+    "constituents": null,
+    "measurements": [
+      {
+        "elementName": "Other",
+        "elementDescription": "Length stick",
+        "elementMeasurements": {
+          "Depth": 0.2,
+          "Length": 5.11
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 4.9,
+          "Width": 2.4
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      }
+    ]
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "object_id": 236933,
+  "excel_metadata": {
+    "Object Number": "64.101.1651",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 236933,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1964,
+    "Object Name": "Knife",
+    "Title": "Knife",
+    "Culture": "Austrian, Vienna",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 347393510,
+    "Artist Role": "Factory director|Manufactory",
+    "Artist Prefix": " | ",
+    "Artist Display Name": "Claudius Innocentius Du Paquier period|Vienna",
+    "Artist Display Bio": "1718–1744| ",
+    "Artist Suffix": " | ",
+    "Artist Alpha Sort": "Du Paquier, Claudius Innocentius|Vienna",
+    "Artist Nationality": "Austrian| ",
+    "Artist Begin Date": "1718      |          ",
+    "Artist End Date": "1744      |          ",
+    "Artist Gender": "|",
+    "Artist ULAN URL": "|",
+    "Artist Wikidata URL": "|",
+    "Object Date": "ca. 1730",
+    "Object Begin Date": 1725,
+    "Object End Date": 1735,
+    "Medium": "Hard-paste porcelain, steel",
+    "Dimensions": "Knives L. 8 in. (20.3 cm.), Forks L. 7-1/8 in. (18.1 cm.)",
+    "Credit Line": "Gift of Irwin Untermyer, 1964",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Ceramics-Porcelain",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/236933",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": null,
+    "Tags AAT URL": null,
+    "Tags Wikidata URL": null
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/SF64_101_1646-1657_img1.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/SF64_101_1646-1657_img2.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 35103,
+        "role": "Manufactory",
+        "name": "Vienna",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      },
+      {
+        "constituentID": 34739,
+        "role": "Factory director",
+        "name": "Claudius Innocentius Du Paquier period",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Other",
+        "elementDescription": "Forks",
+        "elementMeasurements": {
+          "Length": 18.1
+        }
+      },
+      {
+        "elementName": "Other",
+        "elementDescription": "Knives",
+        "elementMeasurements": {
+          "Length": 20.3
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 20.3
+        }
+      }
+    ],
+    "tags": null
+  }
+}

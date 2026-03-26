@@ -1,0 +1,97 @@
+{
+  "object_id": 10957,
+  "excel_metadata": {
+    "Object Number": "29.74",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 10957,
+    "Gallery Number": NaN,
+    "Department": "The American Wing",
+    "AccessionYear": 1929.0,
+    "Object Name": "Painting, miniature",
+    "Title": "Alice Goudry",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 255.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Eliza Goodridge",
+    "Artist Display Bio": "1798–1882",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Goodridge, Eliza",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1798",
+    "Artist End Date": "1882",
+    "Artist Gender": "Female",
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500009914",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q5362847",
+    "Object Date": "ca. 1830–35",
+    "Object Begin Date": 1827,
+    "Object End Date": 1835,
+    "Medium": "Watercolor on ivory",
+    "Dimensions": "3 1/2 x 2 7/8 in. (8.9 x 7.3 cm)",
+    "Credit Line": "Rogers Fund, 1929",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/10957",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19925345",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Portraits|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/ap29.74.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ad/original/73557(2).jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 2551,
+        "role": "Artist",
+        "name": "Eliza Goodridge",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500009914",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5362847",
+        "gender": "Female"
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 8.9,
+          "Width": 7.3
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

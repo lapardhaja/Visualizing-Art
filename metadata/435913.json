@@ -1,0 +1,100 @@
+{
+  "object_id": 435913,
+  "excel_metadata": {
+    "Object Number": "24.80.512",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 435913,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1924.0,
+    "Object Name": "Painting, miniature",
+    "Title": "Henry III (1551–1589), King of France",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16330.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": "Style of",
+    "Artist Display Name": "François Clouet",
+    "Artist Display Bio": "French, 1578 or later",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Clouet, François",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1536",
+    "Artist End Date": "1572",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500015977",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q336747",
+    "Object Date": NaN,
+    "Object Begin Date": 1578,
+    "Object End Date": 1599,
+    "Medium": "Vellum laid on wood",
+    "Dimensions": "2 1/4 x 1 3/4 in. (58 x 44 mm)",
+    "Credit Line": "Bequest of Mary Clark Thompson, 1923",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Miniatures",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/435913",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19913984",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Kings|Men|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025481|http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q12097|https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-40797-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 163307,
+        "role": "Artist",
+        "name": "Style of François Clouet",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500015977",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q336747",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 5.7,
+          "Width": 4.4
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Kings",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025481",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q12097"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

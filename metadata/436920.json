@@ -1,0 +1,90 @@
+{
+  "object_id": 436920,
+  "excel_metadata": {
+    "Object Number": "41.100.34",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436920,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1941.0,
+    "Object Name": "Painting",
+    "Title": "Madonna and Child",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10794.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Luca di Tommè di Nuto",
+    "Artist Display Bio": "Italian, Sienese, active 1356–89",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Luca di Tommè di Nuto",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1356",
+    "Artist End Date": "1389",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500003597",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q21851359",
+    "Object Date": "ca. 1360–65",
+    "Object Begin Date": 1360,
+    "Object End Date": 1365,
+    "Medium": "Tempera on wood, transferred from wood, gold ground",
+    "Dimensions": "Shaped top, 52 7/8 x 23 1/8 in. (134.3 x 58.7 cm)",
+    "Credit Line": "Gift of George Blumenthal, 1941",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436920",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912040",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Madonna and Child",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901000052",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q9309699"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/ep41.100.34.bw.R.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 107949,
+        "role": "Artist",
+        "name": "Luca di Tommè di Nuto",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500003597",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q21851359",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 134.3,
+          "Width": 58.7
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Madonna and Child",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000052",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q9309699"
+      }
+    ]
+  }
+}

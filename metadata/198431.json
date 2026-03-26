@@ -1,0 +1,109 @@
+{
+  "object_id": 198431,
+  "excel_metadata": {
+    "Object Number": "39.140.27a, b",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 198431,
+    "Gallery Number": 510,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1939,
+    "Object Name": "Teapot",
+    "Title": "Teapot with L’amour",
+    "Culture": "British, Worcester",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 351103932,
+    "Artist Role": "Factory|Engraver",
+    "Artist Prefix": " | ",
+    "Artist Display Name": "Worcester factory|Robert Hancock",
+    "Artist Display Bio": "British, 1751–2008|British, Burslem 1730–1817 Bristol",
+    "Artist Suffix": " | ",
+    "Artist Alpha Sort": "Worcester factory|Hancock, Robert",
+    "Artist Nationality": "British|British",
+    "Artist Begin Date": "1751      |1730      ",
+    "Artist End Date": "2008      |1817      ",
+    "Artist Gender": "|",
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500332804|http://vocab.getty.edu/page/ulan/500143867",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q668894|https://www.wikidata.org/wiki/Q17309113",
+    "Object Date": "ca. 1765",
+    "Object Begin Date": 1760,
+    "Object End Date": 1770,
+    "Medium": "Soft-paste porcelain with transfer-printed decoration",
+    "Dimensions": "Height (with cover): 5 1/4 in. (13.3 cm)",
+    "Credit Line": "Gift of Mr. and Mrs. Luke Vincent Lockwood, 1939",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Ceramics-Porcelain",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/198431",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q116399122",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Couples|Men|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300379217|http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q219160|https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP-16078-017.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/DP-16078-018.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 35110,
+        "role": "Factory",
+        "name": "Worcester factory",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500332804",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q668894",
+        "gender": ""
+      },
+      {
+        "constituentID": 39327,
+        "role": "Engraver",
+        "name": "Robert Hancock",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500143867",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q17309113",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Height",
+        "elementDescription": "with cover",
+        "elementMeasurements": {
+          "Height": 13.335027
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Couples",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379217",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q219160"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

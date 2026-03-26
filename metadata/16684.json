@@ -1,0 +1,112 @@
+{
+  "object_id": 16684,
+  "excel_metadata": {
+    "Object Number": "2000.25",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 16684,
+    "Gallery Number": NaN,
+    "Department": "The American Wing",
+    "AccessionYear": 2000.0,
+    "Object Name": "Painting, miniature",
+    "Title": "The Artist's Family",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 341.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Pierre Henri",
+    "Artist Display Bio": "Paris ca. 1760–1822 New York",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Henri, Pierre",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1760",
+    "Artist End Date": "1822",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500331530",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q21647558",
+    "Object Date": "ca. 1800",
+    "Object Begin Date": 1800,
+    "Object End Date": 1800,
+    "Medium": "Watercolor on ivory",
+    "Dimensions": "2 3/4 x 3 3/8 in. (7 x 8.6 cm)",
+    "Credit Line": "Purchase, Martha J. Fleischman Gift, in memory of Keren-Or Bernbaum, 2000",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/16684",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19930602",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Boys|Girls|Portraits|Women|Family",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300247598|http://vocab.getty.edu/page/aat/300247581|http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/aat/300435378",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q3010|https://www.wikidata.org/wiki/Q3031|https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q8436"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DT4616.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ad/original/DP162121.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 3414,
+        "role": "Artist",
+        "name": "Pierre Henri",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500331530",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q21647558",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 7,
+          "Width": 8.6
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Boys",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300247598",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3010"
+      },
+      {
+        "term": "Girls",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300247581",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3031"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Family",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300435378",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8436"
+      }
+    ]
+  }
+}

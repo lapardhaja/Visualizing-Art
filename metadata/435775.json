@@ -1,0 +1,107 @@
+{
+  "object_id": 435775,
+  "excel_metadata": {
+    "Object Number": "1974.289.2",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 435775,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1974.0,
+    "Object Name": "Painting",
+    "Title": "Kynance",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10744.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "John Brett",
+    "Artist Display Bio": "British, Bletchingly 1831–1902 London",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Brett, John",
+    "Artist Nationality": "British",
+    "Artist Begin Date": "1831",
+    "Artist End Date": "1902",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500003891",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q528274",
+    "Object Date": "1888",
+    "Object Begin Date": 1888,
+    "Object End Date": 1888,
+    "Medium": "Oil on canvas",
+    "Dimensions": "7 x 14 1/8 in. (17.8 x 35.9 cm)",
+    "Credit Line": "Bequest of Theodore Rousseau Jr., 1973",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/435775",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912466",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Beaches",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300008816",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q40080"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP169651.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 107443,
+        "role": "Artist",
+        "name": "John Brett",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500003891",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q528274",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 17.8,
+          "Width": 35.9
+        }
+      },
+      {
+        "elementName": "Rabbet",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 18.732538,
+          "Width": 36.512573
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 3.1750064,
+          "Height": 23.177546,
+          "Width": 40.95758
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Beaches",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300008816",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q40080"
+      }
+    ]
+  }
+}

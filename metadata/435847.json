@@ -1,0 +1,109 @@
+{
+  "object_id": 435847,
+  "excel_metadata": {
+    "Object Number": "58.145.2",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 435847,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1958.0,
+    "Object Name": "Painting",
+    "Title": "Saint Vincent, Patron Saint of Lisbon",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10747.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Frei Carlos",
+    "Artist Display Bio": "Portuguese, active second quarter 16th century",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Carlos, Frei",
+    "Artist Nationality": "Portuguese",
+    "Artist Begin Date": "1525",
+    "Artist End Date": "1549",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500029941",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q10285877",
+    "Object Date": NaN,
+    "Object Begin Date": 1525,
+    "Object End Date": 1549,
+    "Medium": "Oil on wood",
+    "Dimensions": "64 x 20 7/8 in. (162.6 x 53 cm)",
+    "Credit Line": "Bequest of Muriel Stokes, 1958",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/435847",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19913368",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Books|Saints|Ships",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300028051|http://vocab.getty.edu/page/aat/300150555|http://vocab.getty.edu/page/aat/300082981",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q571|https://www.wikidata.org/wiki/Q43115|https://www.wikidata.org/wiki/Q11446"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT282013.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 107475,
+        "role": "Artist",
+        "name": "Frei Carlos",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500029941",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q10285877",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 162.6,
+          "Width": 53
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 9.525019,
+          "Height": 171.45035,
+          "Width": 64.77013
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Books",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300028051",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q571"
+      },
+      {
+        "term": "Saints",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300150555",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q43115"
+      },
+      {
+        "term": "Ships",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300082981",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q11446"
+      }
+    ]
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "object_id": 193817,
+  "excel_metadata": {
+    "Object Number": "17.190.1130",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 193817,
+    "Gallery Number": NaN,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1917.0,
+    "Object Name": "Snuffbox, painting",
+    "Title": "Snuffbox with theatrical scenes of a rope dancer and a puppet show",
+    "Culture": "French, Paris",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 1.6556216556016554e+16,
+    "Artist Role": "Artist|Maker|Artist",
+    "Artist Prefix": "and|Box by|Miniature by",
+    "Artist Display Name": "Henri Joseph van Blarenberghe|Joseph Etienne Blerzy|Louis Nicolas van Blarenberghe",
+    "Artist Display Bio": "French, Lille 1750–1826 Lille|French, active 1750–1806|French, Lille 1716–1794 Fontainebleau",
+    "Artist Suffix": " | | ",
+    "Artist Alpha Sort": "Blarenberghe, Henri Joseph van|Blerzy, Joseph Etienne|Blarenberghe, Louis Nicolas van",
+    "Artist Nationality": "French|French|French",
+    "Artist Begin Date": "1750      |1750      |1716      ",
+    "Artist End Date": "1826      |1806      |1794      ",
+    "Artist Gender": "||",
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500020237|http://vocab.getty.edu/page/ulan/500524496|http://vocab.getty.edu/page/ulan/500030954",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q16038756|https://www.wikidata.org/wiki/Q22661422|https://www.wikidata.org/wiki/Q15967927",
+    "Object Date": "1778–79",
+    "Object Begin Date": 1778,
+    "Object End Date": 1779,
+    "Medium": "Gold, enamel; vellum",
+    "Dimensions": "Overall (confirmed): 1 1/16 x 2 13/16 x 1 5/8 in. (2.7 x 7.1 x 4.1 cm); Miniatures: (sight measurements) top 1 3/16 x 2 3/8 (3 x 6 cm.); bottom 1 3/16 x 2 3/8 (3 x 6 cm.)",
+    "Credit Line": "Gift of J. Pierpont Morgan, 1917",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Metalwork-Gold and Platinum|Miniatures",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/193817",
+    "Object Wikidata URL": NaN,
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Puppets|Spectators|Performance|Men|Women|Dancers",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300138750|http://vocab.getty.edu/page/aat/300189768|http://vocab.getty.edu/page/aat/300069200|http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/aat/300025653",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q1913135|https://www.wikidata.org/wiki/Q63443976|https://www.wikidata.org/wiki/Q35140|https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q5716684"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP211748.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/DP211749.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP331990.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP331991.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP331988.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP331986.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP331987.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP331989.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/213740.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 165560,
+        "role": "Maker",
+        "name": "Box by Joseph Etienne Blerzy",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500524496",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q22661422",
+        "gender": ""
+      },
+      {
+        "constituentID": 165547,
+        "role": "Artist",
+        "name": "Miniature by Louis Nicolas van Blarenberghe",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500030954",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q15967927",
+        "gender": ""
+      },
+      {
+        "constituentID": 165562,
+        "role": "Artist",
+        "name": "and Henri Joseph van Blarenberghe",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500020237",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q16038756",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": "confirmed",
+        "elementMeasurements": {
+          "Depth": 4.1148,
+          "Height": 2.667,
+          "Width": 7.1374
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": "miniature on top",
+        "elementMeasurements": {
+          "Height": 3.016256,
+          "Width": 6.032512
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": "miniature on bottom",
+        "elementMeasurements": {
+          "Height": 3.016256,
+          "Width": 6.032512
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Performance",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300069200",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q35140"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Spectators",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300189768",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q63443976"
+      },
+      {
+        "term": "Dancers",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025653",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q5716684"
+      },
+      {
+        "term": "Puppets",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300138750",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q1913135"
+      }
+    ]
+  }
+}

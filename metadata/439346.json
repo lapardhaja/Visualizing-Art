@@ -1,0 +1,95 @@
+{
+  "object_id": 439346,
+  "excel_metadata": {
+    "Object Number": "2008.6",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 439346,
+    "Gallery Number": 807.0,
+    "Department": "European Paintings",
+    "AccessionYear": 2008.0,
+    "Object Name": "Painting",
+    "Title": "At the Edge of the Forest",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16523.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "August Heinrich",
+    "Artist Display Bio": "German, Dresden 1794–1822 Innsbruck",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Heinrich, August",
+    "Artist Nationality": "German",
+    "Artist Begin Date": "1794",
+    "Artist End Date": "1822",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500031324",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q1402629",
+    "Object Date": "ca. 1820",
+    "Object Begin Date": 1815,
+    "Object End Date": 1825,
+    "Medium": "Oil on canvas",
+    "Dimensions": "10 3/4 x 12 3/4 in. (27.3 x 32.4 cm)",
+    "Credit Line": "Catharine Lorillard Wolfe Collection, Wolfe Fund; and Wolfe Fund and Gift of Frederick Loeser, by exchange, 2008",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/439346",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19913187",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Forests|Landscapes",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300387598|http://vocab.getty.edu/page/aat/300132294",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q4421|https://www.wikidata.org/wiki/Q191163"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-34307-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 165231,
+        "role": "Artist",
+        "name": "August Heinrich",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500031324",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1402629",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 27.3051,
+          "Width": 32.3851
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Forests",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300387598",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q4421"
+      },
+      {
+        "term": "Landscapes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+      }
+    ]
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "object_id": 504281,
+  "excel_metadata": {
+    "Object Number": 1971.188,
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 504281,
+    "Gallery Number": null,
+    "Department": "Musical Instruments",
+    "AccessionYear": 1971,
+    "Object Name": "Glassichord",
+    "Title": "Glassichord",
+    "Culture": "British",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 15584,
+    "Artist Role": "Maker",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Chappell & Co.",
+    "Artist Display Bio": " ",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Chappell & Co.",
+    "Artist Nationality": " ",
+    "Artist Begin Date": "          ",
+    "Artist End Date": "          ",
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500330104",
+    "Artist Wikidata URL": null,
+    "Object Date": "ca. 1815",
+    "Object Begin Date": 1805,
+    "Object End Date": 1825,
+    "Medium": "Wood, gilt, ivory, gilt-bronze, glass",
+    "Dimensions": "L. of table: 151.4 cm (59 5/8 in.)\t_x000D_\nW. of table: 63.5 cm (25 in.)\t_x000D_\nH. of table: 74.3 cm (29¼ in.)_x000D_\nL. of drawer: 55.9 cm (22 in.)\t_x000D_\nDepth of drawer: 54.6 cm (21½ in.)",
+    "Credit Line": "Gift of Richard S. Perkins, 1971",
+    "Geography Type": null,
+    "City": "London",
+    "State": null,
+    "County": "England",
+    "Country": "United Kingdom",
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Idiophone-Struck-bar-glass",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/504281",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": null,
+    "Tags AAT URL": null,
+    "Tags Wikidata URL": null
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/mi/original/196927.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 155849,
+        "role": "Maker",
+        "name": "Chappell &amp; Co.",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500330104",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 74.3,
+          "Length": 151.4,
+          "Width": 63.5
+        }
+      }
+    ],
+    "tags": null
+  }
+}

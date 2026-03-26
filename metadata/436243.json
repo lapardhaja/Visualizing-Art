@@ -1,0 +1,110 @@
+{
+  "object_id": 436243,
+  "excel_metadata": {
+    "Object Number": "32.100.64",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 436243,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1932.0,
+    "Object Name": "Painting",
+    "Title": "Salvator Mundi",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16185.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Albrecht Dürer",
+    "Artist Display Bio": "German, Nuremberg 1471–1528 Nuremberg",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Dürer, Albrecht",
+    "Artist Nationality": "German",
+    "Artist Begin Date": "1471",
+    "Artist End Date": "1528",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500115493",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q5580",
+    "Object Date": "ca. 1505",
+    "Object Begin Date": 1500,
+    "Object End Date": 1510,
+    "Medium": "Oil on linden",
+    "Dimensions": "22 7/8 x 18 1/2in. (58.1 x 47cm)\r\n",
+    "Credit Line": "The Friedsam Collection, Bequest of Michael Friedsam, 1931",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436243",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19911432",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Christ",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901000087",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q642420"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-38479-001.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/GermanCat23_IRRnocap.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/GermanCat23_Xraynocap.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 161857,
+        "role": "Artist",
+        "name": "Albrecht Dürer",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115493",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5580",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 58.1,
+          "Width": 47
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 7.62,
+          "Height": 69.2151,
+          "Width": 58.4201
+        }
+      },
+      {
+        "elementName": "Glazing",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 58.737617,
+          "Width": 46.672592
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Christ",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+      }
+    ]
+  }
+}

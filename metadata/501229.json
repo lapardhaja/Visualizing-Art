@@ -1,0 +1,94 @@
+{
+  "object_id": 501229,
+  "excel_metadata": {
+    "Object Number": "89.4.613",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 501229,
+    "Gallery Number": null,
+    "Department": "Musical Instruments",
+    "AccessionYear": 1889,
+    "Object Name": "Rattle",
+    "Title": "Rattle",
+    "Culture": "Native American (probably Nootka)",
+    "Period": "Native American",
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 15645,
+    "Artist Role": "Culture",
+    "Artist Prefix": "Probably",
+    "Artist Display Name": "Nootka",
+    "Artist Display Bio": " ",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Nootka",
+    "Artist Nationality": " ",
+    "Artist Begin Date": "          ",
+    "Artist End Date": "          ",
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500203952",
+    "Artist Wikidata URL": null,
+    "Object Date": "19th century",
+    "Object Begin Date": 1801,
+    "Object End Date": 1900,
+    "Medium": "Wood, pebbles, cord, polychrome",
+    "Dimensions": "Overall: Diam.  5.1 x L. 32.4cm (2 x 12 3/4in.)_x000D_\n",
+    "Credit Line": "The Crosby Brown Collection of Musical Instruments, 1889",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": "British Columbia",
+    "Country": "Canada: N.A.",
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Idiophone-Shaken-rattle",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/501229",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": null,
+    "Tags AAT URL": null,
+    "Tags Wikidata URL": null
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/mi/original/midp89.4.613.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/mi/original/midp89.4.613 (2).jpg",
+      "https://images.metmuseum.org/CRDImages/mi/original/MUS1440A18.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 156458,
+        "role": "Culture",
+        "name": "Probably Nootka",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500203952",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Other",
+        "elementDescription": "L.C.",
+        "elementMeasurements": {
+          "Length": 31.7501
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Diameter": 5.08,
+          "Length": 32.3851
+        }
+      }
+    ],
+    "tags": null
+  }
+}

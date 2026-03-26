@@ -1,0 +1,96 @@
+{
+  "object_id": 466335,
+  "excel_metadata": {
+    "Object Number": "21.21.2",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 466335,
+    "Gallery Number": 304,
+    "Department": "Medieval Art",
+    "AccessionYear": 1921,
+    "Object Name": "Capital",
+    "Title": "Capital with Samson and an Attendant Fighting a Lion",
+    "Culture": "North Spanish",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": null,
+    "Artist Role": null,
+    "Artist Prefix": null,
+    "Artist Display Name": null,
+    "Artist Display Bio": null,
+    "Artist Suffix": null,
+    "Artist Alpha Sort": null,
+    "Artist Nationality": null,
+    "Artist Begin Date": null,
+    "Artist End Date": null,
+    "Artist Gender": null,
+    "Artist ULAN URL": null,
+    "Artist Wikidata URL": null,
+    "Object Date": "ca. 1175–1200",
+    "Object Begin Date": 1175,
+    "Object End Date": 1200,
+    "Medium": "Limestone",
+    "Dimensions": "Overall: 19 3/4 x 20 1/4 x 16 5/8 in. (50.2 x 51.4 x 42.2 cm)_x000D_\nweight: 428lb. (194.1kg)",
+    "Credit Line": "Rogers Fund, 1921",
+    "Geography Type": "Made in",
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": "Spain",
+    "Region": "Palencia",
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Sculpture-Architectural",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/466335",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q116243649",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Lions|Samson",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300310388|http://vocab.getty.edu/page/ia/901000362",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q140|https://www.wikidata.org/wiki/Q214648"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/md/original/sf21-21-2s2.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/md/original/sf21-21-2s1.jpg"
+    ],
+    "constituents": null,
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 42.2276,
+          "Height": 50.1651,
+          "Width": 51.4351
+        }
+      },
+      {
+        "elementName": "Other",
+        "elementDescription": "weight",
+        "elementMeasurements": {
+          "Weight": 194.1395
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Lions",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300310388",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q140"
+      },
+      {
+        "term": "Samson",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000362",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q214648"
+      }
+    ]
+  }
+}

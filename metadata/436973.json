@@ -1,0 +1,140 @@
+{
+  "object_id": 436973,
+  "excel_metadata": {
+    "Object Number": "18.117.2",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 436973,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1918.0,
+    "Object Name": "Painting, cassone panel",
+    "Title": "The Story of Esther",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16209916601.0,
+    "Artist Role": "Artist|Artist",
+    "Artist Prefix": " |and",
+    "Artist Display Name": "Marco del Buono Giamberti|Apollonio di Giovanni di Tomaso",
+    "Artist Display Bio": "Italian, Florence 1402–1489 Florence|Italian, Florence ca. 1416–1465 Florence",
+    "Artist Suffix": " | ",
+    "Artist Alpha Sort": "Marco del Buono Giamberti|Apollonio di Giovanni di Tomaso",
+    "Artist Nationality": "Italian|Italian",
+    "Artist Begin Date": "1402      |1416      ",
+    "Artist End Date": "1489      |1465      ",
+    "Artist Gender": "|",
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500017510|http://vocab.getty.edu/page/ulan/500019165",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q17510972|https://www.wikidata.org/wiki/Q2858468",
+    "Object Date": NaN,
+    "Object Begin Date": 1422,
+    "Object End Date": 1489,
+    "Medium": "Tempera and gold on wood",
+    "Dimensions": "17 1/2 x 55 3/8 in. (44.5 x 140.7 cm)",
+    "Credit Line": "Rogers Fund, 1918",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436973",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912120",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Horses|Esther|Dining|Men|Women|Ahasuerus|Banquets",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300250148|http://vocab.getty.edu/page/ia/901000951|http://vocab.getty.edu/page/aat/300379052|http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/ia/901001013|http://vocab.getty.edu/page/aat/300247614",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q726|https://www.wikidata.org/wiki/Q732413|https://www.wikidata.org/wiki/Q661199|https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q1370497|https://www.wikidata.org/wiki/Q626066"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP164799.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-18_117_2-2.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-18_117_2-3.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 162099,
+        "role": "Artist",
+        "name": "Marco del Buono Giamberti",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500017510",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q17510972",
+        "gender": ""
+      },
+      {
+        "constituentID": 166014,
+        "role": "Artist",
+        "name": "and Apollonio di Giovanni di Tomaso",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500019165",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q2858468",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 44.5,
+          "Width": 140.7
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 8.255,
+          "Height": 69.2151,
+          "Width": 166.3703
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Horses",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250148",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q726"
+      },
+      {
+        "term": "Esther",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000951",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q732413"
+      },
+      {
+        "term": "Dining",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379052",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q661199"
+      },
+      {
+        "term": "Ahasuerus",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901001013",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q1370497"
+      },
+      {
+        "term": "Banquets",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300247614",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q626066"
+      }
+    ]
+  }
+}

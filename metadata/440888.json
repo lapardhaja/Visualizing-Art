@@ -1,0 +1,90 @@
+{
+  "object_id": 440888,
+  "excel_metadata": {
+    "Object Number": "2010.279",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 440888,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 2010.0,
+    "Object Name": "Painting",
+    "Title": "Window",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16390.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Anton Dieffenbach",
+    "Artist Display Bio": "German, Wiesbaden 1831–1904 Hohwald",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Dieffenbach, Anton",
+    "Artist Nationality": "German",
+    "Artist Begin Date": "1831",
+    "Artist End Date": "1904",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500013094",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q588840",
+    "Object Date": "1856",
+    "Object Begin Date": 1856,
+    "Object End Date": 1856,
+    "Medium": "Oil on paper, laid down on canvas",
+    "Dimensions": "14 3/8 x 9 7/8 in. (36.5 x 25.1 cm)",
+    "Credit Line": "Purchase, Gifts of Mr. and Mrs. Charles Zadok and William Schaus and Bequest of Mary Jane Dastich, in memory of her husband, General Frank Dastich, by exchange, 2010",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/440888",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19913582",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Windows",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300002944",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q35473"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP231820.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 163901,
+        "role": "Artist",
+        "name": "Anton Dieffenbach",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500013094",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q588840",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 36.512573,
+          "Width": 25.08255
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Windows",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300002944",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q35473"
+      }
+    ]
+  }
+}

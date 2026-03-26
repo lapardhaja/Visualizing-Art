@@ -1,0 +1,99 @@
+{
+  "object_id": 10507,
+  "excel_metadata": {
+    "Object Number": "62.202",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 10507,
+    "Gallery Number": NaN,
+    "Department": "The American Wing",
+    "AccessionYear": 1962.0,
+    "Object Name": "Painting",
+    "Title": "Finish—First International Race for America's Cup, August 8, 1870",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16351.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Samuel Colman",
+    "Artist Display Bio": "American, Portland, Maine 1832–1920 New York",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Colman, Samuel",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1832",
+    "Artist End Date": "1920",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500031860",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q1751436",
+    "Object Date": "1870",
+    "Object Begin Date": 1870,
+    "Object End Date": 1870,
+    "Medium": "Oil on canvas",
+    "Dimensions": "30 3/16 x 60 1/8 in. (76.7 x 152.7 cm)",
+    "Credit Line": "Arthur Hoppock Hearn Fund, 1962",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/10507",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20175837",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Boats",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300178749",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q35872"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/ap62.202.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 163519,
+        "role": "Artist",
+        "name": "Samuel Colman",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500031860",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1751436",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 76.7,
+          "Width": 152.7
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 8.5725,
+          "Height": 103.5052,
+          "Width": 179.3879
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Boats",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300178749",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q35872"
+      }
+    ]
+  }
+}

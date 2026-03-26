@@ -1,0 +1,95 @@
+{
+  "object_id": 435940,
+  "excel_metadata": {
+    "Object Number": "1982.60.7",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 435940,
+    "Gallery Number": 537.0,
+    "Department": "European Paintings",
+    "AccessionYear": 1982.0,
+    "Object Name": "Painting",
+    "Title": "Madonna and Child",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16602.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Bernardino dei Conti",
+    "Artist Display Bio": "Italian, Milan, 1496–1522",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Conti, Bernardino dei",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1496",
+    "Artist End Date": "1522",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500021846",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q2405424",
+    "Object Date": NaN,
+    "Object Begin Date": 1516,
+    "Object End Date": 1522,
+    "Medium": "Oil on wood",
+    "Dimensions": "Overall, with additions, 15 7/8 x 12 in. (40.3 x 30.5 cm); painted surface 15 5/8 x 11 5/8 in. (39.7 x 29.5 cm)",
+    "Credit Line": "The Jack and Belle Linsky Collection, 1982",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/435940",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912668",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Madonna and Child|Nursing",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901000052|http://vocab.getty.edu/page/aat/300379905",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q9309699|https://www.wikidata.org/wiki/Q174876"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT8841.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 166024,
+        "role": "Artist",
+        "name": "Bernardino dei Conti",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500021846",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q2405424",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 40.3,
+          "Width": 30.5
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Madonna and Child",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000052",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q9309699"
+      },
+      {
+        "term": "Nursing",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379905",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q174876"
+      }
+    ]
+  }
+}

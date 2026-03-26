@@ -1,0 +1,89 @@
+{
+  "object_id": 236107,
+  "excel_metadata": {
+    "Object Number": "1974.391.2a, b",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 236107,
+    "Gallery Number": 524,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1974,
+    "Object Name": "Cabinet",
+    "Title": "Low cabinet (meuble à hauteur d'appui) (one of a pair)",
+    "Culture": "French",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 16170,
+    "Artist Role": "Designer",
+    "Artist Prefix": "after a design by",
+    "Artist Display Name": "André Charles Boulle",
+    "Artist Display Bio": "French, Paris 1642–1732 Paris",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Boulle, André Charles",
+    "Artist Nationality": "French",
+    "Artist Begin Date": 1642,
+    "Artist End Date": 1732,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500029110",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q128964",
+    "Object Date": "late 18th century",
+    "Object Begin Date": 1785,
+    "Object End Date": 1799,
+    "Medium": "Oak and pine veneered with ebony and marquetry of tortoiseshell, brass, and pewter; gilt bronze; Porto marble",
+    "Dimensions": "H. 39-3/4 x W. 37-5/8 x D. 16 in. (101 x 95.6 x 40.6 cm)",
+    "Credit Line": "Gift of Mr. and Mrs. Charles Wrightsman, 1974",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Woodwork-Furniture",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/236107",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q116308089",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": null,
+    "Tags AAT URL": null,
+    "Tags Wikidata URL": null
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/205454.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/205453.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/205455.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/205452.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 161706,
+        "role": "Designer",
+        "name": "after a design by André Charles Boulle",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500029110",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q128964",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 40.6,
+          "Height": 100.9652,
+          "Width": 95.5677
+        }
+      }
+    ],
+    "tags": null
+  }
+}

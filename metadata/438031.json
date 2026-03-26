@@ -1,0 +1,104 @@
+{
+  "object_id": 438031,
+  "excel_metadata": {
+    "Object Number": "1997.347",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 438031,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1997.0,
+    "Object Name": "Painting",
+    "Title": "Summer Flowers",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16558.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Henri Fantin-Latour",
+    "Artist Display Bio": "French, Grenoble 1836–1904 Buré",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Fantin-Latour, Henri",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1836",
+    "Artist End Date": "1904",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500025754",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q310715",
+    "Object Date": "1880",
+    "Object Begin Date": 1880,
+    "Object End Date": 1880,
+    "Medium": "Oil on canvas",
+    "Dimensions": "20 x 24 3/8 in. (50.8 x 61.9 cm)",
+    "Credit Line": "Gift of Susan S. Dillon, 1997",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/438031",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912755",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Flowers|Still Life",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300132399|http://vocab.getty.edu/page/aat/300015638",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q506|https://www.wikidata.org/wiki/Q170571"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT4204.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 165587,
+        "role": "Artist",
+        "name": "Henri Fantin-Latour",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500025754",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q310715",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 50.8,
+          "Width": 61.9
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 7.62,
+          "Height": 73.6601,
+          "Width": 82.5502
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Flowers",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132399",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q506"
+      },
+      {
+        "term": "Still Life",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015638",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q170571"
+      }
+    ]
+  }
+}

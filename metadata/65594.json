@@ -1,0 +1,125 @@
+{
+  "object_id": 65594,
+  "excel_metadata": {
+    "Object Number": "2003.178a, b",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 65594,
+    "Gallery Number": 464.0,
+    "Department": "Asian Art",
+    "AccessionYear": 2003.0,
+    "Object Name": "Painting",
+    "Title": NaN,
+    "Culture": "India (Rajasthan, Kota)",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 1557.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "The Kota Master",
+    "Artist Display Bio": "Indian, active early 18th century",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Kota Master",
+    "Artist Nationality": "Indian",
+    "Artist Begin Date": "1700",
+    "Artist End Date": "1733",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500372310",
+    "Artist Wikidata URL": NaN,
+    "Object Date": "ca. 1720 (recto); ca. 1750–75 (verso)",
+    "Object Begin Date": 1710,
+    "Object End Date": 1785,
+    "Medium": "Ink, opaque watercolor, and gold on paper",
+    "Dimensions": "recto: 7 1/2 x 4 3/8 in. (19.1 x 11.1 cm)\r\nverso: 9 x 5 7/8 in. (22.9 x 14.9 cm)",
+    "Credit Line": "Cynthia Hazen Polsky and Leon B. Polsky Fund, 2003",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/65594",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q28854552",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Radha|Peacocks|Birds|Women|Krishna|Couples",
+    "Tags AAT URL": " |http://vocab.getty.edu/page/aat/300250082|http://vocab.getty.edu/page/aat/300266506|http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/ia/901000876|http://vocab.getty.edu/page/aat/300379217",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q113904|https://www.wikidata.org/wiki/Q201251|https://www.wikidata.org/wiki/Q5113|https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q42891|https://www.wikidata.org/wiki/Q219160"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/as/original/LC-2003_178_A_001.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/as/original/LC-2003_178_B_001.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 15573,
+        "role": "Artist",
+        "name": "the Kota Master",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500372310",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Other",
+        "elementDescription": "recto",
+        "elementMeasurements": {
+          "Height": 19.05,
+          "Width": 11.1125
+        }
+      },
+      {
+        "elementName": "Other",
+        "elementDescription": "verso",
+        "elementMeasurements": {
+          "Height": 22.86,
+          "Width": 14.9225
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Birds",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300266506",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q5113"
+      },
+      {
+        "term": "Couples",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379217",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q219160"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Peacocks",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250082",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q201251"
+      },
+      {
+        "term": "Krishna",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000876",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q42891"
+      },
+      {
+        "term": "Radha",
+        "AAT_URL": null,
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q113904"
+      }
+    ]
+  }
+}

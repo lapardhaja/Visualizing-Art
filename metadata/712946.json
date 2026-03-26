@@ -1,0 +1,102 @@
+{
+  "object_id": 712946,
+  "excel_metadata": {
+    "Object Number": "2016.485",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 712946,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 2016.0,
+    "Object Name": "Painting",
+    "Title": "The Calling of Saint Matthew",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 12798.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Giovanni Battista Caracciolo",
+    "Artist Display Bio": "Italian, Naples 1578–1635 Naples",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Caracciolo, Giovanni Battista",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1578",
+    "Artist End Date": "1635",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500003623",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q2519261",
+    "Object Date": "ca. 1625–30",
+    "Object Begin Date": 1625,
+    "Object End Date": 1630,
+    "Medium": "Oil on canvas",
+    "Dimensions": "51 3/8 × 61 1/2 in. (130.5 × 156.2 cm)",
+    "Credit Line": "Purchase, The Morris and Alma Schapiro Fund Gift, 2016",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/712946",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q78613673",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Saint Matthew",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/ia/901000497",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q43600"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-12392-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 127980,
+        "role": "Artist",
+        "name": "Giovanni Battista Caracciolo",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500003623",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q2519261",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 130.49277,
+          "Width": 156.21031
+        }
+      },
+      {
+        "elementName": "Other",
+        "elementDescription": "Picture + Frame (F.2016.485)",
+        "elementMeasurements": {
+          "Weight": 34.019775
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Saint Matthew",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000497",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q43600"
+      }
+    ]
+  }
+}

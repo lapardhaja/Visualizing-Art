@@ -1,0 +1,120 @@
+{
+  "object_id": 12962,
+  "excel_metadata": {
+    "Object Number": "37.84",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 12962,
+    "Gallery Number": 774.0,
+    "Department": "The American Wing",
+    "AccessionYear": 1937.0,
+    "Object Name": "Painting",
+    "Title": "Hunting Scene",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": NaN,
+    "Artist Role": NaN,
+    "Artist Prefix": NaN,
+    "Artist Display Name": NaN,
+    "Artist Display Bio": NaN,
+    "Artist Suffix": NaN,
+    "Artist Alpha Sort": NaN,
+    "Artist Nationality": NaN,
+    "Artist Begin Date": NaN,
+    "Artist End Date": NaN,
+    "Artist Gender": NaN,
+    "Artist ULAN URL": NaN,
+    "Artist Wikidata URL": NaN,
+    "Object Date": "ca. 1800",
+    "Object Begin Date": 1797,
+    "Object End Date": 1800,
+    "Medium": "Oil on wood",
+    "Dimensions": "19 3/4 x 71 1/4 in. (50.2 x 181 cm)",
+    "Credit Line": "Samuel D. Lee Fund, 1937",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/12962",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20171669",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Hunting|Bears|Owls|Deer|Dogs|Horses",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300239666|http://vocab.getty.edu/page/aat/300266516|http://vocab.getty.edu/page/aat/300310290|http://vocab.getty.edu/page/aat/300250308|http://vocab.getty.edu/page/aat/300265714|http://vocab.getty.edu/page/aat/300250148",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q36963|https://www.wikidata.org/wiki/Q30090244|https://www.wikidata.org/wiki/Q8021345|https://www.wikidata.org/wiki/Q685795|https://www.wikidata.org/wiki/Q144|https://www.wikidata.org/wiki/Q726"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/ap37.84.jpg",
+    "additionalImages": [],
+    "constituents": null,
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 50.2,
+          "Width": 181
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 5.4,
+          "Height": 64.9,
+          "Width": 194.8
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Bears",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300266516",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q30090244"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Hunting",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300239666",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q36963"
+      },
+      {
+        "term": "Owls",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300310290",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8021345"
+      },
+      {
+        "term": "Deer",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250308",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q685795"
+      },
+      {
+        "term": "Dogs",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300265714",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q144"
+      },
+      {
+        "term": "Horses",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250148",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q726"
+      }
+    ]
+  }
+}

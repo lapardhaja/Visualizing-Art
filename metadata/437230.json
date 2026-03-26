@@ -1,0 +1,125 @@
+{
+  "object_id": 437230,
+  "excel_metadata": {
+    "Object Number": "41.190.14",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 437230,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1941.0,
+    "Object Name": "Painting",
+    "Title": "Four Scenes from the Passion",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16217.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": "Follower of",
+    "Artist Display Name": "Bernard van Orley",
+    "Artist Display Bio": "Netherlandish, ca. 1520",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Orley, Bernard van",
+    "Artist Nationality": "Netherlandish",
+    "Artist Begin Date": "1492",
+    "Artist End Date": "1542",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500023119",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q454678",
+    "Object Date": NaN,
+    "Object Begin Date": 1520,
+    "Object End Date": 1520,
+    "Medium": "Oil on wood",
+    "Dimensions": "11 3/4 x 11 3/8 in. (29.8 x 28.9 cm)",
+    "Credit Line": "Bequest of George Blumenthal, 1941",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437230",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20166988",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Crucifixion|Lamentation|Christ|Mary Magdalene|Saint John the Evangelist|Virgin Mary|Bearing the Cross|Agony in the Garden",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300404300|http://vocab.getty.edu/page/ia/901001196|http://vocab.getty.edu/page/ia/901000087|http://vocab.getty.edu/page/ia/901000161|http://vocab.getty.edu/page/ia/901001171|http://vocab.getty.edu/page/ia/901000032|http://vocab.getty.edu/page/ia/901001193|http://vocab.getty.edu/page/ia/901000503",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q3235597|https://www.wikidata.org/wiki/Q3155356|https://www.wikidata.org/wiki/Q642420|https://www.wikidata.org/wiki/Q63070|https://www.wikidata.org/wiki/Q328804|https://www.wikidata.org/wiki/Q345|https://www.wikidata.org/wiki/Q3399226|https://www.wikidata.org/wiki/Q2467856"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT11876.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162179,
+        "role": "Artist",
+        "name": "Follower of Bernard van Orley",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500023119",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q454678",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 29.8,
+          "Width": 28.9
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Christ",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+      },
+      {
+        "term": "Mary Magdalene",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000161",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q63070"
+      },
+      {
+        "term": "Saint John the Evangelist",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901001171",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q328804"
+      },
+      {
+        "term": "Virgin Mary",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000032",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q345"
+      },
+      {
+        "term": "Bearing the Cross",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901001193",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3399226"
+      },
+      {
+        "term": "Crucifixion",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300404300",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3235597"
+      },
+      {
+        "term": "Lamentation",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901001196",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3155356"
+      },
+      {
+        "term": "Agony in the Garden",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000503",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q2467856"
+      }
+    ]
+  }
+}

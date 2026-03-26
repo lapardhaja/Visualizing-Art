@@ -1,0 +1,100 @@
+{
+  "object_id": 436899,
+  "excel_metadata": {
+    "Object Number": "43.98.2",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436899,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1943.0,
+    "Object Name": "Painting",
+    "Title": "The Annunciation",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10793.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": "Workshop of",
+    "Artist Display Name": "Fra Filippo Lippi",
+    "Artist Display Bio": "Italian, Florence ca. 1406–1469 Spoleto",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Lippi, Fra Filippo",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1406",
+    "Artist End Date": "1469",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500019158",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q205148",
+    "Object Date": NaN,
+    "Object Begin Date": 1426,
+    "Object End Date": 1469,
+    "Medium": "Tempera on wood",
+    "Dimensions": "15 7/8 x 27 1/2 in. (40.3 x 69.9 cm)",
+    "Credit Line": "Maitland F. Griggs Collection, Bequest of Maitland F. Griggs, 1943",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436899",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912420",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Annunciation|Virgin Mary|Archangel Gabriel",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300412102|http://vocab.getty.edu/page/ia/901000032|http://vocab.getty.edu/page/ia/901000493",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q154326|https://www.wikidata.org/wiki/Q345|https://www.wikidata.org/wiki/Q81989"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/ep43.98.2.bw.R.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 107934,
+        "role": "Artist",
+        "name": "Workshop of Fra Filippo Lippi",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500019158",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q205148",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 40.3,
+          "Width": 69.9
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Virgin Mary",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000032",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q345"
+      },
+      {
+        "term": "Archangel Gabriel",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000493",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q81989"
+      },
+      {
+        "term": "Annunciation",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300412102",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q154326"
+      }
+    ]
+  }
+}

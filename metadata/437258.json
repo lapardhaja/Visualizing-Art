@@ -1,0 +1,112 @@
+{
+  "object_id": 437258,
+  "excel_metadata": {
+    "Object Number": "1982.60.43",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437258,
+    "Gallery Number": 541.0,
+    "Department": "European Paintings",
+    "AccessionYear": 1982.0,
+    "Object Name": "Painting",
+    "Title": "The Golden Age",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16508.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Jean-Baptiste Joseph Pater",
+    "Artist Display Bio": "French, Valenciennes 1695–1736 Paris",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Pater, Jean-Baptiste Joseph",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1695",
+    "Artist End Date": "1736",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500005903",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q731533",
+    "Object Date": NaN,
+    "Object Begin Date": 1715,
+    "Object End Date": 1736,
+    "Medium": "Oil on wood",
+    "Dimensions": "6 3/8 x 9 in. (16.2 x 22.9 cm)",
+    "Credit Line": "The Jack and Belle Linsky Collection, 1982",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437258",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912261",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Boys|Girls|Playing|Dogs|Toys",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300247598|http://vocab.getty.edu/page/aat/300247581| |http://vocab.getty.edu/page/aat/300265714|http://vocab.getty.edu/page/aat/300211037",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q3010|https://www.wikidata.org/wiki/Q3031|https://www.wikidata.org/wiki/Q1150958|https://www.wikidata.org/wiki/Q144|https://www.wikidata.org/wiki/Q11422"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP317728.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/DP317729.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 165082,
+        "role": "Artist",
+        "name": "Jean-Baptiste Joseph Pater",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500005903",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q731533",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 16.2,
+          "Width": 22.9
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Boys",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300247598",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3010"
+      },
+      {
+        "term": "Girls",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300247581",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3031"
+      },
+      {
+        "term": "Playing",
+        "AAT_URL": null,
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q1150958"
+      },
+      {
+        "term": "Dogs",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300265714",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q144"
+      },
+      {
+        "term": "Toys",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300211037",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q11422"
+      }
+    ]
+  }
+}

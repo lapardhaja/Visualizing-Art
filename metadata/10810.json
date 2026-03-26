@@ -1,0 +1,109 @@
+{
+  "object_id": 10810,
+  "excel_metadata": {
+    "Object Number": "67.187.125",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 10810,
+    "Gallery Number": 764.0,
+    "Department": "The American Wing",
+    "AccessionYear": 1967.0,
+    "Object Name": "Painting",
+    "Title": "Arcadia",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16185.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Thomas Eakins",
+    "Artist Display Bio": "American, Philadelphia, Pennsylvania 1844–1916 Philadelphia, Pennsylvania",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Eakins, Thomas",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1844",
+    "Artist End Date": "1916",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500115198",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q214905",
+    "Object Date": "ca. 1883",
+    "Object Begin Date": 1880,
+    "Object End Date": 1883,
+    "Medium": "Oil on canvas",
+    "Dimensions": "38 5/8 x 45 in. (98.1 x 114.3 cm)",
+    "Credit Line": "Bequest of Miss Adelaide Milton de Groot (1876-1967), 1967",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/10810",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q1645088",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Male Nudes|Female Nudes|Flutes",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300189568|http://vocab.getty.edu/page/aat/300189568|http://vocab.getty.edu/page/aat/300042513",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q40446|https://www.wikidata.org/wiki/Q40446|https://www.wikidata.org/wiki/Q11405"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DT221513.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 161859,
+        "role": "Artist",
+        "name": "Thomas Eakins",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115198",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q214905",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 7.3025,
+          "Height": 128.2703,
+          "Width": 144.939
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 98.1,
+          "Width": 114.3
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Male Nudes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300189568",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q40446"
+      },
+      {
+        "term": "Female Nudes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300189568",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q40446"
+      },
+      {
+        "term": "Flutes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300042513",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q11405"
+      }
+    ]
+  }
+}

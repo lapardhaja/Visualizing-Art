@@ -1,0 +1,113 @@
+{
+  "object_id": 437903,
+  "excel_metadata": {
+    "Object Number": "17.120.204",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 437903,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1917.0,
+    "Object Name": "Painting",
+    "Title": "Marie Joséphine Charlotte du Val d'Ognes (1786–1868)",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16265.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Marie Denise Villers",
+    "Artist Display Bio": "French, Paris 1774–1821 Paris (?)",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Villers, Marie Denise",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1774",
+    "Artist End Date": "1821",
+    "Artist Gender": "Female",
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500045597",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q452123",
+    "Object Date": "1801",
+    "Object Begin Date": 1801,
+    "Object End Date": 1801,
+    "Medium": "Oil on canvas",
+    "Dimensions": "63 1/2 × 50 5/8 in. (161.3 × 128.6 cm)\r\n",
+    "Credit Line": "Mr. and Mrs. Isaac D. Fletcher Collection, Bequest of Isaac D. Fletcher, 1917",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437903",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19904863",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Portraits|Women|Artists",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/aat/300025103",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q483501"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-416-001.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/DP-416-003.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-17_120_204-2.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-17_120_204-3.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 162650,
+        "role": "Artist",
+        "name": "Marie Denise Villers",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500045597",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q452123",
+        "gender": "Female"
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 161.3,
+          "Width": 128.6
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 22.86,
+          "Height": 223.5204,
+          "Width": 160.6553
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Artists",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025103",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q483501"
+      }
+    ]
+  }
+}

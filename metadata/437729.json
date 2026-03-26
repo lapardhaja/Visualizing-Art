@@ -1,0 +1,95 @@
+{
+  "object_id": 437729,
+  "excel_metadata": {
+    "Object Number": "89.15.17",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437729,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1889.0,
+    "Object Name": "Painting",
+    "Title": "Saint Michael the Archangel",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 12780.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Ignacio de Ries",
+    "Artist Display Bio": "Spanish, 1616–after 1665",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Ries, Ignacio de",
+    "Artist Nationality": "Spanish",
+    "Artist Begin Date": "1616",
+    "Artist End Date": "1665",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500037958",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q2842736",
+    "Object Date": "1640s",
+    "Object Begin Date": 1640,
+    "Object End Date": 1649,
+    "Medium": "Oil on canvas",
+    "Dimensions": "64 3/4 x 43 1/4 in. (164.5 x 109.9 cm)",
+    "Credit Line": "Marquand Collection, Gift of Henry G. Marquand, 1889",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437729",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19911896",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Saint Michael|Angels",
+    "Tags AAT URL": " |http://vocab.getty.edu/page/aat/300379004",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q45581|https://www.wikidata.org/wiki/Q235113"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-26763-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 127801,
+        "role": "Artist",
+        "name": "Ignacio de Ries",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500037958",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q2842736",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 164.5,
+          "Width": 109.9
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Angels",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379004",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q235113"
+      },
+      {
+        "term": "Saint Michael",
+        "AAT_URL": null,
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q45581"
+      }
+    ]
+  }
+}

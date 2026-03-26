@@ -1,0 +1,100 @@
+{
+  "object_id": 437586,
+  "excel_metadata": {
+    "Object Number": "06.1201",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437586,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1906.0,
+    "Object Name": "Painting",
+    "Title": "A Country Road",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16235.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Salomon van Ruysdael",
+    "Artist Display Bio": "Dutch, Naarden, born ca. 1600–1603, died 1670 Haarlem",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Ruysdael, Salomon van",
+    "Artist Nationality": "Dutch",
+    "Artist Begin Date": "1600",
+    "Artist End Date": "1670",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500010095",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q247005",
+    "Object Date": "1648",
+    "Object Begin Date": 1648,
+    "Object End Date": 1648,
+    "Medium": "Oil on canvas",
+    "Dimensions": "38 7/8 x 52 7/8 in. (98.7 x 134.3 cm)",
+    "Credit Line": "Rogers Fund, 1906",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437586",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912782",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Roads|Cows|Landscapes",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300008217|http://vocab.getty.edu/page/aat/300250120|http://vocab.getty.edu/page/aat/300132294",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q34442|https://www.wikidata.org/wiki/Q830|https://www.wikidata.org/wiki/Q191163"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP143152.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162357,
+        "role": "Artist",
+        "name": "Salomon van Ruysdael",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500010095",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q247005",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 98.7,
+          "Width": 134.3
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Roads",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300008217",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q34442"
+      },
+      {
+        "term": "Cows",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250120",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q830"
+      },
+      {
+        "term": "Landscapes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+      }
+    ]
+  }
+}

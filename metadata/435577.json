@@ -1,0 +1,110 @@
+{
+  "object_id": 435577,
+  "excel_metadata": {
+    "Object Number": "14.40.628",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 435577,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1914.0,
+    "Object Name": "Painting",
+    "Title": "The Crucifixion",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16161.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Fra Angelico (Guido di Pietro)",
+    "Artist Display Bio": "Italian, Vicchio di Mugello ca. 1395–1455 Rome",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Angelico, Fra (Guido di Pietro)",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1395",
+    "Artist End Date": "1455",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500029319",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q5664",
+    "Object Date": "possibly ca. 1440",
+    "Object Begin Date": 1435,
+    "Object End Date": 1445,
+    "Medium": "Tempera transferred to canvas, laid down on wood, gold ground",
+    "Dimensions": "13 3/8 x 19 3/4 in. (34 x 50.2 cm); set in panel 15 3/4 x 21 1/4 in. (40 x 54 cm)",
+    "Credit Line": "Bequest of Benjamin Altman, 1913",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/435577",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19905200",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Crucifixion|Saints|Mary Magdalene|Saint Francis|Christ",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300404300|http://vocab.getty.edu/page/aat/300150555|http://vocab.getty.edu/page/ia/901000161|http://vocab.getty.edu/page/ulan/500349636|http://vocab.getty.edu/page/ia/901000087",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q3235597|https://www.wikidata.org/wiki/Q43115|https://www.wikidata.org/wiki/Q63070|https://www.wikidata.org/wiki/Q676555|https://www.wikidata.org/wiki/Q642420"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-20398-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 161610,
+        "role": "Artist",
+        "name": "Fra Angelico (Guido di Pietro)",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500029319",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5664",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 40,
+          "Width": 54
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Christ",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+      },
+      {
+        "term": "Mary Magdalene",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000161",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q63070"
+      },
+      {
+        "term": "Saint Francis",
+        "AAT_URL": "http://vocab.getty.edu/page/ulan/500349636",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q676555"
+      },
+      {
+        "term": "Crucifixion",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300404300",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3235597"
+      },
+      {
+        "term": "Saints",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300150555",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q43115"
+      }
+    ]
+  }
+}

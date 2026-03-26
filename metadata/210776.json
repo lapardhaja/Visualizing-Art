@@ -1,0 +1,103 @@
+{
+  "object_id": 210776,
+  "excel_metadata": {
+    "Object Number": "41.100.250b",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 210776,
+    "Gallery Number": 544,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1941,
+    "Object Name": "Plaque",
+    "Title": "The Last Supper (one of seven)",
+    "Culture": "French, Limoges",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 340533968,
+    "Artist Role": "Enameler|Enameler",
+    "Artist Prefix": "Workshop of|possibly",
+    "Artist Display Name": "Jean II Pénicaud|Jean III Pénicaud",
+    "Artist Display Bio": "French, working ca. 1531/32–1549|French, died 1570",
+    "Artist Suffix": "or| ",
+    "Artist Alpha Sort": "Pénicaud Jean II|Pénicaud Jean III",
+    "Artist Nationality": "French|French",
+    "Artist Begin Date": "1524      |1470      ",
+    "Artist End Date": "1554      |1570      ",
+    "Artist Gender": "|",
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500003312|http://vocab.getty.edu/page/ulan/500121428",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q18508363|https://www.wikidata.org/wiki/Q18508364",
+    "Object Date": "mid-16th century",
+    "Object Begin Date": 1530,
+    "Object End Date": 1565,
+    "Medium": "Painted enamel on copper, partly gilt",
+    "Dimensions": "2 3/4 × 2 3/8 in. (7 × 6 cm)",
+    "Credit Line": "Gift of George Blumenthal, 1941",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Enamels",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/210776",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q116306916",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Jesus|Last Supper",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901000087|http://vocab.getty.edu/page/ia/901000357",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q302|https://www.wikidata.org/wiki/Q51633"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/ES1200.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 34053,
+        "role": "Enameler",
+        "name": "Workshop of Jean II Pénicaud",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500003312",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q18508363",
+        "gender": ""
+      },
+      {
+        "constituentID": 39687,
+        "role": "Enameler",
+        "name": "possibly Jean III Pénicaud",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500121428",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q18508364",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 7,
+          "Width": 6.032512
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Jesus",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q302"
+      },
+      {
+        "term": "Last Supper",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000357",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q51633"
+      }
+    ]
+  }
+}

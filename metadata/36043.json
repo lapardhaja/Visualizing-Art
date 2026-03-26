@@ -1,0 +1,90 @@
+{
+  "object_id": 36043,
+  "excel_metadata": {
+    "Object Number": "29.100.945",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 36043,
+    "Gallery Number": NaN,
+    "Department": "Asian Art",
+    "AccessionYear": 1929.0,
+    "Object Name": "Painting",
+    "Title": NaN,
+    "Culture": "Japan",
+    "Period": "Edo period (1615–1868)",
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 1181.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": "In the Style of",
+    "Artist Display Name": "Ogawa Haritsu (Ritsuō)",
+    "Artist Display Bio": "Japanese, 1663–1747",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Ritsuō",
+    "Artist Nationality": "Japanese",
+    "Artist Begin Date": "1663",
+    "Artist End Date": "1747",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500336156",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q11460566",
+    "Object Date": "18th century",
+    "Object Begin Date": 1700,
+    "Object End Date": 1747,
+    "Medium": "Watercolor on paper",
+    "Dimensions": "7 1/32 x 10 7/32 in. (17.9 x 26 cm)",
+    "Credit Line": "H. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/36043",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q78996079",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Birds",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300266506",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q5113"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/as/original/DP-15190-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 11819,
+        "role": "Artist",
+        "name": "In the Style of Ogawa Haritsu (Ritsuō)",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500336156",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q11460566",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 17.9,
+          "Width": 26
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Birds",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300266506",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q5113"
+      }
+    ]
+  }
+}

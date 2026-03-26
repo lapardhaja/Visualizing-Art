@@ -1,0 +1,95 @@
+{
+  "object_id": 10884,
+  "excel_metadata": {
+    "Object Number": "24.109.91",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 10884,
+    "Gallery Number": NaN,
+    "Department": "The American Wing",
+    "AccessionYear": 1924.0,
+    "Object Name": "Painting, miniature",
+    "Title": "Robert Gilmor Sr.",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16428.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Robert Field",
+    "Artist Display Bio": "American (born England), Gloucestershire ca. 1769–1819 Kingston, Jamaica",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Field, Robert",
+    "Artist Nationality": "American, born England",
+    "Artist Begin Date": "1764",
+    "Artist End Date": "1819",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500119517",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q7344323",
+    "Object Date": "1804",
+    "Object Begin Date": 1804,
+    "Object End Date": 1804,
+    "Medium": "Watercolor on ivory",
+    "Dimensions": "3 1/2 x 2 3/4 in. (8.9 x 7 cm)",
+    "Credit Line": "Bequest of Charles Allen Munn, 1924",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/10884",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19924742",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DP162107.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 164284,
+        "role": "Artist",
+        "name": "Robert Field",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500119517",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q7344323",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 8.9,
+          "Width": 6.985
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

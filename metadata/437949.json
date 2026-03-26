@@ -1,0 +1,100 @@
+{
+  "object_id": 437949,
+  "excel_metadata": {
+    "Object Number": "07.225.257",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437949,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1907.0,
+    "Object Name": "Painting, grisaille",
+    "Title": "Children Playing with a Goat",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16274.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": "Style of",
+    "Artist Display Name": "Jacob de Wit",
+    "Artist Display Bio": "Dutch, 18th century",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Wit, Jacob de",
+    "Artist Nationality": "Dutch",
+    "Artist Begin Date": "1695",
+    "Artist End Date": "1754",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500020708",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q3117749",
+    "Object Date": NaN,
+    "Object Begin Date": 1715,
+    "Object End Date": 1754,
+    "Medium": "Oil on canvas",
+    "Dimensions": "26 3/4 x 41 in. (67.9 x 104.1 cm)",
+    "Credit Line": "Gift of J. Pierpont Morgan, 1906",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437949",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912748",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Children|Playing|Goats",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025945| |http://vocab.getty.edu/page/aat/300250122",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q7569|https://www.wikidata.org/wiki/Q1150958|https://www.wikidata.org/wiki/Q2934"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP146935.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162748,
+        "role": "Artist",
+        "name": "Style of Jacob de Wit",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500020708",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3117749",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 67.9,
+          "Width": 104.1
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Children",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025945",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q7569"
+      },
+      {
+        "term": "Playing",
+        "AAT_URL": null,
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q1150958"
+      },
+      {
+        "term": "Goats",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250122",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q2934"
+      }
+    ]
+  }
+}

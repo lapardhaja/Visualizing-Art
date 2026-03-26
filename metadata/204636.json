@@ -1,0 +1,85 @@
+{
+  "object_id": 204636,
+  "excel_metadata": {
+    "Object Number": "66.59.3",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 204636,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1966,
+    "Object Name": "Armchair",
+    "Title": "Armchair (part of a set)",
+    "Culture": "French, Paris",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 3443,
+    "Artist Role": "Maker",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Nicolas-Quinibert Foliot",
+    "Artist Display Bio": "1706–1776, warden 1750/52",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "FOLIOT NICOLAS-QUINIBERT",
+    "Artist Nationality": " ",
+    "Artist Begin Date": 1706,
+    "Artist End Date": 1776,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500008751",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q3339997",
+    "Object Date": "ca. 1754–56",
+    "Object Begin Date": 1749,
+    "Object End Date": 1761,
+    "Medium": "Beechwood, gilded",
+    "Dimensions": "Overall: 40 1/2 × 29 1/4 × 26 in. (102.9 × 74.3 × 66 cm)",
+    "Credit Line": "Gift of Martha Baird Rockefeller, 1966",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Woodwork-Furniture",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/204636",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": null,
+    "Tags AAT URL": null,
+    "Tags Wikidata URL": null
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/184616.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 34439,
+        "role": "Maker",
+        "name": "Nicolas-Quinibert Foliot",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500008751",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3339997",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 66.04013,
+          "Height": 102.87021,
+          "Width": 74.29515
+        }
+      }
+    ],
+    "tags": null
+  }
+}

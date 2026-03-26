@@ -1,0 +1,101 @@
+{
+  "object_id": 458965,
+  "excel_metadata": {
+    "Object Number": "1975.1.25",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 458965,
+    "Gallery Number": NaN,
+    "Department": "Robert Lehman Collection",
+    "AccessionYear": 1975.0,
+    "Object Name": "Painting",
+    "Title": "Crucifix",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 13812.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": "Attributed to",
+    "Artist Display Name": "Giovanni Antonio da Pesaro",
+    "Artist Display Bio": "Italian, active Marches 1437–d. 1475",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "da Pesaro, Giovanni Antonio",
+    "Artist Nationality": "Italian, active Marches",
+    "Artist Begin Date": "1437",
+    "Artist End Date": "1475",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": NaN,
+    "Artist Wikidata URL": NaN,
+    "Object Date": "ca. 1450",
+    "Object Begin Date": 1445,
+    "Object End Date": 1455,
+    "Medium": "Tempera on wood, gold ground",
+    "Dimensions": "Overall, excluding peg at base, 15 5/8 x 13 7/8 in. (39.7 x 35.2 cm)",
+    "Credit Line": "Robert Lehman Collection, 1975",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/458965",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20187993",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Christ|Crucifixion",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901000087|http://vocab.getty.edu/page/aat/300404300",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q642420|https://www.wikidata.org/wiki/Q3235597"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/rl/original/DT3016.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/rl/original/DT3017.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/ep1975.1.25.r.bw.R.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/ep1975.1.25.v.bw.R.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/0549.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/0550.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 138125,
+        "role": "Artist",
+        "name": "Attributed to Giovanni Antonio da Pesaro",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 39.7,
+          "Width": 35.2
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Christ",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+      },
+      {
+        "term": "Crucifixion",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300404300",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3235597"
+      }
+    ]
+  }
+}

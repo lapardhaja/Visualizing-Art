@@ -1,0 +1,106 @@
+{
+  "object_id": 202613,
+  "excel_metadata": {
+    "Object Number": "62.31a, b",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 202613,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1962,
+    "Object Name": "Box",
+    "Title": "Box",
+    "Culture": "Swiss, Geneva",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 3892,
+    "Artist Role": "Artist",
+    "Artist Prefix": "Enameler:",
+    "Artist Display Name": "Jean or Pierre Mussard",
+    "Artist Display Bio": "Jean active 1723–68, Pierre 1707–47",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Mussard, Jean or Pierre",
+    "Artist Nationality": " ",
+    "Artist Begin Date": 1707,
+    "Artist End Date": 1768,
+    "Artist Gender": null,
+    "Artist ULAN URL": null,
+    "Artist Wikidata URL": null,
+    "Object Date": "ca. 1750",
+    "Object Begin Date": 1745,
+    "Object End Date": 1755,
+    "Medium": "Painted enamel on copper; silver",
+    "Dimensions": "H. 3/4 in. (1.9 cm); Diam. 1 5/8 in. (4.1 cm.)",
+    "Credit Line": "Gift of Mrs. Lionel Herzfelder, in memory of H. Lionel Herzfelder, 1962",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Enamels",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/202613",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Women|Drinking",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/aat/300379698",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q876776"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/173736.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 38922,
+        "role": "Artist",
+        "name": "Enameler: Jean or Pierre Mussard",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Other",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Diameter": 4.1
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 1.9
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Drinking",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379698",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q876776"
+      }
+    ]
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "object_id": 468792,
+  "excel_metadata": {
+    "Object Number": "87.11.123",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 468792,
+    "Gallery Number": null,
+    "Department": "Medieval Art",
+    "AccessionYear": 1887,
+    "Object Name": "Stanchion-plate or staple",
+    "Title": "Stanchion-Plate or Staple",
+    "Culture": "German",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": null,
+    "Artist Role": null,
+    "Artist Prefix": null,
+    "Artist Display Name": null,
+    "Artist Display Bio": null,
+    "Artist Suffix": null,
+    "Artist Alpha Sort": null,
+    "Artist Nationality": null,
+    "Artist Begin Date": null,
+    "Artist End Date": null,
+    "Artist Gender": null,
+    "Artist ULAN URL": null,
+    "Artist Wikidata URL": null,
+    "Object Date": "late 16th century",
+    "Object Begin Date": 1575,
+    "Object End Date": 1599,
+    "Medium": "Iron",
+    "Dimensions": "Overall (embedded): 6 15/16 x 7/8 x 5/8 in. (17.6 x 2.2 x 1.6 cm)_x000D_\nplate: 6 15/16 x 7/8 x 1/16 in. (17.6 x 2.2 x 0.2 cm)_x000D_\nhandle: 3 3/4 x 11/16 x 2 1/16 in. (9.6 x 1.7 x 5.2 cm)",
+    "Credit Line": "Gift of Henry G. Marquand, 1887",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Metalwork-Iron",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/468792",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": null,
+    "Tags AAT URL": null,
+    "Tags Wikidata URL": null
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/md/original/sf87-11-123s2.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/md/original/sf87-11-123s1.jpg",
+      "https://images.metmuseum.org/CRDImages/md/original/sf87-11-123s3.jpg"
+    ],
+    "constituents": null,
+    "measurements": [
+      {
+        "elementName": "Other",
+        "elementDescription": "handle",
+        "elementMeasurements": {
+          "Depth": 5.2,
+          "Length": 9.6,
+          "Width": 1.7
+        }
+      },
+      {
+        "elementName": "Other",
+        "elementDescription": "plate",
+        "elementMeasurements": {
+          "Depth": 0.2,
+          "Length": 17.6,
+          "Width": 2.2
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": "embedded",
+        "elementMeasurements": {
+          "Depth": 1.6,
+          "Length": 17.6,
+          "Width": 2.2
+        }
+      }
+    ],
+    "tags": null
+  }
+}

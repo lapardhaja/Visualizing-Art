@@ -1,0 +1,105 @@
+{
+  "object_id": 435753,
+  "excel_metadata": {
+    "Object Number": "60.122",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 435753,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1960.0,
+    "Object Name": "Painting",
+    "Title": "The Proposal",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16170.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "William Bouguereau",
+    "Artist Display Bio": "French, La Rochelle 1825–1905 La Rochelle",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Bouguereau, William",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1825",
+    "Artist End Date": "1905",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500011205",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q483992",
+    "Object Date": "1872",
+    "Object Begin Date": 1872,
+    "Object End Date": 1872,
+    "Medium": "Oil on canvas",
+    "Dimensions": "64 3/8 x 44 in. (163.5 x 111.8 cm)",
+    "Credit Line": "Gift of Mrs. Elliot L. Kamen, in memory of her father, Bernard R. Armour, 1960",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/435753",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912679",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Women|Cats|Spinning Wheel",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/aat/300265960|http://vocab.getty.edu/page/aat/300263278",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q146|https://www.wikidata.org/wiki/Q58966"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-23423-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 161705,
+        "role": "Artist",
+        "name": "William Bouguereau",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500011205",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q483992",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 163.5,
+          "Width": 111.8
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Cats",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300265960",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q146"
+      },
+      {
+        "term": "Spinning Wheel",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300263278",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q58966"
+      }
+    ]
+  }
+}

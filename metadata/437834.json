@@ -1,0 +1,104 @@
+{
+  "object_id": 437834,
+  "excel_metadata": {
+    "Object Number": "1974.356.36",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437834,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1974.0,
+    "Object Name": "Painting",
+    "Title": "Mademoiselle Nys",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16256.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Henri de Toulouse-Lautrec",
+    "Artist Display Bio": "French, Albi 1864–1901 Saint-André-du-Bois",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Toulouse-Lautrec, Henri de",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1864",
+    "Artist End Date": "1901",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500029114",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q82445",
+    "Object Date": "1899",
+    "Object Begin Date": 1899,
+    "Object End Date": 1899,
+    "Medium": "Oil on unprimed wood",
+    "Dimensions": "10 5/8 x 8 5/8 in. (27 x 21.9 cm)",
+    "Credit Line": "The Lesley and Emma Sheafer Collection, Bequest of Emma A. Sheafer, 1973",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437834",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19913096",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Portraits|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/ep1974.356.36.R.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162561,
+        "role": "Artist",
+        "name": "Henri de Toulouse-Lautrec",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500029114",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q82445",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 7.620015,
+          "Height": 46.037594,
+          "Width": 40.95758
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 27,
+          "Width": 21.9
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

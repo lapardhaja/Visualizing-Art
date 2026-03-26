@@ -1,0 +1,109 @@
+{
+  "object_id": 488147,
+  "excel_metadata": {
+    "Object Number": "43.47.7",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 488147,
+    "Gallery Number": NaN,
+    "Department": "Modern and Contemporary Art",
+    "AccessionYear": 1943.0,
+    "Object Name": "Painting",
+    "Title": "Still Life",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 14285.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Ben Benn",
+    "Artist Display Bio": "American (born Ukraine), Kamianets-Podilskyi 1884–1983 Bethel, Connecticut",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Benn, Ben",
+    "Artist Nationality": "American, born Ukraine",
+    "Artist Begin Date": "1884",
+    "Artist End Date": "1983",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500038228",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q21994030",
+    "Object Date": "1941",
+    "Object Begin Date": 1941,
+    "Object End Date": 1941,
+    "Medium": "Oil on canvas",
+    "Dimensions": "24 1/4 x 30 in. (61.6 x 76.2 cm)",
+    "Credit Line": "Gift of New York City W. P. A., 1943",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/488147",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20197802",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Fruit|Still Life|Jugs",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300011868|http://vocab.getty.edu/page/aat/300015638|http://vocab.getty.edu/page/aat/300045685",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q1364|https://www.wikidata.org/wiki/Q170571|https://www.wikidata.org/wiki/Q2413314"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ma/original/43.47.7 - color.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 142859,
+        "role": "Artist",
+        "name": "Ben Benn",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500038228",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q21994030",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 61.6,
+          "Width": 76.2
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 5.7150116,
+          "Height": 78.105156,
+          "Width": 93.345184
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Fruit",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300011868",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q1364"
+      },
+      {
+        "term": "Still Life",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015638",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q170571"
+      },
+      {
+        "term": "Jugs",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300045685",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q2413314"
+      }
+    ]
+  }
+}

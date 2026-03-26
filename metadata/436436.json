@@ -1,0 +1,104 @@
+{
+  "object_id": 436436,
+  "excel_metadata": {
+    "Object Number": "66.88.1",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 436436,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1966.0,
+    "Object Name": "Painting",
+    "Title": "Mrs. Ralph Izard (Alice De Lancey, 1746/47–1832)",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16619.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Thomas Gainsborough",
+    "Artist Display Bio": "British, Sudbury 1727–1788 London",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Gainsborough, Thomas",
+    "Artist Nationality": "British",
+    "Artist Begin Date": "1727",
+    "Artist End Date": "1788",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500115200",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q192720",
+    "Object Date": NaN,
+    "Object Begin Date": 1747,
+    "Object End Date": 1788,
+    "Medium": "Oil on canvas",
+    "Dimensions": "Oval, 30 1/4 x 25 1/8 in. (76.8 x 63.8 cm)",
+    "Credit Line": "Bequest of Jeanne King deRham, in memory of her father, David H. King Jr., 1966",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436436",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912490",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Portraits|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP162167.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 166194,
+        "role": "Artist",
+        "name": "Thomas Gainsborough",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115200",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q192720",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 76.8,
+          "Width": 63.8
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 10.16002,
+          "Height": 109.85522,
+          "Width": 97.1552
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

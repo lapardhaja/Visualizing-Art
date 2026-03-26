@@ -1,0 +1,106 @@
+{
+  "object_id": 437836,
+  "excel_metadata": {
+    "Object Number": "1979.135.14",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437836,
+    "Gallery Number": 817.0,
+    "Department": "European Paintings",
+    "AccessionYear": 1979.0,
+    "Object Name": "Painting",
+    "Title": "Albert (René) Grenier (1858–1925)",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16256.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Henri de Toulouse-Lautrec",
+    "Artist Display Bio": "French, Albi 1864–1901 Saint-André-du-Bois",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Toulouse-Lautrec, Henri de",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1864",
+    "Artist End Date": "1901",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500029114",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q82445",
+    "Object Date": "1887",
+    "Object Begin Date": 1887,
+    "Object End Date": 1887,
+    "Medium": "Oil on wood",
+    "Dimensions": "13 3/8 x 10 in. (34 x 25.4 cm)",
+    "Credit Line": "Bequest of Mary Cushing Fosburgh, 1978",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437836",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912536",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT2167.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/255929_003.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 162561,
+        "role": "Artist",
+        "name": "Henri de Toulouse-Lautrec",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500029114",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q82445",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 34,
+          "Width": 25.4
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 7.62,
+          "Height": 55.8801,
+          "Width": 48.2601
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

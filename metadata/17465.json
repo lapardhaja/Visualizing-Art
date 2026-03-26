@@ -1,0 +1,109 @@
+{
+  "object_id": 17465,
+  "excel_metadata": {
+    "Object Number": "2002.444",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 17465,
+    "Gallery Number": 758.0,
+    "Department": "The American Wing",
+    "AccessionYear": 2002.0,
+    "Object Name": "Painting",
+    "Title": "Rip Van Winkle",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 416.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Albertis del Orient Browere",
+    "Artist Display Bio": "1814–1887",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Browere, Albertis del Orient",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1814",
+    "Artist End Date": "1887",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500024471",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q20926463",
+    "Object Date": "1833",
+    "Object Begin Date": 1833,
+    "Object End Date": 1833,
+    "Medium": "Oil on canvas",
+    "Dimensions": "21 1/8 x 25 in. (53.7 x 63.5 cm)",
+    "Credit Line": "Gift of Mr. and Mrs. S. Richard Krown and family, 2002",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/17465",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19923835",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Children|Men|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025945|http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q7569|https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DT201996.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 4165,
+        "role": "Artist",
+        "name": "Albertis del Orient Browere",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500024471",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q20926463",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 9.2075,
+          "Height": 77.4702,
+          "Width": 87.6302
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 53.6576,
+          "Width": 63.5001
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Children",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025945",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q7569"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

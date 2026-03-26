@@ -1,0 +1,103 @@
+{
+  "object_id": 437187,
+  "excel_metadata": {
+    "Object Number": "30.58.20",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437187,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1930.0,
+    "Object Name": "Painting",
+    "Title": "Interior of a Gothic Church by Day",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10766310810.0,
+    "Artist Role": "Artist|Artist",
+    "Artist Prefix": "and| ",
+    "Artist Display Name": "Frans Francken III|Pieter Neeffs the Elder",
+    "Artist Display Bio": "Flemish, 1607–1667|Flemish, active 1605–1656/61",
+    "Artist Suffix": " | ",
+    "Artist Alpha Sort": "Francken, Frans, III|Neeffs, Pieter, the Elder",
+    "Artist Nationality": "Flemish|Flemish",
+    "Artist Begin Date": "1607      |1605      ",
+    "Artist End Date": "1667      |1661      ",
+    "Artist Gender": "|",
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500001468|http://vocab.getty.edu/page/ulan/500010047",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q3752060|https://www.wikidata.org/wiki/Q596352",
+    "Object Date": "probably ca. 1635–40",
+    "Object Begin Date": 1635,
+    "Object End Date": 1640,
+    "Medium": "Oil on copper",
+    "Dimensions": "5 1/8 x 6 1/2 in. (13 x 16.5 cm)",
+    "Credit Line": "Bequest of Edward C. Post, 1915",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437187",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912775",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Churches|Human Figures",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300007466|http://vocab.getty.edu/page/aat/300404114",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q16970|https://www.wikidata.org/wiki/Q5937779"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/ep30.58.20.bw.R.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 108101,
+        "role": "Artist",
+        "name": "Pieter Neeffs the Elder",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500010047",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q596352",
+        "gender": ""
+      },
+      {
+        "constituentID": 107663,
+        "role": "Artist",
+        "name": "and Frans Francken III",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500001468",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3752060",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 13,
+          "Width": 16.5
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Human Figures",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300404114",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q5937779"
+      },
+      {
+        "term": "Churches",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300007466",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q16970"
+      }
+    ]
+  }
+}

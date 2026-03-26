@@ -1,0 +1,99 @@
+{
+  "object_id": 459135,
+  "excel_metadata": {
+    "Object Number": "1975.1.11",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 459135,
+    "Gallery Number": NaN,
+    "Department": "Robert Lehman Collection",
+    "AccessionYear": 1975.0,
+    "Object Name": "Painting",
+    "Title": "The Conversion of Saint Paul",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16245.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Spinello Aretino (Spinello di Luca Spinelli)",
+    "Artist Display Bio": "Italian, born Arezzo 1345–52, died 1410 Arezzo",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Spinello Aretino (Spinello di Luca Spinelli)",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1345",
+    "Artist End Date": "1410",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500030643",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q287934",
+    "Object Date": "ca. 1391–92",
+    "Object Begin Date": 1388,
+    "Object End Date": 1395,
+    "Medium": "Tempera on wood, gold ground",
+    "Dimensions": "11 7/8 x 11 5/8 in. (30.2 x 29.5 cm)",
+    "Credit Line": "Robert Lehman Collection, 1975",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/459135",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20188065",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Soldiers|Saint Paul",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300185678|http://vocab.getty.edu/page/ia/901001058",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q4991371|https://www.wikidata.org/wiki/Q9200"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/rl/original/DP318243.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/rl/original/DP318248.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/ep1975.1.11.bw.R.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/0060.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 162459,
+        "role": "Artist",
+        "name": "Spinello Aretino (Spinello di Luca Spinelli)",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500030643",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q287934",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 30.2,
+          "Width": 29.5
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Soldiers",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300185678",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q4991371"
+      },
+      {
+        "term": "Saint Paul",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901001058",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q9200"
+      }
+    ]
+  }
+}

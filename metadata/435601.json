@@ -1,0 +1,90 @@
+{
+  "object_id": 435601,
+  "excel_metadata": {
+    "Object Number": "32.100.94",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 435601,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1932.0,
+    "Object Name": "Painting",
+    "Title": "Madonna and Child",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10733.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Ercole Banci",
+    "Artist Display Bio": "Italian, Bolognese, active early 16th century",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Banci, Ercole",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1500",
+    "Artist End Date": "1529",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500092915",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q1348628",
+    "Object Date": NaN,
+    "Object Begin Date": 1500,
+    "Object End Date": 1529,
+    "Medium": "Tempera on wood",
+    "Dimensions": "15 1/4 x 12 3/8 in. (38.7 x 31.4 cm)",
+    "Credit Line": "The Friedsam Collection, Bequest of Michael Friedsam, 1931",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/435601",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912854",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Madonna and Child",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901000052",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q9309699"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/ep32.100.94.bw.R.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 107339,
+        "role": "Artist",
+        "name": "Ercole Banci",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500092915",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1348628",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 38.7,
+          "Width": 31.4
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Madonna and Child",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000052",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q9309699"
+      }
+    ]
+  }
+}

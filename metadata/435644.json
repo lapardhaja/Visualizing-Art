@@ -1,0 +1,104 @@
+{
+  "object_id": 435644,
+  "excel_metadata": {
+    "Object Number": "49.7.2",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 435644,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1949.0,
+    "Object Name": "Painting",
+    "Title": "Madonna and Child",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16166.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": "Workshop of",
+    "Artist Display Name": "Giovanni Bellini",
+    "Artist Display Bio": "Italian, Venice, active by 1459–died 1516 Venice",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Bellini, Giovanni",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1459",
+    "Artist End Date": "1516",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500019244",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q17169",
+    "Object Date": "ca. 1510",
+    "Object Begin Date": 1505,
+    "Object End Date": 1515,
+    "Medium": "Oil on wood",
+    "Dimensions": "Overall 13 1/2 x 10 7/8 in. (34.3 x 27.6 cm); painted surface 12 3/4 x 10 1/8 in. (32.4 x 25.7 cm)",
+    "Credit Line": "The Jules Bache Collection, 1949",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/435644",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19905199",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Birds|Madonna and Child",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300266506|http://vocab.getty.edu/page/ia/901000052",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q5113|https://www.wikidata.org/wiki/Q9309699"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT301874.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 161668,
+        "role": "Artist",
+        "name": "Workshop of Giovanni Bellini",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500019244",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q17169",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 34.3,
+          "Width": 27.6
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 11.43,
+          "Height": 63.5001,
+          "Width": 48.8951
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Birds",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300266506",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q5113"
+      },
+      {
+        "term": "Madonna and Child",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000052",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q9309699"
+      }
+    ]
+  }
+}

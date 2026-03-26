@@ -1,0 +1,116 @@
+{
+  "object_id": 459043,
+  "excel_metadata": {
+    "Object Number": "1975.1.101",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 459043,
+    "Gallery Number": NaN,
+    "Department": "Robert Lehman Collection",
+    "AccessionYear": 1975.0,
+    "Object Name": "Painting",
+    "Title": "Santa Francesca Romana Holding the Christ Child",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16542.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Antonio del Massaro da Viterbo",
+    "Artist Display Bio": "Italian, ca. 1450–ca. 1516",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Antonio del Massaro da Viterbo",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1445",
+    "Artist End Date": "1521",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500029609",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q2857518",
+    "Object Date": "ca. 1445",
+    "Object Begin Date": 1440,
+    "Object End Date": 1450,
+    "Medium": "Tempera on wood, gold ground, inscriptions on parchment laid down on wood",
+    "Dimensions": "21 3/4 × 14 7/8 in. (55.2 × 37.8 cm)\r\nFramed: 25 1/8 × 18 3/8 in. (63.8 × 46.7 cm)",
+    "Credit Line": "Robert Lehman Collection, 1975",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/459043",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20188043",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Angels|Christ|Men|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300379004|http://vocab.getty.edu/page/ia/901000087|http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q235113|https://www.wikidata.org/wiki/Q642420|https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/rl/original/DT3071.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/rl/original/ep1975.1.101.bw.R.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/0597.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 165420,
+        "role": "Artist",
+        "name": "Antonio del Massaro da Viterbo",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500029609",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q2857518",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 55.2,
+          "Width": 37.8
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 63.817627,
+          "Width": 46.672592
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Angels",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379004",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q235113"
+      },
+      {
+        "term": "Christ",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+      }
+    ]
+  }
+}

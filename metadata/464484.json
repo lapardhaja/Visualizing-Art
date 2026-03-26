@@ -1,0 +1,111 @@
+{
+  "object_id": 464484,
+  "excel_metadata": {
+    "Object Number": "17.190.515",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 464484,
+    "Gallery Number": null,
+    "Department": "Medieval Art",
+    "AccessionYear": 1917,
+    "Object Name": "Chasse",
+    "Title": "Chasse",
+    "Culture": "French",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": null,
+    "Artist Role": null,
+    "Artist Prefix": null,
+    "Artist Display Name": null,
+    "Artist Display Bio": null,
+    "Artist Suffix": null,
+    "Artist Alpha Sort": null,
+    "Artist Nationality": null,
+    "Artist Begin Date": null,
+    "Artist End Date": null,
+    "Artist Gender": null,
+    "Artist ULAN URL": null,
+    "Artist Wikidata URL": null,
+    "Object Date": "13th century (core); 19th century or later (enamels)",
+    "Object Begin Date": 1200,
+    "Object End Date": 1299,
+    "Medium": "Champlevé enamel, copper-gilt over wood core",
+    "Dimensions": "Overall: 5 1/2 x 6 1/2 x 2 1/2 in. (14 x 16.5 x 6.3 cm)",
+    "Credit Line": "Gift of J. Pierpont Morgan, 1917",
+    "Geography Type": "Made in",
+    "City": "Limoges",
+    "State": null,
+    "County": null,
+    "Country": "France",
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Enamels-Champlevé",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/464484",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Apostles|Crucifixion|Angels|Christ|Virgin Mary",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300343837|http://vocab.getty.edu/page/aat/300404300|http://vocab.getty.edu/page/aat/300379004|http://vocab.getty.edu/page/ia/901000087|http://vocab.getty.edu/page/ia/901000032",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q43412|https://www.wikidata.org/wiki/Q3235597|https://www.wikidata.org/wiki/Q235113|https://www.wikidata.org/wiki/Q642420|https://www.wikidata.org/wiki/Q345"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/md/original/sf17-190-515s6.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/md/original/sf17-190-515s1.jpg",
+      "https://images.metmuseum.org/CRDImages/md/original/sf17-190-515s3.jpg",
+      "https://images.metmuseum.org/CRDImages/md/original/sf17-190-515s4.jpg",
+      "https://images.metmuseum.org/CRDImages/md/original/sf17-190-515s2.jpg",
+      "https://images.metmuseum.org/CRDImages/md/original/sf17-190-515s7.jpg",
+      "https://images.metmuseum.org/CRDImages/md/original/sf17-190-515d1.jpg",
+      "https://images.metmuseum.org/CRDImages/md/original/sf17-190-515d2.jpg",
+      "https://images.metmuseum.org/CRDImages/md/original/sf17-190-515d3.jpg"
+    ],
+    "constituents": null,
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 6.3,
+          "Height": 14,
+          "Width": 16.5
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Angels",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379004",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q235113"
+      },
+      {
+        "term": "Apostles",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300343837",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q43412"
+      },
+      {
+        "term": "Christ",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+      },
+      {
+        "term": "Virgin Mary",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000032",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q345"
+      },
+      {
+        "term": "Crucifixion",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300404300",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3235597"
+      }
+    ]
+  }
+}

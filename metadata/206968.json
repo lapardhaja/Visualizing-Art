@@ -1,0 +1,98 @@
+{
+  "object_id": 206968,
+  "excel_metadata": {
+    "Object Number": "1982.60.53",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 206968,
+    "Gallery Number": 539,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1982,
+    "Object Name": "Commode",
+    "Title": "Commode",
+    "Culture": "French",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 3358,
+    "Artist Role": "Maker",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Claude-Charles Saunier",
+    "Artist Display Bio": "French, 1735–1807",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Saunier, Claude-Charles",
+    "Artist Nationality": "French",
+    "Artist Begin Date": 1735,
+    "Artist End Date": 1807,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500031492",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q2976677",
+    "Object Date": "ca. 1780–90",
+    "Object Begin Date": 1775,
+    "Object End Date": 1795,
+    "Medium": "Oak veneered with ebony, mahogany, rosewood, Japanese lacquer panels, rosso levanto marble, gilt bronze",
+    "Dimensions": "36 1/4 x 41 3/4 x 19 1/4 in. (92.1 x 106 x 48.9cm)",
+    "Credit Line": "The Jack and Belle Linsky Collection, 1982",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Woodwork-Furniture",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/206968",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q116308149",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Birds|Flowers",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300266506|http://vocab.getty.edu/page/aat/300132399",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q5113|https://www.wikidata.org/wiki/Q506"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DT8880.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/232475.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 33582,
+        "role": "Maker",
+        "name": "Claude-Charles Saunier",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500031492",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q2976677",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 48.9,
+          "Height": 92.1,
+          "Width": 106
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Birds",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300266506",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q5113"
+      },
+      {
+        "term": "Flowers",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132399",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q506"
+      }
+    ]
+  }
+}

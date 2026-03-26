@@ -1,0 +1,132 @@
+{
+  "object_id": 437841,
+  "excel_metadata": {
+    "Object Number": "68.182",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 437841,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1968.0,
+    "Object Name": "Painting",
+    "Title": "Saint Margaret of Cortona",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10838.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Gaspare Traversi",
+    "Artist Display Bio": "Italian, Neapolitan, ca. 1722–1770",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Traversi, Gaspare",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1722",
+    "Artist End Date": "1770",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500011841",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q1388163",
+    "Object Date": "ca. 1758",
+    "Object Begin Date": 1753,
+    "Object End Date": 1763,
+    "Medium": "Oil on canvas",
+    "Dimensions": "67 3/4 x 48 1/4 in. (172.1 x 122.6 cm)",
+    "Credit Line": "Gwynne Andrews Fund, 1968",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437841",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912743",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Boys|Women|Saints|Angels|Dogs|Devil|Nuns",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300247598|http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/aat/300150555|http://vocab.getty.edu/page/aat/300379004|http://vocab.getty.edu/page/aat/300265714|http://vocab.getty.edu/page/aat/300379005|http://vocab.getty.edu/page/aat/300025770",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q3010|https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q43115|https://www.wikidata.org/wiki/Q235113|https://www.wikidata.org/wiki/Q144|https://www.wikidata.org/wiki/Q6674|https://www.wikidata.org/wiki/Q191808"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT11449.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-68_182-2.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-68_182-3.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 108387,
+        "role": "Artist",
+        "name": "Gaspare Traversi",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500011841",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1388163",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 8.255,
+          "Height": 199.3904,
+          "Width": 148.5903
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 172.1,
+          "Width": 122.6
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Boys",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300247598",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3010"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Dogs",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300265714",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q144"
+      },
+      {
+        "term": "Angels",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379004",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q235113"
+      },
+      {
+        "term": "Devil",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379005",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q6674"
+      },
+      {
+        "term": "Saints",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300150555",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q43115"
+      },
+      {
+        "term": "Nuns",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025770",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q191808"
+      }
+    ]
+  }
+}

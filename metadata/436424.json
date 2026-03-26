@@ -1,0 +1,100 @@
+{
+  "object_id": 436424,
+  "excel_metadata": {
+    "Object Number": "71.43",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436424,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1871.0,
+    "Object Name": "Painting, possibly an overdoor",
+    "Title": "A Basket and Birds",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10767.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Jan Fyt",
+    "Artist Display Bio": "Flemish, 1611–1661",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Fyt, Jan",
+    "Artist Nationality": "Flemish",
+    "Artist Begin Date": "1611",
+    "Artist End Date": "1661",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500115452",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q624802",
+    "Object Date": NaN,
+    "Object Begin Date": 1631,
+    "Object End Date": 1661,
+    "Medium": "Oil on canvas",
+    "Dimensions": "23 3/4 x 30 1/4 in. (60.3 x 76.8 cm)",
+    "Credit Line": "Purchase, 1871",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436424",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912851",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Birds|Still Life|Baskets",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300266506|http://vocab.getty.edu/page/aat/300015638|http://vocab.getty.edu/page/aat/300194498",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q5113|https://www.wikidata.org/wiki/Q170571|https://www.wikidata.org/wiki/Q201097"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-17488-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 107678,
+        "role": "Artist",
+        "name": "Jan Fyt",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115452",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q624802",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 60.3,
+          "Width": 76.8
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Birds",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300266506",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q5113"
+      },
+      {
+        "term": "Still Life",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015638",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q170571"
+      },
+      {
+        "term": "Baskets",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300194498",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q201097"
+      }
+    ]
+  }
+}

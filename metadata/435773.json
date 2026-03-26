@@ -1,0 +1,109 @@
+{
+  "object_id": 435773,
+  "excel_metadata": {
+    "Object Number": "25.110.66",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 435773,
+    "Gallery Number": 802.0,
+    "Department": "European Paintings",
+    "AccessionYear": 1925.0,
+    "Object Name": "Painting",
+    "Title": "The Weeders",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16315.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Jules Breton",
+    "Artist Display Bio": "French, Courrières 1827–1906 Paris",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Breton, Jules",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1827",
+    "Artist End Date": "1906",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500008344",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q282043",
+    "Object Date": "1868",
+    "Object Begin Date": 1868,
+    "Object End Date": 1868,
+    "Medium": "Oil on canvas",
+    "Dimensions": "28 1/8 x 50 1/4 in. (71.4 x 127.6 cm)",
+    "Credit Line": "Bequest of Collis P. Huntington, 1900",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/435773",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19905401",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Women|Farms|Working",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/aat/300000206|http://vocab.getty.edu/page/aat/300412186",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q131596|https://www.wikidata.org/wiki/Q6958747"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT2155.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 163159,
+        "role": "Artist",
+        "name": "Jules Breton",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500008344",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q282043",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 71.4,
+          "Width": 127.6
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 10.16,
+          "Height": 89.8527,
+          "Width": 144.1453
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Farms",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300000206",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q131596"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Working",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300412186",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q6958747"
+      }
+    ]
+  }
+}

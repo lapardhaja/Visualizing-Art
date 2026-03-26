@@ -1,0 +1,113 @@
+{
+  "object_id": 459104,
+  "excel_metadata": {
+    "Object Number": "1975.1.183",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 459104,
+    "Gallery Number": 957.0,
+    "Department": "Robert Lehman Collection",
+    "AccessionYear": 1975.0,
+    "Object Name": "Painting",
+    "Title": "Fir Trees in Les Trembleaux, near Marlotte (Sapins aux Trembleaux à Marlotte)",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16197.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Henri-Joseph Harpignies",
+    "Artist Display Bio": "French, Valenciennes 1819–1916 Saint-Privé",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Harpignies, Henri-Joseph",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1819",
+    "Artist End Date": "1916",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500010008",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q187496",
+    "Object Date": "1854",
+    "Object Begin Date": 1854,
+    "Object End Date": 1854,
+    "Medium": "Oil on canvas",
+    "Dimensions": "16 1/4 x 12 5/8 in. (41.3 x 32.1 cm)",
+    "Credit Line": "Robert Lehman Collection, 1975",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/459104",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20182214",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Landscapes|Boys",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300132294|http://vocab.getty.edu/page/aat/300247598",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q191163|https://www.wikidata.org/wiki/Q3010"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/rl/original/DP-34477-001.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/rl/original/DP-34477-002.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/2153.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/DT3121.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/ep1975.1.183.bw.R.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 161976,
+        "role": "Artist",
+        "name": "Henri-Joseph Harpignies",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500010008",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q187496",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 65.08763,
+          "Width": 56.197613
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 41.3,
+          "Width": 32.1
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Boys",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300247598",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3010"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Landscapes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+      }
+    ]
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "object_id": 459080,
+  "excel_metadata": {
+    "Object Number": "1975.1.138",
+    "Is Highlight": true,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 459080,
+    "Gallery Number": 953.0,
+    "Department": "Robert Lehman Collection",
+    "AccessionYear": 1975.0,
+    "Object Name": "Painting",
+    "Title": "Erasmus of Rotterdam",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16199.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Hans Holbein the Younger",
+    "Artist Display Bio": "German, Augsburg 1497/98–1543 London",
+    "Artist Suffix": "(and Workshop(?))",
+    "Artist Alpha Sort": "Holbein, Hans, the Younger",
+    "Artist Nationality": "German",
+    "Artist Begin Date": "1497",
+    "Artist End Date": "1543",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500005259",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q48319",
+    "Object Date": "ca. 1532",
+    "Object Begin Date": 1527,
+    "Object End Date": 1537,
+    "Medium": "Oil on linden panel",
+    "Dimensions": "7 1/4 x 5 9/16 in. (18.4 x 14.2 cm); painted surface 6 15/16 x 5 1/2 in. (17.6 x 14 cm)",
+    "Credit Line": "Robert Lehman Collection, 1975",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/459080",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20181435",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/rl/original/DP164857.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/rl/original/ep1975.1.138.bw.R.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/Holbein_Erasmus_IRR_1975.1.138_Full image.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/1127.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/DT3098.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 161994,
+        "role": "Artist",
+        "name": "Hans Holbein the Younger",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500005259",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q48319",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 18.4,
+          "Width": 14.2
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

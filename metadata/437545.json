@@ -1,0 +1,95 @@
+{
+  "object_id": 437545,
+  "excel_metadata": {
+    "Object Number": "65.181.10",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437545,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1965.0,
+    "Object Name": "Painting",
+    "Title": "Landscape with a Village in the Distance",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16235.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Jacob van Ruisdael",
+    "Artist Display Bio": "Dutch, Haarlem 1628/29–1682 Amsterdam",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Ruisdael, Jacob van",
+    "Artist Nationality": "Dutch",
+    "Artist Begin Date": "1628",
+    "Artist End Date": "1682",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500027077",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q213612",
+    "Object Date": "1646",
+    "Object Begin Date": 1646,
+    "Object End Date": 1646,
+    "Medium": "Oil on wood",
+    "Dimensions": "30 x 43 in. (76.2 x 109.2 cm)",
+    "Credit Line": "Bequest of Adele L. Lehman, in memory of Arthur Lehman, 1965",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437545",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19905162",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Villages|Landscapes",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300008372|http://vocab.getty.edu/page/aat/300132294",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q532|https://www.wikidata.org/wiki/Q191163"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP145939.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162354,
+        "role": "Artist",
+        "name": "Jacob van Ruisdael",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500027077",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q213612",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 76.2,
+          "Width": 109.2
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Villages",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300008372",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q532"
+      },
+      {
+        "term": "Landscapes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+      }
+    ]
+  }
+}

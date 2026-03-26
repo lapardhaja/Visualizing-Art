@@ -1,0 +1,104 @@
+{
+  "object_id": 12601,
+  "excel_metadata": {
+    "Object Number": "43.51",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 12601,
+    "Gallery Number": NaN,
+    "Department": "The American Wing",
+    "AccessionYear": 1943.0,
+    "Object Name": "Painting",
+    "Title": "Hannah Pemberton",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16535.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "John Smibert",
+    "Artist Display Bio": "American, Edinburgh, Scotland 1688–1751 Boston, Massachusetts",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Smibert, John",
+    "Artist Nationality": "American, Scottish",
+    "Artist Begin Date": "1688",
+    "Artist End Date": "1751",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500006043",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q3182482",
+    "Object Date": "1734",
+    "Object Begin Date": 1734,
+    "Object End Date": 1734,
+    "Medium": "Oil on canvas",
+    "Dimensions": "30 x 25 in. (76.2 x 63.5 cm)",
+    "Credit Line": "Rogers Fund, 1943",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/12601",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19925087",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Portraits|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/ap43.51.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 165357,
+        "role": "Artist",
+        "name": "John Smibert",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500006043",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3182482",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 76.2,
+          "Width": 63.5
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 7.3,
+          "Height": 92.5,
+          "Width": 80
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

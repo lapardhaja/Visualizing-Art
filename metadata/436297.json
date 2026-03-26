@@ -1,0 +1,112 @@
+{
+  "object_id": 436297,
+  "excel_metadata": {
+    "Object Number": "1995.91",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436297,
+    "Gallery Number": 809.0,
+    "Department": "European Paintings",
+    "AccessionYear": 1995.0,
+    "Object Name": "Painting",
+    "Title": "Self-Portrait",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16558.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Henri Fantin-Latour",
+    "Artist Display Bio": "French, Grenoble 1836–1904 Buré",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Fantin-Latour, Henri",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1836",
+    "Artist End Date": "1904",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500025754",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q310715",
+    "Object Date": "ca. 1858",
+    "Object Begin Date": 1856,
+    "Object End Date": 1904,
+    "Medium": "Oil on canvas, laid down on canvas",
+    "Dimensions": "Overall 10 3/8 x 8 3/8 in. (26.4 x 21.3 cm); original canvas 10 x 7 7/8 in. (25.4 x 20 cm)",
+    "Credit Line": "Catharine Lorillard Wolfe Collection, Wolfe Fund, 1995",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436297",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19913239",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Self-portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300124534",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q192110"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT1979.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 165587,
+        "role": "Artist",
+        "name": "Henri Fantin-Latour",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500025754",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q310715",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 26.4,
+          "Width": 21.3
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 5.397511,
+          "Height": 40.64008,
+          "Width": 35.24257
+        }
+      },
+      {
+        "elementName": "Rabbet",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 27.305054,
+          "Width": 21.590044
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Self-portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300124534",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q192110"
+      }
+    ]
+  }
+}

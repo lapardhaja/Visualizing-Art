@@ -1,0 +1,104 @@
+{
+  "object_id": 436914,
+  "excel_metadata": {
+    "Object Number": "65.14.2",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436914,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1965.0,
+    "Object Name": "Painting",
+    "Title": "Noah",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16208.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Lorenzo Monaco (Piero di Giovanni)",
+    "Artist Display Bio": "Italian, Florence (?) ca. 1370–1425 Florence (?)",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Lorenzo Monaco (Piero di Giovanni)",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1370",
+    "Artist End Date": "1425",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500026261",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q155376",
+    "Object Date": "ca. 1408–10",
+    "Object Begin Date": 1408,
+    "Object End Date": 1410,
+    "Medium": "Tempera on wood, gold ground",
+    "Dimensions": "Overall 25 7/8 x 17 3/8 in. (65.7 x 44.1 cm); painted surface 22 7/8 x 17 in. (58.1 x 43.2 cm)",
+    "Credit Line": "Gwynne Andrews Fund, and Gift of Paul Peralta Ramos, by exchange, 1965",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436914",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19911782",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Noah",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/ia/901000353",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q81422"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-19550-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162080,
+        "role": "Artist",
+        "name": "Lorenzo Monaco (Piero di Giovanni)",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500026261",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q155376",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 65.7,
+          "Width": 44.1
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 10.795,
+          "Height": 74.2951,
+          "Width": 53.9751
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Noah",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000353",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q81422"
+      }
+    ]
+  }
+}

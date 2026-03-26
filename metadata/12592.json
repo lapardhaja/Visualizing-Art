@@ -1,0 +1,96 @@
+{
+  "object_id": 12592,
+  "excel_metadata": {
+    "Object Number": "1984.116.2",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 12592,
+    "Gallery Number": NaN,
+    "Department": "The American Wing",
+    "AccessionYear": 1984.0,
+    "Object Name": "Painting, miniature",
+    "Title": "Portrait of a Baby",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 290.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Henry Colton Shumway",
+    "Artist Display Bio": "1807–1884",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Shumway, Henry Colton",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1807",
+    "Artist End Date": "1884",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500336964",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q16063027",
+    "Object Date": "1833",
+    "Object Begin Date": 1833,
+    "Object End Date": 1833,
+    "Medium": "Watercolor on ivory",
+    "Dimensions": "Sight: H. 2 1/4 in. x 1 7/8 in.  (5.7 x 4.8 cm)",
+    "Credit Line": "Gift of  Alvin and Davida Deutsch, in honor of Kathy Luhrs, 1984",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/12592",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19924716",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Infants|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300189561|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q998|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/ap1984.116.2.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ad/original/233815.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 2901,
+        "role": "Artist",
+        "name": "Henry Colton Shumway",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500336964",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q16063027",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Sight",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 5.08
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Infants",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300189561",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q998"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

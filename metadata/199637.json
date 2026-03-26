@@ -1,0 +1,110 @@
+{
+  "object_id": 199637,
+  "excel_metadata": {
+    "Object Number": "45.60.29",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 199637,
+    "Gallery Number": 544,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1945,
+    "Object Name": "Plaque",
+    "Title": "Aeneas and His Companions Sacrifice to the Gods before the Tomb of his Father, Anchises, in Sicily (Aeneid, Book V)",
+    "Culture": "French, Limoges",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 3893,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Master of the Aeneid",
+    "Artist Display Bio": "active ca. 1530–40",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Master of the Aeneid",
+    "Artist Nationality": " ",
+    "Artist Begin Date": 1525,
+    "Artist End Date": 1545,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500104550",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q18587838",
+    "Object Date": "ca. 1530–35",
+    "Object Begin Date": 1525,
+    "Object End Date": 1540,
+    "Medium": "Painted enamel on copper, partly gilded",
+    "Dimensions": "8 7/8 x 7 7/8 in. (22.5 x 20 cm)",
+    "Credit Line": "Fletcher Fund, 1945",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Enamels",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/199637",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q116310078",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Tombs|Men|Aeneas|Cows|Deer",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300005926|http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/ia/901000142|http://vocab.getty.edu/page/aat/300250120|http://vocab.getty.edu/page/aat/300250308",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q381885|https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q82732|https://www.wikidata.org/wiki/Q830|https://www.wikidata.org/wiki/Q685795"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/ES1357.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 38938,
+        "role": "Artist",
+        "name": "Master of the Aeneid",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500104550",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q18587838",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 22.5,
+          "Width": 20
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Tombs",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300005926",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q381885"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Aeneas",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000142",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q82732"
+      },
+      {
+        "term": "Cows",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250120",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q830"
+      },
+      {
+        "term": "Deer",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250308",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q685795"
+      }
+    ]
+  }
+}

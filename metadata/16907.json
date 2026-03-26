@@ -1,0 +1,100 @@
+{
+  "object_id": 16907,
+  "excel_metadata": {
+    "Object Number": "2001.95",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 16907,
+    "Gallery Number": NaN,
+    "Department": "The American Wing",
+    "AccessionYear": 2001.0,
+    "Object Name": "Painting, miniature",
+    "Title": "Portrait of a Gentleman and His Daughter",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 387.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Francois M. Guyol de Guiran",
+    "Artist Display Bio": "1773/77–1849",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Guyol, de Guiran Francois M.",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1773",
+    "Artist End Date": "1849",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "(not assigned)",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q22667520",
+    "Object Date": "ca. 1805",
+    "Object Begin Date": 1805,
+    "Object End Date": 1805,
+    "Medium": "Watercolor on ivory and painted paper",
+    "Dimensions": "3 1/2 x 4 9/16 in. (8.9 x 11.6 cm)",
+    "Credit Line": "Purchase, Gift of The Chester Dale Collection, by exchange, 2001",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/16907",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19924895",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Girls|Portraits|Fathers",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300247581|http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300025931",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q3031|https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q7565"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DP162123.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 3870,
+        "role": "Artist",
+        "name": "Francois M. Guyol de Guiran",
+        "constituentULAN_URL": "(not assigned)",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q22667520",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 8.89,
+          "Width": 11.5888
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Girls",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300247581",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3031"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Fathers",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025931",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q7565"
+      }
+    ]
+  }
+}

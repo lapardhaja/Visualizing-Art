@@ -1,0 +1,95 @@
+{
+  "object_id": 441111,
+  "excel_metadata": {
+    "Object Number": "2011.9",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 441111,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 2011.0,
+    "Object Name": "Painting",
+    "Title": "Portrait of a Woman (Marianna Panciatichi, marchesa Paolucci delle Roncole, 1835–1919, or her sister-in-law, Beatrice Ferrari-Corbelli di Reggio, contessa di Lucciano)",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16458.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Michele Gordigiani",
+    "Artist Display Bio": "Italian, Florence 1835–1909 Florence",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Gordigiani, Michele",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1835",
+    "Artist End Date": "1909",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500026101",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q1567177",
+    "Object Date": "1864",
+    "Object Begin Date": 1864,
+    "Object End Date": 1864,
+    "Medium": "Oil on canvas",
+    "Dimensions": "25 3/16 x 20 1/2 in. (64 x 52 cm)",
+    "Credit Line": "Purchase, Anne Cox Chambers Gift, 2011",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/441111",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19913182",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Portraits|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP247115.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 164586,
+        "role": "Artist",
+        "name": "Michele Gordigiani",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500026101",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1567177",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Other",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 64,
+          "Width": 52
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

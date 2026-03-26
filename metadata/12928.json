@@ -1,0 +1,98 @@
+{
+  "object_id": 12928,
+  "excel_metadata": {
+    "Object Number": "39.58",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 12928,
+    "Gallery Number": NaN,
+    "Department": "The American Wing",
+    "AccessionYear": 1939.0,
+    "Object Name": "Painting",
+    "Title": "Liberty",
+    "Culture": "Chinese, for American market",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 577.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Chinese Painter",
+    "Artist Display Bio": " ",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Chinese, Painter",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "          ",
+    "Artist End Date": "          ",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": NaN,
+    "Artist Wikidata URL": NaN,
+    "Object Date": "ca. 1800",
+    "Object Begin Date": 1797,
+    "Object End Date": 1800,
+    "Medium": "Oil on glass",
+    "Dimensions": "22 3/4 x 16 1/4 in. (57.8 x 41.3 cm)",
+    "Credit Line": "Rogers Fund, 1939",
+    "Geography Type": "Made in",
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": "China",
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/12928",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q79016331",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Women|Eagles",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/aat/300250049",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q2092297"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DP-35722-001.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ad/original/DP-35722-002.jpg",
+      "https://images.metmuseum.org/CRDImages/ad/original/117995.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 5770,
+        "role": "Artist",
+        "name": "Chinese Painter",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 57.8,
+          "Width": 41.2751
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Eagles",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250049",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q2092297"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

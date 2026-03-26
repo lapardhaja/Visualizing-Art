@@ -1,0 +1,113 @@
+{
+  "object_id": 441233,
+  "excel_metadata": {
+    "Object Number": "2011.75",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 441233,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 2011.0,
+    "Object Name": "Painting",
+    "Title": "The Annunciation",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16275.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Peter Candid (Pieter de Witte, Pietro Candido)",
+    "Artist Display Bio": "Netherlandish, Bruges ca. 1548–1628 Munich",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Candid, Peter (Pieter de Witte, Pietro Candido)",
+    "Artist Nationality": "Netherlandish",
+    "Artist Begin Date": "1548",
+    "Artist End Date": "1628",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500030273",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q315803",
+    "Object Date": "ca. 1585",
+    "Object Begin Date": 1580,
+    "Object End Date": 1590,
+    "Medium": "Oil on wood",
+    "Dimensions": "91 1/4 x 68 1/4 in. (231.8 x 173.3 cm)",
+    "Credit Line": "Gift of Fabrizio Moretti, in honor of Keith Christiansen, 2011",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/441233",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19913540",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Annunciation|Doves|Virgin Mary|Archangel Gabriel",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300412102|http://vocab.getty.edu/page/aat/300250045|http://vocab.getty.edu/page/ia/901000032|http://vocab.getty.edu/page/ia/901000493",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q154326|https://www.wikidata.org/wiki/Q2984138|https://www.wikidata.org/wiki/Q345|https://www.wikidata.org/wiki/Q81989"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-974-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162751,
+        "role": "Artist",
+        "name": "Peter Candid (Pieter de Witte, Pietro Candido)",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500030273",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q315803",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 231.8,
+          "Width": 173.3
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 257.81052,
+          "Width": 198.4
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Doves",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250045",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q2984138"
+      },
+      {
+        "term": "Virgin Mary",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000032",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q345"
+      },
+      {
+        "term": "Archangel Gabriel",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000493",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q81989"
+      },
+      {
+        "term": "Annunciation",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300412102",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q154326"
+      }
+    ]
+  }
+}

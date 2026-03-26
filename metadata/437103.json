@@ -1,0 +1,95 @@
+{
+  "object_id": 437103,
+  "excel_metadata": {
+    "Object Number": "60.94.2",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437103,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1960.0,
+    "Object Name": "Painting",
+    "Title": "Harbor Scene: An English Ship with Sails Loosened Firing a Gun",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16618.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Peter Monamy",
+    "Artist Display Bio": "British, London 1681–1749 London",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Monamy, Peter",
+    "Artist Nationality": "British",
+    "Artist Begin Date": "1681",
+    "Artist End Date": "1749",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500011814",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q2012122",
+    "Object Date": NaN,
+    "Object Begin Date": 1704,
+    "Object End Date": 1749,
+    "Medium": "Oil on canvas",
+    "Dimensions": "48 x 59 in. (121.9 x 149.9 cm)",
+    "Credit Line": "Gift of William P. Clyde, 1960",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437103",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19905351",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Harbors|Ships",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300008678|http://vocab.getty.edu/page/aat/300082981",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q283202|https://www.wikidata.org/wiki/Q11446"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP169404.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 166184,
+        "role": "Artist",
+        "name": "Peter Monamy",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500011814",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q2012122",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 121.9,
+          "Width": 149.9
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Ships",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300082981",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q11446"
+      },
+      {
+        "term": "Harbors",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300008678",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q283202"
+      }
+    ]
+  }
+}

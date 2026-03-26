@@ -1,0 +1,95 @@
+{
+  "object_id": 437596,
+  "excel_metadata": {
+    "Object Number": "1977.383",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 437596,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1977.0,
+    "Object Name": "Painting, drawing",
+    "Title": "The Two Sisters",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16421.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Jean Claude Richard, Abbé de Saint-Non",
+    "Artist Display Bio": "French, Paris 1727–1791 Paris",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Saint-Non, Jean Claude Richard, Abbé de",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1727",
+    "Artist End Date": "1791",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500000840",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q2305074",
+    "Object Date": "1770",
+    "Object Begin Date": 1770,
+    "Object End Date": 1770,
+    "Medium": "Pastel on paper, laid down on canvas",
+    "Dimensions": "31 5/8 x 25 in. (80.3 x 63.5 cm)",
+    "Credit Line": "Gift of Daniel Wildenstein, 1977",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Pastels & Oil Sketches on Paper",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437596",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19911828",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Girls|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300247581|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q3031|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP231082.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 164218,
+        "role": "Artist",
+        "name": "Jean Claude Richard, Abbé de Saint-Non",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500000840",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q2305074",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 80.3,
+          "Width": 63.5
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Girls",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300247581",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3031"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

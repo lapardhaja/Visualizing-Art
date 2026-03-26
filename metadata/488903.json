@@ -1,0 +1,104 @@
+{
+  "object_id": 488903,
+  "excel_metadata": {
+    "Object Number": "56.184.2",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": false,
+    "Object ID": 488903,
+    "Gallery Number": 900.0,
+    "Department": "Modern and Contemporary Art",
+    "AccessionYear": 1956.0,
+    "Object Name": "Painting",
+    "Title": "Jeanne Hébuterne",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16213.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Amedeo Modigliani",
+    "Artist Display Bio": "Italian, Livorno 1884–1920 Paris",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Modigliani, Amedeo",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1884",
+    "Artist End Date": "1920",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500026509",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q120993",
+    "Object Date": "1919",
+    "Object Begin Date": 1919,
+    "Object End Date": 1919,
+    "Medium": "Oil on canvas",
+    "Dimensions": "36 × 28 3/4 in. (91.4 × 73 cm)",
+    "Credit Line": "Gift of Mr. and Mrs. Nate B. Spingold, 1956",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/488903",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q3937583",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Portraits|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ma/original/DT2180.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162130,
+        "role": "Artist",
+        "name": "Amedeo Modigliani",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500026509",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q120993",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 91.4,
+          "Width": 73
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": "Gold wood frame with AR Plexi",
+        "elementMeasurements": {
+          "Depth": 9.525,
+          "Height": 110.1727,
+          "Width": 92.0752
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

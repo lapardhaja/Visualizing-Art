@@ -1,0 +1,120 @@
+{
+  "object_id": 436893,
+  "excel_metadata": {
+    "Object Number": "12.168",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436893,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1912.0,
+    "Object Name": "Painting",
+    "Title": "The Descent from the Cross",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16207.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": "Workshop of",
+    "Artist Display Name": "Filippino Lippi",
+    "Artist Display Bio": "Italian, Prato ca. 1457–1504 Florence",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Lippi, Filippino",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1457",
+    "Artist End Date": "1504",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500018029",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q296265",
+    "Object Date": NaN,
+    "Object Begin Date": 1477,
+    "Object End Date": 1504,
+    "Medium": "Tempera on wood",
+    "Dimensions": "22 x 16 in. (55.9 x 40.6 cm)",
+    "Credit Line": "John Stewart Kennedy Fund, 1912",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436893",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912286",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Skulls|Mary Magdalene|Saint John the Evangelist|Descent from the Cross|Ladders|Christ|Virgin Mary",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300191856|http://vocab.getty.edu/page/ia/901000161|http://vocab.getty.edu/page/ia/901001171|http://vocab.getty.edu/page/ia/901000462|http://vocab.getty.edu/page/aat/300022376|http://vocab.getty.edu/page/ia/901000087|http://vocab.getty.edu/page/ia/901000032",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q13147|https://www.wikidata.org/wiki/Q63070|https://www.wikidata.org/wiki/Q328804|https://www.wikidata.org/wiki/Q13365963|https://www.wikidata.org/wiki/Q168639|https://www.wikidata.org/wiki/Q642420|https://www.wikidata.org/wiki/Q345"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-21983-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162076,
+        "role": "Artist",
+        "name": "Workshop of Filippino Lippi",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500018029",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q296265",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 55.9,
+          "Width": 40.6
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Skulls",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300191856",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q13147"
+      },
+      {
+        "term": "Christ",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+      },
+      {
+        "term": "Mary Magdalene",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000161",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q63070"
+      },
+      {
+        "term": "Saint John the Evangelist",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901001171",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q328804"
+      },
+      {
+        "term": "Virgin Mary",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000032",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q345"
+      },
+      {
+        "term": "Descent from the Cross",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000462",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q13365963"
+      },
+      {
+        "term": "Ladders",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300022376",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q168639"
+      }
+    ]
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "object_id": 437179,
+  "excel_metadata": {
+    "Object Number": "15.30.56",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437179,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1915.0,
+    "Object Name": "Painting",
+    "Title": "Near Penshurst, Kent",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10809.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Patrick Nasmyth",
+    "Artist Display Bio": "British, Edinburgh, Scotland 1787–1831 London",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Nasmyth, Patrick",
+    "Artist Nationality": "British, Scottish",
+    "Artist Begin Date": "1787",
+    "Artist End Date": "1831",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500005417",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q7147317",
+    "Object Date": "1828",
+    "Object Begin Date": 1828,
+    "Object End Date": 1828,
+    "Medium": "Oil on wood",
+    "Dimensions": "27 1/2 x 36 1/4 in. (69.9 x 92.1 cm)",
+    "Credit Line": "Bequest of Maria DeWitt Jesup, from the collection of her husband, Morris K. Jesup, 1914",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437179",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912385",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Landscapes",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300132294",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q191163"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP164787.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 108097,
+        "role": "Artist",
+        "name": "Patrick Nasmyth",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500005417",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q7147317",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 69.9,
+          "Width": 92.1
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Landscapes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+      }
+    ]
+  }
+}

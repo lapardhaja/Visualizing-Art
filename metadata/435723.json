@@ -1,0 +1,105 @@
+{
+  "object_id": 435723,
+  "excel_metadata": {
+    "Object Number": "32.100.12",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 435723,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1932.0,
+    "Object Name": "Painting",
+    "Title": "Barnyard Scene",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16420.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Anthonie van Borssom",
+    "Artist Display Bio": "Dutch, Amsterdam 1630/31–1677 Amsterdam",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Borssom, Anthonie van",
+    "Artist Nationality": "Dutch",
+    "Artist Begin Date": "1631",
+    "Artist End Date": "1677",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500003284",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q572610",
+    "Object Date": "ca. 1650–55",
+    "Object Begin Date": 1650,
+    "Object End Date": 1655,
+    "Medium": "Oil on canvas",
+    "Dimensions": "20 x 27 in. (50.8 x 68.6 cm)",
+    "Credit Line": "The Friedsam Collection, Bequest of Michael Friedsam, 1931",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/435723",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19905182",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Pigs|Women|Cows|Sheep",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300250114|http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/aat/300250120|http://vocab.getty.edu/page/aat/300250284",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q58697|https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q830|https://www.wikidata.org/wiki/Q7368"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP143172.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 164202,
+        "role": "Artist",
+        "name": "Anthonie van Borssom",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500003284",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q572610",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 50.8,
+          "Width": 68.6
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Cows",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250120",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q830"
+      },
+      {
+        "term": "Pigs",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250114",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q58697"
+      },
+      {
+        "term": "Sheep",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250284",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q7368"
+      }
+    ]
+  }
+}

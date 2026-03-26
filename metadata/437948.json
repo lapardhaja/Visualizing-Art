@@ -1,0 +1,105 @@
+{
+  "object_id": 437948,
+  "excel_metadata": {
+    "Object Number": "07.225.296",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437948,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1907.0,
+    "Object Name": "Painting, sketch for a ceiling decoration",
+    "Title": "Allegory of Government: Wisdom Defeating Discord",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16274.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Jacob de Wit",
+    "Artist Display Bio": "Dutch, Amsterdam 1695–1754 Amsterdam",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Wit, Jacob de",
+    "Artist Nationality": "Dutch",
+    "Artist Begin Date": "1695",
+    "Artist End Date": "1754",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500020708",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q3117749",
+    "Object Date": NaN,
+    "Object Begin Date": 1715,
+    "Object End Date": 1754,
+    "Medium": "Oil on canvas",
+    "Dimensions": "20 1/8 x 15 3/8 in. (51.1 x 39.1 cm)",
+    "Credit Line": "Gift of J. Pierpont Morgan, 1906",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437948",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912369",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Clouds|Putti|Sky|Allegory",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300343840|http://vocab.getty.edu/page/aat/300250465|http://vocab.getty.edu/page/aat/300263064|http://vocab.getty.edu/page/aat/300055866",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8074|https://www.wikidata.org/wiki/Q284865|https://www.wikidata.org/wiki/Q527|https://www.wikidata.org/wiki/Q18535"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP145894.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162748,
+        "role": "Artist",
+        "name": "Jacob de Wit",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500020708",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3117749",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 51.1,
+          "Width": 39.1
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Putti",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250465",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q284865"
+      },
+      {
+        "term": "Sky",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300263064",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q527"
+      },
+      {
+        "term": "Clouds",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300343840",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8074"
+      },
+      {
+        "term": "Allegory",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300055866",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q18535"
+      }
+    ]
+  }
+}

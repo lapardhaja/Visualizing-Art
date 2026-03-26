@@ -1,0 +1,94 @@
+{
+  "object_id": 460519,
+  "excel_metadata": {
+    "Object Number": "1975.1.1225",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 460519,
+    "Gallery Number": null,
+    "Department": "Robert Lehman Collection",
+    "AccessionYear": 1975,
+    "Object Name": "Triptych",
+    "Title": "Triptych: The Last Judgment",
+    "Culture": "French",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 16630,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Master of the Orléans Triptych",
+    "Artist Display Bio": "French, active late 15th–early 16th century",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Master of the Orléans Triptych",
+    "Artist Nationality": "French",
+    "Artist Begin Date": 1485,
+    "Artist End Date": 1615,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500005454",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q21995246",
+    "Object Date": "ca. 1500",
+    "Object Begin Date": 1490,
+    "Object End Date": 1510,
+    "Medium": "Painted enamels on copper, partly gilded.",
+    "Dimensions": "Center plaque 25 x 22 cm; left plaque 25 x 10 cm; right plaque 25 x 10 cm",
+    "Credit Line": "Robert Lehman Collection, 1975",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Enamels",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/460519",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20180881",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Last Judgement|Angels|Christ",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901001027|http://vocab.getty.edu/page/aat/300379004|http://vocab.getty.edu/page/ia/901000087",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q1821239|https://www.wikidata.org/wiki/Q235113|https://www.wikidata.org/wiki/Q642420"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/rl/original/SLP1225-1_6635.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/rl/original/SLP1225-1-composited.jpg",
+      "https://images.metmuseum.org/CRDImages/rl/original/SF-1975-1-1225.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 166300,
+        "role": "Artist",
+        "name": "Master of the Orléans Triptych",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500005454",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q21995246",
+        "gender": ""
+      }
+    ],
+    "measurements": null,
+    "tags": [
+      {
+        "term": "Angels",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379004",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q235113"
+      },
+      {
+        "term": "Christ",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000087",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q642420"
+      },
+      {
+        "term": "Last Judgement",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901001027",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q1821239"
+      }
+    ]
+  }
+}

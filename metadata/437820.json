@@ -1,0 +1,104 @@
+{
+  "object_id": 437820,
+  "excel_metadata": {
+    "Object Number": "39.55",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437820,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1939.0,
+    "Object Name": "Painting",
+    "Title": "The Finding of Moses",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16254.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Jacopo Tintoretto (Jacopo Robusti)",
+    "Artist Display Bio": "Italian, Venice 1518/19–1594 Venice",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Tintoretto, Jacopo (Jacopo Robusti)",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1518",
+    "Artist End Date": "1594",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500011407",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q9319",
+    "Object Date": "1560s?",
+    "Object Begin Date": 1560,
+    "Object End Date": 1569,
+    "Medium": "Oil on canvas",
+    "Dimensions": "30 1/2 x 52 3/4 in. (77.5 x 134 cm)",
+    "Credit Line": "Gwynne Andrews Fund, 1939",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437820",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19904843",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Women|Moses",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/ia/901000167",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q9077"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP239507.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 162547,
+        "role": "Artist",
+        "name": "Jacopo Tintoretto (Jacopo Robusti)",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500011407",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q9319",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 77.5,
+          "Width": 134
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 10.16002,
+          "Height": 110.49022,
+          "Width": 166.37033
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Moses",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000167",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q9077"
+      }
+    ]
+  }
+}

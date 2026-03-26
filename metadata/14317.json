@@ -1,0 +1,100 @@
+{
+  "object_id": 14317,
+  "excel_metadata": {
+    "Object Number": "2006.235.177",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 14317,
+    "Gallery Number": NaN,
+    "Department": "The American Wing",
+    "AccessionYear": 2006.0,
+    "Object Name": "Painting, miniature",
+    "Title": "The Starbird Children",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 331.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Mrs. Moses B. Russell (Clarissa Peters)",
+    "Artist Display Bio": "1809–1854",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Russell, Clarissa Peters",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1809",
+    "Artist End Date": "1854",
+    "Artist Gender": "Female",
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500372708",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q22669548",
+    "Object Date": "1841",
+    "Object Begin Date": 1841,
+    "Object End Date": 1841,
+    "Medium": "Watercolor on ivory",
+    "Dimensions": "5 1/16 x 4 1/16 in. (12.8 x 10.4 cm)",
+    "Credit Line": "Gift of Gloria Manney, 2006",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/14317",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19925452",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Girls|Boys|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300247581|http://vocab.getty.edu/page/aat/300247598|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q3031|https://www.wikidata.org/wiki/Q3010|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/APS6687.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 3310,
+        "role": "Artist",
+        "name": "Mrs. Moses B. Russell (Clarissa Peters)",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500372708",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q22669548",
+        "gender": "Female"
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 12.9,
+          "Width": 10.3
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Boys",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300247598",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3010"
+      },
+      {
+        "term": "Girls",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300247581",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3031"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

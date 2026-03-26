@@ -1,0 +1,88 @@
+{
+  "object_id": 465006,
+  "excel_metadata": {
+    "Object Number": "17.191.297",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 465006,
+    "Gallery Number": null,
+    "Department": "Medieval Art",
+    "AccessionYear": 1917,
+    "Object Name": "Finger ring",
+    "Title": "Finger Ring",
+    "Culture": "Frankish",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": null,
+    "Artist Role": null,
+    "Artist Prefix": null,
+    "Artist Display Name": null,
+    "Artist Display Bio": null,
+    "Artist Suffix": null,
+    "Artist Alpha Sort": null,
+    "Artist Nationality": null,
+    "Artist Begin Date": null,
+    "Artist End Date": null,
+    "Artist Gender": null,
+    "Artist ULAN URL": null,
+    "Artist Wikidata URL": null,
+    "Object Date": "7th century",
+    "Object Begin Date": 600,
+    "Object End Date": 699,
+    "Medium": "Copper alloy, glass cabochon",
+    "Dimensions": "Overall: 1 1/8 x 13/16 x 3/8 in. (2.9 x 2 x 1 cm)_x000D_\nbezel: 3/8 x 3/16 in. (1 x 0.4 cm)",
+    "Credit Line": "Gift of J. Pierpont Morgan, 1917",
+    "Geography Type": "Made in",
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": "Northern France",
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Metalwork-Copper alloy",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/465006",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": null,
+    "Tags AAT URL": null,
+    "Tags Wikidata URL": null
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/md/original/sf17-191-297s4.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/md/original/sf17-191-297s1.jpg",
+      "https://images.metmuseum.org/CRDImages/md/original/sf17-191-297s2.jpg",
+      "https://images.metmuseum.org/CRDImages/md/original/sf17-191-297s3.jpg"
+    ],
+    "constituents": null,
+    "measurements": [
+      {
+        "elementName": "Other",
+        "elementDescription": "bezel",
+        "elementMeasurements": {
+          "Depth": 0.4,
+          "Diameter": 1
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 1,
+          "Length": 2.9,
+          "Width": 2
+        }
+      }
+    ],
+    "tags": null
+  }
+}

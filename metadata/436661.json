@@ -1,0 +1,104 @@
+{
+  "object_id": 436661,
+  "excel_metadata": {
+    "Object Number": "50.69.1",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436661,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1950.0,
+    "Object Name": "Painting, miniature",
+    "Title": "William Roper (1493/94–1578)",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16199.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Hans Holbein the Younger",
+    "Artist Display Bio": "German, Augsburg 1497/98–1543 London",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Holbein, Hans, the Younger",
+    "Artist Nationality": "German",
+    "Artist Begin Date": "1497",
+    "Artist End Date": "1543",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500005259",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q48319",
+    "Object Date": "1535–36",
+    "Object Begin Date": 1535,
+    "Object End Date": 1536,
+    "Medium": "Vellum laid on card",
+    "Dimensions": "Diameter 1 3/4 in. (45 mm)",
+    "Credit Line": "Rogers Fund, 1950",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Miniatures",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436661",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19913456",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP331437.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 161994,
+        "role": "Artist",
+        "name": "Hans Holbein the Younger",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500005259",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q48319",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 4.4,
+          "Width": 4.4
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 0.635,
+          "Height": 7.62,
+          "Width": 6.35
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "object_id": 12657,
+  "excel_metadata": {
+    "Object Number": "17.134.6",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 12657,
+    "Gallery Number": NaN,
+    "Department": "The American Wing",
+    "AccessionYear": 1917.0,
+    "Object Name": "Painting, miniature",
+    "Title": "Mrs. Daniel Strobel Jr. (Anna Church)",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 293.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Louisa Catherine Strobel",
+    "Artist Display Bio": "1803–1883",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Strobel, Louisa Catherine",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1803",
+    "Artist End Date": "1883",
+    "Artist Gender": "Female",
+    "Artist ULAN URL": NaN,
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q20925014",
+    "Object Date": "ca. 1830",
+    "Object Begin Date": 1827,
+    "Object End Date": 1830,
+    "Medium": "Watercolor on ivory",
+    "Dimensions": "Sight: 2 3/4 x 2 in. (7 x 5.1 cm)",
+    "Credit Line": "Bequest of Ella Church Strobell, 1917",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/12657",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19923892",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Portraits|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/ap17.134.6.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 2933,
+        "role": "Artist",
+        "name": "Louisa Catherine Strobel",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q20925014",
+        "gender": "Female"
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Sight",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 6.985,
+          "Width": 5.08
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

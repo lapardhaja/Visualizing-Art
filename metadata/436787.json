@@ -1,0 +1,114 @@
+{
+  "object_id": 436787,
+  "excel_metadata": {
+    "Object Number": "1980.203.3",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436787,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1980.0,
+    "Object Name": "Painting",
+    "Title": "The Pont Neuf",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16477.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Johan Barthold Jongkind",
+    "Artist Display Bio": "Dutch, Latrop 1819–1891 La-Côte-Saint-André",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Jongkind, Johan Barthold",
+    "Artist Nationality": "Dutch",
+    "Artist Begin Date": "1819",
+    "Artist End Date": "1891",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500028269",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q704585",
+    "Object Date": "1849–50",
+    "Object Begin Date": 1849,
+    "Object End Date": 1850,
+    "Medium": "Oil on canvas",
+    "Dimensions": "21 1/2 x 32 1/8 in. (54.6 x 81.6 cm)",
+    "Credit Line": "Gift of Mr. and Mrs. Walter Mendelsohn, 1980",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436787",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912643",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Bridges|Rivers|Boats|Paris",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300386855|http://vocab.getty.edu/page/aat/300008707|http://vocab.getty.edu/page/aat/300178749|http://vocab.getty.edu/page/tgn/7008038",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q12280|https://www.wikidata.org/wiki/Q4022|https://www.wikidata.org/wiki/Q35872|https://www.wikidata.org/wiki/Q90"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP319656.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 164779,
+        "role": "Artist",
+        "name": "Johan Barthold Jongkind",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500028269",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q704585",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 54.610107,
+          "Width": 81.597664
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 6.985014,
+          "Height": 78.74016,
+          "Width": 102.87021
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Bridges",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300386855",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q12280"
+      },
+      {
+        "term": "Rivers",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300008707",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q4022"
+      },
+      {
+        "term": "Boats",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300178749",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q35872"
+      },
+      {
+        "term": "Paris",
+        "AAT_URL": "http://vocab.getty.edu/page/tgn/7008038",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q90"
+      }
+    ]
+  }
+}

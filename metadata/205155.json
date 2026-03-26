@@ -1,0 +1,89 @@
+{
+  "object_id": 205155,
+  "excel_metadata": {
+    "Object Number": "69.292.1",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 205155,
+    "Gallery Number": 551,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1969,
+    "Object Name": "Bookcase ",
+    "Title": "Bookcase (one of a pair)",
+    "Culture": "Italian, Rome",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 9201,
+    "Artist Role": "Designer",
+    "Artist Prefix": "Design attributed to the architect",
+    "Artist Display Name": "Niccolo Michetti",
+    "Artist Display Bio": "Italian, died 1759",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Michetti, Niccolo",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": 1759,
+    "Artist End Date": 1759,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500019631",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q1383123",
+    "Object Date": "ca. 1715",
+    "Object Begin Date": 1710,
+    "Object End Date": 1720,
+    "Medium": "Walnut and poplar; iron hinges and locks, metal wire; antique silk and linen brocatelle door curtains (not original)",
+    "Dimensions": "Overall: 159 x 24 x 94 in. (403.9 x 61 x 238.8 cm)",
+    "Credit Line": "Gift of Madame Lilliana Teruzzi, 1969",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Woodwork-Furniture",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/205155",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q116306219",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": null,
+    "Tags AAT URL": null,
+    "Tags Wikidata URL": null
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP106709.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/DP106710.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP106711.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP106712.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 92017,
+        "role": "Designer",
+        "name": "Design attributed to the architect Niccolo Michetti",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500019631",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1383123",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 238.8,
+          "Height": 403.9,
+          "Width": 61
+        }
+      }
+    ],
+    "tags": null
+  }
+}

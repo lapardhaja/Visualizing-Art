@@ -1,0 +1,95 @@
+{
+  "object_id": 13499,
+  "excel_metadata": {
+    "Object Number": "2008.69",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 13499,
+    "Gallery Number": 774.0,
+    "Department": "The American Wing",
+    "AccessionYear": 2008.0,
+    "Object Name": "Painting",
+    "Title": "Mrs. Charles Cummings (Rebecca Pittard)",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16457.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Henry Inman",
+    "Artist Display Bio": "American, Utica, New York 1801–1846 New York",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Inman, Henry",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1801",
+    "Artist End Date": "1846",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500021656",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q3132855",
+    "Object Date": "ca. 1825",
+    "Object Begin Date": 1822,
+    "Object End Date": 1825,
+    "Medium": "Oil on canvas",
+    "Dimensions": "30 x 25 in. (76.2 x 63.5 cm)",
+    "Credit Line": "Maria DeWitt Jesup Fund, 2008",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/13499",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19924121",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Portraits|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/SFcs54d.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 164576,
+        "role": "Artist",
+        "name": "Henry Inman",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500021656",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3132855",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 76.2,
+          "Width": 63.5
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

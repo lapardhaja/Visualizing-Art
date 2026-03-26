@@ -1,0 +1,109 @@
+{
+  "object_id": 10771,
+  "excel_metadata": {
+    "Object Number": "17.66",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 10771,
+    "Gallery Number": NaN,
+    "Department": "The American Wing",
+    "AccessionYear": 1917.0,
+    "Object Name": "Painting",
+    "Title": "Spring Landscape",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16388.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Thomas Doughty",
+    "Artist Display Bio": "American, Philadelphia, Pennsylvania 1793–1856 New York",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Doughty, Thomas",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1793",
+    "Artist End Date": "1856",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500031561",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q284954",
+    "Object Date": "ca. 1853–56",
+    "Object Begin Date": 1850,
+    "Object End Date": 1856,
+    "Medium": "Oil on canvas",
+    "Dimensions": "44 x 62 in. (111.8 x 157.5 cm)",
+    "Credit Line": "Gift of George F. Shelton and Mrs. F. H. Markoe, in memory of their father, Theodore B. Shelton, 1917",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/10771",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19924351",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Waterfalls|Hills|Landscapes",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300008736|http://vocab.getty.edu/page/aat/300008777|http://vocab.getty.edu/page/aat/300132294",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q34038|https://www.wikidata.org/wiki/Q54050|https://www.wikidata.org/wiki/Q191163"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/ap17.66.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 163882,
+        "role": "Artist",
+        "name": "Thomas Doughty",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500031561",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q284954",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 111.8,
+          "Width": 157.5
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 14.2,
+          "Height": 145.2,
+          "Width": 191.2
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Waterfalls",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300008736",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q34038"
+      },
+      {
+        "term": "Hills",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300008777",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q54050"
+      },
+      {
+        "term": "Landscapes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+      }
+    ]
+  }
+}

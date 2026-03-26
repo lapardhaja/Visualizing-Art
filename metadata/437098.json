@@ -1,0 +1,109 @@
+{
+  "object_id": 437098,
+  "excel_metadata": {
+    "Object Number": "1983.446",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437098,
+    "Gallery Number": 802.0,
+    "Department": "European Paintings",
+    "AccessionYear": 1983.0,
+    "Object Name": "Painting",
+    "Title": "Shepherdess Seated on a Rock",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16490.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Jean-François Millet",
+    "Artist Display Bio": "French, Gruchy 1814–1875 Barbizon",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Millet, Jean-François",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1814",
+    "Artist End Date": "1875",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500012529",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q148458",
+    "Object Date": "1856",
+    "Object Begin Date": 1856,
+    "Object End Date": 1856,
+    "Medium": "Oil on wood",
+    "Dimensions": "14 1/8 x 11 1/8 in. (35.9 x 28.3 cm)",
+    "Credit Line": "Gift of Douglas Dillon, 1983",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437098",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q7494497",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Women|Shepherds|Knitting",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/aat/300025617|http://vocab.getty.edu/page/aat/300053634",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q81710|https://www.wikidata.org/wiki/Q29048022"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP140429.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 164909,
+        "role": "Artist",
+        "name": "Jean-François Millet",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500012529",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q148458",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 35.9,
+          "Width": 28.3
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 6.35,
+          "Height": 48.8951,
+          "Width": 40.6401
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Shepherds",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025617",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q81710"
+      },
+      {
+        "term": "Knitting",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300053634",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q29048022"
+      }
+    ]
+  }
+}

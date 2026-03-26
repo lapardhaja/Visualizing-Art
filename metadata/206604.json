@@ -1,0 +1,87 @@
+{
+  "object_id": 206604,
+  "excel_metadata": {
+    "Object Number": "1977.102.8",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 206604,
+    "Gallery Number": 527,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1977,
+    "Object Name": "Side table",
+    "Title": "Side table (commode servante or commode desserte)",
+    "Culture": "French, Paris",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 3412,
+    "Artist Role": "Maker",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Jean Henri Riesener",
+    "Artist Display Bio": "French, Gladbeck, North Rhine-Westphalia 1734–1806 Paris",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Riesener, Jean Henri",
+    "Artist Nationality": "French",
+    "Artist Begin Date": 1734,
+    "Artist End Date": 1806,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500024826",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q69566",
+    "Object Date": "ca. 1790",
+    "Object Begin Date": 1785,
+    "Object End Date": 1795,
+    "Medium": "Oak, pine, mahogany, and mahogany veneer; gilt-bronze mounts; Carrara marble top and shelf",
+    "Dimensions": "H. 36 in. (91.4 cm.), W. 44-5/8 in. (113.3 cm.), D. 16-1/4 in. (41.3 cm.)",
+    "Credit Line": "Gift of Mr. and Mrs. Charles Wrightsman, 1977",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Woodwork-Furniture",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/206604",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q116310183",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": null,
+    "Tags AAT URL": null,
+    "Tags Wikidata URL": null
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP222903.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/DP214176.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 34120,
+        "role": "Maker",
+        "name": "Jean Henri Riesener",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500024826",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q69566",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 41.3,
+          "Height": 91.4,
+          "Width": 113.3
+        }
+      }
+    ],
+    "tags": null
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "object_id": 19524,
+  "excel_metadata": {
+    "Object Number": "2007.281.4",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 19524,
+    "Gallery Number": 774.0,
+    "Department": "The American Wing",
+    "AccessionYear": 2007.0,
+    "Object Name": "Painting",
+    "Title": "Self-Portrait",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 284.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Theodore Robinson",
+    "Artist Display Bio": "1852–1896",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Robinson, Theodore",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1852",
+    "Artist End Date": "1896",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500004025",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q1384543",
+    "Object Date": "ca. 1884–87",
+    "Object Begin Date": 1881,
+    "Object End Date": 1887,
+    "Medium": "Oil on canvas",
+    "Dimensions": "13 1/4 x 10 1/4 in. (33.7 x 26 cm)",
+    "Credit Line": "Gift of Margaret and Raymond J. Horowitz, 2007",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/19524",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19930524",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Self-portraits|Reading",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300124534|http://vocab.getty.edu/page/aat/300248178",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q192110|https://www.wikidata.org/wiki/Q199657"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/SFcs32532007.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 2844,
+        "role": "Artist",
+        "name": "Theodore Robinson",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500004025",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1384543",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 5.08,
+          "Height": 48.8951,
+          "Width": 42.5451
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 33.6551,
+          "Width": 26.0351
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Self-portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300124534",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q192110"
+      },
+      {
+        "term": "Reading",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300248178",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q199657"
+      }
+    ]
+  }
+}

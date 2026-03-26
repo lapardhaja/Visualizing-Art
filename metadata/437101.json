@@ -1,0 +1,104 @@
+{
+  "object_id": 437101,
+  "excel_metadata": {
+    "Object Number": "1993.2",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437101,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1993.0,
+    "Object Name": "Painting",
+    "Title": "The Rest on the Flight into Egypt",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16418.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Pier Francesco Mola",
+    "Artist Display Bio": "Italian, Coldrerio 1612–1666 Rome",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Mola, Pier Francesco",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1612",
+    "Artist End Date": "1666",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500025440",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q1192715",
+    "Object Date": NaN,
+    "Object Begin Date": 1632,
+    "Object End Date": 1666,
+    "Medium": "Oil on copper",
+    "Dimensions": "9 x 11 in. (22.9 x 27.9 cm)",
+    "Credit Line": "Wrightsman Fund, 1993",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437101",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19905350",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Donkeys|Holy Family|Angels",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300265959|http://vocab.getty.edu/page/ia/901001175|http://vocab.getty.edu/page/aat/300379004",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q3537778|https://www.wikidata.org/wiki/Q618057|https://www.wikidata.org/wiki/Q235113"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP116165.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/SF mola.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-1993_20-2.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-1993_20-3.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 164188,
+        "role": "Artist",
+        "name": "Pier Francesco Mola",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500025440",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1192715",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 22.9,
+          "Width": 27.9
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Donkeys",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300265959",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3537778"
+      },
+      {
+        "term": "Angels",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379004",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q235113"
+      },
+      {
+        "term": "Holy Family",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901001175",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q618057"
+      }
+    ]
+  }
+}

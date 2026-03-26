@@ -1,0 +1,95 @@
+{
+  "object_id": 436620,
+  "excel_metadata": {
+    "Object Number": "26.101.11",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 436620,
+    "Gallery Number": 964.0,
+    "Department": "European Paintings",
+    "AccessionYear": 1926.0,
+    "Object Name": "Painting",
+    "Title": "Paulus Verschuur (1606–1667)",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16197.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Frans Hals",
+    "Artist Display Bio": "Dutch, Antwerp 1582/83–1666 Haarlem",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Hals, Frans",
+    "Artist Nationality": "Dutch",
+    "Artist Begin Date": "1582",
+    "Artist End Date": "1666",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500027794",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q167654",
+    "Object Date": "1643",
+    "Object Begin Date": 1643,
+    "Object End Date": 1643,
+    "Medium": "Oil on canvas",
+    "Dimensions": "46 3/4 x 37 in. (118.7 x 94 cm)",
+    "Credit Line": "Gift of Archer M. Huntington, in memory of his father, Collis Potter Huntington, 1926",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436620",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q17426156",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP146480.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 161974,
+        "role": "Artist",
+        "name": "Frans Hals",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500027794",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q167654",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 118.7,
+          "Width": 94
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

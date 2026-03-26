@@ -1,0 +1,106 @@
+{
+  "object_id": 438546,
+  "excel_metadata": {
+    "Object Number": "2002.31",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 438546,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 2002.0,
+    "Object Name": "Painting",
+    "Title": "Madame Charles Maurice de Talleyrand Périgord (1761–1835)",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16357.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "baron François Gérard",
+    "Artist Display Bio": "French, Rome 1770–1837 Paris",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Gérard, François, baron",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1770",
+    "Artist End Date": "1837",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500115453",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q163543",
+    "Object Date": "ca. 1804",
+    "Object Begin Date": 1799,
+    "Object End Date": 1809,
+    "Medium": "Oil on canvas",
+    "Dimensions": "88 7/8 x 64 7/8 in. (225.7 x 164.8 cm)",
+    "Credit Line": "Wrightsman Fund, 2002",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/438546",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19905488",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Portraits|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300015637|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q134307|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-417-001.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-2002_31-2.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-2002_31-3.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 163574,
+        "role": "Artist",
+        "name": "baron François Gérard",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115453",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q163543",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 225.743,
+          "Width": 164.7828
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 265.43054,
+          "Width": 199.3904
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

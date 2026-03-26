@@ -1,0 +1,104 @@
+{
+  "object_id": 200365,
+  "excel_metadata": {
+    "Object Number": "48.187.403a, b",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 200365,
+    "Gallery Number": 522,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1948,
+    "Object Name": "Broth bowl with cover (écuelle)",
+    "Title": "Broth bowl with cover (écuelle)",
+    "Culture": "French, Bordeaux",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 3377,
+    "Artist Role": "Maker",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Gabriel Tillet",
+    "Artist Display Bio": "1677–1757, master 1703, retired 1756",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Tillet Gabriel",
+    "Artist Nationality": " ",
+    "Artist Begin Date": 1677,
+    "Artist End Date": 1757,
+    "Artist Gender": null,
+    "Artist ULAN URL": null,
+    "Artist Wikidata URL": null,
+    "Object Date": "1724–25",
+    "Object Begin Date": 1724,
+    "Object End Date": 1725,
+    "Medium": "Silver",
+    "Dimensions": "Overall: 4 1/8 × 7 1/8 × 12 in. (10.5 × 18.1 × 30.5 cm)",
+    "Credit Line": "Bequest of Catherine D. Wentworth, 1948",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Metalwork-Silver",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/200365",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q116310337",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Insignia",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300028725",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q552345"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/142992.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/143108.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/143109.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/143110.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/143111.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/143112.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 33779,
+        "role": "Maker",
+        "name": "Gabriel Tillet",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Other",
+        "elementDescription": "historic dimension",
+        "elementMeasurements": {
+          "Weight": 0.90728664
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 30.48006,
+          "Height": 10.477521,
+          "Width": 18.097536
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Insignia",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300028725",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q552345"
+      }
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "object_id": 207070,
+  "excel_metadata": {
+    "Object Number": "1982.60.172a, b, .173",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 207070,
+    "Gallery Number": 538,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1982,
+    "Object Name": "Cup with cover and saucer",
+    "Title": "Cup with cover and saucer",
+    "Culture": "Russian, St. Petersburg",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 3521,
+    "Artist Role": "Manufactory",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Imperial Porcelain Manufactory, St. Petersburg",
+    "Artist Display Bio": "Russian, 1744–present",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Imperial Porcelain Manufactory, St. Petersburg",
+    "Artist Nationality": "Russian",
+    "Artist Begin Date": 1744,
+    "Artist End Date": 9999,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500331504",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q1303887",
+    "Object Date": "ca. 1760",
+    "Object Begin Date": 1755,
+    "Object End Date": 1765,
+    "Medium": "Hard-paste porcelain",
+    "Dimensions": "Cup (.172ab): H. 3-7/8 in. (9.8 cm.); Saucer (.173): Diam. 5-5/16 in. (13.5 cm.)",
+    "Credit Line": "The Jack and Belle Linsky Collection, 1982",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Ceramics-Porcelain",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/207070",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q116307498",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Flowers",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300132399",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q506"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/ES4585.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 35211,
+        "role": "Manufactory",
+        "name": "Imperial Porcelain Manufactory, St. Petersburg",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500331504",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1303887",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Other",
+        "elementDescription": "saucer",
+        "elementMeasurements": {
+          "Diameter": 13.5
+        }
+      },
+      {
+        "elementName": "Other",
+        "elementDescription": "covered cup",
+        "elementMeasurements": {
+          "Height": 9.8
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Flowers",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132399",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q506"
+      }
+    ]
+  }
+}

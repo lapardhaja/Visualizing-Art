@@ -1,0 +1,114 @@
+{
+  "object_id": 10966,
+  "excel_metadata": {
+    "Object Number": "02.7.2",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 10966,
+    "Gallery Number": NaN,
+    "Department": "The American Wing",
+    "AccessionYear": 1902.0,
+    "Object Name": "Painting",
+    "Title": "The Greek Lovers",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16458.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Henry Peters Gray",
+    "Artist Display Bio": "American, New York 1819–1877 New York",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Gray, Henry Peters",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1819",
+    "Artist End Date": "1877",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500008708",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q9002959",
+    "Object Date": "1846",
+    "Object Begin Date": 1846,
+    "Object End Date": 1846,
+    "Medium": "Oil on canvas",
+    "Dimensions": "40 1/4 x 51 1/2 in. (102.2 x 130.8 cm)",
+    "Credit Line": "Gift of William Church Osborn, 1902",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/10966",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19925647",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Musical Instruments|Men|Lovers|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300041620|http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300188621|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q34379|https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q219160|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/ap02.7.2.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 164581,
+        "role": "Artist",
+        "name": "Henry Peters Gray",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500008708",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q9002959",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 102.2,
+          "Width": 130.8
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 17.5,
+          "Height": 130,
+          "Width": 158.8
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Musical Instruments",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300041620",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q34379"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Lovers",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300188621",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q219160"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

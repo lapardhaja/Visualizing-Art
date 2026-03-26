@@ -1,0 +1,87 @@
+{
+  "object_id": 205497,
+  "excel_metadata": {
+    "Object Number": "1972.284.2",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 205497,
+    "Gallery Number": 525,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1972,
+    "Object Name": "Commode ",
+    "Title": "Commode (one of a pair)",
+    "Culture": "French",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 3399,
+    "Artist Role": "Maker",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Jacques Dubois",
+    "Artist Display Bio": "French, 1694–1763",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Dubois, Jacques",
+    "Artist Nationality": "French",
+    "Artist Begin Date": 1694,
+    "Artist End Date": 1763,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500246048",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q55420751",
+    "Object Date": "ca. 1755",
+    "Object Begin Date": 1750,
+    "Object End Date": 1760,
+    "Medium": "Oak, veneered with tulipwood, purplewood, kingwood and sycamore; gilt-bronze mounts, brèche d'Alep marble top",
+    "Dimensions": "H. 35-3/8 x W. 54-5/16 x D. 25-1/16 in.  (89.9 x 138.0 x 63.7 cm)",
+    "Credit Line": "Gift of Mr. and Mrs. Charles Wrightsman, 1972",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Woodwork-Furniture",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/205497",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q116242490",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": null,
+    "Tags AAT URL": null,
+    "Tags Wikidata URL": null
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/198914.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/198916.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 33993,
+        "role": "Maker",
+        "name": "Jacques Dubois",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500246048",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q55420751",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 63.7,
+          "Height": 89.9,
+          "Width": 138
+        }
+      }
+    ],
+    "tags": null
+  }
+}

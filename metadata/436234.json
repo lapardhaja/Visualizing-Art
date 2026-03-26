@@ -1,0 +1,95 @@
+{
+  "object_id": 436234,
+  "excel_metadata": {
+    "Object Number": "62.122.106",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 436234,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1962.0,
+    "Object Name": "Painting, miniature",
+    "Title": "Portrait of an Officer",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10866.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Andrew Dunn",
+    "Artist Display Bio": "Irish, active ca. 1800–1820",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Dunn, Andrew",
+    "Artist Nationality": "Irish",
+    "Artist Begin Date": "1800",
+    "Artist End Date": "1820",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500023640",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q20119940",
+    "Object Date": NaN,
+    "Object Begin Date": 1800,
+    "Object End Date": 1820,
+    "Medium": "Ivory",
+    "Dimensions": "Oval, 2 5/8 x 2 1/8 in. (67 x 55 mm)",
+    "Credit Line": "Bequest of Millie Bruhl Fredrick, 1962",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Miniatures",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436234",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19914049",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/175599.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 108668,
+        "role": "Artist",
+        "name": "Andrew Dunn",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500023640",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q20119940",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 6.7,
+          "Width": 5.4
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

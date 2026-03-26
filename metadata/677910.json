@@ -1,0 +1,112 @@
+{
+  "object_id": 677910,
+  "excel_metadata": {
+    "Object Number": "2015.118",
+    "Is Highlight": true,
+    "Is Timeline Work": false,
+    "Is Public Domain": false,
+    "Object ID": 677910,
+    "Gallery Number": 762.0,
+    "Department": "The American Wing",
+    "AccessionYear": 2015.0,
+    "Object Name": "Painting",
+    "Title": "Untitled (Cracked Watermelon)",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 18254.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Charles Ethan Porter",
+    "Artist Display Bio": "1847–1923",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Porter, Charles Ethan",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1847",
+    "Artist End Date": "1923",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500122066",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q5077434",
+    "Object Date": "ca. 1890",
+    "Object Begin Date": 1885,
+    "Object End Date": 1895,
+    "Medium": "Oil on canvas",
+    "Dimensions": "19 1/8 × 28 3/16 in. (48.6 × 71.6 cm)",
+    "Credit Line": "Purchase, Nancy Dunn Revocable Trust Gift, 2015",
+    "Geography Type": "Made in",
+    "City": "Hartford",
+    "State": NaN,
+    "County": NaN,
+    "Country": "United States",
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/677910",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19925323",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Still Life|Fruit",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300015638|http://vocab.getty.edu/page/aat/300011868",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q170571|https://www.wikidata.org/wiki/Q1364"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DP348567.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 182548,
+        "role": "Artist",
+        "name": "Charles Ethan Porter",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500122066",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5077434",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Sight",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 46.990093,
+          "Width": 70.16764
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 48.5776,
+          "Width": 71.59639
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 10.16002,
+          "Height": 66.99264,
+          "Width": 90.17018
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Fruit",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300011868",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q1364"
+      },
+      {
+        "term": "Still Life",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015638",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q170571"
+      }
+    ]
+  }
+}

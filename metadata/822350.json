@@ -1,0 +1,92 @@
+{
+  "object_id": 822350,
+  "excel_metadata": {
+    "Object Number": "2019.283.3a, b",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 822350,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 2019,
+    "Object Name": "Drop-front secretaire",
+    "Title": "Drop-front secretaire (secrétaire à abattant)",
+    "Culture": "French",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 20757,
+    "Artist Role": "Maker",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Jean-François Dubut",
+    "Artist Display Bio": "French, died 1778",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Dubut, Jean-François",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "          ",
+    "Artist End Date": 1778,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500033736",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q97340273",
+    "Object Date": "ca. 1760",
+    "Object Begin Date": 1755,
+    "Object End Date": 1765,
+    "Medium": "Veneered on oak, in front with panels of black and gold lacquer, partly Chinese and partly European, and on the sides with floral marquetry in tulipwood, rosewood, satinwood, purplewood, and various other end-cut woods; mounts of gilded and chased bronze; top of breche d'Aleps marble",
+    "Dimensions": "confirmed: 47 5/16 × 26 1/4 × 11 1/2 in. (120.2 × 66.7 × 29.2 cm)",
+    "Credit Line": "Bequest of Mrs. Charles Wrightsman, 2019",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Woodwork-Furniture",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/822350",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": null,
+    "Tags AAT URL": null,
+    "Tags Wikidata URL": null
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP-20703-054.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/DP-20703-005.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP-20703-006.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP-20703-055.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP-20703-061.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP-20703-057.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP-20703-056.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 207575,
+        "role": "Maker",
+        "name": "Jean-François Dubut",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500033736",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q97340273",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": "confirmed",
+        "elementMeasurements": {
+          "Depth": 29.210058,
+          "Height": 120.2,
+          "Width": 66.67513
+        }
+      }
+    ],
+    "tags": null
+  }
+}

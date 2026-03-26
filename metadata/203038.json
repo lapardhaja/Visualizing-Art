@@ -1,0 +1,97 @@
+{
+  "object_id": 203038,
+  "excel_metadata": {
+    "Object Number": "64.101.26",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 203038,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1964,
+    "Object Name": "Figure",
+    "Title": "Quetzal (one of a pair)",
+    "Culture": "German, Meissen",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 16202016483,
+    "Artist Role": "Modeler|Manufactory",
+    "Artist Prefix": " | ",
+    "Artist Display Name": "Johann Joachim Kändler|Meissen Manufactory",
+    "Artist Display Bio": "German, Fischbach 1706–1775 Meissen|German, 1710–present",
+    "Artist Suffix": " | ",
+    "Artist Alpha Sort": "Kändler, Johann Joachim|Meissen Manufactory",
+    "Artist Nationality": "German|German",
+    "Artist Begin Date": "1706      |1710      ",
+    "Artist End Date": "1775      |9999      ",
+    "Artist Gender": "|",
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500001959|http://vocab.getty.edu/page/ulan/500054662",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q73593|https://www.wikidata.org/wiki/Q822407",
+    "Object Date": 1733,
+    "Object Begin Date": 1733,
+    "Object End Date": 1733,
+    "Medium": "Hard-paste porcelain, gilt bronze",
+    "Dimensions": "Height: 11 in. (27.9 cm)",
+    "Credit Line": "Gift of Irwin Untermyer, 1964",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Ceramics-Porcelain",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/203038",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Birds",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300266506",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q5113"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/ES1925.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 164832,
+        "role": "Manufactory",
+        "name": "Meissen Manufactory",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500054662",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q822407",
+        "gender": ""
+      },
+      {
+        "constituentID": 162020,
+        "role": "Modeler",
+        "name": "Johann Joachim Kändler",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500001959",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q73593",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Height",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 27.940056
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Birds",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300266506",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q5113"
+      }
+    ]
+  }
+}

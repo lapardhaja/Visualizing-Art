@@ -1,0 +1,126 @@
+{
+  "object_id": 11133,
+  "excel_metadata": {
+    "Object Number": "22.207",
+    "Is Highlight": true,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 11133,
+    "Gallery Number": 762.0,
+    "Department": "The American Wing",
+    "AccessionYear": 1922.0,
+    "Object Name": "Painting",
+    "Title": "Prisoners from the Front",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16199.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Winslow Homer",
+    "Artist Display Bio": "American, Boston, Massachusetts 1836–1910 Prouts Neck, Maine",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Homer, Winslow",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1836",
+    "Artist End Date": "1910",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500019202",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q344838",
+    "Object Date": "1866",
+    "Object Begin Date": 1866,
+    "Object End Date": 1866,
+    "Medium": "Oil on canvas",
+    "Dimensions": "24 x 38in. (61 x 96.5cm)\r\nFramed: 36 1/2 × 50 5/8 × 4 1/2 in. (92.7 × 128.6 × 11.4 cm)",
+    "Credit Line": "Gift of Mrs. Frank B. Porter, 1922",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/11133",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q12141828",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "American Civil War|Soldiers|Prisoners|Men",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901000030|http://vocab.getty.edu/page/aat/300185678|http://vocab.getty.edu/page/aat/300025933|http://vocab.getty.edu/page/aat/300025928",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8676|https://www.wikidata.org/wiki/Q4991371|https://www.wikidata.org/wiki/Q1862087|https://www.wikidata.org/wiki/Q8441"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DT83.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ad/original/Homer_PrisonersFromTheFront.jpg",
+      "https://images.metmuseum.org/CRDImages/ad/original/DP-21444-001.jpg",
+      "https://images.metmuseum.org/CRDImages/ad/original/DP-21444-002.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 161996,
+        "role": "Artist",
+        "name": "Winslow Homer",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500019202",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q344838",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 11.430023,
+          "Height": 92.71018,
+          "Width": 128.6
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 61,
+          "Width": 96.5
+        }
+      },
+      {
+        "elementName": "Glazing",
+        "elementDescription": "when needed",
+        "elementMeasurements": {
+          "Height": 61.436375,
+          "Width": 97.1552
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Soldiers",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300185678",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q4991371"
+      },
+      {
+        "term": "Prisoners",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025933",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q1862087"
+      },
+      {
+        "term": "American Civil War",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000030",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8676"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      }
+    ]
+  }
+}

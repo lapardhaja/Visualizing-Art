@@ -1,0 +1,120 @@
+{
+  "object_id": 435918,
+  "excel_metadata": {
+    "Object Number": "71.19",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 435918,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1871.0,
+    "Object Name": "Painting",
+    "Title": "Vanitas Still Life",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10751.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Edwaert Collier",
+    "Artist Display Bio": "Dutch, Breda ca. 1640?–after 1707 London or Leiden",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Collier, Edwaert",
+    "Artist Nationality": "Dutch",
+    "Artist Begin Date": "1640",
+    "Artist End Date": "1707",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500008569",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q781137",
+    "Object Date": "1662",
+    "Object Begin Date": 1662,
+    "Object End Date": 1662,
+    "Medium": "Oil on wood",
+    "Dimensions": "37 x 44 1/8 in. (94 x 112.1 cm)",
+    "Credit Line": "Purchase, 1871",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/435918",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912667",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Books|Jewelry|Skulls|Music|Violins|Still Life|Globes",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300028051|http://vocab.getty.edu/page/aat/300209286|http://vocab.getty.edu/page/aat/300191856|http://vocab.getty.edu/page/aat/300435214|http://vocab.getty.edu/page/aat/300042215|http://vocab.getty.edu/page/aat/300015638|http://vocab.getty.edu/page/aat/300028089",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q571|https://www.wikidata.org/wiki/Q161439|https://www.wikidata.org/wiki/Q13147|https://www.wikidata.org/wiki/Q638|https://www.wikidata.org/wiki/Q8355|https://www.wikidata.org/wiki/Q170571|https://www.wikidata.org/wiki/Q133792"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP146494.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 107518,
+        "role": "Artist",
+        "name": "Edwaert Collier",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500008569",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q781137",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 94,
+          "Width": 112.1
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Books",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300028051",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q571"
+      },
+      {
+        "term": "Jewelry",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300209286",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q161439"
+      },
+      {
+        "term": "Skulls",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300191856",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q13147"
+      },
+      {
+        "term": "Music",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300435214",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q638"
+      },
+      {
+        "term": "Violins",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300042215",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8355"
+      },
+      {
+        "term": "Still Life",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015638",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q170571"
+      },
+      {
+        "term": "Globes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300028089",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q133792"
+      }
+    ]
+  }
+}

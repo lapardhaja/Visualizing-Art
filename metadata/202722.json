@@ -1,0 +1,92 @@
+{
+  "object_id": 202722,
+  "excel_metadata": {
+    "Object Number": "63.42.5a, b",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 202722,
+    "Gallery Number": 532,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1963,
+    "Object Name": "Box",
+    "Title": "Box (part of a set)",
+    "Culture": "French, Lorraine (Nancy)",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 17549,
+    "Artist Role": "Maker",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Nicolas François Foulon",
+    "Artist Display Bio": "French, Nancy 1628–1698 Nancy",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Foulon, Nicolas François",
+    "Artist Nationality": "French",
+    "Artist Begin Date": 1628,
+    "Artist End Date": 1698,
+    "Artist Gender": null,
+    "Artist ULAN URL": null,
+    "Artist Wikidata URL": null,
+    "Object Date": "late 17th–early 18th century",
+    "Object Begin Date": 1685,
+    "Object End Date": 1715,
+    "Medium": "Fruitwood (bois de Sainte-Lucie)",
+    "Dimensions": "2 1/4 × 4 11/16 in. (5.7 × 11.9 cm)",
+    "Credit Line": "Gift of Rosenberg and Stiebel Inc., 1963",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Woodwork-Furniture",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/202722",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q116399820",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Birds",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300266506",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q5113"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/177086.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/ES5033.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 175494,
+        "role": "Maker",
+        "name": "Nicolas François Foulon",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 5.7150116,
+          "Width": 11.906274
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Birds",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300266506",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q5113"
+      }
+    ]
+  }
+}

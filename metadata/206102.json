@@ -1,0 +1,95 @@
+{
+  "object_id": 206102,
+  "excel_metadata": {
+    "Object Number": "1974.356.586",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 206102,
+    "Gallery Number": null,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1974,
+    "Object Name": "Group",
+    "Title": "Monkey riding a dog",
+    "Culture": "French, Mennecy",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 3824,
+    "Artist Role": "Factory",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Mennecy",
+    "Artist Display Bio": " ",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Mennecy",
+    "Artist Nationality": " ",
+    "Artist Begin Date": "          ",
+    "Artist End Date": "          ",
+    "Artist Gender": null,
+    "Artist ULAN URL": null,
+    "Artist Wikidata URL": null,
+    "Object Date": "ca. 1745–50",
+    "Object Begin Date": 1740,
+    "Object End Date": 1755,
+    "Medium": "Soft-paste porcelain",
+    "Dimensions": "6 3/16 × 4 3/4 in. (15.7 × 12.1 cm)",
+    "Credit Line": "The Lesley and Emma Sheafer Collection, Bequest of Emma A. Sheafer, 1973",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Ceramics-Porcelain",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/206102",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Dogs|Monkeys",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300265714|http://vocab.getty.edu/page/aat/300250028",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q144|https://www.wikidata.org/wiki/Q1367"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/ES2501.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 38245,
+        "role": "Factory",
+        "name": "Mennecy",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 15.716282,
+          "Width": 12.065024
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Dogs",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300265714",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q144"
+      },
+      {
+        "term": "Monkeys",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300250028",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q1367"
+      }
+    ]
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "object_id": 847023,
+  "excel_metadata": {
+    "Object Number": "2021.10.1",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 847023,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 2021.0,
+    "Object Name": "Painting",
+    "Title": "The Return of Persephone",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10791.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Frederic, Lord Leighton",
+    "Artist Display Bio": "British, Scarborough 1830–1896 London",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Leighton, Frederic, Lord",
+    "Artist Nationality": "British",
+    "Artist Begin Date": "1830",
+    "Artist End Date": "1896",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500030022",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q160252",
+    "Object Date": "ca. 1890–91",
+    "Object Begin Date": 1890,
+    "Object End Date": 1891,
+    "Medium": "Oil on canvas",
+    "Dimensions": "10 5/16 × 7 7/8 in. (26.2 × 20 cm)",
+    "Credit Line": "Bequest of James David Draper, from the Robert Isaacson Collection, 2019",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/847023",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q111730093",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Demeter|Hermes|Persephone|Mythology",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901000683|http://vocab.getty.edu/page/ia/901000721|http://vocab.getty.edu/page/ia/901001949|http://vocab.getty.edu/page/aat/300055985",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q40730|https://www.wikidata.org/wiki/Q41484|https://www.wikidata.org/wiki/Q45967|https://www.wikidata.org/wiki/Q9134"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-21913-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 107910,
+        "role": "Artist",
+        "name": "Frederic, Lord Leighton",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500030022",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q160252",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 26.2,
+          "Width": 20
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Mythology",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300055985",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q9134"
+      },
+      {
+        "term": "Hermes",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000721",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q41484"
+      },
+      {
+        "term": "Persephone",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901001949",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q45967"
+      },
+      {
+        "term": "Demeter",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000683",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q40730"
+      }
+    ]
+  }
+}

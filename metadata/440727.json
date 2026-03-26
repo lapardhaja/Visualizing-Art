@@ -1,0 +1,120 @@
+{
+  "object_id": 440727,
+  "excel_metadata": {
+    "Object Number": "2009.285",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 440727,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 2009.0,
+    "Object Name": "Painting",
+    "Title": "German Landscape with View towards a Broad Valley",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 12697.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Fritz Petzholdt",
+    "Artist Display Bio": "Danish, Copenhagen 1805–1838 Patras",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Petzholdt, Fritz",
+    "Artist Nationality": "Danish",
+    "Artist Begin Date": "1805",
+    "Artist End Date": "1838",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500020837",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q3432084",
+    "Object Date": "ca. 1829–30",
+    "Object Begin Date": 1824,
+    "Object End Date": 1834,
+    "Medium": "Oil on paper, laid down on canvas",
+    "Dimensions": "Original paper support: 5 3/16 x 9 11/16 in. (13.2 x 24.6 cm)\r\nPaper support mounted on stretched canvas: 5 13/16 x 10 1/4 in. (14.8 x 26 cm)",
+    "Credit Line": "Gift of Wheelock Whitney III, in honor of Eugene V. Thaw, 2009",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/440727",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19912665",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Mountains|Landscapes",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300008795|http://vocab.getty.edu/page/aat/300132294",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8502|https://www.wikidata.org/wiki/Q191163"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP212416.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 126973,
+        "role": "Artist",
+        "name": "Fritz Petzholdt",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500020837",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3432084",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": "Paper support mounted on stretched canvas",
+        "elementMeasurements": {
+          "Height": 14.76378,
+          "Width": 26.035051
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": "Original paper support",
+        "elementMeasurements": {
+          "Height": 14.76378,
+          "Width": 24.606298
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 4.7625093,
+          "Height": 22.225044,
+          "Width": 33.655067
+        }
+      },
+      {
+        "elementName": "Glazing",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 14.92253,
+          "Width": 26.352552
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Mountains",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300008795",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8502"
+      },
+      {
+        "term": "Landscapes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+      }
+    ]
+  }
+}

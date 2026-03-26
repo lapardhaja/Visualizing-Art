@@ -1,0 +1,131 @@
+{
+  "object_id": 193834,
+  "excel_metadata": {
+    "Object Number": "17.190.1152",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 193834,
+    "Gallery Number": NaN,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1917.0,
+    "Object Name": "Snuffbox, painting",
+    "Title": "Snuffbox with six scenes of country pastimes",
+    "Culture": "French, Paris",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 1.6554716556216388e+16,
+    "Artist Role": "Artist|Artist|Maker",
+    "Artist Prefix": "Miniatures by|and|Box by",
+    "Artist Display Name": "Louis Nicolas van Blarenberghe|Henri Joseph van Blarenberghe|Pierre François Drais",
+    "Artist Display Bio": "French, Lille 1716–1794 Fontainebleau|French, Lille 1750–1826 Lille|French, 1726–ca. 1788",
+    "Artist Suffix": " | | ",
+    "Artist Alpha Sort": "Blarenberghe, Louis Nicolas van|Blarenberghe, Henri Joseph van|Drais, Pierre François",
+    "Artist Nationality": "French|French|French",
+    "Artist Begin Date": "1716      |1750      |1726      ",
+    "Artist End Date": "1794      |1826      |1793      ",
+    "Artist Gender": "||",
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500030954|http://vocab.getty.edu/page/ulan/500020237|http://vocab.getty.edu/page/ulan/500077714",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q15967927|https://www.wikidata.org/wiki/Q16038756|https://www.wikidata.org/wiki/Q56810260",
+    "Object Date": "1774–75",
+    "Object Begin Date": 1774,
+    "Object End Date": 1775,
+    "Medium": "Gold, glass; miniatures: gouache on vellum",
+    "Dimensions": "Overall (confirmed): 1 3/8 x 3 3/8 x 2 1/2 in. (3.5 x 8.5 x 6.4 cm); Miniaitures: Top, oval, 2 1/8 x 3 in. (53 x 74 mm); bottom, oval, 2 1/8 x 3 in. (53 x 74 mm); front 3/4 x 1 7/8 in. (21 x 48 mm); back 3/4 x 1 7/8 in. (21 x 48 mm); left side 3/4 x 1 7/8 in. (21 x 48 mm); right side 3/4 x 1 7/8 in. (21 x 48 mm)",
+    "Credit Line": "Gift of J. Pierpont Morgan, 1917",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Metalwork-Gold and Platinum|Miniatures",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/193834",
+    "Object Wikidata URL": NaN,
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Women|Party|Crowd",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300025943|http://vocab.getty.edu/page/aat/300069614| ",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q467|https://www.wikidata.org/wiki/Q200538|https://www.wikidata.org/wiki/Q13430821"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP211754.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/DP211755.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP211752.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP211753.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP328631.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP328633.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP328632.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP328634.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/213741.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 163870,
+        "role": "Maker",
+        "name": "Box by Pierre François Drais",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500077714",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q56810260",
+        "gender": ""
+      },
+      {
+        "constituentID": 165547,
+        "role": "Artist",
+        "name": "Miniatures by Louis Nicolas van Blarenberghe",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500030954",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q15967927",
+        "gender": ""
+      },
+      {
+        "constituentID": 165562,
+        "role": "Artist",
+        "name": "and Henri Joseph van Blarenberghe",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500020237",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q16038756",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": "confirmed",
+        "elementMeasurements": {
+          "Depth": 6.35,
+          "Height": 3.4798,
+          "Width": 8.5344
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Party",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300069614",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q200538"
+      },
+      {
+        "term": "Crowd",
+        "AAT_URL": null,
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q13430821"
+      }
+    ]
+  }
+}

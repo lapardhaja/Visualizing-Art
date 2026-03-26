@@ -1,0 +1,106 @@
+{
+  "object_id": 11395,
+  "excel_metadata": {
+    "Object Number": "1974.33",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 11395,
+    "Gallery Number": NaN,
+    "Department": "The American Wing",
+    "AccessionYear": 1974.0,
+    "Object Name": "Painting",
+    "Title": "The Golden State Entering New York Harbor",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 267.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Fitz Henry Lane (formerly Fitz Hugh Lane)",
+    "Artist Display Bio": "1804–1865",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Lane, Fitz Henry",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1804",
+    "Artist End Date": "1865",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500007673",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q462404",
+    "Object Date": "1854",
+    "Object Begin Date": 1854,
+    "Object End Date": 1854,
+    "Medium": "Oil on canvas",
+    "Dimensions": "26 x 48 in. (66 x 122 cm)",
+    "Credit Line": "Purchase, Gift of Hanson K. Corning, by exchange, and Morris K. Jesup and Maria DeWitt Jesup Funds, 1974",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/11395",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20170053",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Boats|Ships",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300178749|http://vocab.getty.edu/page/aat/300082981",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q35872|https://www.wikidata.org/wiki/Q11446"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DT1548.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ad/original/260193.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 2676,
+        "role": "Artist",
+        "name": "Fitz Henry Lane (formerly Fitz Hugh Lane)",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500007673",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q462404",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 66,
+          "Width": 121.9
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 8.5,
+          "Height": 82,
+          "Width": 138
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Boats",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300178749",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q35872"
+      },
+      {
+        "term": "Ships",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300082981",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q11446"
+      }
+    ]
+  }
+}

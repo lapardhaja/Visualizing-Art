@@ -1,0 +1,123 @@
+{
+  "object_id": 435852,
+  "excel_metadata": {
+    "Object Number": "1994.142",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 435852,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1994.0,
+    "Object Name": "Painting",
+    "Title": "Two Children Teasing a Cat",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16174.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Annibale Carracci",
+    "Artist Display Bio": "Italian, Bologna 1560–1609 Rome",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Carracci, Annibale",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1560",
+    "Artist End Date": "1609",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500115350",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q7824",
+    "Object Date": NaN,
+    "Object Begin Date": 1587,
+    "Object End Date": 1588,
+    "Medium": "Oil on canvas",
+    "Dimensions": "26 x 35 in. (66 x 88.9 cm)",
+    "Credit Line": "Purchase, Gwynne Andrews Fund, and Bequests of Collis P. Huntington and Ogden Mills, by exchange, 1994",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/435852",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q17629102",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Boys|Girls|Cats|Crayfish",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300247598|http://vocab.getty.edu/page/aat/300247581|http://vocab.getty.edu/page/aat/300265960| ",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q3010|https://www.wikidata.org/wiki/Q3031|https://www.wikidata.org/wiki/Q146|https://www.wikidata.org/wiki/Q1211742"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP243404.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/DP120570.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/SF carracci cat.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/SF carracci ear.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/SF carracci shoulder.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/SF carracci sleeve.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/SF carracci collar.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-1994_142-2.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-1994_142-3.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 161748,
+        "role": "Artist",
+        "name": "Annibale Carracci",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500115350",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q7824",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 66,
+          "Width": 88.9
+        }
+      },
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 6.35,
+          "Height": 94.6152,
+          "Width": 116.8402
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Boys",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300247598",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3010"
+      },
+      {
+        "term": "Girls",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300247581",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3031"
+      },
+      {
+        "term": "Cats",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300265960",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q146"
+      },
+      {
+        "term": "Crayfish",
+        "AAT_URL": null,
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q1211742"
+      }
+    ]
+  }
+}

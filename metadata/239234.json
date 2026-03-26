@@ -1,0 +1,113 @@
+{
+  "object_id": 239234,
+  "excel_metadata": {
+    "Object Number": 2013.35,
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 239234,
+    "Gallery Number": 516,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 2013,
+    "Object Name": "Group",
+    "Title": "Thetis Transporting Arms for Achilles",
+    "Culture": "British",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 4735,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "William Theed the Elder",
+    "Artist Display Bio": "British, 1764–1817",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Theed, William the Elder",
+    "Artist Nationality": "British",
+    "Artist Begin Date": 1764,
+    "Artist End Date": 1817,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500010652",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q16847913",
+    "Object Date": "ca. 1804–12",
+    "Object Begin Date": 1799,
+    "Object End Date": 1817,
+    "Medium": "Bronze",
+    "Dimensions": "weight in inner crate with struts: 50 3/8 × 56 5/16 × 47 1/4 in., 728 lb. (128 × 143 × 120 cm, 330.2 kg)",
+    "Credit Line": "Purchase, Assunta Sommella Peluso, Ignazio Peluso, Ada Peluso and Romano I. Peluso Gift, 2013",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Sculpture-Bronze",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/239234",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q116401382",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Sadness|Men|Women",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300055166|http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300025943",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q169251|https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q467"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP321689.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/DP324092.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP324093.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP324084.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP324085.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP324086.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP324087.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP324088.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP324089.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP324090.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/DP324091.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 47353,
+        "role": "Artist",
+        "name": "William Theed the Elder",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500010652",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q16847913",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": "weight in inner crate with struts",
+        "elementMeasurements": {
+          "Depth": 120.01524,
+          "Height": 127.95276,
+          "Weight": 330.21863,
+          "Width": 143.03404
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Sadness",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300055166",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q169251"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      }
+    ]
+  }
+}

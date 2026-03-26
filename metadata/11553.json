@@ -1,0 +1,119 @@
+{
+  "object_id": 11553,
+  "excel_metadata": {
+    "Object Number": "54.90.183",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 11553,
+    "Gallery Number": NaN,
+    "Department": "The American Wing",
+    "AccessionYear": 1954.0,
+    "Object Name": "Painting",
+    "Title": "Old Brewery, Five Points Mission, New York",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 273.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "F. A. Mead",
+    "Artist Display Bio": " ",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Mead, F. A.",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "          ",
+    "Artist End Date": "          ",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "(not assigned)",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q22687958",
+    "Object Date": "1870",
+    "Object Begin Date": 1870,
+    "Object End Date": 1870,
+    "Medium": "Oil on canvas",
+    "Dimensions": "18 x 26 in. (45.7 x 66 cm)",
+    "Credit Line": "The Edward W. C. Arnold Collection of New York Prints, Maps, and Pictures, Bequest of Edward W. C. Arnold, 1954",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/11553",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20172478",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "New York City|Human Figures|Factories|Cities|Roads",
+    "Tags AAT URL": "http://vocab.getty.edu/page/tgn/7007567|http://vocab.getty.edu/page/aat/300404114|http://vocab.getty.edu/page/aat/300006232|http://vocab.getty.edu/page/aat/300008389|http://vocab.getty.edu/page/aat/300008217",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q60|https://www.wikidata.org/wiki/Q5937779|https://www.wikidata.org/wiki/Q83405|https://www.wikidata.org/wiki/Q515|https://www.wikidata.org/wiki/Q34442"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/ap54.90.183.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 2730,
+        "role": "Artist",
+        "name": "F. A. Mead",
+        "constituentULAN_URL": "(not assigned)",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q22687958",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 8.89,
+          "Height": 65.1,
+          "Width": 85.4
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 45.7,
+          "Width": 66
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Human Figures",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300404114",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q5937779"
+      },
+      {
+        "term": "Factories",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300006232",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q83405"
+      },
+      {
+        "term": "Cities",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300008389",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q515"
+      },
+      {
+        "term": "Roads",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300008217",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q34442"
+      },
+      {
+        "term": "New York City",
+        "AAT_URL": "http://vocab.getty.edu/page/tgn/7007567",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q60"
+      }
+    ]
+  }
+}

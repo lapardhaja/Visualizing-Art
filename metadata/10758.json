@@ -1,0 +1,95 @@
+{
+  "object_id": 10758,
+  "excel_metadata": {
+    "Object Number": "31.61",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 10758,
+    "Gallery Number": NaN,
+    "Department": "The American Wing",
+    "AccessionYear": 1931.0,
+    "Object Name": "Painting, miniature",
+    "Title": "Portrait of a Gentleman",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 247.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Daniel Dickinson",
+    "Artist Display Bio": "1795–1877",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Dickinson, Daniel",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1795",
+    "Artist End Date": "1877",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500032801",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q20879492",
+    "Object Date": "1820–22",
+    "Object Begin Date": 1820,
+    "Object End Date": 1822,
+    "Medium": "Watercolor on ivory in red leatherette case with green velvet lining",
+    "Dimensions": "3 1/4 x 2 3/4 in. (8.3 x 7 cm)",
+    "Credit Line": "Maria DeWitt Jesup Fund, 1931",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/10758",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q20176126",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/ap31.61.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 2470,
+        "role": "Artist",
+        "name": "Daniel Dickinson",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500032801",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q20879492",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 8.3,
+          "Width": 6.985
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "object_id": 437290,
+  "excel_metadata": {
+    "Object Number": "07.201",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 437290,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1907.0,
+    "Object Name": "Painting",
+    "Title": "Madonna and Child with Angels",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10816.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Pietro di Domenico da Montepulciano",
+    "Artist Display Bio": "Italian, Marchigian, active first quarter 15th century",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Pietro di Domenico da Montepulciano",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1400",
+    "Artist End Date": "1424",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500017015",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q3388216",
+    "Object Date": "1420",
+    "Object Begin Date": 1420,
+    "Object End Date": 1420,
+    "Medium": "Tempera on wood, gold ground",
+    "Dimensions": "Overall, with engaged frame, 34 5/8 x 26 1/4 in. (87.9 x 66.7 cm); painted surface 30 5/8 x 22 1/4 in. (77.8 x 56.5 cm)",
+    "Credit Line": "Rogers Fund, 1907",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437290",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19911568",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Madonna and Child|Musical Instruments|Harps|Mandolins|Angels|Virgin Mary",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901000052|http://vocab.getty.edu/page/aat/300041620|http://vocab.getty.edu/page/aat/300042047|http://vocab.getty.edu/page/aat/300042135|http://vocab.getty.edu/page/aat/300379004|http://vocab.getty.edu/page/ia/901000032",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q9309699|https://www.wikidata.org/wiki/Q34379|https://www.wikidata.org/wiki/Q47369|https://www.wikidata.org/wiki/Q302497|https://www.wikidata.org/wiki/Q235113|https://www.wikidata.org/wiki/Q345"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-19500-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 108168,
+        "role": "Artist",
+        "name": "Pietro di Domenico da Montepulciano",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500017015",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q3388216",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 87.9,
+          "Width": 66.7
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Musical Instruments",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300041620",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q34379"
+      },
+      {
+        "term": "Harps",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300042047",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q47369"
+      },
+      {
+        "term": "Mandolins",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300042135",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q302497"
+      },
+      {
+        "term": "Angels",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300379004",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q235113"
+      },
+      {
+        "term": "Madonna and Child",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000052",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q9309699"
+      },
+      {
+        "term": "Virgin Mary",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901000032",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q345"
+      }
+    ]
+  }
+}

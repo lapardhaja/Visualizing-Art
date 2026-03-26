@@ -1,0 +1,104 @@
+{
+  "object_id": 10767,
+  "excel_metadata": {
+    "Object Number": "17.36",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 10767,
+    "Gallery Number": NaN,
+    "Department": "The American Wing",
+    "AccessionYear": 1917.0,
+    "Object Name": "Painting",
+    "Title": "Windflowers",
+    "Culture": "American",
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16361.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Ruger Donoho",
+    "Artist Display Bio": "American, Church Hill, Mississippi 1858–1916 New York",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Donoho, Ruger",
+    "Artist Nationality": "American",
+    "Artist Begin Date": "1858",
+    "Artist End Date": "1916",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500184081",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q16059151",
+    "Object Date": "1912",
+    "Object Begin Date": 1912,
+    "Object End Date": 1912,
+    "Medium": "Oil on canvas",
+    "Dimensions": "30 x 36 in. (76.2 x 91.4 cm)",
+    "Credit Line": "Rogers Fund, 1917",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": NaN,
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/10767",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19924645",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Landscapes|Flowers",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300132294|http://vocab.getty.edu/page/aat/300132399",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q191163|https://www.wikidata.org/wiki/Q506"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DP161216.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 163615,
+        "role": "Artist",
+        "name": "Ruger Donoho",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500184081",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q16059151",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Framed",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 9.5,
+          "Height": 94.6,
+          "Width": 110.5
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 76.2,
+          "Width": 91.4
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Flowers",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132399",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q506"
+      },
+      {
+        "term": "Landscapes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+      }
+    ]
+  }
+}

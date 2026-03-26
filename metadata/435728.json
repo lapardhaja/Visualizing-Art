@@ -1,0 +1,102 @@
+{
+  "object_id": 435728,
+  "excel_metadata": {
+    "Object Number": "14.40.642",
+    "Is Highlight": true,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 435728,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1914.0,
+    "Object Name": "Painting",
+    "Title": "The Last Communion of Saint Jerome",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16170.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Botticelli (Alessandro di Mariano Filipepi)",
+    "Artist Display Bio": "Italian, Florence 1444/45–1510 Florence",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Botticelli (Alessandro di Mariano Filipepi)",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1444",
+    "Artist End Date": "1510",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500015254",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q5669",
+    "Object Date": "early 1490s",
+    "Object Begin Date": 1490,
+    "Object End Date": 1493,
+    "Medium": "Tempera and gold on wood",
+    "Dimensions": "13 1/2 x 10 in. (34.3 x 25.4 cm)",
+    "Credit Line": "Bequest of Benjamin Altman, 1913",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/435728",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q3208203",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Saint Jerome|Monks|Crucifixion",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ulan/500060933|http://vocab.getty.edu/page/aat/300025765|http://vocab.getty.edu/page/aat/300404300",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q44248|https://www.wikidata.org/wiki/Q733786|https://www.wikidata.org/wiki/Q3235597"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-24049-001.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/LC-14_40_642-2.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 161701,
+        "role": "Artist",
+        "name": "Botticelli (Alessandro di Mariano Filipepi)",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500015254",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5669",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 34.3,
+          "Width": 25.4
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Saint Jerome",
+        "AAT_URL": "http://vocab.getty.edu/page/ulan/500060933",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q44248"
+      },
+      {
+        "term": "Monks",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025765",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q733786"
+      },
+      {
+        "term": "Crucifixion",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300404300",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q3235597"
+      }
+    ]
+  }
+}

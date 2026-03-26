@@ -1,0 +1,100 @@
+{
+  "object_id": 436982,
+  "excel_metadata": {
+    "Object Number": "43.98.13",
+    "Is Highlight": false,
+    "Is Timeline Work": true,
+    "Is Public Domain": true,
+    "Object ID": 436982,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1943.0,
+    "Object Name": "Painting",
+    "Title": "Saint Anthony of Padua",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16415.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Maso di Banco",
+    "Artist Display Bio": "Italian, Florence, active 1320–46",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Maso di Banco",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": "1320",
+    "Artist End Date": "1346",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500008558",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q514664",
+    "Object Date": "ca. 1340",
+    "Object Begin Date": 1335,
+    "Object End Date": 1345,
+    "Medium": "Tempera on wood, gold ground",
+    "Dimensions": "Arched top, 29 1/4 x 16 in. (74.3 x 40.6 cm)",
+    "Credit Line": "Maitland F. Griggs Collection, Bequest of Maitland F. Griggs, 1943",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/436982",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19911822",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Saint Anthony|Books|Men",
+    "Tags AAT URL": "http://vocab.getty.edu/page/ia/901001255|http://vocab.getty.edu/page/aat/300028051|http://vocab.getty.edu/page/aat/300025928",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q170547|https://www.wikidata.org/wiki/Q571|https://www.wikidata.org/wiki/Q8441"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-26938-001.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 164156,
+        "role": "Artist",
+        "name": "Maso di Banco",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500008558",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q514664",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 74.3,
+          "Width": 40.6
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Books",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300028051",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q571"
+      },
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Saint Anthony",
+        "AAT_URL": "http://vocab.getty.edu/page/ia/901001255",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q170547"
+      }
+    ]
+  }
+}

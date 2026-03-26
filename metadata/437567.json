@@ -1,0 +1,107 @@
+{
+  "object_id": 437567,
+  "excel_metadata": {
+    "Object Number": "33.79.1–12",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 437567,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1933.0,
+    "Object Name": "Painting, icons",
+    "Title": "Calendar of Saints and Festivals",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 10726.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Russian Painter",
+    "Artist Display Bio": "17th/18th century",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Russian Painter",
+    "Artist Nationality": "Russian",
+    "Artist Begin Date": "          ",
+    "Artist End Date": "          ",
+    "Artist Gender": NaN,
+    "Artist ULAN URL": NaN,
+    "Artist Wikidata URL": NaN,
+    "Object Date": NaN,
+    "Object Begin Date": 1600,
+    "Object End Date": 1799,
+    "Medium": "Tempera on wood, gold ground",
+    "Dimensions": "Each 12 3/8 x 10 1/4 in. (31.4 x 26 cm)",
+    "Credit Line": "Gift of Mrs. Henry Morgenthau, 1933",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/437567",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19913446",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Saints|Calendars",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300150555|http://vocab.getty.edu/page/aat/300026741",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q43115|https://www.wikidata.org/wiki/Q12132"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/EP484.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/ep/original/EP487.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/EP488.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/EP489.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/EP490.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/EP491.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/EP492.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/EP493.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/EP494.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/EP485.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/EP486.jpg",
+      "https://images.metmuseum.org/CRDImages/ep/original/EP573.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 107260,
+        "role": "Artist",
+        "name": "Russian Painter",
+        "constituentULAN_URL": "",
+        "constituentWikidata_URL": "",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 31.4,
+          "Width": 26
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Saints",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300150555",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q43115"
+      },
+      {
+        "term": "Calendars",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300026741",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q12132"
+      }
+    ]
+  }
+}

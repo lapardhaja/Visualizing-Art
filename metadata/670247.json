@@ -1,0 +1,81 @@
+{
+  "object_id": 670247,
+  "excel_metadata": {
+    "Object Number": "17.194.2353",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 670247,
+    "Gallery Number": null,
+    "Department": "Greek and Roman Art",
+    "AccessionYear": 1917,
+    "Object Name": "Beads, 25",
+    "Title": "Beads, 25",
+    "Culture": null,
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": null,
+    "Artist Role": null,
+    "Artist Prefix": null,
+    "Artist Display Name": null,
+    "Artist Display Bio": null,
+    "Artist Suffix": null,
+    "Artist Alpha Sort": null,
+    "Artist Nationality": null,
+    "Artist Begin Date": null,
+    "Artist End Date": null,
+    "Artist Gender": null,
+    "Artist ULAN URL": null,
+    "Artist Wikidata URL": null,
+    "Object Date": null,
+    "Object Begin Date": -7000,
+    "Object End Date": 330,
+    "Medium": "Glass",
+    "Dimensions": "Width (largest bead): 5/16 in. (0.8 cm)_x000D_\nWidth (smallest bead): 1/4 in. (0.6 cm)",
+    "Credit Line": "Gift of J. Pierpont Morgan, 1917",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Glass",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/670247",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": null,
+    "Tags AAT URL": null,
+    "Tags Wikidata URL": null
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/gr/original/LC-17_194_2353.jpg",
+    "additionalImages": [],
+    "constituents": null,
+    "measurements": [
+      {
+        "elementName": "Width",
+        "elementDescription": "largest bead",
+        "elementMeasurements": {
+          "Width": 0.81
+        }
+      },
+      {
+        "elementName": "Width",
+        "elementDescription": "smallest bead",
+        "elementMeasurements": {
+          "Width": 0.61
+        }
+      }
+    ],
+    "tags": null
+  }
+}

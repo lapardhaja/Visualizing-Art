@@ -1,0 +1,93 @@
+{
+  "object_id": 463936,
+  "excel_metadata": {
+    "Object Number": "16.32.7a, b",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 463936,
+    "Gallery Number": null,
+    "Department": "Medieval Art",
+    "AccessionYear": 1916,
+    "Object Name": "Double column",
+    "Title": "Double Column",
+    "Culture": "French",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": null,
+    "Artist Role": null,
+    "Artist Prefix": null,
+    "Artist Display Name": null,
+    "Artist Display Bio": null,
+    "Artist Suffix": null,
+    "Artist Alpha Sort": null,
+    "Artist Nationality": null,
+    "Artist Begin Date": null,
+    "Artist End Date": null,
+    "Artist Gender": null,
+    "Artist ULAN URL": null,
+    "Artist Wikidata URL": null,
+    "Object Date": "13th–14th century",
+    "Object Begin Date": 1200,
+    "Object End Date": 1399,
+    "Medium": "Marble",
+    "Dimensions": "Overall (a: Capital): 16 1/4 x 21 3/4 x 13 in. (41.3 x 55.2 x 33 cm)_x000D_\nOverall (b: Base): 8 7/8 x 19 1/4 x 10 1/2 in. (22.5 x 48.9 x 26.7 cm)",
+    "Credit Line": "Gift of J. Pierpont Morgan, 1916",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Sculpture-Architectural",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/463936",
+    "Object Wikidata URL": null,
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": null,
+    "Tags AAT URL": null,
+    "Tags Wikidata URL": null
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/md/original/cdi16-32-7a.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/md/original/cdi16-32-7as2.jpg",
+      "https://images.metmuseum.org/CRDImages/md/original/cdi16-32-7as3.jpg",
+      "https://images.metmuseum.org/CRDImages/md/original/cdi16-32-7as4.jpg",
+      "https://images.metmuseum.org/CRDImages/md/original/16_32_7b_cdi_s1.jpg",
+      "https://images.metmuseum.org/CRDImages/md/original/16_32_7b_cdi_s2.jpg",
+      "https://images.metmuseum.org/CRDImages/md/original/16_32_7b_cdi_s3.jpg",
+      "https://images.metmuseum.org/CRDImages/md/original/16_32_7b_cdi_s4.jpg"
+    ],
+    "constituents": null,
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": "b: Base",
+        "elementMeasurements": {
+          "Depth": 26.670053,
+          "Height": 22.542545,
+          "Width": 48.8951
+        }
+      },
+      {
+        "elementName": "Overall",
+        "elementDescription": "a: Capital",
+        "elementMeasurements": {
+          "Depth": 33.020065,
+          "Height": 41.27508,
+          "Width": 55.24511
+        }
+      }
+    ],
+    "tags": null
+  }
+}

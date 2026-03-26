@@ -1,0 +1,98 @@
+{
+  "object_id": 201885,
+  "excel_metadata": {
+    "Object Number": 56.26,
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 201885,
+    "Gallery Number": 534,
+    "Department": "European Sculpture and Decorative Arts",
+    "AccessionYear": 1956,
+    "Object Name": "Bust",
+    "Title": "Francesco Bocchetta",
+    "Culture": "Italian, Venice",
+    "Period": null,
+    "Dynasty": null,
+    "Reign": null,
+    "Portfolio": null,
+    "Constituent ID": 3339,
+    "Artist Role": "Artist",
+    "Artist Prefix": "Workshop of",
+    "Artist Display Name": "Alessandro Vittoria (Alessandro Vittoria di Vigilio della Volpa)",
+    "Artist Display Bio": "Italian, 1525–1608",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Vittoria Alessandro",
+    "Artist Nationality": "Italian",
+    "Artist Begin Date": 1525,
+    "Artist End Date": 1608,
+    "Artist Gender": null,
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500025294",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q1347426",
+    "Object Date": "ca. 1565–90",
+    "Object Begin Date": 1560,
+    "Object End Date": 1595,
+    "Medium": "Marble",
+    "Dimensions": "Height: 30 in. (76.2 cm)",
+    "Credit Line": "Harris Brisbane Dick Fund, 1956",
+    "Geography Type": null,
+    "City": null,
+    "State": null,
+    "County": null,
+    "Country": null,
+    "Region": null,
+    "Subregion": null,
+    "Locale": null,
+    "Locus": null,
+    "Excavation": null,
+    "River": null,
+    "Classification": "Sculpture",
+    "Rights and Reproduction": null,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/201885",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q116374052",
+    "Metadata Date": null,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Men|Portraits",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300025928|http://vocab.getty.edu/page/aat/300015637",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q8441|https://www.wikidata.org/wiki/Q134307"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/160496.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/es/original/160498.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/160497.jpg",
+      "https://images.metmuseum.org/CRDImages/es/original/160499.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 33391,
+        "role": "Artist",
+        "name": "Workshop of Alessandro Vittoria (Alessandro Vittoria di Vigilio della Volpa)",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500025294",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q1347426",
+        "gender": ""
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Height",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 76.20015
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Portraits",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300015637",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q134307"
+      }
+    ]
+  }
+}

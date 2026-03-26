@@ -1,0 +1,90 @@
+{
+  "object_id": 435704,
+  "excel_metadata": {
+    "Object Number": "87.15.77",
+    "Is Highlight": false,
+    "Is Timeline Work": false,
+    "Is Public Domain": true,
+    "Object ID": 435704,
+    "Gallery Number": NaN,
+    "Department": "European Paintings",
+    "AccessionYear": 1887.0,
+    "Object Name": "Painting",
+    "Title": "A Limier Briquet Hound",
+    "Culture": NaN,
+    "Period": NaN,
+    "Dynasty": NaN,
+    "Reign": NaN,
+    "Portfolio": NaN,
+    "Constituent ID": 16169.0,
+    "Artist Role": "Artist",
+    "Artist Prefix": " ",
+    "Artist Display Name": "Rosa Bonheur",
+    "Artist Display Bio": "French, Bordeaux 1822–1899 Thomery",
+    "Artist Suffix": " ",
+    "Artist Alpha Sort": "Bonheur, Rosa",
+    "Artist Nationality": "French",
+    "Artist Begin Date": "1822",
+    "Artist End Date": "1899",
+    "Artist Gender": "Female",
+    "Artist ULAN URL": "http://vocab.getty.edu/page/ulan/500014964",
+    "Artist Wikidata URL": "https://www.wikidata.org/wiki/Q241732",
+    "Object Date": "ca. 1856",
+    "Object Begin Date": 1856,
+    "Object End Date": 1856,
+    "Medium": "Oil on canvas",
+    "Dimensions": "14 1/2 x 18 in. (36.8 x 45.7 cm)",
+    "Credit Line": "Catharine Lorillard Wolfe Collection, Bequest of Catharine Lorillard Wolfe, 1887",
+    "Geography Type": NaN,
+    "City": NaN,
+    "State": NaN,
+    "County": NaN,
+    "Country": NaN,
+    "Region": NaN,
+    "Subregion": NaN,
+    "Locale": NaN,
+    "Locus": NaN,
+    "Excavation": NaN,
+    "River": NaN,
+    "Classification": "Paintings",
+    "Rights and Reproduction": NaN,
+    "Link Resource": "http://www.metmuseum.org/art/collection/search/435704",
+    "Object Wikidata URL": "https://www.wikidata.org/wiki/Q19911960",
+    "Metadata Date": NaN,
+    "Repository": "Metropolitan Museum of Art, New York, NY",
+    "Tags": "Dogs",
+    "Tags AAT URL": "http://vocab.getty.edu/page/aat/300265714",
+    "Tags Wikidata URL": "https://www.wikidata.org/wiki/Q144"
+  },
+  "api_metadata": {
+    "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP123961.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 161695,
+        "role": "Artist",
+        "name": "Rosa Bonheur",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500014964",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q241732",
+        "gender": "Female"
+      }
+    ],
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 36.8,
+          "Width": 45.7
+        }
+      }
+    ],
+    "tags": [
+      {
+        "term": "Dogs",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300265714",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q144"
+      }
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+2025-11-19 11:43:24,127 - INFO - Checking for missing dependencies...
+2025-11-19 11:43:33,977 - INFO - [OK] All required packages are already installed
+2025-11-19 11:43:33,978 - INFO - Starting Enhanced CLIP Artwork Embeddings Pipeline
+2025-11-19 11:43:33,978 - INFO - Configuration:
+2025-11-19 11:43:33,979 - INFO -   Unknown handling: zero_vector
+2025-11-19 11:43:33,979 - INFO -   Visual weight: 1.0
+2025-11-19 11:43:33,980 - INFO -   Metadata weight: 0.5
+2025-11-19 11:43:33,980 - INFO - Step 0: Downloading images and metadata from Met Museum API
+2025-11-19 11:43:33,983 - ERROR - Failed to download images: No data files found in data folder
+2025-11-19 11:43:33,983 - ERROR - You can skip this step with --skip-download if images are already available
+2025-11-19 11:43:33,984 - ERROR - Pipeline failed with error: No data files found in data folder
